@@ -28,8 +28,7 @@ across in everyday life were a mystery to me and I thought it normal that they w
  but found it wasn’t smooth sailing from there. The biggest principles in robotic design and function were lost on me. When I looked at a mechanism it remained in its crudest form; the details 
  and nuances of its purpose were a mystery. I was frustrated but continued to look time and time again, hoping to see beyond the surface. I didn’t give up and after some time, like a foreign language, 
  words that were just sounds began to have meaning. I began to understand them and the power they held when they came together. I learned to be observant, pay attention to detail, 
- and that the simplest components can play incredibly important roles in the overall function of a mechanism. This transformation was incredible. I started to look at everything 
- around me in a different way. Looking back, I often say robotics engineering allowed me to see the world in a way I never thought possible. It has given me incredible insight; 
+ and that the simplest components can play incredibly important roles in the overall function of a mechanism. Looking back, I often say robotics engineering allowed me to see the world in a way I never thought possible. It has given me incredible insight; 
  “figurative glasses” to help me see just like my physical ones do.
 
 **The Future**
