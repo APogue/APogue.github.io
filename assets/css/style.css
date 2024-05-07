@@ -82,3 +82,15 @@ figcaption {
     color: #666; /* Grey text color for the caption */
     font-style: italic; /* Italicize the caption text */
 }
+
+.blog-list a {
+    color: #333; /* Dark gray color for the text */
+    font-weight: bold; /* Makes the text bold */
+    text-decoration: none; /* Removes the underline from links */
+    font-size: 18px; /* Sets a larger font size for visibility */
+}
+
+.blog-list a:hover {
+    color: #0056b3; /* Changes color on hover for a visual effect */
+    text-decoration: underline; /* Adds an underline on hover */
+}
