@@ -33,6 +33,8 @@ from one group, should not preclude the objectives of another group.
     <img src="/images/2024-05-08/green3_3.png" alt="Alt Text">
 </div>
 
+[Source-20/56](https://www.reddit.com/r/ucla/comments/1ck66g9/disc_how_do_you_expect_jews_to_act_on_campus/)
+
 <div class="image-column">
     <img src="/images/2024-05-08/Cay_Mang.png" alt="Alt Text">
     <img src="/images/2024-05-08/BurgersAndRootbeer.png" alt="Alt Text">
