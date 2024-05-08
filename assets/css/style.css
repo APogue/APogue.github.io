@@ -73,7 +73,7 @@ nav a:hover {
 }
 
 figure {
-    max-width: 300px; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
+    max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
     margin: auto; /* Centers the figure */
     text-align: center; /* Centers the text caption */
 }
@@ -81,6 +81,27 @@ figure {
 figcaption {
     color: #666; /* Grey text color for the caption */
     font-style: italic; /* Italicize the caption text */
+}
+
+.centered-image {
+    display: block;
+    margin: auto;
+    max-width: 100%; /* Responsive, or you can set a fixed max-width like 300px */
+}
+
+.image-column {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start; /* Align items at the start of the flex line */
+}
+
+.image-column img {
+     /* Adjust width for spacing and preference */
+	width: auto;
+	height: auto; 
+	max-width: 100%;
+	max-height: 100%; 
 }
 
 .blog-list a {
