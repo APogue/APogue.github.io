@@ -29,9 +29,12 @@ date: 2024-05-20
 ## Title VI <span id="Title VI"></span>
 And some words go here
 <video width="100%" controls>
-  <source src="{{ site.baseurl }}/assets/videos/title-IX-training.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/assets/videos/output.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/assets/videos/output.webm" type="video/webm">
+  <source src="{{ site.baseurl }}/assets/videos/output.ogv" type="video/ogg">
   Your browser does not support the video tag.
 </video>
+
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
 
