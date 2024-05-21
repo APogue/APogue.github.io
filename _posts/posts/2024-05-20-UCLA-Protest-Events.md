@@ -27,6 +27,7 @@ date: 2024-05-20
 {% include sections/student-reactions.md %}
 
 ## Title VI <span id="Title VI"></span>
+And some words go here
 <video width="100%" controls>
   <source src="{{ site.baseurl }}/assets/videos/title-IX-training.mp4" type="video/mp4">
   Your browser does not support the video tag.
