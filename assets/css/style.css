@@ -115,3 +115,12 @@ figcaption {
     color: #0056b3; /* Changes color on hover for a visual effect */
     text-decoration: underline; /* Adds an underline on hover */
 }
+
+/* Custom styles for specific headers */
+h2.custom-section-header {
+    font-size: 1.5em;
+    color: #0056b3;
+    margin-top: 20px;
+    border-bottom: 2px solid #0056b3;
+    text-align: left; /* Custom alignment if needed */
+}
