@@ -15,13 +15,16 @@ date: 2024-05-20
 
 ## Protest Events <span id="Protest Events"></span>
 
-
+## Timeline {#timeline}
+{: .custom-section-header}
 {% include sections/timeline.md %}
+
 ## University Support and Messaging  <span id="University Support and Messaging"></span>
 
 
 ## Student Reactions <span id="Student Reactions"></span>
 
+{% include sections/student-reactions.md %}
 
 ## Title VI <span id="Title VI"></span>
 

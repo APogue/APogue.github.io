@@ -1,5 +1,4 @@
-## Timeline {#timeline}
-{: .custom-section-header}
+
 
 #### 4/25
 - "By 8:30 p.m., around 30 of the counter-protesters remained, with a dozen of them encircled by members of the encampment. Around 9 p.m., following aggressive interactions between encampment participants and counter-protesters, a pro-Palestine protester was carried away from Dickson Plaza with a heavily bandaged ankle. Most of the counter-protesters dispersed by 10 p.m."[^1]

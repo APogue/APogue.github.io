@@ -94,6 +94,7 @@ figcaption {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: flex-start; /* Align items at the start of the flex line */
+	margin-bottom: 20px; /* Add space to the bottom of each image */
 }
 
 .image-column img {
@@ -102,6 +103,7 @@ figcaption {
 	height: auto; 
 	max-width: 100%;
 	max-height: 100%; 
+	margin-bottom: 20px; /
 }
 
 .blog-list a {
@@ -117,21 +119,11 @@ figcaption {
 }
 
 /* Custom styles for specific headers */
-h2.timeline-section-header {
+h2.custom-section-header {
     font-size: 1.5em;
-    color: #0056b3;
+    color: 2px solid #666666; /* Lighter grey color */
     margin-top: 20px;
-    border-bottom: 2px solid #0056b3;
+    border-bottom: 2px solid #666666;
     text-align: left; /* Custom alignment if needed */
 }
 
-/* Custom styles for specific headers */
-h2.custom-section-header {
-    font-family: 'Arial', sans serif; /* Nice font */
-    font-size: 1.5em;
-    color: #666666; /* Lighter grey color */
-    margin-top: 20px;
-    margin-bottom: 10px;
-    text-align: left; /* Custom alignment if needed */
-    font-weight: bold; /* Optional: makes the header bold */
-}
