@@ -1,0 +1,9 @@
+
+
+/* assets/css/footnotes.css */
+.highlight {
+  background-color: #b2ffb2; /* Pale Green */
+  border-radius: 5px; /* Rounded edges */
+  transition: background-color 0.5s ease;
+  padding: 0 2px; /* Optional: Adds a little padding inside the highlight */
+}

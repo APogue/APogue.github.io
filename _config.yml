@@ -4,8 +4,5 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 permalink: pretty
 
-kramdown:
-  input: GFM
-  footnote_nr: 1
-  entity_output: as_char
-  footnote_backlink: "&#8617;&#xfe0e;"
+
+

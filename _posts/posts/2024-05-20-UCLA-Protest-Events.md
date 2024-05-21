@@ -1,6 +1,6 @@
 ---
 layout: article_layout
-title: "Scraped the internet"
+title: "UCLA Protest Events"
 date: 2024-05-20
 ---
 
@@ -15,9 +15,6 @@ date: 2024-05-20
 
 {% include sections/timeline.md %}
 
-## University Support and Messaging
-<span id="University Support and Messaging"></span>
-
 ## Student Reactions
 <span id="Student Reactions"></span>
 
@@ -28,9 +25,7 @@ date: 2024-05-20
 <span id="Supplimentary Information"></span>
 Responsive materials have been used to generate structures with built-in complex geometries...
 
-## References 
-<span id="References"></span>
-
+## References
 [^1]: [Counter-protesters demonstrate against pro-Palestine encampment](https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment)
 [^2]: [Pro-Palestine encampment, counter-protester activity continues overnight to day 2](https://dailybruin.com/2024/04/26/pro-palestine-encampment-counter-protester-activity-continues-overnight-to-day-2)
 [^3]: [UCLA statement about encampment on campus April 26](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26)
@@ -56,7 +51,6 @@ Responsive materials have been used to generate structures with built-in complex
 [^23]: [Chancellor Block claims unsafe university conditions led to encampment closure](https://dailybruin.com/2024/05/02/chancellor-block-claims-unsafe-university-conditions-led-to-encampment-closure)
 [^24]: [Chancellor Gene Block announces Office of Campus Safety](https://dailybruin.com/2024/05/05/chancellor-gene-block-announces-office-of-campus-safety)
 [^25]: [UCLA Chancellor email announcement](https://ucla.in/3M7DUXb)
-
 
 
 <!-- Add more sections as needed -->
