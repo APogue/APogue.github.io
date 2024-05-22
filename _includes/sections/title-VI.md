@@ -51,7 +51,7 @@ the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 
 
 <figure id="fig:dpo-investigations-title-ix">
   <a href="https://equity.ucla.edu/accountability/#par">
-    <img src="/images/2024-05-20/policy/dpo-investigations-title-ix.png" 
+    <img src="/images/2024-05-20/policy/dpo-investigations-title-9.png" 
      alt="Accountability Title IX" style="width: 80%; height: auto;">
   </a>
   <figcaption>
