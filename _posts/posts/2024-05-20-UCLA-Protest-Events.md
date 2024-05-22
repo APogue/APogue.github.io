@@ -14,7 +14,8 @@ date: 2024-05-20
 
 
 ## Protest Events <span id="Protest Events"></span>
-
+{: .custom-section-header}
+{% include sections/protest-events.md %}
 
 
 ## University Support and Messaging  <span id="University Support and Messaging"></span>
@@ -34,6 +35,7 @@ date: 2024-05-20
 {% include sections/title-VI.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
+
 ## Timeline (extended)
 {: .custom-section-header}
 {% include sections/timeline.md %}

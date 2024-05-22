@@ -46,7 +46,7 @@ investigated the incidents of harassment and assault thoroughly, without policy 
 
 Taking for example, the most recent public accountability reports from UCLA, between July of 2020 and June of 2021 there were 1,363 reports of prohibited conduct reported to the Title IX office. Over the same time period, there were 255 reports of prohibited conduct 
 to the DPO. That is a significantly lower number, which could very well be due to falsely equating the circumstances surrounding such reports. Or would it be so far-fetched to assume that these 255 allegations were “extreme”, due to a complete lack of understanding of 
-the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 2](#fig:dpo-investigations-title-vi)) ([Fig. 3](#fig:dpo-investigations-title-ix))
+the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 2](#fig:dpo-investigations-title-ix)) ([Fig. 3](#fig:dpo-investigations-title-vi))
 
 
 <figure id="fig:dpo-investigations-title-ix">
@@ -65,7 +65,7 @@ the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 
      alt="DPO Accountability Title VI" style="width: 80%; height: auto;">
   </a>
   <figcaption>
-    Figure 28: Accuntability Title VI
+    Figure 28: Accountability Title VI
   </figcaption>
 </figure>
 
