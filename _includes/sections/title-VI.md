@@ -48,8 +48,8 @@ Taking for example, the most recent public accountability reports from UCLA, bet
 to the DPO. That is a significantly lower number, which could very well be due to falsely equating the circumstances surrounding such reports. Or would it be so far-fetched to assume that these 255 allegations were “extreme”, due to a complete lack of understanding of 
 the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 2](#fig:dpo-investigations-title-vi)) ([Fig. 3](#fig:dpo-investigations-title-ix))
 
-fig:dpo-investigations-title-ix
-<figure id="fig:dpo-investigations-title-vi">
+
+<figure id="fig:dpo-investigations-title-ix">
   <a href="https://equity.ucla.edu/accountability/#par">
     <img src="/images/2024-05-20/policy/dpo-investigations-title-ix.png" 
      alt="DPO Investigations Title VI" style="width: 80%; height: auto;">
