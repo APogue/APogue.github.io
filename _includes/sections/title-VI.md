@@ -19,7 +19,7 @@ Schools must take immediate and appropriate action to respond to harassment that
 so as to interfere with or limit the ability of an individual to participate in or benefit from the services, activities, or privileges provided by a school.
 
 If a hostile environment based on shared ancestry existed, and the school knew or should have known of the hostile environment, OCR will evaluate whether the school met its obligation under Title VI to take prompt and effective steps reasonably calculated to 
-end the harassment, eliminate any hostile environment and its effects, and prevent harassment from recurring. In other words, a school violates Title VI when it fails to take adequate steps to address discriminatory harassment, such as antisemitic harassment.” 
+end the harassment, eliminate any hostile environment and its effects, and prevent harassment from recurring. In other words, a school violates Title VI when it fails to take adequate steps to address discriminatory harassment, such as antisemitic harassment.”[^40]
 
 Basically, the letter is defining harassment, stating that schools should take it upon themselves to sufficiently stop it, and if they don’t, “OCR will evaluate whether the school met its obligation under Title VI”. Looking at “Protecting Students from 
 Discrimination based on Shared Ancestry or Ethnic Characteristics” ([Figure 1](#fig:doe-ocr-pamphlet)) the document runs through stereotypical racist tropes, finally offering a couple obvious, specific examples and how to file a complaint. It seems the oversight for Title VI rests mainly 
@@ -28,7 +28,7 @@ The investigation is part of a broader Title VI inquiry announced by U.S. Secret
 characteristics.” [^34] 
 
 <figure id="fig:doe-ocr-pamphlet">
-  <a href="https://www2.ed.gov/about/offices/list/ocr/docs/antisemitism-dcl.pdf">
+  <a href="https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-shared-ancestry-202301.pdf">
     <img src="/images/2024-05-20/policy/doe-ocr-pamphlet.png" 
      alt="DOE OCR Pamphlet" style="width: 80%; height: auto;">
   </a>
@@ -52,7 +52,7 @@ the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 
 <figure id="fig:dpo-investigations-title-ix">
   <a href="https://equity.ucla.edu/accountability/#par">
     <img src="/images/2024-05-20/policy/dpo-investigations-title-ix.png" 
-     alt="DPO Investigations Title VI" style="width: 80%; height: auto;">
+     alt="Accountability Title IX" style="width: 80%; height: auto;">
   </a>
   <figcaption>
     Figure 27: accountability Title IX
@@ -62,7 +62,7 @@ the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 
 <figure id="fig:dpo-investigations-title-vi">
   <a href="https://ucla.app.box.com/s/eyri3lej5htfl7uwkv7huhp9o8y3revo">
     <img src="/images/2024-05-20/policy/dpo-investigations-title-vi.png" 
-     alt="DPO Investigations Title VI" style="width: 80%; height: auto;">
+     alt="DPO Accountability Title VI" style="width: 80%; height: auto;">
   </a>
   <figcaption>
     Figure 28: Accuntability Title VI
@@ -87,3 +87,4 @@ it would be fair to say that everyone would benefit from Title VI support and ed
 [^37]: [CNN, October 29, 2023](https://www.cnn.com/2023/10/29/us/hate-crimes-antisemitism-anti-muslim-dg/index.html)
 [^38]: [CU Anschutz, Pandemic and Social Media](https://news.cuanschutz.edu/medicine/how-the-pandemic-changed-childrens-relationships-with-social-media)
 [^39]: [Reddit, Racism at UCLA](https://www.reddit.com/r/ucla/comments/1b2xevw/black_bruins_have_you_experienced_racism_from/)
+[^40]: [OCR Dear Colleague Letter](https://www2.ed.gov/about/offices/list/ocr/docs/antisemitism-dcl.pdf)
