@@ -29,7 +29,9 @@ date: 2024-05-20
 ## Title IX 
 {: .custom-section-header}
 {% include sections/title-IX.md %}
-
+## Title VI 
+{: .custom-section-header}
+{% include sections/title-VI.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
 ## Timeline (extended)
