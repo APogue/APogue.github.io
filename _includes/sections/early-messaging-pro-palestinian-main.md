@@ -1,10 +1,8 @@
-
-##### USAC Cultural Affairs Commission
-
 Among the main contributors to the "Pro-Palestinian" protest movement are Students for Justice in Palestine (SJP at UCLA), 
 the UC Divest Coalition[^44], and Faculty for Justice in Palestine. These groups have led the way in messaging and demands, 
 and have received support from students, faculty, the UAW and other student organizations.
- 
+##### USAC Cultural Affairs Commission (CAC)
+
 One organization that has joined in strong support of the movement is the UCLA Cultural Affairs Commission (CAC)[^45]. 
 The org's messaging on their UCLA hosted webpage is somewhat benign ([Figure 1](##fig:cac-org-website)), stating 
 "The mission of the Cultural Affairs Commission (CAC) is to put on quality programming with cultural, political, or 
@@ -62,9 +60,9 @@ could be referencing any targeted group for Nazi hate, but is made to be red in 
 who is running for reelection , was in attendance and did not  respond to requests for comment…It is unclear if funds from USAC offices are being used to fund resources at the demonstration, but the 
 text “PAID FOR BY USAC” is visible on the Cultural Affairs Commission tent.”[^48] Other USAC candidates and officials have expressed solidarity with either the protests or counter-protests, but 
 weren't necessarily in attendance on official student gov't business[^48]. [Figure 8](##fig:cac-tent-propaganda-4) shows the tent's proximity to the sign. [Figure 9](##fig:cac-nakba-day) shows a more recent post 
-again displaying the triangle. It seems despite the fact that this imagery has been pointed out and commented on in the Daily Bruin, no one is paying attention closely enough. 
+again displaying the triangle. It seems despite the fact that this imagery has been pointed out and commented on in the Daily Bruin (more on this later), no one is paying attention closely enough. 
  
-It is the author's opinion that based on their USAC affiliation, CAC should not have any content on any of their public facing sites they aren't willing to post on their UCLA hosted site. Their 
+It is the author's opinion that based on their USAC affiliation, CAC should not have any content on any of their public facing sites that they aren't willing to post on their UCLA hosted site. Their 
 content directly contradicts their mission *to be accessible to all students*. To the best of the author's knowledge, no other organization, USAC-affiliate or not, has any content displaying Nazi insignia or hateful imagery. 
 Other groups are "tagged" by CAC as can be seen in a few of the above screenshots, which does mean the content is also displayed on their Instagram profiles. 
 
@@ -92,7 +90,7 @@ the knowledge on Arab and Muslim communities by omitting an Arab studies departm
 but with no alternative messaging they are able to control the conversation. 
 
 [Figures 13](##fig:sjp-insta-letter-regents-1) and [14](##fig:sjp-insta-letter-regents-2) show SJP’s grievances with the UC Regents regarding rhetoric surrounding the Gaza conflict. There’s no language showing support of Hamas, but 
-SJP stays focused on the “plight of the Palestinian people” in this post despite its timiing with respect to Oct 7th. Here they write what will eventually become the protest demands for the pro-Palestinian movement at UCLA. 
+SJP stays focused on the “plight of the Palestinian people” in this post despite its timing with respect to Oct 7th. Here they write what will eventually become the protest demands for the pro-Palestinian movement at UCLA. 
     
 <figure id="fig:sjp-reddit">
   <a href="placeholder">
@@ -106,7 +104,6 @@ SJP stays focused on the “plight of the Palestinian people” in this post des
 	
 [15](##fig:sjp-reddit) shows a reddit post from approximately October alleging that SJP referred to the events of Oct 7th as the "Al-Aqsa" flood. Whether this post is in fact an SJP post is unverified by the author because there is no 
 such post on the SJP Instagram profile page. It could be that it has since been deleted. If this is in fact an SJP post, it is clear that their views with respect to Hamas and Oct 7th are not "moderate". 
-
 
 [^44]:[UC Divest at UCLA Instagram](https://www.instagram.com/ucladivest/)
 [^45]:[CAC official UCLA website](https://community.ucla.edu/studentorg/623)
