@@ -22,7 +22,7 @@ If a hostile environment based on shared ancestry existed, and the school knew o
 end the harassment, eliminate any hostile environment and its effects, and prevent harassment from recurring. In other words, a school violates Title VI when it fails to take adequate steps to address discriminatory harassment, such as antisemitic harassment.”[^40]
 
 Basically, the letter is defining harassment, stating that schools should take it upon themselves to sufficiently stop it, and if they don’t, “OCR will evaluate whether the school met its obligation under Title VI”. Looking at “Protecting Students from 
-Discrimination based on Shared Ancestry or Ethnic Characteristics” ([Figure 1](#fig:doe-ocr-pamphlet)) the document runs through stereotypical racist tropes, finally offering a couple obvious, specific examples and how to file a complaint. It seems the oversight for Title VI rests mainly 
+Discrimination based on Shared Ancestry or Ethnic Characteristics” ([Figure 1](##fig:doe-ocr-pamphlet)) the document runs through stereotypical racist tropes, finally offering a couple obvious, specific examples and how to file a complaint. It seems the oversight for Title VI rests mainly 
 on suggestions and a complaint box. So, the above letter was written in May of 2023, in December of 2023 “The United States Department of Education’s Office for Civil Rights announced an investigation Monday into antisemitic and Islamophobic activities on UCLA’s campus. 
 The investigation is part of a broader Title VI inquiry announced by U.S. Secretary of Education Miguel Cardona in November, investigating universities and K-12 schools for discrimination based on “shared ancestry,” which is harassment based on someone’s ancestry or ethnic
 characteristics.” [^34] 
@@ -46,7 +46,7 @@ investigated the incidents of harassment and assault thoroughly, without policy 
 
 Taking for example, the most recent public accountability reports from UCLA, between July of 2020 and June of 2021 there were 1,363 reports of prohibited conduct reported to the Title IX office. Over the same time period, there were 255 reports of prohibited conduct 
 to the DPO. That is a significantly lower number, which could very well be due to falsely equating the circumstances surrounding such reports. Or would it be so far-fetched to assume that these 255 allegations were “extreme”, due to a complete lack of understanding of 
-the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 2](#fig:dpo-investigations-title-ix)) ([Fig. 3](#fig:dpo-investigations-title-vi))
+the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 2](##fig:dpo-investigations-title-ix)) ([Fig. 3](##fig:dpo-investigations-title-vi))
 
 
 <figure id="fig:dpo-investigations-title-ix">
@@ -77,7 +77,17 @@ The bottom line is, OCR seeks to prevent repeated, pervasive, prohibited conduct
 can only stop something from repeating and becoming pervasive if you nip it in the bud. Which means students must be adequately trained in proper Title VI code of conduct. 
 
 This is especially important now, given the rise in antisemitic and anti-Muslim and anti-Arab incidents nationwide since 2016 and more recently the events of Oct 7th [^37]. But given how the pandemic and social media have affected rates of anxiety and depression in young adults, 
-it would be fair to say that everyone would benefit from Title VI support and education[^38]. This is especially true of students who are underrepresented at the university [^39].
+it would be fair to say that everyone would benefit from Title VI support and education[^38]. This is especially true of students who are underrepresented at the university ([Figure](##fig:reddit-black-bruins-2))[^39].
+
+<figure id="fig:reddit-black-bruins-2">
+  <a href="LINK_PLACEHOLDER">
+    <img src="\images\2024-05-20\policy\reddit-black-bruins-2.png" 
+     alt="Graffiti on Royce Hall" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 35: A Bruin comments on passive aggressive racism at UCLA
+  </figcaption>
+</figure>
 
 [^32]: [Title VI](https://uscode.house.gov/view.xhtml?req=(title:42%20section:2000d%20edition:prelim)%20OR%20(granuleid:USC-prelim-title42-section2000d)&f=treesort&num=0&edition=prelim)
 [^33]: [Title VI Prohibits Discrimination](https://www2.ed.gov/about/offices/list/ocr/docs/hq43e4.html#:~:text=Title%20VI%20of%20the%20Civil%20Rights%20Act%20of%201964%20prohibits,that%20receive%20federal%20financial%20assistance.)
