@@ -1,20 +1,206 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+/* Header styling */
+header {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 10px 0; /* Top and bottom padding */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Adds a subtle shadow */
+    text-align: center; /* Ensures the title is centered */
+}
+
+h1 {
+    margin: 0;
+    color: #333; /* Dark grey color for the text */
+}
+
+/* Footer styling */
+footer {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Main content styling */
+main {
+    margin-top: 20px;
+}
+
+main h1 {
+    text-align: center; /* Centers only the h1 title */
+}
+
+main p {
+    text-align: left; /* Left-aligns paragraphs */
+}
+
+/* Resetting some default styles */
+ul {
+    list-style: none; /* Removes bullets */
+    padding: 0;
+    margin: 0;
+}
+
+/* Navigation styling */
+nav {
+    text-align: center; /* Centers the navigation links */
+}
+
+nav ul {
+    display: inline-block; /* Aligns the list horizontally */
+}
+
+nav li {
+    display: inline; /* List items inline */
+    margin-right: 20px; /* Adds space between the links */
+}
+
+nav li:last-child {
+    margin-right: 0; /* Removes margin from the last item */
+}
+
+nav a {
+    text-decoration: none; /* Removes underline from links */
+    font-weight: bold; /* Makes text bold */
+    color: #333; /* Dark gray color for the text */
+    padding: 10px 15px; /* Adds padding around the links for better clickability */
+}
+
+nav a:hover {
+    color: #0056b3; /* Changes color on hover */
+    background-color: #f8f9fa; /* Light background on hover */
+}
+
+/* Figure and image styling */
+figure, .tabcontent figure {
+    max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
+    margin: auto; /* Centers the figure */
+    text-align: center; /* Centers the text caption */
+}
+
+figcaption, .tabcontent figcaption {
+    color: #666; /* Grey text color for the caption */
+    font-style: italic; /* Italicize the caption text */
+}
+
+.centered-image, .tabcontent .centered-image {
+    display: block;
+    margin: auto;
+    max-width: 100%; /* Responsive, or you can set a fixed max-width like 300px */
+}
+
+.image-column, .tabcontent .image-column {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start; /* Align items at the start of the flex line */
+    margin-bottom: 20px; /* Add space to the bottom of each image */
+}
+
+.image-column img, .tabcontent .image-column img {
+    width: auto;
+    height: auto; 
+    max-width: 100%;
+    max-height: 100%; 
+    margin-bottom: 20px; /* Add space to the bottom of each image */
+}
+
+/* Blog list styling */
+.blog-list a, .tabcontent .blog-list a {
+    color: #333; /* Dark gray color for the text */
+    font-weight: bold; /* Makes the text bold */
+    text-decoration: none; /* Removes the underline from links */
+    font-size: 18px; /* Sets a larger font size for visibility */
+}
+
+.blog-list a:hover, .tabcontent .blog-list a:hover {
+    color: #0056b3; /* Changes color on hover for a visual effect */
+    text-decoration: underline; /* Adds an underline on hover */
+}
+
+/* Custom styles for specific headers */
+h2.custom-section-header, .tabcontent h2.custom-section-header {
+    font-size: 1.5em;
+    color: #666666; /* Lighter grey color */
+    margin-top: 20px;
+    border-bottom: 2px solid #666666;
+    text-align: left; /* Custom alignment if needed */
+}
+
+/* Sidebar styling */
 .sidebar {
-  position: -webkit-sticky; /* For Safari */
-  position: sticky;
-  top: 20px;
-  margin-top: 20px;
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 20px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 0; /* Remove padding to make it more seamless */
+    border: none; /* Remove border to avoid double framing */
+    border-radius: 5px;
+    max-height: 80vh; /* Adjust based on your requirement */
+    overflow-y: auto; /* Make sidebar scrollable */
 }
 
-.nav-link {
-  padding: 10px 15px;
-  margin-bottom: 10px;
-  background-color: #f8f9fa;
-  border: 1px solid #dee2e6;
-  border-radius: 5px;
-  text-decoration: none;
-  color: #007bff;
+/* Tabs container */
+.tab-container {
+    width: 100%;
+    background: #ffffff;
 }
 
-.nav-link:hover {
-  background-color: #e9ecef;
+/* Tabs styling */
+.tabs {
+    display: flex;
+    background: #ffffff;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.tabs button {
+    background-color: #f8f9fa;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: 0.3s;
+    font-size: 16px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.tabs button:hover {
+    background-color: #e9ecef;
+}
+
+.tabs button.active {
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+/* Tab content styling */
+.tabcontent {
+    display: none;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+    max-height: 90vh; /* Adjust based on your requirement */
+    overflow-y: auto; /* Make content scrollable */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+.tabcontent h2 {
+    margin-top: 0;
+}
+
+/* Specific styling for TOC and Figures tabs */
+#toc {
+    padding: 10px;
+}
+
+#figures {
+    padding: 10px;
 }

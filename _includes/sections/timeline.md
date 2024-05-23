@@ -62,12 +62,9 @@
 
 - "At the end of the statement, Block encouraged campus community members to report instances of discrimination to UCLA's Civil Rights Office and to call UCPD if they feel in danger."[^13]
 
-#### 5/1
 - "Fireworks, tear gas and fights broke out just after 10:50 p.m. Tuesday night and continued early Wednesday morning as around 100 pro-Israel counter-protesters attempted to seize the barricade around and storm the ongoing Palestine solidarity encampment in Dickson Plaza."[^14]
 
-- "At around 10:50 p.m., counter-protest
-
-ers – who had been gathering around the encampment since that afternoon – began wrestling with protesters inside and CSC security hired by UCLA over the metal barricades surrounding the Gaza solidarity encampment. The barriers came down shortly afterward, and counter-protesters wearing masks then began shoving the wooden boards surrounding the encampment, attempting to topple them onto the protesters inside."[^14]
+- "At around 10:50 p.m., counter-protesters – who had been gathering around the encampment since that afternoon – began wrestling with protesters inside and CSC security hired by UCLA over the metal barricades surrounding the Gaza solidarity encampment. The barriers came down shortly afterward, and counter-protesters wearing masks then began shoving the wooden boards surrounding the encampment, attempting to topple them onto the protesters inside."[^14]
 
 - "The UC Divest spokesperson also said that as of midnight, they had not seen or heard from any police on site. LAPD did not respond to a request for comment, and UCPD said it was not able to offer comment because all officers were tied up dealing with protesters."[^14]
 
