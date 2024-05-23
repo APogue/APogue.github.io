@@ -28,16 +28,6 @@
   </figcaption>
 </figure>
 
-<figure id="fig:CAC-block-resign">
-  <a href="https://www.instagram.com/p/C6sht0ROgJk/">
-    <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" 
-     alt="CAC Block Resignation" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 4: Demands Gene Block Resign
-  </figcaption>
-</figure>
-
 <figure id="fig:cac-tent-propoganda-1">
   <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=2">
     <img src="/images/2024-05-20/early-messaging/sjpandcac2.png" 
@@ -45,16 +35,6 @@
   </a>
   <figcaption>
     Figure 5: CAC Instagram post shows closeup propaganda poster with Nazi classification triangle
-  </figcaption>
-</figure>
-
-<figure id="fig:cac-tent-propoganda-2">
-  <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=2">
-    <img src="/images/2024-05-20/early-messaging/sjpandcac2-closeup.png" 
-     alt="CAC Instagram post part 2" style="width: 70%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 6: Closeup of CAC Instagram post showing Nazi classification triangle
   </figcaption>
 </figure>
 
@@ -108,15 +88,6 @@
   </figcaption>
 </figure>
 
-<figure id="fig:sjp-insta-teach-in">
-  <a href="https://www.instagram.com/p/CyMXtjEy11s/?hl=en">
-    <img src="/images/2024-05-20/early-messaging/sjp-teach-in.png" 
-     alt="SJP Instagram post regarding Oct 7th events" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 12: SJP teach-in after the events of Oct 7th
-  </figcaption>
-</figure>
 
 <figure id="fig:sjp-insta-letter-regents-1">
   <a href="https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=2">

@@ -9,23 +9,11 @@ date: 2024-05-20
 ## Pro-Palestinian
 {: .custom-section-header}
 
+{% include sections/early-messaging-pro-palestinian-main.md %}
 
 ### Figures List with Double Hash
 
-1. [Figure 1](##fig:cac-org-website)
-2. [Figure 2](##fig:cac-instagram-post-1)
-3. [Figure 3](##fig:cac-instagram-post-2)
-4. [Figure 4](##fig:CAC-block-resign)
-5. [Figure 5](##fig:cac-tent-propoganda-1)
-6. [Figure 6](##fig:cac-tent-propoganda-2)
-7. [Figure 7](##fig:cac-tent-propoganda-3)
-8. [Figure 8](##fig:cac-tent-propaganda-4)
-9. [Figure 9](##fig:cac-nakba-day)
-10. [Figure 10](##fig:sjp-org-website-UCLA)
-11. [Figure 11](##fig:sjp-insta-early)
-12. [Figure 12](##fig:sjp-insta-teach-in)
-13. [Figure 13](##fig:sjp-insta-letter-regents-1)
-14. [Figure 14](##fig:sjp-insta-letter-regents-2)
+
 
 15. [Figure 15](##fig:jvp-ucla-official)
 16. [Figure 16](##fig:jvp-insta-wrestling-zionism)
@@ -71,6 +59,8 @@ You can use this adjusted list to test your updated script.
 
 ## Student Reactions <span id="Student Reactions"></span>
 {% include sections/student-reactions-main.md %}
+
+
 //Bring the Gene Block call to resign by student gov't thing here//
 //Bring the chicano thing here (the article and the student quote)//
 
@@ -81,6 +71,9 @@ You can use this adjusted list to test your updated script.
 ## Title VI 
 {: .custom-section-header}
 {% include sections/title-VI.md %}
+## UCLA Policy--Should
+{: .custom-section-header}
+{% include sections/ucla-policy-should.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
 ## Timeline (extended)

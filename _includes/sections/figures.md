@@ -39,7 +39,7 @@
 </figure>
 
 <figure id="fig:same-large-sign-red-triangle">
-  <a href="LINK_PLACEHOLDER">
+  <a href="https://lapublicpress.org/2024/05/ucla-student-protestors-say-the-administration-is-putting-them-in-danger/">
     <img src="\images\2024-05-20\protest\unknown-red-triangle-2.jpg" 
      alt="Same large sign with red triangle" style="width: 100%; height: auto;">
   </a>
