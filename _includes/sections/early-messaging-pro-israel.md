@@ -5,7 +5,7 @@
      alt="JVP official UCLA website" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 15: JVP official message on UCLA site
+    Figure 16: JVP official message on UCLA site
   </figcaption>
 </figure>
 
@@ -15,17 +15,7 @@
      alt="JVP Instagram post regarding “Zionism”" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 16: JVP posts Instagram message (prior to Oct 7th) regarding “Zionism”
-  </figcaption>
-</figure>
-
-<figure id="fig:jvp-insta-westwood-protest">
-  <a href="https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1">
-    <img src="/images/2024-05-20/early-messaging/jvp-at-ucla-after-oct7.png" 
-     alt="JVP Instagram showing demonstration after Oct 7th”" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 17: JVP posts Instagram message (post Oct 7th) regarding “Palestinian liberation”
+    Figure 17: JVP posts Instagram message (prior to Oct 7th) regarding “Zionism”
   </figcaption>
 </figure>
 
@@ -35,7 +25,7 @@
      alt="JVP Instagram post regarding “Palestinian genocide”" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 18: JVP posts Instagram message regarding “Palestinian genocide” and tags SJP showing cooperation between the two organizations
+    Figure 19: JVP posts Instagram message regarding “Palestinian genocide” and tags SJP showing cooperation between the two organizations
   </figcaption>
 </figure>
 
@@ -45,7 +35,7 @@
      alt="Chabad House Instagram posts in support of pro-Israel counter protest" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 19: Chabad House Instagram post showing support for pro-Israel demonstrations at UCLA
+    Figure 120: Chabad House Instagram post showing support for pro-Israel demonstrations at UCLA
   </figcaption>
 </figure>
 

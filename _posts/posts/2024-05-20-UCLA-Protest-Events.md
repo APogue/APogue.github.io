@@ -14,13 +14,13 @@ date: 2024-05-20
 ### Figures List with Double Hash
 
 
+## Pro-Israel, Jewish, Non-affiliate
+{: .custom-section-header}
+{% include sections/early-messaging-pro-israel-main.md %}
 
-15. [Figure 15](##fig:jvp-ucla-official)
-16. [Figure 16](##fig:jvp-insta-wrestling-zionism)
-17. [Figure 17](##fig:jvp-insta-westwood-protest)
-18. [Figure 18](##fig:jvp-insta-genocide)
-19. [Figure 19](##fig:chabad-pro-israel)
+## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
 
+## Protest Events <span id="Protest Events"></span>
 20. [Figure 20](##fig:regents-antisemitic-pig)
 21. [Figure 21](##fig:reddit-hamas-islam-death)
 22. [Figure 22](##fig:Hillel-oct-concern-1)
@@ -41,15 +41,6 @@ date: 2024-05-20
 31. [Figure 35](##fig:jvp-encampment-dismantled)
 32. [Figure 35](##fig:hillel-comment-protest)
 33. [Figure 37](##fig:graffiti-royce) 
-
-You can use this adjusted list to test your updated script.
-
-## Pro-Israel, Jewish, Non-affiliate
-{: .custom-section-header}
-
-## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
-
-## Protest Events <span id="Protest Events"></span>
 {: .custom-section-header}
 {% include sections/protest-events.md %}
 //here just focus on violations like violence & Title VI"//

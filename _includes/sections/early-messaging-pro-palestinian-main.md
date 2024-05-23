@@ -74,7 +74,7 @@ The (sparse and largely blank) SJP message from the "UCLA-affiliated" lens is po
 
 
 [Figure 11](##fig:sjp-insta-early) shows an SJP Instagram post from 2022. Early messaging suggests key terms within the lexicon of SJP and perhaps the pro-Palestinian movement in general. Terms such as “Zionism” 
-and “IOF” (rather than IDF) are used here. The definition of these terms can vary widely based on context and are used within both the pro-Palestinian and pro-Israel conversation. Teach-ins are a regular practice 
+and “IOF” are used here. The definition of these terms can vary widely based on context and are used within both the pro-Palestinian and pro-Israel conversation. Teach-ins are a regular practice 
 among student organizations; empowering them to define these words within their pedagogy. SJP’s early messaging suggests frustration with UC involvement with “IOF” interest groups. They also state “The UCs are limiting 
 the knowledge on Arab and Muslim communities by omitting an Arab studies department or classes focusing on Palestinian perspective, thus endorsing Zionist ideology through erasing by opposing narratives.”
 
@@ -89,11 +89,23 @@ the knowledge on Arab and Muslim communities by omitting an Arab studies departm
 </figure>
 
 [Figure 12](##fig:sjp-insta-teach-in) SJP began pro-Palestinian messaging early after the attacks of Oct 7th as well. As a non-USAC, “political” student organization, they are within their rights to hold formal discussions, 
-but with no attention paid they can control the conversation around the conflict in Gaza. Where is the perspective aimed at the peaceful coexistence of Palestinian and Israeli people? To guide 
-the majority-American student body? 
+but with no attention paid they can control the conversation around the conflict in Gaza. 
 
 [Figures 13](##fig:sjp-insta-letter-regents-1) and [14](##fig:sjp-insta-letter-regents-2) show SJP’s grievances with the UC Regents regarding rhetoric surrounding the Gaza conflict. There’s no language showing support of Hamas, and 
-despite the timing with respect to Oct 7th, SJP remains focused on the “plight of the Palestinian people”. Here they write what will eventually become the protest demands for the pro-Palestinian movement at UCLA. 
+despite the timing with respect to Oct 7th SJP stays focused on the “plight of the Palestinian people”. Here they write what will eventually become the protest demands for the pro-Palestinian movement at UCLA. 
+    
+<figure id="fig:sjp-reddit">
+  <a href="placeholder">
+    <img src="/images/2024-05-20/reddit-sources/Glittering-Action768.png"
+     alt="Alleged SJP Instagram post" style="width: 65%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 15: Alleged SJP Instagram *since deleted* regarding Oct 7th events
+  </figcaption>
+</figure>	
+	
+[15](##fig:sjp-reddit) shows a reddit post from approximately October alleging that SJP referred to the events of Oct 7th as the "Al-Aqsa" flood. Whether this post is in fact an SJP post is unverified by the author because there is no 
+such post on the SJP Instagram profile page. It could be that it has since been deleted. If this is in fact an SJP post, it is clear that their views with respect to Hamas and Oct 7th are not "moderate". 
 
 
 [^44]:[UC Divest at UCLA Instagram](https://www.instagram.com/ucladivest/)
