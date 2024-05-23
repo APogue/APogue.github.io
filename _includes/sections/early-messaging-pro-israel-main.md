@@ -15,9 +15,9 @@ but as can be seen from the largely blank UCLA webpage, they don’t define the 
   </figcaption>
 </figure>
 
-The demonstration shown above on JVP’s Instagram profile is also insensitive in its timing. ([Figure 18](##fig:jvp-insta-westwood-protest)) shows their call for “Palestinian liberation” and a stop to the “genocide of Palestinians”. Their 
-Instagram content, where they have been tagged by SJP (and FJP the faculty branch at UCLA) and vice versa ([Figure 18](##fig:jvp-insta-genocide)), shows that JVP stands in solidarity with SJP in opposing “Palestinian genocide” and supporting a 
-“free Palestine”; they also support the boycott, divestment, sanctions movement[^56]. 
+Like the pro-Palestinian posts, the demonstration shown above on JVP’s Instagram profile is also insensitive in its timing. [Figure 18](##fig:jvp-insta-westwood-protest) shows their call for “Palestinian liberation” and a stop to the 
+“genocide of Palestinians”. Their Instagram content, where they have been tagged by SJP (and FJP the faculty branch at UCLA) and vice versa ([Figure 19](##fig:jvp-insta-genocide)), shows that JVP stands in solidarity with SJP in opposing 
+“Palestinian genocide” and supporting a “free Palestine”; they also support the boycott, divestment, sanctions movement[^56]. 
 
 There seems to be a divergence in rhetoric between SJP and JVP, however, when it comes to the definition of a “free Palestine”. To reiterate, SJP promotes the phrasing “From the River to the Sea, Palestine Will be Free”. JVP takes what looks
 like a settlement “anti-expansionist” into “historic Palestine” position. The author’s understanding can’t be verified explicitly, I can only define the message of any of these student organizations via the vague text within their social media
@@ -25,7 +25,7 @@ posts. It is important to also note that despite this divergence, SJP’s protes
 with JVP.   
 
 
-Hillel and Chabad House are largely apolitical. Their related messaging centers around the Jewish experience (largely made up of grievances and discomfort) on campus after the events of Oct 7th. [Figure 19](##fig:chabad-pro-israel) shows a single
+Hillel and Chabad House are largely apolitical. Their related messaging centers around the Jewish experience (largely made up of grievances and discomfort) on campus after the events of Oct 7th. [Figure 20](##fig:chabad-pro-israel) shows a single
 post on the Chabad House Instagram in support of the pro-Israel demonstrations that occurred at UCLA counter to the pro-Palestinian protests, but the weekend before the protests turned violent. 
 
 

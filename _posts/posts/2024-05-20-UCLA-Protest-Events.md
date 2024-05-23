@@ -11,8 +11,6 @@ date: 2024-05-20
 
 {% include sections/early-messaging-pro-palestinian-main.md %}
 
-### Figures List with Double Hash
-
 
 ## Pro-Israel, Jewish, Non-affiliate
 {: .custom-section-header}
