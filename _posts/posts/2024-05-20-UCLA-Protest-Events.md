@@ -17,14 +17,9 @@ date: 2024-05-20
 {% include sections/early-messaging-pro-israel-main.md %}
 
 ## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
+{% include sections/months-prior-main.md %}
 
 ## Protest Events <span id="Protest Events"></span>
-20. [Figure 20](##fig:regents-antisemitic-pig)
-21. [Figure 21](##fig:reddit-hamas-islam-death)
-22. [Figure 22](##fig:Hillel-oct-concern-1)
-23. [Figure 23](##fig:hillel-oct-concern-2)
-24. [Figure 24](##fig:hillel-dec-letter)
-25. [Figure 25](##fig:SJP-teach-in-harassment)
 
 26. [Figure 28](##fig:protest-demands)
 27. [Figure 29](##fig:protest-invite)
@@ -61,6 +56,8 @@ date: 2024-05-20
 {: .custom-section-header}
 {% include sections/title-VI.md %}
 ## UCLA Policy--Should
+"Sadly, there are too few voices – at least, audible ones – that are willing to acknowledge, at once, the Hamas-perpetrated massacre of Oct. 7 and the ongoing devastation that Israel has wrought in Gaza. In fact, it is possible to 
+acknowledge both – and to support the long-deferred right to self-determination of Palestinians and the right of Jews to live in peace and security in the land they inhabit."
 {: .custom-section-header}
 {% include sections/ucla-policy-should.md %}
 
