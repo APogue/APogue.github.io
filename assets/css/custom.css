@@ -79,32 +79,14 @@ nav a:hover {
 
 /* Figure and image styling */
 figure, .tabcontent figure {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 100%;
+    max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
     margin: auto; /* Centers the figure */
     text-align: center; /* Centers the text caption */
-    font-family: Arial, sans-serif; /* Ensure consistent font family */
-    font-size: 16px; /* Ensure consistent font size */
-    color: #212529; /* Ensure consistent text color */
-}
-
-figure img, .tabcontent figure img {
-    display: block;
-    margin: auto;
-    max-width: 100%; /* Responsive image */
 }
 
 figcaption, .tabcontent figcaption {
     color: #666; /* Grey text color for the caption */
     font-style: italic; /* Italicize the caption text */
-    background: none; /* Ensure no background color */
-    text-align: center; /* Center-align the text */
-    max-width: 100%; /* Ensure it doesn't exceed the figure width */
-    word-wrap: break-word; /* Wrap long words to the next line */
-    overflow-wrap: break-word; /* Provide better control over word breaks */
-    white-space: normal; /* Ensure text wraps normally */
 }
 
 .centered-image, .tabcontent .centered-image {
@@ -190,6 +172,10 @@ h2.custom-section-header, .tabcontent h2.custom-section-header {
     text-align: center;
 }
 
+.tabs button:hover {
+    background-color: #e9ecef;
+}
+
 .tabs button.active {
     background-color: #ffffff;
     font-weight: bold;
@@ -219,7 +205,6 @@ h2.custom-section-header, .tabcontent h2.custom-section-header {
     padding: 10px;
 }
 
-
 .social-media-embed {
     margin: 0 auto; /* Center horizontally */
     display: block; /* Ensure block display */
@@ -236,4 +221,9 @@ h2.custom-section-header, .tabcontent h2.custom-section-header {
 .instagram-media {
     max-width: 70%; /* Adjust as necessary */
     width: calc(70% - 2px);
+}
+#toc, #figures {
+    max-height: calc(90vh - 40px); /* Set max height based on available viewport */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 10px;
 }

@@ -4,10 +4,7 @@
 
 {% include sections/early-messaging-pro-israel.md %}
 
-{% include sections/sjp-instagram-post.md %}
-
 {% include sections/months-prior-and-protests.md %}
-
 
 
 

@@ -85,7 +85,45 @@ layout: default
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
-  </script src="{{ '/assets/js/figure-references.js' | relative_url }}"></script>
+  <script>
+    function openTab(evt, tabName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(tabName).style.display = "block";
+      evt.currentTarget.className += " active";
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+      // Highlight references when clicked
+      const references = document.querySelectorAll('.nav-link');
+      references.forEach(ref => {
+        ref.addEventListener('click', function(event) {
+          // Remove highlight from all references
+          references.forEach(r => r.classList.remove('highlighted'));
+          // Add highlight to the clicked reference
+          event.currentTarget.classList.add('highlighted');
+        });
+      });
+
+      // Update figure references
+      var figures = document.querySelectorAll("figure[id]");
+      figures.forEach(function(figure, index) {
+        var refLinks = document.querySelectorAll('a[href="#' + figure.id + '"]');
+        refLinks.forEach(function(link) {
+          link.textContent = 'Figure ' + (index + 1);
+        });
+      });
+
+      // Default open tab
+      document.querySelector(".tablink").click();
+    });
+  </script>
 </body>
 </html>
