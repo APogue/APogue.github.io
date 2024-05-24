@@ -21,9 +21,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 function highlightElement(element) {
   if (element) {
-    element.classList.add('highlight');
+    element.classList.add('footnote-highlight');
     setTimeout(() => {
-      element.classList.remove('highlight');
+      element.classList.remove('footnote-highlight');
     }, 2000); // Adjust the timeout duration as needed
   }
 }

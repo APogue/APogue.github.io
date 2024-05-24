@@ -1,6 +1,5 @@
-
 /* assets/css/footnotes.css */
-.highlight {
+.footnote-highlight {
   background-color: #b2ffb2; /* Pale Green */
   border-radius: 5px; /* Rounded edges */
   transition: background-color .5s ease;

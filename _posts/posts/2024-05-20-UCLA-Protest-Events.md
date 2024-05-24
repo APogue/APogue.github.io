@@ -19,6 +19,7 @@ date: 2024-05-20
 ## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
 {% include sections/months-prior-main.md %}
 
+
 ## Protest Events <span id="Protest Events"></span>
 
 26. [Figure 28](##fig:protest-demands)

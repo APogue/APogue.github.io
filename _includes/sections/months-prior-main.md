@@ -61,13 +61,24 @@ based on the actions of a few. It's not Islamophobic to criticize specific actio
 Regardless of how “understandable” being upset may be given the very recent events, the harassment infringes upon Title VI protections. These students were convening to “gain clarity, information, and perspectives on recent escalations in 
 Palestine”. No one has the right to physically block peaceful students from accessing a classroom or yell at them using classic Islamophobic derogatory language. 
 
-//embed video here//
+<div class="social-media-container">
+    <blockquote 
+      class="social-media-embed instagram-media" 
+      data-instgrm-captioned
+      data-instgrm-permalink="https://www.instagram.com/reel/CyTYyrwrue7/" 
+      style="max-width:100%; min-width:0%; width:-webkit-calc(70% - 2px); width:calc(70% - 2px);">
+    </blockquote> 
+
+    <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
 
 [^56]:[Racist black imagery](https://www.slj.com/story/The-problem-with-picture-book-monkeys-racist-imagery-libraries)
 [^57]:[H&M retracts controversial ad](https://www.theguardian.com/fashion/2018/jan/08/h-and-m-apologises-over-image-of-black-child-in-monkey-hoodie)
 [^57]:[SJP harassment encounter](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=6)
 [^58]:[David Myers Op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
 [^59]:[Reddit r/UCLA take on non-affiliate protester](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)
+
 
 
 

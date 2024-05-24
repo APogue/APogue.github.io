@@ -1,3 +1,6 @@
+
+
+{% raw %}
 <figure id="fig:reddit-regents-pig">
   <a href="https://www.reddit.com/r/ucla/comments/1bkomgw/did_anyone_report_this/">
     <img src="/images/2024-05-20/protest/MysteriousQueen81.png" 
@@ -7,6 +10,7 @@
     Figure 22: Reddit comment about pig statue placed at UC Regents protest
   </figcaption>
 </figure>
+{% endraw %}
 
 <figure id="fig:Hillel-oct-concern-1">
   <a href="https://www.instagram.com/p/Cy5ARAdx0UH/?hl=en&img_index=3">
@@ -27,7 +31,6 @@
     Figure 24: Hillel Executive director expresses concern over antisemitic rhetoric
   </figcaption>
 </figure>
-
 
 <figure id="fig:SJP-teach-in-harassment">
   <a href="https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=2">
