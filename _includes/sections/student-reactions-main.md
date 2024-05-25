@@ -1,4 +1,5 @@
 ## USAC Involvement 
+{: .custom-section-header}
 "The Undergraduate Students Association Council passed a resolution Tuesday night calling for the resignation of
 Chancellor Gene Block if he does not meet the demands of the Palestine solidarity encampment.
 
