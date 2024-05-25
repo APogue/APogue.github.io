@@ -1,4 +1,5 @@
 
+*A full scrape of the Daily Bruin reporting of the protest events can be found here*[^200] 
 
 #### 4/25
 - "More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called "terrorists," to "show your face.""[^1]
@@ -87,3 +88,4 @@
 [^24]: [Chancellor Gene Block announces Office of Campus Safety](https://dailybruin.com/2024/05/05/chancellor-gene-block-announces-office-of-campus-safety)
 [^25]: [UCLA Chancellor email announcement](https://ucla.in/3M7DUXb)
 
+[^200]:[Scraped the Daily Bruin regarding protest events](https://alexiepogue.com/2024/05/07/Scraped-the-Daily-Bruin-Regarding-Protest-Events/)

@@ -18,8 +18,9 @@ that would become emblematic of the movement in its first days and would appear 
 </figure>
 
 [Figure 7](##fig:smaller-red-triangle) shows Royce Hall adorned once again with the Nazi imagery, this time on a smaller sign. [Figure 8](##fig:occupation-death-sign-people) and   [Figure 9](##fig:tent-endorsement-2) show the same sign 
-(([Figure 5](##fig:cac-tent-propoganda-1) and [Figure 6](##fig:cac-tent-propoganda-2)) that has been displayed on CAC's Instagram page. Here you see, in context, the large numbers of people whose attention SJP, UC Divest, and CAC have
-garnered. The combined organizational power (and the national movement) has put orgs that had small followings at earlier rallies center stage, and they brought their symbology of hate to display along with them. 
+(([Figure 5](##fig:cac-tent-propoganda-1) and [Figure 6](##fig:cac-tent-propoganda-2)) that has been displayed on CAC's Instagram page. Here you see, in context, the large number of people whose attention SJP, UC Divest, and CAC have
+garnered. The combined organizational power (and the national movement) has put orgs that had small followings at earlier rallies center stage, and from these photos it looks as though they have retained hateful imagery in their messaging 
+nonetheless.  
 
 "Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by the encampment, adding that he believes some 
 of the imagery used by the protesters – such as the red triangle and Chancellor Gene Block with horns on his head – is antisemitic. "I feel very uncomfortable," he said. 
@@ -38,12 +39,13 @@ an alternative safe space for students who may not want to interact with protest
 "Tsives' perspective was not shared by some of the other candidates. Nuñez-Verdugo said they support the use of USAC money – which comes from student fees – to fund resources for 
 the encampment, adding that students should be provided a space to engage in activism on campus." [^74]
 
-Unfortunately, Nazi imagery, threatening chants, and a lack of safe passage through the quad were not all that was troubling as days at the enampment passed. 
+Unfortunately, Nazi imagery, threatening chants, and a lack of safe passage through the quad were not all that was troubling as days at the enampment passed (see the abbreviated timeline in *Supplimentary Information* for details). By the looks of how events unfolded,
+the mounting aggression from counter-protesters, in the form of harrassment and physical altercation, began as early as April 25. 
 
 
+https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence
 
-
-
+https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment
 
 
 31. [Figure 35](##fig:jvp-encampment-dismantled)
@@ -93,6 +95,6 @@ https://x.com/MrOlmos/status/1785600611326763059
 
 [^70]:[Encampment Begins](https://dailybruin.com/2024/04/25/encampment-led-by-students-in-support-of-palestine-begins-outside-royce-hall)
 [^71]:[Red triangle at encampments](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
-[^72]:[Red triangle sign appears in LA public press]{https://lapublicpress.org/2024/05/ucla-student-protestors-say-the-administration-is-putting-them-in-danger/)
+[^72]:[Red triangle sign appears in LA public press](https://lapublicpress.org/2024/05/ucla-student-protestors-say-the-administration-is-putting-them-in-danger/)
 [^73]:[Student made uncomfortable by Nazi imagery](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
-[^74]:[USAC orgs present at the encampment]((https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)
+[^74]:[USAC orgs present at the encampment](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)

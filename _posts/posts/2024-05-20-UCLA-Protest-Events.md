@@ -49,11 +49,7 @@ date: 2024-05-20
 
 ## Timeline (abbreviated)
 {: .custom-section-header}
-
-*A full scrape of the Daily Bruin reporting of the protest events can be found here*[^200] 
-{: .custom-section-header}
 {% include sections/timeline.md %}
-[^200]:[Scraped the Daily Bruin regarding protest events](https://alexiepogue.com/2024/05/07/Scraped-the-Daily-Bruin-Regarding-Protest-Events/)
 
 ## References <span id="References"></span>
 
