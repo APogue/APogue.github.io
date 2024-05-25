@@ -20,26 +20,6 @@ date: 2024-05-20
 {% include sections/months-prior-main.md %}
 
 ## Protest Events <span id="Protest Events"></span>
-20. [Figure 20](##fig:regents-antisemitic-pig)
-21. [Figure 21](##fig:reddit-hamas-islam-death)
-22. [Figure 22](##fig:Hillel-oct-concern-1)
-23. [Figure 23](##fig:hillel-oct-concern-2)
-24. [Figure 24](##fig:hillel-dec-letter)
-25. [Figure 25](##fig:SJP-teach-in-harassment)
-
-26. [Figure 28](##fig:protest-demands)
-27. [Figure 29](##fig:protest-invite)
-
-26. [Figure 26](##fig:large-sign-red-triangle)
-27. [Figure 27](##fig:same-large-sign-red-triangle)
-
-28. [Figure 32](##fig:smaller-red-triangle)
-29. [Figure 33](##fig:tent-endorsement-2)
-30. [Figure 34](##fig:hillel-insta-safe-pass)
-
-31. [Figure 35](##fig:jvp-encampment-dismantled)
-32. [Figure 35](##fig:hillel-comment-protest)
-33. [Figure 37](##fig:graffiti-royce) 
 {: .custom-section-header}
 {% include sections/protest-events.md %}
 //here just focus on violations like violence & Title VI"//
@@ -66,9 +46,14 @@ date: 2024-05-20
 {% include sections/ucla-policy-should.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
-## Timeline (extended)
+
+## Timeline (abbreviated)
+{: .custom-section-header}
+
+*A full scrape of the Daily Bruin reporting of the protest events can be found here*[^200] 
 {: .custom-section-header}
 {% include sections/timeline.md %}
+[^200]:[Scraped the Daily Bruin regarding protest events](https://alexiepogue.com/2024/05/07/Scraped-the-Daily-Bruin-Regarding-Protest-Events/)
 
 ## References <span id="References"></span>
 

@@ -15,7 +15,7 @@ getting mean looks and people looking at me, just eyeing me down. I know they ha
 perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed."[^60]
 
 <figure id="fig:feb-8-rally">
-  <a href="https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse">
+  <a href="https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel">
     <img src="/images/2024-05-20/early-messaging/feb-8-rally.jpg" 
      alt="Rally calling for UC to divest was held on Feb 8th" style="width: 85%; height: auto;">
   </a>
@@ -61,7 +61,7 @@ dated October 26th, refer to a flooding of "emails and phone calls from constitu
      alt="Hillel student board members express concern over “rise of hate”" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 25: Hillel student board members express concern over “rise of hate”
+    Figure 26: Hillel student board members express concern over “rise of hate”
   </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ leaders have decided to choose a path of ignorance instead." The post goes on to
      alt="Early protests (10/23) spark concerns over Islamophobic imagery" style="width: 65%; height: auto;">
   </a>
   <figcaption>
-    Figure 22: Early protests (10/23) spark concerns over Islamophobic imagery
+    Figure 27: Early protests (10/23) spark concerns over Islamophobic imagery
   </figcaption>
 </figure>
 
