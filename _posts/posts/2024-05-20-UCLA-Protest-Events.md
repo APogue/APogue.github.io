@@ -3,14 +3,13 @@ layout: article_layout
 title: "UCLA Protest Events"
 date: 2024-05-20
 ---
+## Context and Objective <span id="Context and Objective"></span>
+{% include sections/Intro.md %}
 
 ## Early Messaging <span id="Early Messaging"></span>
-
 ## Pro-Palestinian
 {: .custom-section-header}
-
 {% include sections/early-messaging-pro-palestinian-main.md %}
-
 
 ## Pro-Israel, Jewish, Non-affiliate
 {: .custom-section-header}
@@ -29,7 +28,7 @@ date: 2024-05-20
 
 ## Student Reactions <span id="Student Reactions"></span>
 {% include sections/student-reactions-main.md %}
-
+{% include sections/student-discomfort.md %}
 
 //Bring the Gene Block call to resign by student gov't thing here//
 //Bring the chicano thing here (the article and the student quote)//
@@ -44,6 +43,9 @@ date: 2024-05-20
 ## UCLA Policy--Should
 {: .custom-section-header}
 {% include sections/ucla-policy-should.md %}
+
+## Takeaways <span id="Takeaways"></span>
+{% include sections/concluding-statement.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
 

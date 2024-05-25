@@ -7,11 +7,11 @@ date: 2024-05-08
 # Scraped Reddit Regarding Protest Events 
 
 Here you can see these college-aged students are confused about a lot of things. In addition to understanding their First Ammendment rights, 
-I want to focus on Title VI infringement,
+I try to focus on Title VI infringement,
 both with respect to language and violence. How can students be instructed, held accountable, and protected with respect to 
 infighting and harrasment from outside protesters?
 I would also like to consider how to effectively assemble and demonstrate such that opposing groups can coexist and not undermine their message by 
-infringing on the rights of others, i.e. using hate speech, prejudice, ignorance, violence, harassment, or blockading 
+infringing on the rights of others, i.e. using hate speech, prejudice, harassment, or blockading 
 walkways/preventing students from accessing their classes. Also the concept of staying on message, 
 effectively achieving progress towards a goal incrementally, and dedicating time towards what as an 
 American you have the power to change would be helpful to their cause. Defining words from an American viewpoint should also help deter people from using extreme language and 
