@@ -32,16 +32,6 @@
   </figcaption>
 </figure>
 
-<figure id="fig:SJP-teach-in-harassment">
-  <a href="https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=2">
-    <img src="/images/2024-05-20/early-messaging/sjp-video-post.png" 
-     alt="SJP posts about frustration regarding harassment on and off UCLA campus" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 27: SJP posts about frustration regarding harassment on and off UCLA campus
-  </figcaption>
-</figure>
-
 <figure id="fig:protest-demands">
   <a href="https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3">
     <img src="/images/2024-05-20/protest/sjp-protest-demands.png" 

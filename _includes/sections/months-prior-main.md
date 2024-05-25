@@ -6,12 +6,38 @@ those who support Israel’s right to exist has deepened more than at any point 
 It has also created, at various points in time, a sense of unsafety among many members of the university community, especially students. This too tracks larger national trends, according to a 2024 report that shows that 56% of Jewish 
 university students polled after Oct. 7 felt in personal danger, and 52% of Muslim students felt in personal danger."[^58]
 
+Myers depiction of this "unbridgeable gulf" has been corroborated by several Daily Bruin articles, where one titled *Students voice worries over Islamophobia on UCLA campus*, dated November 19th, details several concerning statements made by students. 
+ 
+“"I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, I’m 
+getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.”"
 
+"A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of physical violence 
+perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed."[^60]
 
-He also addressed---and likely the reason he felt compelled to speak out in the first place---an antisemitic statue placed outside of the UC Regents meeting on March 20th. "The regents’ meeting attracted protesters who bore signs and uttered chants 
+<figure id="fig:feb-8-rally">
+  <a href="https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse">
+    <img src="/images/2024-05-20/early-messaging/feb-8-rally.jpg" 
+     alt="Rally calling for UC to divest was held on Feb 8th" style="width: 85%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 21: Rally calling for UC to divest was held on Feb 8th
+  </figcaption>
+</figure>
+
+Another, *Jewish students express concern over antisemitism on UCLA campus*, highlights pervasive language among the pro-Palestinian movement that some students feel is threatening. 
+“"The challenging environment is that the form of antisemitism that we’re often experiencing, especially since Oct. 7, is a form of antisemitism that has become normal,” Gold said.
+Gold said he believes rallies in support of Palestine have made Jewish students feel unsafe on campus. He added that he feels that chants such as “Resistance is justified when people are occupied” and “From the river to the sea, 
+Palestine will be free” are statements intended to intimidate others."[^61]
+
+A direct account was given on Feb 8th by a Bruin journalist at a BDS rally ([bla](##fig:feb-8-rally)), "The protest, which was hosted by Students for Justice in Palestine alonside the UC Divest Coalition at UCLA, also contained chants and speeches."
+
+“Do you realize how Zionists, … they have that ugly, half-American, half-Zionist smiles?” they said in a speech, leading to shouts of agreement from the crowd.
+The speaker also repeated insults at counter-protesters, even after being instructed not to engage with them by other organizers.
+“They’re just losers who are colonizers and settlers, and they will be defeated,” they said in a speech. “They are stupid, annoying and ugly.”[^62]
+
+Myers also addressed---and likely the reason he felt compelled to speak out in the first place---an antisemitic statue placed outside of the UC Regents meeting on March 20th. "The regents’ meeting attracted protesters who bore signs and uttered chants 
 calling for divestment from companies that have ties to the Israeli military. Alongside these signs, someone placed...a statue that depicted a pig holding a bag of money in one hand and a birdcage with a keffiyeh in the other. To anyone familiar 
-with classic antisemitic stereotypes, it is impossible not to recoil. Since the 13th century, Jews have 
-been associated with pigs – or, more accurately, with their coarse and animal-like quality."
+with classic antisemitic stereotypes, it is impossible not to recoil."
 
 <figure id="fig:regents-antisemitic-pig">
   <a href="https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse">
@@ -19,7 +45,7 @@ been associated with pigs – or, more accurately, with their coarse and animal-
      alt="Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA" style="width: 90%; height: auto;">
   </a>
   <figcaption>
-    Figure 21: Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA
+    Figure 21: Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA on March 20th
   </figcaption>
 </figure>
 
@@ -44,7 +70,7 @@ leaders have decided to choose a path of ignorance instead." The post goes on to
 
 <figure id="fig:reddit-hamas-islam-death">
   <a href="https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/">
-    <img src="/images/2024-05-20/early-messaging/islamophobes-on-campus.webp" 
+    <img src="/images/2024-05-20/early-messaging/islamophobes-on-campus.jpg" 
      alt="Early protests (10/23) spark concerns over Islamophobic imagery" style="width: 65%; height: auto;">
   </a>
   <figcaption>
@@ -57,7 +83,7 @@ because the "Hamas" is also written on the sign. I think "Candid_Training1834" p
 based on the actions of a few. It's not Islamophobic to criticize specific actions, but it becomes problematic when it's used to paint a negative picture of all Muslims."[^59]
 
 
-[Figure 26](##fig:SJP-teach-in-harassment) is referring to a professor led teach-in ([Figure 12](##fig:sjp-insta-teach-in)) occurring on Oct 11th that was met with harassment from UCLA students. A video of the encounter can be found here[^57]. 
+The Instagram post below is referring to a professor led teach-in ([Figure 12](##fig:sjp-insta-teach-in)) occurring on Oct 11th that was met with harassment from UCLA students. A video of the encounter can be found on the 5th page of the post. 
 Regardless of how “understandable” being upset may be given the very recent events, the harassment infringes upon Title VI protections. These students were convening to “gain clarity, information, and perspectives on recent escalations in 
 Palestine”. No one has the right to physically block peaceful students from accessing a classroom or yell at them using classic Islamophobic derogatory language. 
 
@@ -78,7 +104,7 @@ Palestine”. No one has the right to physically block peaceful students from ac
 [^57]:[SJP harassment encounter](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=6)
 [^58]:[David Myers Op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
 [^59]:[Reddit r/UCLA take on non-affiliate protester](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)
-
-
-
+[^60]:[Students voice worries over Islamophobia on UCLA campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+[^61]:[Jewish students express concern over antisemitism on ucla campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
+[^62]:[Student organizations host rally demanding UCLA divest from Israel](https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel)
 
