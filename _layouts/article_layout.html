@@ -43,7 +43,8 @@ layout: default
           <div class="tab-container">
             <div class="tabs">
               <button class="tablink" onclick="openTab(event, 'toc')">Table of Contents</button>
-              <button class="tablink" onclick="openTab(event, 'figures')">Figures</button>
+              <button class="tablink" onclick="openTab(event, 'supplementary-figures')">Supplementary Figures</button>
+			  <button class="tablink" onclick="openTab(event, 'r-UCLA')">r/UCLA</button>
             </div>
             <div id="toc" class="tabcontent">
               <ul class="nav flex-column">
@@ -77,10 +78,13 @@ layout: default
                 <li class="nav-item">
                   <a class="nav-link" href="#References">References</a>
                 </li>
-              </ul>
+				</ul>
             </div>
-            <div id="figures" class="tabcontent">
+            <div id="supplementary-figures" class="tabcontent">
               {% include sections/figures.md %}
+			  < </div>
+			<div id="r-UCLA" class="tabcontent">
+              {% include sections/reddit.md %}
             </div>
           </div>
         </div>

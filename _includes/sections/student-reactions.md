@@ -37,7 +37,7 @@
 
 ##### Vocabulary
 <div class="image-column">
-    <img src="/images/2024-05-20/reddit-sources/Green3_2.png" alt="Green3_2">
+    <img src="/images/2024-05-20/reddit-sources/green3_2.png" alt="Green3_2">
     <img src="/images/2024-05-20/reddit-sources/TheRealMichaelE.png" alt="TheRealMichaelE">
     <img src="/images/2024-05-20/reddit-sources/Frostbyter11_2.png" alt="Frostbyter11_2">
     <img src="/images/2024-05-20/reddit-sources/Miserable-Guess6379.png" alt="Miserable-Guess6379">

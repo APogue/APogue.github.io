@@ -84,7 +84,7 @@
 </figure>
 
 <figure id="fig:tent-endorsement-2">
-  <a href="LINK_PLACEHOLDER">
+  <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
     <img src="\images\2024-05-20\protest\paid4by.jpg" 
      alt="CAC tent with visible USAC endorsement" style="width: 100%; height: auto;">
   </a>

@@ -9,8 +9,14 @@ document.addEventListener("DOMContentLoaded", function() {
     for (i = 0; i < tablinks.length; i++) {
       tablinks[i].className = tablinks[i].className.replace(" active", "");
     }
-    document.getElementById(tabName).style.display = "block";
-    evt.currentTarget.className += " active";
+    if (tabName) {
+      document.getElementById(tabName).style.display = "block";
+      if (evt) {
+        evt.currentTarget.className += " active";
+      } else {
+        document.querySelector('.tablink[data-tab="' + tabName + '"]').className += " active";
+      }
+    }
   }
 
   // Update figure references
@@ -30,16 +36,17 @@ document.addEventListener("DOMContentLoaded", function() {
     link.addEventListener('click', function(event) {
       event.preventDefault();
 
-      // Check if the link is in the TOC tab and switch to the Figures tab if needed
-      if (document.querySelector('#toc').style.display !== 'none') {
-        openTab(event, 'figures');
+      var figureElement = document.getElementById(figureId);
+      var tabNameElement = figureElement.closest('.tabcontent');
+      var tabName = tabNameElement ? tabNameElement.id : null;
+
+      // Switch tab if figure is not in the main content area
+      if (tabName && document.querySelector('.tabcontent:not([style*="display: none"])').id !== tabName) {
+        openTab(null, tabName);
       }
 
-      var figureElement = document.getElementById(figureId);
-      var isSupplementary = figureElement.classList.contains('supplementary');
-
-      // Only scroll if the figure is not in view or if it is a supplementary figure
-      if (isSupplementary || !isInView(figureElement)) {
+      // Scroll to the figure
+      if (!isInView(figureElement)) {
         scrollToFigure(figureElement);
       }
     });
