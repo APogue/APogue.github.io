@@ -40,14 +40,30 @@ document.addEventListener("DOMContentLoaded", function() {
       var tabNameElement = figureElement.closest('.tabcontent');
       var tabName = tabNameElement ? tabNameElement.id : null;
 
-      // Switch tab if figure is not in the main content area
-      if (tabName && document.querySelector('.tabcontent:not([style*="display: none"])').id !== tabName) {
-        openTab(null, tabName);
+      // Function to handle scrolling after tab switch
+      function handleScroll() {
+        if (!isInView(figureElement)) {
+          scrollToFigure(figureElement);
+        }
       }
 
-      // Scroll to the figure
-      if (!isInView(figureElement)) {
-        scrollToFigure(figureElement);
+      // Switch tab if figure is not in the main content area
+      if (tabName && document.querySelector('.tabcontent:not([style*="display: none"])').id !== tabName) {
+        var observer = new MutationObserver(function(mutations, obs) {
+          handleScroll();
+          obs.disconnect(); // Stop observing after the first change
+        });
+
+        // Observe the tab content for changes
+        observer.observe(document.getElementById(tabName), {
+          attributes: true,
+          childList: true,
+          subtree: true
+        });
+
+        openTab(null, tabName);
+      } else {
+        handleScroll(); // Directly handle scroll if already in the correct tab
       }
     });
   });
