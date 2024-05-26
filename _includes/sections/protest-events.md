@@ -68,8 +68,10 @@ https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-co
 
 
 
-
-
+other articles showing the big sign:
+https://www.hollywoodreporter.com/news/general-news/ucla-campus-israel-hamas-war-protests-police-arrests-1235888779/
+https://www.reddit.com/r/LosAngeles/comments/1cho6vz/violence_stuns_ucla_as_counterprotesters_attack/
+https://www.usatoday.com/story/news/nation/2024/04/28/gaza-war-campus-protests-arrests/73491973007/
 
 
 

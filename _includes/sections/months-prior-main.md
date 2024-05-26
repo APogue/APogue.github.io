@@ -50,7 +50,7 @@ with classic antisemitic stereotypes, it is impossible not to recoil."
 </figure>
 
 While the antisemitic imagery displayed in [21](##fig:regents-antisemitic-pig) might be obvious to some, this is not the case for others. [22](##fig:reddit-regents-pig) shows "MysteriousQueen81" attempting to gamify logic in order to argue the
-semantics underlying the imagery. To which anyone familiar with racist imagery in our art[^56] and culture[^57] might borrow "ToTheLastParade"'s response in saying, "The mental gymnastics in this post..."
+semantics underlying the imagery. To which anyone familiar with racist imagery in our art[^56] and culture[^57] might borrow "ToTheLastParade"'s response in saying, "The mental gymnastics in this post..." 
 
 [Figure 23](##fig:Hillel-oct-concern-1) and [Figure 24](##fig:hillel-oct-concern-2) depict Hillel's Executive Director, Dan Gold messaging over the pro-Palestinian movement's immediate offensive stance after the events of Oct 7th. The posts, 
 dated October 26th, refer to a flooding of "emails and phone calls from constituents and stakeholders from every corner of our community" over the chant against "Israel and Jews..."we charge you with genocide"". 
@@ -83,21 +83,23 @@ because the "Hamas" is also written on the sign. I think "Candid_Training1834" p
 based on the actions of a few. It's not Islamophobic to criticize specific actions, but it becomes problematic when it's used to paint a negative picture of all Muslims."[^59]
 
 
-The Instagram post below is referring to a professor led teach-in ([Figure 12](##fig:sjp-insta-teach-in)) occurring on Oct 11th that was met with harassment from UCLA students. A video of the encounter can be found on the 5th page of the post. 
+The Instagram post below ([28](##fig:instagram-embed)) is referring to a professor led teach-in ([Figure 12](##fig:sjp-insta-teach-in)) occurring on Oct 11th that was met with harassment from UCLA students. A video of the encounter can be found on the 5th page of the post. 
 Regardless of how “understandable” being upset may be given the very recent events, the harassment infringes upon Title VI protections. These students were convening to “gain clarity, information, and perspectives on recent escalations in 
 Palestine”. No one has the right to physically block peaceful students from accessing a classroom or yell at them using classic Islamophobic derogatory language. 
 
-<div class="social-media-container">
+<figure id="fig:instagram-embed" class="social-media-figure">
+  <div class="social-media-container">
     <blockquote 
       class="social-media-embed instagram-media" 
       data-instgrm-captioned
       data-instgrm-permalink="https://www.instagram.com/reel/CyTYyrwrue7/" 
-      style="max-width:100%; min-width:0%; width:-webkit-calc(70% - 2px); width:calc(70% - 2px);">
+      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio:  4.2/ 5;">
     </blockquote> 
 
     <script async src="//www.instagram.com/embed.js"></script>
-</div>
-
+  </div>
+  <figcaption>Figure 28: SJP post with video of harassment </figcaption>
+</figure>
 
 [^56]:[Racist black imagery](https://www.slj.com/story/The-problem-with-picture-book-monkeys-racist-imagery-libraries)
 [^57]:[H&M retracts controversial ad](https://www.theguardian.com/fashion/2018/jan/08/h-and-m-apologises-over-image-of-black-child-in-monkey-hoodie)

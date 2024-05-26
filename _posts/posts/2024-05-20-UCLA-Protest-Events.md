@@ -48,6 +48,10 @@ date: 2024-05-20
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
 
+## Video clips
+{: .custom-section-header}
+{% include sections/youtube.md %}
+
 ## Timeline (abbreviated)
 {: .custom-section-header}
 {% include sections/timeline.md %}

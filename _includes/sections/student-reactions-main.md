@@ -33,7 +33,8 @@ the best course of action is for the voting students to hold those that don't re
 that partakes the display of antisemitic imagery on the public facing account of the organization should be permitted to sponsor such resolutions? The imagery on CAC's instagram
 website shows a clear bias against Jewish students and the activity of this commissioner should be called into question. 
 
-
+https://docs.google.com/document/d/1n_IjZrzQqCUnrS5I2NzZk2J1qLFOKOD73GBnAmqByHE/edit
+https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/664807e1c1c8945ac03764df/1715996641838/5_21_2024+USAC+AGENDA.pdf
 
  ""As someone who identifies very strongly with their indigenous identity to Mexico, I very much sympathize with the ongoing fight for Palestinian liberation, as they're indigenous to their homeland and are currently being displaced," 
  [Javier Nuñez-Verdugo, a candidate for external vice president] said." [Source]([https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment))

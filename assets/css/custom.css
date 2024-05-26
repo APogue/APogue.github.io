@@ -206,16 +206,17 @@ h2.custom-section-header, .tabcontent h2.custom-section-header {
 }
 
 .social-media-embed {
-    margin: 0 auto; /* Center horizontally */
-    display: block; /* Ensure block display */
+  margin: 0 auto; /* Center horizontally */
+  display: block; /* Ensure block display */
+  width: 100%;
+  height: auto;
 }
-
 .social-media-container {
-    text-align: center; /* Center container */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80%;
+  display: inline-block;
+  width: 65%; /* Adjust width as needed */
+  max-width: 560px;
+  min-width: 320px;
+  text-align: center;
 }
 
 .instagram-media {

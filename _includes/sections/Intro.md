@@ -19,7 +19,7 @@ of a contextual “thread” in each image which gives greater insight into the 
 
 
 
-
+https://www.npr.org/2024/04/26/1247527512/columbia-university-protests-1968-2024-history
 
 
 
