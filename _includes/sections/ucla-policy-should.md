@@ -102,6 +102,8 @@ I guarantee every student would want one---a guide to *professional*, *appropria
 
 2.02 what is block planning on doing over the summer
 
+put the trump triangle here----------------------------------
+
 
 https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
 

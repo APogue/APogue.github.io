@@ -5,12 +5,12 @@ around 100 students by 10 a.m."[^70] SJP lead the way, with a list of demands sh
 [Figure 2](##fig:protest-invite) has 17,645 “likes” (bottom right-of-center), showing the combined “marketing” power of the organizations. 
 
 Right off the bat, unknown perpetrators began putting troubling imagery on display. [Figure 3](##fig:large-sign-red-triangle) and [Figure 4](##fig:same-large-sign-red-triangle) shows the same large sign 
-that would become emblematic of the movement in its first days and would appear as a symbol representative of the encampment in at least one non-affiliate article.[^72]
+that would become emblematic of the movement in its first days and would appear as a symbol representative of the encampment in the Daily Bruin[^277] several non-affiliate articles.[^72][^274][^275][^276]
 
 <figure id="fig:large-sign-red-triangle">
-  <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
-    <img src="\images\2024-05-20\protest\unknown-red-triangle.jpg" 
-     alt="Large sign with red triangle" style="width: 90%; height: auto;">
+  <a href="https://www.latimes.com/california/story/2024-04-30/ucla-moves-to-shut-down-pro-palestinian-encampment-as-unlawful">
+    <img src="\images\2024-05-20\protest\large-red-triangle-people.webp" 
+     alt="Large sign with red triangle" style="width: 95%; height: auto;">
   </a>
   <figcaption>
     Figure 30: Large sign with red triangle
@@ -27,7 +27,7 @@ of the imagery used by the protesters – such as the red triangle and Chancello
 "I might skip my classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on campus."[^73]
 
 It was mentioned previously that CAC is a USAC funded student organization, and its commissioner, Alicia Verdugo is an elected student government official. [Figure 9](##fig:tent-endorsement-2) is a photo taken by a Daily Bruin reporter showing the 
-a CAC tent was present in the encampment. "In addition to the candidates and officers at the encampment, tents with the logos of Verdugo’s office and the Campus Events Commission were present...It is unclear if funds from USAC 
+a CAC tent was present in the encampment. "In addition to the candidates and officers at the encampment, tents with the logos of Verdugo’s office and the Campus Events Commission (CEC) were present...It is unclear if funds from USAC 
 offices are being used to fund resources at the demonstration, but the text "PAID FOR BY USAC" is visible on the Cultural Affairs Commission tent."
 
 "Eli Tsives, a candidate for general representative, was part of the counter-protest against the encampment. Tsives, who alleged the encampment was promoting hate speech, criticized Verdugo's use of her platform to promote messages he 
@@ -39,13 +39,39 @@ an alternative safe space for students who may not want to interact with protest
 "Tsives' perspective was not shared by some of the other candidates. Nuñez-Verdugo said they support the use of USAC money – which comes from student fees – to fund resources for 
 the encampment, adding that students should be provided a space to engage in activism on campus." [^74]
 
-Unfortunately, Nazi imagery, threatening chants, and a lack of safe passage through the quad were not all that was troubling as days at the enampment passed (see the abbreviated timeline in *Supplimentary Information* for details). By the looks of how events unfolded,
-the mounting aggression from counter-protesters, in the form of harrassment and physical altercation, began as early as April 25. 
+[fig cec](##fig:cec-tent) shows the CEC tent in the top left corner of the photo (yellow tent). Analyzing the metadata of the photo ([fig cec metadata](##fig:cec-tent-metadata)), it looks like the photo was taken at 6:16 pm on 5/26. The metadata for
+[Figure 9](##fig:tent-endorsement-2), with the sign still showing the red triangle, can be seen in [cac metadata](##fig:cac-tent-metadata), it looks like this photo was taken at 12:23 pm on 5/26. The Instagram photos CAC has on their Instagram
+profile (see group related to [cac insta tent](##fig:cac-tent-propoganda-1)) is dated April 25th. Which means that the CAC tent had been set up since the start of the protest, while there is no evidence that is the case for CEC. 
+The metadata for the signage in [unknown-big](##fig:uknown-red-triangle) is shown in [unknown-big](##fig:unknown-red-triangle-metadata) and for [unknown small](##fig:smaller-red-triangle) is [unknown small](##fig:smaller-red-triangle-metadata).
+All of these photos were taken on April 25th, meaning it is likely these signs were removed after the 1st day of protests, by whom is unknown. 
+
+Without the hate symbology, the remaining relevant *imagery*, such as  [fig with Jewish present](##fig:anti-zionism-not), depicted a typical protest environment with a mix of people fighting for the pro-Palestinian cause. 
+ 
+<figure id="fig:anti-zionism-not">
+  <a href="unknown">
+    <img src="\images\2024-05-20\protest\anti-zionism-not.jpg" 
+     alt="Large sign with red triangle" style="width: 95%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 30: Photo taken by Bruin reporter, Sunday 4/28 the "biggest" day of protests at 8:32 am
+  </figcaption>
+</figure>
 
 
-https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence
 
-https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment
+As days at the enampment passed (see the abbreviated timeline in *Supplimentary Information* for details) the mounting aggression from counter-protesters, in the form of harrassment and physical altercation, began as early as April 25. 
+
+<figure id="fig:ucla-fireworks">
+  <a href="https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence">
+    <img src="\images\2024-05-20\protest\ucla-fireworks.jpg" 
+     alt="Green fireworks shoot up in front of Royce Hall as counter-protesters look on." style="width: 95%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 30: Green fireworks shoot up in front of Royce Hall as counter-protesters look on (Nicolas Greamo/Daily Bruin senior staff).
+  </figcaption>
+</figure>
+
+
 
 
 31. [Figure 35](##fig:jvp-encampment-dismantled)
@@ -53,40 +79,7 @@ https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-co
 33. [Figure 37](##fig:graffiti-royce) 
 
 
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-other articles showing the big sign:
-https://www.hollywoodreporter.com/news/general-news/ucla-campus-israel-hamas-war-protests-police-arrests-1235888779/
-https://www.reddit.com/r/LosAngeles/comments/1cho6vz/violence_stuns_ucla_as_counterprotesters_attack/
-https://www.usatoday.com/story/news/nation/2024/04/28/gaza-war-campus-protests-arrests/73491973007/
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://x.com/CollinRugg/status/1787521409079791881
-https://www.nbclosangeles.com/local-2/ucla-student-sues-university-over-alleged-tolerance-of-campus-terrorists/3411811/?_osource=SocialFlowTwt_LABrand
 https://x.com/KyungLahCNN/status/1790908711898165639
 https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html
 https://x.com/MrOlmos/status/1790143954245370107
@@ -100,3 +93,7 @@ https://x.com/MrOlmos/status/1785600611326763059
 [^72]:[Red triangle sign appears in LA public press](https://lapublicpress.org/2024/05/ucla-student-protestors-say-the-administration-is-putting-them-in-danger/)
 [^73]:[Student made uncomfortable by Nazi imagery](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
 [^74]:[USAC orgs present at the encampment](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)
+[^274]:[hollywoodreporter on UCLA protests-red triangle](https://www.hollywoodreporter.com/news/general-news/ucla-campus-israel-hamas-war-protests-police-arrests-1235888779/)
+[^275]:[latimes on UCLA protests-red triangle](https://www.latimes.com/california/story/2024-04-30/ucla-moves-to-shut-down-pro-palestinian-encampment-as-unlawful)
+[^276]:[usatoday on UCLA protests-red triangle](https://www.usatoday.com/story/news/nation/2024/04/28/gaza-war-campus-protests-arrests/73491973007/)
+[^277]:[Bruin gallery showing sign w/red triangle](https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza)

@@ -19,7 +19,6 @@ date: 2024-05-20
 {% include sections/months-prior-main.md %}
 
 ## Protest Events <span id="Protest Events"></span>
-{: .custom-section-header}
 {% include sections/protest-events.md %}
 //here just focus on violations like violence & Title VI"//
 
@@ -48,7 +47,6 @@ date: 2024-05-20
 {% include sections/concluding-statement.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>
-
 ## Video clips
 {: .custom-section-header}
 {% include sections/youtube.md %}

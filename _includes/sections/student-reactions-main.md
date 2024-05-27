@@ -77,3 +77,6 @@ need, and the concerns they have. The post dates vary, but approximately coincid
 [^42]:[USAC passes resolution calling for UCLA Chancellor Gene Block’s resignation](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)
 [^43]:[UCLA student sues univeristy over alleged tolerance of campus "terrorists"](https://www.nbclosangeles.com/local-2/ucla-student-sues-university-over-alleged-tolerance-of-campus-terrorists/3411811/?_osource=SocialFlowTwt_LABrand)
 [^44]([USAC Candidates Participate in Protest Encampment](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment))
+
+
+https://www.nbclosangeles.com/local-2/ucla-student-sues-university-over-alleged-tolerance-of-campus-terrorists/3411811/?_osource=SocialFlowTwt_LABrand

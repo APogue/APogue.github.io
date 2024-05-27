@@ -79,17 +79,17 @@
      alt="Large sign with red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 33: Large sign with red triangle
+    Figure 33: Encampment showing people linking arms in the presence of "occupation-death" sign (Julia Zhou/Photo editor)
   </figcaption>
 </figure>
 
 <figure id="fig:tent-endorsement-2">
   <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
     <img src="\images\2024-05-20\protest\paid4by.jpg" 
-     alt="CAC tent with visible USAC endorsement" style="width: 100%; height: auto;">
+     alt="CAC tent with visible USAC endorsement and "occupation-death" sign style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 34: CAC tent with visible USAC endorsement
+    Figure 34: CAC tent with visible USAC endorsement in the presence of "occupation-death" sign (Aidan Sun/Daily Bruin)
   </figcaption>
 </figure>
 
@@ -104,6 +104,45 @@
   </figcaption>
 </figure>
 
+<figure id="fig:pro-israel-sunday">
+  <a href="https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment">
+    <img src="\images\2024-05-20\protest\pro-israel-sunday.jpg" 
+     alt="Counter-protesters waving Israeli flags in Dickson Plaza" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 35: Counter-protesters waving Israeli flags in Dickson Plaza (Brandon Morquecho/Photo editor)
+  </figcaption>
+</figure>
+
+<figure id="fig:let-gaza-live">
+  <a href="https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment">
+    <img src="\images\2024-05-20\protest\let-gaza-live.jpg" 
+     alt="A protester with an umbrella reading “LET GAZA LIVE” is pictured." style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 35: A protester with an umbrella is pictured (Zoraiz Irshad/Daily Bruin senior staff)
+  </figcaption>
+</figure>
+
+<figure id="fig:standing-together-la">
+  <a href="https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment">
+    <img src="\images\2024-05-20\protest\standing-together-la.jpg" 
+     alt="Demonstrators with Standing Together Los Angeles" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 35: Demonstrators with Standing Together Los Angeles (Brandon Morquecho/Photo editor)
+  </figcaption>
+</figure>
+
+<figure id="fig:faculty-and-staff">
+  <a href="https://dailybruin.com/2024/05/03/daily-bruin-print-issue-may-3">
+    <img src="\images\2024-05-20\protest\faculty-and-staff.png" 
+     alt="Hillel Instagram Safe Passage" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 35: Protesters hoist a banner behind a crowd to stop police from clearing out the encampment (Zimo Lee/Daily Bruin)
+  </figcaption>
+</figure>
 
 <figure id="fig:jvp-encampment-dismantled">
   <a href="LINK_PLACEHOLDER">

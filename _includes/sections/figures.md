@@ -5,7 +5,7 @@
 
 {% include sections/months-prior-and-protests.md %}
 
-
+{% include sections/supp-figures.md %}
 
 
 
