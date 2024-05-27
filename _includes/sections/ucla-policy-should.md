@@ -81,11 +81,14 @@ they're "suited" for research, that's academic abuse. look at the title IX compl
 be a larger number of complaints filed if there were. Gender discrimination and gender harassment are almost "more fitting" in the Title VI training as a form of discrimination based on biological or assumed identity that creates a "hostile"
 academic environment. And it is extremely confusing for a student to understand and process gender discrimination because Title IX began in the 70's as equal access for women, but is contemporarily mischaracterized as protections relating to 
 sexual misconduct. So if people can't categorize it as Tile IX or Title VI, they won't address the problems. and neither the universities nor the office of education care to deepen our understanding because really all of this is put into place 
-to address liability concerns. And it seems like neither the university or the office of education care to appropriate 
-extra funding towards general Title VI or the aforementioned areas of Title IX because honestly, racism and sexism "aren't really a problem anymore" with violations having
-a low likelihood of a lawsuit within the statute of limitations. To put it plainly, the misconduct has to be "very serious", like a physical hate crime or rape to be worthy of the funding for the support and prevention. But 
-racism and sexism are still very much an issue because the world is changing incredibly quickly and women and minorities are following the same pattern of delayed access that existed in the 70's but in areas like STEM where issues are still
-inadequately addressed. and perhaps it isn't just the extra educational support that women and minorities need, perhaps an "inclusive environment" means "soft skills" and "professionalism". Perhaps there are more paths than those to the 
+to address liability concerns. And no oversight body cares to appropriate extra funding towards general Title VI or the aforementioned areas of Title IX because, are racism and sexism "really a problem anymore" if violations have a "low number of 
+complaints" to the DOE or a low likelihood of a lawsuit within the statute of limitations? To put it plainly, misconduct has to be "very serious" to get anyone's attention. 
+
+
+Now we see antisemitism is shining a light on Title VI. While it has the spotlight, we should address the issue of 
+discrimination on the basis of race and gender as well. Because if in either the case of antisemitism or discrimination based on race and gender you're dealing with a high volume of "less serious" cases of misconduct that denies equal access to an education, *that is very serious*. 
+The world is changing incredibly quickly, it's hard for policy to keep up, and women and minorities are following the same pattern of delayed access that existed in the 70's but in areas like STEM, and perhaps it isn't just the extra educational support that women and minorities need, 
+perhaps an "inclusive environment" means "soft skills" and "professionalism". Perhaps there are more paths than those to the 
 classroom during a protest that are being blocked.  
  
 and yet the office of education just awarded UCLA 8 million dollars in funding for issues irrelevant to the wellbeing of its student body...
