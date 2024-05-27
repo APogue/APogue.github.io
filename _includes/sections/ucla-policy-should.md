@@ -55,6 +55,11 @@ that people "should feel comfortable on campus". As a graduate student with very
 experience with tropes related to this issue. I have literally zero bias, and I can say that if it were directed at me, and the only solution the university could come up with in response to "proudly" hateful imagery is to let me know a week 
 late that they "care" and "I should feel good being here" and "it has been removed" I would not feel better at all. The deed has been done, the damage has been done. 
 
+The flyer had good intentions in saying, that "law enforcement is on hand to protect and keep safe" students and demonstrators. However as the Daily Bruin states, "The university has not previously called the encampment unlawful or 
+unauthorized."[^166] Really, the messaging was too passive, cryptic, and the email came too late to effectively communicate cases of misconduct and the urgency of the matter. It is likely that the UCLA administration did not themselves realize 
+the urgency, despite mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). Regardless, the efforts to clear the encampment administratively was weak, unclear, and likely left protesters confused. 
+As for counterprotesters, listing off a bunch of codes was unlikely to help them understand the consequences of their actions either. Although judging from their behavior it likely wouldn't have mattered either way. 
+
 
 Regardless of what the demands are, should a student governing body that is funded and elected by all students be taking part in these resolutions? If 
 the best course of action is for the voting students to hold those that don't represent them accountable, then I have to ask whether a USAC organization commissioner

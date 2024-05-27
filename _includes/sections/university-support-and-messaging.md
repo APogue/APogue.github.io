@@ -40,11 +40,6 @@ On the same day, following the distributed flyer, at 5:05 pm Chancellor Block me
 supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid," Block said in the statement. "These incidents have put many on our campus, 
 especially our Jewish students, in a state of anxiety and fear.""[^166] 
 
-The flyer had good intentions in saying, that "law enforcement is on hand to protect and keep safe" students and demonstrators. However as the Daily Bruin states, "The university has not previously called the encampment unlawful or 
-unauthorized."[^166] Really, the messaging was too passive, cryptic, and the email came too late to effectively communicate cases of misconduct and the urgency of the matter. It is likely that the UCLA administration did not themselves realize 
-the urgency, despite mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). Regardless, the efforts to clear the encampment administratively was weak, unclear, and likely left protesters confused. 
-As for counterprotesters, listing off a bunch of codes was unlikely to help them understand the consequences of their actions either. Although judging from their behavior it likely wouldn't have mattered either way. 
-
 The events to follow received a great deal of press. For a full Bruin Daily account of the violence that unfolded on the evening of April 30th please see[^169]. In short, when counter-protesters attempted to breach the encampment barrier to assault protesters, 
 UCPD and private security CSC failed to act right away, and it was not until hours later that LAPD and CHP showed up to the scene to quell the violence. Statements released during and after the protests can be found here.[^161][^162]
 
