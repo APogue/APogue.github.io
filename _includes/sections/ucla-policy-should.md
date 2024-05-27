@@ -1,9 +1,14 @@
 
 
 
+Gold also noted in his email that the UC Regents President Michael Drake announced during the meeting that the 10 UC campuses will be partnering with the Hillel Campus Initiative, which Gold called 
+“a welcome and necessary step to better address campus antisemitism and take meaningful action to ensure our campuses are free of hate and fully accepting and inclusionary for all Jewish students, faculty and community members.”
 
+According to The Los Angeles Times, one of the issues discussed during the UC Regents meeting was a proposal requiring faculty departments to put any polemical commentary statements up to a vote before posting and clarifying 
+who exactly they are speaking on behalf of. The proposal would also require that faculty polemical commentary be posted on a webpage clearly marked as an opinion page that’s not speaking on the behalf of the university. 
+The proposal has been tabled until May; when it was first introduced by Regent Jay Sures, pro-Palestinian protesters shouted “shame on you!” and accused Sures of attempting to censor their point of view.
 
-
+https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/
 
 
 https://www.aclu.org/know-your-rights/protesters-rights
@@ -36,7 +41,10 @@ prepare them for the presence of future counter-protesters, Annie said. In a Thu
 had told encampment participants not to engage with counter-protesters. “We are focused on the safety of our people 
 and our students, and so that means engaging in tactics of de-escalation,””42
 
-
+The statue was placed on campus on March 20th and it took until March 28th for UCLA to release a statement. Their solution to its existence was to say it had been removed and refer to UCLA value doctrine and then to "administration-splain" 
+that people "should feel comfortable on campus". As a graduate student with very little involvement with campus culture at UCLA and a 2nd generation American of 1/2 Vietnamese and 1/2 Caucasian racial background, I have little to no 
+experience with tropes related to this issue. I have literally zero bias, and I can say that if it were directed at me, and the only solution the university could come up with in response to "proudly" hateful imagery is to let me know a week 
+late that they "care" and "I should feel good being here" and "it has been removed" I would not feel better at all. The deed has been done, the damage has been done. 
 
 
 

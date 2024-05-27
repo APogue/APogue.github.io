@@ -1,13 +1,13 @@
 Repeated threatening language in the form of chants, physically blocking access to areas on campus, hateful imagery, using social media as a propoganda tool, and parntering with a corrupt student gov't *are* almost certainly pervasive, repeated 
 civil rights violations under Title VI. These activities together have created a systematic device for the bullying and harrassment of students based on shared ancestry. It is gaslighting behavior and morally questionable 
-to use the strife of the Palestinian people as a justification for systematic hate. and while it is easy to root for a cause replete with righeousness, most of us know no issue is morally absolute; so the protest goes on, with many 
+to use the strife of the Palestinian people as a justification for systematic hate. and while it is easy to root for a righteous cause, most of us know no issue is morally absolute; so the protest goes on, with many 
 confused about the true ideological crux of the movement. What is the crux? Well the issues we take up with our government funding a war, with investments in the military-industrial complex, these are *American issues* we have a right to 
 question. But to entangle American students in a conversation about whether Israel should exist perhaps should be saved for an intellectual forum or the classroom, because it does not make sense in an *American* protest. 
 And it is the conflating of these *morally justifiable* issues with those that are both *futile* and outside of our power as Americans that brings Americans to the table only to be disillusioned by so much misplaced hate and anger. To put it in simple
 terms, all the extra "anger baggage" undermines your cause; hurting those you seek to help. 
 
 The same is absolutely true of the non-affiliates, they violated the Title VI rights of students on campus and measures absolutely need to be taken in the future to *immediately* remove a perpetrator from campus the moment they cross the line. 
-But it is incumbant upon UCLA to take steps to help the student body from within and that means taking measures to prevent abuse and harrassment of its students in any shape or form in the future. A first step is to distill the issues---none 
+But it is incumbant upon UCLA to take steps to help the student body from within and that means taking measures to prevent abuse and harrassment of its students in any shape or form. A first step is to distill the issues---none 
 should detract from or serve as justification for another---i.e. the gross negligence by the university in failing to aid students under attack is *its own* issue, and condemning students using political motivations as "a right" to abuse 
 other students is *its own* issue. This applies to any group of shared ancestry or group that identifies with one of shared ancestry. It would be a failure on the part of this paper and deeply hypocritical to say "a problematic" protest is all 
 that matters. These isssues have been happening on campus for months and no student deserves to be abused or harrassed, Jewish or Muslim. 
