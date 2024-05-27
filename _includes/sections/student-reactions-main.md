@@ -12,7 +12,7 @@
 
 
 
-
+you need to say what Paul told you about river to the sea
 
 
 
@@ -28,10 +28,6 @@ if He Does Not Meet PSE Divestment Demands, Grant Amnesty to Affected Students, 
 Cultural Affairs commissioner Alicia Verdugo sponsored the resolution – which passed following a tense debate – with international 
 student representative Adam Tfayli and general representative Jonathan Valenzuela Mejia as co-sponsors."[^42]
 
-Regardless of what the demands are, should a student governing body that is funded and elected by all students be taking part in these resolutions? If 
-the best course of action is for the voting students to hold those that don't represent them accountable, then I have to ask whether a USAC organization commissioner
-that partakes the display of antisemitic imagery on the public facing account of the organization should be permitted to sponsor such resolutions? The imagery on CAC's instagram
-website shows a clear bias against Jewish students and the activity of this commissioner should be called into question. 
 
 https://docs.google.com/document/d/1n_IjZrzQqCUnrS5I2NzZk2J1qLFOKOD73GBnAmqByHE/edit
 https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/664807e1c1c8945ac03764df/1715996641838/5_21_2024+USAC+AGENDA.pdf

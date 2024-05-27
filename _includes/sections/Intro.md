@@ -1,6 +1,6 @@
 University campuses have long been a place where freedom of expression and civil disobedience are welcome. Themes that emerge are mainly that of a 
 marginalized group calling into question the doings or policies of an oppressive power structure. Today we are seeing the largest protest movement on college campuses since
-the Vietnam War. Civil disobedience presupposes "lawful messiness" and "clean conflict"---protesting against the Vietnam War or in favor of civil rights meant standing unilaterally against a singular power.  Today the situation
+the Vietnam War. Civil disobedience assumes "lawful messiness" and "clean conflict"---protesting against the Vietnam War or in favor of civil rights meant standing unilaterally against a singular power.  Today the situation
 isn’t as simple. The protests mirror the complexities that exist in the region itself, the issues are delicate and 
 emotionally charged. As Americans many of its problems are not within our power to solve and yet our many diasporas entrenches us within them.  
 

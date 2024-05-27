@@ -18,7 +18,7 @@ had been removed and to condemn it it as "antisemitic" and "hateful"; calling it
 
 "It is absolutely critical that Jewish members of our community — as well as those of all backgrounds and faiths — are treated with respect and dignity." [^164]
 
-University administrators and Gene Block carried on with the same passive tone during and after the protest. On April 26th Mary Osako, Vice Chacellor for Strategic Communications wrote, 
+University administrators and Gene Block continued with the same tone during and after the protest. On April 26th Mary Osako, Vice Chacellor for Strategic Communications wrote, 
 "It's also important to note that we are following University of California systemwide policy guidance, which directs us not to request law enforcement involvement preemptively, and only if absolutely necessary to protect the physical 
 safety of our campus community."[^167]
 
@@ -27,7 +27,7 @@ When escalating aggression between protesting sides became more and more apparen
 instead chose to jeopardize the physical safety of the community.""[^167]
 
 On April 30th a crytpic flyer was released to the encampment saying,
-"The established ecampment is unlawful and violates university policy. For non-UCLA affiliates: Please be aware hat your presence on campus as a non-affiliate engaged in an encampment violates the law and constitutes criminal behavior subject to 
+"The established ecampment is unlawful and violates university policy. For non-UCLA affiliates: Please be aware that your presence on campus as a non-affiliate engaged in an encampment violates the law and constitutes criminal behavior subject to 
 misdemeanor charges.[^165] 
 
 California Education Code section 92440.5, and the regulations it authorizes, limit the conduct of people who are not students or employees of the University of California on 
@@ -36,59 +36,47 @@ university property. Violations of these regulations are punishable as a misdeme
 Anyone not affiliated with the university who chooses to come to campus should keep these regulations in mind. For example, any sign or flag must be smaller than 30 x 30 inches and on poles shorter than 18 inches (section 100014). No masking 
 (section 100013-L) or camping (section 100005) is allowed."[^165] 
 
-On the same day, following the distributed flyer, at 5:05 pm Gene Block mentioned student conduct investigations into those who had blocked access to parts of campus and declared the encampment to be unauthorized in a campuswide email, ""UCLA 
+On the same day, following the distributed flyer, at 5:05 pm Chancellor Block mentioned student conduct investigations into those who had blocked access to parts of campus and declared the encampment to be unauthorized in a campuswide email, ""UCLA 
 supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid," Block said in the statement. "These incidents have put many on our campus, 
 especially our Jewish students, in a state of anxiety and fear.""[^166] 
 
 The flyer had good intentions in saying, that "law enforcement is on hand to protect and keep safe" students and demonstrators. However as the Daily Bruin states, "The university has not previously called the encampment unlawful or 
-unauthorized."[^166] Really, the messaging was too passive, cryptic, and the email too late to effectively communicate cases of misconduct and the urgency of the matter. It is likely that the UCLA administration did not themselves realize 
+unauthorized."[^166] Really, the messaging was too passive, cryptic, and the email came too late to effectively communicate cases of misconduct and the urgency of the matter. It is likely that the UCLA administration did not themselves realize 
 the urgency, despite mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). Regardless, the efforts to clear the encampment administratively was weak, unclear, and likely left protesters confused. 
-As for counterprotesters, listing off a bunch of codes was unlikely to help them understand the consequences of their actions either. 
+As for counterprotesters, listing off a bunch of codes was unlikely to help them understand the consequences of their actions either. Although judging from their behavior it likely wouldn't have mattered either way. 
 
 The events to follow received a great deal of press. For a full Bruin Daily account of the violence that unfolded on the evening of April 30th please see[^169]. In short, when counter-protesters attempted to breach the encampment barrier to assault protesters, 
 UCPD and private security CSC failed to act right away, and it was not until hours later that LAPD and CHP showed up to the scene to quell the violence. Statements released during and after the protests can be found here.[^161][^162]
 
 
 
-
-
 ## University Support
 {: .custom-section-header}
 
+In response to the violence that broke out the night of April 30th, Chancellor Block stated, "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our 
+campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on social media over the past several days — further damaged our community's sense of security."[^170]
 
+"Block also encouraged people to report incidents of violence to UCPD and discrimination to the Civil Rights Office, as well as using campus counseling resources. LAPD officers remained in Dickson Plaza as of 2:30 p.m. on Wednesday."[^171]
 
-
-
-this is where [cong-hear](##fig:congressional-hearing)
-
-
-
-
-
-[^161]:[UCLA newsroom releases statements on protest](https://newsroom.ucla.edu/campus-statements)
-[^162]:[UCLA Chancellor releases statements on protest](https://chancellor.ucla.edu/messages/)
-[^163]:[Chancellor Gene Block addresses incidents of bigotry on campus](https://chancellor.ucla.edu/messages/standing-against-bigotry-at-the-university-of-california/)
-[^164]:[UCLA releases statement on antisemitic character displayed at UC Regents meeting](https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting)
-[^165]:[UCLA message for those in encampment](https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view)
-[^166]:[Gene Block shuts down encampment](https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression)
-[^167]:[UCLA follows UC systemwide policy on law enforcement](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26)
-[^168]:[UCLA condemns early aggression during protest](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)
-[^169]:[Full scrape of daily bruin regarding protest events](https://alexiepogue.com/2024/05/07/Scraped-the-Daily-Bruin-Regarding-Protest-Events/)
+"Students denounced UCLA's decision to have police sweep the Palestine solidarity encampment early Thursday morning (5/2), saying the degree of force was excessive on what they saw as peaceful protest."[^172]
+ 
+"Chancellor Gene Block announced Sunday that the university has created a new Office of Campus Safety, which will manage UCPD and the Office of Emergency Management."[^173] 
+ 
+"The change moves the oversight of UCPD and campus safety operations away from the office of Administrative Vice Chancellor Michael Beck to the new office."[^173] 
+ 
+"The Office of Campus Safety will be led by inaugural Associate Vice Chancellor Rick Braziel[^174][^175], who has worked in public safety for more than 30 years, according to the email announcement. He served as the chief of 
+police for the Sacramento Police department from 2008 to 2012 and has been an instructor at California State University, Humboldt since 2000."
 
 
 
 
 
 
+https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
 
 https://equity.ucla.edu/preventing-antisemitism-at-ucla/
 
-https://www.adl.org/campus-antisemitism-report-card/university-california-los-angeles
-
 https://www.jadaliyya.com/Details/45989
-
-https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view
-
 
 
 
@@ -111,3 +99,22 @@ https://equity.ucla.edu/edi-education-preventing-discrimination-harassment/
 New student and orientation-
 https://ucla.app.box.com/s/evf1n3xn580dzfsdo0ks3lugm12c36ds
 
+
+
+[^161]:[UCLA newsroom releases statements on protest](https://newsroom.ucla.edu/campus-statements)
+[^162]:[UCLA Chancellor releases statements on protest](https://chancellor.ucla.edu/messages/)
+[^163]:[Chancellor Gene Block addresses incidents of bigotry on campus](https://chancellor.ucla.edu/messages/standing-against-bigotry-at-the-university-of-california/)
+[^164]:[UCLA releases statement on antisemitic character displayed at UC Regents meeting](https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting)
+[^165]:[UCLA message for those in encampment](https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view)
+[^166]:[Gene Block shuts down encampment](https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression)
+[^167]:[UCLA follows UC systemwide policy on law enforcement](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26)
+[^168]:[UCLA condemns early aggression during protest](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)
+[^169]:[Full scrape of daily bruin regarding protest events](https://alexiepogue.com/2024/05/07/Scraped-the-Daily-Bruin-Regarding-Protest-Events/)
+[^170]:[Gene Block condemns violence after April 30th](https://chancellor.ucla.edu/messages/condemning-violence-in-our-community/)
+[^171]:[Block tells students where to report incidents](https://dailybruin.com/2024/05/01/ucla-cancels-classes-following-violence-at-palestine-solidarity-encampment)
+[^172]:[Students condemn police sweep of encampment](https://dailybruin.com/2024/05/04/students-condemn-police-sweep-of-palestine-solidarity-encampment)
+[^173]:[Gene Blocl announces new office of campus safety](https://dailybruin.com/2024/05/05/chancellor-gene-block-announces-office-of-campus-safety)
+[^174]:[Who is Rick Braziel?](https://www.recordnet.com/story/news/crime/2015/08/17/independent-report-offers-praise-criticism/33665614007/)
+[^175]:[Who is Rick Braziel? 2](https://www.abc10.com/article/news/local/former-sacramento-police-chief-picked-lead-ucla-campus-safety-office-amid-protests/103-0c863e23-3bb2-44a3-ad0d-99e57bb67052)
+[^176]:[]
+[^177]:[]
