@@ -30,6 +30,11 @@ https://www.aclu.org/know-your-rights/protesters-rights
 
 https://www.youtube.com/watch?v=4bu4eGIDNss&ab_channel=HouseCommitteeonEducation%26theWorkforce
 
+https://equity.ucla.edu/about-us/our-teams/civil-rights-office/discrimination-prevention/learn/
+
+https://equity.ucla.edu/know/
+
+
 
 The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift
  emphasizes the violence against Israelis over Palestinians. They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than 
@@ -82,3 +87,14 @@ and yet the office of education just awarded UCLA 8 million dollars in funding f
  
 Everyone needs Title VI training, undergraduates, graduate students, professors, administration, everyone. Because academia is a cesspool of toxic behavior with a complete lack of disciplinary action or oversight. There is no HR in academia and 
 I guarantee every student would want one---a guide to *professional*, *appropriate*, behavior would be a huge quality of life boost for everyone at this university. 
+
+52 minutes talks about doe youtube
+
+1.50 trining module youtube
+
+2.02 what is block planning on doing over the summer
+
+
+https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
+
+https://www.artistrights.info/time-place-and-manner-restrictions#:~:text=Content%2Dneutral%20time%2C%20place%2C,fashion%20to%20disadvantage%20disfavored%20ideas.

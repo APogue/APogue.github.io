@@ -52,52 +52,48 @@ UCPD and private security CSC failed to act right away, and it was not until hou
 
 ## University Support
 {: .custom-section-header}
-
-In response to the violence that broke out the night of April 30th, Chancellor Block stated, "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our 
+In the days after the encampment was cleared, Block gave an "opinion" on the encampment while also condemning the violence, "However one feels about the encampment, this attack on our students, faculty and community members was utterly 
+unacceptable. It has shaken our 
 campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on social media over the past several days — further damaged our community's sense of security."[^170]
 
-"Block also encouraged people to report incidents of violence to UCPD and discrimination to the Civil Rights Office, as well as using campus counseling resources. LAPD officers remained in Dickson Plaza as of 2:30 p.m. on Wednesday."[^171]
+He also gave students the standard resources for reporting, "Block also encouraged people to report incidents of violence to UCPD and discrimination to the Civil Rights Office, as well as using campus counseling resources. LAPD officers 
+remained in Dickson Plaza as of 2:30 p.m. on Wednesday."[^171]
 
-"Students denounced UCLA's decision to have police sweep the Palestine solidarity encampment early Thursday morning (5/2), saying the degree of force was excessive on what they saw as peaceful protest."[^172]
+While the degree of force was excessive, it seems students remained confused about why "protesting peacefully" meant forcible removal, "Students denounced UCLA's decision to have police sweep the Palestine solidarity encampment early 
+Thursday morning (5/2), saying the degree of force was excessive on what they saw as peaceful protest."[^172]
  
-"Chancellor Gene Block announced Sunday that the university has created a new Office of Campus Safety, which will manage UCPD and the Office of Emergency Management."[^173] 
+Block has since been addressing the violence with administrative changes, "Chancellor Gene Block announced Sunday that the university has created a new Office of Campus Safety, which will manage UCPD and the Office of Emergency Management."[^173] 
  
 "The change moves the oversight of UCPD and campus safety operations away from the office of Administrative Vice Chancellor Michael Beck to the new office."[^173] 
  
 "The Office of Campus Safety will be led by inaugural Associate Vice Chancellor Rick Braziel[^174][^175], who has worked in public safety for more than 30 years, according to the email announcement. He served as the chief of 
-police for the Sacramento Police department from 2008 to 2012 and has been an instructor at California State University, Humboldt since 2000."
+police for the Sacramento Police department from 2008 to 2012 and has been an instructor at California State University, Humboldt since 2000."[^173] 
+
+
+In general, there are targeted and optional resources for faculty, employees, and students with respect to civil rights protections. Civil rights training modules for the UCLA community are located here.[^178] Title IX training is required for 
+everyone, annually or biannually. while Title VI and VII are not federally mandated, faculty do receive mandatory Title VII training as well (workplace discrimination).[^179] A workshop is also available (optional, upon request) called "Establishing 
+Equity and Inclusion in the University Setting: Strategies, Resources and Best Practices (live workshop provided by EDI)" which would presumably cover Faculty interactions with students, likely involving some Title VI protections and 
+code of conduct.[^180]
+
+For students, it is unknown whether Title VI training is mandatory. There is a power point presentation that students receive at orientation here[^181]. Gene Block mentioned at the House committee hearing that currently the training (a 12 slide
+power point) has an 80% participation rate, so it is presumed optional. From the looks of it, the power point is reductive, with sparse information with respect to code of conduct but reporting information is present. 
+
+In general, there are informational resources given by the Office of Equity, Diversity, and Inclusion that oversees the Civil Rights Office. Among the offices that make up the CRO are the Title IX Office and the Discrimination Prevention Office (DPO).
+Education and reporting goes through any of these offices. UCLA's efforts with respect to specific groups can be seen here for Jewish students[^176] and Palestinian, Muslim, and Arab students[^177].
 
 
 
 
 
 
-https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
-
-https://equity.ucla.edu/preventing-antisemitism-at-ucla/
-
-https://www.jadaliyya.com/Details/45989
 
 
 
-this link is mandatory training
-https://equity.ucla.edu/education/mandatory-trainings/
 
-https://equity.ucla.edu/about-us/our-teams/civil-rights-office/discrimination-prevention/learn/
 
-https://equity.ucla.edu/know/
 
-https://equity.ucla.edu/education/ucla-edi-education-series/
 
-Looks like not mandatory
 
-https://equity.ucla.edu/education/ucla-edi-education-series/
-
-Training page- main
-https://equity.ucla.edu/edi-education-preventing-discrimination-harassment/
-
-New student and orientation-
-https://ucla.app.box.com/s/evf1n3xn580dzfsdo0ks3lugm12c36ds
 
 
 
@@ -116,5 +112,9 @@ https://ucla.app.box.com/s/evf1n3xn580dzfsdo0ks3lugm12c36ds
 [^173]:[Gene Blocl announces new office of campus safety](https://dailybruin.com/2024/05/05/chancellor-gene-block-announces-office-of-campus-safety)
 [^174]:[Who is Rick Braziel?](https://www.recordnet.com/story/news/crime/2015/08/17/independent-report-offers-praise-criticism/33665614007/)
 [^175]:[Who is Rick Braziel? 2](https://www.abc10.com/article/news/local/former-sacramento-police-chief-picked-lead-ucla-campus-safety-office-amid-protests/103-0c863e23-3bb2-44a3-ad0d-99e57bb67052)
-[^176]:[]
-[^177]:[]
+[^176]:[Preventing antisemetism at UCLA](https://equity.ucla.edu/preventing-antisemitism-at-ucla/)
+[^177]:[UCLA Task Force on Anti-Palestinian, Anti-Muslim, and Anti-Arab Racism](https://www.jadaliyya.com/Details/45989)
+[^178]:[Title VI, VII, & IX training for UCLA community](https://equity.ucla.edu/edi-education-preventing-discrimination-harassment/)
+[^179]:[UCLA mandatory trainings](https://equity.ucla.edu/education/mandatory-trainings/)
+[^180]:[Establishing equity and inclusion in a university setting](https://equity.ucla.edu/discrimination-harassment-based-on-protected-categories-trainings-for-faculty-and-staff/)
+[^181]:[Undergraduate Title VI orientation training](https://ucla.app.box.com/s/evf1n3xn580dzfsdo0ks3lugm12c36ds)
