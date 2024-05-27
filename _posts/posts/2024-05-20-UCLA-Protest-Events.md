@@ -33,14 +33,15 @@ date: 2024-05-20
 //Bring the chicano thing here (the article and the student quote)//
 
 ## Title VI <span id="Title VI"></span>
+
 ## Title IX 
 {: .custom-section-header}
 {% include sections/title-IX.md %}
 ## Title VI 
 {: .custom-section-header}
 {% include sections/title-VI.md %}
-## UCLA Policy--Should
-{: .custom-section-header}
+
+## UCLA Policy&mdash;Should <span id="UCLA Policy&mdash;Should"></span>
 {% include sections/ucla-policy-should.md %}
 
 ## Takeaways <span id="Takeaways"></span>
