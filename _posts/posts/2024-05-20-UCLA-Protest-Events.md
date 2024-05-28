@@ -28,9 +28,6 @@ date: 2024-05-20
 ## Student Reactions <span id="Student Reactions"></span>
 {% include sections/student-reactions-main.md %}
 
-//Bring the Gene Block call to resign by student gov't thing here//
-//Bring the chicano thing here (the article and the student quote)//
-
 ## Title VI <span id="Title VI"></span>
 
 ## Title IX 

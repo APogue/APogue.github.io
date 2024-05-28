@@ -50,7 +50,7 @@ with classic antisemitic stereotypes, it is impossible not to recoil."
 </figure>
 
 While the antisemitic imagery displayed in [21](##fig:regents-antisemitic-pig) might be obvious to some, this is not the case for others. [22](##fig:reddit-regents-pig) shows "MysteriousQueen81" attempting to gamify logic in order to argue the
-semantics underlying the imagery. To which anyone familiar with racist imagery in our art[^56] and culture[^57] might borrow "ToTheLastParade"'s response in saying, "The mental gymnastics in this post..." 
+semantics underlying the imagery. To which anyone familiar with racist imagery in our art and culture might borrow "ToTheLastParade"'s response in saying, "The mental gymnastics in this post..." 
 
 [Figure 23](##fig:Hillel-oct-concern-1) and [Figure 24](##fig:hillel-oct-concern-2) depict Hillel's Executive Director, Dan Gold messaging over the pro-Palestinian movement's immediate offensive stance after the events of Oct 7th. The posts, 
 dated October 26th, refer to a flooding of "emails and phone calls from constituents and stakeholders from every corner of our community" over the chant against "Israel and Jews..."we charge you with genocide"". 
@@ -101,8 +101,7 @@ Palestine”. No one has the right to physically block peaceful students from ac
   <figcaption>Figure 28: SJP post with video of harassment </figcaption>
 </figure>
 
-[^56]:[Racist black imagery](https://www.slj.com/story/The-problem-with-picture-book-monkeys-racist-imagery-libraries)
-[^57]:[H&M retracts controversial ad](https://www.theguardian.com/fashion/2018/jan/08/h-and-m-apologises-over-image-of-black-child-in-monkey-hoodie)
+
 [^57]:[SJP harassment encounter](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=6)
 [^58]:[David Myers Op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
 [^59]:[Reddit r/UCLA take on non-affiliate protester](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)

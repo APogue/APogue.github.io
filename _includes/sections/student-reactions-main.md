@@ -1,5 +1,5 @@
 
-## r/UCLA
+## r/UCLA 
 {: .custom-section-header}
 I see reddit as a virtual structure with lots of rooms; I walk down its hallways and can hear the animated chatter of its members, and sometimes I pause to listen and learn. 
 This Reddit community gives insight into student’s opinions, gaps in understanding, curiosity, the support they need, and the concerns they have. The dates of posts shown here vary, but most approximately coincide with protest 
@@ -9,7 +9,7 @@ and feeling in as honest a way as possible, without a filter. That being said, r
 It is simply "a window" into the thoughts of some people from within the r/UCLA community. 
 
 Themes offering valuable lessons range from aspects of the protest that caused backlash, confusion over what the overall protest message was, conversations about cultural identity, and the opinions of people
-not personally involved who are expressing a "neutral" or moderate take. The posts range from excellent examples of how to process these tense and emotional times to counterproductive arguments that harbor animus 
+not personally involved who are expressing a "neutral" or moderate take. The posts range from excellent examples of how to process these tense and emotional times to counterproductive and harboring animus 
 for opposing viewpoints. Regardless of the nature of the conversation, people come to the table to take part in a dialogue without being discouraged, which is commendable given our current political climate and a lesson in and of itself.
 
 Specifically, beginning with [figure block](##fig:backlash-1), we see "chuu26" confused about what protester's intentions are when they block the pathways of "all" students. It's important to understand that when a "targeted" group falls
@@ -25,7 +25,7 @@ We also see "chuu26" in some way "aligning" with the pro-Palestinian movement as
 "According to Nitka's diary,...during her Chicano studies class last fall her professor was "blatantly attacking Zionist identity" during class, even though the course subject does not align with the topic of the Israel-Palestine conflict."[^43]
 
 
-It would be beneficial for students and faculty to learn they must evaluate the message of a protest *before* being aggregated by it based on personal identity. Conversations in r/UCLA rightly ask, "what does Palestinian liberation" as 
+It would be beneficial for students and faculty to learn they must evaluate the message of a protest *before* aggregating with it based on personal identity. Conversations in r/UCLA rightly ask, "what does Palestinian liberation" as 
 Nuñez-Verdugo stated, mean exactly? As TheRealMichaelE put it, "The issue I have with the Free Palestine movement is I don't know what it means. There are definitely a lot of people in the movement that just want peace, equality, and reparations
 for Palestinians. There are also people in the movement that suport Oct 7th and Hamas." ([fig](##fig:confusion-over-the-message-of-the-movement-1)). When students lead with identity, a theme we see on the national level with identity politics, we
 are forced to assume the rest, which could range in messaging from moderate to extreme. 
@@ -36,9 +36,9 @@ inclusivity of the protest movement ([fig](##fig:confusion-over-the-message-of-t
 the protesters. It is essential for UCLA to qualify these statements, do they condemn their use? 
 
 <figure id="fig:pal-actionus">
-  <a href="link-place-holder">
+  <a href="https://www.instagram.com/p/C6fXL84tjsX/?hl=en">
     <img src="/images/2024-05-20/reactions-other/sjp-student-intifada.png" 
-     alt="pal-actions celebrates student intifada" style="width: 85%; height: auto;">
+     alt="pal-actions celebrates student intifada" style="width: 75%; height: auto;">
   </a>
   <figcaption>
     Figure 1: Palestine Action US celebrates the student intifada
@@ -66,7 +66,7 @@ unqualified, students are left isolated and alone to process their meaning or th
 understand the consequences of their use. The result is, those who are "hurt" by the words are either forced to succumb to them by peer pressure or they're left feeling like they have to hide their feelings to avoid backlash. 
 When these instances of congnitive and emotional dissonance are happening not just online and during protests, but "during meetings", this immediately points to clear Title VI violations.
 
-The administrations failings to offer any guidance or opinion on the conflict has caused problems spanning the political spectrum. *Especially* now, to ignore the concerning rise in the Palestinian civilian death toll is a failure in rhetoric,
+The administration's failing to offer any guidance or opinion on the conflict has caused problems spanning the political spectrum. *Especially* now, to ignore the concerning rise in the Palestinian civilian death toll is a failure in rhetoric,
 
 “What I would like to see in the administration and what I think the administration will ever do is not the same,” they said. “I just hoped from the beginning for just a general statement of, 
 ‘Any acts of hate or violence toward anybody will not be tolerated.’”[^147]
@@ -81,30 +81,39 @@ statements that have been "pre-approved" by all interested party representatives
 
 ## USAC Involvement 
 {: .custom-section-header}
-"The Undergraduate Students Association Council passed a resolution Tuesday night calling for the resignation of
-Chancellor Gene Block if he does not meet the demands of the Palestine solidarity encampment.
 
-By a 10-3 vote, the council voted to pass the “Resolution Calling for the Immediate Resignation of Chancellor Gene Block 
+On 5/7 the Daily Bruin wrote,
+"The Undergraduate Students Association Council passed a resolution Tuesday night calling for the resignation of
+Chancellor Gene Block if he does not meet the demands of the Palestine solidarity encampment."[^42]
+
+"By a 10-3 vote, the council voted to pass the “Resolution Calling for the Immediate Resignation of Chancellor Gene Block 
 if He Does Not Meet PSE Divestment Demands, Grant Amnesty to Affected Students, and Waive Medical Bills of Those Hospitalized.” 
 Cultural Affairs commissioner Alicia Verdugo sponsored the resolution – which passed following a tense debate – with international 
 student representative Adam Tfayli and general representative Jonathan Valenzuela Mejia as co-sponsors."[^42]
-
-
-https://docs.google.com/document/d/1n_IjZrzQqCUnrS5I2NzZk2J1qLFOKOD73GBnAmqByHE/edit
-https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/664807e1c1c8945ac03764df/1715996641838/5_21_2024+USAC+AGENDA.pdf
-
- 
-
 
 Regardless of what the demands are, should a student governing body that is funded and elected by all students be taking part in these resolutions? If 
 the best course of action is for the voting students to hold those that don't represent them accountable, then I have to ask whether a USAC organization commissioner (CAC)
 that partakes the display of antisemitic imagery on the public facing account of the organization should be permitted to sponsor such resolutions? The imagery on CAC's instagram
 website shows a clear bias against Jewish students and the activity of this commissioner should be called into question. 
 
+Minutes and officer reports from USAC dated May 21st can be found here.[^148][^149]
+
+<figure id="fig:cac-may-statement">
+  <a href="https://www.instagram.com/p/C66oU8uR3FI/?img_index=1">
+    <img src="/images/2024-05-20/reactions-other/cac-harassment-statement.png" 
+     alt="cac-harassment-statement" style="width: 90%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 1: CAC comments on the protest events
+  </figcaption>
+</figure>
+
+The above statement by the CAC dated May 13th notably states that "the Cultural Afairs Commission has, is, and forever will be an organization that stands with the collective liberation for all marginalized communities." From my observations, 
+the CAC finds the promotion of "marginalized" communities to be synonymous with the bullying and harassment of the Jewish community. It finds the promotion of one to be mutually exclusive with the *inclusion* and *representation* of another. 
+Most worrisome are comments such as "incredible statement. taught me a lot. thank you for carefully putting this together, all the resources, and the excellent example you have set." If we're being honest, 
+what example have they set? And is it consistent with the mission statement ([fig](##fig:cac-org-website)) of a USAC organization that's been operating on behalf of UCLA students for more than 50 years?
 
 
-
---------------------------------------------------------
 
 
 [^42]:[USAC passes resolution calling for UCLA Chancellor Gene Block’s resignation](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)
@@ -114,3 +123,5 @@ website shows a clear bias against Jewish students and the activity of this comm
 [^145]:[Jewish students express concern over antisemitism on campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
 [^146]:[400 gathered with UC Divest Coalition and Students for Justice in Palestine at UCLA](https://dailybruin.com/2024/04/25/pro-palestine-encampment-features-teach-ins-speeches-as-counterprotesters-respond)
 [^147]:[Students voice worries over islamophobia on campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+[^148]:[USAC minutes](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/664807e1c1c8945ac03764df/1715996641838/5_21_2024+USAC+AGENDA.pdf)
+[^149]:[CAC 2023-2024 officer report](https://docs.google.com/document/d/1n_IjZrzQqCUnrS5I2NzZk2J1qLFOKOD73GBnAmqByHE/edit)
