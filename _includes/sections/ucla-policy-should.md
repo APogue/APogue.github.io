@@ -1,5 +1,5 @@
 
-
+Also the office of education needs to update their hatespeech vocab, it's not just swastikas anymore
 
 Gold also noted in his email that the UC Regents President Michael Drake announced during the meeting that the 10 UC campuses will be partnering with the Hillel Campus Initiative, which Gold called 
 “a welcome and necessary step to better address campus antisemitism and take meaningful action to ensure our campuses are free of hate and fully accepting and inclusionary for all Jewish students, faculty and community members.”
@@ -10,10 +10,7 @@ The proposal has been tabled until May; when it was first introduced by Regent J
 
 https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/
 
-
 https://www.aclu.org/know-your-rights/protesters-rights
-
-
 
 https://www.youtube.com/watch?v=4bu4eGIDNss&ab_channel=HouseCommitteeonEducation%26theWorkforce
 
@@ -34,13 +31,8 @@ https://equity.ucla.edu/about-us/our-teams/civil-rights-office/discrimination-pr
 
 https://equity.ucla.edu/know/
 
+come to a consensus on Zionism 
 
-
-The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift
- emphasizes the violence against Israelis over Palestinians. They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than 
- Palestinian students.
- 
- 
 A UCLA media-relations office with large reach would help to 
 control and mediate this conversation. Groups with “extreme” rhetoric underlying what could otherwise be a “worthy cause” to students leaves them no choice but to follow their media pages. 
 This page could also pick among student voices that may represent a large portion of the student body but lack media reach, such as Hillel and Chabad. 
@@ -51,27 +43,34 @@ had told encampment participants not to engage with counter-protesters. “We ar
 and our students, and so that means engaging in tactics of de-escalation,””42
 
 The statue was placed on campus on March 20th and it took until March 28th for UCLA to release a statement. Their solution to its existence was to say it had been removed and refer to UCLA value doctrine and then to "administration-splain" 
-that people "should feel comfortable on campus". As a graduate student with very little involvement with campus culture at UCLA and a 2nd generation American of 1/2 Vietnamese and 1/2 Caucasian racial background, I have little to no 
-experience with tropes related to this issue. I have literally zero bias, and I can say that if it were directed at me, and the only solution the university could come up with in response to "proudly" hateful imagery is to let me know a week 
-late that they "care" and "I should feel good being here" and "it has been removed" I would not feel better at all. The deed has been done, the damage has been done. 
+that people "should feel comfortable on campus". I have little to no experience with tropes related to this issue. I have zero bias, and I can say that if it were directed at me, and the only solution the university could come up with in 
+response to "proudly" hateful imagery is to let me know a week late that "it has been removed" and they "care" and "I should feel good being here" I would not feel better at all. The deed has been done, the damage has been done. 
 
 The flyer had good intentions in saying, that "law enforcement is on hand to protect and keep safe" students and demonstrators. However as the Daily Bruin states, "The university has not previously called the encampment unlawful or 
 unauthorized."[^166] Really, the messaging was too passive, cryptic, and the email came too late to effectively communicate cases of misconduct and the urgency of the matter. It is likely that the UCLA administration did not themselves realize 
 the urgency, despite mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). Regardless, the efforts to clear the encampment administratively was weak, unclear, and likely left protesters confused. 
 As for counterprotesters, listing off a bunch of codes was unlikely to help them understand the consequences of their actions either. Although judging from their behavior it likely wouldn't have mattered either way. 
 
+this would go with the descalation quote
+•	Some Jewish organizations on campus, such as Hillel at UCLA, have published statements condemning the harassment of students with opposing views on the war. Kian Kohanteb, a third-year political science student who is a member of the leadership of several Jewish organizations on campus, said multiple organizations have published guidelines ahead of rallies supporting Israel that advise all protestors to avoid Islamophobia.----where is the university on this?
 
-Regardless of what the demands are, should a student governing body that is funded and elected by all students be taking part in these resolutions? If 
-the best course of action is for the voting students to hold those that don't represent them accountable, then I have to ask whether a USAC organization commissioner
-that partakes the display of antisemitic imagery on the public facing account of the organization should be permitted to sponsor such resolutions? The imagery on CAC's instagram
-website shows a clear bias against Jewish students and the activity of this commissioner should be called into question. 
 
+This goes with the slow reaction to protecting protests opinion 
+However, there have been allegations of Islamophobia during and after a rally held Nov. 7 in support of Israel. In a post on Instagram, the Undergraduate Students Association Council’s Cultural Affairs Commission claimed that Zionist protesters harassed, threatened and assaulted students who were showing support for Palestine on the same day as the rally.
+
+
+This goes with the hillel post about no one answering
+•	“Brannon said while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. She added that she has heard of instances of Jewish students not receiving responses to complaints 
+they sent to the UCLA Office of Equity, Diversity and Inclusion.”
+
+
+https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus
 
 https://www.adl.org/campus-antisemitism-report-card/university-california-los-angeles
 
 why are microgroups being targeted, that exist along an axis of discrimination against one another, and why is this the microcosm for the greater university environment? The entire university needs training, 
 
-in descalation tactics, peaceful protesting, what their first ammendment rights are, (how to be a good "activist"), and most importantly how not to infringe on the civil rights of their other students. 
+in descalation tactics, peaceful protesting, what their first ammendment rights are, (how to be a good "activist"), and most importantly how not to infringe on the civil rights of other students. 
 
 
 This should not be about targeted offices and offloading task force objectives to special interest groups. There is a broader need for this training and support, across all UCLA communities. This issue is a symptom of a much greater problem
@@ -86,9 +85,9 @@ complaints" to the DOE or a low likelihood of a lawsuit within the statute of li
 
 
 Now we see antisemitism is shining a light on Title VI. While it has the spotlight, we should address the issue of 
-discrimination on the basis of race and gender as well. Because if in either the case of antisemitism or discrimination based on race and gender you're dealing with a high volume of "less serious" cases of misconduct that denies equal access to an education, *that is very serious*. 
-The world is changing incredibly quickly, it's hard for policy to keep up, and women and minorities are following the same pattern of delayed access that existed in the 70's but in areas like STEM, and perhaps it isn't just the extra educational support that women and minorities need, 
-perhaps an "inclusive environment" means "soft skills" and "professionalism". Perhaps there are more paths than those to the 
+discrimination on the basis of race and gender as well. Because if in either the case of antisemitism or discrimination based on race and gender you're dealing with a high volume of "less serious" cases of misconduct that denies equal 
+access to an education, *that is very serious*. The world is changing incredibly quickly, it's hard for policy to keep up, and women and minorities are following the same pattern of delayed access that existed in the 70's but in areas like
+STEM, and perhaps it isn't just the extra educational support that women and minorities need, perhaps an "inclusive environment" means "soft skills" and "professionalism". Perhaps there are more paths than those to the 
 classroom during a protest that are being blocked.  
  
 and yet the office of education just awarded UCLA 8 million dollars in funding for issues irrelevant to the wellbeing of its student body...
@@ -108,3 +107,11 @@ put the trump triangle here----------------------------------
 https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
 
 https://www.artistrights.info/time-place-and-manner-restrictions#:~:text=Content%2Dneutral%20time%2C%20place%2C,fashion%20to%20disadvantage%20disfavored%20ideas.
+
+
+
+•	NEW: Pro-Palestine protester harasses a Daily Bruin journalist before saying "I hate white people." The woman was live streaming from the UCLA Divest IG account when she made the comment. 
+Immediately after saying she "hates white people" the protester threatened to call the journalist "racist" if she wrote about her. In a separate live stream, the protester threatened to "deal with" the 
+"U.S. Imperialist States." 
+
+https://twitter.com/collinrugg/status/1787521409079791881?s=42&t=eCe1um_BitxRMXAIjUyD8g&fbclid=IwZXh0bgNhZW0CMTAAAR2MDlFR7yf2RR1MuObKYQPTZjKxRmPZP5sJy0gVMzlj59GJr4yt3AqYR5M_aem_ATFdQEJqHvjY2ERHpHCocYAnslU7r2FoePgTeLknCqz6ZLhA9Z9YgkmKJemdgQTH8a3cOe8rbg4xQg0WnOxPpne5
