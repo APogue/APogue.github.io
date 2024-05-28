@@ -71,13 +71,13 @@
 </figure>
 
 <h4>Muslim issues and Islamophobia Figures 49-52</h4>
-<figure id="fig:polarized-debate-1" style="margin-bottom: 20px;">
+<figure id="fig:anti-Muslim-6" style="margin-bottom: 20px;">
     <img src="/images/2024-05-20/reddit-sources/MaleficentGreen7256.png" alt="MaleficentGreen7256" style="width: 100%;">
 </figure>
 <figure id="fig:anti-Muslim-3" style="margin-bottom: 20px;">
 	<img src="/images/2024-05-20/reddit-sources/Queesy_Bookkeeper_73.png" alt="Queesy_Bookkeeper_73" style="width: 100%;">
 </figure>
-<figure id="fig:polarized-debate-2" style="margin-bottom: 20px;">
+<figure id="fig:anti-Muslim-5" style="margin-bottom: 20px;">
     <img src="/images/2024-05-20/reddit-sources/MaleficentGreen7256_2.png" alt="MaleficentGreen7256 part 2" style="width: 100%;">
 </figure>
 <figure id="fig:anti-Muslim-1" style="margin-bottom: 20px;">

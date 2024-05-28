@@ -66,7 +66,18 @@ unqualified, students are left isolated and alone to process their meaning or th
 understand the consequences of their use. The result is, those who are "hurt" by the words are either forced to succumb to them by peer pressure or they're left feeling like they have to hide their feelings to avoid backlash. 
 When these instances of congnitive and emotional dissonance are happening not just online and during protests, but "during meetings", this immediately points to clear Title VI violations.
 
+The administrations failings to offer any guidance or opinion on the conflict has caused problems spanning the political spectrum. *Especially* now, to ignore the concerning rise in the Palestinian civilian death toll is a failure in rhetoric,
 
+“What I would like to see in the administration and what I think the administration will ever do is not the same,” they said. “I just hoped from the beginning for just a general statement of, 
+‘Any acts of hate or violence toward anybody will not be tolerated.’”[^147]
+
+"The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift
+emphasizes the violence against Israelis over Palestinians. They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than 
+Palestinian students."[^147]
+
+The sentiments of the Bruin above are further supported by [fig](##fig:anti-Muslim-6) and [fig](##fig:anti-Muslim-3). It is clear by the repeated concerns of these students that their grievences are going unaddressed. In full context, 
+this is an extremely nuanced, emotional, and personal issue for anyone directly involved. Time, care, and feedback should be involved in better representing all UCLA communitites during these times. Perhaps releasing
+statements that have been "pre-approved" by all interested party representatives would lead to a more inclusive environment, students with less stress and anxiety, and a student body with greater appreciation for their administration. 
 
 ## USAC Involvement 
 {: .custom-section-header}
@@ -95,15 +106,6 @@ website shows a clear bias against Jewish students and the activity of this comm
 
 --------------------------------------------------------
 
-“What I would like to see in the administration and what I think the administration will ever do is not the same,” they said. “I just hoped from the beginning for just a general statement of, ‘Any acts of hate or violence toward anybody will not be tolerated.’”
-
-The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift
- emphasizes the violence against Israelis over Palestinians. They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than 
- Palestinian students.
- 
- https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus
-
-
 
 [^42]:[USAC passes resolution calling for UCLA Chancellor Gene Block’s resignation](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)
 [^43]:[UCLA student sues univeristy over alleged tolerance of campus "terrorists"](https://www.nbclosangeles.com/local-2/ucla-student-sues-university-over-alleged-tolerance-of-campus-terrorists/3411811/?_osource=SocialFlowTwt_LABrand)
@@ -111,4 +113,4 @@ The Palestinian student said they were disappointed that an Oct. 13 statement by
 [^144]:[Faculty talk about protest movement](https://dailybruin.com/2024/04/27/faculty-express-support-for-ongoing-solidarity-encampment-academic-freedom)
 [^145]:[Jewish students express concern over antisemitism on campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
 [^146]:[400 gathered with UC Divest Coalition and Students for Justice in Palestine at UCLA](https://dailybruin.com/2024/04/25/pro-palestine-encampment-features-teach-ins-speeches-as-counterprotesters-respond)
-
+[^147]:[Students voice worries over islamophobia on campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
