@@ -47,11 +47,7 @@ UCPD and private security CSC failed to act right away, and it was not until hou
 
 ## University Support
 {: .custom-section-header}
-In the days after the encampment was cleared, Block gave an "opinion" on the encampment while also condemning the violence, "However one feels about the encampment, this attack on our students, faculty and community members was utterly 
-unacceptable. It has shaken our 
-campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on social media over the past several days — further damaged our community's sense of security."[^170]
-
-He also gave students the standard resources for reporting, "Block also encouraged people to report incidents of violence to UCPD and discrimination to the Civil Rights Office, as well as using campus counseling resources. LAPD officers 
+In the days after the encampment was cleared, Block gave students the standard resources for reporting, "Block also encouraged people to report incidents of violence to UCPD and discrimination to the Civil Rights Office, as well as using campus counseling resources. LAPD officers 
 remained in Dickson Plaza as of 2:30 p.m. on Wednesday."[^171]
 
 While the degree of force was excessive, it seems students remained confused about why "protesting peacefully" meant forcible removal, "Students denounced UCLA's decision to have police sweep the Palestine solidarity encampment early 

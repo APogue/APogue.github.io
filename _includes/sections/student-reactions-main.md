@@ -54,7 +54,7 @@ In [figure](##fig:polarized-debate-6) "BurgersAndRootbeer" states, "Edit" btw in
 What we see in the above [figure](##fig:pal-actionus) and quotes are non-affiliated organizations, students and faculty trying to moderate the conversation around language. I have had a Jewish recent graduate personally tell me she heard 
 chants of "from the river to the sea" when she went to the protest to see everything going on. She went on to say that it was "okay" and "understandable" to her. From what I've read on Instagram ([fig](##fig:cac-instagram-post-2), 
 [fig](##fig:sjp-insta-letter-regents-1), [fig](##fig:sjp-insta-letter-regents-2)), r/UCLA ([fig](##fig:confusion-over-the-message-of-the-movement-8), [fig](##fig:backlash-3 ), 
-[fig](##fig:confusion-over-the-message-of-the-movement-3)), the Daily Bruin[^146], and what I heard directly from a member of the UCLA community, these chants, wording, and phrases are appearing everywhere in the daily lives of Bruins.
+[fig](##fig:confusion-over-the-message-of-the-movement-3)), the Daily Bruin[^146][^145], and what I heard directly from a member of the UCLA community, these chants, wording, and phrases are appearing everywhere in the daily lives of Bruins.
 Based on the various channels of delivery I would say that qualifies as *pervasive*, and given the number of reactions from Bruins and posts I've observed, that qualifies as happening *repeatedly*. 
 
 “Bella Brannon, the student president of Hillel at UCLA, said she has seen a swastika carved into a tree on campus and experienced people making comments that perpetuate antisemitic stereotypes during meetings.”[^145]
@@ -112,8 +112,6 @@ The above statement by the CAC dated May 13th notably states that "the Cultural 
 the CAC finds the promotion of "marginalized" communities to be synonymous with the bullying and harassment of the Jewish community. It finds the promotion of one to be mutually exclusive with the *inclusion* and *representation* of another. 
 Most worrisome are comments such as "incredible statement. taught me a lot. thank you for carefully putting this together, all the resources, and the excellent example you have set." If we're being honest, 
 what example have they set? And is it consistent with the mission statement ([fig](##fig:cac-org-website)) of a USAC organization that's been operating on behalf of UCLA students for more than 50 years?
-
-
 
 
 [^42]:[USAC passes resolution calling for UCLA Chancellor Gene Block’s resignation](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)
