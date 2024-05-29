@@ -22,7 +22,7 @@ shutting them down there must not be one. Which could cause students, already in
 Keeping them informed would have resulted in two paths to the same outcome, either students would have stopped the unlawful behavior or they would have continued but understood why they were being shut down, and may have been more willing to vacate. 
 In either case, the encampment was not shut down out of fear for students' safety, although in hindsight the administration might look better if that had been its intention. The flyer stated that "law enforcement is on hand to protect and keep safe"
 students and demonstrators. But 5 days of weak or absent messaging, then a single flyer and an email at 5:15 pm on the 30th were not enough to head off the mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). 
-The result: confused and defiant students fell prey to mounting aggression from non-affiliates while the university carried on, lackadaisical, mute, and unobservant. 
+The result: confused and defiant students fell prey to mounting aggression from non-affiliates while the university carried on: lackadaisical, mute, and unobservant. 
 
 "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on 
 social media over the past several days — further damaged our community's sense of security."[^170] So, Block did not agree with pro-Palestinian rhetoric, fair enough, he's entitled. But "however one feels about the encampment" is exactly the weak, 
