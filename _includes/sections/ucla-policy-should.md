@@ -1,8 +1,6 @@
 
-
-
-
-
+## Tone
+{: .custom-section-header}
 
 David Myers, a Distinguished Professor at UCLA who holds the Sady and Ludwig Kahn Chair in Jewish History wrote in his op-ed, entitled *Antisemitic imagery at UC Regents meeting protest threatens campus discourse*,
 “Sadly, there are too few voices – at least, audible ones – that are willing to acknowledge, at once, the Hamas-perpetrated massacre of Oct. 7 and the ongoing devastation that Israel has wrought in Gaza. In fact, 
@@ -31,11 +29,23 @@ social media over the past several days — further damaged our community's sens
 too little too late, after the fact individual UCLA has become. It begs the question, UCLA may not agree with its students, but does it care about them, unconditionally? Because communication, rules, and guidance are how to avoid danger befalling them. 
 And the lack thereof may seem like the individual cares about American freedoms, when in fact what happened here betrays a darker objective. Without being too dramatic on the matter, this looks like a cut and dry case of administrative negligence to me.  
 
+Tonal negligence as a "perpetrator" of misconduct is everywhere in this problem. "Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to 
+antisemitic tropes.“I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”[^201] In *Student Reactions* we observe 
+pervasive and frequent use of the words or phrase, "Intifada", "Zionist", and "from the river to the sea..." First off, looking at [figure](##fig:doe-ocr-pamphlet) the DOE's OCR office has what looks to be somewhat "dated" circumstances that raise Title VI 
+concerns---"A Jewish middle school student feels unsafe at school because classmates routinely place notes with swastikas on the student's backpack, perform Nazi salutes, and make jokes about the Holocaust." It is unlikely that a situation like this would arise anymore, because 
+students have found rhetorical "workarounds", so to speak. This situation also seems quite extreme, if this were the bar to clear I'm not sure the House Committee would need to call a hearing. The OCR should update antisemitic vocabulary and devices for pervasive 
+harrassment (this is the age of social media, not written notes). It should also make clear what the *minimum* requirement is for Title VI infringements. 
 
-•	Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to antisemitic tropes.
-•	“I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”
+Under the circumstances where the applicability of Title VI is unclear, the university should take a position on these and other words within the polemical lexicon. Perhaps an online "activist index" could be maintained, whereby language is defined from an American 
+viewpoint (Americans that believe in statehood for Palestine might be referred to as *progressive Zionists* for example). A dedicated UCLA media relations office that's active on campus could be involved in mediating conversations, promoting its position, and 
+spotlighting certain organizations who are positive in the community. It would also serve as a guiding tool with respect to demonstrations or other socially or politically relevant events. "nameOfTheWind1" put it best when they said "It's just unfortunate 
+to me that the org that does the most organizing has these views and on college campuses at least, is mostly the only game in town for pro-Palestinian advocacy" ([fig](##fig:neutral-take-1)). UCLA can be the other "game in town", or it could pass the mic to 
+up and coming positive influencers, giving them the platform they might need to reach students. UCLA could grow its social media presence using events like workshops, round table discussions, teach-ins, a speaker series or by featuring activist artists. The point
+I'm trying to make is, the pervasiveness of the problematic behavior comes from the absence of UCLA's "voice" which is creating a vacuum and the void is being filled with the chaos and confusion of its students. 
 
 
+## Safety
+{: .custom-section-header}
 
 
 A UCLA media-relations office with large reach would help to 
@@ -47,16 +57,11 @@ This page could also pick among student voices that may represent a large portio
 come to a consensus on Zionism 
 
 
-The flyer had good intentions in saying, that "law enforcement is on hand to protect and keep safe" students and demonstrators. However as the Daily Bruin states, "The university has not previously called the encampment unlawful or 
-unauthorized."[^166] Really, the messaging was too passive, cryptic, and the email came too late to effectively communicate cases of misconduct and the urgency of the matter. It is likely that the UCLA administration did not themselves realize 
-the urgency, despite mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). Regardless, the efforts to clear the encampment administratively was weak, unclear, and likely left protesters confused. 
-As for counterprotesters, listing off a bunch of codes was unlikely to help them understand the consequences of their actions either. Although judging from their behavior it likely wouldn't have mattered either way. 
-
 
 Some Jewish organizations on campus, such as Hillel at UCLA, have published statements condemning the harassment of students with opposing views on the war. Kian Kohanteb, a 
 third-year political science student who is a member of the leadership of several Jewish organizations on campus, said multiple organizations have published guidelines ahead of rallies 
 supporting Israel that advise all protestors to avoid Islamophobia.----where is the university on this?
-safety -----------------------------------------------------------
+
 
 However, there have been allegations of Islamophobia during and after a rally held Nov. 7 in support of Israel. In a post on Instagram, the Undergraduate Students Association Council’s Cultural Affairs Commission 
 claimed that Zionist protesters harassed, threatened and assaulted students who were showing support for Palestine on the same day as the rally.
@@ -72,7 +77,9 @@ https://forward.com/opinion/608479/ucla-violence-campus-protests/
 
 
 
-accountability-------------------------------------
+## Accountability
+{: .custom-section-header}
+
 
 This goes with the hillel post about no one answering
 •	“Brannon said while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. She added that she has heard of instances of Jewish students not receiving responses to complaints 
@@ -109,12 +116,9 @@ https://twitter.com/collinrugg/status/1787521409079791881?s=42&t=eCe1um_BitxRMXA
 
 
 
+## Education 
+{: .custom-section-header}
 
-
-
-
-
-education------------------------------------------
 put the trump triangle here----------------------------------
 
 1.50 trining module youtube
