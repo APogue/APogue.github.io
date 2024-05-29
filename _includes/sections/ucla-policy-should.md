@@ -43,24 +43,20 @@ to me that the org that does the most organizing has these views and on college 
 up and coming positive influencers, giving them the platform they might need to reach students. UCLA could grow its social media presence using events like workshops, round table discussions, teach-ins, a speaker series or by featuring activist artists. The point
 I'm trying to make is, the pervasiveness of the problematic behavior comes from the absence of UCLA's "voice" which is creating a vacuum and the void is being filled with the chaos and confusion of its students. 
 
+"Some Jewish organizations on campus, such as Hillel at UCLA, have published statements condemning the harassment of students with opposing views on the war. Kian Kohanteb, a third-year political science student who is a member of the leadership of several Jewish 
+organizations on campus, said multiple organizations have published guidelines ahead of rallies supporting Israel that advise all protestors to avoid Islamophobia."[^202]
 
-## Safety
+“The protesters inside the encampment are also planning on hosting de-escalation workshops for participants to help prepare them for the presence of future counter-protesters, Annie said. In a Thursday morning Instagram post, SJP 
+had told encampment participants not to engage with counter-protesters. “We are focused on the safety of our people and our students, and so that means engaging in tactics of de-escalation,””[^42]
+
+Above are a couple examples of organizations taking it upon themselves to be the realtime protest guide to students. Organizations are not "obligated" to uphold best practices, they don't have large media reach, and they may harbor extreme views. It is careless 
+to rely soley on them. 
+
+## Accountability
 {: .custom-section-header}
 
+Accountability is about more than the bureaucratic processes and committee reviews of misconduct, i.e. accountability is about more than just punishment. 
 
-A UCLA media-relations office with large reach would help to 
-control and mediate this conversation. Groups with “extreme” rhetoric underlying what could otherwise be a “worthy cause” to students leaves them no choice but to follow their media pages. 
-This page could also pick among student voices that may represent a large portion of the student body but lack media reach, such as Hillel and Chabad. 
-
-
-
-come to a consensus on Zionism 
-
-
-
-Some Jewish organizations on campus, such as Hillel at UCLA, have published statements condemning the harassment of students with opposing views on the war. Kian Kohanteb, a 
-third-year political science student who is a member of the leadership of several Jewish organizations on campus, said multiple organizations have published guidelines ahead of rallies 
-supporting Israel that advise all protestors to avoid Islamophobia.----where is the university on this?
 
 
 However, there have been allegations of Islamophobia during and after a rally held Nov. 7 in support of Israel. In a post on Instagram, the Undergraduate Students Association Council’s Cultural Affairs Commission 
@@ -77,32 +73,15 @@ https://forward.com/opinion/608479/ucla-violence-campus-protests/
 
 
 
-## Accountability
-{: .custom-section-header}
-
 
 This goes with the hillel post about no one answering
 •	“Brannon said while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. She added that she has heard of instances of Jewish students not receiving responses to complaints 
 they sent to the UCLA Office of Equity, Diversity and Inclusion.”
 
-Gold also noted in his email that the UC Regents President Michael Drake announced during the meeting that the 10 UC campuses will be partnering with the Hillel Campus Initiative, which Gold called 
-“a welcome and necessary step to better address campus antisemitism and take meaningful action to ensure our campuses are free of hate and fully accepting and inclusionary for all Jewish students, faculty and community members.”
+fig:hillel-dec-letter
 
 
-According to The Los Angeles Times, one of the issues discussed during the UC Regents meeting was a proposal requiring faculty departments to put any polemical commentary statements up to a vote before posting and clarifying 
-who exactly they are speaking on behalf of. The proposal would also require that faculty polemical commentary be posted on a webpage clearly marked as an opinion page that’s not speaking on the behalf of the university. 
-The proposal has been tabled until May; when it was first introduced by Regent Jay Sures, pro-Palestinian protesters shouted “shame on you!” and accused Sures of attempting to censor their point of view.
 
-https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/
-
-The statue was placed on campus on March 20th and it took until March 28th for UCLA to release a statement. Their solution to its existence was to say it had been removed and refer to UCLA value doctrine and then to "administration-splain" 
-that people "should feel comfortable on campus". I have little to no experience with tropes related to this issue. I have zero bias, and I can say that if it were directed at me, and the only solution the university could come up with in 
-response to "proudly" hateful imagery is to let me know a week late that "it has been removed" and they "care" and "I should feel good being here" I would not feel better at all. The deed has been done, the damage has been done. 
-
-
-This goes with the hillel post about no one answering
-•	“Brannon said while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. She added that she has heard of instances of Jewish students not receiving responses to complaints 
-they sent to the UCLA Office of Equity, Diversity and Inclusion.”
 
 
 
@@ -125,15 +104,11 @@ put the trump triangle here----------------------------------
 
 2.02 what is block planning on doing over the summer
 
-“The protesters inside the encampment are also planning on hosting de-escalation workshops for participants to help 
-prepare them for the presence of future counter-protesters, Annie said. In a Thursday morning Instagram post, SJP 
-had told encampment participants not to engage with counter-protesters. “We are focused on the safety of our people 
-and our students, and so that means engaging in tactics of de-escalation,””42
+"Muslim students describe, for example, being told by peers in class that "you started 911" and being called "terrorist""[figure](##fig:doe-ocr-pamphlet)
 
 •	“Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now,” they said. 
 
 https://www.aclu.org/know-your-rights/protesters-rights
-
 
 
 in descalation tactics, peaceful protesting, what their first ammendment rights are, (how to be a good "activist"), and most importantly how not to infringe on the civil rights of other students. 
@@ -172,9 +147,9 @@ https://www.adl.org/campus-antisemitism-report-card/university-california-los-an
 
 
 
-in general-------------------------------------------------------------
+## UCLA Needs More
+{: .custom-section-header}
 
-Also the office of education needs to update their hatespeech vocab, it's not just swastikas anymore
 
 
 52 minutes talks about doe youtube
@@ -183,6 +158,9 @@ how big is the problem? go into the excel data here...
 
 why are microgroups being targeted, that exist along an axis of discrimination against one another, and why is this the microcosm for the greater university environment? The entire university needs training, 
 
+Gold also noted in his email that the UC Regents President Michael Drake announced during the meeting that the 10 UC campuses will be partnering with the Hillel Campus Initiative, which Gold called 
+“a welcome and necessary step to better address campus antisemitism and take meaningful action to ensure our campuses are free of hate and fully accepting and inclusionary for all Jewish students, faculty and community members.”
+https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/
 
 
 
