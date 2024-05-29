@@ -8,13 +8,12 @@ David Myers, a Distinguished Professor at UCLA who holds the Sady and Ludwig Kah
 “Sadly, there are too few voices – at least, audible ones – that are willing to acknowledge, at once, the Hamas-perpetrated massacre of Oct. 7 and the ongoing devastation that Israel has wrought in Gaza. In fact, 
 it is possible to acknowledge both – and to support the long-deferred right to self-determination of Palestinians and the right of Jews to live in peace and security in the land they inhabit.”[^200]
 
-
 It would be sensible to say, UCLA as an institution should behave like an "individual"; a person with views on matters that permit them to agree and disagree with other views without infringing on anyone's 1st Ammendment rights. 
-This individual would be "highly influential" because they are well informed, have abundant resources, and global reach. Take for example, the quote by Myers. While he, like many influential people, is beholden to stakeholders, 
+This individual would be "highly influential" because they are well informed, have abundant resources, and global reach. Take for example, the quote by Dr. Myers. While he, like many influential people, is beholden to stakeholders, 
 he found the fortitude and the courage to speak up and take a position in these tumultuous times. Currently, the UCLA "individual" is absent---there have been no positions taken, which is problematic when trying to head off a growing 
-problem. In contrast, an individual with convictions can predict the direction of a mounting problem and attempt to course correct using their own personal set of values. If there is no one around to worry over the direction and course of UCLA's 
+problem. In contrast, an individual with convictions can predict the direction of a mounting problem and attempt to course correct using their own personal set of values. But if there's no one around to worry over the direction of UCLA's 
 campus climate, if there's no one to say, "I don't like where this is going", then the direction it takes is left in the hands of the young and inexperienced. The outcome is at the cost of the young and inexperienced, because thus far UCLA's weak 
-tone and vague policy adherance has caused it to largely function as a "hands-off" governing body students report incidents to and take issue with *after* the damage has been done. The signs that this is how UCLA is functioning are everywhere, 
+tone and vague policy adherance has caused it to largely function as a "hands-off" governing body students report incidents to and take issue with *after* the damage has been done. The signs that this is how UCLA is functioning are everywhere---
 
 The university took no position on pro-Palestinian messaging during the protests and offered no support to students regarding time, place, and manner restrictions. UCLA (the "individual") needs to be "louder" and more resolute. If UCLA didn't like 
 where things were going, it might condemn antisemitic chants. If it didn't like where things were headed, it might say, "blockading students from going to their classes is not protected by the 1st ammendment, and if any student continues this behavior
@@ -30,7 +29,7 @@ The result: confused and defiant students fell prey to mounting aggression from 
 "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on 
 social media over the past several days — further damaged our community's sense of security."[^170] So, Block did not agree with pro-Palestinian rhetoric, fair enough, he's entitled. But "however one feels about the encampment" is exactly the weak, 
 too little too late, after the fact individual UCLA has become. It begs the question, UCLA may not agree with its students, but does it care about them, unconditionally? Because communication, rules, and guidance are how to avoid danger befalling them. 
-And the lack thereof may seem like the individual cares about American freedoms, when in fact what happened here betrays a darker objective. Without being too dramatic on the matter, this looks like a cut and dry case of negligence to me.  
+And the lack thereof may seem like the individual cares about American freedoms, when in fact what happened here betrays a darker objective. Without being too dramatic on the matter, this looks like a cut and dry case of administrative negligence to me.  
 
 
 •	Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to antisemitic tropes.
