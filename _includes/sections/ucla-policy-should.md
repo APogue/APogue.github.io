@@ -68,7 +68,7 @@ It is careless to rely soley on them.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-The student speaking in this live stream has had an encounter with the Daily Bruin before, in [bla](##fig:feb-8-rally) she led a small rally and had an encounter with a Daily Bruin reporter (see *Months Prior to Protest Events*). Condemning 
+The student speaking in this live stream been quoted by the Daily Bruin before, in [bla](##fig:feb-8-rally) when leading a small rally she was promoting hatespeech (see *Months Prior to Protest Events*). Condemning 
 her language publically would raise more awareness about UC Divest and SJP's extreme rhetoric.
 
 Hillel's student president Bella Brannon stated in a Daily Bruin article dated November 19th that, “while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. 
@@ -88,7 +88,7 @@ The same is true of the non-affiliates. There were incidents happening as early 
 "However, there have been allegations of Islamophobia during and after a rally held Nov. 7 in support of Israel. In a post on Instagram, the Undergraduate Students Association Council’s Cultural Affairs Commission 
 claimed that Zionist protesters harassed, threatened and assaulted students who were showing support for Palestine on the same day as the rally."
 
-And accounts of one-sided instigation by Dr. Myers that were surely not protected by 1st ammendment rights, 
+And accounts of one-sided instigation by Dr. Myers that were surely not protected by the 1st ammendment, 
 "Over the course of our hours on the front lines, I estimate that more than 90% of the verbal and physical instigation came from the agitated counterdemonstrators, a fair number of whom spoke Hebrew and appeared to 
 come from outside campus. The anti-war group had yellow-vested personnel who maintained discipline and sought to deescalate when the threat of violence arose."[^202]
 
@@ -101,40 +101,33 @@ Certain members of instigating groups should be banned from campus for using hat
 ## Education 
 {: .custom-section-header}
 
-refer to trump triangle here----------------------------------
+It ocurred to me that a lot of people have never seen the Nazi classification triangle, well, here it is - [figure](##fig:trump-red-triangle). Know it, report it, simple as that. 
 
-fig:trump-red-triangle
+Otherwise what we've learned from this last year: "From the River to the Sea", "Intifada", "Zionist" are part of *extreme*, polemic rhetoric. Until the DOE or other intersted groups can come to a consensus on 
+how to address the use of these words, don't chant them, don't write them, don't use them without being prepared to align with anti-American interests.  
 
-1.50 trining module youtube
+The DOE has addressed other hatespeech, 
+"Muslim students describe, for example, being told by peers in class that "you started 911" and being called "terrorist"", [figure](##fig:doe-ocr-pamphlet), and we know students at UCLA are a victim of this language, 
 
-2.02 what is block planning on doing over the summer
+“Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now,”[^202].
+This isn't highschool but it seems like students need things spelled out explicitly, this word is hatespeech, there are consequenced to its use, period. 
 
-"Muslim students describe, for example, being told by peers in class that "you started 911" and being called "terrorist""[figure](##fig:doe-ocr-pamphlet)
+We've also learned that certain "civil disobedience" is not protected, and cause a lot of backlash. There are students who can't get to class, to their jobs, who are disabled and prevented access. They *hate* it when protesters 
+block their pathways; they talk to eachother and they spread the word. Scenes like this could be reanacted in a Title VI training video to illustrate. Ultimately the backlash is significant enough to measurably undermine 
+a cause, and more importantly it gives administrators the right to shut a protest down. 
 
-•	“Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now,” they said. 
+Other important topics: if a student witnesses incidents of Title VI or potential Title VI violations, it should be reported; how to be a "message activist" rather than an "identity activist", how as an organization to have a "clear" 
+message and stay on message, descalation tactics, 1st Ammendment rights[^213][^214][^215], fostering an inclusive environment, basic professionalism, and the list goes on. 
 
-https://www.aclu.org/know-your-rights/protesters-rights
-
-in descalation tactics, peaceful protesting, what their first ammendment rights are, (how to be a good "activist"), and most importantly how not to infringe on the civil rights of other students. 
-
-Reanactments of students blocking other students. Or students witnessing hate speech or imagery, "if you see something, say something". 
-
-Here is where you write about block and an "online module"
-
-https://www.aclu.org/know-your-rights/protesters-rights
+The Office of Equity, Diversity, and Inclusion has good foundational resources to "learn" here[^211] and to "know" here[^212]. 
 
 
-https://equity.ucla.edu/about-us/our-teams/civil-rights-office/discrimination-prevention/learn/
 
-https://equity.ucla.edu/know/
-
-https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
-
-https://www.artistrights.info/time-place-and-manner-restrictions#:~:text=Content%2Dneutral%20time%2C%20place%2C,fashion%20to%20disadvantage%20disfavored%20ideas.
-
-https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus
-
-https://www.adl.org/campus-antisemitism-report-card/university-california-los-angeles
+[^211]:[EDI learning materials "learn"](https://equity.ucla.edu/about-us/our-teams/civil-rights-office/discrimination-prevention/learn/)
+[^212]:[EDI learning materials "know"](https://equity.ucla.edu/know/)
+[^213]:[aclu know you rights](https://www.aclu.org/know-your-rights/protesters-rights)
+[^214]:[time place and manner restrictions](https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/)
+[^215]:[more on time place and manner](https://www.artistrights.info/time-place-and-manner-restrictions#:~:text=Content%2Dneutral%20time%2C%20place%2C,fashion%20to%20disadvantage%20disfavored%20ideas)
 
 
 ## UCLA Needs to Do More
@@ -207,7 +200,7 @@ example here[^205]. The survey needs to be separated from the other surveys on c
 
 
 [^200]:[David Myers op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
-[^201]:[Jewish Bruins express concern over antisemitism on campus)(https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
+[^201]:[Jewish Bruins express concern over antisemitism on campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
 [^202]:[Bruins voice worries over Islamophobia on campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
 [^203]:[Understanding the evolution of Title IX](https://news.harvard.edu/gazette/story/2022/06/how-title-ix-transformed-colleges-universities-over-past-50-years/)
 [^204]:[Some Title IX early data](https://www2.edc.org/womensequity/resource/title9/before.htm#:~:text=After%20Title%20IX%3A,women%20had%20earned%20bachelor's%20degrees)

@@ -7,7 +7,7 @@ partnering with the Hillel Campus Initiative, which Gold called “a welcome and
 for all Jewish students, faculty and community members.”[^206]
 
 While it is clear that antisemitism training would benefit Jewish students, it is unclear whether training in antisemitism is sufficient to remedy *all* existing civil rights issues on campuses nationwide. It is unclear because there has been 
-no effort to find out, and thus far both the university and the national civil rights offices have been gauging issues via filed complaints. Just because the complaints aren't numerous, however, this does not mean that the problem with antisemitism
+no effort to find out, and thus far both the university and the national civil rights offices have been gauging issues via filed complaints. Just because the complaints aren't numerous, however, does not mean that the problem with antisemitism
  is not part of a much larger problem looming beneath the surface. To illustrate, in engineering we want a working "closed loop". Here we can define a "feedback loop" as a system of conveying information to students regarding Title VI 
 "awareness" and how to report such that when an issue arises they are empowered to file a complaint as their "feedback". In a correctly working loop, the oversight body would modify its behavior based on the volume of complaints, and the 
 loop is effectively "closed". If there are few enough "general" Title VI complaints being filed, such that we can maintain the status quo, is correlation causation? Or is the "loop" broken? And are we surveying students adequately enough to know?

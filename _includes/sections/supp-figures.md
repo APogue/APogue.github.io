@@ -1,5 +1,5 @@
 
-<figure id="fig:trump-red-triangle style="margin-bottom: 20px;">
+<figure id="fig:trump-red-triangle" style="margin-bottom: 20px;">
   <a href="https://www.washingtonpost.com/politics/2020/06/18/trump-campaign-runs-ads-with-marking-once-used-by-nazis-designate-political-prisoners/">
     <img src="/images/2024-05-20/supp-figures/trump-red-triangle.png" 
      alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 60%; height: auto;">
@@ -8,7 +8,6 @@
     Figure 26: Trump ad removed by Facebook for promoting "organized hate"
   </figcaption>
 </figure>
-
 
 <figure id="fig:ucues-infographic" style="margin-bottom: 20px;">
   <a href="https://sairo.ucla.edu/by-survey/ucues">
