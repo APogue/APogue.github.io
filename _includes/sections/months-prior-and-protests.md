@@ -58,10 +58,19 @@
      alt="Same large sign with red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 31: Same large sign with red triangle
+    Figure 31: Same large sign with red triangle from LA Public Press
   </figcaption>
 </figure>
 
+<figure id="fig:uknown-red-triangle">
+  <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
+    <img src="/images/2024-05-20/supp-figures/unknown-red-triangle.jpg" 
+     alt="Royc with sign feauring large red triangle" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: Photo of sign with large red triangle from Daily Bruin 
+  </figcaption>
+</figure>
 
 <figure id="fig:smaller-red-triangle">
   <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
@@ -69,7 +78,7 @@
      alt="Smaller red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 32: Smaller red triangle
+    Figure 32: Smaller red triangle, Daily Bruin
   </figcaption>
 </figure>
 
@@ -93,6 +102,15 @@
   </figcaption>
 </figure>
 
+<figure id="fig:cec-tent">
+  <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
+    <img src="/images/2024-05-20/supp-figures/cec-cac-protest.jpg" 
+     alt="Photo showing CEC & CAC tent and sign with red triangle REMOVED" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: Photo showing CEC tent and sign with red triangle REMOVED
+  </figcaption>
+</figure>
 
 <figure id="fig:hillel-insta-safe-pass">
   <a href="https://www.instagram.com/p/C6MYgY0pw14/?hl=en">

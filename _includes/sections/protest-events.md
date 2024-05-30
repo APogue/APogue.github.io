@@ -13,7 +13,7 @@ that would become emblematic of the movement in its first days and would appear 
      alt="Large sign with red triangle" style="width: 95%; height: auto;">
   </a>
   <figcaption>
-    Figure 30: Large sign with red triangle
+    Figure 30: Large sign with red triangle from LA Times
   </figcaption>
 </figure>
 

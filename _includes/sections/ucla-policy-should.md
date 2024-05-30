@@ -98,7 +98,10 @@ https://twitter.com/collinrugg/status/1787521409079791881?s=42&t=eCe1um_BitxRMXA
 ## Education 
 {: .custom-section-header}
 
-put the trump triangle here----------------------------------
+refer to trump triangle here----------------------------------
+
+
+fig:trump-red-triangle
 
 1.50 trining module youtube
 
@@ -149,6 +152,61 @@ https://www.adl.org/campus-antisemitism-report-card/university-california-los-an
 
 ## UCLA Needs More
 {: .custom-section-header}
+
+fig:ucues-voluntary
+fig:ucues-infographic
+fig:ucues-survey-1
+fig:ucues-survey-2
+
+<figure id="fig:ucues-voluntary" style="margin-bottom: 20px;">
+  <a href="https://sairo.ucla.edu/by-survey/ucues">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-voluntary.png" 
+     alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: Image showing UCUES is voluntary for students
+  </figcaption>
+</figure>
+
+<figure id="fig:ucues-survey-about">
+  <a href="https://sairo.ucla.edu/by-survey/ucues">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-survey-about.png" 
+     alt="About the UCUES survey, showing a 24% participation rate for 2022" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: About the UCUES survey, showing a 24% participation rate for 2022
+  </figcaption>
+</figure>
+
+<figure id="fig:ucues-climate-2022-ucla">
+  <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-climate-2022-ucla.jpg" 
+     alt="UCUES, campus climate, UCLA (from systemwide site), 2022" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: UCUES, "campus climate", UCLA (from systemwide site), 2022
+  </figcaption>
+</figure>
+
+<figure id="fig:ucues-ucla-site-1">
+  <a href="https://sairo.ucla.edu/by-survey/ucues">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-ucla-site-1.png" 
+     alt="UCUES campus climate, UCLA information, 2022 and 2020, respectively" style="width: 85%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: UCUES "campus climate", UCLA information, 2022 and 2020, respectively
+  </figcaption>
+</figure>
+
+
+
+
+
+
+
+
+
+
 
 
 
