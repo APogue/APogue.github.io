@@ -40,7 +40,7 @@ date: 2024-05-20
 ## UCLA Policy&mdash;Should <span id="UCLA Policy&mdash;Should"></span>
 {% include sections/ucla-policy-should.md %}
 
-## Takeaways <span id="Takeaways"></span>
+## The DOE Needs to Do More <span id="The DOE Needs to Do More"></span>
 {% include sections/concluding-statement.md %}
 
 ## Supplimentary Information <span id="Supplimentary Information"></span>

@@ -43,63 +43,65 @@ to me that the org that does the most organizing has these views and on college 
 up and coming positive influencers, giving them the platform they might need to reach students. UCLA could grow its social media presence using events like workshops, round table discussions, teach-ins, a speaker series or by featuring activist artists. The point
 I'm trying to make is, the pervasiveness of the problematic behavior comes from the absence of UCLA's "voice" which is creating a vacuum and the void is being filled with the chaos and confusion of its students. 
 
-"Some Jewish organizations on campus, such as Hillel at UCLA, have published statements condemning the harassment of students with opposing views on the war. Kian Kohanteb, a third-year political science student who is a member of the leadership of several Jewish 
-organizations on campus, said multiple organizations have published guidelines ahead of rallies supporting Israel that advise all protestors to avoid Islamophobia."[^202]
+
+## Accountability
+{: .custom-section-header}
+Holding organizations, administrators, students, and non-affiliates accountable can prevent any incidents in the future. 
+"Some Jewish organizations on campus, such as Hillel at UCLA, have published statements condemning the harassment of students with opposing views on the war. Kian Kohanteb, a third-year political science student who is a member of the 
+leadership of several Jewish organizations on campus, said multiple organizations have published guidelines ahead of rallies supporting Israel that advise all protestors to avoid Islamophobia."[^202]
 
 “The protesters inside the encampment are also planning on hosting de-escalation workshops for participants to help prepare them for the presence of future counter-protesters, Annie said. In a Thursday morning Instagram post, SJP 
 had told encampment participants not to engage with counter-protesters. “We are focused on the safety of our people and our students, and so that means engaging in tactics of de-escalation,””[^42]
 
-Above are a couple examples of organizations taking it upon themselves to be the realtime protest guide to students. Organizations are not "obligated" to uphold best practices, they don't have large media reach, and they may harbor extreme views. It is careless 
-to rely soley on them. 
-
-## Accountability
-{: .custom-section-header}
-
-Accountability is about more than the bureaucratic processes and committee reviews of misconduct, i.e. accountability is about more than just punishment. 
+Above are a couple examples of organizations taking it upon themselves to be the realtime protest guide to students. Organizations are not "obligated" to uphold best practices, they don't have large media reach, and they may harbor extreme views. 
+It is careless to rely soley on them. 
 
 
+<div style="display: flex; justify-content: center;">
+    <figure id="tweet-fig" style="margin: 0;">
+        <blockquote class="twitter-tweet" data-media-max-width="460" style="margin: 0 auto;">
+            <p lang="en" dir="ltr">NEW: Pro-Palestine protester harasses a Daily Bruin journalist before saying "I hate white people."<br><br>The woman was live streaming from the UCLA Divest IG account when she made the comment.<br><br>Immediately after saying she "hates white people" the protester threatened to call the… <a href="https://t.co/5cy8KBE4WJ">pic.twitter.com/5cy8KBE4WJ</a></p>&mdash; Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1787521409079791881?ref_src=twsrc%5Etfw">May 6, 2024</a>
+        </blockquote>
+        <figcaption>Figure 1: Embedded Tweet by Collin Rugg</figcaption>
+    </figure>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-However, there have been allegations of Islamophobia during and after a rally held Nov. 7 in support of Israel. In a post on Instagram, the Undergraduate Students Association Council’s Cultural Affairs Commission 
-claimed that Zionist protesters harassed, threatened and assaulted students who were showing support for Palestine on the same day as the rally.
 
+The student speaking in this live stream has had an encounter with the Daily Bruin before, in [bla](##fig:feb-8-rally) she led a small rally and had an encounter with a Daily Bruin reporter (see *Months Prior to Protest Events*). Condemning 
+her language publically would raise more awareness about UC Divest and SJP's extreme rhetoric.
 
+Hillel's student president Bella Brannon stated in a Daily Bruin article dated November 19th that, “while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. 
+She added that she has heard of instances of Jewish students not receiving responses to complaints they sent to the UCLA Office of Equity, Diversity and Inclusion.”[^201]
+
+Also mentioned in *Months Prior...* was a Hillel post dated Dec 18th claiming  ([bla](##fig:hillel-dec-letter)) "We are seeing hate arise as a tragic ripple effect of the ongoing 
+war between Isreal and Hamas, with Campus Administration failing to recognize and confront various reports of harassment submitted
+to the office of Diversity, Equity, and Inclusion. Additionally numerous council members within our student gov't have
+publicized vitriolic remarks that continually harm Jewish students on our campus and exclude Jewish students from 
+their inclusion efforts. Despite Hillel's calls to cordially engage with these Student Gov't members, 
+our invitations have been repeatedly ignored."[^209]
+
+One would think that the statement in the Daily Bruin would be enough to cause the administration to act on their behalf to hold the EDI office and USAC offending members accountable. 
+
+The same is true of the non-affiliates. There were incidents happening as early as November,
+
+"However, there have been allegations of Islamophobia during and after a rally held Nov. 7 in support of Israel. In a post on Instagram, the Undergraduate Students Association Council’s Cultural Affairs Commission 
+claimed that Zionist protesters harassed, threatened and assaulted students who were showing support for Palestine on the same day as the rally."
+
+And accounts of one-sided instigation by Dr. Myers that were surely not protected by 1st ammendment rights, 
 "Over the course of our hours on the front lines, I estimate that more than 90% of the verbal and physical instigation came from the agitated counterdemonstrators, a fair number of whom spoke Hebrew and appeared to 
-come from outside campus. The anti-war group had yellow-vested personnel who maintained discipline and sought to deescalate when the threat of violence arose."
+come from outside campus. The anti-war group had yellow-vested personnel who maintained discipline and sought to deescalate when the threat of violence arose."[^202]
 
 "But even they were greeted with insulting words from the other side, as were members of a small contingent of a local chapter of Standing Together who came 
-bearing signs calling for peace and equality for Palestinians and Jews."
+bearing signs calling for peace and equality for Palestinians and Jews."[^210]
 
-https://forward.com/opinion/608479/ucla-violence-campus-protests/
-
-
-
-
-This goes with the hillel post about no one answering
-•	“Brannon said while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. She added that she has heard of instances of Jewish students not receiving responses to complaints 
-they sent to the UCLA Office of Equity, Diversity and Inclusion.”
-
-fig:hillel-dec-letter
-
-
-
-
-
-
-
-•	NEW: Pro-Palestine protester harasses a Daily Bruin journalist before saying "I hate white people." The woman was live streaming from the UCLA Divest IG account when she made the comment. 
-Immediately after saying she "hates white people" the protester threatened to call the journalist "racist" if she wrote about her. In a separate live stream, the protester threatened to "deal with" the 
-"U.S. Imperialist States." 
-
-https://twitter.com/collinrugg/status/1787521409079791881?s=42&t=eCe1um_BitxRMXAIjUyD8g&fbclid=IwZXh0bgNhZW0CMTAAAR2MDlFR7yf2RR1MuObKYQPTZjKxRmPZP5sJy0gVMzlj59GJr4yt3AqYR5M_aem_ATFdQEJqHvjY2ERHpHCocYAnslU7r2FoePgTeLknCqz6ZLhA9Z9YgkmKJemdgQTH8a3cOe8rbg4xQg0WnOxPpne5
-
-
+Certain members of instigating groups should be banned from campus for using hatespeech or inciting violence. Otherwise any rally or demonstration should have security on hand to immediately expel offenders from campus. 
 
 
 ## Education 
 {: .custom-section-header}
 
 refer to trump triangle here----------------------------------
-
 
 fig:trump-red-triangle
 
@@ -113,12 +115,9 @@ fig:trump-red-triangle
 
 https://www.aclu.org/know-your-rights/protesters-rights
 
-
 in descalation tactics, peaceful protesting, what their first ammendment rights are, (how to be a good "activist"), and most importantly how not to infringe on the civil rights of other students. 
 
-
 Reanactments of students blocking other students. Or students witnessing hate speech or imagery, "if you see something, say something". 
-
 
 Here is where you write about block and an "online module"
 
@@ -133,32 +132,31 @@ https://firstamendment.mtsu.edu/article/time-place-and-manner-restrictions/
 
 https://www.artistrights.info/time-place-and-manner-restrictions#:~:text=Content%2Dneutral%20time%2C%20place%2C,fashion%20to%20disadvantage%20disfavored%20ideas.
 
-
-
-
-
-
-
 https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus
 
 https://www.adl.org/campus-antisemitism-report-card/university-california-los-angeles
 
 
-
-
-
-
-
-
-## UCLA Needs More
+## UCLA Needs to Do More
 {: .custom-section-header}
 
-fig:ucues-voluntary
-fig:ucues-infographic
-fig:ucues-survey-1
-fig:ucues-survey-2
+UCLA received 145,904 applications in 2023, they're the most popular university in the country, by application, by a large margin.[^208] UCLA should set an example, not just UC system-wide but nationwide. What more can UCLA do to improve the welfare of its students? The academic year in its entirety, let alone the recent 
+protest events make a case for putting more resources towards education, support, and accountability measures. In the section, *University Support* we see that currently, freshman are optionally trained during orientation on Title VI via a 12 slide presentation. When the House committee asked Gene Block what more he could do 
+to address antisemitism on campus (see [figure](##fig:congressional-hearing) @ 1:51) he stated that UCLA has developed an online training module on anti-discrimination and they've "bolstered the part on antisemitism". When asked if all students are "required to take antisemitism training", he responded "the anti-discrimination
+module is recommended for all incoming students" and that antisemitism is "talked about at orientation". When asked again, what changes are planned beginning with this summer, @ 2:02 Block mentions his plans for orientation this the summer where they will spend "extra time" discussing issues regarding "respectful protest, time, 
+place and manner and we will make sure that our students are prepared for what the rules are with regard to appropriate protests". That was the full extent to which Block was questioned by the committee regarding what exists and what is planned with regard to Title VI.
 
-<figure id="fig:ucues-voluntary" style="margin-bottom: 20px;">
+<figure id="fig:ucues-survey-about" style="margin-bottom: 20px;">
+  <a href="https://sairo.ucla.edu/by-survey/ucues">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-survey-about.png" 
+     alt="About the UCUES survey, showing a 24% participation rate for 2022" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: About the UCUES survey, showing a 24% participation rate for 2022
+  </figcaption>
+</figure>
+
+<figure id="fig:ucues-voluntary">
   <a href="https://sairo.ucla.edu/by-survey/ucues">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-voluntary.png" 
      alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 100%; height: auto;">
@@ -168,15 +166,17 @@ fig:ucues-survey-2
   </figcaption>
 </figure>
 
-<figure id="fig:ucues-survey-about">
-  <a href="https://sairo.ucla.edu/by-survey/ucues">
-    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-survey-about.png" 
-     alt="About the UCUES survey, showing a 24% participation rate for 2022" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 26: About the UCUES survey, showing a 24% participation rate for 2022
-  </figcaption>
-</figure>
+It it not enough. None of what was prepared for the House Committee was enough. We must go beyond the events of this year to gauge what has to be done. The best gauge is by feedback, what kind of feedback is in place to determine whether the students are adequately trained on Title VI? The University of Caliornia system uses 
+the University of California Undergraduate Experience Survey (UCUES) to solicit "students opinions on a broad range of undergraduate students' academic and co-curricular experiences, including instruction, advising and student services." In plain English, its a "long" survey covering a broad range of areas in student life that is 
+optional ([fig](##fig:ucues-voluntary)) and administered every two years. A full explanation can be seen in [figure](##fig:ucues-survey-about) and related demographics are shown in [figure](##fig:ucues-infographic). Now, I'm not a statistics major, but I assume the survey must meet some criteria with respect to this subset of 
+data adequately representing all undergraduates. If this were true though it would be perfectly "random", and already "opting in" on a survey depends on personal circumstances. Also we see in [figure](##fig:ucues-infographic), the data skews towards Juniors and Seniors, and where are the gender demographics? Based on their 
+not being there I would assume they're reflective of UCLA's gender composition but who knows. 
+
+Looking at [figure](##fig:ucues-climate-2022-ucla) and [figure](##fig:ucues-climate-2022-systemwide), UCLA data is approximately reflective of the UC system as a whole. This data was processed and presented on the UC Systemwide UCUES site. There's an interesting drop in response "Total" which is highlighted by the blue box. These
+questions are most likely "optional". Now looking at the UCUES data from 2022-2016 ([figure](##fig:ucues-ucla-site-1) and [figure](##fig:ucues-ucla-site-2)) taken directly from UCLA, there might be some insight as to why. "LOD_Percent_Total" are the total number of responses from "somewhat agree", "agree", and "strongly agree", and 
+"star" is the percent of total responses composed of this total. We see that in three of the last four surveys, the question "Channels for expressing discrimination or harassment complaints are readily available to students at UCLA" the results are mediocre and the "star" column indicates the question was mandatory. The purple 
+data shows that in 2022 they made the question "optional" and got a 6% approval boost from the survey before. We also see that, since 2016 the question "At UCLA, I have been excluded..." has not improved, and was also mandatory. It looks like in 2022 UCUES removed the question all together. 
+
 
 <figure id="fig:ucues-climate-2022-ucla">
   <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
@@ -198,65 +198,25 @@ fig:ucues-survey-2
   </figcaption>
 </figure>
 
+The issue I take with this survey is the same issue I take with trying to train students at orientation. Long, arduous processes make us tired, and we zone out and don't care. Freshman are more worried about surviving their first days at university I'm sure they are not thinking about civil rights, and with all that gets piled 
+on them during orientation there's no room left to learn about it anyways. The students should be trained *annually*, like Title IX, and it should be *mandatory*.  When it comes to these surveys, when they are long and many questions are mandatory, you skip all the optional questions just to get through it. *But as we see in the* 
+*distinction from 2016, 2018, and 2020, to 2022 mandatory questions give greater insight*. We can then assume that *mandatory surveys* would give greater insight still. The UC System should have a *mandatory*, *annual*, *dedicated* civil rights survey covering Title VI and some aspects of Title IX. I have an 
+example here[^205]. The survey needs to be separated from the other surveys on campus life so that students are not tired and "over it"; so that they're in the right mindset. 
 
 
-
-
-
-
-
-
-
-
-
-
-52 minutes talks about doe youtube
-
-how big is the problem? go into the excel data here...
-
-why are microgroups being targeted, that exist along an axis of discrimination against one another, and why is this the microcosm for the greater university environment? The entire university needs training, 
-
-Gold also noted in his email that the UC Regents President Michael Drake announced during the meeting that the 10 UC campuses will be partnering with the Hillel Campus Initiative, which Gold called 
-“a welcome and necessary step to better address campus antisemitism and take meaningful action to ensure our campuses are free of hate and fully accepting and inclusionary for all Jewish students, faculty and community members.”
-https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/
-
-
-
-This should not be about targeted offices and offloading task force objectives to special interest groups. There is a broader need for this training and support, across all UCLA communities. This issue is a symptom of a much greater problem
-at UCLA and likely at universities nationwide. Look at the question that asks about whether you've been barred from a group based on gender, and look at the number of responses. It's time to redefine "academic abuse" that is classically
-defined by title IX as an issue between individuals in a romantic relationship. Barring someone from a group based on gender or Title VI, that's academic abuse. Or discrimination from a professor stereotyping someone's heritage and whether 
-they're "suited" for research, that's academic abuse. look at the title IX complaints, there are a large number of gender discrimination complaints, and having done the title IX training myself, there is no training on it. there would presumably 
-be a larger number of complaints filed if there were. Gender discrimination and gender harassment are almost "more fitting" in the Title VI training as a form of discrimination based on biological or assumed identity that creates a "hostile"
-academic environment. And it is extremely confusing for a student to understand and process gender discrimination because Title IX began in the 70's as equal access for women, but is contemporarily mischaracterized as protections relating to 
-sexual misconduct. So if people can't categorize it as Tile IX or Title VI, they won't address the problems. and neither the universities nor the office of education care to deepen our understanding because really all of this is put into place 
-to address liability concerns. And no oversight body cares to appropriate extra funding towards general Title VI or the aforementioned areas of Title IX because, are racism and sexism "really a problem anymore" if violations have a "low number of 
-complaints" to the DOE or a low likelihood of a lawsuit within the statute of limitations? To put it plainly, misconduct has to be "very serious" to get anyone's attention. 
-
-
-Now we see antisemitism is shining a light on Title VI. While it has the spotlight, we should address the issue of 
-discrimination on the basis of race and gender as well. Because if in either the case of antisemitism or discrimination based on race and gender you're dealing with a high volume of "less serious" cases of misconduct that denies equal 
-access to an education, *that is very serious*. The world is changing incredibly quickly, it's hard for policy to keep up, and women and minorities are following the same pattern of delayed access that existed in the 70's but in areas like
-STEM, and perhaps it isn't just the extra educational support that women and minorities need, perhaps an "inclusive environment" means "soft skills" and "professionalism". Perhaps there are more paths than those to the 
-classroom during a protest that are being blocked.  
- 
-and yet the office of education just awarded UCLA 8 million dollars in funding for issues irrelevant to the wellbeing of its student body...
- 
-Everyone needs Title VI training, undergraduates, graduate students, professors, administration, everyone. Because academia is a cesspool of toxic behavior with a complete lack of disciplinary action or oversight. There is no HR in academia and 
-I guarantee every student would want one---a guide to *professional*, *appropriate*, behavior would be a huge quality of life boost for everyone at this university. 
 
 
 [^200]:[David Myers op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
 [^201]:[Jewish Bruins express concern over antisemitism on campus)(https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
 [^202]:[Bruins voice worries over Islamophobia on campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
-[^203]:()
-[^204]:()
-[^205]:()
-[^206]:()
-[^207]:()
-[^208]:()
-[^209]:()
-
-
+[^203]:[Understanding the evolution of Title IX](https://news.harvard.edu/gazette/story/2022/06/how-title-ix-transformed-colleges-universities-over-past-50-years/)
+[^204]:[Some Title IX early data](https://www2.edc.org/womensequity/resource/title9/before.htm#:~:text=After%20Title%20IX%3A,women%20had%20earned%20bachelor's%20degrees)
+[^205]:[Example Title VI survey (written by me)](https://docs.google.com/forms/d/1W3S3bjzqBlvEDKckNXcEJwJmxlLmkytCuiajHsWm6GY/edit)
+[^206]:[Jewish journal on antisemitic statue](https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/)
+[^207]:[Pro-Palestine protester harasses a Daily Bruin journalist before saying "I hate white people."](https://twitter.com/collinrugg/status/1787521409079791881?s=42&t=eCe1um_BitxRMXAIjUyD8g&fbclid=IwZXh0bgNhZW0CMTAAAR2MDlFR7yf2RR1MuObKYQPTZjKxRmPZP5sJy0gVMzlj59GJr4yt3AqYR5M_aem_ATFdQEJqHvjY2ERHpHCocYAnslU7r2FoePgTeLknCqz6ZLhA9Z9YgkmKJemdgQTH8a3cOe8rbg4xQg0WnOxPpne5)
+[^208]:[UCLA still the most popular by applications](https://www.collegetransitions.com/blog/most-applied-to-colleges/)
+[^209]:[Hillel releases letter on administrative negligence](https://www.instagram.com/p/C1BN9tHr054/?hl=en)
+[^210]:[Dr. Myers recounts April 30th violent events](https://forward.com/opinion/608479/ucla-violence-campus-protests/)
 
 
 

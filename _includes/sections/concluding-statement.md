@@ -1,13 +1,68 @@
-Repeated threatening language in the form of chants, physically blocking access to areas on campus, hateful imagery, using social media as a propoganda tool, and parntering with a corrupt student gov't *are* almost certainly pervasive, repeated 
-civil rights violations under Title VI. These activities together have created a systematic device for the bullying and harrassment of students based on shared ancestry. It is gaslighting behavior and morally questionable 
-to use the strife of *any ethnic group* as a justification for systematic hate. and while it is easy to root for a righteous cause, most of us know no issue is morally absolute; so the protest goes on, with many 
-confused about the true ideological crux of the movement. What is the crux? Well the issues we take up with our government funding a war, with investments in the military-industrial complex, these are *American issues* we have a right to 
-question. But to entangle American students in a conversation about whether Israel should exist perhaps should be saved for an intellectual forum or the classroom, because it does not make sense in an *American* protest. 
-And it is the conflating of these *morally justifiable* issues with those that are both *futile* and outside of our power as Americans that brings Americans to the table only to be disillusioned by so much misplaced hate and anger. To put it in simple
-terms, all the extra "anger baggage" undermines your cause; hurting those you seek to help. 
 
-The same is absolutely true of the non-affiliates, they violated the Title VI rights of students on campus and measures absolutely need to be taken in the future to *immediately* remove a perpetrator from campus the moment they cross the line. 
-But it is incumbant upon UCLA to take steps to help the student body from within and that means taking measures to prevent abuse and harrassment of its students in any shape or form. A first step is to distill the issues---none 
-should detract from or serve as justification for another---i.e. the gross negligence by the university in failing to aid students under attack is *its own* issue, and condemning students using political motivations as "a right" to abuse 
-other students is *its own* issue. This applies to any group of shared ancestry or group that identifies with one of shared ancestry. It would be a failure on the part of this paper and deeply hypocritical to say "a problematic" protest is all 
-that matters. These isssues have been happening on campus for months and no student deserves to be abused or harrassed, Jewish or Muslim. 
+The House Committee was very concerned about training in antisemitism. These protest events and events happening on campuses nationwide this academic year has administrators promising antisemitism task forces, specialists in antisemitism, 
+and the bolstering of antisemitism components of anti-discrimination training. 
+
+The *Jewish Journal* wrote about UCLA Hillel Executive Director Dan Gold in March, saying he wrote in an email to "community members" that "the UC Regents President Michael Drake announced during the meeting that the 10 UC campuses will be 
+partnering with the Hillel Campus Initiative, which Gold called “a welcome and necessary step to better address campus antisemitism and take meaningful action to ensure our campuses are free of hate and fully accepting and inclusionary
+for all Jewish students, faculty and community members.”
+
+While it is clear that antisemitism training would benefit Jewish students, it is unclear whether training in antisemitism is sufficient to remedy *all* existing civil rights issues on campuses nationwide. It is unclear because there has been 
+no effort to find out, and thus far both the university and the national CRO's have been gauging issues via filed complaints. But just because the complaints aren't numerous it does not mean that the problem with antisemitism is not part of 
+a much larger, preexisting problem looming beneath the surface. For example, in engineering we always try to have a working "closed loop". Here we can define a "feedback loop" as a system of conveying information to students regarding Title VI 
+"awareness" and how to report such that when an issue arises they are empowered to file a complaint as their "feedback". In a correctly working loop, the oversight body would modify its behavior based on the volume of complaints, and the 
+loop is effectively "closed". If there are few enough "general" Title VI complaints being filed, such that we can maintain the status quo, is correlation causation? Or is the "loop" broken? And are we surveying students adequately enough to know?
+
+Perhaps these efforts shouldn't just be about targeted offices and offloading task force objectives to special interest groups. At least not until it is known whether there is a broader need for this training and support across all UCLA communities. 
+Looking at [figure](##fig:ucues-ucla-site-1) and [figure](##fig:ucues-ucla-site-2), in the years 2016-2020, the data relating to being "excluded from a study group" based on diversity characteristics is not qualitatively insignificant. Moreover the 
+fact that the result stayed approximately the same over 6 years is corroborating evidence that this was in fact happening. Title IX classically defines "academic abuse" as an issue between individuals in a romantic relationship. 
+But barring someone from a group based on gender or Title VI, looks a lot like academic abuse; or discrimination from a professor---who receives no Title VI training---stereotyping someone's heritage and whether 
+they're "suited" for research ([fig](##fig:reddit-black-bruins-2)), that's academic abuse. Looking at the Title IX complaints in [figure](##fig:dpo-investigations-title-ix), there are a large number of gender discrimination complaints, 
+and having done the Title IX training myself, there is no training on it. There would presumably be a larger number of complaints filed if there were. In fact gender discrimination and gender harassment would might be 
+"more fitting" in Title VI training as a form of discrimination based on biological or assumed identity that creates a "hostile" academic environment. This is because it's extremely confusing for a student to understand and process gender 
+discrimination because Title IX began in the 70's as equal access for women, but is contemporarily mischaracterized as protections relating to sexual misconduct.[^203][^204] So if people can't categorize an incident as Tile IX or Title VI, 
+they won't address the problem, i.e. *they won't report it*. This occurs all while we leave it to bureaucracy to wonder "are racism and sexism really a problem anymore if violations have a low number of complaints to the DOE or a low 
+likelihood of a lawsuit to UCLA?". To put it plainly, misconduct has to be "very serious" to get anyone's attention. 
+
+Now we see antisemitism is shining a light on Title VI. While it has the spotlight, we should address the issue of discrimination on the basis of race and gender as well. Because if in either the case of antisemitism or discrimination 
+based on race and gender you're dealing with a high volume of "less serious" cases of misconduct that deny equal access to an education, *that is very serious*. The world is changing incredibly quickly, it's hard for policy to keep up, 
+and women and minorities are following the same pattern of delayed access that existed in the 70's but in areas like STEM. [figure](##fig:ucues-ucla-all-2022) and [figure](##fig:ucues-ucla-both-2022) compare the academic experience of students 
+from 2022 in "all majors" versus certain "STEM majors". Looking at UCLA data qualitatively, we see that in [figure](##fig:ucues-ucla-both-2022) students who "somewhat disagree", "disagree", and strongly "disagree" with "feeling comfortable with 
+the climate for diversity and inclusiveness" is 7% at the university versus 21% in their major. [figure](##fig:ucues-uc-all-2022) and [figure](##fig:ucues-uc-both-2022) shows a systemwide result of 11% versus 21% respectively. UCUES seemingly
+looks for an "agree" rating of 80% or more, so these statistics may go unnoticed. It would offer more clarity on the matter if we could look at race and gender demographics for STEM majors and the racial and gender demographics for the STEM
+survey and what the breakdown is between the "agree" and "disagree" categories. This would help determine if the survey accurately represents the university as a whole, and whether the "disagree" categories make up a small or large portion 
+of minorities within STEM majors. I.e. if certain STEM majors are 20% minority, and 20% "disagree", then efforts geared at Title Ix and VI access have accomplished nothing. 
+
+"Why was Title IX needed when it passed in 1972? Didn’t the Civil Rights Act of 1964 ban discrimination in several areas based on sex?"
+
+"Women faced blatant educational inequality, such as exclusion from certain colleges and universities or from certain programs and spaces within those schools, higher admissions standards than men, more frequent tenure denials than men, 
+and myriad other imposed disadvantages relative to men."[^203]
+
+Title IX looked at male dominated fields and imposed certain mandates to increase female membership. It was not, however, about blindly meeting quotas to fast track women to equal outcomes. Minority membership needs more resources for 
+background education to get to a place of equal opportunity. But equal opportunity means more than that; it means "soft skills" and "professionalism". If people in certain majors are made to feel "uncomfortable", 
+perhaps there are more paths than those to the classroom during a protest that are being blocked.
+
+The truth of the matter is, we would assume any workplace without an "HR department" would eventually be a cesspool of toxic behavior. It is astounding to me that academia has lasted so long without succumbing to the same disciplinary and 
+oversight infrastructure that private industry is forced to maintain. Maybe it's because students are young, or because STEM majors are way too busy, or because students don't stay around very long, but I guarantee every student would 
+want something like an HR department. It would be a huge quality of life boost for everyone at this university. 
+
+Effectively, that means everyone needs Title VI training, everyone: undergraduates, graduate students, professors, and administrators. Aspects of Title IX training should also change and oversight from the DOE should be far more engaged. We 
+know unless Title VI training is mandatory like Title IX, no university will implement a good enough system.
+
+What Congressman Courtney said in the House Hearing on Education and the Workforce, [figure](##fig:congressional-hearing) @ 51:50, is vitally important to the well being of Jewish students, Muslim students and other minorities alike 
+and it's worth watching his segment in its entirety. Basically, he states that in 2023 there were a record number of complaints made to the DOE Civil Rights Division, the number has tripled since 2009. Yet in 2009 the Civil Rights Division
+had a larger staff than today. The proposal from the majority budget appropriations committee was also looking to cut the division's budget, up to 25%, essentially defunding the Civil Rights Office. He makes his concerns clear, and 
+states they should "beef up the ranks" of that department. Although the DOE does have ample resources it can appropriate through protected channels,
+
+"Six centers that are part of the UCLA International Institute have been awarded about $8 million in federal Title VI funding by the U.S. Department of Education.
+
+With this funding UCLA will be able to offer education on world regions, provide tuition support and living stipends to students pursuing area studies and language training, and provide academic and pedagogical 
+support for the teaching of languages."[^300] 
+
+UCLA International Institute is deserving of this funding, I'm not denying that and and I'm aware that grant awards are not fungible. However, I, along with Congressman Courtney am calling for a 
+greater appropriation of funds to the Civil Rights Office. Because equal opportunity and access to an education are "basic" student needs, and continued budget cuts 
+for an increasingly necessary office will not stop Title VI misconduct from ocurring and it certainly won't improve the wellbeing of postsecondary students. 
+
+[^300]:[UCLA receives funding from the DOE](https://newsroom.ucla.edu/releases/international-institute-receives-8-million-title-6-federal-funding)
+
+
+

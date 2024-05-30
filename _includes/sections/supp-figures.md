@@ -20,17 +20,6 @@
   </figcaption>
 </figure>
 
-<figure id="fig:ucues-ucla-site-2" style="margin-bottom: 20px;">
-  <a href="https://sairo.ucla.edu/2016-2022apr">
-    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-ucla-site-2.png" 
-     alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 90%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 26: UCUES "campus climate" information, 2022 and 2020, respectively
-  </figcaption>
-</figure>
-
-
 <figure id="fig:ucues-climate-2022-systemwide" style="margin-bottom: 20px;">
   <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-climate-2022-systemwide.jpg" 
@@ -41,7 +30,17 @@
   </figcaption>
 </figure>
 
-<figure id="fig:ucues-di-ucla-all" style="margin-bottom: 20px;">
+<figure id="fig:ucues-ucla-site-2" style="margin-bottom: 20px;">
+  <a href="https://sairo.ucla.edu/2016-2022apr">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-ucla-site-2.png" 
+     alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 90%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 26: UCUES "campus climate" information, 2022 and 2020, respectively
+  </figcaption>
+</figure>
+
+<figure id="fig:ucues-ucla-all-2022" style="margin-bottom: 20px;">
   <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-ucla-all-2022.png" 
      alt="UCUES "diversity and inclusion" information, 2022, UCLA" style="width: 100%; height: auto;">
@@ -51,7 +50,7 @@
   </figcaption>
 </figure>
 
-<figure id="fig:ucues-climate-2022-systemwide" style="margin-bottom: 20px;">
+<figure id="fig:ucues-ucla-both-2022" style="margin-bottom: 20px;">
   <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-ucla-both-2022.png" 
      alt="UCUES "diversity and inclusion" information, 2022, STEM majors" style="width: 100%; height: auto;">
@@ -61,7 +60,7 @@
   </figcaption>
 </figure>
 
-<figure id="fig:ucues-climate-2022-systemwide" style="margin-bottom: 20px;">
+<figure id="fig:ucues-uc-all-2022" style="margin-bottom: 20px;">
   <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-uc-all-2022.png" 
      alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 100%; height: auto;">
@@ -71,7 +70,7 @@
   </figcaption>
 </figure>
 
-<figure id="fig:ucues-climate-2022-systemwide" style="margin-bottom: 20px;">
+<figure id="fig:ucues-uc-both-2022" style="margin-bottom: 20px;">
   <a href="https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2022">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-uc-both-2022.png" 
      alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 100%; height: auto;">

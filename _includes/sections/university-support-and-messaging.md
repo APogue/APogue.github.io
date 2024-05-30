@@ -67,7 +67,7 @@ Equity and Inclusion in the University Setting: Strategies, Resources and Best P
 code of conduct.[^180]
 
 For students, it is unknown whether Title VI training is mandatory. There is a power point presentation that students receive at orientation here[^181]. Gene Block mentioned at the House committee hearing that currently the training (a 12 slide
-power point) has an 80% participation rate, so it is presumed optional. From the looks of it, the power point is reductive, with sparse information with respect to code of conduct but reporting information is present. 
+power point) has an approximate 90% participation rate, so it is presumed optional. From the looks of it, the power point is reductive, with sparse information with respect to code of conduct but reporting information is present. 
 
 In general, there are informational resources given by the Office of Equity, Diversity, and Inclusion that oversees the Civil Rights Office. Among the offices that make up the CRO are the Title IX Office and the Discrimination Prevention Office (DPO).
 Education and reporting goes through any of these offices. UCLA's efforts with respect to specific groups can be seen here for Jewish students[^176] and here Palestinian, Muslim, and Arab students[^177].
