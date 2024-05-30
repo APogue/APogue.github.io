@@ -140,7 +140,7 @@ https://www.adl.org/campus-antisemitism-report-card/university-california-los-an
 ## UCLA Needs to Do More
 {: .custom-section-header}
 
-UCLA received 145,904 applications in 2023, they're the most popular university in the country, by application, by a large margin.[^208] UCLA should set an example, not just UC system-wide but nationwide. What more can UCLA do to improve the welfare of its students? The academic year in its entirety, let alone the recent 
+UCLA received 145,904 applications in 2023, they're the most popular university in the country, by application, by a large margin.[^208] UCLA should set an example, not just UC systemwide but nationwide. What more can UCLA do to improve the welfare of its students? The academic year in its entirety, let alone the recent 
 protest events make a case for putting more resources towards education, support, and accountability measures. In the section, *University Support* we see that currently, freshman are optionally trained during orientation on Title VI via a 12 slide presentation. When the House committee asked Gene Block what more he could do 
 to address antisemitism on campus (see [figure](##fig:congressional-hearing) @ 1:51) he stated that UCLA has developed an online training module on anti-discrimination and they've "bolstered the part on antisemitism". When asked if all students are "required to take antisemitism training", he responded "the anti-discrimination
 module is recommended for all incoming students" and that antisemitism is "talked about at orientation". When asked again, what changes are planned beginning with this summer, @ 2:02 Block mentions his plans for orientation this the summer where they will spend "extra time" discussing issues regarding "respectful protest, time, 

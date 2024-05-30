@@ -36,7 +36,7 @@
      alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 90%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: UCUES "campus climate" information, 2022 and 2020, respectively
+    Figure 26: UCUES "campus climate" information, 2018 and 2016, respectively
   </figcaption>
 </figure>
 
