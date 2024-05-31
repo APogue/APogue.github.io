@@ -247,3 +247,7 @@ figure {
     margin-top: 6em; /* Adjust the value as needed */
     text-align: center; /* Center the figure content */
 }
+
+main {
+    padding-top: 2em; /* Adjust the value as needed */
+}
