@@ -19,7 +19,7 @@ materials arriving from diverse sources in different forms, formats, quality and
 "OSINT is not a replacement for traditional journalism. It is a capacity built out of a set of analysis capabilities that provide more robust answers and pathways to answers to the very questions journalists and the public often ask: what happened, 
 who did it, when, where, why, how and so forth. OSINT-developed conclusions or rebuttals are often newsworthy and hence become timely and relevant for the news."[^91]
 
-I've been aggregating "data" from open source materials like the Daily Bruin, Instagram, Twitter and a few articles here and there since the Daily Bruin began writing on the protests. It's not exactly OSINT journalism but I was inspired by the 
+I've been aggregating "data" from open source materials like the Daily Bruin, Instagram, Twitter, UCLA webpages, and a few articles since the Daily Bruin began writing on the protests. It's not exactly OSINT journalism but I was inspired by the 
 idea. As a graduate student at UCLA and "hard-learned" engineer, we do nothing without ample data. Data gives a fuller picture for better insight, it is based on first-principles as a way to unify analysis, and it is shareable so that we may
 assist in advancing knowledge.   
 
