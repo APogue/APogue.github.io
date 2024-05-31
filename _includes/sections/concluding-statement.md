@@ -57,7 +57,7 @@ they should "beef up the ranks" of the department. Interestingly though, the DOE
 With this funding UCLA will be able to offer education on world regions, provide tuition support and living stipends to students pursuing area studies and language training, and provide academic and pedagogical 
 support for the teaching of languages."[^300] 
 
-UCLA International Institute is deserving of this funding, I'm not denying that and and I'm aware that grant awards are not fungible. However, I, along with Congressman Courtney am calling for a 
+UCLA International Institute is deserving of this funding, I'm not denying that and and I'm aware that grant awards are non-fungible. However, I, along with Congressman Courtney am calling for a 
 greater appropriation of funds to the Civil Rights Office. Because equal opportunity and access to an education are "basic" student needs, and continued budget cuts 
 for an increasingly necessary office will not stop Title VI misconduct from ocurring and it certainly won't improve the wellbeing of postsecondary students across this nation. 
 

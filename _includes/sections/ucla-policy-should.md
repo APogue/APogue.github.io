@@ -112,11 +112,11 @@ The DOE has addressed other hatespeech,
 “Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now,”[^202].
 This isn't highschool but it seems like students need things spelled out explicitly, this word is hatespeech, there are consequenced to its use, period. 
 
-We've also learned that certain "civil disobedience" is not protected, and cause a lot of backlash. There are students who can't get to class, to their jobs, who are disabled and prevented access. They *hate* it when protesters 
+We've also learned that certain "civil disobedience" is not protected, and causes a lot of backlash. There are students who can't get to class, to their jobs, who are disabled and prevented access. They *hate* it when protesters 
 block their pathways; they talk to eachother and they spread the word. Scenes like this could be reanacted in a Title VI training video to illustrate. Ultimately the backlash is significant enough to measurably undermine 
 a cause, and more importantly it gives administrators the right to shut a protest down. 
 
-Other important topics: if a student witnesses incidents of Title VI or potential Title VI violations, it should be reported; how to be a "message activist" rather than an "identity activist", how as an organization to have a "clear" 
+Other important topics: if a student witnesses incidents of Title VI or potential Title VI violations, it should be reported, how to be a "message activist" rather than an "identity activist", how as an organization to have a "clear" 
 message and stay on message, descalation tactics, 1st Ammendment rights[^213][^214][^215], fostering an inclusive environment, basic professionalism, and the list goes on. 
 
 The Office of Equity, Diversity, and Inclusion has good foundational resources to "learn" here[^211] and to "know" here[^212]. 
@@ -184,7 +184,7 @@ data shows that in 2022 they made the question "optional" and got a 6% approval 
 <figure id="fig:ucues-ucla-site-1">
   <a href="https://sairo.ucla.edu/by-survey/ucues">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-ucla-site-1.png" 
-     alt="UCUES campus climate, UCLA information, 2022 and 2020, respectively" style="width: 85%; height: auto;">
+     alt="UCUES campus climate, UCLA information, 2022 and 2020, respectively" style="width: 75%; height: auto;">
   </a>
   <figcaption>
     Figure 26: UCUES "campus climate", UCLA information, 2022 and 2020, respectively

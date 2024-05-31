@@ -1,3 +1,8 @@
+
+
+
+
+
 University campuses have long been a place where freedom of expression and civil disobedience are welcome. Themes that emerge are mainly that of a 
 marginalized group calling into question the doings or policies of an oppressive power structure. Today we are seeing the largest protest movement on college campuses since
 the Vietnam War. Civil disobedience assumes "lawful messiness" and "clean conflict"---protesting against the Vietnam War or in favor of civil rights meant standing unilaterally against a singular power.  Today the situation
@@ -17,7 +22,9 @@ The author chose to use Reddit r/UCLA as a resource in order to get a perspectiv
 which means that anyone on Reddit can read/write messages within the community. While it is likely, it is not guaranteed that statements made by any of the posts were made by current UCLA students. I chose to incorporate several posts as part 
 of a contextual “thread” in each image which gives greater insight into the broader conversation and related issues student’s are concerned with. 
 
-
+This project was a *massive* endeavor in data aggregation as my gift to the conversation, in hopes of gaining insight into this whole issue and making things better in the future. 
+This is also a *first* endeavor in policy analysis that got somewhat muddled up with my opinions throughout. Like anyone personally involved events like these, I struggled in keeping my emotions from guiding me. The next project will consist of 
+breaking this post apart; distilling policy and broader issues from the recounting of events, and my assertion of opinion. 
 
 https://www.npr.org/2024/04/26/1247527512/columbia-university-protests-1968-2024-history
 

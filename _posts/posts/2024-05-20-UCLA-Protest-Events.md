@@ -20,7 +20,6 @@ date: 2024-05-20
 
 ## Protest Events <span id="Protest Events"></span>
 {% include sections/protest-events.md %}
-//here just focus on violations like violence & Title VI"//
 
 ## University Support and Messaging  <span id="University Support and Messaging"></span>
 {% include sections/university-support-and-messaging.md %}
@@ -43,7 +42,7 @@ date: 2024-05-20
 ## The DOE Needs to Do More <span id="The DOE Needs to Do More"></span>
 {% include sections/concluding-statement.md %}
 
-## Supplimentary Information <span id="Supplimentary Information"></span>
+## Supplementary Information <span id="Supplementary Information"></span>
 ## Video clips
 {: .custom-section-header}
 {% include sections/youtube.md %}

@@ -92,16 +92,6 @@
   </figcaption>
 </figure>
 
-<figure id="fig:tent-endorsement-2">
-  <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
-    <img src="\images\2024-05-20\protest\paid4by.jpg" 
-     alt="CAC tent with visible USAC endorsement and "occupation-death" sign style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 34: CAC tent with visible USAC endorsement in the presence of "occupation-death" sign (Aidan Sun/Daily Bruin)
-  </figcaption>
-</figure>
-
 <figure id="fig:cec-tent">
   <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
     <img src="/images/2024-05-20/supp-figures/cec-cac-protest.jpg" 
@@ -152,15 +142,34 @@
   </figcaption>
 </figure>
 
-<figure id="fig:faculty-and-staff">
-  <a href="https://dailybruin.com/2024/05/03/daily-bruin-print-issue-may-3">
-    <img src="\images\2024-05-20\protest\faculty-and-staff.png" 
-     alt="Hillel Instagram Safe Passage" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 35: Protesters hoist a banner behind a crowd to stop police from clearing out the encampment (Zimo Lee/Daily Bruin)
-  </figcaption>
-</figure>
+<div style="display: flex; justify-content: center; width: 100%;">
+    <figure id="tweet-bruin-beaten" style="margin: 0;">
+        <blockquote class="twitter-tweet" data-media-max-width="560" style="margin: 0 auto; display: flex; justify-content: center;">
+            <p lang="en" dir="ltr">As she tried to break free, one UCLA student journalist said, she was punched repeatedly in the chest and upper 
+			abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute. 
+			<a href="https://t.co/tfI1HTbkSi">https://t.co/tfI1HTbkSi</a></p>&mdash; Lois Beckett (@loisbeckett) 
+			<a href="https://twitter.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw">May 2, 2024</a>
+        </blockquote>
+        <figcaption style="text-align: center;">Figure 3: Embedded Tweet by Lois Beckett</figcaption>
+    </figure>
+</div>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div style="display: flex; justify-content: center; width: 100%;">
+    <figure id="tweet-no-police" style="margin: 0;">
+        <blockquote class="twitter-tweet" data-media-max-width="760" style="margin: 0 auto;">
+            <p lang="en" dir="ltr">Counter protestors at UCLA continue to fight pro-Palestinian demonstrators in full of police, 
+			who arrived 30min ago but have not intervened. <br><br>There have been dozens of minor injuries tonight, mostly pepper 
+			spray and melee wounds. <a href="https://t.co/FjmoCNgsmc">pic.twitter.com/FjmoCNgsmc</a></p>&mdash; Sergio Olmos (@MrOlmos) 
+			<a href="https://twitter.com/MrOlmos/status/1785600611326763059?ref_src=twsrc%5Etfw">May 1, 2024</a>
+        </blockquote>
+        <figcaption style="text-align: center;">Figure 4: Embedded Tweet by Sergio Olmos</figcaption>
+    </figure>
+</div>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <figure id="fig:jvp-encampment-dismantled">
   <a href="LINK_PLACEHOLDER">
@@ -169,6 +178,16 @@
   </a>
   <figcaption>
     Figure 36: JVP warns of encampment being dismantled
+  </figcaption>
+</figure>
+
+<figure id="fig:faculty-and-staff">
+  <a href="https://dailybruin.com/2024/05/03/daily-bruin-print-issue-may-3">
+    <img src="\images\2024-05-20\protest\faculty-and-staff.png" 
+     alt="Hillel Instagram Safe Passage" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 35: Protesters hoist a banner behind a crowd to stop police from clearing out the encampment (Zimo Lee/Daily Bruin)
   </figcaption>
 </figure>
 
