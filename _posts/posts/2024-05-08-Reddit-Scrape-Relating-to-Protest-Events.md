@@ -1,29 +1,16 @@
 ---
 layout: default
-title: "Scraped the Reddit Regarding Protest Events"
+title: "Reddit scrape relating to Protest Events"
 date: 2024-05-08
 ---
 
 # Scraped Reddit Regarding Protest Events 
 
-Here you can see these college-aged students are confused about a lot of things. In addition to understanding their First Ammendment rights, 
-I try to focus on Title VI infringement,
-both with respect to language and violence. How can students be instructed, held accountable, and protected with respect to 
-infighting and harrasment from outside protesters?
-I would also like to consider how to effectively assemble and demonstrate such that opposing groups can coexist and not undermine their message by 
-infringing on the rights of others, i.e. using hate speech, prejudice, harassment, or blockading 
-walkways/preventing students from accessing their classes. Also the concept of staying on message, 
-effectively achieving progress towards a goal incrementally, and dedicating time towards what as an 
-American you have the power to change would be helpful to their cause. Defining words from an American viewpoint should also help deter people from using extreme language and 
-perhaps help in finding some common ground. Finally the concept of nuanced issues and recognizing that there may be situations where demands for one thing, 
-from one group, should not preclude the objectives of another group.
 
-
-
-## Backlash
+## Group 1
 {: .custom-section-header}
 
-### Hate Speech and propagation of hate speech 
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/daFuck.png" alt="TheRealMichaelE defines Zionism">
     <img src="/images/2024-05-20/reddit-sources/definitize.png" alt="TheRealMichaelE defines Zionism">
@@ -33,7 +20,7 @@ from one group, should not preclude the objectives of another group.
 
 
 
-### Students upset about the protest
+
 
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/Breath_Background.png" alt="Breath Background">
@@ -53,10 +40,10 @@ from one group, should not preclude the objectives of another group.
 
 
 
-## Student Confusion
+## Group 2
 {: .custom-section-header}
 
-#### Vocabulary
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/Green3_2.png" alt="Green3_2">
     <img src="/images/2024-05-20/reddit-sources/TheRealMichaelE.png" alt="TheRealMichaelE">
@@ -68,7 +55,7 @@ from one group, should not preclude the objectives of another group.
 </div>
 
 
-#### 1st Ammendment Rights
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/bibblejohnson2072.png" alt="BibbleJohnson2072">
     <img src="/images/2024-05-20/reddit-sources/DatElNino.png" alt="DatElNino">
@@ -78,7 +65,7 @@ from one group, should not preclude the objectives of another group.
 </div>
 
 
-#### The University should take a position
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/Cay_Mang.png" alt="Cay_Mang">
     <img src="/images/2024-05-20/reddit-sources/Cay_Mang_2.png" alt="Cay_Mang part 2">
@@ -94,7 +81,7 @@ from one group, should not preclude the objectives of another group.
 </div>
 
 
-#### The students need to be educated
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/Bos_gaurus.png" alt="Bos_gaurus">
     <img src="/images/2024-05-20/reddit-sources/I_Donald_Trump.png" alt="I_Donald_Trump">
@@ -106,7 +93,7 @@ from one group, should not preclude the objectives of another group.
 </div>
 
 
-#### Pro-American messaging
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/BruinJedi144.png" alt="BruinJedi144">
     <img src="/images/2024-05-20/reddit-sources/Glittering-Action788_2.png" alt="Glittering-Action788 part 2">
@@ -116,7 +103,7 @@ from one group, should not preclude the objectives of another group.
 </div>
 
 
-#### The university should mitigate mis/disinformation
+
 <div class="image-column">
     <img src="/images/2024-05-20/reddit-sources/deleted.png" alt="Deleted">
     <img src="/images/2024-05-20/reddit-sources/growing-up-23.png" alt="Growing up 23">

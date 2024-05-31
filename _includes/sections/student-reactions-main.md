@@ -9,7 +9,7 @@ and feeling in as honest a way as possible, without a filter. That being said, r
 It is simply "a window" into the thoughts of some people from within the r/UCLA community. 
 
 Themes offering valuable lessons range from aspects of the protest that caused backlash, confusion over what the overall protest message was, conversations about cultural identity, and the opinions of people
-not personally involved who are expressing a "neutral" or moderate take. The posts range from excellent examples of how to process these tense and emotional times to counterproductive and harboring animus 
+not personally involved who are expressing a "neutral" or moderate take. The posts range from excellent examples of how to process these tense and emotional times to counterproductive or showing animosity
 for opposing viewpoints. Regardless of the nature of the conversation, people come to the table to take part in a dialogue without being discouraged, which is commendable given our current political climate and a lesson in and of itself.
 
 Specifically, beginning with [figure block](##fig:backlash-1), we see "chuu26" confused about what protester's intentions are when they block the pathways of "all" students. It's important to understand that when a "targeted" group falls
