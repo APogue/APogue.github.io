@@ -36,7 +36,7 @@ university property. Violations of these regulations are punishable as a misdeme
 Anyone not affiliated with the university who chooses to come to campus should keep these regulations in mind. For example, any sign or flag must be smaller than 30 x 30 inches and on poles shorter than 18 inches (section 100014). No masking 
 (section 100013-L) or camping (section 100005) is allowed."[^165] 
 
-On the same day, following the distributed flyer, at 5:05 pm Chancellor Block mentioned student conduct investigations into those who had blocked access to parts of campus and declared the encampment to be unauthorized in a campuswide email, ""UCLA 
+On the same day, following the distributed flyer, at 5:04 pm Chancellor Block mentioned student conduct investigations into those who had blocked access to parts of campus and declared the encampment to be unauthorized in a campuswide email, ""UCLA 
 supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid," Block said in the statement. "These incidents have put many on our campus, 
 especially our Jewish students, in a state of anxiety and fear.""[^166] 
 

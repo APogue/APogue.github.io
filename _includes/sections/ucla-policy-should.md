@@ -11,17 +11,25 @@ This individual would be "highly influential" because they are well informed, ha
 he found the fortitude and the courage to speak up and take a position in these tumultuous times. Currently, the UCLA "individual" is absent---there have been no positions taken, which is problematic when trying to head off a growing 
 problem. In contrast, an individual with convictions can predict the direction of a mounting problem and attempt to course correct using their own personal set of values. But if there's no one around to worry over the direction of UCLA's 
 campus climate, if there's no one to say, "I don't like where this is going", then the direction it takes is left in the hands of the young and inexperienced. The outcome is at the cost of the young and inexperienced, because thus far UCLA's weak 
-tone and vague policy adherance has caused it to largely function as a "hands-off" governing body students report incidents to and take issue with *after* the damage has been done. The signs that this is how UCLA is functioning are everywhere---
+tone and vague policy adherence has caused it to largely function as a "hands-off" governing body students report incidents to and take issue with *after* the damage has been done. The signs that this is how UCLA is functioning are everywhere---
 
 The university took no position on pro-Palestinian messaging during the protests and offered no support to students regarding time, place, and manner restrictions. UCLA (the "individual") needs to be "louder" and more resolute. If UCLA didn't like 
-where things were going, it might condemn antisemitic chants. If it didn't like where things were headed, it might say, "blockading students from going to their classes is not protected by the 1st ammendment, and if any student continues this behavior
-the encampent will be immediatly shut down." This way, when they're told to vacate because the "encampment is unlawful and violates university policy" the students won't be left confused as to why. The Daily Bruin 
+where things were going, it might condemn antisemitic chants. If it didn't like where things were headed, it might say, "blockading students from going to their classes is not protected by the 1st Amendment, and if any student continues this behavior
+the encampment will be immediately shut down." This way, when they're told to vacate because the "encampment is unlawful and violates university policy" the students won't be left confused as to why. The Daily Bruin 
 also pointed out that same day that "The university has not previously called the encampment unlawful or unauthorized."[^166] Really the flyer gave the feeling that UCLA just wanted the protest to stop because if they couldn't give a reason for 
 shutting them down there must not be one. Which could cause students, already in an agitated state, to stay put out of pure defiance; unwilling to be subject to the complex "legalese" administrators must be conjuring as an excuse to get rid of them. 
 
 Keeping them informed would have resulted in two paths to the same outcome, either students would have stopped the unlawful behavior or they would have continued but understood why they were being shut down, and may have been more willing to vacate. 
-In either case, the encampment was not shut down out of fear for students' safety, although in hindsight the administration might look better if that had been its intention. The flyer stated that "law enforcement is on hand to protect and keep safe"
-students and demonstrators. But 5 days of weak or absent messaging, then a single flyer and an email at 5:15 pm on the 30th were not enough to head off the mounting tension between protesting sides since day one (see *Timeline* in *Supplementary Information*). 
+In either case, it was never stated that the encampment was being shut down out of fear for students' safety, although Block stated safety concerns as his reasoning at the hearing.
+
+To reiterate, the flyer made no mention of cause and the 5:04 email stated,
+
+““UCLA supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid,” Block said in the statement. “These incidents have put many on our campus,
+ especially our Jewish students, in a state of anxiety and fear.””[^166]
+
+Even if at the last minute, if the email had mentioned safety concerns, the administration would be coming out of this looking a lot better. Regardless of whether safety was a factor or not, the administration underestimated the imminent threat when the flyer stated
+"law enforcement is on hand to protect and keep safe"
+students and demonstrators. But 5 days of weak or absent messaging, then a single flyer and an email at 5:04 pm on the 30th were not enough to head off increasing tensions between protesting sides since day one (see *Timeline* in *Supplementary Information*). 
 The result: confused and defiant students fell prey to mounting aggression from non-affiliates while the university carried on: lackadaisical, mute, and unobservant. 
 
 "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on 
@@ -30,11 +38,11 @@ too little too late, after the fact individual UCLA has become. It begs the ques
 And the lack thereof may seem like the individual cares about American freedoms, when in fact what happened here betrays a darker objective. Without being too dramatic on the matter, this looks like a cut and dry case of administrative negligence to me.  
 
 Tonal negligence as a "perpetrator" of misconduct is everywhere in this problem. "Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to 
-antisemitic tropes.“I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”[^201] In *Student Reactions* we observe 
+antisemitic tropes.“ I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”[^201] In *Student Reactions* we observe 
 pervasive and frequent use of the words or phrase, "Intifada", "Zionist", and "from the river to the sea..." First off, looking at [figure](##fig:doe-ocr-pamphlet) the DOE's OCR office has what looks to be somewhat "dated" circumstances that raise Title VI 
 concerns---"A Jewish middle school student feels unsafe at school because classmates routinely place notes with swastikas on the student's backpack, perform Nazi salutes, and make jokes about the Holocaust." It is unlikely that a situation like this would arise anymore, because 
 students have found rhetorical "workarounds", so to speak. This situation also seems quite extreme, if this were the bar to clear I'm not sure the House Committee would need to call a hearing. The OCR should update antisemitic vocabulary and devices for pervasive 
-harrassment (this is the age of social media, not written notes). It should also make clear what the *minimum* requirement is for Title VI infringements. 
+harassment (this is the age of social media, not written notes). It should also make clear what the *minimum* requirement is for Title VI infringements. 
 
 Under the circumstances where the applicability of Title VI is unclear, the university should take a position on these and other words within the polemical lexicon. Perhaps an online "activist index" could be maintained, whereby language is defined from an American 
 viewpoint (Americans that believe in statehood for Palestine might be referred to as *progressive Zionists* for example). A dedicated UCLA media relations office that's active on campus could be involved in mediating conversations, promoting its position, and 
@@ -42,6 +50,7 @@ spotlighting certain organizations who are positive in the community. It would a
 to me that the org that does the most organizing has these views and on college campuses at least, is mostly the only game in town for pro-Palestinian advocacy" ([fig](##fig:neutral-take-1)). UCLA can be the other "game in town", or it could pass the mic to 
 up and coming positive influencers, giving them the platform they might need to reach students. UCLA could grow its social media presence using events like workshops, round table discussions, teach-ins, a speaker series or by featuring activist artists. The point
 I'm trying to make is, the pervasiveness of the problematic behavior comes from the absence of UCLA's "voice" which is creating a vacuum and the void is being filled with the chaos and confusion of its students. 
+
 
 
 ## Accountability

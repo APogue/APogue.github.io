@@ -97,7 +97,7 @@ On the evening of April 30th (see the abbreviated timeline in *Supplimentary Inf
 "After the barricades came down, counter-protesters and protesters inside the encampment began to fight. Counter-protesters shot fireworks into the encampment just after 11 p.m., and irritant gasses were released from both sides. 
 A Daily Bruin reporter was indirectly sprayed in the face."[^278] A photo taken by a Bruin reporter depicting the scene is shown in [figure](##fig:ucla-fireworks). 
 
-Lois Beckett descibes danger befalling a Bruin journalist in [figure](##tweet-bruin-beaten) (as written by Colleen Shelby from the LA Times) , "As she tried to break free, one UCLA student journalist said, she was punched repeatedly 
+Lois Beckett descibes a violent encounter involving a Bruin journalist in [figure](##tweet-bruin-beaten) (as written by Colleen Shelby from the LA Times) , "As she tried to break free, one UCLA student journalist said, she was punched repeatedly 
 in the chest and upper abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute." Terrible, uninterrupted violence occured that night for least two hours.[^283] [figure](##tweet-no-police) 
 shows a scene 30 minutes after police arrived, but had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation to identify suspects committing assault.[^285] Another 
 investigative report identifying suspects can be found here.[^282] These investigations are made harder by the fact that assailants are unlawfully masked, which could have been cause to remove them from campus before the chaos even started.
