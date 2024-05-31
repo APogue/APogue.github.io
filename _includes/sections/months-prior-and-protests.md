@@ -38,7 +38,7 @@
      alt="SJP protest demands" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 28: SJP protest demands
+    Figure 29: SJP protest demands
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@
      alt="Invitation to join SJP and JVP in protest" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 29: Invitation to join SJP, UC Divest, & JVP in protest
+    Figure 30: Invitation to join SJP, UC Divest, & JVP in protest
   </figcaption>
 </figure>
 
@@ -58,17 +58,17 @@
      alt="Same large sign with red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 31: Same large sign with red triangle from LA Public Press
+    Figure 32: Same large sign with red triangle from LA Public Press
   </figcaption>
 </figure>
 
-<figure id="fig:uknown-red-triangle">
+<figure id="fig:unknown-red-triangle">
   <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza">
     <img src="/images/2024-05-20/supp-figures/unknown-red-triangle.jpg" 
      alt="Royc with sign feauring large red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: Photo of sign with large red triangle from Daily Bruin 
+    Figure 33: Photo of sign with large red triangle from Daily Bruin 
   </figcaption>
 </figure>
 
@@ -78,7 +78,7 @@
      alt="Smaller red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 32: Smaller red triangle, Daily Bruin
+    Figure 34: Smaller red triangle, Daily Bruin
   </figcaption>
 </figure>
 
@@ -88,7 +88,18 @@
      alt="Large sign with red triangle" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 33: Encampment showing people linking arms in the presence of "occupation-death" sign (Julia Zhou/Photo editor)
+    Figure 35: Encampment showing people linking arms in the presence of "occupation-death" sign (Julia Zhou/Photo editor)
+  </figcaption>
+</figure>
+
+
+<figure id="fig:hillel-insta-safe-pass">
+  <a href="https://www.instagram.com/p/C6MYgY0pw14/?hl=en">
+    <img src="\images\2024-05-20\protest\hillel-insta-safe-pass.png" 
+     alt="Hillel Instagram Safe Passage" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 37: Hillel Instagram Message w/Alternate Route for Students
   </figcaption>
 </figure>
 
@@ -98,17 +109,7 @@
      alt="Photo showing CEC & CAC tent and sign with red triangle REMOVED" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: Photo showing CEC tent and sign with red triangle REMOVED
-  </figcaption>
-</figure>
-
-<figure id="fig:hillel-insta-safe-pass">
-  <a href="https://www.instagram.com/p/C6MYgY0pw14/?hl=en">
-    <img src="\images\2024-05-20\protest\hillel-insta-safe-pass.png" 
-     alt="Hillel Instagram Safe Passage" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 35: Hillel Instagram Message w/Alternate Route for Students
+    Figure 38: Photo showing CEC tent and sign with red triangle REMOVED
   </figcaption>
 </figure>
 
@@ -118,7 +119,7 @@
      alt="Counter-protesters waving Israeli flags in Dickson Plaza" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 35: Counter-protesters waving Israeli flags in Dickson Plaza (Brandon Morquecho/Photo editor)
+    Figure 44: Counter-protesters waving Israeli flags in Dickson Plaza (Brandon Morquecho/Photo editor)
   </figcaption>
 </figure>
 
@@ -128,7 +129,7 @@
      alt="A protester with an umbrella reading “LET GAZA LIVE” is pictured." style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 35: A protester with an umbrella is pictured (Zoraiz Irshad/Daily Bruin senior staff)
+    Figure 45: A protester with an umbrella is pictured (Zoraiz Irshad/Daily Bruin senior staff)
   </figcaption>
 </figure>
 
@@ -138,7 +139,7 @@
      alt="Demonstrators with Standing Together Los Angeles" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 35: Demonstrators with Standing Together Los Angeles (Brandon Morquecho/Photo editor)
+    Figure 46: Demonstrators with Standing Together Los Angeles (Brandon Morquecho/Photo editor)
   </figcaption>
 </figure>
 
@@ -150,7 +151,7 @@
 			<a href="https://t.co/tfI1HTbkSi">https://t.co/tfI1HTbkSi</a></p>&mdash; Lois Beckett (@loisbeckett) 
 			<a href="https://twitter.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw">May 2, 2024</a>
         </blockquote>
-        <figcaption style="text-align: center;">Figure 3: Embedded Tweet by Lois Beckett</figcaption>
+        <figcaption style="text-align: center;">Figure 48: Embedded Tweet by Lois Beckett</figcaption>
     </figure>
 </div>
 
@@ -164,7 +165,7 @@
 			spray and melee wounds. <a href="https://t.co/FjmoCNgsmc">pic.twitter.com/FjmoCNgsmc</a></p>&mdash; Sergio Olmos (@MrOlmos) 
 			<a href="https://twitter.com/MrOlmos/status/1785600611326763059?ref_src=twsrc%5Etfw">May 1, 2024</a>
         </blockquote>
-        <figcaption style="text-align: center;">Figure 4: Embedded Tweet by Sergio Olmos</figcaption>
+        <figcaption style="text-align: center;">Figure 49: Embedded Tweet by Sergio Olmos</figcaption>
     </figure>
 </div>
 
@@ -177,7 +178,7 @@
      alt="JVP encampment being dismantled" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 36: JVP warns of encampment being dismantled
+    Figure 51: JVP warns of encampment being dismantled
   </figcaption>
 </figure>
 
@@ -187,7 +188,7 @@
      alt="Hillel Instagram Safe Passage" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 35: Protesters hoist a banner behind a crowd to stop police from clearing out the encampment (Zimo Lee/Daily Bruin)
+    Figure 52: Protesters hoist a banner behind a crowd to stop police from clearing out the encampment (Zimo Lee/Daily Bruin)
   </figcaption>
 </figure>
 
@@ -197,7 +198,7 @@
      alt="Hillel comment on protest" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 36: Hillel comment on protest
+    Figure 54: Hillel comment on protest
   </figcaption>
 </figure>
 
@@ -207,7 +208,7 @@
      alt="Graffiti on Royce Hall" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 37: Chabad comments on graffiti on Royce Hall
+    Figure 55: Chabad comments on graffiti on Royce Hall
   </figcaption>
 </figure>
 

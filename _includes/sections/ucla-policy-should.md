@@ -62,13 +62,13 @@ It is careless to rely soley on them.
         <blockquote class="twitter-tweet" data-media-max-width="460" style="margin: 0 auto;">
             <p lang="en" dir="ltr">NEW: Pro-Palestine protester harasses a Daily Bruin journalist before saying "I hate white people."<br><br>The woman was live streaming from the UCLA Divest IG account when she made the comment.<br><br>Immediately after saying she "hates white people" the protester threatened to call the… <a href="https://t.co/5cy8KBE4WJ">pic.twitter.com/5cy8KBE4WJ</a></p>&mdash; Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1787521409079791881?ref_src=twsrc%5Etfw">May 6, 2024</a>
         </blockquote>
-        <figcaption>Figure 1: Embedded Tweet by Collin Rugg</figcaption>
+        <figcaption>Figure 76: Embedded Tweet by Collin Rugg</figcaption>
     </figure>
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-The student speaking in this live stream been quoted by the Daily Bruin before, in [bla](##fig:feb-8-rally) when leading a small rally she was promoting hatespeech (see *Months Prior to Protest Events*). Condemning 
+The student speaking in this live stream ([fig](##tweet-fig)) been quoted by the Daily Bruin before, in [bla](##fig:feb-8-rally) when leading a small rally she was promoting hatespeech (see *Months Prior to Protest Events*). Condemning 
 her language publically would raise more awareness about UC Divest and SJP's extreme rhetoric.
 
 Hillel's student president Bella Brannon stated in a Daily Bruin article dated November 19th that, “while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. 
@@ -106,8 +106,8 @@ It ocurred to me that a lot of people have never seen the Nazi classification tr
 Otherwise what we've learned from this last year: "From the River to the Sea", "Intifada", "Zionist" are part of *extreme*, polemic rhetoric. Until the DOE or other intersted groups can come to a consensus on 
 how to address the use of these words, don't chant them, don't write them, don't use them without being prepared to align with anti-American interests.  
 
-The DOE has addressed other hatespeech, 
-"Muslim students describe, for example, being told by peers in class that "you started 911" and being called "terrorist"", [figure](##fig:doe-ocr-pamphlet), and we know students at UCLA are a victim of this language, 
+The DOE has addressed other hatespeech in [figure](##fig:doe-ocr-pamphlet),
+"Muslim students describe, for example, being told by peers in class that "you started 911" and being called "terrorist"". We know students at UCLA are a victim of this language, 
 
 “Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now,”[^202].
 This isn't highschool but it seems like students need things spelled out explicitly, this word is hatespeech, there are consequenced to its use, period. 
@@ -139,23 +139,23 @@ to address antisemitism on campus (see [figure](##fig:congressional-hearing) @ 1
 module is recommended for all incoming students" and that antisemitism is "talked about at orientation". When asked again, what changes are planned beginning with this summer, @ 2:02 Block mentions his plans for orientation this the summer where they will spend "extra time" discussing issues regarding "respectful protest, time, 
 place and manner and we will make sure that our students are prepared for what the rules are with regard to appropriate protests". That was the full extent to which Block was questioned by the committee regarding what exists and what is planned with regard to Title VI.
 
-<figure id="fig:ucues-survey-about" style="margin-bottom: 20px;">
-  <a href="https://sairo.ucla.edu/by-survey/ucues">
-    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-survey-about.png" 
-     alt="About the UCUES survey, showing a 24% participation rate for 2022" style="width: 100%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 26: About the UCUES survey, showing a 24% participation rate for 2022
-  </figcaption>
-</figure>
-
 <figure id="fig:ucues-voluntary">
   <a href="https://sairo.ucla.edu/by-survey/ucues">
     <img src="/images/2024-05-20/supp-figures/final-cut/ucues-voluntary.png" 
      alt="trump ad featuring Nazi triangle taken down by Facebook" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: Image showing UCUES is voluntary for students
+    Figure 78: Image showing UCUES is voluntary for students
+  </figcaption>
+</figure>
+
+<figure id="fig:ucues-survey-about" style="margin-bottom: 20px;">
+  <a href="https://sairo.ucla.edu/by-survey/ucues">
+    <img src="/images/2024-05-20/supp-figures/final-cut/ucues-survey-about.png" 
+     alt="About the UCUES survey, showing a 24% participation rate for 2022" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 79: About the UCUES survey, showing a 24% participation rate for 2022
   </figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ data shows that in 2022 they made the question "optional" and got a 6% approval 
      alt="UCUES, campus climate, UCLA (from systemwide site), 2022" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: UCUES, "campus climate", UCLA (from systemwide site), 2022
+    Figure 81: UCUES, "campus climate", UCLA (from systemwide site), 2022
   </figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ data shows that in 2022 they made the question "optional" and got a 6% approval 
      alt="UCUES campus climate, UCLA information, 2022 and 2020, respectively" style="width: 75%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: UCUES "campus climate", UCLA information, 2022 and 2020, respectively
+    Figure 83: UCUES "campus climate", UCLA information, 2022 and 2020, respectively
   </figcaption>
 </figure>
 

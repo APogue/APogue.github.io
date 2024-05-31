@@ -4,7 +4,7 @@ On April 25th, the Daily Bruin reported "An encampment led by students in suppor
 around 100 students by 10 a.m."[^70] SJP lead the way, with a list of demands shown in [1](##fig:protest-demands) and together with other orgs called on students to join with them ([2](##fig:protest-invite)). The post in 
 [Figure 2](##fig:protest-invite) has 17,645 “likes” (bottom right-of-center), showing the combined “marketing” power of the organizations. 
 
-Right off the bat, unknown perpetrators began putting troubling imagery on display. [Figure 3](##fig:large-sign-red-triangle) and [Figure 4](##fig:same-large-sign-red-triangle) shows the same large sign 
+Right off the bat, unknown perpetrators began putting troubling imagery on display. [Figure 3](##fig:large-sign-red-triangle), [Figure 4](##fig:same-large-sign-red-triangle), and [Figure 4](##fig:unknown-red-triangle) shows the same large sign 
 that would become emblematic of the movement in its first days and would appear as a symbol representative of the encampment in the Daily Bruin[^277] several non-affiliate articles.[^72][^274][^275][^276]
 
 <figure id="fig:large-sign-red-triangle">
@@ -13,7 +13,7 @@ that would become emblematic of the movement in its first days and would appear 
      alt="Large sign with red triangle" style="width: 95%; height: auto;">
   </a>
   <figcaption>
-    Figure 30: Large sign with red triangle from LA Times
+    Figure 31: Large sign with red triangle from LA Times
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ believes makes Jewish students uncomfortable on campus."
      alt="CAC tent with visible USAC endorsement and 'occupation-death' sign" style="width: 90%; height: auto;">
   </a>
   <figcaption>
-    Figure 34: CAC tent with visible USAC endorsement in the presence of 'occupation-death' sign (Aidan Sun/Daily Bruin)
+    Figure 36: CAC tent with visible USAC endorsement in the presence of 'occupation-death' sign (Aidan Sun/Daily Bruin)
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ the encampment, adding that students should be provided a space to engage in act
 [fig cec](##fig:cec-tent) shows the CEC tent in the top left corner of the photo (yellow tent). Analyzing the metadata of the photo ([fig cec metadata](##fig:cec-tent-metadata)), it looks like the photo was taken at 6:16 pm on 5/26. The metadata for
 [Figure 9](##fig:tent-endorsement-2), with the sign still showing the red triangle, can be seen in [cac metadata](##fig:cac-tent-metadata), it looks like this photo was taken at 12:23 pm on 5/26. The Instagram photos CAC has on their Instagram
 profile (see group related to [cac insta tent](##fig:cac-tent-propoganda-1)) is dated April 25th. Which means that the CAC tent had been set up since the start of the protest, while there is no evidence that is the case for CEC. 
-The metadata for the signage in [unknown-big](##fig:uknown-red-triangle) is shown in [unknown-big](##fig:unknown-red-triangle-metadata) and for [unknown small](##fig:smaller-red-triangle) is [unknown small](##fig:smaller-red-triangle-metadata).
+The metadata for the signage in [unknown-big](##fig:unknown-red-triangle) is shown in [unknown-big](##fig:unknown-red-triangle-metadata) and for [unknown small](##fig:smaller-red-triangle) is [unknown small](##fig:smaller-red-triangle-metadata).
 All of these photos were taken on April 25th, meaning it is likely these signs were removed after the 1st day of protests, by whom is unknown. 
 
 Without the hate symbology, the remaining relevant *imagery*, such as  [fig with Jewish present](##fig:anti-zionism-not), depicted a typical protest environment with a mix of people in support of Israel and rallying for the pro-Palestinian cause. 
@@ -63,7 +63,7 @@ Without the hate symbology, the remaining relevant *imagery*, such as  [fig with
      alt="anti-zionism-not" style="width: 95%; height: auto;">
   </a>
   <figcaption>
-    Figure 30: Photo taken by Bruin reporter, Sunday 4/28 the "biggest" day of protests at 8:32 am
+    Figure 43: Photo taken by Bruin reporter, Sunday 4/28 the "biggest" day of protests at 8:32 am
   </figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ On the evening of April 30th (see the abbreviated timeline in *Supplimentary Inf
      alt="Green fireworks shoot up in front of Royce Hall as counter-protesters look on." style="width: 85%; height: auto;">
   </a>
   <figcaption>
-    Figure 30: Green fireworks shoot up in front of Royce Hall as counter-protesters look on (Nicolas Greamo/Daily Bruin senior staff).
+    Figure 47: Green fireworks shoot up in front of Royce Hall as counter-protesters look on (Nicolas Greamo/Daily Bruin senior staff).
   </figcaption>
 </figure>
 
@@ -99,8 +99,8 @@ A Daily Bruin reporter was indirectly sprayed in the face."[^278] A photo taken 
 
 Lois Beckett descibes danger befalling a Bruin journalist in [figure](##tweet-bruin-beaten) (as written by Colleen Shelby from the LA Times) , "As she tried to break free, one UCLA student journalist said, she was punched repeatedly 
 in the chest and upper abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute." Terrible, uninterrupted violence occured that night for least two hours.[^283] [figure](##tweet-no-police) 
-shows a scene 30 minutes after police arrived, and had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation to identify suspects committing assault.[^285] Another 
-investigative report identifying suspects can be found here.^[^282]
+shows a scene 30 minutes after police arrived, but had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation to identify suspects committing assault.[^285] Another 
+investigative report identifying suspects can be found here.[^282] These investigations are made harder by the fact that assailants are unlawfully masked, which could have been cause to remove them from campus before the chaos even started.
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <figure id="tweet-who-perp" style="margin: 0;">
@@ -111,7 +111,7 @@ investigative report identifying suspects can be found here.^[^282]
 			<a href="https://twitter.com/YahyaGhazala?ref_src=twsrc%5Etfw">@yahyaghazala</a> <a href="https://t.co/FTy0smKGoA">pic.twitter.com/FTy0smKGoA</a></p>&mdash; Kyung Lah (@KyungLahCNN)
 			<a href="https://twitter.com/KyungLahCNN/status/1790908711898165639?ref_src=twsrc%5Etfw">May 16, 2024</a>
         </blockquote>
-        <figcaption style="text-align: center;">Figure 2: Embedded Tweet by Kyung Lah </figcaption>
+        <figcaption style="text-align: center;">Figure 50: Embedded Tweet by Kyung Lah </figcaption>
     </figure>
 </div>
 
@@ -134,7 +134,7 @@ megaphone during the dispersal announcement."[^287]
 			fired them into crowds.<a href="https://t.co/dpJ69sTKoH">https://t.co/dpJ69sTKoH</a> <a href="https://t.co/QGQoISZfzN">pic.twitter.com/QGQoISZfzN</a></p>&mdash; Sergio Olmos (@MrOlmos) 
 			<a href="https://twitter.com/MrOlmos/status/1790143954245370107?ref_src=twsrc%5Etfw">May 13, 2024</a>
         </blockquote>
-        <figcaption style="text-align: center;">Figure 5: Embedded Tweet by Sergio Olmos</figcaption>
+        <figcaption style="text-align: center;">Figure 53: Embedded Tweet by Sergio Olmos</figcaption>
     </figure>
 </div>
 

@@ -45,7 +45,7 @@ with classic antisemitic stereotypes, it is impossible not to recoil."
      alt="Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA" style="width: 90%; height: auto;">
   </a>
   <figcaption>
-    Figure 21: Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA on March 20th
+    Figure 22: Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA on March 20th
   </figcaption>
 </figure>
 

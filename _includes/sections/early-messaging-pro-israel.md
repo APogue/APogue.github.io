@@ -35,7 +35,7 @@
      alt="Chabad House Instagram posts in support of pro-Israel counter protest" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 120: Chabad House Instagram post showing support for pro-Israel demonstrations at UCLA
+    Figure 20: Chabad House Instagram post showing support for pro-Israel demonstrations at UCLA
   </figcaption>
 </figure>
 

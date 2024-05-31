@@ -1,4 +1,4 @@
-<h4>backlash Figures 60-63</h4>
+<h4>backlash </h4>
 <figure id="fig:backlash-1" style="margin-bottom: 20px;">
 	<img src="/images/2024-05-20/reddit-sources/oneKev.png" alt="OneKev" style="width: 100%;">
 </figure>
@@ -21,7 +21,7 @@
 	<img src="/images/2024-05-20/reddit-sources/cant-get-to-class-new.png" alt="Special Collection 6" style="width: 100%;">
 </figure>
 
-<h4>1st Amendment Figures 53-55</h4>
+<h4>1st Amendment </h4>
 <figure id="fig:1st-Ammendment-1" style="margin-bottom: 20px;">
 	<img src="/images/2024-05-20/reddit-sources/bibblejohnson2072.png" alt="BibbleJohnson2072" style="width: 100%;">
 </figure>
@@ -32,7 +32,7 @@
 	<img src="/images/2024-05-20/reddit-sources/sainagh.png" alt="Sainagh" style="width: 100%;">
 </figure>
 
-<h4>neutral take Figures 56-59</h4>
+<h4>Neutral take </h4>
 <figure id="fig:neutral-take-1" style="margin-bottom: 20px;">
 	<img src="/images/2024-05-20/reddit-sources/nameOfTheWind1_2.png" alt="NameOfTheWind1 part 2" style="width: 100%;">
 </figure>
@@ -47,7 +47,7 @@
 </figure>
 
 
-<h4>confusion over the message of the movement Figures 64-71</h4>
+<h4>Confusion over the message of the movement Figures </h4>
 <figure id="fig:confusion-over-the-message-of-the-movement-1" style="margin-bottom: 20px;">
 	<img src="/images/2024-05-20/reddit-sources/new-post-5-21.png" alt="new-post-5-21" style="width: 100%;">
 </figure>
@@ -70,7 +70,7 @@
 	<img src="/images/2024-05-20/reddit-sources/Special_Collection_6.png" alt="Special Collection 6" style="width: 100%;">
 </figure>
 
-<h4>Muslim issues and Islamophobia Figures 49-52</h4>
+<h4>Muslim issues and Islamophobia </h4>
 <figure id="fig:anti-Muslim-6" style="margin-bottom: 20px;">
     <img src="/images/2024-05-20/reddit-sources/MaleficentGreen7256.png" alt="MaleficentGreen7256" style="width: 100%;">
 </figure>
@@ -90,7 +90,7 @@
 	<img src="/images/2024-05-20/reddit-sources/daFuck.png" alt="daFuck" style="width: 100%;">
 </figure>
 
-<h4>debating zionism Figures 72-76</h4>
+<h4>Debating Zionism </h4>
 <figure id="fig:debating-zionism-6" style="margin-bottom: 20px;">
     <img src="/images/2024-05-20/reddit-sources/TheRealMichaelE.png" alt="TheRealMichaelE" style="width: 100%;">
 </figure>
@@ -110,12 +110,12 @@
 	<img src="/images/2024-05-20/reddit-sources/SecretAshamed2353.png" alt="SecretAshamed2353" style="width: 100%;">
 </figure>
 
-<h4>Hatespeech Figure 48</h4>
+<h4>Hatespeech </h4>
 <figure id="fig:hatespeech-1" style="margin-bottom: 20px;">
 	<img src="/images/2024-05-20/reddit-sources/definitize.png" alt="KTLA" style="width: 100%;">
 </figure>
 
-<h4>polarized debate Figures 77-82</h4>
+<h4>Polarized debate </h4>
 <figure id="fig:polarized-debate-3" style="margin-bottom: 20px;">
     <img src="/images/2024-05-20/reddit-sources/I_Donald_Trump.png" alt="I_Donald_Trump" style="width: 100%;">
 </figure>

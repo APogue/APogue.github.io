@@ -62,7 +62,7 @@ police for the Sacramento Police department from 2008 to 2012 and has been an in
 
 
 In general, there are targeted and optional resources for faculty, employees, and students with respect to civil rights protections. Civil rights training modules for the UCLA community are located here.[^178] Title IX training is required for 
-everyone, annually or biannually. while Title VI and VII are not federally mandated, faculty do receive mandatory Title VII training as well (workplace discrimination).[^179] A workshop is also available (optional, upon request) called "Establishing 
+everyone, annually or biannually. While Title VI and VII are not federally mandated, faculty do receive mandatory Title VII training as well (workplace discrimination).[^179] A workshop is also available (optional, upon request) called "Establishing 
 Equity and Inclusion in the University Setting: Strategies, Resources and Best Practices (live workshop provided by EDI)" which would presumably cover Faculty interactions with students, likely involving some Title VI protections and 
 code of conduct.[^180]
 

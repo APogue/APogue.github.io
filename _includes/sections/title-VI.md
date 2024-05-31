@@ -33,7 +33,7 @@ characteristics.” [^34]
      alt="DOE OCR Pamphlet" style="width: 80%; height: auto;">
   </a>
   <figcaption>
-    Figure 26: DOE OCR Pamphlet
+    Figure 71: DOE OCR Pamphlet
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 
      alt="Accountability Title IX" style="width: 80%; height: auto;">
   </a>
   <figcaption>
-    Figure 27: accountability Title IX
+    Figure 72: accountability Title IX
   </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ the Title VI code of conduct? I.e. just the obvious cases were reported. ([Fig. 
      alt="DPO Accountability Title VI" style="width: 80%; height: auto;">
   </a>
   <figcaption>
-    Figure 28: Accountability Title VI
+    Figure 73: Accountability Title VI
   </figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ it would be fair to say that everyone would benefit from Title VI support and ed
      alt="Graffiti on Royce Hall" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 35: A Bruin comments on passive aggressive racism at UCLA
+    Figure 74: A Bruin comments on passive aggressive racism at UCLA
   </figcaption>
 </figure>
 

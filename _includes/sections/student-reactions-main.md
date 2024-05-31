@@ -41,7 +41,7 @@ the protesters. It is essential for UCLA to qualify these statements, do they co
      alt="pal-actions celebrates student intifada" style="width: 75%; height: auto;">
   </a>
   <figcaption>
-    Figure 1: Palestine Action US celebrates the student intifada
+    Figure 66: Palestine Action US celebrates the student intifada
   </figcaption>
 </figure>
 
@@ -104,11 +104,11 @@ Minutes and officer reports from USAC dated May 21st can be found here.[^148][^1
      alt="cac-harassment-statement" style="width: 90%; height: auto;">
   </a>
   <figcaption>
-    Figure 1: CAC comments on the protest events
+    Figure 70: CAC comments on the protest events
   </figcaption>
 </figure>
 
-The above statement by the CAC dated May 13th notably states that "the Cultural Afairs Commission has, is, and forever will be an organization that stands with the collective liberation for all marginalized communities." From my observations, 
+The above statement ([fig](##fig:cac-may-statement)) by the CAC dated May 13th notably states that "the Cultural Afairs Commission has, is, and forever will be an organization that stands with the collective liberation for all marginalized communities." From my observations, 
 the CAC finds the promotion of "marginalized" communities to be synonymous with the bullying and harassment of the Jewish community. It finds the promotion of one to be mutually exclusive with the *inclusion* and *representation* of another. 
 Most worrisome are comments such as "incredible statement. taught me a lot. thank you for carefully putting this together, all the resources, and the excellent example you have set." If we're being honest, 
 what example have they set? And is it consistent with the mission statement ([fig](##fig:cac-org-website)) of a USAC organization that's been operating on behalf of UCLA students for more than 50 years?
