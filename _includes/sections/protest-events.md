@@ -99,7 +99,8 @@ A Daily Bruin reporter was indirectly sprayed in the face."[^278] A photo taken 
 
 Lois Beckett descibes danger befalling a Bruin journalist in [figure](##tweet-bruin-beaten) (as written by Colleen Shelby from the LA Times) , "As she tried to break free, one UCLA student journalist said, she was punched repeatedly 
 in the chest and upper abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute." Terrible, uninterrupted violence occured that night for least two hours.[^283] [figure](##tweet-no-police) 
-shows a scene 30 minutes after police arrived, and had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation to identify suspects committing assault.[^285]
+shows a scene 30 minutes after police arrived, and had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation to identify suspects committing assault.[^285] Another 
+investigative report identifying suspects can be found here.^[^282]
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <figure id="tweet-who-perp" style="margin: 0;">
