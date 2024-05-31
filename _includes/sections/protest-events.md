@@ -60,7 +60,7 @@ Without the hate symbology, the remaining relevant *imagery*, such as  [fig with
 <figure id="fig:anti-zionism-not">
   <a href="unknown">
     <img src="\images\2024-05-20\protest\anti-zionism-not.jpg" 
-     alt="Large sign with red triangle" style="width: 95%; height: auto;">
+     alt="anti-zionism-not" style="width: 95%; height: auto;">
   </a>
   <figcaption>
     Figure 30: Photo taken by Bruin reporter, Sunday 4/28 the "biggest" day of protests at 8:32 am
