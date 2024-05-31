@@ -77,15 +77,13 @@ outlawed in Israel. Anyone who displayed the flag or its colors could face arres
 flying in public spaces last year."[^280]
 
 Standing Together LA, shown in [figure](##fig:standing-together-la), aims to promote peace and dialogue between Palestinian and Israeli communities, demonstrating that despite conflicts, people from both 
-backgrounds can support justice, freedom, and equality for everyone. They focus on showing that coexistence and mutual understanding are possible,
+backgrounds can support justice, freedom, and equality for all. They focus on showing that coexistence and mutual understanding are possible,
 
 "Dozens of people from Standing Together LA also demonstrated outside Dickson Plaza. Mikey Aboutboul, a third-year ethnomusicology student who was with Standing Together LA, said his group’s 
 demonstration was aimed at showing that not everyone is polarized, and there is some middle ground between different groups."[^279]
 
-
-As days at the enampment passed (see the abbreviated timeline in *Supplimentary Information* for details) the mounting aggression from counter-protesters, in the form of harrassment and physical altercation, turned violent on the evening of 
-April 30th. 
-
+On the evening of April 30th (see the abbreviated timeline in *Supplimentary Information* for details), microagressions and isolated incidents of threats and assault that had been going on for days turned into all out violence. 
+ 
 <figure id="fig:ucla-fireworks">
   <a href="https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence">
     <img src="\images\2024-05-20\protest\ucla-fireworks.jpg" 
@@ -97,10 +95,11 @@ April 30th.
 </figure>
 
 "After the barricades came down, counter-protesters and protesters inside the encampment began to fight. Counter-protesters shot fireworks into the encampment just after 11 p.m., and irritant gasses were released from both sides. 
-A Daily Bruin reporter was indirectly sprayed in the face."[^278] A photo taken by a Bruin reporter depicting the scene is shown in [figure](##fig:ucla-fireworks). Lois Beckett descibes danger befalling a Bruin journalist in 
-[figure](##tweet-bruin-beaten) (as written by Colleen Shelby from the LA Times) , "As she tried to break free, one UCLA student journalist said, she was punched repeatedly in the chest and upper abdomen; another student journalist was 
-pushed to the ground and beaten and kicked for nearly a minute." Terrible violence occured that night, going on for at least two hours.[^283] [figure](##tweet-no-police) shows a scene 30 minutes after police arrived, and 
-had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation of suspects committing assault.[^285]
+A Daily Bruin reporter was indirectly sprayed in the face."[^278] A photo taken by a Bruin reporter depicting the scene is shown in [figure](##fig:ucla-fireworks). 
+
+Lois Beckett descibes danger befalling a Bruin journalist in [figure](##tweet-bruin-beaten) (as written by Colleen Shelby from the LA Times) , "As she tried to break free, one UCLA student journalist said, she was punched repeatedly 
+in the chest and upper abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute." Terrible, uninterrupted violence occured that night for least two hours.[^283] [figure](##tweet-no-police) 
+shows a scene 30 minutes after police arrived, and had not yet intervened.[^283] [figure](##tweet-who-perp) shows more violence with reporter Kyung Lah detailing CNN's investigation to identify suspects committing assault.[^285]
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <figure id="tweet-who-perp" style="margin: 0;">
