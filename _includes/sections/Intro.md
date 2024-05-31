@@ -3,11 +3,11 @@
 Universities have long been a place where freedom of expression is welcome. When this expression comes in the form of civil disobedience, we typically see a 
 marginalized group calling into question the doings or policies of an oppressive power structure. Today we're witnessing the largest protest movement on college campuses since
 the Vietnam War. Historically, protest means "lawful messiness" and "clean conflict"---taking a stand against the Vietnam War or in favor of civil rights meant doing so unilaterally against a singular power. 
-What we're observing now though with the pro-Palestinian movment isn’t as simple. The protests mirror the complexities that exist in the Middle Eastern region itself, the issues are delicate and 
+What we're observing now though isn’t as simple. The protests mirror the complexities that exist in the Middle Eastern region itself, the issues are delicate and 
 emotionally charged. As Americans many of its problems are not within our power to solve and yet our many diasporas entrenches us within them.  
 
 The Daily Bruin[^400] was an excellent resource for me in keeping me informed on the day-to-day as the protests were happening. Reading the articles, I wanted more insight into what was going on and some of the issues that were new to me. 
-Everyone else was caught up was watching the livestreams, as the helicopters hovered overhead, loud and annoying enough to interrupt meetings. But I found myself gravitating to other sources of information, maybe the material was equally 
+Everyone else was caught up was watching the livestreams as the helicopters hovered overhead, loud and annoying enough to interrupt meetings. But I found myself gravitating to other sources of information, maybe the material was equally 
 "raw" but in a different way. I began by reading people's Reddit posts (and being appalled by what was being discussed). After I adjusted somewhat to the nature of the content, I noticed these conversations were mirroring a lot of 
 the "identities" associated with the pro-Palesinian movement and the campus climate that was becoming a product of it. I sought to further understand who it was bearing these identities and why. Not in a conventional "second hand way", but by
 reading the words directly from the individuals driving the movement and directly from those otherwise involved, by choice or by circumstance.  
