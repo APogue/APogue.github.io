@@ -17,7 +17,7 @@ that would become emblematic of the movement in its first days and would appear 
   </figcaption>
 </figure>
 
-[Figure 7](##fig:smaller-red-triangle) shows Royce Hall adorned once again with the Nazi imagery, this time on a smaller sign. [Figure 8](##fig:occupation-death-sign-people) and   [Figure 9](##fig:tent-endorsement-2) show the same sign 
+[Figure 7](##fig:smaller-red-triangle) shows Royce Hall adorned once again with the Nazi imagery, this time on a smaller sign. [Figure 8](##fig:occupation-death-sign-people) and [Figure 9](##fig:tent-endorsement-2) show the same sign 
 (([Figure 5](##fig:cac-tent-propoganda-1) and [Figure 6](##fig:cac-tent-propoganda-2)) that has been displayed on CAC's Instagram page. Here you see, in context, the large number of people whose attention SJP, UC Divest, and CAC have
 garnered. The combined organizational power (and the national movement) has put orgs that had small followings at earlier rallies center stage, and from these photos it looks as though they've retained hateful imagery in their messaging 
 nonetheless.  
@@ -68,15 +68,11 @@ Without the hate symbology, the remaining relevant *imagery*, such as  [fig with
 </figure>
 
 
-fig:let-gaza-live
-fig:standing-together-la
-fig:faculty-and-staff
-
-On Sunday, April 28th the largest number of protesters turned out from UCLA and the greater LA area to demonstrate in support of Israel, [figure](##fig:pro-israel-sunday), as well as the pro-Palestinian cause. California State Assemblymember 
+On Sunday, April 28th the largest number of protesters turned out from UCLA and the greater LA area to demonstrate in support of Israel, [figure](##fig:pro-israel-sunday), and the pro-Palestinian cause. California State Assemblymember 
 Rick Chavez Zbur, also came to speak at the event in support of Israel.
 
 "Demonstrators from the Palestinian Youth Movement and the Palestinian Feminist Collective led a march from the Meyer and Renee Luskin Conference Center to Royce Hall in support of the encampment."[^279] [Figure](##fig:let-gaza-live) shows 
-participants in the march holding umbrellas with watermelons on them. For context, the watermelon is made up of the same colors as the Palestinian flag, "Following the Arab-Israeli war in 1967, public displays of the Palestinian flag were 
+participants in the march holding umbrellas with watermelons on them. For context, the watermelon is composed of the same colors as the Palestinian flag, "Following the Arab-Israeli war in 1967, public displays of the Palestinian flag were 
 outlawed in Israel. Anyone who displayed the flag or its colors could face arrest. The ban was lifted in the 1993 Oslo Accords, but Israel's new far-right National Security Minister Itamar Ben-Gvir ordered the removal of Palestinian flags 
 flying in public spaces last year."[^280]
 
