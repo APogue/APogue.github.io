@@ -94,7 +94,7 @@ SJP stays focused on the “plight of the Palestinian people” in this post des
     
 <figure id="fig:sjp-reddit">
   <a href="placeholder">
-    <img src="/images/2024-05-20/reddit-sources/Glittering-Action768.png"
+    <img src="/images/2024-05-20/early-messaging/Glittering-Action768.png"
      alt="Alleged SJP Instagram post" style="width: 65%; height: auto;">
   </a>
   <figcaption>
