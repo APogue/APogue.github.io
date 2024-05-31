@@ -29,8 +29,8 @@ The next project will consist of breaking this post apart; distilling policy and
 
 If you use this post or any other blog post on my website for your own projects, all that I ask is that you please cite my work. 
 
-As a side note, the website is still in beta and I haven't worked all the bugs out yet. Things aren't working perfectly, some links may take an extra click here and there. I also just noticed the very slow page load, when I serve
-the page locally I don't run into that issue. I'll have to compress some media and/or optimize some code. Apologies in advance!
+As a side note, the website is still in beta and I haven't worked all the bugs out yet. Things aren't working perfectly, some links may take an extra click here and there. Also the media has been compressed but please be patient and allow all of it to load. 
+I'm working on faster loading times and will update when ready. Thanks for your patience. 
 
 
 
