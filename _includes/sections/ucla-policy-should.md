@@ -14,26 +14,30 @@ campus climate, if there's no one to say, "I don't like where this is going", th
 tone and vague policy adherence has caused it to largely function as a "hands-off" governing body students report incidents to and take issue with *after* the damage has been done. The signs that this is how UCLA is functioning are everywhere---
 
 The university took no position on pro-Palestinian messaging during the protests and offered no support to students regarding time, place, and manner restrictions. UCLA (the "individual") needs to be "louder" and more resolute. If UCLA didn't like 
-where things were going, it might condemn antisemitic chants. If it didn't like where things were headed, it might say, "blockading students from going to their classes is not protected by the 1st Amendment, and if any student continues this behavior
-the encampment will be immediately shut down." This way, when they're told to vacate because the "encampment is unlawful and violates university policy" the students won't be left confused as to why. The Daily Bruin 
-also pointed out that same day that "The university has not previously called the encampment unlawful or unauthorized."[^166] Really the flyer gave the feeling that UCLA just wanted the protest to stop because if they couldn't give a reason for 
-shutting them down there must not be one. Which could cause students, already in an agitated state, to stay put out of pure defiance; unwilling to be subject to the complex "legalese" administrators must be conjuring as an excuse to get rid of them. 
+where things were going, it might condemn antisemitic chants. If it didn't like where things were headed, it might say, "blockading students is not protected by the 1st Amendment, and if any student continues this behavior
+the encampment will be immediately shut down." 
 
-Keeping them informed would have resulted in two paths to the same outcome, either students would have stopped the unlawful behavior or they would have continued but understood why they were being shut down, and may have been more willing to vacate. 
-In either case, it was never stated that the encampment was being shut down out of fear for students' safety, although Block stated safety concerns as his reasoning at the hearing.
+It was not until April 30th that students were told to vacate in a cryptic flyer that stated, the "encampment is unlawful and violates university policy." The flyer made no mention of cause and the Daily Bruin 
+pointed out that same day that "The university has not previously called the encampment unlawful or unauthorized."[^166]. 
 
-To reiterate, the flyer made no mention of cause and the 5:04 email stated,
+At 5:04 pm Chancellor Block wrote in an email, 
 
 ““UCLA supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid,” Block said in the statement. “These incidents have put many on our campus,
  especially our Jewish students, in a state of anxiety and fear.””[^166]
 
-Even if at the last minute, if the email had mentioned safety concerns, the administration would be coming out of this looking a lot better. Regardless of whether safety was a factor or not, the administration underestimated the imminent threat when the flyer stated
-"law enforcement is on hand to protect and keep safe"
-students and demonstrators. But 5 days of weak or absent messaging, then a single flyer and an email at 5:04 pm on the 30th were not enough to head off increasing tensions between protesting sides since day one (see *Timeline* in *Supplementary Information*). 
-The result: confused and defiant students fell prey to mounting aggression from non-affiliates while the university carried on: lackadaisical, mute, and unobservant. 
+The flyer gave the impression that UCLA just wanted the protest to stop because if they couldn't give a reason for shutting them down there must not be one. Which could cause students, already in an agitated state, to stay put out of pure defiance;
+unwilling to be subject to the complex "legalese" administrators must be conjuring as an excuse to get rid of them. It would be reasonable to assume they would be confused, and a last minute email stating a "position" rather than explicitly 
+pointing to conduct that is unlawful was unlikely to change that. 
+
+"“We will not leave,” UC Divest said in the press release. “We will remain here until our demands are met.”"[^166]
+
+It was never stated that the encampment posed a safety risk to students, although Block cited safety concerns as the reason for removal at the Committee hearing ([figure](##fig:congressional-hearing) @ 44:14). If Block was aware of the security risks, 
+and there was no indication students would leave, why weren't police reinforcements on standby to head off the mounting tension (see *Timeline* in *Supplementary Information*)? The administration severely underestimated the imminent threat 
+posed by non-affiliates; which is obvious from the statement---"law enforcement is on hand to protect and keep safe [students and demonstrators as you vacate]". The result: students 
+fell prey to violent aggression from non-affiliates while the university carried on: lackadaisical, mute, and unobservant. 
 
 "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on 
-social media over the past several days — further damaged our community's sense of security."[^170] So, Block did not agree with pro-Palestinian rhetoric, fair enough, he's entitled. But "however one feels about the encampment" is exactly the weak, 
+social media over the past several days — further damaged our community's sense of security."[^170] Block did not agree with pro-Palestinian rhetoric, he's entitled. But "however one feels about the encampment" is exactly the weak, 
 too little too late, after the fact individual UCLA has become. It begs the question, UCLA may not agree with its students, but does it care about them, unconditionally? Because communication, rules, and guidance are how to avoid danger befalling them. 
 And the lack thereof may seem like the individual cares about American freedoms, when in fact what happened here betrays a darker objective. Without being too dramatic on the matter, this looks like a cut and dry case of administrative negligence to me.  
 
