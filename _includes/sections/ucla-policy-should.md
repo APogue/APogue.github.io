@@ -37,7 +37,7 @@ posed by non-affiliates; which is obvious from the statement---"law enforcement 
 fell prey to violent aggression from non-affiliates while the university carried on: lackadaisical, mute, and unobservant. 
 
 "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on 
-social media over the past several days — further damaged our community's sense of security."[^170] Block did not agree with pro-Palestinian rhetoric, he's entitled. But "however one feels about the encampment" is exactly the weak, 
+social media over the past several days — further damaged our community's sense of security."[^170] Block did not agree with the encampment, he's entitled. But "however one feels about the encampment" is exactly the weak, 
 too little too late, after the fact individual UCLA has become. It begs the question, UCLA may not agree with its students, but does it care about them, unconditionally? Because communication, rules, and guidance are how to avoid danger befalling them. 
 And the lack thereof may seem like the individual cares about American freedoms, when in fact what happened here betrays a darker objective. Without being too dramatic on the matter, this looks like a cut and dry case of administrative negligence to me.  
 
