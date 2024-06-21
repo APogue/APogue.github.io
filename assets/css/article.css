@@ -136,3 +136,11 @@ footer p {
     text-align: center;
     margin-top: 5px;
 }
+
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
+    .lightbox img {
+        max-width: 95%;
+        max-height: 95%;
+    }
+}
