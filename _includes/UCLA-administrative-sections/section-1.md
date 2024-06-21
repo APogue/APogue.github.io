@@ -11,13 +11,13 @@ organizations founded, the CAC has been active at UCLA for more than 50 years. F
 "student activity fees", a part of tuition paid by every student. This means that serving "all students" is not only a mission, 
 but a responsibility. 
 
-<figure id="fig:cac-org-website">
-  <a href="/images/2024-05-20/early-messaging/CAC.png" data-lightbox="image-1" data-title="Official UCLA CAC student organization website">
-    <img src="/images/2024-05-20/early-messaging/CAC.png" alt="CAC official UCLA student organization website" style="width: 25%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 1: Official UCLA CAC student organization website
-  </figcaption>
+<figure id="fig:cac-org-website" class="float-right">
+	<a href="/images/2024-05-20/early-messaging/CAC.png" data-lightbox="image-1" data-title="Official UCLA CAC student organization website">
+		<img src="/images/2024-05-20/early-messaging/CAC.png" alt="CAC official UCLA student organization website" style="width: 100%; height: auto;">
+	</a>
+	<figcaption>
+		Figure 1: Official UCLA CAC student organization website
+	</figcaption>
 </figure>
 
 In 2018 the serving commissioner expressed what he identified as "the problematic culture that exists at the University, which inadvertently 
@@ -30,39 +30,52 @@ It is clear the CAC understands the events of Oct 7th to be part of the Palestin
 opposed to a terrorist attack by Hamas. While First Amendment rights protects these views, even if they are "extreme", the 
 post calls into question the use of USAC funds to support this messaging. 
 
-<figure id="fig:cac-instagram-post-1">
-  <a href="/images/2024-05-20/early-messaging/CAC_instagram_1.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
-    <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" 
-     alt="CAC Instagram post part 1" style="width: 25%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 2: CAC Instagram post part 1
-  </figcaption>
-</figure>
-
-<figure id="fig:cac-instagram-post-2">
-  <a href="/images/2024-05-20/early-messaging/CAC_instagram_2.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 2">
-    <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" 
-     alt="CAC Instagram post part 2" style="width: 25%; height: auto;">
-  </a>
-  <figcaption>
-    Figure 3: CAC Instagram post part 2
-  </figcaption>
-</figure>
-
 The statement ([Figure 3](##fig:cac-instagram-post-2)) goes on to say it's possible to criticize the policies or actions of the Israeli government 
 without being antisemitic. However, at the end of the message are the words "From the River to the Sea, Palestine Will Be Free". Regardless of whether
 this phrase is generally considered threatening rhetoric, it is clear that a USAC funded organization must function on behalf of all students, at least
 insofar as the complete omission of threatening language towards any single group. It is clear 
 that the Instagram post does not uphold a mission "that is accessible to all students" with respect to either the timing or the political position of this post. 
 
-<figure id="fig:CAC-block-resign">
-  <a href="/images/2024-05-20/early-messaging/cac-pig-insta.png" data-lightbox="cac-posts" data-title="Demands Gene Block Resign">
-    <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" 
-     alt="CAC Block Resignation" style="width: 25%; height: auto;">
+<figure id="fig:cac-instagram-post-1" class="float-left">
+  <a href="/images/2024-05-20/early-messaging/CAC_instagram_1.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
+    <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1" style="width: 100%; height: auto;">
   </a>
   <figcaption>
-    Figure 4: Demands Gene Block Resign
+    Figure 2: CAC Instagram post part 1
   </figcaption>
 </figure>
 
+<figure id="fig:cac-instagram-post-2" class="float-right">
+  <a href="/images/2024-05-20/early-messaging/CAC_instagram_2.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
+    <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" 
+     alt="CAC Instagram post part 2" style="width: 100%; height: auto;">
+  </a>
+  <figcaption>
+    Figure 3: CAC Instagram post part 2
+  </figcaption>
+</figure>
+
+<div class="img-wrapper">
+  <figure id="fig:CAC-block-resign" class="float-right">
+    <a href="/images/2024-05-20/early-messaging/cac-pig-insta.png" data-lightbox="cac-posts" data-title="Demands Gene Block Resign">
+      <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" alt="CAC Block Resignation" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Figure 4: Demands Gene Block Resign
+    </figcaption>
+  </figure>
+</div>
+
+
+
+
+
+
+[^44]:[UC Divest at UCLA Instagram](https://www.instagram.com/ucladivest/)
+[^45]:[CAC official UCLA website](https://community.ucla.edu/studentorg/623)
+[^46]:[Op-ed: Antisemitic imagery at UC Regents meeting](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
+[^47]:[Trump ad using Nazi symbol](https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/)
+[^48]:[USAC associated students at protests](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)
+[^49]:[CAC and FEM Magazine](https://femmagazine.com/cultural-affairs-commission-year-in-review/)
+[^50]:[Classification Nazi Concentration camps](https://encyclopedia.ushmm.org/content/en/article/classification-system-in-nazi-concentration-camps)
+[^51]: [SJP official UCLA website](https://community.ucla.edu/studentorg/90)

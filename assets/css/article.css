@@ -1,3 +1,43 @@
+.float-left {
+    float: left;
+    margin: 0 20px 20px 50px; /* Adjusted margins for more space */
+    padding: 0px; /* Added padding */
+    max-width: 40%; /* Ensure images don't overflow */
+}
+
+.float-right {
+    float: right;
+    margin: 0px 50px 20px 20px; /* Adjusted margins for more space */
+    padding: 0px; /* Added padding */
+    max-width: 40%; /* Ensure images don't overflow */
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px; /* Added padding */
+    max-width: 50%; /* Ensure images don't overflow */
+    vertical-align: bottom; /* Align with the bottom of the text */
+}
+
+.img-wrapper {
+    text-align: justify;
+    display: inline-block;
+    vertical-align: bottom; /* Ensure the wrapper aligns with the text */
+}
+
+.img-wrapper figure {
+    display: inline-block;
+    text-align: justify;
+    vertical-align: bottom; /* Ensure the wrapper aligns with the text */
+}
+
+.img-wrapper figcaption {
+    text-align: center;
+    margin-top: 5px;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -7,9 +47,9 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 800px; /* Adjusted to standard letter width */
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px;
 }
 
 header {
@@ -56,6 +96,8 @@ main {
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
+    max-width: 800px; /* Adjusted to standard letter width */
+    margin: 0 auto; /* Centered the main content */
 }
 
 footer {
@@ -68,27 +110,4 @@ footer {
 
 footer p {
     margin: 0;
-}
-
-.image-wrap {
-    float: right;
-    margin: 0 0 10px 20px;
-    width: 200px;
-}
-
-.image-wrap img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    cursor: pointer;
-}
-
-.image-wrap figcaption {
-    text-align: center;
-    font-size: 0.8em;
-    color: #555;
-}
-
-.image-wrap a:focus img, .image-wrap a:hover img {
-    opacity: 0.7;
 }
