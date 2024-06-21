@@ -36,6 +36,7 @@ this phrase is generally considered threatening rhetoric, it is clear that a USA
 insofar as the complete omission of threatening language towards any single group. It is clear 
 that the Instagram post does not uphold a mission "that is accessible to all students" with respect to either the timing or the political position of this post. 
 
+<div class="side-by-side">
 <figure id="fig:cac-instagram-post-1" class="float-left">
   <a href="/images/2024-05-20/early-messaging/CAC_instagram_1.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
     <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1" style="width: 100%; height: auto;">
@@ -44,7 +45,6 @@ that the Instagram post does not uphold a mission "that is accessible to all stu
     Figure 2: CAC Instagram post part 1
   </figcaption>
 </figure>
-
 <figure id="fig:cac-instagram-post-2" class="float-right">
   <a href="/images/2024-05-20/early-messaging/CAC_instagram_2.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
     <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" 
@@ -54,6 +54,7 @@ that the Instagram post does not uphold a mission "that is accessible to all stu
     Figure 3: CAC Instagram post part 2
   </figcaption>
 </figure>
+</div>
 
 <div class="img-wrapper">
   <figure id="fig:CAC-block-resign" class="float-right">
