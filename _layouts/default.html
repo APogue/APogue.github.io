@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/assets/css/footnotes.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -14,10 +14,10 @@
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
     <!-- Open Graph meta tags -->
-    <meta property="og:title" content="In the Aftermath of the Protest Events People Should be Talking and UCLA Needs to Come to the Table" />
-    <meta property="og:description" content="Discussion about the protest events at UCLA and potential solutions." />
-    <meta property="og:image" content="https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/anti-zionism-not.jpg" />
-    <meta property="og:url" content="https://alexiepogue.com/2024/05/30/In-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table/" />
+    <meta property="og:title" content="{{ page.title | default: site.title }}" />
+    <meta property="og:description" content="{{ page.description | default: site.description }}" />
+    <meta property="og:image" content="{{ page.image | default: 'https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/anti-zionism-not.jpg' }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:type" content="article" />
 </head>
 <body>
