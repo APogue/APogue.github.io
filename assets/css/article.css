@@ -151,7 +151,7 @@ header {
 
 /* Content Styling */
 .article-container p {
-    font-size: 14; /* Responsive font size */
+    font-size: clamp(14px, 2.5vw, 14px); /* Responsive font size */
     line-height: 1.6;
 }
 
@@ -167,7 +167,7 @@ header {
 }
 
 .article-container h2 {
-	font-size: clamp(20px, 3vw, 24px);
+	font-size: clamp(14px, 3vw, 14px);
     padding: 10px 0; /* Add padding around subheader */
 }
 
@@ -261,7 +261,7 @@ figcaption {
     }
     
     .article-container h2 {
-        font-size: clamp(18px, 4vw, 24px); /* Adjusted font size for larger screens */
+        font-size: clamp(14px, 4vw, 14px); /* Adjusted font size for larger screens */
         padding: 8px 0; /* Adjusted padding */
     }
 }
