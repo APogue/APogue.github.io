@@ -217,13 +217,13 @@ figcaption {
     }
 }
 
+
 /* Media Query for Mobile Devices */
-@media (max-width: 767px) {
-      p {
-        font-size: 8px !important; /* Smaller clamp for mobile devices */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .article-container p {
+        font-size: clamp(12px, 2vw, 14px) !important; /* Smaller clamp for mobile devices */
     }
 }
-
 
 /* Article Container */
 .article-container {
@@ -234,7 +234,7 @@ figcaption {
 
 /* Content Styling */
 .article-container p {
-    font-size: clamp(12px, 2vw, 17px); /* Responsive font size */
+    font-size: clamp(14px, 2vw, 17px); /* Responsive font size */
     line-height: 1.6;
 }
 
