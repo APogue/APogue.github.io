@@ -249,7 +249,7 @@ figcaption {
 /* Media Query for Mobile Devices */
 @media (max-width: 767px) {
     .article-container p {
-        font-size: clamp(14px, 2.5vw, 16px); /* Smaller clamp for mobile devices */
+        font-size: 14px !important; /* Smaller clamp for mobile devices */
     }
 }
 
