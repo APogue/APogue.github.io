@@ -20,6 +20,7 @@ nav {
     align-items: center;
     padding: 10px 20px;
     background: #0a1f33;
+	z-index: 2; /* Ensure it is on top */
 }
 
 .hamburger-menu {
@@ -150,7 +151,7 @@ header {
 
 /* Content Styling */
 .article-container p {
-    font-size: clamp(16px, 2.5vw, 22px); /* Responsive font size */
+    font-size: clamp(14px, 2.5vw, 22px); /* Responsive font size */
     line-height: 1.6;
 }
 

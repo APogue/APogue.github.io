@@ -17,9 +17,9 @@ h1 {
 }
 
 /* Media Query for Mobile Devices */
-@media (max-width: 2532px) {
+@media (max-width: 767px) {
     h1 {
-        font-size: 18px !important; /* Fixed font size for mobile */ /* Fixed font size for mobile */
+        font-size: 18px; /* Fixed font size for mobile */ /* Fixed font size for mobile */
     }
 }
 
