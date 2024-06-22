@@ -16,6 +16,12 @@ h1 {
     color: #333; /* Dark grey color for the text */
 }
 
+/* Media Query for Mobile Devices */
+@media (max-width: 2532px) {
+    h1 {
+        font-size: 18px !important; /* Fixed font size for mobile */ /* Fixed font size for mobile */
+    }
+}
 
 footer {
     background-color: #f8f9fa;
