@@ -2,6 +2,7 @@
 layout: default
 title: "Daily Bruin Scrape relating to Protest Events"
 date: 2024-05-07
+published: false
 ---
 
 # Scraped the Daily Bruin Regarding Protest Events

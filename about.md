@@ -1,11 +1,8 @@
 ---
 layout: default
-title: About
 ---
 
-# About Me
-
-## 👋 About Me
+# 👋 About Me
 
 **The Beginning**
 

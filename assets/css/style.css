@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 20px;
+
 }
 header {
     background-color: #f8f9fa; /* Light grey background */
@@ -24,6 +25,9 @@ footer {
 
 main {
     margin-top: 20px;
+	max-width: 1200px;
+	margin: 0px auto 0 auto; /* Center the container and move it up */
+	text-align: left;
 }
 
 
@@ -32,45 +36,61 @@ main h1 {
 }
 
 main p {
-    text-align: left; /* Left-aligns paragraphs */
+    text-align: center; /* Left-aligns paragraphs */
 }
 
 
-/* Resetting some default styles */
-ul {
-    list-style: none; /* Removes bullets */
-    padding: 0;
-    margin: 0;
-}
-
+/* Navigation */
 nav {
-    text-align: center; /* Centers the navigation links */
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 20px;
+    background: #f8f9fa;
 }
 
-nav ul {
-    display: inline-block; /* Aligns the list horizontally */
+.hamburger-menu {
+    display: block;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #333;
 }
 
-nav li {
-    display: inline; /* List items inline */
-    margin-right: 20px; /* Adds space between the links */
+.nav-links {
+    list-style: none;
+    display: none;
+    flex-direction: column;
+    background: #f8f9fa;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 200px;
+    padding: 10px;
 }
 
-nav li:last-child {
-    margin-right: 0; /* Removes margin from the last item */
+.nav-links.active {
+    display: flex;
 }
 
-nav a {
-    text-decoration: none; /* Removes underline from links */
-    font-weight: bold; /* Makes text bold */
-    color: #333; /* Dark gray color for the text */
-    padding: 10px 15px; /* Adds padding around the links for better clickability */
+.nav-links li {
+    margin-bottom: 10px;
 }
 
-nav a:hover {
-    color: #0056b3; /* Changes color on hover */
-    background-color: #f8f9fa; /* Light background on hover */
+.nav-links li a {
+    color:#333;
+    text-decoration: none;
+    font-size: 1.2em;
 }
+
+.close-menu {
+    align-self: flex-end;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
 
 figure {
     max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */

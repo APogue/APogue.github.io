@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Contact Me
 ---
 
-# Contact Me
-
-
-## 📬 Contact Me
+# 📬 Contact Me
 
 Feel free to reach out via email or connect with me on social media: 
 

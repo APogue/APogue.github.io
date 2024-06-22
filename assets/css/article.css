@@ -248,7 +248,7 @@ figcaption {
 /* Media Query for Mobile Devices */
 @media (max-width: 767px) {
     .article-content {
-        font-size: clamp(14px, 4vw, 18px); /* Adjusted font size for mobile */
+        font-size: clamp(14px, 4vw, 14px); /* Adjusted font size for mobile */
     }
 }
 
