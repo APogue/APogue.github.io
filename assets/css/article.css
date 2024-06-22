@@ -151,7 +151,7 @@ header {
 
 /* Content Styling */
 .article-container p {
-    font-size: clamp(14px, 2.5vw, 14px); /* Responsive font size */
+    font-size: 14; /* Responsive font size */
     line-height: 1.6;
 }
 
@@ -229,39 +229,39 @@ figcaption {
 
 /* Media Query for Mobile Devices */
 @media (max-width: 767px) {
+    /* Ensure this applies only to mobile */
+    .article-container p {
+        font-size: 14px !important; /* Fixed font size for mobile devices */
+    }
+
     .title-bar h1 {
         font-size: clamp(1.5em, 5vw, 2.5em); /* Adjust font size for smaller screens */
     }
 }
 
+/* Media Query for Medium Devices (Tablets) */
 @media (min-width: 768px) and (max-width: 1023px) {
     .title-bar h1 {
         font-size: clamp(2em, 5vw, 3em); /* Adjust font size for medium screens */
     }
 }
 
+/* Media Query for Large Devices (Desktops) */
 @media (min-width: 1024px) {
     .title-bar h1 {
         font-size: clamp(2.5em, 5vw, 3.5em); /* Adjust font size for larger screens */
     }
 }
 
-/* Media Query for Mobile Devices */
-@media (max-width: 767px) {
-    .article-container p {
-        font-size: 14px !important; /* Smaller clamp for mobile devices */
-    }
-}
-
-/* Media Query for Mobile Devices */
+/* Media Query for Devices up to 2532px (Including iPhone 12 Pro in Landscape) */
 @media (max-width: 2532px) {
     .article-container h1 {
-        font-size: clamp(20px, 5vw, 32px); /* Adjusted font size for mobile */
-        padding: 15px 0; /* Adjusted padding for mobile */
+        font-size: clamp(20px, 5vw, 32px); /* Adjusted font size for larger screens */
+        padding: 15px 0; /* Adjusted padding */
     }
     
     .article-container h2 {
-        font-size: clamp(18px, 4vw, 24px); /* Adjusted font size for mobile */
-        padding: 8px 0; /* Adjusted padding for mobile */
+        font-size: clamp(18px, 4vw, 24px); /* Adjusted font size for larger screens */
+        padding: 8px 0; /* Adjusted padding */
     }
 }
