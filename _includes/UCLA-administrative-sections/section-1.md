@@ -11,7 +11,7 @@ organizations founded, the CAC has been active at UCLA for more than 50 years. F
 "student activity fees", a part of tuition paid by every student. This means that serving "all students" is not only a mission, 
 but a responsibility. 
 
-<figure id="fig:cac-org-website" class="float-right">
+<figure id="fig:cac-org-website">
 	<a href="/images/2024-05-20/early-messaging/CAC.png" data-lightbox="image-1" data-title="Official UCLA CAC student organization website">
 		<img src="/images/2024-05-20/early-messaging/CAC.png" alt="CAC official UCLA student organization website" style="width: 100%; height: auto;">
 	</a>
@@ -36,8 +36,8 @@ this phrase is generally considered threatening rhetoric, it is clear that a USA
 insofar as the complete omission of threatening language towards any single group. It is clear 
 that the Instagram post does not uphold a mission "that is accessible to all students" with respect to either the timing or the political position of this post. 
 
-<div class="side-by-side">
-<figure id="fig:cac-instagram-post-1" class="float-left">
+
+<figure id="fig:cac-instagram-post-1">
   <a href="/images/2024-05-20/early-messaging/CAC_instagram_1.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
     <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1" style="width: 100%; height: auto;">
   </a>
@@ -45,7 +45,9 @@ that the Instagram post does not uphold a mission "that is accessible to all stu
     Figure 2: CAC Instagram post part 1
   </figcaption>
 </figure>
-<figure id="fig:cac-instagram-post-2" class="float-right">
+
+
+<figure id="fig:cac-instagram-post-2">
   <a href="/images/2024-05-20/early-messaging/CAC_instagram_2.png" data-lightbox="cac-posts" data-title="CAC Instagram post part 1">
     <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" 
      alt="CAC Instagram post part 2" style="width: 100%; height: auto;">
@@ -54,18 +56,18 @@ that the Instagram post does not uphold a mission "that is accessible to all stu
     Figure 3: CAC Instagram post part 2
   </figcaption>
 </figure>
-</div>
 
-<div class="img-wrapper">
-  <figure id="fig:CAC-block-resign" class="float-right">
-    <a href="/images/2024-05-20/early-messaging/cac-pig-insta.png" data-lightbox="cac-posts" data-title="Demands Gene Block Resign">
-      <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" alt="CAC Block Resignation" style="width: 100%; height: auto;">
-    </a>
-    <figcaption>
-      Figure 4: Demands Gene Block Resign
-    </figcaption>
-  </figure>
-</div>
+
+
+<figure id="fig:CAC-block-resign" class="float-right">
+<a href="/images/2024-05-20/early-messaging/cac-pig-insta.png" data-lightbox="cac-posts" data-title="Demands Gene Block Resign">
+  <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" alt="CAC Block Resignation" style="width: 100%; height: auto;">
+</a>
+<figcaption>
+  Figure 4: Demands Gene Block Resign
+</figcaption>
+</figure>
+
 
 
 
