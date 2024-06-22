@@ -2,7 +2,6 @@
 layout: article_layout
 title: "In the Aftermath of the Protest Events People Should be Talking, and UCLA Needs to Come to the Table"
 date: 2024-05-30
-image: "https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/large-red-triangle-people.webp"
 ---
 ## Context and Objective <span id="Context and Objective"></span>
 {% include sections/Intro.md %}
