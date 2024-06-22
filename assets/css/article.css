@@ -221,7 +221,7 @@ figcaption {
 /* Media Query for Mobile Devices */
 @media (min-width: 768px) and (max-width: 1023px) {
     .article-container p {
-        font-size: clamp(12px, 2vw, 14px) !important; /* Smaller clamp for mobile devices */
+        font-size: clamp(12px, 4vw, 14px) !important; /* Smaller clamp for mobile devices */
     }
 }
 
@@ -234,7 +234,7 @@ figcaption {
 
 /* Content Styling */
 .article-container p {
-    font-size: clamp(14px, 2vw, 17px); /* Responsive font size */
+    font-size: clamp(14px, 4vw, 17px); /* Responsive font size */
     line-height: 1.6;
 }
 
