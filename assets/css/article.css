@@ -233,12 +233,7 @@ figcaption {
 	line-height: 1.6;
 }
 
-/* Media query for mobile devices */
-@media screen and (max-width: 767px) {
-    .article-container p {
-        font-size: clamp(12px, 3vw, 14px); /* Smaller font size for mobile */
-    }
-}
+
 
 /* Media query for mobile devices in landscape orientation */
 @media screen and (max-width: 926px) and (orientation: landscape) {
