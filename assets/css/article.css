@@ -241,6 +241,17 @@ figcaption {
         font-size: 12px; /* Fixed small size for landscape */
     }
 }
+/* iPhone 12 Pro landscape */
+@media only screen 
+    and (min-device-width: 390px) 
+    and (max-device-width: 844px) 
+    and (-webkit-min-device-pixel-ratio: 3)
+    and (orientation: landscape) {
+    .article-container p {
+        font-size: 12px;
+    }
+}
+
 
 /* Header and Subheader Styling */
 .article-container h1, .article-container h2 {
