@@ -229,19 +229,27 @@ figcaption {
 
 /* Base styles */
 .article-container p {
-    font-size: clamp(14px, 1vw, 17px); /* Adjust these values as needed */
-	line-height: 1.6;
+    font-size: clamp(14px, 1vw, 17px);
+    line-height: 1.6;
 }
 
-
-
-/* Media query for mobile devices (both portrait and landscape) */
+/* Media query for all mobile devices */
 @media screen and (max-width: 926px) {
     .article-container p {
-        font-size: 12px !important; /* Force 12px on all mobile devices */
+        font-size: 8px !important;
+        font-size: 0.5rem !important;
+
     }
 }
 
+/* Additional media query for landscape orientation */
+@media screen and (max-width: 926px) and (orientation: landscape) {
+    .article-container p {
+        font-size: 8px !important;
+        font-size: 0.5rem !important;
+     
+    }
+}
 
 /* Header and Subheader Styling */
 .article-container h1, .article-container h2 {
