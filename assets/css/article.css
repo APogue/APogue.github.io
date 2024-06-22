@@ -66,21 +66,25 @@ nav {
 header {
     margin: 0; /* Reset margin */
     padding: 0; /* Reset padding */
+    position: relative;
+    z-index: 0; /* Ensure it is behind the photo */
 }
-
 /* Title Bar */
 .title-bar-container {
     background-color: #0a1f33; /* Dark navy sapphire blue */
-    padding: 50px 0;
+    padding: 100px 0;
     width: 100%;
     text-align: left;
     margin: 0; /* Reset margin */
+	z-index: 2; /* Ensure it is on top */
 }
 
 .title-bar {
     max-width: 800px;
-    margin: 0 auto;
+    margin: -20px auto 0 auto; /* Shift the title up by 20px */
     color: #fff;
+	padding:  0px 0px 30px 20px; /* Add padding to match the rest of the document */
+	z-index: 3; /* Ensure it is on top */
 }
 
 .title-bar h1 {
@@ -100,13 +104,14 @@ header {
 /* Article Meta */
 .article-meta {
     text-align: left;
-    margin: 20px 0;
+    margin-top: 20px; /* Add top margin to move it down */
 }
 
 .social-links {
     display: flex;
     align-items: center;
     margin-bottom: 5px;
+	margin-top: 0px; /* Add top margin to move it down */
 }
 
 .social-links a {
@@ -177,6 +182,48 @@ figcaption {
     font-style: italic;
     color: #777;
     margin-top: 5px;
+}
+
+
+/* Container for Headline Photo */
+.headline-photo-container {
+    position: relative; /* Change position to relative */
+    width: 100%;
+    margin: -100px auto 0 auto; /* Center the container and move it up */
+    max-width: 800px; /* Match the max-width of the container to letter size */
+    padding: 0 20px; /* Add padding to align with the title */
+    z-index: 1; /* Ensure it is on top */
+}
+
+/* Headline Photo Styling */
+.headline-photo {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+    z-index: 1; /* Ensure it is on top */
+}
+
+/* Caption Styling */
+.headline-photo-container figcaption {
+    text-align: left;
+    font-style: normal;
+    color: #333;
+    margin-top: 5px;
+    padding-left: 0; /* Match the padding of the container */
+    padding-right: 0; /* Match the padding of the container */
+    font-size: 0.9em; /* Small regular text */
+    display: flex;
+    align-items: center;
+}
+
+.headline-photo-container figcaption .photographer-credit {
+    font-family: 'Courier New', Courier, monospace; /* Monospaced font */
+    color: #666;
+	margin-top: 2.9px;
+    white-space: nowrap; /* Prevent line breaks */
+    margin-left: 10px; /* Add some space between text and credit */
+    font-size: 0.9em; /* Match the size of the main text */
 }
 
 /* Media Query for Mobile Devices */

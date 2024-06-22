@@ -12,8 +12,6 @@
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="{{ '/assets/css/article.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap">
 
     <!-- Open Graph meta tags -->
@@ -38,13 +36,22 @@
                 <li><a href="/contact">Contact</a></li>
             </ul>
         </nav>
-    </header>
-
-    <div class="title-bar-container">
-        <div class="title-bar">
-            <h1>{{ page.title }}</h1>
+        <div class="title-bar-container">
+            <div class="title-bar">
+                <h1>{{ page.title }}</h1>
+            </div>
         </div>
-    </div>
+        <figure id="fig:large-sign-red-triangle" class="headline-photo-container">
+            <a href="https://www.latimes.com/opinion/story/2024-05-08/gaza-palestinians-university-encampments-solidarity-students-protests-rafah-biden-redline">
+                <img src="/images/2024-05-20/protest/large-red-triangle-people.webp" 
+                 alt="Large sign with red triangle" class="headline-photo">
+            </a>
+            <figcaption>
+                Large sign with red triangle from LA Times
+               <span class="photographer-credit">Ringo Chiu / For The Times</span>
+            </figcaption>
+        </figure>
+    </header>
 
     <main class="container">
         <div class="article-meta">

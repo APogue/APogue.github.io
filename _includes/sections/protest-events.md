@@ -8,7 +8,7 @@ Right off the bat, unknown perpetrators began putting troubling imagery on displ
 that would become emblematic of the movement in its first days and would appear as a symbol representative of the encampment in the Daily Bruin[^277] several non-affiliate articles.[^72][^274][^275][^276]
 
 <figure id="fig:large-sign-red-triangle">
-  <a href="https://www.latimes.com/california/story/2024-04-30/ucla-moves-to-shut-down-pro-palestinian-encampment-as-unlawful">
+  <a href="https://www.latimes.com/opinion/story/2024-05-08/gaza-palestinians-university-encampments-solidarity-students-protests-rafah-biden-redline">
     <img src="\images\2024-05-20\protest\large-red-triangle-people.webp" 
      alt="Large sign with red triangle" style="width: 95%; height: auto;">
   </a>
