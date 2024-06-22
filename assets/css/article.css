@@ -236,8 +236,8 @@ figcaption {
 /* Media query for all mobile devices */
 @media screen and (max-width: 926px) {
     .article-container p {
-        font-size: 8px !important;
-        font-size: 0.5rem !important;
+        font-size: 18px !important;
+        font-size: 0.7rem !important;
 
     }
 }
@@ -245,8 +245,8 @@ figcaption {
 /* Additional media query for landscape orientation */
 @media screen and (max-width: 926px) and (orientation: landscape) {
     .article-container p {
-        font-size: 8px !important;
-        font-size: 0.5rem !important;
+        font-size: 18px !important;
+        font-size: 0.7rem !important;
      
     }
 }
