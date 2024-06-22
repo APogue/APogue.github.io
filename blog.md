@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Blog Posts
 ---
-# Blog Posts
 
 <div class="blog-list">
     <ul>
