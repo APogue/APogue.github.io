@@ -151,7 +151,7 @@ header {
 
 /* Content Styling */
 .article-container p {
-    font-size: clamp(14px, 2.5vw, 22px); /* Responsive font size */
+    font-size: clamp(14px, 2.5vw, 14px); /* Responsive font size */
     line-height: 1.6;
 }
 
