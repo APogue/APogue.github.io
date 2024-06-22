@@ -1,7 +1,7 @@
 Among the main contributors to the "Pro-Palestinian" protest movement are Students for Justice in Palestine (SJP at UCLA), 
 the UC Divest Coalition[^44], and Faculty for Justice in Palestine. These groups have led the way in messaging and demands, 
 and have received support from students, faculty, the UAW and other student organizations.
-##### USAC Cultural Affairs Commission (CAC)
+## USAC Cultural Affairs Commission (CAC)
 
 One organization that has joined in strong support of the movement is the UCLA Cultural Affairs Commission (CAC)[^45]. 
 The org's messaging on their UCLA hosted webpage is somewhat benign ([Figure 1](##fig:cac-org-website)), stating 
