@@ -217,6 +217,14 @@ figcaption {
     }
 }
 
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
+      p {
+        font-size: 8px !important; /* Smaller clamp for mobile devices */
+    }
+}
+
+
 /* Article Container */
 .article-container {
     max-width: 800px;
