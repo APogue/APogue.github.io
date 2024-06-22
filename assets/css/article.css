@@ -137,7 +137,7 @@ header {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.1em; /* Standard font size */
     color: #333;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 	margin-top: 10px;
     font-weight: 900; /* Make the author name bold */
 }
@@ -216,18 +216,7 @@ figcaption {
         font-size: clamp(2.5em, 5vw, 3.5em); /* Adjust font size for larger screens */
     }
 }
-/* Media Query for Mobile Devices */
-@media (max-width: 2532px) {
-    .article-container h1 {
-        font-size: clamp(20px, 5vw, 32px); /* Adjusted font size for mobile */
-        padding: 15px 0; /* Adjusted padding for mobile */
-    }
-    
-    .article-container h2 {
-        font-size: clamp(18px, 4vw, 24px); /* Adjusted font size for mobile */
-        padding: 8px 0; /* Adjusted padding for mobile */
-    }
-}
+
 /* Article Container */
 .article-container {
     max-width: 800px;
@@ -237,7 +226,7 @@ figcaption {
 
 /* Content Styling */
 .article-container p {
-    font-size: 8px; /* Responsive font size */
+    font-size: clamp(12px, 2vw, 17px); /* Responsive font size */
     line-height: 1.6;
 }
 
@@ -248,13 +237,17 @@ figcaption {
 }
 
 .article-container h1 {
-	font-size: clamp(24px, 4vw, 32px);
+	font-size: clamp(20px, 4vw, 28px);
     padding: 10px 0; /* Add padding around header */
 }
 
 .article-container h2 {
-	font-size: clamp(16px, 3vw, 24px);
+	font-size: clamp(16px, 4vw, 24px);
     padding: 10px 0; /* Add padding around subheader */
 }
 
-
+/* Paragraph Styling */
+p {
+    font-family: 'Merriweather', Times, serif;
+    font-weight: 400; /* Use the regular weight */
+}
