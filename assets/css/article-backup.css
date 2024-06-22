@@ -142,6 +142,35 @@ header {
     font-weight: 900; /* Make the author name bold */
 }
 
+/* Article Container */
+.article-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding:  0px 0px 0px 0px;
+}
+
+/* Content Styling */
+.article-container p {
+    font-size: clamp(14px, 2.5vw, 22px); /* Responsive font size */
+    line-height: 1.6;
+}
+
+/* Header and Subheader Styling */
+.article-container h1, .article-container h2 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.article-container h1 {
+	font-size: clamp(24px, 4vw, 32px);
+    padding: 10px 0; /* Add padding around header */
+}
+
+.article-container h2 {
+	font-size: clamp(20px, 3vw, 24px);
+    padding: 10px 0; /* Add padding around subheader */
+}
+
 
 /* Image Caption */
 img {
@@ -217,24 +246,22 @@ figcaption {
     }
 }
 
-/* Article Container */
-.article-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding:  0px 0px 0px 0px;
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
+    .article-container p {
+        font-size: 14px !important; /* Smaller clamp for mobile devices */
+    }
 }
 
-/* Content Styling */
-.article-container p {
-    font-size: 8px; /* Responsive font size */
-    line-height: 1.6;
+/* Media Query for Mobile Devices */
+@media (max-width: 2532px) {
+    .article-container h1 {
+        font-size: clamp(20px, 5vw, 32px); /* Adjusted font size for mobile */
+        padding: 15px 0; /* Adjusted padding for mobile */
+    }
+    
+    .article-container h2 {
+        font-size: clamp(18px, 4vw, 24px); /* Adjusted font size for mobile */
+        padding: 8px 0; /* Adjusted padding for mobile */
+    }
 }
-
-/* Header and Subheader Styling */
-.article-container h1, .article-container h2 {
-    margin: 0;
-    font-weight: bold;
-}
-
-
-
