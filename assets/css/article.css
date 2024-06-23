@@ -239,7 +239,7 @@ figcaption {
 /* Media Queries */
 @media screen and (max-width: 926px) {
     html {
-        font-size: 12px;
+        font-size: 14px;
     }
     body {
         font-size: 1rem;
@@ -262,7 +262,7 @@ figcaption {
 
 @media screen and (max-width: 926px) and (orientation: landscape) {
     html {
-        font-size: 12px;
+        font-size: 14px;
     }
     body {
         font-size: 1rem;
