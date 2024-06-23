@@ -239,14 +239,14 @@ figcaption {
 /* Media Queries */
 @media screen and (max-width: 926px) {
     html {
-        font-size: 14px;
+        font-size: 26px;
     }
     body {
         font-size: 1rem;
     }
     
     .title-bar h1 {
-        font-size: clamp(1.5em, 5vw, 2.5em);
+        font-size: clamp(2em, 5vw, 3em);
     }
     
     .article-container h1 {
@@ -262,7 +262,7 @@ figcaption {
 
 @media screen and (max-width: 926px) and (orientation: landscape) {
     html {
-        font-size: 14px;
+        font-size: 26px;
     }
     body {
         font-size: 1rem;
