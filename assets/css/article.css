@@ -81,7 +81,6 @@ header {
 }
 
 .title-bar {
-    max-width: 800px;
     margin: -20px auto 0 auto; /* Shift the title up by 20px */
     color: #fff;
     padding: 0px 0px 30px 20px; /* Add padding to match the rest of the document */
@@ -96,7 +95,6 @@ header {
 
 /* Container for Title and Meta Info */
 .container {
-    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -158,7 +156,6 @@ figcaption {
     position: relative; /* Change position to relative */
     width: 100%;
     margin: -100px auto 0 auto; /* Center the container and move it up */
-    max-width: 800px; /* Match the max-width of the container to letter size */
     padding: 0 20px; /* Add padding to align with the title */
     z-index: 1; /* Ensure it is on top */
 }
@@ -196,7 +193,6 @@ figcaption {
 
 /* Article Container */
 .article-container {
-    max-width: 800px;
     margin: 0 auto;
     padding: 0px 0px 0px 0px;
 }
