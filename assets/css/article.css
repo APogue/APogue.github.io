@@ -159,9 +159,10 @@ header {
     padding: 0px 0px 0px 0px;
 }
 
-/* Content Styling */
+/* Article Styling */
 .article-container p {
-    font-size: 1rem;
+    font-size: inherit;
+    font-family: 'Merriweather', Times, serif;
     line-height: 1.6;
 }
 
@@ -240,9 +241,12 @@ figcaption {
     html {
         font-size: 12px;
     }
+    body {
+        font-size: 1rem;
+    }
     
     .title-bar h1 {
-        font-size: clamp(2em, 5vw, 3em);
+        font-size: clamp(1.5em, 5vw, 2.5em);
     }
     
     .article-container h1 {
@@ -258,7 +262,10 @@ figcaption {
 
 @media screen and (max-width: 926px) and (orientation: landscape) {
     html {
-        font-size: 14px;
+        font-size: 12px;
+    }
+    body {
+        font-size: 1rem;
     }
 }
 
@@ -266,13 +273,16 @@ figcaption {
     .title-bar h1 {
         font-size: clamp(2em, 5vw, 3em);
     }
+    body {
+        font-size: 1.125rem; /* Adjust as needed */
+    }
 }
 
 @media (min-width: 1024px) {
     .title-bar h1 {
         font-size: clamp(2.5em, 5vw, 3.5em);
     }
-	    html {
-        font-size: 18px;
+    body {
+        font-size: 1.25rem; /* Adjust as needed */
     }
 }
