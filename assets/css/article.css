@@ -7,12 +7,12 @@
 
 /* General Body Styling */
 html {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    line-height: 1.6;
+    line-height: 1.7;
     color: #333;
     font-size: 1rem;
     -webkit-text-size-adjust: 100%;
@@ -164,6 +164,7 @@ header {
     font-size: inherit;
     font-family: 'Merriweather', Times, serif;
     line-height: 1.6;
+	font-weight: 500;
 }
 
 /* Header and Subheader Styling */
@@ -239,7 +240,7 @@ figcaption {
 /* Media Queries */
 @media screen and (max-width: 926px) {
     html {
-        font-size: 26px;
+        font-size: 14px;
     }
     body {
         font-size: 1rem;
@@ -262,7 +263,7 @@ figcaption {
 
 @media screen and (max-width: 926px) and (orientation: landscape) {
     html {
-        font-size: 26px;
+        font-size: 14px;
     }
     body {
         font-size: 1rem;
@@ -274,7 +275,7 @@ figcaption {
         font-size: clamp(2em, 5vw, 3em);
     }
     body {
-        font-size: 1.125rem; /* Adjust as needed */
+        font-size: 1rem; /* Adjust as needed */
     }
 }
 
@@ -283,6 +284,6 @@ figcaption {
         font-size: clamp(2.5em, 5vw, 3.5em);
     }
     body {
-        font-size: 1.25rem; /* Adjust as needed */
+        font-size: 1rem; /* Adjust as needed */
     }
 }
