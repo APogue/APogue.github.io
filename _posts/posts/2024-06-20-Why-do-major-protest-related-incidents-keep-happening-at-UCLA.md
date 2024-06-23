@@ -1,5 +1,5 @@
 ---
-layout: condensed-article-layout
+layout: default
 title: "Why do major protest-related incidents keep happening at UCLA?"
 image: "https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/large-red-triangle-people.webp"
 author: Alexie Pogue
