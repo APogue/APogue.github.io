@@ -8,7 +8,6 @@
 /* General Body Styling */
 body {
     font-family: 'Times New Roman', Times, serif;
-    line-height: 1.6;
     color: #333;
 }
 
@@ -20,7 +19,7 @@ nav {
     align-items: center;
     padding: 10px 20px;
     background: #0a1f33;
-	z-index: 2; /* Ensure it is on top */
+    z-index: 2; /* Ensure it is on top */
 }
 
 .hamburger-menu {
@@ -70,6 +69,7 @@ header {
     position: relative;
     z-index: 0; /* Ensure it is behind the photo */
 }
+
 /* Title Bar */
 .title-bar-container {
     background-color: #0a1f33; /* Dark navy sapphire blue */
@@ -77,15 +77,15 @@ header {
     width: 100%;
     text-align: left;
     margin: 0; /* Reset margin */
-	z-index: 2; /* Ensure it is on top */
+    z-index: 2; /* Ensure it is on top */
 }
 
 .title-bar {
     max-width: 800px;
     margin: -20px auto 0 auto; /* Shift the title up by 20px */
     color: #fff;
-	padding:  0px 0px 30px 20px; /* Add padding to match the rest of the document */
-	z-index: 3; /* Ensure it is on top */
+    padding: 0px 0px 30px 20px; /* Add padding to match the rest of the document */
+    z-index: 3; /* Ensure it is on top */
 }
 
 .title-bar h1 {
@@ -98,12 +98,11 @@ header {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    padding:  20px;
+    padding: 20px;
 }
 
 /* Article Meta */
 .article-meta {
-    text-align: left;
     margin-top: 20px; /* Add top margin to move it down */
 }
 
@@ -111,7 +110,7 @@ header {
     display: flex;
     align-items: center;
     margin-bottom: 5px;
-	margin-top: 0px; /* Add top margin to move it down */
+    margin-top: 0px; /* Add top margin to move it down */
 }
 
 .social-links a {
@@ -128,7 +127,7 @@ header {
     color: #555;
     font-size: 0.8em;
     margin-bottom: 10px;
-	margin-top: 10px
+    margin-top: 10px;
 }
 
 /* Author Name Styling */
@@ -137,10 +136,9 @@ header {
     font-size: 1.1em; /* Standard font size */
     color: #333;
     margin-bottom: 20px;
-	margin-top: 10px;
+    margin-top: 10px;
     font-weight: 900; /* Make the author name bold */
 }
-
 
 /* Image Caption */
 img {
@@ -154,7 +152,6 @@ figcaption {
     color: #777;
     margin-top: 5px;
 }
-
 
 /* Container for Headline Photo */
 .headline-photo-container {
@@ -191,33 +188,23 @@ figcaption {
 .headline-photo-container figcaption .photographer-credit {
     font-family: 'Courier New', Courier, monospace; /* Monospaced font */
     color: #666;
-	margin-top: 2.9px;
+    margin-top: 2.9px;
     white-space: nowrap; /* Prevent line breaks */
     margin-left: 10px; /* Add some space between text and credit */
     font-size: 0.9em; /* Match the size of the main text */
 }
 
-
-
-
-
-
 /* Article Container */
 .article-container {
     max-width: 800px;
     margin: 0 auto;
-    padding:  0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
-
 
 /* Content Styling */
 .article-container p {
-    font-size: 12px; /* Responsive font size */
-    line-height: 1.6;
+    font-size: 12px; /* Fixed font size */
 }
-
-
-
 
 /* Paragraph Styling */
 p {
