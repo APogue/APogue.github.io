@@ -89,7 +89,6 @@ header {
 }
 
 .title-bar h1 {
-    font-size: clamp(2em, 5vw, 3em); /* Responsive font size with clamp */
     margin: 0;
     font-weight: 800; /* Make the title bolder */
     line-height: 1.2; /* Adjust line height for better appearance */
@@ -198,24 +197,7 @@ figcaption {
     font-size: 0.9em; /* Match the size of the main text */
 }
 
-/* Media Query for Mobile Devices */
-@media (max-width: 767px) {
-    .title-bar h1 {
-        font-size: clamp(1.5em, 5vw, 2.5em); /* Adjust font size for smaller screens */
-    }
-}
 
-@media (min-width: 768px) and (max-width: 1023px) {
-    .title-bar h1 {
-        font-size: clamp(2em, 5vw, 3em); /* Adjust font size for medium screens */
-    }
-}
-
-@media (min-width: 1024px) {
-    .title-bar h1 {
-        font-size: clamp(2.5em, 5vw, 3.5em); /* Adjust font size for larger screens */
-    }
-}
 
 
 
@@ -227,34 +209,15 @@ figcaption {
     padding:  0px 0px 0px 0px;
 }
 
-/* Base styles */
+
+/* Content Styling */
 .article-container p {
-    font-size: clamp(14px, 1vw, 17px);
+    font-size: 12px; /* Responsive font size */
     line-height: 1.6;
 }
 
-@media screen and (max-width: 1926px) {
-    .article-container p {
-        font-size: 12px !important;
-        transform: translateZ(0);
-    }
-}
 
-/* Header and Subheader Styling */
-.article-container h1, .article-container h2 {
-    margin: 0;
-    font-weight: bold;
-}
 
-.article-container h1 {
-	font-size: clamp(20px, 4vw, 28px);
-    padding: 10px 0; /* Add padding around header */
-}
-
-.article-container h2 {
-	font-size: clamp(16px, 4vw, 24px);
-    padding: 10px 0; /* Add padding around subheader */
-}
 
 /* Paragraph Styling */
 p {
