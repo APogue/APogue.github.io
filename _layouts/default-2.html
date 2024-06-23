@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Default Layout 2</title>
+    <style>
+        /* CSS Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* General Body Styling */
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        /* Navigation */
+        nav {
+            background: #0a1f33;
+            padding: 10px 20px;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* Content */
+        .content {
+            margin-top: 20px;
+        }
+
+        /* Article Styling */
+        .article-container p {
+            font-size: 12px; /* Fixed font size */
+            font-family: 'Merriweather', Times, serif;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div>Logo</div>
+        <div class="hamburger-menu">Menu</div>
+    </nav>
+    <main class="content">
+        <div class="article-container">
+            <p>This is a test paragraph. The font size should remain consistent across all orientations and devices. This is to test if the font size issue persists in landscape mode.</p>
+            <p>Another paragraph for testing. The layout is minimal and should not be affected by external styles or scripts.</p>
+        </div>
+    </main>
+</body>
+</html>
