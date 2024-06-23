@@ -6,10 +6,19 @@
 }
 
 /* General Body Styling */
+html {
+    font-size: 16px;
+}
+
 body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
     color: #333;
+    font-size: 1rem;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 
 /* Navigation */
@@ -20,7 +29,7 @@ nav {
     align-items: center;
     padding: 10px 20px;
     background: #0a1f33;
-	z-index: 2; /* Ensure it is on top */
+    z-index: 2;
 }
 
 .hamburger-menu {
@@ -65,93 +74,95 @@ nav {
 }
 
 header {
-    margin: 0; /* Reset margin */
-    padding: 0; /* Reset padding */
+    margin: 0;
+    padding: 0;
     position: relative;
-    z-index: 0; /* Ensure it is behind the photo */
+    z-index: 0;
 }
+
 /* Title Bar */
 .title-bar-container {
-    background-color: #0a1f33; /* Dark navy sapphire blue */
+    background-color: #0a1f33;
     padding: 100px 0;
     width: 100%;
     text-align: left;
-    margin: 0; /* Reset margin */
-	z-index: 2; /* Ensure it is on top */
+    margin: 0;
+    z-index: 2;
 }
 
 .title-bar {
     max-width: 800px;
-    margin: -20px auto 0 auto; /* Shift the title up by 20px */
+    margin: -20px auto 0 auto;
     color: #fff;
-	padding:  0px 0px 30px 20px; /* Add padding to match the rest of the document */
-	z-index: 3; /* Ensure it is on top */
+    padding: 0px 0px 30px 20px;
+    z-index: 3;
 }
 
 .title-bar h1 {
-    font-size: clamp(2em, 5vw, 3em); /* Responsive font size with clamp */
+    font-size: clamp(2em, 5vw, 3em);
     margin: 0;
-    font-weight: 800; /* Make the title bolder */
-    line-height: 1.2; /* Adjust line height for better appearance */
+    font-weight: 800;
+    line-height: 1.2;
 }
 
 /* Container for Title and Meta Info */
 .container {
     max-width: 800px;
     margin: 0 auto;
-    padding:  20px;
+    padding: 20px;
 }
 
 /* Article Meta */
 .article-meta {
     text-align: left;
-    margin-top: 20px; /* Add top margin to move it down */
+    margin-top: 20px;
 }
 
 .social-links {
     display: flex;
     align-items: center;
     margin-bottom: 5px;
-	margin-top: 0px; /* Add top margin to move it down */
+    margin-top: 0px;
 }
 
 .social-links a {
     margin-right: 10px;
-    color: black; /* Make icons black */
+    color: black;
     font-size: 1.2em;
 }
 
 .social-links a:hover {
-    color: #333; /* Slightly darker on hover */
+    color: #333;
 }
 
 .date {
     color: #555;
     font-size: 0.8em;
     margin-bottom: 10px;
-	margin-top: 10px
+    margin-top: 10px;
 }
 
 /* Author Name Styling */
 .author-name {
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 1.1em; /* Standard font size */
+    font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
-	margin-top: 10px;
-    font-weight: 900; /* Make the author name bold */
+    margin-top: 10px;
+    font-weight: 900;
 }
 
 /* Article Container */
 .article-container {
     max-width: 800px;
     margin: 0 auto;
-    padding:  0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
-/* Content Styling */
+/* Article Styling */
 .article-container p {
-    font-size: clamp(14px, 2.5vw, 22px); /* Responsive font size */
+    font-size: inherit; /* Inherit font size from body */
+    font-family: 'Merriweather', Times, serif;
     line-height: 1.6;
 }
 
@@ -162,15 +173,14 @@ header {
 }
 
 .article-container h1 {
-	font-size: clamp(24px, 4vw, 32px);
-    padding: 10px 0; /* Add padding around header */
+    font-size: 2rem;
+    padding: 10px 0;
 }
 
 .article-container h2 {
-	font-size: clamp(20px, 3vw, 24px);
-    padding: 10px 0; /* Add padding around subheader */
+    font-size: 1.5rem;
+    padding: 10px 0;
 }
-
 
 /* Image Caption */
 img {
@@ -185,15 +195,14 @@ figcaption {
     margin-top: 5px;
 }
 
-
 /* Container for Headline Photo */
 .headline-photo-container {
-    position: relative; /* Change position to relative */
+    position: relative;
     width: 100%;
-    margin: -100px auto 0 auto; /* Center the container and move it up */
-    max-width: 800px; /* Match the max-width of the container to letter size */
-    padding: 0 20px; /* Add padding to align with the title */
-    z-index: 1; /* Ensure it is on top */
+    margin: -100px auto 0 auto;
+    max-width: 800px;
+    padding: 0 20px;
+    z-index: 1;
 }
 
 /* Headline Photo Styling */
@@ -202,7 +211,7 @@ figcaption {
     height: auto;
     display: block;
     margin: 0;
-    z-index: 1; /* Ensure it is on top */
+    z-index: 1;
 }
 
 /* Caption Styling */
@@ -211,57 +220,58 @@ figcaption {
     font-style: normal;
     color: #333;
     margin-top: 5px;
-    padding-left: 0; /* Match the padding of the container */
-    padding-right: 0; /* Match the padding of the container */
-    font-size: 0.9em; /* Small regular text */
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 0.9em;
     display: flex;
     align-items: center;
 }
 
 .headline-photo-container figcaption .photographer-credit {
-    font-family: 'Courier New', Courier, monospace; /* Monospaced font */
+    font-family: 'Courier New', Courier, monospace;
     color: #666;
-	margin-top: 2.9px;
-    white-space: nowrap; /* Prevent line breaks */
-    margin-left: 10px; /* Add some space between text and credit */
-    font-size: 0.9em; /* Match the size of the main text */
+    margin-top: 2.9px;
+    white-space: nowrap;
+    margin-left: 10px;
+    font-size: 0.9em;
 }
 
-/* Media Query for Mobile Devices */
-@media (max-width: 767px) {
+/* Media Queries */
+@media screen and (max-width: 926px) {
+    html {
+        font-size: 14px;
+    }
+    
     .title-bar h1 {
-        font-size: clamp(1.5em, 5vw, 2.5em); /* Adjust font size for smaller screens */
+        font-size: clamp(1.5em, 5vw, 2.5em);
+    }
+    
+    .article-container h1 {
+        font-size: 1.6rem;
+        padding: 15px 0;
+    }
+    
+    .article-container h2 {
+        font-size: 1.4rem;
+        padding: 8px 0;
+    }
+}
+
+@media screen and (max-width: 926px) and (orientation: landscape) {
+    html {
+        font-size: 14px;
     }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
     .title-bar h1 {
-        font-size: clamp(2em, 5vw, 3em); /* Adjust font size for medium screens */
+        font-size: clamp(2em, 5vw, 3em);
     }
 }
 
 @media (min-width: 1024px) {
     .title-bar h1 {
-        font-size: clamp(2.5em, 5vw, 3.5em); /* Adjust font size for larger screens */
+        font-size: clamp(2.5em, 5vw, 3.5em);
     }
 }
 
-/* Media Query for Mobile Devices */
-@media (max-width: 767px) {
-    .article-container p {
-        font-size: 14px !important; /* Smaller clamp for mobile devices */
-    }
-}
-
-/* Media Query for Mobile Devices */
-@media (max-width: 2532px) {
-    .article-container h1 {
-        font-size: clamp(20px, 5vw, 32px); /* Adjusted font size for mobile */
-        padding: 15px 0; /* Adjusted padding for mobile */
-    }
-    
-    .article-container h2 {
-        font-size: clamp(18px, 4vw, 24px); /* Adjusted font size for mobile */
-        padding: 8px 0; /* Adjusted padding for mobile */
-    }
-}
