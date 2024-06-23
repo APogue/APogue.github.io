@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, initial-scale=1">
     <title>Default Layout 2</title>
     <style>
         /* CSS Reset */
@@ -12,13 +12,17 @@
             box-sizing: border-box;
         }
 
-        /* General Body Styling */
+        /* General HTML and Body Styling */
+        html {
+            font-size: 16px; /* Base font size for rem units */
+        }
+
         body {
             font-family: 'Times New Roman', Times, serif;
             color: #333;
             line-height: 1.6;
             padding: 20px;
-            font-size: 12px; /* Add a base font size */
+            font-size: 0.75rem; /* Equivalent to 12px */
         }
 
         /* Navigation */
@@ -38,9 +42,16 @@
 
         /* Article Styling */
         .article-container p {
-            font-size: inherit; /* Use the inherited font size from the body */
+            font-size: inherit; /* Inherit font size from body */
             font-family: 'Merriweather', Times, serif;
             line-height: 1.6;
+        }
+
+        /* Media query for mobile devices in landscape mode */
+        @media (max-width: 767px) and (orientation: landscape) {
+            body {
+                font-size: 0.75rem; /* Equivalent to 12px */
+            }
         }
     </style>
 </head>
@@ -52,7 +63,7 @@
     <main class="content">
         <div class="article-container">
             <p>This is a test paragraph. The font size should remain consistent across all orientations and devices. This is to test if the font size issue persists in landscape mode.</p>
-            <p>Another paragraph for testing. The layout is minimal and should not be affected by external styles or scripts.</p>
+            <p>Another paragraph (3) for testing. The layout is minimal and should not be affected by external styles or scripts.</p>
         </div>
     </main>
 </body>
