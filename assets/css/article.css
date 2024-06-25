@@ -388,6 +388,7 @@ figcaption {
     left: 0 !important;
     top: 0 !important;
     width: 100% !important;
+    height: 100% !important;
     min-height: 100vh !important; /* Add this line */
     min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
@@ -399,14 +400,7 @@ figcaption {
     pointer-events: none;
     cursor: pointer;
 }
-@supports (padding: max(0px)) {
-    .lightbox {
-        padding: max(env(safe-area-inset-top), 20px)
-                 max(env(safe-area-inset-right), 20px)
-                 max(env(safe-area-inset-bottom), 20px)
-                 max(env(safe-area-inset-left), 20px);
-    }
-}
+
 /* ... rest of your CSS remains the same ... */
 .lightbox.show {
     opacity: 1;
