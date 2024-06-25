@@ -341,12 +341,12 @@ figcaption {
     
     .title-bar h1 {
         font-size: clamp(2.2em, 6vw, 2.5em); /* Lower upper bound for title */
-        margin-bottom: clamp(5px, 3vw, 5px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 15px); /* Clamped margin-bottom */
     }
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 3.5vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(5px, 3vw, 5px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 15px) !important; /* Clamped margin-top */
     }
 }
 
@@ -357,12 +357,12 @@ figcaption {
     
     .title-bar h1 {
         font-size: clamp(2.5em, 7vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(5px, 3vw, 5px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 15px); /* Clamped margin-bottom */
     }
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 4vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(5px, 3vw, 5px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 15px) !important; /* Clamped margin-top */
     }
 }
 
