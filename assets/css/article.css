@@ -92,7 +92,7 @@ header {
 
 .title-bar {
     max-width: 800px;
-    margin: -90px auto 0 auto;
+    margin: -85px auto 0 auto;
     color: #fff;
     padding: 0px 0px 25px 20px;
     z-index: 3;
@@ -160,7 +160,7 @@ header {
     font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
-    margin-top: 5px;
+    margin-top: 0px;
     font-weight: 700;
 }
 
@@ -389,8 +389,8 @@ figcaption {
     top: 0 !important;
     width: 100% !important;
     height: 100% !important;
-    min-height: 100vh !important;
-    min-height: -webkit-fill-available !important;
+    min-height: 100vh !important; /* Add this line */
+    min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
     background-color: rgba(177, 0, 255, 0.5);
     justify-content: center !important;
@@ -401,10 +401,10 @@ figcaption {
     cursor: pointer;
 }
 
+/* ... rest of your CSS remains the same ... */
 .lightbox.show {
     opacity: 1;
     pointer-events: auto;
-    overflow: hidden; /* Ensure lightbox itself doesn't scroll */
 }
 
 .lightbox-content {
@@ -446,8 +446,7 @@ figcaption {
         object-fit: contain;
     }
 }
-
-/* Lightbox Trigger */
+/* below is for any double figures */
 .lightbox-trigger {
     position: relative;
     display: block;
@@ -470,6 +469,7 @@ figcaption {
     cursor: zoom-in;
 }
 
+
 .lightbox-trigger figure {
     margin: 0; /* Remove default figure margin */
     width: 100%;
@@ -481,7 +481,6 @@ figcaption {
     height: auto;
 }
 
-/* Prevent body scroll when lightbox is active */
-.noscroll {
-    overflow: hidden;
-}
+
+
+
