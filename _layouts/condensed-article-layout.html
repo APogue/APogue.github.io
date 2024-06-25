@@ -130,33 +130,41 @@
 
 	<script>
 			// JavaScript for Lightbox
-		var modal = document.getElementById("myModal");
-		var modalImg = document.getElementById("img01");
+	var modal = document.getElementById("myModal");
+	var modalImg = document.getElementById("img01");
 
-		function openModal(src) {
-			modalImg.src = src;
-			modal.style.display = "flex"; // Use flex to center content
-			requestAnimationFrame(function() {
-				modal.classList.add('show');
-			});
-			document.body.style.overflow = 'hidden'; // Prevent body scroll
-		}
-
-		function closeModal() {
-			modal.classList.remove('show');
-			modal.addEventListener('transitionend', function handler() {
-				modal.style.display = "none";
-				modal.removeEventListener('transitionend', handler);
-				document.body.style.overflow = ''; // Restore body scroll
-			});
-		}
-
-		// Close modal when clicking outside the image
-		modal.addEventListener('click', function(e) {
-			if (e.target === modal) {
-				closeModal();
-			}
+	function openModal(src) {
+		modalImg.src = src;
+		modal.style.display = "flex"; // Use flex to center content
+		requestAnimationFrame(function() {
+			modal.classList.add('show');
 		});
+		document.body.style.overflow = 'hidden'; // Prevent body scroll
+	}
+
+	function closeModal() {
+		modal.classList.remove('show');
+		modal.addEventListener('transitionend', function handler() {
+			modal.style.display = "none";
+			modal.removeEventListener('transitionend', handler);
+			document.body.style.overflow = ''; // Restore body scroll
+		});
+	}
+
+	// Close modal when clicking outside the image
+	modal.addEventListener('click', function(e) {
+		if (e.target === modal) {
+			closeModal();
+		}
+	});
+
+	// Handle window resize to ensure no scroll on rotation
+	window.addEventListener('resize', function() {
+		if (modal.style.display === 'flex') {
+			document.body.style.overflow = 'hidden';
+		}
+	});
+
 
 	</script>
 
