@@ -148,6 +148,7 @@ header {
 }
 
 .date {
+	font-family: 'Source Code Pro', 'Courier New', 'Lucida Console'; /* Polished monospace font */
     color: #555;
     font-size: .9em;
     margin-bottom: 0px;
