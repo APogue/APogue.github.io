@@ -154,21 +154,29 @@
 				closeModal();
 			}
 		});
-		// Function to set the correct height
-		function setLightboxHeight() {
-			let vh = window.innerHeight * 0.01;
-			document.documentElement.style.setProperty('--vh', `${vh}px`);
-		}
+		document.addEventListener('DOMContentLoaded', function () {
+    const lightbox = document.querySelector('.lightbox');
+    const closeBtn = document.querySelector('.close');
 
-		// Set the height on page load
-		setLightboxHeight();
+    lightbox.addEventListener('click', function () {
+        this.classList.remove('show');
+        document.body.classList.remove('noscroll');
+    });
 
-		// Update the height on window resize and orientation change
-		window.addEventListener('resize', setLightboxHeight);
-		window.addEventListener('orientationchange', setLightboxHeight);
+    closeBtn.addEventListener('click', function () {
+        lightbox.classList.remove('show');
+        document.body.classList.remove('noscroll');
+    });
 
-		// Update height when the lightbox is opened
-		document.querySelector('.lightbox').addEventListener('click', setLightboxHeight);
+    document.querySelectorAll('.lightbox-trigger img').forEach(function (img) {
+        img.addEventListener('click', function (e) {
+            e.preventDefault();
+            lightbox.classList.add('show');
+            document.body.classList.add('noscroll');
+        });
+    });
+});
+
 	</script>
 
 </body>

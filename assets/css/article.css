@@ -160,7 +160,7 @@ header {
     font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top: 5px;
     font-weight: 700;
 }
 
@@ -481,6 +481,13 @@ figcaption {
     height: auto;
 }
 
+.noscroll {
+    overflow: hidden;
+}
 
-
+.lightbox.show {
+    opacity: 1;
+    pointer-events: auto;
+    overflow: hidden; /* Ensure lightbox itself doesn't scroll */
+}
 
