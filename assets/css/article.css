@@ -94,7 +94,7 @@ header {
     max-width: 800px;
     margin: -85px auto 0 auto;
     color: #fff;
-    padding: 0px 0px 25px 20px;
+    padding: 0px 0px 15px 20px;
     z-index: 3;
 }
 
@@ -152,13 +152,13 @@ header {
     color: #555;
     font-size: .9em;
     margin-bottom: 0px;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 /* Author Name Styling */
 .author-name {
     font-family: 'Roboto condensed', sans-serif;
-    font-size: 1.2em;
+    font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
     margin-top: 0px;
@@ -368,7 +368,7 @@ figcaption {
 @media (min-width: 1024px) {
     .title-bar h1 {
         font-size: clamp(2.8em, 8vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(5px, 3vw, 5px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 15px); /* Clamped margin-bottom */
     }
     body {
         font-size: 1rem; /* Adjust as needed */
@@ -376,7 +376,7 @@ figcaption {
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 4.5vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(5px, 3vw, 5px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 15px) !important; /* Clamped margin-top */
     }
 }
 
