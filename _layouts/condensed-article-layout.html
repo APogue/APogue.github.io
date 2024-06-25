@@ -58,32 +58,38 @@
 		</figure>
     </header>
 
-    <main class="container">
-        <div class="article-meta">
-            <div class="social-links">
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" style="color: black;"><i class="fab fa-facebook-f"></i></a>
-                <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" style="color: black;"><i class="fa-brands fa-x-twitter"></i></a>
-                <a href="mailto:?subject={{ page.title }}&body=Check out this article: {{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" style="color: black;"><i class="fas fa-envelope"></i></a>
-                <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}" target="_blank" style="color: black;"><i class="fab fa-linkedin-in"></i></a>
-                <a href="#" class="copy-link" data-link="{{ site.url }}{{ site.baseurl }}{{ page.url }}" style="color: black;">
+   <main class="container">
+    <div class="article-meta">
+        <div class="social-links">
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" style="color: black;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" style="color: black;">
+                <i class="fa-brands fa-x-twitter"></i>
+            </a>
+            <a href="mailto:?subject={{ page.title }}&body=Check out this article: {{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" style="color: black;">
+                <i class="fas fa-envelope"></i>
+            </a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}" target="_blank" style="color: black;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="#" class="copy-link" data-link="{{ site.url }}{{ site.baseurl }}{{ page.url }}" style="color: black;">
                 <i class="fa-solid fa-link"></i>
-               </a>
-               <span class="copied-notification" style="display: none; color: black; margin-left: 10px;">Copied to clipboard✔️</span>
-            </div>
-            <div class="date">
-			<div class="date">
-				{{ page.date | date: "%B %-d, %Y, %-I:%M %p %Z" }}
-				{% if page.updated == true %}
-					/ Updated {{ site.time | date: "%B %-d, %Y, %-I:%M %p %Z" }}
-				{% endif %}
-			</div>
-            <div class="author-name">By {{ page.author }}</div>
+            </a>
+            <span class="copied-notification" style="display: none; color: black; margin-left: 10px;">Copied to clipboard✔️</span>
         </div>
-
-        <div class="article-container">
-            {{ content }}
+        <div class="date">
+            {{ page.date | date: "%B %-d, %Y, %-I:%M %p %Z" }}
+            {% if page.updated == true %}
+                / Updated {{ site.time | date: "%B %-d, %Y, %-I:%M %p %Z" }}
+            {% endif %}
         </div>
-    </main>
+        <div class="author-name">By {{ page.author }}</div>
+		</div>
+    <div class="article-container">
+        {{ content }}
+    </div>
+</main>
 
     <footer>
     </footer>

@@ -138,7 +138,7 @@ header {
 .social-links a {
     margin-right: 10px;
     color:  #333;
-    font-size: 1.2em;
+    font-size: 1.3em;
 	
 }
 
@@ -157,7 +157,7 @@ header {
 /* Author Name Styling */
 .author-name {
     font-family: 'Roboto condensed', sans-serif;
-    font-size: 1.1em;
+    font-size: 1.2em;
     color: #333;
     margin-bottom: 0px;
     margin-top: 0px;
@@ -221,7 +221,7 @@ figcaption {
     margin-top: 5px;
     padding-left: 0;
     padding-right: 0;
-    font-size: 0.9em;
+    font-size: .9em;
     display: flex;
     align-items: center;
 	padding:  0px 0px 25px 0px;
@@ -255,7 +255,7 @@ figcaption {
     margin: 0!important; /* No margin between figure and caption */
     padding-left: 0;
     padding-right: 0;
-    font-size: 0.9em;
+    font-size: .9em;
     width: 100%; /* Ensures it spans the entire width */
   }	
 /* Container for Headline Photo */
@@ -285,7 +285,7 @@ figcaption {
     margin-top: 5px;
     padding-left: 0;
     padding-right: 0;
-    font-size: 0.9em;
+    font-size: .9em;
     display: flex;
     align-items: center;
 }
@@ -296,7 +296,7 @@ figcaption {
     margin-top: 2.1px;
     white-space: nowrap;
     margin-left: 10px;
-    font-size: 0.9em;
+    font-size: .9em;
 }
 
 /* Media Queries */
