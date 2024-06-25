@@ -445,9 +445,7 @@ figcaption {
         max-height: 100% !important;
         object-fit: contain;
     }
-
 }
-
 /* below is for any double figures */
 .lightbox-trigger {
     position: relative;
