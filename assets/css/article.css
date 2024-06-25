@@ -376,37 +376,42 @@ figcaption {
 
 /* Lightbox CSS */
 .lightbox {
-    display: flex !important; /* Force flex display */
+    display: flex !important;
     position: fixed !important;
-    z-index: 9999 !important; /* Ensure it's on top */
+    z-index: 9999 !important;
     left: 0 !important;
     top: 0 !important;
-    width: 100vw !important;
-    height: 100vh !important;
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 100vh !important; /* Add this line */
+    min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
-    background-color: rgba(255, 0, 0, 0.5); /* Keep red for debugging */
+    background-color: rgba(255, 0, 0, 0.5);
     justify-content: center !important;
     align-items: center !important;
     transition: opacity 0.2s ease-in-out;
     opacity: 0;
     pointer-events: none;
-	cursor: pointer;
+    cursor: pointer;
 }
 
+/* ... rest of your CSS remains the same ... */
 .lightbox.show {
     opacity: 1;
     pointer-events: auto;
 }
 
 .lightbox-content {
-    max-width: 95% !important;
-    max-height: 95% !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
     width: auto !important;
     height: auto !important;
     object-fit: contain;
-    transition: transform 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
     transform: scale(0.9);
-	cursor: default;
+    cursor: default;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .lightbox.show .lightbox-content {
@@ -421,27 +426,17 @@ figcaption {
     font-size: 40px;
     font-weight: bold;
     transition: color 0.3s;
-    z-index: 10000; /* Ensure it's above everything */
-	cursor: pointer;
+    z-index: 10000;
+    cursor: pointer;
 }
 
 /* Additional Styles for Mobile and Landscape */
-@media (max-width: 768px) {
+@media (max-width: 768px), (orientation: landscape) {
     .lightbox-content {
-        width: 95% !important;
-        height: 95% !important;
-        max-width: 95% !important;
-        max-height: 95% !important;
-        object-fit: contain;
-    }
-}
-
-@media (orientation: landscape) {
-    .lightbox-content {
-        width: 95% !important;
-        height: 95% !important;
-        max-width: 95% !important;
-        max-height: 95% !important;
+        width: auto !important;
+        height: auto !important;
+        max-width: 100% !important;
+        max-height: 100% !important;
         object-fit: contain;
     }
 }
