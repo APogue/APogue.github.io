@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,9 +14,9 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
     <meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:description" content="How to create your first npm package and publish it." />
-	<meta name="twitter:title" content="Creating your first npm package" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/large-red-triangle-people.webp"/>
+    <meta name="twitter:description" content="How to create your first npm package and publish it." />
+    <meta name="twitter:title" content="Creating your first npm package" />
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/large-red-triangle-people.webp"/>
 
     <!-- Open Graph meta tags -->
     <meta property="og:title" content="{{ page.title }}" />
@@ -45,6 +43,7 @@
         <div class="title-bar-container">
             <div class="title-bar">
                 <h1>{{ page.title }}</h1>
+				 <p class="title-explanation">{{ page.explanation }}</p> <!-- Add this line -->
             </div>
         </div>
         <figure id="fig:large-sign-red-triangle" class="headline-photo-container">
@@ -53,7 +52,7 @@
                  alt="Large sign with red triangle" class="headline-photo">
             </a>
             <figcaption>
-                Large sign with red triangle from LA Times
+                Large sign with red triangle from the <a href="https://www.latimes.com/opinion/story/2024-05-08/gaza-palestinians-university-encampments-solidarity-students-protests-rafah-biden-redline" style="color:#0F52BA; text-decoration:none">&nbsp;LA Times.</a>
                <span class="photographer-credit">Ringo Chiu / For The Times</span>
             </figcaption>
         </figure>
@@ -101,25 +100,62 @@
             }
         });
     </script>
-	<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const copyLink = document.querySelector('.copy-link');
-        const copiedNotification = document.querySelector('.copied-notification');
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const copyLink = document.querySelector('.copy-link');
+            const copiedNotification = document.querySelector('.copied-notification');
 
-        copyLink.addEventListener('click', function(event) {
-            event.preventDefault();
-            const link = copyLink.getAttribute('data-link');
+            copyLink.addEventListener('click', function(event) {
+                event.preventDefault();
+                const link = copyLink.getAttribute('data-link');
 
-            navigator.clipboard.writeText(link).then(function() {
-                copiedNotification.style.display = 'inline';
-                setTimeout(function() {
-                    copiedNotification.style.display = 'none';
-                }, 2000);
-            }, function(err) {
-                console.error('Could not copy text: ', err);
+                navigator.clipboard.writeText(link).then(function() {
+                    copiedNotification.style.display = 'inline';
+                    setTimeout(function() {
+                        copiedNotification.style.display = 'none';
+                    }, 2000);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
             });
         });
-    });
     </script>
+
+    <!-- The Modal/Lightbox -->
+ 
+	<div id="myModal" class="lightbox">
+		<span class="close" onclick="closeModal()">&times;</span>
+		<img class="lightbox-content" id="img01">
+	</div>
+
+	<script>
+		// JavaScript for Lightbox
+		var modal = document.getElementById("myModal");
+		var modalImg = document.getElementById("img01");
+
+		function openModal(src) {
+			modalImg.src = src;
+			modal.style.display = "flex"; // Use flex to center content
+			requestAnimationFrame(function() {
+				modal.classList.add('show');
+			});
+		}
+
+		function closeModal() {
+			modal.classList.remove('show');
+			modal.addEventListener('transitionend', function handler() {
+				modal.style.display = "none";
+				modal.removeEventListener('transitionend', handler);
+			});
+		}
+
+		// Close modal when clicking outside the image
+		modal.addEventListener('click', function(e) {
+			if (e.target === modal) {
+				closeModal();
+			}
+		});
+	</script>
+
 </body>
 </html>

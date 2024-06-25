@@ -92,7 +92,7 @@ header {
 
 .title-bar {
     max-width: 800px;
-    margin: -20px auto 0 auto;
+    margin: -30px auto 0 auto;
     color: #fff;
     padding: 0px 0px 30px 20px;
     z-index: 3;
@@ -104,6 +104,19 @@ header {
     font-weight: 800;
     line-height: 1.2;
 }
+
+/* Title Explanation Styling */
+.title-explanation {
+    font-size: clamp(1.2rem, 3vw, 1.6rem); /* Clamped font size */
+    color: #fff; /* Adjust color as needed */
+    margin-top: clamp(0px, 2vw, 30px) !important; /* Clamped margin-top */
+    margin-bottom: 0 !important; /* Force bottom margin to 0 */
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+
+
 
 /* Container for Title and Meta Info */
 .container {
@@ -127,36 +140,38 @@ header {
 
 .social-links a {
     margin-right: 10px;
-    color: black;
+    color:  #333;
     font-size: 1.2em;
+	
 }
 
 .social-links a:hover {
-    color: #333;
+    color: pink;
+	
 }
 
 .date {
     color: #555;
     font-size: 0.8em;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-top: 15px;
 }
 
 /* Author Name Styling */
 .author-name {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto condensed', sans-serif;
     font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
-    margin-top: 10px;
-    font-weight: 900;
+    margin-top: 0px;
+    font-weight: 700;
 }
 
 /* Article Container */
 .article-container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 0px 0px 0px 0px;
+    padding: 25px 0px 0px 0px;
 }
 
 /* Article Styling */
@@ -179,8 +194,10 @@ header {
 }
 
 .article-container h2 {
-    font-size: 1.5rem;
-    padding: 10px 0;
+    font-size: 1.4rem;
+    padding: clamp(30px, 4vw, 30px) 0px 5px 0px!important; /* Responsive top padding */
+    font-family: 'Merriweather', Times, serif;
+    font-weight: 600;
 }
 
 /* Image Caption */
@@ -189,18 +206,31 @@ img {
     margin: 0 auto;
 }
 
-figcaption {
-    text-align: center;
-    font-style: italic;
-    color: #777;
-    margin-top: 5px;
+figure {
+    max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
+    margin: auto; /* Centers the figure */
+    text-align: center; /* Centers the text caption */
+	padding:  30px 0px 30px 0px;
 }
 
+figcaption {
+    text-align: left;
+    font-style: normal;
+    color: #333;
+    margin-top: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+}
+
+	
 /* Container for Headline Photo */
 .headline-photo-container {
     position: relative;
     width: 100%;
-    margin: -100px auto 0 auto;
+    margin: -110px auto 0 auto;
     max-width: 800px;
     padding: 0 20px;
     z-index: 1;
@@ -247,7 +277,11 @@ figcaption {
     }
     
     .title-bar h1 {
-        font-size: clamp(2em, 5vw, 3em);
+        font-size: clamp(2em, 3vw, 2.7em);
+    }
+	
+	.title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3vw, 1.6rem); /* Clamped font size for smaller screens */
     }
     
     .article-container h1 {
@@ -281,9 +315,63 @@ figcaption {
 
 @media (min-width: 1024px) {
     .title-bar h1 {
-        font-size: clamp(2.5em, 5vw, 3.5em);
+        font-size: clamp(2.5em, 5vw, 3em);
     }
     body {
         font-size: 1rem; /* Adjust as needed */
     }
 }
+
+
+
+/* Lightbox CSS */
+.lightbox {
+    display: flex !important; /* Force flex display */
+    position: fixed !important;
+    z-index: 9999 !important; /* Ensure it's on top */
+    left: 0 !important;
+    top: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    overflow: hidden;
+    background-color: rgba(255, 0, 0, 0.5); /* Keep red for debugging */
+    justify-content: center !important;
+    align-items: center !important;
+    transition: opacity 0.2s ease-in-out;
+    opacity: 0;
+    pointer-events: none;
+	cursor: pointer;
+}
+
+.lightbox.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.lightbox-content {
+    max-width: 90% !important;
+    max-height: 90% !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain;
+    transition: transform 0.2s ease-in-out;
+    transform: scale(0.9);
+	cursor: default;
+}
+
+.lightbox.show .lightbox-content {
+    transform: scale(1);
+}
+
+.close {
+    position: absolute !important;
+    top: 20px !important;
+    right: 35px !important;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: color 0.3s;
+    z-index: 10000; /* Ensure it's above everything */
+	cursor: pointer;
+}
+
