@@ -162,10 +162,7 @@
 			document.body.style.overflow = ''; // Restore body scroll
 		});
 	}
-	function setLightboxHeight() {
-		const lightbox = document.querySelector('.lightbox');
-		lightbox.style.height = window.innerHeight + 'px';
-	}
+
 	// Close modal when clicking outside the image
 	modal.addEventListener('click', function(e) {
 		if (e.target === modal) {
@@ -183,9 +180,7 @@
 			document.body.style.overflow = 'hidden';
 		}
 	});
-	// Call on load and resize
-	window.addEventListener('load', setLightboxHeight);
-	window.addEventListener('resize', setLightboxHeight);
+
 
 	</script>
 
