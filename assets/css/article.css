@@ -92,7 +92,7 @@ header {
 
 .title-bar {
     max-width: 800px;
-    margin: -50px auto 0 auto;
+    margin: -90px auto 0 auto;
     color: #fff;
     padding: 0px 0px 25px 20px;
     z-index: 3;
@@ -186,8 +186,8 @@ header {
 
 .article-container h2 {
     font-size: 1.4rem;
-    margin-top: .7em !important; /* Adjust as needed for top margin */
-    margin-bottom: -0.4em !important; /* Reduced bottom margin */
+    margin-top: 1.2em !important; /* Adjust as needed for top margin */
+    margin-bottom: -0.5em !important; /* Reduced bottom margin */
     font-family: 'Merriweather', Times, serif;
     font-weight: 600;
 }
@@ -325,7 +325,7 @@ figcaption {
     
     .article-container h2 {
         font-size: 1.4rem;
-        padding: 8px 0;
+        padding: 0px 0;
     }
 }
 
