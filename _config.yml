@@ -1,8 +1,5 @@
-url: http://alexiepogue.com # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexiepogue.com" # the base hostname & protocol for your site, e.g. https://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
 
 permalink: pretty
-
-# _config.yml
-
