@@ -70,7 +70,13 @@
                </a>
                <span class="copied-notification" style="display: none; color: black; margin-left: 10px;">Copied to clipboard✔️</span>
             </div>
-            <div class="date">{{ site.time | date: "%B %-d, %Y, %I:%M %p %Z" }}</div>
+            <div class="date">
+			<div class="date">
+				{{ page.date | date: "%B %-d, %Y, %-I:%M %p %Z" }}
+				{% if page.updated == true %}
+					/ Updated {{ site.time | date: "%B %-d, %Y, %-I:%M %p %Z" }}
+				{% endif %}
+			</div>
             <div class="author-name">By {{ page.author }}</div>
         </div>
 
