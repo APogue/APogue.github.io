@@ -149,8 +149,9 @@ header {
 
 .date {
 	font-family: 'Source Code Pro', 'Courier New', 'Lucida Console'; /* Polished monospace font */
+	font-size: .8em!important;
+	line-height: 1.1;
     color: #555;
-    font-size: .9em;
     margin-bottom: 0px;
     margin-top: 5px;
 }
@@ -161,7 +162,7 @@ header {
     font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top: 3px;
     font-weight: 700;
 }
 
