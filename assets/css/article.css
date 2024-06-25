@@ -107,9 +107,7 @@ header {
 
 /* Title Explanation Styling */
 .title-explanation {
-    font-size: clamp(1.2rem, 3vw, 1.6rem); /* Clamped font size */
     color: #fff; /* Adjust color as needed */
-    margin-top: clamp(0px, 2vw, 30px) !important; /* Clamped margin-top */
     margin-bottom: 0 !important; /* Force bottom margin to 0 */
     line-height: 1.2;
     font-weight: 500;
@@ -230,7 +228,7 @@ figcaption {
 .headline-photo-container {
     position: relative;
     width: 100%;
-    margin: -110px auto 0 auto;
+    margin: -105px auto 0 auto;
     max-width: 800px;
     padding: 0 20px;
     z-index: 1;
@@ -277,11 +275,13 @@ figcaption {
     }
     
     .title-bar h1 {
-        font-size: clamp(2em, 3vw, 2.7em);
+        font-size: clamp(2em, 5vw, 2.2em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
     }
-	
-	.title-bar .title-explanation {
-        font-size: clamp(1.2rem, 3vw, 1.6rem); /* Clamped font size for smaller screens */
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3vw, 1.4rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
     }
     
     .article-container h1 {
@@ -302,23 +302,124 @@ figcaption {
     body {
         font-size: 1rem;
     }
+    
+    .title-bar h1 {
+        font-size: clamp(2.2em, 6vw, 2.5em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3.5vw, 1.4rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-    .title-bar h1 {
-        font-size: clamp(2em, 5vw, 3em);
-    }
     body {
         font-size: 1rem; /* Adjust as needed */
+    }
+    
+    .title-bar h1 {
+        font-size: clamp(2.5em, 7vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 4vw, 1.4rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
     }
 }
 
 @media (min-width: 1024px) {
     .title-bar h1 {
-        font-size: clamp(2.5em, 5vw, 3em);
+        font-size: clamp(3em, 8vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 25px); /* Clamped margin-bottom */
     }
     body {
         font-size: 1rem; /* Adjust as needed */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 4.5vw, 1.4rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 25px) !important; /* Clamped margin-top */
+    }
+}/* Media Queries */
+@media screen and (max-width: 926px) {
+    html {
+        font-size: 14px;
+    }
+    body {
+        font-size: 1rem;
+    }
+    
+    .title-bar h1 {
+        font-size: clamp(2em, 5vw, 2.2em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+    }
+    
+    .article-container h1 {
+        font-size: 1.6rem;
+        padding: 15px 0;
+    }
+    
+    .article-container h2 {
+        font-size: 1.4rem;
+        padding: 8px 0;
+    }
+}
+
+@media screen and (max-width: 926px) and (orientation: landscape) {
+    html {
+        font-size: 14px;
+    }
+    body {
+        font-size: 1rem;
+    }
+    
+    .title-bar h1 {
+        font-size: clamp(2.2em, 6vw, 2.5em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3.5vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    body {
+        font-size: 1rem; /* Adjust as needed */
+    }
+    
+    .title-bar h1 {
+        font-size: clamp(2.5em, 7vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 4vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+    }
+}
+
+@media (min-width: 1024px) {
+    .title-bar h1 {
+        font-size: clamp(3em, 8vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+    }
+    body {
+        font-size: 1rem; /* Adjust as needed */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 4.5vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
     }
 }
 
