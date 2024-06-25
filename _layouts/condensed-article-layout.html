@@ -70,9 +70,9 @@
             <span class="copied-notification" style="display: none; color: black; margin-left: 10px;">Copied to clipboard✔️</span>
         </div>
         <div class="date">
-            {{ page.date | date: "%B %-d, %Y, %-I:%M %p %Z" }}
+            {{ page.date | date: "%B %d, %Y at %I:%M %p" }} PTD
             {% if page.updated == true %}
-                / Updated {{ site.time | date: "%B %-d, %Y, %-I:%M %p %Z" }}
+                / Updated {{ site.time | date: "%B %d, %Y at %I:%M %p" }} PDT
             {% endif %}
         </div>
         <div class="author-name">By {{ page.author }}</div>
