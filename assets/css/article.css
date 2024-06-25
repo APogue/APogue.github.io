@@ -92,7 +92,7 @@ header {
 
 .title-bar {
     max-width: 800px;
-    margin: -30px auto 0 auto;
+    margin: -50px auto 0 auto;
     color: #fff;
     padding: 0px 0px 30px 20px;
     z-index: 3;
@@ -109,7 +109,7 @@ header {
 .title-explanation {
     color: #fff; /* Adjust color as needed */
     margin-bottom: 0 !important; /* Force bottom margin to 0 */
-    line-height: 1.2;
+    line-height: 1.3;
     font-weight: 500;
 }
 
@@ -193,7 +193,7 @@ header {
 
 .article-container h2 {
     font-size: 1.4rem;
-    padding: clamp(30px, 4vw, 30px) 0px 5px 0px!important; /* Responsive top padding */
+    padding: clamp(30px, 4vw, 30px) 0px 15px 0px!important; /* Responsive top padding */
     font-family: 'Merriweather', Times, serif;
     font-weight: 600;
 }
@@ -208,7 +208,7 @@ figure {
     max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
     margin: auto; /* Centers the figure */
     text-align: center; /* Centers the text caption */
-	padding:  30px 0px 30px 0px;
+	padding:  30px 0px 0px 0px;
 }
 
 figcaption {
@@ -221,9 +221,37 @@ figcaption {
     font-size: 0.9em;
     display: flex;
     align-items: center;
+	padding:  0px 0px 30px 0px;
 }
 
-	
+  .figure-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .figure-row {
+    display: flex;
+    gap: 20px; /* Adjust gap as needed */
+    margin: 0; /* Remove default margin */
+  }
+  .figure-row figure {
+    flex: 1;
+    margin: 0; /* Remove default margin */
+  }
+  .figure-row img {
+    width: 100%;
+    height: auto;
+  }
+  .single-caption {
+    text-align: left;
+    font-style: normal;
+    color: #333;
+    margin: 0!important; /* No margin between figure and caption */
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 0.9em;
+    width: 100%; /* Ensures it spans the entire width */
+  }	
 /* Container for Headline Photo */
 .headline-photo-container {
     position: relative;
@@ -309,84 +337,6 @@ figcaption {
     }
     
     .title-bar .title-explanation {
-        font-size: clamp(1.2rem, 3.5vw, 1.4rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
-    }
-}
-
-@media (min-width: 768px) and (max-width: 1023px) {
-    body {
-        font-size: 1rem; /* Adjust as needed */
-    }
-    
-    .title-bar h1 {
-        font-size: clamp(2.5em, 7vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
-    }
-    
-    .title-bar .title-explanation {
-        font-size: clamp(1.2rem, 4vw, 1.4rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
-    }
-}
-
-@media (min-width: 1024px) {
-    .title-bar h1 {
-        font-size: clamp(3em, 8vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 25px); /* Clamped margin-bottom */
-    }
-    body {
-        font-size: 1rem; /* Adjust as needed */
-    }
-    
-    .title-bar .title-explanation {
-        font-size: clamp(1.2rem, 4.5vw, 1.4rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 25px) !important; /* Clamped margin-top */
-    }
-}/* Media Queries */
-@media screen and (max-width: 926px) {
-    html {
-        font-size: 14px;
-    }
-    body {
-        font-size: 1rem;
-    }
-    
-    .title-bar h1 {
-        font-size: clamp(2em, 5vw, 2.2em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
-    }
-    
-    .title-bar .title-explanation {
-        font-size: clamp(1.2rem, 3vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
-    }
-    
-    .article-container h1 {
-        font-size: 1.6rem;
-        padding: 15px 0;
-    }
-    
-    .article-container h2 {
-        font-size: 1.4rem;
-        padding: 8px 0;
-    }
-}
-
-@media screen and (max-width: 926px) and (orientation: landscape) {
-    html {
-        font-size: 14px;
-    }
-    body {
-        font-size: 1rem;
-    }
-    
-    .title-bar h1 {
-        font-size: clamp(2.2em, 6vw, 2.5em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
-    }
-    
-    .title-bar .title-explanation {
         font-size: clamp(1.2rem, 3.5vw, 1.5rem); /* Lower upper bound for explanation */
         margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
     }
@@ -410,8 +360,8 @@ figcaption {
 
 @media (min-width: 1024px) {
     .title-bar h1 {
-        font-size: clamp(3em, 8vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+        font-size: clamp(2.8em, 8vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(10px, 3vw, 15px); /* Clamped margin-bottom */
     }
     body {
         font-size: 1rem; /* Adjust as needed */
@@ -419,10 +369,9 @@ figcaption {
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 4.5vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+        margin-top: clamp(10px, 3vw, 15px) !important; /* Clamped margin-top */
     }
 }
-
 
 
 /* Lightbox CSS */
@@ -450,8 +399,8 @@ figcaption {
 }
 
 .lightbox-content {
-    max-width: 90% !important;
-    max-height: 90% !important;
+    max-width: 95% !important;
+    max-height: 95% !important;
     width: auto !important;
     height: auto !important;
     object-fit: contain;
@@ -476,3 +425,23 @@ figcaption {
 	cursor: pointer;
 }
 
+/* Additional Styles for Mobile and Landscape */
+@media (max-width: 768px) {
+    .lightbox-content {
+        width: 95% !important;
+        height: 95% !important;
+        max-width: 95% !important;
+        max-height: 95% !important;
+        object-fit: contain;
+    }
+}
+
+@media (orientation: landscape) {
+    .lightbox-content {
+        width: 95% !important;
+        height: 95% !important;
+        max-width: 95% !important;
+        max-height: 95% !important;
+        object-fit: contain;
+    }
+}
