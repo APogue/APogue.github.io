@@ -387,8 +387,8 @@ figcaption {
     z-index: 9999 !important;
     left: 0 !important;
     top: 0 !important;
-    width: 100%vw !important;
-    height: 100%vw !important;
+    width: 100% !important;
+    height: 100% !important;
     min-height: 100vh !important; /* Add this line */
     min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
@@ -446,6 +446,14 @@ figcaption {
         object-fit: contain;
     }
 
+}
+
+/* Additional Styles for Mobile and Landscape */
+@media (max-width: 768px) and (orientation: landscape) {
+    .lightbox {
+        width: 100vw !important;
+        height: 100vh !important;
+    }
 }
 /* below is for any double figures */
 .lightbox-trigger {
