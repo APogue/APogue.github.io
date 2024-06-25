@@ -154,6 +154,21 @@
 				closeModal();
 			}
 		});
+		// Function to set the correct height
+		function setLightboxHeight() {
+			let vh = window.innerHeight * 0.01;
+			document.documentElement.style.setProperty('--vh', `${vh}px`);
+		}
+
+		// Set the height on page load
+		setLightboxHeight();
+
+		// Update the height on window resize and orientation change
+		window.addEventListener('resize', setLightboxHeight);
+		window.addEventListener('orientationchange', setLightboxHeight);
+
+		// Update height when the lightbox is opened
+		document.querySelector('.lightbox').addEventListener('click', setLightboxHeight);
 	</script>
 
 </body>
