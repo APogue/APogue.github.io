@@ -121,12 +121,12 @@
         });
     </script>
 
-    <!-- The Modal/Lightbox -->
- 
+	   <!-- The Modal/Lightbox -->
 	<div id="myModal" class="lightbox">
 		<span class="close" onclick="closeModal()">&times;</span>
 		<img class="lightbox-content" id="img01">
 	</div>
+
 	<script>
 		// JavaScript for Lightbox
 		var modal = document.getElementById("myModal");
@@ -137,6 +137,7 @@
 			modal.style.display = "flex"; // Use flex to center content
 			requestAnimationFrame(function() {
 				modal.classList.add('show');
+				document.body.classList.add('noscroll'); // Prevent body scroll
 			});
 		}
 
@@ -144,6 +145,7 @@
 			modal.classList.remove('show');
 			modal.addEventListener('transitionend', function handler() {
 				modal.style.display = "none";
+				document.body.classList.remove('noscroll'); // Allow body scroll
 				modal.removeEventListener('transitionend', handler);
 			});
 		}
@@ -154,30 +156,17 @@
 				closeModal();
 			}
 		});
+
 		document.addEventListener('DOMContentLoaded', function () {
-    const lightbox = document.querySelector('.lightbox');
-    const closeBtn = document.querySelector('.close');
-
-    lightbox.addEventListener('click', function () {
-        this.classList.remove('show');
-        document.body.classList.remove('noscroll');
-    });
-
-    closeBtn.addEventListener('click', function () {
-        lightbox.classList.remove('show');
-        document.body.classList.remove('noscroll');
-    });
-
-    document.querySelectorAll('.lightbox-trigger img').forEach(function (img) {
-        img.addEventListener('click', function (e) {
-            e.preventDefault();
-            lightbox.classList.add('show');
-            document.body.classList.add('noscroll');
-        });
-    });
-});
-
+			document.querySelectorAll('.lightbox-trigger img').forEach(function (img) {
+				img.addEventListener('click', function (e) {
+					e.preventDefault();
+					openModal(img.src);
+				});
+			});
+		});
 	</script>
+
 
 </body>
 </html>

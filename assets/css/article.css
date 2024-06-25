@@ -389,8 +389,8 @@ figcaption {
     top: 0 !important;
     width: 100% !important;
     height: 100% !important;
-    min-height: 100vh !important; /* Add this line */
-    min-height: -webkit-fill-available !important; /* Add this line for iOS */
+    min-height: 100vh !important;
+    min-height: -webkit-fill-available !important;
     overflow: hidden;
     background-color: rgba(177, 0, 255, 0.5);
     justify-content: center !important;
@@ -401,10 +401,10 @@ figcaption {
     cursor: pointer;
 }
 
-/* ... rest of your CSS remains the same ... */
 .lightbox.show {
     opacity: 1;
     pointer-events: auto;
+    overflow: hidden; /* Ensure lightbox itself doesn't scroll */
 }
 
 .lightbox-content {
@@ -446,7 +446,8 @@ figcaption {
         object-fit: contain;
     }
 }
-/* below is for any double figures */
+
+/* Lightbox Trigger */
 .lightbox-trigger {
     position: relative;
     display: block;
@@ -469,7 +470,6 @@ figcaption {
     cursor: zoom-in;
 }
 
-
 .lightbox-trigger figure {
     margin: 0; /* Remove default figure margin */
     width: 100%;
@@ -481,13 +481,7 @@ figcaption {
     height: auto;
 }
 
+/* Prevent body scroll when lightbox is active */
 .noscroll {
     overflow: hidden;
 }
-
-.lightbox.show {
-    opacity: 1;
-    pointer-events: auto;
-    overflow: hidden; /* Ensure lightbox itself doesn't scroll */
-}
-
