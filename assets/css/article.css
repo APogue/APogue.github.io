@@ -126,7 +126,7 @@ header {
 /* Article Meta */
 .article-meta {
     text-align: left;
-    margin-top: 20px;
+    margin-top: -20px;
 }
 
 .social-links {
@@ -224,24 +224,27 @@ figcaption {
 	padding:  0px 0px 30px 0px;
 }
 
-  .figure-container {
+ .figure-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
-  .figure-row {
+    width: 100%; /* Add this if you want to maintain the 85% width */
+    margin: 0 auto; /* Center the container */
+}
+
+.figure-row {
     display: flex;
-    gap: 20px; /* Adjust gap as needed */
+    gap: 5px; /* Adjust gap as needed */
     margin: 0; /* Remove default margin */
-  }
-  .figure-row figure {
+    width: 100%; /* Ensure full width of container */
+}
+
+.figure-row figure {
     flex: 1;
     margin: 0; /* Remove default margin */
-  }
-  .figure-row img {
-    width: 100%;
-    height: auto;
-  }
+    position: relative; /* For positioning the maximize icon */
+}
+
   .single-caption {
     text-align: left;
     font-style: normal;
@@ -386,7 +389,7 @@ figcaption {
     min-height: 100vh !important; /* Add this line */
     min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
-    background-color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(177, 0, 255, 0.5);
     justify-content: center !important;
     align-items: center !important;
     transition: opacity 0.2s ease-in-out;
@@ -440,3 +443,41 @@ figcaption {
         object-fit: contain;
     }
 }
+/* below is for any double figures */
+.lightbox-trigger {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto; /* Center the lightbox-trigger div */
+}
+
+.maximize-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 1;
+    cursor: zoom-in;
+}
+
+
+.lightbox-trigger figure {
+    margin: 0; /* Remove default figure margin */
+    width: 100%;
+}
+
+.lightbox-trigger img {
+    cursor: zoom-in;
+    width: 100%;
+    height: auto;
+}
+
+
+
+

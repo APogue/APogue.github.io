@@ -12,16 +12,17 @@ organizations founded, the CAC has been active at UCLA for more than 50 years. F
 "student activity fees", a part of tuition paid by every student. This means that serving "all students" is not only a mission, 
 but a responsibility. 
 
-<figure id="fig:cac-org-website" style="width: 85%; height: auto;">
+<div class="lightbox-trigger" style="width: 85%;">
+  <figure id="fig:cac-org-website" style="width: 100%; height: auto;">
     <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/CAC.png')" data-title="Official UCLA CAC student organization website">
-        <img src="/images/2024-05-20/early-messaging/CAC.png" alt="CAC official UCLA student organization website" style="width: 100%; height: auto;">
+      <img src="/images/2024-05-20/early-messaging/CAC.png" alt="CAC official UCLA student organization website" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-        Official UCLA CAC student organization website
+      Official UCLA CAC student organization website
     </figcaption>
-</figure>
-
-
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
 
 In 2018 the serving commissioner expressed what he identified as "the problematic culture that exists at the University, which inadvertently 
 oppresses [marginalized] individuals on the basis of race, gender, religion, etc."[^49]. These views indicate a level of distrust in UCLA's ability 
@@ -43,22 +44,22 @@ that the Instagram post does not uphold a mission "that is accessible to all stu
 <div class="figure-container">
   <div class="figure-row">
     <figure id="fig:cac-instagram-post-1">
-      <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_1.png')" data-title="CAC Instagram post part 1">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_1.png')">
         <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1">
-      </a>
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
     </figure>
-
     <figure id="fig:cac-instagram-post-2">
-      <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_2.png')" data-title="CAC Instagram post part 2">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_2.png')">
         <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" alt="CAC Instagram post part 2">
-      </a>
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
     </figure>
   </div>
   <figcaption class="single-caption">
     CAC Instagram posts part 1 and part 2
   </figcaption>
 </div>
-
 
 <figure id="fig:CAC-block-resign" class="float-right">
 <a href="/images/2024-05-20/early-messaging/cac-pig-insta.png" data-lightbox="cac-posts" data-title="Demands Gene Block Resign">
