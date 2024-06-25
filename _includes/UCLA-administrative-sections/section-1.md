@@ -2,15 +2,16 @@ Among the main contributors to the "Pro-Palestinian" protest movement are Studen
 the<a href="https://www.instagram.com/ucladivest/" style="color:#0F52BA; text-decoration:none">&nbsp;UC Divest Coalition,
 </a> and Faculty for Justice in Palestine. These groups have led the way in messaging and demands, 
 and have received support from students, faculty, the UAW and other student organizations.
-## Here are words one would say
 
-One organization that has joined in strong support of the movement is the<a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;UCLA Cultural Affairs Commission (CAC).</a>
+
+## Here are words one would say 
+<p>One organization that has joined in strong support of the movement is the<a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;UCLA Cultural Affairs Commission (CAC).</a>
 The org's messaging on their UCLA hosted webpage is somewhat benign, stating 
 "The mission of the Cultural Affairs Commission (CAC) is to put on quality programming with cultural, political, or 
 social relevance that is accessible to all students." One of the first 4 Undergraduate Student Association Council (USAC) 
 organizations founded, the CAC has been active at UCLA for more than 50 years. Funding to support USAC organizations comes from 
 "student activity fees", a part of tuition paid by every student. This means that serving "all students" is not only a mission, 
-but a responsibility. 
+but a responsibility. <p>
 
 <div class="lightbox-trigger" style="width: 85%;">
   <figure id="fig:cac-org-website" style="width: 100%; height: auto;">
@@ -24,21 +25,10 @@ but a responsibility.
   <span class="maximize-icon">&#x26F6;</span>
 </div>
 
-In 2018 the serving commissioner expressed what he identified as "the problematic culture that exists at the University, which inadvertently 
+<p>In 2018 the serving commissioner expressed what he identified as "the problematic culture that exists at the University, which inadvertently 
 oppresses [marginalized] individuals on the basis of race, gender, religion, etc."[^49]. These views indicate a level of distrust in UCLA's ability 
 to maintain an inclusive and fair environment on campus. Whether this distrust escalated to creating a potentially toxic environment within the org 
-itself, and for how long, is unknown. 
-
-On October 9th, 2023 CAC posted the message on its Instagram profile. 
-It is clear the CAC understands the events of Oct 7th to be part of the Palestinian struggle in "liberation from Israel" as
-opposed to a terrorist attack by Hamas. While First Amendment rights protects these views, even if they are "extreme", the 
-post calls into question the use of USAC funds to support this messaging. 
-
-The statement goes on to say it's possible to criticize the policies or actions of the Israeli government 
-without being antisemitic. However, at the end of the message are the words "From the River to the Sea, Palestine Will Be Free". Regardless of whether
-this phrase is generally considered threatening rhetoric, it is clear that a USAC funded organization must function on behalf of all students, at least
-insofar as the complete omission of threatening language towards any single group. It is clear 
-that the Instagram post does not uphold a mission "that is accessible to all students" with respect to either the timing or the political position of this post. 
+itself, and for how long, is unknown. <p>
 
 
 <div class="figure-container">
@@ -60,16 +50,28 @@ that the Instagram post does not uphold a mission "that is accessible to all stu
     CAC Instagram posts part 1 and part 2
   </figcaption>
 </div>
+<p>On October 9th, 2023 CAC posted the message on its Instagram profile. 
+It is clear the CAC understands the events of Oct 7th to be part of the Palestinian struggle in "liberation from Israel" as
+opposed to a terrorist attack by Hamas. While First Amendment rights protects these views, even if they are "extreme", the 
+post calls into question the use of USAC funds to support this messaging.<p> 
 
-<figure id="fig:CAC-block-resign" class="float-right">
-<a href="/images/2024-05-20/early-messaging/cac-pig-insta.png" data-lightbox="cac-posts" data-title="Demands Gene Block Resign">
-  <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" alt="CAC Block Resignation" style="width: 100%; height: auto;">
-</a>
-<figcaption>
-  Demands Gene Block Resign
-</figcaption>
-</figure>
+<p>The statement goes on to say it's possible to criticize the policies or actions of the Israeli government 
+without being antisemitic. However, at the end of the message are the words "From the River to the Sea, Palestine Will Be Free". Regardless of whether
+this phrase is generally considered threatening rhetoric, it is clear that a USAC funded organization must function on behalf of all students, at least
+insofar as the complete omission of threatening language towards any single group. It is clear 
+that the Instagram post does not uphold a mission "that is accessible to all students" with respect to either the timing or the political position of this post.<p> 
 
+<div class="lightbox-trigger float-right" style="width: 85%;">
+  <figure id="fig:CAC-block-resign" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/cac-pig-insta.png')" data-title="Demands Gene Block Resign">
+      <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" alt="CAC Block Resignation" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Demands Gene Block Resign
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
 
 
 

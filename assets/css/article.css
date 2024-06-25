@@ -13,7 +13,7 @@ html {
 body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.7;
-    color: #333;
+    color:#222;
     font-size: 1rem;
     -webkit-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
@@ -94,7 +94,7 @@ header {
     max-width: 800px;
     margin: -50px auto 0 auto;
     color: #fff;
-    padding: 0px 0px 30px 20px;
+    padding: 0px 0px 25px 20px;
     z-index: 3;
 }
 
@@ -111,9 +111,8 @@ header {
     margin-bottom: 0 !important; /* Force bottom margin to 0 */
     line-height: 1.3;
     font-weight: 500;
+   
 }
-
-
 
 
 /* Container for Title and Meta Info */
@@ -169,16 +168,10 @@ header {
 .article-container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 25px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
 }
 
 /* Article Styling */
-.article-container p {
-    font-size: inherit;
-    font-family: 'Merriweather', Times, serif;
-    line-height: 1.6;
-	font-weight: 500;
-}
 
 /* Header and Subheader Styling */
 .article-container h1, .article-container h2 {
@@ -193,9 +186,19 @@ header {
 
 .article-container h2 {
     font-size: 1.4rem;
-    padding: clamp(30px, 4vw, 30px) 0px 15px 0px!important; /* Responsive top padding */
+    margin-top: .7em !important; /* Adjust as needed for top margin */
+    margin-bottom: -0.4em !important; /* Reduced bottom margin */
     font-family: 'Merriweather', Times, serif;
     font-weight: 600;
+}
+
+.article-container p {
+    font-size: inherit;
+    font-family: 'Merriweather', Times, serif;
+    line-height: 1.7;
+    font-weight: 500;
+    margin: 1.5em 0; /* Larger margin for more space between paragraphs */
+    padding: 0;
 }
 
 /* Image Caption */
@@ -208,7 +211,7 @@ figure {
     max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
     margin: auto; /* Centers the figure */
     text-align: center; /* Centers the text caption */
-	padding:  30px 0px 0px 0px;
+	padding:  25px 0px 0px 0px;
 }
 
 figcaption {
@@ -221,7 +224,7 @@ figcaption {
     font-size: 0.9em;
     display: flex;
     align-items: center;
-	padding:  0px 0px 30px 0px;
+	padding:  0px 0px 25px 0px;
 }
 
  .figure-container {
@@ -259,7 +262,7 @@ figcaption {
 .headline-photo-container {
     position: relative;
     width: 100%;
-    margin: -100px auto 0 auto;
+    margin: -80px auto 0 auto;
     max-width: 800px;
     padding: 0 20px;
     z-index: 1;
@@ -290,7 +293,7 @@ figcaption {
 .headline-photo-container figcaption .photographer-credit {
     font-family: 'Courier New', Courier, monospace;
     color: #666;
-    margin-top: 2.9px;
+    margin-top: 2.1px;
     white-space: nowrap;
     margin-left: 10px;
     font-size: 0.9em;
@@ -307,12 +310,12 @@ figcaption {
     
     .title-bar h1 {
         font-size: clamp(2em, 5vw, 2.2em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 15px); /* Clamped margin-bottom */
     }
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 3vw, 1.4rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 15px) !important; /* Clamped margin-top */
     }
     
     .article-container h1 {
@@ -336,12 +339,12 @@ figcaption {
     
     .title-bar h1 {
         font-size: clamp(2.2em, 6vw, 2.5em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 5px); /* Clamped margin-bottom */
     }
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 3.5vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 5px) !important; /* Clamped margin-top */
     }
 }
 
@@ -352,19 +355,19 @@ figcaption {
     
     .title-bar h1 {
         font-size: clamp(2.5em, 7vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 20px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 5px); /* Clamped margin-bottom */
     }
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 4vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 20px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 5px) !important; /* Clamped margin-top */
     }
 }
 
 @media (min-width: 1024px) {
     .title-bar h1 {
         font-size: clamp(2.8em, 8vw, 3em); /* Lower upper bound for title */
-        margin-bottom: clamp(10px, 3vw, 15px); /* Clamped margin-bottom */
+        margin-bottom: clamp(5px, 3vw, 5px); /* Clamped margin-bottom */
     }
     body {
         font-size: 1rem; /* Adjust as needed */
@@ -372,7 +375,7 @@ figcaption {
     
     .title-bar .title-explanation {
         font-size: clamp(1.2rem, 4.5vw, 1.5rem); /* Lower upper bound for explanation */
-        margin-top: clamp(10px, 3vw, 15px) !important; /* Clamped margin-top */
+        margin-top: clamp(5px, 3vw, 5px) !important; /* Clamped margin-top */
     }
 }
 
