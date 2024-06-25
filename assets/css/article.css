@@ -448,13 +448,6 @@ figcaption {
 
 }
 
-/* Additional Styles for Mobile and Landscape */
-@media (max-width: 768px) and (orientation: landscape) {
-    .lightbox {
-        width: 100vw !important;
-        height: 100vh !important;
-    }
-}
 /* below is for any double figures */
 .lightbox-trigger {
     position: relative;
