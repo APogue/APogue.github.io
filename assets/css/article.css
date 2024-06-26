@@ -391,6 +391,8 @@ figcaption {
     top: 0 !important;
     width: 100% !important;
     height: 100% !important;
+	min-width: 100vw !important;
+    min-height: 100vh !important; /* Add this line */
     min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
     background-color: rgba(177, 0, 255, 0.5);
