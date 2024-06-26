@@ -391,7 +391,6 @@ figcaption {
     top: 0 !important;
     width: 100% !important;
     height: 100% !important;
-    min-height: 100vh !important; /* Add this line */
     min-height: -webkit-fill-available !important; /* Add this line for iOS */
     overflow: hidden;
     background-color: rgba(177, 0, 255, 0.5);
@@ -484,15 +483,3 @@ figcaption {
 }
 
 
-
-#lightbox .img img {opacity: 0; pointer-events: none; width: auto;}
-@media screen and (min-width: 1200px) {
-    #lightbox .img {
-        max-width: 1200px;
-    }
-}
-@media screen and (min-height: 1200px) {
-    #lightbox .img {
-        max-height: 1200px;
-    }
-}
