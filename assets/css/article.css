@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* General Body Styling */
@@ -95,7 +96,7 @@ header {
     margin: -75px auto 0 auto;
     color: #fff;
     padding: 0px 0px 15px 20px;
-	padding-right:20px;
+    padding-right: 20px;
     z-index: 3;
 }
 
