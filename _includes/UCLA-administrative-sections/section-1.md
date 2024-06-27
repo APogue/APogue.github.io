@@ -13,15 +13,15 @@ organizations founded at UCLA, the CAC has been active for more than 50 years wi
     </a>
     <figcaption>
     <a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;Official UCLA CAC&nbsp;</a>
-	student organization website where they state their mission is "quality programming with cultural, political, or social relevance that is 
-	accessible to all students."
+	student organization website where they state their mission is &ldquo;quality programming with cultural, political, or social relevance that is 
+	accessible to all students.&rdquo;
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
 </div>
 
 <p>In 2018 the serving commissioner<a href="https://femmagazine.com/cultural-affairs-commission-year-in-review/" style="color:#0F52BA; text-decoration:none">&nbsp;observed</a> a
-"problematic culture that exists at the University, which inadvertently oppresses [marginalized] individuals on the basis of race, gender, religion, etc." These views 
+&ldquo;problematic culture that exists at the University, which inadvertently oppresses [marginalized] individuals on the basis of race, gender, religion, etc.&rdquo; These views 
 indicate a level of distrust in UCLA's ability to maintain an inclusive and fair environment on campus. Whether this distrust escalated into creating a potentially toxic culture within the org 
 itself, and for how long, is unknown.<p>
 
@@ -43,15 +43,15 @@ itself, and for how long, is unknown.<p>
   </div>
   <figcaption class="single-caption">
     <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
-	part dated October 9th, 2023 regarding the events of October 7th. They state that "decolonization is not a metaphor. Thus we honor the Palestinians
-	 on the frontlines taking their land and sovereignty back!"
+	part dated October 9th, 2023 regarding the events of October 7th. They state that &ldquo;decolonization is not a metaphor. Thus we honor the Palestinians
+	 on the frontlines taking their land and sovereignty back!&rdquo;
   </figcaption>
 </div>
 
 <p>On October 9th, 2023 CAC posted the above message on its Instagram (IG) profile. 
 The political message clearly shows the CAC's position on the events of Oct 7th. 
-Considering timing, and with mention of "Palestinians on the frontlines" and "From the River to The Sea, Palestine Will Be Free" the post indicates they are siding with Hamas; implying the 
-Hamas-led attacks on civilians were necessary to "liberate from Isreal." While First Amendment rights protect these views, 
+Considering timing, and with mention of &ldquo;Palestinians on the frontlines&rdquo; and &ldquo;From the River to The Sea, Palestine Will Be Free&rdquo; the post indicates they are siding with Hamas; implying the 
+Hamas-led attacks on civilians were necessary to &ldquo;liberate from Isreal.&rdquo; While First Amendment rights protect these views, 
 the post calls into question the use of student tuition funds to support this messaging.<p> 
 
 <div class="figure-container">
@@ -79,7 +79,7 @@ the post calls into question the use of student tuition funds to support this me
 <p>Even more troubling is the use of imagery that references a Nazi classification system taken from an IG post dated April 25th (images above). 
 <a href="https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/" 
 style="color:#0F52BA; text-decoration:none">&nbsp;A Trump ad </a>was removed by Facebook for using the same imagery—
-"The social media company said the ads violated its policies against 'organized hate.'" While at face value the red triangle references 
+&ldquo;The social media company said the ads violated its policies against &ldquo;organized hate.&rdquo;&rdquo; While at face value the red triangle references 
 a Nazi concentration camp <a href="https://encyclopedia.ushmm.org/content/en/article/classification-system-in-nazi-concentration-camps" 
 style="color:#0F52BA; text-decoration:none">political prisoner</a>, the true meaning for the triangle is unknown. It 
 could be alluding to any targeted group for Nazi hate, but is colored red in reference to the Palestinian flag; hate 'in the name of' Palestine so to speak.<p>
@@ -151,5 +151,5 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
 
 
 
-<p>Based on their USAC affiliation, CAC should not have any content on public facing sites they aren't willing to post on their UCLA hosted site. Their 
-content directly contradicts their mission *to be accessible to all students*. 
+<p>Based on their USAC affiliation, CAC should not have any content on public facing sites they aren’t willing to post on their UCLA hosted site. Their 
+content directly contradicts their mission <i>to be accessible to all students<i>. <p>
