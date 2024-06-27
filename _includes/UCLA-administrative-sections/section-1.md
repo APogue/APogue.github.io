@@ -157,17 +157,3 @@ Other groups are "tagged" by CAC as can be seen in a few of the above screenshot
 
 
 
-
-
-
-
-
-
-[^44]:[UC Divest at UCLA Instagram](https://www.instagram.com/ucladivest/)
-[^45]:[CAC official UCLA website](https://community.ucla.edu/studentorg/623)
-[^46]:[Op-ed: Antisemitic imagery at UC Regents meeting](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse)
-[^47]:[Trump ad using Nazi symbol](https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/)
-[^48]:[USAC associated students at protests](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)
-[^49]:[CAC and FEM Magazine](https://femmagazine.com/cultural-affairs-commission-year-in-review/)
-[^50]:[Classification Nazi Concentration camps](https://encyclopedia.ushmm.org/content/en/article/classification-system-in-nazi-concentration-camps)
-[^51]: [SJP official UCLA website](https://community.ucla.edu/studentorg/90)

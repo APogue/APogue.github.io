@@ -98,6 +98,7 @@ header {
     margin: -75px auto 0 auto;
     color: #fff;
     padding: 0px 0px 15px 20px;
+	padding-right:20px;
     z-index: 3;
 }
 
@@ -105,8 +106,6 @@ header {
     font-size: clamp(2em, 5vw, 3em);
     font-weight: 800;
     line-height: 1.2;
-	padding-left: 20px;
-    padding-right: 20px;
 }
 
 /* Title Explanation Styling */
