@@ -2,7 +2,7 @@
 layout: article_layout
 title: "In the Aftermath of the Protest Events People Should be Talking, and UCLA Needs to Come to the Table"
 date: 2024-05-30
-published: false
+published: true
 ---
 ## Context and Objective <span id="Context and Objective"></span>
 {% include sections/Intro.md %}
