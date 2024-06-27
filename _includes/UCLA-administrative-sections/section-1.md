@@ -138,7 +138,8 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
       <img src="/images/2024-05-20/early-messaging/cac-pig-insta.png" alt="CAC Block Resignation" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-     CAC Demands Gene Block Resign after the pro-Palestinian encampment was shut down in a<a href="https://www.instagram.com/p/C6sht0ROgJk/" style="color:#0F52BA; text-decoration:none">&nbsp;post dated May 7th.</a>
+     CAC Demands Gene Block Resign after the pro-Palestinian encampment was shut down in 
+	 a<a href="https://www.instagram.com/p/C6sht0ROgJk/" style="color:#0F52BA; text-decoration:none">&nbsp;post dated May 7th.</a>
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
