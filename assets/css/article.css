@@ -152,7 +152,7 @@ header {
 	font-family: 'Courier New', Courier, monospace; /* Polished monospace font */
 	font-size: .8em!important;
 	line-height: 1.2;
-    color: #777;
+    color: #888;
     margin-bottom: 0px;
     margin-top: 15px;
 	font-weight: 600;
@@ -227,7 +227,7 @@ figcaption {
     margin-top: 5px;
     margin-bottom: 0px;
     max-width: calc(100% - 60px); /* Force wrapping within the margins */
-    font-size: 1em;
+    font-size: .95em;
     width: 100%;
     display: inline-block; /* Changed to inline-block */
     white-space: normal; /* Ensures normal text wrapping */
@@ -273,7 +273,7 @@ figcaption a {
     margin-bottom: 0px !important;
     padding-left: 0;
     padding-right: 0;
-    font-size: 1em;
+    font-size: .95em;
     width: 100%;
     display: inline;
     white-space: normal;
@@ -308,24 +308,27 @@ figcaption a {
     margin-top: 5px;
     padding-left: 0;
     padding-right: 0;
-    font-size: .9em;
+    font-size: .95em;
     display: flex;
     flex-wrap: wrap; /* Allow wrapping */
     justify-content: left; /* Center the content horizontally */
     align-items: center; /* Center the content vertically */
+	 white-space: normal; /* Ensure the text doesn't break */
+	 max-width: calc(100%); /* Force wrapping within the margins */
+
 }
 
 .headline-photo-container figcaption .photographer-credit {
     font-family: 'Courier New', Courier, monospace;
     color: #444;
-    white-space: nowrap; /* Prevent breaking */
-    font-size: .9em;
+    white-space: normal; /* Prevent breaking */
+    font-size: .95em;
     margin-left: 0px; /* Add some space between elements */
 	margin-top: 3px;
 }
 
 .headline-photo-container figcaption .nowrap-text {
-    white-space: nowrap; /* Ensure the text doesn't break */
+    white-space: normal; /* Ensure the text doesn't break */
 }
 
 
