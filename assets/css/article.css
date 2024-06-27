@@ -20,6 +20,20 @@ body {
     -ms-text-size-adjust: 100%;
     text-size-adjust: 100%;
 }
+/* Ensure content is centered and fits within the viewport on mobile devices */
+body {
+    overflow-x: hidden;
+}
+
+.container,
+.article-container,
+.headline-photo-container,
+.nav-links {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
 
 /* Navigation */
 nav {
