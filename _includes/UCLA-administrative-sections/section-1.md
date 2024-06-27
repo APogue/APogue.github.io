@@ -23,26 +23,7 @@ organizations founded at UCLA, the CAC has been active for more than 50 years wi
 indicate a level of distrust in UCLA's ability to maintain an inclusive and fair environment on campus. Whether this distrust escalated into creating a potentially toxic culture within the org 
 itself, and for how long, is unknown.<p>
 
-<div class="figure-container">
-  <div class="figure-row">
-    <figure id="fig:cac-instagram-post-1">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_1.png')">
-        <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
-    <figure id="fig:cac-instagram-post-2">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_2.png')">
-        <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" alt="CAC Instagram post part 2">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
-  </div>
-  <figcaption class="single-caption">
-    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
-	part dated October 9th, 2023 regarding the events of October 7th.
-  </figcaption>
-</div>
+
 
 <p>On October 9th, 2023 CAC posted the above message on its Instagram profile. 
 The political message clearly shows the CAC's position on the events of Oct 7th. 

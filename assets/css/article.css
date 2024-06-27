@@ -7,13 +7,13 @@
 
 /* General Body Styling */
 html {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    line-height: 1.6;
-    color: #333;
+    line-height: 1.7;
+    color:#222;
     font-size: 1rem;
     -webkit-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
@@ -92,9 +92,9 @@ header {
 
 .title-bar {
     max-width: 800px;
-    margin: -20px auto 0 auto;
+    margin: -75px auto 0 auto;
     color: #fff;
-    padding: 0px 0px 30px 20px;
+    padding: 0px 0px 15px 20px;
     z-index: 3;
 }
 
@@ -104,6 +104,16 @@ header {
     font-weight: 800;
     line-height: 1.2;
 }
+
+/* Title Explanation Styling */
+.title-explanation {
+    color: #fff; /* Adjust color as needed */
+    margin-bottom: 0 !important; /* Force bottom margin to 0 */
+    line-height: 1.3;
+    font-weight: 500;
+   
+}
+
 
 /* Container for Title and Meta Info */
 .container {
@@ -115,41 +125,46 @@ header {
 /* Article Meta */
 .article-meta {
     text-align: left;
-    margin-top: 20px;
+    margin-top: -20px;
 }
 
 .social-links {
     display: flex;
     align-items: center;
     margin-bottom: 5px;
-    margin-top: 0px;
+    margin-top: 35px;
 }
 
 .social-links a {
     margin-right: 10px;
-    color: black;
-    font-size: 1.2em;
+    color:  #333;
+    font-size: 1.3em;
+	
 }
 
 .social-links a:hover {
-    color: #333;
+    color: pink;
+	
 }
 
 .date {
-    color: #555;
-    font-size: 0.8em;
-    margin-bottom: 10px;
-    margin-top: 10px;
+	font-family: 'Courier New', Courier, monospace; /* Polished monospace font */
+	font-size: .8em!important;
+	line-height: 1.2;
+    color: #777;
+    margin-bottom: 0px;
+    margin-top: 15px;
+	font-weight: 600;
 }
 
 /* Author Name Styling */
 .author-name {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto condensed', sans-serif;
     font-size: 1.1em;
     color: #333;
     margin-bottom: 0px;
-    margin-top: 10px;
-    font-weight: 900;
+    margin-top: 5px;
+    font-weight: 700;
 }
 
 /* Article Container */
@@ -160,11 +175,6 @@ header {
 }
 
 /* Article Styling */
-.article-container p {
-    font-size: inherit; /* Inherit font size from body */
-    font-family: 'Merriweather', Times, serif;
-    line-height: 1.6;
-}
 
 /* Header and Subheader Styling */
 .article-container h1, .article-container h2 {
@@ -178,28 +188,101 @@ header {
 }
 
 .article-container h2 {
-    font-size: 1.5rem;
-    padding: 10px 0;
+    font-size: 1.4rem;
+    margin-top: 1.2em !important; /* Adjust as needed for top margin */
+    margin-bottom: -0.5em !important; /* Reduced bottom margin */
+    font-family: 'Merriweather', Times, serif;
+    font-weight: 600;
+}
+
+.article-container p {
+    font-size: inherit;
+    font-family: 'Merriweather', Times, serif;
+    line-height: 1.7;
+    font-weight: 500;
+    margin: 1.5em 0; /* Larger margin for more space between paragraphs */
+    padding: 0;
 }
 
 /* Image Caption */
+/* General Styles */
 img {
     display: block;
     margin: 0 auto;
 }
 
-figcaption {
-    text-align: center;
-    font-style: italic;
-    color: #777;
-    margin-top: 5px;
+figure {
+    max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
+    margin: auto; /* Centers the figure */
+    text-align: center; /* Centers the text caption */
+    padding: 10px 0px 0px 0px;
 }
+
+/* Single Figure Caption */
+figcaption {
+    text-align: center; /* Center the text */
+    font-style: normal;
+    color: #333;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: .9em;
+    width: 100%;
+    display: inline-block; /* Changed to inline-block */
+    white-space: normal; /* Ensures normal text wrapping */
+    line-height: 1.2;
+}
+
+figcaption a {
+    display: inline;
+    white-space: nowrap; /* Ensures link text doesn't break */
+}
+
+
+
+.figure-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.figure-row {
+    display: flex;
+    justify-content: center; /* Center the figures as one unit */
+    gap: 5px; /* Adjust gap as needed */
+    margin: 0;
+    width: 100%;
+}
+
+.figure-row figure {
+    margin: 0;
+    position: relative;
+}
+
+.single-caption {
+    text-align: center;
+    font-style: normal;
+    color: #333;
+    margin-top: 5px !important;
+    margin-bottom: 0px !important;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: .9em;
+    width: 100%;
+    display: inline;
+    white-space: normal;
+	line-height: 1.2;
+}
+
 
 /* Container for Headline Photo */
 .headline-photo-container {
     position: relative;
     width: 100%;
-    margin: -100px auto 0 auto;
+    margin: -80px auto 0 auto;
     max-width: 800px;
     padding: 0 20px;
     z-index: 1;
@@ -216,39 +299,50 @@ figcaption {
 
 /* Caption Styling */
 .headline-photo-container figcaption {
-    text-align: left;
+    text-align: center;
     font-style: normal;
     color: #333;
     margin-top: 5px;
     padding-left: 0;
     padding-right: 0;
-    font-size: 0.9em;
+    font-size: .9em;
     display: flex;
-    align-items: center;
+    flex-wrap: wrap; /* Allow wrapping */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
 }
 
 .headline-photo-container figcaption .photographer-credit {
     font-family: 'Courier New', Courier, monospace;
-    color: #666;
-    margin-top: 2.9px;
-    white-space: nowrap;
-    margin-left: 10px;
-    font-size: 0.9em;
+    color: #444;
+    white-space: nowrap; /* Prevent breaking */
+    font-size: .9em;
+    margin-left: 5px; /* Add some space between elements */
+	margin-top: 3px;
 }
+
+.headline-photo-container figcaption .nowrap-text {
+    white-space: nowrap; /* Ensure the text doesn't break */
+}
+
 
 /* Media Queries */
 @media screen and (max-width: 926px) {
     html {
-        font-size: 18px;
-    }html {
-        font-size: 18px;
+        font-size: 14px;
     }
     body {
-        font-size: 1rem; /* This will be 18px due to html font-size */
+        font-size: 1rem;
     }
     
     .title-bar h1 {
-        font-size: clamp(1.5em, 5vw, 2.5em);
+        font-size: clamp(2em, 5vw, 2.2em); /* Lower upper bound for title */
+        margin-bottom: clamp(15px, 3vw, 15px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3vw, 1.4rem); /* Lower upper bound for explanation */
+        margin-top: clamp(15px, 3vw, 15px) !important; /* Clamped margin-top */
     }
     
     .article-container h1 {
@@ -258,34 +352,162 @@ figcaption {
     
     .article-container h2 {
         font-size: 1.4rem;
-        padding: 8px 0;
+        padding: 0px 0;
     }
 }
 
 @media screen and (max-width: 926px) and (orientation: landscape) {
-   html {
-        font-size: 18px;
+    html {
+        font-size: 14px;
     }
     body {
         font-size: 1rem;
     }
+    
+    .title-bar h1 {
+        font-size: clamp(2.2em, 6vw, 2.5em); /* Lower upper bound for title */
+        margin-bottom: clamp(15px, 3vw, 15px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 3.5vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(15px, 3vw, 15px) !important; /* Clamped margin-top */
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-    .title-bar h1 {
-        font-size: clamp(2em, 5vw, 3em);
+    body {
+        font-size: 1rem; /* Adjust as needed */
     }
-	
-body {
-        font-size: 1.125rem; /* Adjust as needed */
+    
+    .title-bar h1 {
+        font-size: clamp(2.5em, 7vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(15px, 3vw, 15px); /* Clamped margin-bottom */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 4vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(15px, 3vw, 15px) !important; /* Clamped margin-top */
     }
 }
+
 @media (min-width: 1024px) {
     .title-bar h1 {
-        font-size: clamp(2.5em, 5vw, 3.5em);
+        font-size: clamp(2.8em, 8vw, 3em); /* Lower upper bound for title */
+        margin-bottom: clamp(15px, 3vw, 20px); /* Clamped margin-bottom */
     }
-	 body {
-        font-size: 1.25rem; /* Adjust as needed */
+    body {
+        font-size: 1rem; /* Adjust as needed */
+    }
+    
+    .title-bar .title-explanation {
+        font-size: clamp(1.2rem, 4.5vw, 1.5rem); /* Lower upper bound for explanation */
+        margin-top: clamp(15px, 3vw, 20px) !important; /* Clamped margin-top */
     }
 }
+
+
+/* Lightbox CSS */
+.lightbox {
+    display: flex !important;
+    position: fixed !important;
+    z-index: 9999 !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+	/* Next couple lines are likely redundant: min-width, min-height */
+	min-width: 100vw !important;
+    min-height: 100vh !important; /* Add this line */
+    min-height: -webkit-fill-available !important; /* Add this line for iOS */
+    overflow: hidden;
+    background-color: rgba(177, 0, 255, 0.5);
+    justify-content: center !important;
+    align-items: center !important;
+    transition: opacity 0.2s ease-in-out;
+    opacity: 0;
+    pointer-events: none;
+    cursor: pointer;
+}
+
+/* ... rest of your CSS remains the same ... */
+.lightbox.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.lightbox-content {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain;
+    transition: all 0.2s ease-in-out;
+    transform: scale(0.9);
+    cursor: default;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.lightbox.show .lightbox-content {
+    transform: scale(1);
+}
+
+.close {
+    position: absolute !important;
+    top: 20px !important;
+    right: 35px !important;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: color 0.3s;
+    z-index: 10000;
+    cursor: pointer;
+}
+
+/* Additional Styles for Mobile and Landscape */
+@media (max-width: 768px), (orientation: landscape) {
+    .lightbox-content {
+        width: auto !important;
+        height: auto !important;
+        max-width: 100% !important;
+        max-height: 100% !important;
+        object-fit: contain;
+    }
+}
+/* below is for any double figures */
+.lightbox-trigger {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto; /* Center the lightbox-trigger div */
+}
+
+.maximize-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 1;
+    cursor: zoom-in;
+}
+
+
+.lightbox-trigger figure {
+    margin: 0; /* Remove default figure margin */
+    width: 100%;
+}
+
+.lightbox-trigger img {
+    cursor: zoom-in;
+    width: 100%;
+    height: auto;
+}
+
 
