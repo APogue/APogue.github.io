@@ -12,7 +12,9 @@ organizations founded at UCLA, the CAC has been active for more than 50 years wi
       <img src="/images/2024-05-20/early-messaging/CAC.png" alt="CAC official UCLA student organization website" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-    <a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;Official UCLA CAC&nbsp;</a>student organization website.
+    <a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;Official UCLA CAC&nbsp;</a>
+	student organization website where they state their mission is "quality programming with cultural, political, or social relevance that is 
+	accessible to all students."
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
@@ -41,14 +43,15 @@ itself, and for how long, is unknown.<p>
   </div>
   <figcaption class="single-caption">
     <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
-	part dated October 9th, 2023 regarding the events of October 7th.
+	part dated October 9th, 2023 regarding the events of October 7th. They state that "decolonization is not a metaphor. Thus we honor the Palestinians
+	 on the frontlines taking their land and sovereignty back!"
   </figcaption>
 </div>
 
-<p>On October 9th, 2023 CAC posted the above message on its Instagram profile. 
+<p>On October 9th, 2023 CAC posted the above message on its Instagram (IG) profile. 
 The political message clearly shows the CAC's position on the events of Oct 7th. 
 Considering timing, and with mention of "Palestinians on the frontlines" and "From the River to The Sea, Palestine Will Be Free" the post indicates they are siding with Hamas; implying the 
-Hamas-led attacks on civilians were necessary to "liberate from Isreal." While First Amendment rights protects these views, 
+Hamas-led attacks on civilians were necessary to "liberate from Isreal." While First Amendment rights protect these views, 
 the post calls into question the use of student tuition funds to support this messaging.<p> 
 
 <div class="figure-container">
@@ -127,7 +130,7 @@ again displaying the triangle.<p>
 
 
 
-<p>In response to UCLA's handling of the protest events, the CAC posted again, this time with the above affixing the UCLA Chancellor (who is Jewish) Gene Block’s face to the body of a pig wearing a 
+<p>In response to UCLA's handling of the protest events, the CAC posted again, this time with the below image affixing the UCLA Chancellor (who is Jewish) Gene Block’s face to the body of a pig wearing a 
 police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetoric, combines antisemitic stereotypes with derogatory slang for police officers.<p> 
 
 
@@ -148,13 +151,5 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
 
 
 
-<p>Based on their USAC affiliation, CAC should not have any content on any of their public facing sites they aren't willing to post on their UCLA hosted site. Their 
-content directly contradicts their mission *to be accessible to all students*. To the best of the author's knowledge, no other organization, USAC-affiliate or not, has any content displaying Nazi insignia or hateful imagery. 
-Other groups are "tagged" by CAC as can be seen in a few of the above screenshots, which does mean the content is also displayed on their Instagram profiles.<p>
-
-
-
-
-
-
-
+<p>Based on their USAC affiliation, CAC should not have any content on public facing sites they aren't willing to post on their UCLA hosted site. Their 
+content directly contradicts their mission *to be accessible to all students*. 
