@@ -1,6 +1,10 @@
 
+## Radical activity following Oct 7th was a warning sign
 
-## Radical activity following Oct 7th were a warning sign
+
+
+
+
 
 One organization in particular, the UCLA Cultural Affairs Commission<a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;(CAC), </a> has shown strong
 support for the pro-Palestinian movement. The org's messaging on their UCLA hosted webpage is shown in the image below. As one of the first Undergraduate Student Association Council (USAC) 
@@ -161,3 +165,8 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
 
 Based on their USAC affiliation, CAC should not have any content on public facing sites they aren’t willing to post on their UCLA hosted site. Their 
 content directly contradicts their mission *to be accessible to all students*.
+
+
+
+
+## Could the UC System be hiding the *real problem*?
