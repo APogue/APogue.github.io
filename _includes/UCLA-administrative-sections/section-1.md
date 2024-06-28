@@ -1,4 +1,28 @@
 
+
+At the time of the pro-Palestinian protests at UCLA that would ultimately lead to violence that made national headlines, other students were mostly caught up watching livestreams 
+as helicopters hovered overhead, loud enough to interrupt meetings. I, on the other hand, happened upon a [Daily Bruin article](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment), 
+
+
+“Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and 
+Chancellor Gene Block with horns on his head – is antisemitic. 
+“I feel very uncomfortable,” he said. “I might skip my classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on campus."
+
+
+Surprised by what was going on, I sought other sources of information that were “raw” like the livestreams, but in a different way. Sifting through Reddit I noticed polemic and controversial conversations that
+gladly took ownership of certain “identities” associated with the pro-Palesinian movement and the campus climate that was becoming a product of it. To further understand who 
+bore these identities and why, I read Instagram (IG) posts directly from the individuals driving the movement and those otherwise involved (by choice or by circumstance). I discovered voices from all sides of the issue, and distilling 
+the alarming elements---those contributing to the bullying, harrassment, or civil rights infringements of other students as well as those who were victims of it. 
+
+
+Why have these voices been allowed to continue for so long unchecked and unnoticed? Through the aggregation of “data” from Twitter, UCLA webpages, 
+and other open source materials I found that administrative apathy, or perhaps complacency or even "negligence" together with student misconduct have become what I believe is the lifeblood of civil rights infringements and 
+dangerous incidents that continue to occur at UCLA. 
+
+
+ 
+
+
 ## Radical activity following Oct 7th was a warning sign
 
 
@@ -61,7 +85,7 @@ the post calls into question the use of student tuition funds to support this me
 
 ## Antisemitic incidents at the protest were going "unnoticed"  
 
-Even more troubling is showcasing the use of Nazi insignia in an IG post dated April 25th (below). 
+Even more troubling is the showcasing of Nazi insignia in an IG post dated April 25th (below). 
 <a href="https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/" 
 style="color:#0F52BA; text-decoration:none">&nbsp;A Trump ad </a>was removed by Facebook for using the same imagery—
 &ldquo;The social media company said the ads violated its policies against &ldquo;organized hate.&rdquo;&rdquo; While at face value the red triangle references 
