@@ -1,6 +1,6 @@
 
 
-At the time of the pro-Palestinian protests at UCLA that would ultimately lead to violence that made national headlines, other students were mostly caught up watching livestreams 
+When the pro-Palestinian protests---that ultimately led to violence that made national headlines---were happening at UCLA, other students were mostly caught up watching livestreams 
 as helicopters hovered overhead, loud enough to interrupt meetings. I, on the other hand, happened upon a [Daily Bruin article](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment), 
 
 
@@ -9,9 +9,9 @@ Chancellor Gene Block with horns on his head – is antisemitic.
 “I feel very uncomfortable,” he said. “I might skip my classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on campus."
 
 
-Surprised by what was going on, I sought other sources of information that were “raw” like the livestreams, but in a different way. Sifting through Reddit I noticed polemic and controversial conversations that
+Surprised by what was going on, I sought other sources of information that were “raw” like the livestreams, but in a different way. Sifting through [Reddit](https://www.reddit.com/r/ucla/) I noticed polemic and controversial conversations that
 gladly took ownership of certain “identities” associated with the pro-Palesinian movement and the campus climate that was becoming a product of it. To further understand who 
-bore these identities and why, I read Instagram (IG) posts directly from the individuals driving the movement and those otherwise involved (by choice or by circumstance). I discovered voices from all sides of the issue, and distilling 
+bore these identities and why, I read Instagram (IG) posts directly from the individuals driving the movement and those otherwise involved (by choice or by circumstance). Here I discovered voices from all sides of the issue, and distilling 
 the alarming elements---those contributing to the bullying, harrassment, or civil rights infringements of other students as well as those who were victims of it. 
 
 
