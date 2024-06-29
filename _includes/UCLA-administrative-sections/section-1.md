@@ -2,7 +2,7 @@
 
 When the pro-Palestinian protests became so violent at UCLA they were making [national headlines](https://x.com/loisbeckett/status/1785843179801153865), students stayed informed by watching the livestreams
 coming from helicopters hovering overhead, annoying and loud enough to interrupt meetings. I, on the other hand, decided on the [Daily Bruin](https://dailybruin.com) for
-my news and it turned out to be much more than just a good "ear to the ground" from a school paper---a team of reporters were working tirelessly to provide detailed, 24/7 coverage as events unfolded. As I followed their stories, it wasn't long before some of the
+my news which turned out to be much more than just a good "ear to the ground" from a school paper---a team of reporters were working tirelessly to provide detailed, 24/7 coverage as events unfolded. As I followed their stories, it wasn't long before some of the
 [reports](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment) began to concern me, 
 
 "Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and
@@ -24,7 +24,8 @@ in my opinion, the lifeblood of civil rights infringements and dangerous inciden
 The main organizational contributors to the pro-Palestinian movement at UCLA are Students for Justice in Palestine ([SJP](https://community.ucla.edu/studentorg/90) 
 at UCLA), the [UC Divest Coalition](https://www.instagram.com/ucladivest/), Jewish Voices for Peace ([JVP](https://community.ucla.edu/studentorg/3992)), and the Cultural Affairs Commission
  <a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">(CAC)</a>.
-
+ 
+### The Cultural Affairs Commission is tuition funded
 The Cultural Affairs Commission in particular has shown questionable behavior in their support for the pro-Palestinian movement. The org's messaging on their UCLA hosted webpage is shown in the image below. 
 As one of the first Undergraduate Student Association Council (USAC) organizations founded at UCLA, the CAC has been active for more than 50 years with support from tuition paid by every student.
 
@@ -77,7 +78,93 @@ Considering timing, and with mention of &ldquo;Palestinians on the frontlines&rd
 Hamas-led attacks on civilians were necessary to &ldquo;liberate from Isreal.&rdquo; While First Amendment rights protect these views, 
 the post calls into question the use of student tuition funds to support this messaging.
 
+### Students for Justice in Palestine harbor "extreme" political views
+SJP's [first post](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) after the events of Oct 7th, dated Oct 9th, announces a teach-in held by two professors to offer 
+"more clarity, information, and perspectives on recent escalations in Palestine."
 
+On Oct 9th UCLA Chancellor Gene Block shared a [letter](https://chancellor.ucla.edu/messages/university-statements-on-violent-attacks-abroad/) 
+regarding the attacks on Oct 7th, posted there is also a letter from the UC Regents. Block also posted a [follow-up letter](https://chancellor.ucla.edu/messages/reflections-at-the-close-of-a-difficult-week/)
+ on Oct 13th. 
+
+The below are posts from the UC-wide SJP organization in response to the UC Regents, dated Oct 17th, regarding rhetoric surrounding the Gaza conflict. In their message 
+SJP stays focused on the victimhood of an occupied Palestine and the danger to students of a UC rhetoric that does not recognize the conflict from the Palestinian viewpoint. Here they write what will eventually become 
+the protest demands for the pro-Palestinian movement at UCLA.
+
+<div class="figure-container">
+  <div class="figure-row">
+    <figure id="fig:sjp-insta-letter-regents-1">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-1.png')">
+        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-1.png" alt="SJP Instagram post 1" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+    <figure id="fig:sjp-insta-letter-regents-2">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-2.png')">
+        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-2.png" alt="SJP Instagram post 2" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+    <figure id="fig:sjp-insta-letter-regents-3">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-3.png')">
+        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-3.png" alt="SJP Instagram post 3" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+  </div>
+  <figcaption class="single-caption">
+
+  </figcaption>
+</div>
+
+<div class="figure-container">
+  <div class="figure-row">
+    <figure id="fig:sjp-insta-letter-regents-4">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-4.png')">
+        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-4.png" alt="SJP Instagram post 4" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+    <figure id="fig:sjp-insta-letter-regents-5">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-5.png')">
+        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-5.png" alt="SJP Instagram post 5" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>-
+    <figure id="fig:sjp-insta-letter-regents-6">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-6.png')">
+        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-6.png" alt="SJP Instagram post 6" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+  </div>
+  <figcaption class="single-caption">
+    <a href="https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none">SJP letter to Regents,</a> 
+	dated Oct 17th, regarding rhetoric used by the regents in reference to the conflict in Gaza. 
+  </figcaption>
+</div>
+
+
+In contrast, the below reddit post taken from IG, dated Oct 19th, is more "extreme." Rather than focus on Palestinians as unrecognized victims, it asserts 
+that the Chancellor conflated acts of resistance with acts of "terrorism". The alleged SJP post (it does not appear on their profile and could have been deleted) is also shown here
+referring to the events of Oct 7th as the “Al-Aqsa” flood.
+
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:sjp-reddit" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/Glittering-Action768.png')" data-title="Alleged SJP Instagram post">
+      <img src="/images/2024-05-20/early-messaging/Glittering-Action768.png" alt="Alleged SJP Instagram post" style="width: 65%; height: auto;">
+    </a>
+    <figcaption>
+      Alleged SJP IG post <em>since deleted</em> regarding UCLA chancellor's rhetoric with respect to Oct 7th events. 
+      <a href="https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/" style="color:#0F52BA; text-decoration:none">Reddit</a>
+	  post and comment dated Oct 19th.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+In contrast to CAC, SJP is a non-USAC affiliated Palestinian political organization and their activity is protected by the First Ammendment. Their activity becomes 
+questionable with pervasive use of phrases such as "Palestine will one day be free, from the river to the sea" and when CAC collaborates with them. If SJP views a civilian massacre
+as an "Al-Aqsa" flood, this immediately precludes the CAC mission of inclusivity that is imperative based on the student tuition funding they receive. 
 ## The administration didn't want to face the problem 
 here you put the "months leading up", etc. 
 

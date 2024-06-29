@@ -99,9 +99,9 @@
   </figcaption>
 </figure>
 
-<figure id="fig:sjp-insta-letter-regents-2">
+<figure id="fig:sjp-insta-letter-regents-5">
   <a href="https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=7">
-    <img src="/images/2024-05-20/early-messaging/sjp-v-regents-2.png" 
+    <img src="/images/2024-05-20/early-messaging/sjp-v-regents-5.png" 
      alt="SJP Instagram post 2" style="width: 100%; height: auto;">
   </a>
   <figcaption>
