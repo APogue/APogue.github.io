@@ -1,38 +1,32 @@
 
 
-When the pro-Palestinian protests---that ultimately led to violence that made national headlines---were happening at UCLA, other students were mostly caught up watching livestreams 
-as helicopters hovered overhead, loud enough to interrupt meetings. I, on the other hand, happened upon a [Daily Bruin article](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment), 
+When the pro-Palestinian protests became so violent at UCLA they were making [national headlines](https://x.com/loisbeckett/status/1785843179801153865), students stayed informed by watching the livestreams
+coming from helicopters hovering overhead, annoying and loud enough to interrupt meetings. I, on the other hand, decided on the [Daily Bruin](https://dailybruin.com) for
+my news and it turned out to be much more than just a good "ear to the ground" from a school paper---a team of reporters were working tirelessly to provide detailed, 24/7 coverage as events unfolded. As I followed their stories, it wasn't long before some of the
+[reports](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment) began to concern me, 
+
+"Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and
+Chancellor Gene Block with horns on his head – is antisemitic.
+'I feel very uncomfortable,' he said. 'I might skip my classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on campus.'"
+
+With continued interest, I sought other sources that were "raw" like the livestreams, but offered more context in an attempt to find unfiltered truths. Sifting through [Reddit](https://www.reddit.com/r/ucla/) I noticed conversations that
+gladly took ownership of certain "identities" associated with the pro-Palestinian movement and the campus climate that was becoming a product of it. To further understand who
+bore these identities and why, I read Instagram (IG) posts directly from the individuals driving the movement and those otherwise involved (by choice or by circumstance). Here I discovered voices from all sides of the issue, and distilling
+the alarming elements---those contributing to the bullying, harassment, or civil rights infringements of other students as well as those who were victims of it.
 
 
-“Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and 
-Chancellor Gene Block with horns on his head – is antisemitic. 
-“I feel very uncomfortable,” he said. “I might skip my classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on campus."
+Why have these voices been allowed to continue for so long unchecked and unnoticed? Through aggregate "data" from Twitter, UCLA webpages,
+and other open source materials I found that administrative apathy---or perhaps complacency or even "negligence"---together with student misconduct have become,
+in my opinion, the lifeblood of civil rights infringements and dangerous incidents that continue to occur at UCLA.
 
 
-Surprised by what was going on, I sought other sources of information that were “raw” like the livestreams, but in a different way. Sifting through [Reddit](https://www.reddit.com/r/ucla/) I noticed conversations that
-gladly took ownership of certain “identities” associated with the pro-Palesinian movement and the campus climate that was becoming a product of it. To further understand who 
-bore these identities and why, I read Instagram (IG) posts directly from the individuals driving the movement and those otherwise involved (by choice or by circumstance). Here I discovered voices from all sides of the issue, and distilling 
-the alarming elements---those contributing to the bullying, harrassment, or civil rights infringements of other students as well as those who were victims of it. 
+## Organizational messaging following Oct 7th was a warning sign
+The main organizational contributors to the pro-Palestinian movement at UCLA are Students for Justice in Palestine ([SJP](https://community.ucla.edu/studentorg/90) 
+at UCLA), the [UC Divest Coalition](https://www.instagram.com/ucladivest/), Jewish Voices for Peace ([JVP](https://community.ucla.edu/studentorg/3992)), and the Cultural Affairs Commission
+ <a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">(CAC)</a>.
 
-
-Why have these voices been allowed to continue for so long unchecked and unnoticed? Through the aggregation of “data” from Twitter, UCLA webpages, 
-and other open source materials I found that administrative apathy, or perhaps complacency or even "negligence" together with student misconduct have become what I believe is the lifeblood of civil rights infringements and 
-dangerous incidents that continue to occur at UCLA. 
-
-
- 
-
-
-## Radical activity following Oct 7th was a warning sign
-
-
-
-
-
-
-One organization in particular, the UCLA Cultural Affairs Commission<a href="https://community.ucla.edu/studentorg/623" style="color:#0F52BA; text-decoration:none">&nbsp;(CAC), </a> has shown strong
-support for the pro-Palestinian movement. The org's messaging on their UCLA hosted webpage is shown in the image below. As one of the first Undergraduate Student Association Council (USAC) 
-organizations founded at UCLA, the CAC has been active for more than 50 years with support from tuition paid by every student.
+The Cultural Affairs Commission in particular has shown questionable behavior in their support for the pro-Palestinian movement. The org's messaging on their UCLA hosted webpage is shown in the image below. 
+As one of the first Undergraduate Student Association Council (USAC) organizations founded at UCLA, the CAC has been active for more than 50 years with support from tuition paid by every student.
 
 <div class="lightbox-trigger" style="width: 75%;">
   <figure id="fig:cac-org-website" style="width: 100%; height: auto;">
@@ -77,15 +71,21 @@ itself, and for how long, is unknown.
 </div>
 
 
-On October 9th, 2023 CAC posted the above message on its Instagram (IG) profile. 
+On October 9th, 2023 CAC posted the above message on its IG profile. 
 The political message clearly shows the CAC's position on the events of Oct 7th. 
 Considering timing, and with mention of &ldquo;Palestinians on the frontlines&rdquo; and &ldquo;From the River to The Sea, Palestine Will Be Free&rdquo; the post indicates they are siding with Hamas; implying the 
 Hamas-led attacks on civilians were necessary to &ldquo;liberate from Isreal.&rdquo; While First Amendment rights protect these views, 
 the post calls into question the use of student tuition funds to support this messaging.
 
-## Antisemitic incidents at the protest were going "unnoticed"  
 
-Even more troubling is the showcasing of Nazi insignia in an IG post dated April 25th (below). 
+## The administration didn't want to face the problem 
+here you put the "months leading up", etc. 
+
+## Antisemetic behavior continued as the pro-Palestinian movement gained traction
+Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
+
+
+in a poster by unknown perpetrators that was then showcased in a CAC IG post dated April 25th (below). 
 <a href="https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/" 
 style="color:#0F52BA; text-decoration:none">&nbsp;A Trump ad </a>was removed by Facebook for using the same imagery—
 &ldquo;The social media company said the ads violated its policies against &ldquo;organized hate.&rdquo;&rdquo; While at face value the red triangle references 
@@ -161,7 +161,8 @@ The IG post below, dated 5/16, shows a more recent CAC post again displaying the
 
 
 
-## Administration went into damage control mode
+
+## After the protests the administration went into damage control mode
 
 
 
