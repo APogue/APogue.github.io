@@ -207,7 +207,7 @@ support the boycott, divestment, sanctions ([BDS](https://www.instagram.com/p/Cx
 CAC on the other hand, *has not shown any evidence* (via IG tagging or "@" mentions) of working with JVP, despite a shared interest in the pro-Palestinian movement. 
 
 ## The administration didn't want to face the problem 
-here you put the "months leading up", etc. 
+ "months leading up", etc. 
 
 ## Antisemetic behavior continued as the pro-Palestinian movement gained traction
 Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
