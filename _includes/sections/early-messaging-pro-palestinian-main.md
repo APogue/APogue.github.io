@@ -89,7 +89,7 @@ the knowledge on Arab and Muslim communities by omitting an Arab studies departm
 [Figure 12](##fig:sjp-insta-teach-in) SJP began pro-Palestinian messaging early after the attacks of Oct 7th as well. As a non-USAC, “political” student organization, they are within their rights to hold formal discussions, 
 but with no alternative messaging they are able to control the conversation. 
 
-[Figures 13](##fig:sjp-insta-letter-regents-1) and [14](##fig:sjp-insta-letter-regents-2) show SJP’s grievances with the UC Regents regarding rhetoric surrounding the Gaza conflict. There’s no language showing support of Hamas, but 
+[Figures 13](##fig:sjp-insta-letter-regents-1) and [14](##fig:sjp-insta-letter-regents-5) show SJP’s grievances with the UC Regents regarding rhetoric surrounding the Gaza conflict. There’s no language showing support of Hamas, but 
 SJP stays focused on the “plight of the Palestinian people” in this post despite its timing with respect to Oct 7th. Here they write what will eventually become the protest demands for the pro-Palestinian movement at UCLA. 
     
 <figure id="fig:sjp-reddit">

@@ -145,7 +145,7 @@ the protest demands for the pro-Palestinian movement at UCLA.
 
 
 In contrast, the below reddit post taken from IG, dated Oct 19th, is more "extreme." Rather than focus on Palestinians as unrecognized victims, it asserts 
-that the Chancellor conflated acts of resistance with acts of "terrorism". The alleged SJP post (it does not appear on their profile and could have been deleted) is also shown here
+that the Chancellor conflated acts of resistance with acts of "terrorism." The alleged SJP post (it does not appear on their profile and could have been deleted) is also shown here
 referring to the events of Oct 7th as the “Al-Aqsa” flood.
 
 <div class="lightbox-trigger" style="width: 75%;">
@@ -163,8 +163,49 @@ referring to the events of Oct 7th as the “Al-Aqsa” flood.
 </div>
 
 In contrast to CAC, SJP is a non-USAC affiliated Palestinian political organization and their activity is protected by the First Ammendment. Their activity becomes 
-questionable with pervasive use of phrases such as "Palestine will one day be free, from the river to the sea" and when CAC collaborates with them. If SJP views a civilian massacre
-as an "Al-Aqsa" flood, this immediately precludes the CAC mission of inclusivity that is imperative based on the student tuition funding they receive. 
+questionable with pervasive use of phrases such as "Palestine will one day be free, from the river to the sea," etc. 
+
+### Jewish Voices for Peace take an "anti-Zionist" position
+On their UCLA webpage, JVP [states](https://community.ucla.edu/studentorg/3992) that they 
+“organize for a just and lasting peace in historic Palestine and build strong, resilient Jewish community beyond Zionism.”
+
+
+<div class="lightbox-trigger" style="width: 85%;">
+  <figure id="fig:jvp-insta-westwood-protest" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/jvp-at-ucla-after-oct7.png')" data-title="JVP Instagram showing demonstration after Oct 7th">
+      <img src="/images/2024-05-20/early-messaging/jvp-at-ucla-after-oct7.png" alt="JVP Instagram showing demonstration after Oct 7th" style="width: 85%; height: auto;">
+    </a>
+    <figcaption>
+      Figure 18: JVP posts 
+      <a href="https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1" style="color:#0F52BA; text-decoration:none">IG message </a>dated Oct 14th,
+	  "to demand a free Palestine, to demand the end to U.S. complicity in Isaraeli apartheid and the genocide of Palestinians."
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+The above post aligns with their overall [messaging](https://www.instagram.com/p/CjGe_BWPLYQ/?hl=en&img_index=1) regarding a "free Palestine".
+
+
+There seems to be a divergence in rhetoric between SJP and JVP when it comes to the definition of a “free Palestine”. 
+To reiterate, SJP promotes the phrasing “From the River to the Sea, Palestine Will be Free.” JVP takes what looks like a settlement 
+“anti-expansionist” into “historic Palestine” position. 
+
+### How do these main players "interact?"
+CAC tags SJP when they incorporate antisemetic imagery into their posts (more on this later). Because SJP allows CAC to tag 
+them, they are partially responsible and should be recognized as sharing these views. 
+
+Even if CAC were to stop their antisemetic activity, if SJP sides with Hamas and 
+views a civilian massacre as an "Al-Aqsa flood," this immediately precludes the mandated CAC mission of inclusivity based on the student tuition funding they receive. 
+Even phrasing such as "From the River to the Sea..." used by both orgs violates ethics restrictions on CAC activity. Thus unless there is a change in rhetoric from 
+SJP, there should be no collaborations between the groups.
+
+In regards to non-USAC orgs such as JVP, despite differing views on a "free Palestine," their Instagram content, where they have been tagged by SJP (and FJP the faculty branch at UCLA) 
+and vice versa, shows they stand in solidarity with SJP. They collaborate in [protest efforts](https://www.instagram.com/p/C6MHxXNx3Bb/?img_index=1) and also 
+support the boycott, divestment, sanctions ([BDS](https://www.instagram.com/p/CxqfsNngaOj/?img_index=1)) movement.
+
+CAC on the other hand, *has not shown any evidence* (via IG tagging or "@" mentions) of working with JVP, despite a shared interest in the pro-Palestinian movement. 
+
 ## The administration didn't want to face the problem 
 here you put the "months leading up", etc. 
 
