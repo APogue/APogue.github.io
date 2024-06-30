@@ -145,7 +145,7 @@ the protest demands for the pro-Palestinian movement at UCLA.
 
 
 In contrast, the below reddit post taken from IG, dated Oct 19th, is more "extreme." Rather than focus on Palestinians as unrecognized victims, it asserts 
-that the Chancellor conflated acts of resistance with acts of "terrorism." The alleged SJP post (it does not appear on their profile and could have been deleted) is also shown here
+that the Chancellor conflated acts of resistance with acts of "terrorism." The alleged SJP post (it does not appear on their profile and could have been deleted) is also shown 
 referring to the events of Oct 7th as the “Al-Aqsa” flood.
 
 <div class="lightbox-trigger" style="width: 75%;">
@@ -163,7 +163,7 @@ referring to the events of Oct 7th as the “Al-Aqsa” flood.
 </div>
 
 In contrast to CAC, SJP is a non-USAC affiliated Palestinian political organization and their activity is protected by the First Ammendment. Their activity becomes 
-questionable with pervasive use of phrases such as "Palestine will one day be free, from the river to the sea," etc. 
+questionable when they use their propoganda system to repeatedly subject other members of the UCLA community to phrases such as "Palestine will one day be free, from the river to the sea," etc. 
 
 ### Jewish Voices for Peace take an "anti-Zionist" position
 On their UCLA webpage, JVP [states](https://community.ucla.edu/studentorg/3992) that they 
