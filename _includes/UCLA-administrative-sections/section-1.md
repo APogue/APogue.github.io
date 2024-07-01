@@ -184,19 +184,73 @@ On their UCLA webpage, JVP [states](https://community.ucla.edu/studentorg/3992) 
   <span class="maximize-icon">&#x26F6;</span>
 </div>
 
-The above post aligns with their overall [messaging](https://www.instagram.com/p/CjGe_BWPLYQ/?hl=en&img_index=1) regarding a "free Palestine".
+The above post aligns with their overall [messaging](https://www.instagram.com/p/CjGe_BWPLYQ/?hl=en&img_index=1) regarding a "free Palestine."
 
 
-There seems to be a divergence in rhetoric between SJP and JVP when it comes to the definition of a “free Palestine”. 
+There seems to be a divergence in rhetoric between SJP and JVP when it comes to the definition of a “free Palestine.” 
 To reiterate, SJP promotes the phrasing “From the River to the Sea, Palestine Will be Free.” JVP takes what looks like a settlement 
 “anti-expansionist” into “historic Palestine” position. 
 
+### Hillel and Chabad House support the Jewish and Israeli student community
+Jewish organizations with the largest presence at UCLA are [Hillel at UCLA](https://www.uclahillel.org/about) and [Chabad House at UCLA](https://www.chabaducla.com/). 
+
+<div class="figure-container">
+  <div class="figure-row">
+    <figure id="fig:hillel-oct-mess-1" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_1.png')">
+        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_1.png" alt="Hillel October message part 1" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+    <figure id="fig:hillel-oct-mess-2" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_2.png')">
+        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_2.png" alt="Hillel October message part 2" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+    <figure id="fig:hillel-oct-mess-3" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_3.png')">
+        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_3.png" alt="Hillel October message part 3" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+  </div>
+</div>
+
+<div class="figure-container">
+  <div class="figure-row">
+    <figure id="fig:hillel-oct-mess-4" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_4.png')">
+        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_4.png" alt="Hillel October message part 4" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+    <figure id="fig:hillel-oct-mess-5" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_5.png')">
+        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_5.png" alt="Hillel October message part 5" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+    <figure id="fig:hillel-oct-mess-6" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_6.png')">
+        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_6.png" alt="Hillel October message part 6" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;</span>
+      </div>
+    </figure>
+  </div>
+  <figcaption class="single-caption">
+    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">Hillel October IG message</a>
+    showing reaction to "antisemitic" and "anti-Jewish hate" as part of their "lived experience on campus" after the events of Oct 7th. Written by Dan Gold, Hillel Executive Director.
+  </figcaption>
+</div>
+
+
 ### How do these main players "interact?"
-CAC tags SJP when they incorporate antisemetic imagery into their posts (more on this later). Because SJP allows CAC to tag 
+CAC tags SJP when they incorporate antisemitic imagery into their posts (more on this later). Because SJP allows CAC to tag 
 them, they are partially responsible and should be recognized as sharing these views. 
 
-Even if CAC were to stop their antisemetic activity, if SJP sides with Hamas and 
-views a civilian massacre as an "Al-Aqsa flood," this immediately precludes the mandated CAC mission of inclusivity based on the student tuition funding they receive. 
+Even if CAC were to stop their antisemitic activity, if SJP sides with Hamas and 
+views a civilian massacre as an "Al-Aqsa flood," this violates the mandated CAC mission of inclusivity based on the student tuition funding they receive. 
 Even phrasing such as "From the River to the Sea..." used by both orgs violates ethics restrictions on CAC activity. Thus unless there is a change in rhetoric from 
 SJP, there should be no collaborations between the groups.
 
@@ -206,10 +260,50 @@ support the boycott, divestment, sanctions ([BDS](https://www.instagram.com/p/Cx
 
 CAC on the other hand, *has not shown any evidence* (via IG tagging or "@" mentions) of working with JVP, despite a shared interest in the pro-Palestinian movement. 
 
-## The administration didn't want to face the problem 
- "months leading up", etc. 
+Hillel and Chabad House are largely apolitical. Their relevant messaging centers around the Jewish experience--- 
+largely made up of grievances and discomfort---on campus after the events of Oct 7th.
 
-## Antisemetic behavior continued as the pro-Palestinian movement gained traction
+## The administration didn't want to face the problem 
+David Myers wrote an [op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse) entitled 
+*Antisemitic imagery at UC Regents meeting protest threatens campus discourse* where he addressed the tense political climate at UCLA, “Since Oct. 7, 
+our campus – like so many across the country – has been the site of intense and often tense discourse and action. The divide between those who support the cause 
+of Palestinian liberation and those who support Israel’s right to exist has deepened more than at any point in my 32 years at UCLA, creating a seemingly unbridgeable 
+gulf between the two sides.
+
+It has also created, at various points in time, a sense of unsafety among many members of the university community, especially students. This too tracks larger national trends, 
+according to a 2024 report that shows that 56% of Jewish university students polled after Oct. 7 felt in personal danger, and 52% of Muslim students felt in personal danger.”
+### October
+
+### November 
+
+Myers depiction of this “unbridgeable gulf” has been corroborated by several Daily Bruin articles, where [one](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
+titled *Students voice worries over Islamophobia on UCLA campus*, dated November 19th, details several concerning statements made by students.
+
+“”I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, 
+I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
+
+“A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of 
+physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Antisemitic behavior continued as the pro-Palestinian movement gained traction
 Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
 
 
@@ -286,7 +380,9 @@ The IG post below, dated 5/16, shows a more recent CAC post again displaying the
 
 
 
-
+## Student and faculty voices are identity-driven
+"Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
+and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
 
 
 
@@ -319,7 +415,9 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
 Based on their USAC affiliation, CAC should not have any content on public facing sites they aren’t willing to post on their UCLA hosted site. Their 
 content directly contradicts their mission *to be accessible to all students*.
 
-
+## The DOE needs to bring Title VI into the 21st century
 
 
 ## Could the UC System be hiding the *real problem*?
+
+
