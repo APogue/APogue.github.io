@@ -17,6 +17,10 @@
 	<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+	<!-- Swiper's CSS -->
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<!-- Lightbox2 CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
 </head>
 <body>
     <header>
@@ -95,6 +99,8 @@
     <script src="https://kit.fontawesome.com/3f772b523c.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+	<!-- Swiper's JS -->
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script>
         document.querySelector('.hamburger-menu').addEventListener('click', function() {
             document.querySelector('.nav-links').classList.toggle('active');
@@ -135,52 +141,117 @@
  
 	<div id="myModal" class="lightbox">
 		<span class="close" onclick="closeModal()">&times;</span>
-		<img class="lightbox-content" id="img01">
-	</div>
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<!-- Swiper slides will be dynamically added here -->
+			</div>
+			<div class="swiper-pagination"></div>
+			<div class="swiper-button-prev"></div>
+			<div class="swiper-button-next"></div>
+		</div>
+   </div>
 
 	<script>
-			// JavaScript for Lightbox
-	var modal = document.getElementById("myModal");
-	var modalImg = document.getElementById("img01");
+    // JavaScript for Lightbox
+    var modal = document.getElementById("myModal");
+    var swiperContainer = modal.querySelector('.swiper-container');
+    var swiperWrapper = swiperContainer.querySelector('.swiper-wrapper');
+    let lightboxSwiper;
 
-	function openModal(src) {
-		modalImg.src = src;
-		modal.style.display = "flex"; // Use flex to center content
-		requestAnimationFrame(function() {
-			modal.classList.add('show');
-		});
-		document.body.style.overflow = 'hidden'; // Prevent body scroll
-	}
+    function openModal(src) {
+        console.log('Opening modal for src:', src);
 
-	function closeModal() {
-		modal.classList.remove('show');
-		modal.addEventListener('transitionend', function handler() {
-			modal.style.display = "none";
-			modal.removeEventListener('transitionend', handler);
-			document.body.style.overflow = ''; // Restore body scroll
-		});
-	}
+        // Clear existing slides
+        swiperWrapper.innerHTML = '';
 
-	// Close modal when clicking outside the image
-	modal.addEventListener('click', function(e) {
-		if (e.target === modal) {
-			closeModal();
-		}
-	});
-		// Prevent touch scrolling when lightbox is open
-	modal.addEventListener('touchmove', function(e) {
-		e.preventDefault();
-	}, { passive: false });
+        // Get all images
+        const images = document.querySelectorAll('.lightbox-trigger img');
+        console.log('Total images found:', images.length);
 
-	// Handle window resize to ensure no scroll on rotation
-	window.addEventListener('resize', function() {
-		if (modal.style.display === 'flex') {
-			document.body.style.overflow = 'hidden';
-		}
-	});
+        // Log the src values of all images
+        images.forEach((img, idx) => console.log(`Image ${idx} src:`, img.src));
+
+        // Find the index of the clicked image
+        let startIndex = Array.from(images).findIndex(img => img.src.includes(src));
+        if (startIndex === -1) {
+            console.error('Image not found:', src);
+            return;
+        }
+        console.log('Start index:', startIndex);
+
+        // Add only the clicked image and subsequent images as slides
+        for (let i = startIndex; i < images.length; i++) {
+            let slide = document.createElement('div');
+            slide.className = 'swiper-slide';
+            let slideImg = document.createElement('img');
+            slideImg.src = images[i].src;
+            slideImg.className = 'lightbox-content';
+            slide.appendChild(slideImg);
+            swiperWrapper.appendChild(slide);
+            console.log('Added slide for image:', images[i].src);
+        }
+
+        modal.style.display = "flex";
+        requestAnimationFrame(function() {
+            modal.classList.add('show');
+        });
+        document.body.style.overflow = 'hidden';
+
+        // Initialize or update Swiper
+        if (!lightboxSwiper) {
+            console.log('Initializing Swiper...');
+            lightboxSwiper = new Swiper(swiperContainer, {
+                slidesPerView: 1,
+                spaceBetween: 0,
+                navigation: {
+                    nextEl: '.swiper-button-next',
+                    prevEl: '.swiper-button-prev',
+                },
+                pagination: {
+                    el: '.swiper-pagination',
+                    clickable: true,
+                },
+            });
+        } else {
+            console.log('Updating Swiper...');
+            lightboxSwiper.update();
+        }
+
+        // Slide to the first image (which is the clicked image)
+        console.log('Sliding to index 0');
+        lightboxSwiper.slideTo(0, 0);
+    }
+
+    function closeModal() {
+        modal.classList.remove('show');
+        modal.addEventListener('transitionend', function handler() {
+            modal.style.display = "none";
+            modal.removeEventListener('transitionend', handler);
+            document.body.style.overflow = '';
+        });
+    }
+
+    // Close modal when clicking outside the image
+    modal.addEventListener('click', function(e) {
+        if (e.target === modal) {
+            closeModal();
+        }
+    });
+
+    // Prevent touch scrolling when lightbox is open
+    modal.addEventListener('touchmove', function(e) {
+        e.preventDefault();
+    }, { passive: false });
+
+    // Handle window resize to ensure no scroll on rotation
+    window.addEventListener('resize', function() {
+        if (modal.style.display === 'flex') {
+            document.body.style.overflow = 'hidden';
+        }
+    });
+</script>
 
 
-	</script> 
 	 <script>
         document.addEventListener('DOMContentLoaded', function() {
             var updatedDateElem = document.getElementById('updated-date');
@@ -203,5 +274,6 @@
             }
         });
     </script>
+
 </body>
 </html>

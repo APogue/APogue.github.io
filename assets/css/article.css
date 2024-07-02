@@ -242,7 +242,6 @@ figcaption a {
     text-decoration: none; /* No underline */
 }
 
-
 .figure-container {
     display: flex;
     flex-direction: column;
@@ -516,3 +515,27 @@ figcaption a {
     height: auto;
 }
 
+/* swiper starts here */
+.lightbox .swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.lightbox .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: white;
+}
+
+.swiper-pagination-bullet {
+    background: white;
+    opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+}

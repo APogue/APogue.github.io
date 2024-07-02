@@ -49,26 +49,32 @@ indicate a level of distrust in UCLA's ability to maintain an inclusive and fair
 itself, and for how long, is unknown.
 
 
-<div class="figure-container">
-  <div class="figure-row">
-    <figure id="fig:cac-instagram-post-1">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_1.png')">
-        <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
-    <figure id="fig:cac-instagram-post-2">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_2.png')">
-        <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" alt="CAC Instagram post part 2">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
-  </div>
-  <figcaption class="single-caption">
-    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
-	part dated October 9th, 2023 regarding the events of October 7th. They state that &ldquo;decolonization is not a metaphor. Thus we honor the Palestinians
-	 on the frontlines taking their land and sovereignty back!&rdquo;
-  </figcaption>
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:cac-instagram-post-1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_1.png')" data-title="CAC Instagram post part 1">
+      <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1 of 2: <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
+      part dated October 9th, 2023 regarding the events of October 7th. They state that &ldquo;decolonization is not a metaphor. Thus we honor the Palestinians
+      on the frontlines taking their land and sovereignty back!&rdquo; 
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+<div class="lightbox-trigger" style="width: 75%; display: none;">
+  <figure id="fig:cac-instagram-post-2" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/CAC_instagram_2.png')" data-title="CAC Instagram post part 2">
+      <img src="/images/2024-05-20/early-messaging/CAC_instagram_2.png" alt="CAC Instagram post part 2" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
+      part dated October 9th, 2023 regarding the events of October 7th. They state that &ldquo;decolonization is not a metaphor. Thus we honor the Palestinians
+      on the frontlines taking their land and sovereignty back!&rdquo;
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
 </div>
 
 
@@ -90,73 +96,68 @@ The below are posts from the UC-wide SJP organization in response to the UC Rege
 SJP stays focused on the victimhood of an occupied Palestine and the danger to students of a UC rhetoric that does not recognize the conflict from the Palestinian viewpoint. Here they write what will eventually become 
 the protest demands for the pro-Palestinian movement at UCLA.
 
-<div class="figure-container">
-  <div class="figure-row">
-    <figure id="fig:sjp-insta-letter-regents-1">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-1.png')">
-        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-1.png" alt="SJP Instagram post 1" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
-    <figure id="fig:sjp-insta-letter-regents-2">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-2.png')">
-        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-2.png" alt="SJP Instagram post 2" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;"></span>
-      </div>
-    </figure>
-    <figure id="fig:sjp-insta-letter-regents-3">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-3.png')">
-        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-3.png" alt="SJP Instagram post 3" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;"></span>
-      </div>
-    </figure>
-  </div>
-  <figcaption class="single-caption">
-
-  </figcaption>
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:sjp-insta-letter-regents-1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-1.png')" data-title="SJP Instagram post 1">
+      <img src="/images/2024-05-20/early-messaging/sjp-v-regents-1.png" alt="SJP Instagram post 1" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1 of 6: <a href="https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none">SJP letter to Regents,</a>
+      dated Oct 17th, regarding the rhetorical position of the regents in reference to the conflict in Gaza as threatening to UC students.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
 </div>
 
-<div class="figure-container">
-  <div class="figure-row">
-    <figure id="fig:sjp-insta-letter-regents-4">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-4.png')">
-        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-4.png" alt="SJP Instagram post 4" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
-    <figure id="fig:sjp-insta-letter-regents-5">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-5.png')">
-        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-5.png" alt="SJP Instagram post 5" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;"></span>
-      </div>
-    </figure>-
-    <figure id="fig:sjp-insta-letter-regents-6">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-6.png')">
-        <img src="/images/2024-05-20/early-messaging/sjp-v-regents-6.png" alt="SJP Instagram post 6" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;"></span>
-      </div>
-    </figure>
-  </div>
-  <figcaption class="single-caption">
-    <a href="https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none">SJP letter to Regents,</a> 
-	dated Oct 17th, regarding rhetoric used by the regents in reference to the conflict in Gaza. 
-  </figcaption>
+
+<div class="figure-container" style="display: none;">
+  <figure id="fig:sjp-insta-letter-regents-2">
+    <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-2.png')">
+      <img src="/images/2024-05-20/early-messaging/sjp-v-regents-2.png" alt="SJP Instagram post 2" style="width: 100%; height: auto;">
+      <span class="maximize-icon">&#x26F6;"></span>
+    </div>
+  </figure>
+  <figure id="fig:sjp-insta-letter-regents-3">
+    <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-3.png')">
+      <img src="/images/2024-05-20/early-messaging/sjp-v-regents-3.png" alt="SJP Instagram post 3" style="width: 100%; height: auto;">
+      <span class="maximize-icon">&#x26F6;"></span>
+    </div>
+  </figure>
+  <figure id="fig:sjp-insta-letter-regents-4">
+    <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-4.png')">
+      <img src="/images/2024-05-20/early-messaging/sjp-v-regents-4.png" alt="SJP Instagram post 4" style="width: 100%; height: auto;">
+      <span class="maximize-icon">&#x26F6;"></span>
+    </div>
+  </figure>
+  <figure id="fig:sjp-insta-letter-regents-5">
+    <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-5.png')">
+      <img src="/images/2024-05-20/early-messaging/sjp-v-regents-5.png" alt="SJP Instagram post 5" style="width: 100%; height: auto;">
+      <span class="maximize-icon">&#x26F6;"></span>
+    </div>
+  </figure>
+  <figure id="fig:sjp-insta-letter-regents-6">
+    <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/sjp-v-regents-6.png')">
+      <img src="/images/2024-05-20/early-messaging/sjp-v-regents-6.png" alt="SJP Instagram post 6" style="width: 100%; height: auto;">
+      <span class="maximize-icon">&#x26F6;"></span>
+    </div>
+  </figure>
 </div>
+
 
 
 In contrast, the below reddit post taken from IG, dated Oct 19th, is more "extreme." Rather than focus on Palestinians as unrecognized victims, it asserts 
 that the Chancellor conflated acts of resistance with acts of "terrorism." The alleged SJP post (it does not appear on their profile and could have been deleted) is also shown 
 referring to the events of Oct 7th as the “Al-Aqsa” flood.
 
-<div class="lightbox-trigger" style="width: 75%;">
-  <figure id="fig:sjp-reddit" style="width: 100%; height: auto;">
+<div class="lightbox-trigger" style="width: 55%;">
+  <figure id="fig:sjp-reddit" style="width: 100%; height: auto; text-align: center;">
     <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/Glittering-Action768.png')" data-title="Alleged SJP Instagram post">
-      <img src="/images/2024-05-20/early-messaging/Glittering-Action768.png" alt="Alleged SJP Instagram post" style="width: 65%; height: auto;">
+      <img src="/images/2024-05-20/early-messaging/Glittering-Action768.png" alt="Alleged SJP Instagram post" style="width: 100%; height: auto;">
     </a>
-    <figcaption>
+    <figcaption class="custom-caption">
       Alleged SJP IG post <em>since deleted</em> regarding UCLA chancellor's rhetoric with respect to Oct 7th events. 
       <a href="https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/" style="color:#0F52BA; text-decoration:none">Reddit</a>
-	  post and comment dated Oct 19th.
+      post and comment dated Oct 19th.
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
@@ -173,10 +174,10 @@ On their UCLA webpage, JVP [states](https://community.ucla.edu/studentorg/3992) 
 <div class="lightbox-trigger" style="width: 85%;">
   <figure id="fig:jvp-insta-westwood-protest" style="width: 100%; height: auto;">
     <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/jvp-at-ucla-after-oct7.png')" data-title="JVP Instagram showing demonstration after Oct 7th">
-      <img src="/images/2024-05-20/early-messaging/jvp-at-ucla-after-oct7.png" alt="JVP Instagram showing demonstration after Oct 7th" style="width: 85%; height: auto;">
+      <img src="/images/2024-05-20/early-messaging/jvp-at-ucla-after-oct7.png" alt="JVP Instagram showing demonstration after Oct 7th" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-      Figure 18: JVP posts 
+      JVP posts 
       <a href="https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1" style="color:#0F52BA; text-decoration:none">IG message </a>dated Oct 14th,
 	  "to demand a free Palestine, to demand the end to U.S. complicity in Isaraeli apartheid and the genocide of Palestinians."
     </figcaption>
@@ -194,54 +195,54 @@ To reiterate, SJP promotes the phrasing “From the River to the Sea, Palestine 
 ### Hillel and Chabad House support the Jewish and Israeli student community
 Jewish organizations with the largest presence at UCLA are [Hillel at UCLA](https://www.uclahillel.org/about) and [Chabad House at UCLA](https://www.chabaducla.com/). 
 
-<div class="figure-container">
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:hillel-oct-mess-1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_1.png')" data-title="Hillel October message part 1">
+      <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_1.png" alt="Hillel October message part 1" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1/6: <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">Hillel October IG message</a>
+      showing reaction to "antisemitic" and "anti-Jewish hate" as part of their "lived experience on campus" after the events of Oct 7th. Written by Dan Gold, Hillel Executive Director.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+
+<!-- Hidden Images for Carousel -->
+<div class="figure-container" style="display: none;">
   <div class="figure-row">
-    <figure id="fig:hillel-oct-mess-1" style="width: 33%;">
-      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_1.png')">
-        <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_1.png" alt="Hillel October message part 1" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
-      </div>
-    </figure>
     <figure id="fig:hillel-oct-mess-2" style="width: 33%;">
       <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_2.png')">
         <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_2.png" alt="Hillel October message part 2" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
+        <span class="maximize-icon">&#x26F6;"></span>
       </div>
     </figure>
     <figure id="fig:hillel-oct-mess-3" style="width: 33%;">
       <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_3.png')">
         <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_3.png" alt="Hillel October message part 3" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
+        <span class="maximize-icon">&#x26F6;"></span>
       </div>
     </figure>
-  </div>
-</div>
-
-<div class="figure-container">
-  <div class="figure-row">
     <figure id="fig:hillel-oct-mess-4" style="width: 33%;">
       <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_4.png')">
         <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_4.png" alt="Hillel October message part 4" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
+        <span class="maximize-icon">&#x26F6;"></span>
       </div>
     </figure>
     <figure id="fig:hillel-oct-mess-5" style="width: 33%;">
       <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_5.png')">
         <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_5.png" alt="Hillel October message part 5" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
+        <span class="maximize-icon">&#x26F6;"></span>
       </div>
     </figure>
     <figure id="fig:hillel-oct-mess-6" style="width: 33%;">
       <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/early-messaging/hillel_oct_mess_6.png')">
         <img src="/images/2024-05-20/early-messaging/hillel_oct_mess_6.png" alt="Hillel October message part 6" style="width: 100%; height: auto;">
-        <span class="maximize-icon">&#x26F6;</span>
+        <span class="maximize-icon">&#x26F6;"></span>
       </div>
     </figure>
   </div>
-  <figcaption class="single-caption">
-    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">Hillel October IG message</a>
-    showing reaction to "antisemitic" and "anti-Jewish hate" as part of their "lived experience on campus" after the events of Oct 7th. Written by Dan Gold, Hillel Executive Director.
-  </figcaption>
 </div>
 
 
@@ -274,12 +275,30 @@ It has also created, at various points in time, a sense of unsafety among many m
 according to a 2024 report that shows that 56% of Jewish university students polled after Oct. 7 felt in personal danger, and 52% of Muslim students felt in personal danger.”
 ### October
 
+<figure id="figure-container" style="width: 45%;">
+    <div class="figure-row">
+    <blockquote 
+      class="social-media-embed instagram-media" 
+      data-instgrm-captioned
+      data-instgrm-permalink="https://www.instagram.com/reel/CyTYyrwrue7/" 
+      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio:  3.4/ 5;">
+    </blockquote> 
+    <script async src="//www.instagram.com/embed.js"></script>
+  </div> 
+    <figcaption >
+    SJP at UCLA "statement on hate crimes inflicted on pro-Palestine Students by Zionist Assailants & UC Complicity." Videos of altercations are on 6, 7/9 (click through). 
+    View the post on <a href="https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342" style="color:#0F52BA; text-decoration:none;">Instagram</a>.
+  </figcaption>
+</figure>
+
+
+
 ### November 
 
 Myers depiction of this “unbridgeable gulf” has been corroborated by several Daily Bruin articles, where [one](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
 titled *Students voice worries over Islamophobia on UCLA campus*, dated November 19th, details several concerning statements made by students.
 
-“”I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, 
+“'I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, 
 I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
 
 “A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of 
@@ -416,7 +435,7 @@ Based on their USAC affiliation, CAC should not have any content on public facin
 content directly contradicts their mission *to be accessible to all students*.
 
 ## The DOE needs to bring Title VI into the 21st century
-
+Write here about all the ongoing Title VI investigations.  
 
 ## Could the UC System be hiding the *real problem*?
 
