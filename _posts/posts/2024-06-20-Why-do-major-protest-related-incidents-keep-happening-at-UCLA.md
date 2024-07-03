@@ -5,7 +5,7 @@ explanation: "Despite perceived administrative efforts, problematic incidents co
 image: "https://raw.githubusercontent.com/APogue/APogue.github.io/main/images/2024-05-20/protest/large-red-triangle-people.webp"
 author: Alexie Pogue
 date: 2024-06-20 07:09
-updated: True
+updated: true
 ---
 
 

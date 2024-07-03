@@ -190,7 +190,7 @@ The above post aligns with their overall [messaging](https://www.instagram.com/p
 
 There seems to be a divergence in rhetoric between SJP and JVP when it comes to the definition of a “free Palestine.” 
 To reiterate, SJP promotes the phrasing “From the River to the Sea, Palestine Will be Free.” JVP takes what looks like a settlement 
-“anti-expansionist” into “historic Palestine” position. 
+“anti-expansionist” into “historic Palestine” position (cannot be explicitly confirmed). 
 
 ### Hillel and Chabad House support the Jewish and Israeli student community
 Jewish organizations with the largest presence at UCLA are [Hillel at UCLA](https://www.uclahillel.org/about) and [Chabad House at UCLA](https://www.chabaducla.com/). 
@@ -274,6 +274,9 @@ gulf between the two sides.
 It has also created, at various points in time, a sense of unsafety among many members of the university community, especially students. This too tracks larger national trends, 
 according to a 2024 report that shows that 56% of Jewish university students polled after Oct. 7 felt in personal danger, and 52% of Muslim students felt in personal danger.”
 ### October
+The Instagram post below is referring to the previously mentioned professor led [teach-in](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) occurring on Oct 11th. The video shows UCLA students
+waiting for attendees to harass them and blockade them from entering a classroom. A video of the encounter can be found on the 5th page of the post. This behavior shows clear student misconduct
+due to the intimidation tactics and discriminatory harassment taking place; especially with the use of language such as "terrorist" and preventing access to a classroom using threats with racist intent. 
 
 <figure id="figure-container" style="width: 45%;">
     <div class="figure-row">
@@ -281,12 +284,12 @@ according to a 2024 report that shows that 56% of Jewish university students pol
       class="social-media-embed instagram-media" 
       data-instgrm-captioned
       data-instgrm-permalink="https://www.instagram.com/reel/CyTYyrwrue7/" 
-      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio:  3.4/ 5;">
+      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio:  3.3/ 5;">
     </blockquote> 
     <script async src="//www.instagram.com/embed.js"></script>
   </div> 
     <figcaption >
-    SJP at UCLA "statement on hate crimes inflicted on pro-Palestine Students by Zionist Assailants & UC Complicity." Videos of altercations are on 6, 7/9 (click through). 
+    SJP at UCLA "statement on hate crimes inflicted on pro-Palestine Students by Zionist Assailants & UC Complicity." Videos of altercations are on 6, 7/9 (click through). Post is dated Oct 12th.  
     View the post on <a href="https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342" style="color:#0F52BA; text-decoration:none;">Instagram</a>.
   </figcaption>
 </figure>
@@ -434,6 +437,15 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
 Based on their USAC affiliation, CAC should not have any content on public facing sites they aren’t willing to post on their UCLA hosted site. Their 
 content directly contradicts their mission *to be accessible to all students*.
 
+This article outlines UCLA's failings to prevent a hostile environment under Title VI
+https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf
+This article defines student conduct that is not protected under the First Ammendment
+https://www.thefire.org/news/heres-what-students-need-know-about-protesting-campus-right-now
+The law:
+https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html
+Fact sheets:
+https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html
+https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html
 ## The DOE needs to bring Title VI into the 21st century
 Write here about all the ongoing Title VI investigations.  
 
