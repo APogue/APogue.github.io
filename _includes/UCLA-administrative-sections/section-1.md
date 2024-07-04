@@ -396,6 +396,8 @@ She added that she has heard of instances of Jewish students not receiving respo
 
 Pull the other quote from the Myers article that is more specific regarding the pig imagery. 
 
+Also missing dates on the above figures
+
 ### May
 
 [greens3](https://www.reddit.com/r/ucla/comments/1ck66g9/disc_how_do_you_expect_jews_to_act_on_campus/) also mentions antisemitic acts such as 
@@ -526,6 +528,11 @@ Fact sheets:
 https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html
 https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html
 
+Jewish students seek court order against UCLA’s antisemitic encampments before fall semester
+https://www.thecentersquare.com/national/article_8bf5303c-33c5-11ef-b5b7-7370c3907658.html
+https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-antisemitic-encampments-before-fall-semester/
+https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/
+https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf
 
 ## Student ignorance is making things worse
 
