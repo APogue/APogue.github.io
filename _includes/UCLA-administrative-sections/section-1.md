@@ -273,10 +273,11 @@ gulf between the two sides.
 
 It has also created, at various points in time, a sense of unsafety among many members of the university community, especially students. This too tracks larger national trends, 
 according to a 2024 report that shows that 56% of Jewish university students polled after Oct. 7 felt in personal danger, and 52% of Muslim students felt in personal danger.”
+
 ### October
-The Instagram post below is referring to the previously mentioned professor led [teach-in](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) occurring on Oct 11th. The video shows UCLA students
-waiting for attendees to harass them and blockade them from entering a classroom. A video of the encounter can be found on the 5th page of the post. This behavior shows clear student misconduct
-due to the intimidation tactics and discriminatory harassment taking place; especially with the use of language such as "terrorist" and preventing access to a classroom using threats with racist intent. 
+The Instagram post below is referring to the previously mentioned professor led [teach-in](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) occurring on Oct 11th. The video shows people, referred to as "Zionists" in the post,
+waiting for attendees to harass and blockade them from entering a classroom. A video of the encounter can be found on the 5th page of the post. This behavior shows clear student misconduct
+due to the intimidation tactics and discriminatory harassment taking place; especially with the use of language such as "terrorist" and preventing access to a classroom using physical aggression with racist intent. 
 
 <figure id="figure-container" style="width: 45%;">
     <div class="figure-row">
@@ -284,45 +285,123 @@ due to the intimidation tactics and discriminatory harassment taking place; espe
       class="social-media-embed instagram-media" 
       data-instgrm-captioned
       data-instgrm-permalink="https://www.instagram.com/reel/CyTYyrwrue7/" 
-      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio:  3.3/ 5;">
+      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio:  3.4/ 5;">
     </blockquote> 
     <script async src="//www.instagram.com/embed.js"></script>
   </div> 
     <figcaption >
-    SJP at UCLA "statement on hate crimes inflicted on pro-Palestine Students by Zionist Assailants & UC Complicity." Videos of altercations are on 6, 7/9 (click through). Post is dated Oct 12th.  
+    SJP at UCLA "statement on hate crimes inflicted on pro-Palestine Students by Zionist Assailants & UC Complicity." Videos of altercations with UCLA students are shown on 6, 7/9 (click through) where "multiple Zionists attacked them, grabbing their laptop and throwing it in the trash, as well as other personal belongings of the students." Post is dated Oct 12th.  
     View the post on <a href="https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342" style="color:#0F52BA; text-decoration:none;">Instagram</a>.
   </figcaption>
 </figure>
 
+<!-- Main Display Image -->
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:hillel-oct-12-1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/hillel-oct-12-1.png')" data-title="Hillel October message part 1">
+      <img src="/images/2024-07-03/hillel-oct-12-1.png" alt="Hillel October message part 1" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1/4: <a href="https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2" style="color:#0F52BA; text-decoration:none; display:inline;">Hillel IG message</a>, dated Oct 12th,
+      showing reaction to incidents of harassment and intimidation occurring on campus (likely in reference to the SJP post above). They also "call on agitators in the outside communities to stay away from campus. Your acts of aggression&mdash;no matter what your views are&mdash;are not welcome at UCLA."
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
 
+<!-- Hidden Images for Carousel -->
+<div class="figure-container" style="display: none;">
+  <div class="figure-row">
+    <figure id="fig:hillel-oct-mess-2" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/hillel-oct-mess-2.png')">
+        <img src="/images/2024-07-03/hillel-oct-12-2.png" alt="Hillel October message part 2" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+    <figure id="fig:hillel-oct-mess-3" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/hillel-oct-mess-3.png')">
+        <img src="/images/2024-07-03/hillel-oct-12-3.png" alt="Hillel October message part 3" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+    <figure id="fig:hillel-oct-mess-4" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/hillel-oct-mess-4.png')">
+        <img src="/images/2024-07-03/hillel-oct-12-4.png" alt="Hillel October message part 4" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+  </div>
+</div>
 
+There was no statement made by Chancellor Block in reference to the above incident. 
 ### November 
-
-Myers depiction of this “unbridgeable gulf” has been corroborated by several Daily Bruin articles, where [one](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
+Myers depiction of this “unbridgeable gulf” has been corroborated by the Daily Bruin, where [one article](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
 titled *Students voice worries over Islamophobia on UCLA campus*, dated November 19th, details several concerning statements made by students.
 
-“'I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, 
-I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
+“&lsquo;I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,' said Mohammad, a student who was granted partial anonymity for safety reasons. 'I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.'"
+
 
 “A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of 
 physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”
 
+The article also makes reference to an IG message, presumably the message below, detailing harassment and a physical altercation that took place on the Nov 7th rally held in support of Israel (last slide in Dan Gold's message above). 
+
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:hillel-oct-mess-1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/cac-nov-7-ig.png')" data-title="CAC message regarding Nov 7th rally">
+      <img src="/images/2024-07-03/cac-nov-7-ig.png" alt="CAC message regarding Nov 7th rally" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1/1: <a href="https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">CAC Nov IG message</a> detailing harassment to CAC staff and "older non-students who started shoving" students selling keffiyehs on Bruin Walk. Claims were made that throughout the day "non-students harassed, threatened, and assaulted" students and "nothing was done by campus security teams&mdash;includng UCPD."
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+[Another](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus), *Jewish students express concern over antisemitism on UCLA campus*, also dated Nov 19th, highlights language among the pro-Palestinian 
+movement that some students feel is threatening. 
+
+The article talks about a rally held on Nov 8th in support of Palestine, shown [here](https://www.instagram.com/p/CzZEC9RJFFi/?img_index=1) on SJP's IG page. 
+
+An incident occurred at this rally and is detailed in a Los Angeles Magazine [article](https://lamag.com/news/ucla-condemns-pro-palestinian-student-protesters-antisemitic-behavior), dated Nov 12, that states students "went viral online Friday for screaming 'beat that fucking Jew' through a megaphone while bashing a piñata bearing an image of Israeli Prime Minister Benjamin Netanyahu." Actual footage has been provided by the [New York Post](https://www.youtube.com/watch?v=D-df8M_avjk&ab_channel=NewYorkPost) below. 
+
+
+<figure id="fig:nyp-youtube-vid" class="video-figure">
+  <iframe id="youtubePlayer" width="560" height="315" src="https://www.youtube.com/embed/D-df8M_avjk" 
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption>
+  UCLA students are shown beating a pinata with Benjamin Netanyahu's face on it and screaming hate speech.
+</figcaption>
+</figure>
+
+Dan Gold was quoted in the article saying "students have been called Zionists on social media...[he also] said he believes rallies in support of Palestine have made Jewish students feel unsafe on campus. He added that he feels 
+that chants such as 'Resistance is justified when people are occupied' and 'From the river to the sea, Palestine will be free' are statements intended to intimidate others.”
+
+"Bella Brannon, the student president of Hillel at UCLA, said she has seen a swastika carved into a tree on campus and experienced people making comments that perpetuate antisemitic stereotypes during meetings."
+
+
+A student was quoted saying "he knows some Jewish students who have skipped classes because they were uncomfortable walking through these rallies."
+
+
+[Gene Block's response](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) to incidents occurring on both Nov 7th and 8th can be found here.  
+
+
+Hillel’s student president Bella Brannon stated (in the same Daily Bruin article) that, “while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. 
+She added that she has heard of instances of Jewish students not receiving responses to complaints they sent to the UCLA Office of Equity, Diversity and Inclusion.”
 
 
 
+### March
 
+Pull the other quote from the Myers article that is more specific regarding the pig imagery. 
 
+### May
 
+[greens3](https://www.reddit.com/r/ucla/comments/1ck66g9/disc_how_do_you_expect_jews_to_act_on_campus/) also mentions antisemitic acts such as 
+"I.e swastikas on Jewish buildings, a Nazi truck playing Jewish blood libel on a loud speaker outside of Anderson this week, people chanting for a global intifada"
 
-
-
-
-
-
-
-
-
-
+https://www.instagram.com/combatantisemitism/reel/C6eXAlBtVOq/
 
 
 ## Antisemitic behavior continued as the pro-Palestinian movement gained traction
@@ -406,7 +485,7 @@ The IG post below, dated 5/16, shows a more recent CAC post again displaying the
 "Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
 and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
 
-
+https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
 
 ## After the protests the administration went into damage control mode
 
@@ -446,7 +525,13 @@ https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html
 Fact sheets:
 https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html
 https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html
-## The DOE needs to bring Title VI into the 21st century
+
+
+## Student ignorance is making things worse
+
+“Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
+
+## OCR Title VI severity thresholds should be reexamined 
 Write here about all the ongoing Title VI investigations.  
 
 ## Could the UC System be hiding the *real problem*?

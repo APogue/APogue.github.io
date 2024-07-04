@@ -226,7 +226,7 @@ figcaption {
     color: #666;
     margin-top: 5px;
     margin-bottom: 0px;
-    max-width: calc(100% - 60px); /* Force wrapping within the margins */
+    max-width: calc(100%); /* Force wrapping within the margins */
     font-size: .95em;
     width: 100%;
     display: inline-block; /* Changed to inline-block */
@@ -265,7 +265,7 @@ figcaption a {
 
 .single-caption {
     text-align: center;
-	max-width: calc(100% - 60px); /* Force wrapping within the margins */
+	max-width: calc(100%); /* Force wrapping within the margins */
     font-style: normal;
     color: #666;
     margin-top: 5px !important;

@@ -12,10 +12,10 @@ published: false
 ## Pro-Palestinian
 {: .custom-section-header}
 {% include sections/early-messaging-pro-palestinian-main.md %}-->
-
+<!--
 ## Pro-Israel, Jewish, Non-affiliate
 {: .custom-section-header}
-{% include sections/early-messaging-pro-israel-main.md %}
+{% include sections/early-messaging-pro-israel-main.md %}-->
 
 ## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
 {% include sections/months-prior-main.md %}
