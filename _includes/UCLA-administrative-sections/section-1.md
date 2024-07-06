@@ -279,6 +279,8 @@ The Instagram post below is referring to the previously mentioned professor led 
 waiting for attendees to harass and blockade them from entering a classroom. A video of the encounter can be found on the 5th page of the post. This behavior shows clear student misconduct
 due to the intimidation tactics and discriminatory harassment taking place; especially with the use of language such as "terrorist" and preventing access to a classroom using physical aggression with racist intent. 
 
+#### Non-affiliates were a problem from Day 1
+
 <figure id="figure-container" style="width: 45%;">
     <div class="figure-row">
     <blockquote 
@@ -334,7 +336,47 @@ due to the intimidation tactics and discriminatory harassment taking place; espe
 </div>
 
 There was no statement made by Chancellor Block in reference to the above incident. 
+
+On Oct 25th when [people gathered](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine) in Bruin Plaza to demonstrate in support of Palestine, a statement was made by a UCLA spokesperson in regards to the above incident. They stated that, 
+
+"members of the student affairs team intervened in response...[and] added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
+
+“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect,” they said in the statement." 
+
+#### Chants   
+The same article highlights chants that were heard,
+"Participants at the walkout, many of whom wore face masks to conceal their identities, chanted phrases such as “From the river to the sea, Palestine will be free,” “There is only one solution, intifada revolution” – a term historically referring to uprisings in Palestinian territories – and “Resistance is justified when people are occupied.”"
+
+On Oct 9th, the CAC stated in their IG post (above in Sec. Organizational Messaging...), "We are here to support Students for Justice in Palestine and the larger Palestinian community. We also stand on the grounds that decolonization is not a metaphor. Thus, we honor the Palestinians on the frontlines taking their land and sovereignty back! From the River to the Sea, Palestine Will Be Free."
+
+CAC's position mirrors the rhetorical message of these chants. We should assume that "honoring Palestinians on the frontlines" and "resistance is justified when people are occupied" means that these students are siding with Hamas. 
+
+We should also assume that SJP supports these chants, and given their alleged IG post referring to the "Al-Aqsa Flood", they too are siding with Hamas. The propaganda document [Our Narrative... Operation Al-Aqsa Flood](https://www.palestinechronicle.com/wp-content/uploads/2024/01/PDF.pdf) where Hamas details their viewpoints on the events of Oct 7th would validate this assumption. 
+
+In "[A Document](https://irp.fas.org/world/para/docs/hamas-2017.pdf) of General Principles & Policies," dated May 2017, Hamas outlined their [core policies](https://www.wilsoncenter.org/article/doctrine-hamas) and position on Israel. In Position 18 they state, "The following are considered null and void: the Balfour Declaration,
+the British Mandate Document, the UN Palestine Partition Resolution,
+and whatever resolutions and measures that derive from them or are
+similar to them. The establishment of "Israel" is entirely illegal and contravenes the inalienable rights of the Palestinian people..." 
+
+The document goes on to say in Position 20, "Hamas believes that no part of the land of Palestine shall be
+compromised or conceded, irrespective of the causes, the circumstances
+and the pressures and no matter how long the occupation lasts. Hamas
+rejects any alternative to the full and complete liberation of Palestine,
+from the river to the sea."
+
+The document also refers to Israel as a "Zionist project" with any mention of "Zionists" implying those who inhabit Israel which in their view rightfully belongs to the Palestinians. 
+
+
+
+#### Tuition funded CAC is once again taking a political position 
+"Alicia Verdugo, the Cultural Affairs commissioner for the Undergraduate Students Association Council, was one of the speakers at the walkout. Verdugo, who is also a third-year education and social transformation and sociology student, said in their speech that they felt it was important to advocate for Palestine, even if it put them at risk of hate and harassment.
+
+“No matter how high the stakes are, we are stronger together,” she said. “We will never be afraid when we’re together. We will never be ashamed when we’re together.”"
+
+
+
 ### November 
+
 Myers depiction of this “unbridgeable gulf” has been corroborated by the Daily Bruin, where [one article](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
 titled *Students voice worries over Islamophobia on UCLA campus*, dated November 19th, details several concerning statements made by students.
 
@@ -352,7 +394,7 @@ The article also makes reference to an IG message, presumably the message below,
       <img src="/images/2024-07-03/cac-nov-7-ig.png" alt="CAC message regarding Nov 7th rally" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-      Image 1/1: <a href="https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">CAC Nov IG message</a> detailing harassment to CAC staff and "older non-students who started shoving" students selling keffiyehs on Bruin Walk. Claims were made that throughout the day "non-students harassed, threatened, and assaulted" students and "nothing was done by campus security teams&mdash;includng UCPD."
+      Image 1/1: <a href="https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">CAC IG message</a>, dated Nov 7th, detailing harassment to CAC staff and "older non-students who started shoving" students selling keffiyehs on Bruin Walk. Claims were made that throughout the day "non-students harassed, threatened, and assaulted" students and "nothing was done by campus security teams&mdash;includng UCPD."
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
@@ -371,17 +413,16 @@ An incident occurred at this rally and is detailed in a Los Angeles Magazine [ar
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption>
-  UCLA students are shown beating a pinata with Benjamin Netanyahu's face on it and screaming hate speech.
+  In a video obtained by the New York Post, dated Nov 10th, UCLA students are shown beating a pinata with Benjamin Netanyahu's face on it and screaming hate speech at a pro-Palestinian rally that took place a couple days before.
 </figcaption>
 </figure>
 
-Dan Gold was quoted in the article saying "students have been called Zionists on social media...[he also] said he believes rallies in support of Palestine have made Jewish students feel unsafe on campus. He added that he feels 
-that chants such as 'Resistance is justified when people are occupied' and 'From the river to the sea, Palestine will be free' are statements intended to intimidate others.”
+Based on anti-Israel chants and hate speech that had been happening at rallies thus far, it's reasonable that Jewish students would [skip classes](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) to avoid rallies and demonstrations. 
+
+
+Jewish students have also run into antisemitic insignia and behavior outside of rallies at UCLA,
 
 "Bella Brannon, the student president of Hillel at UCLA, said she has seen a swastika carved into a tree on campus and experienced people making comments that perpetuate antisemitic stereotypes during meetings."
-
-
-A student was quoted saying "he knows some Jewish students who have skipped classes because they were uncomfortable walking through these rallies."
 
 
 [Gene Block's response](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) to incidents occurring on both Nov 7th and 8th can be found here.  
@@ -392,18 +433,15 @@ She added that she has heard of instances of Jewish students not receiving respo
 
 
 
+### December
+https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine
+
+https://www.nytimes.com/2023/12/13/us/politics/education-department-campus-discrimination.html
 ### March
 
 Pull the other quote from the Myers article that is more specific regarding the pig imagery. 
 
 Also missing dates on the above figures
-
-### May
-
-[greens3](https://www.reddit.com/r/ucla/comments/1ck66g9/disc_how_do_you_expect_jews_to_act_on_campus/) also mentions antisemitic acts such as 
-"I.e swastikas on Jewish buildings, a Nazi truck playing Jewish blood libel on a loud speaker outside of Anderson this week, people chanting for a global intifada"
-
-https://www.instagram.com/combatantisemitism/reel/C6eXAlBtVOq/
 
 
 ## Antisemitic behavior continued as the pro-Palestinian movement gained traction
@@ -481,20 +519,7 @@ The IG post below, dated 5/16, shows a more recent CAC post again displaying the
   <span class="maximize-icon">&#x26F6;</span>
 </div>
 
-
-
-## Student and faculty voices are identity-driven
-"Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
-and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
-
-https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
-
-## After the protests the administration went into damage control mode
-
-
-
-
-## A lot of talk and no action...
+### May 
 
 In response to UCLA's handling of the protest events, the CAC posted again, this time with the below image affixing the UCLA Chancellor (who is Jewish) Gene Block’s face to the body of a pig wearing a 
 police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetoric, combines antisemitic stereotypes with derogatory slang for police officers.
@@ -508,7 +533,7 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
     </a>
     <figcaption>
      CAC Demands Gene Block Resign after the pro-Palestinian encampment was shut down in 
-	 a<a href="https://www.instagram.com/p/C6sht0ROgJk/" style="color:#0F52BA; text-decoration:none">&nbsp;post dated May 7th.</a>
+   a<a href="https://www.instagram.com/p/C6sht0ROgJk/" style="color:#0F52BA; text-decoration:none">&nbsp;post dated May 7th.</a>
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
@@ -517,6 +542,29 @@ police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetori
 
 Based on their USAC affiliation, CAC should not have any content on public facing sites they aren’t willing to post on their UCLA hosted site. Their 
 content directly contradicts their mission *to be accessible to all students*.
+
+
+[greens3](https://www.reddit.com/r/ucla/comments/1ck66g9/disc_how_do_you_expect_jews_to_act_on_campus/) also mentions antisemitic acts such as 
+"I.e swastikas on Jewish buildings, a Nazi truck playing Jewish blood libel on a loud speaker outside of Anderson this week, people chanting for a global intifada"
+
+https://www.instagram.com/combatantisemitism/reel/C6eXAlBtVOq/
+
+https://www.reddit.com/r/ucla/comments/1cimrik/antisemitic_graffiti_on_campus/
+
+## Student and faculty voices are identity-driven
+"Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
+and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
+
+https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
+
+## After the protests the administration went into damage control mode
+
+
+
+
+## A lot of talk and no action...
+Office of EDI, what do they do...
+
 
 This article outlines UCLA's failings to prevent a hostile environment under Title VI
 https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf
@@ -534,9 +582,18 @@ https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-a
 https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/
 https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf
 
-## Student ignorance is making things worse
+Vigil 
+https://dailybruin.com/2023/11/02/ucla-community-gathers-for-vigil-honoring-israeli-palestinian-lives
 
+## Student ignorance is making things worse
+https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
 “Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
+
+From the river to the sea...
+[Nov 8th rally](https://dailybruin.com/2023/11/08/students-for-justice-in-palestine-uc-divest-host-rally-in-support-of-palestine)
+[Oct 25th rally](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
+Here put student reactions to the chants (reddit)
+And other gathered evidence from other article
 
 ## OCR Title VI severity thresholds should be reexamined 
 Write here about all the ongoing Title VI investigations.  
