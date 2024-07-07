@@ -584,7 +584,7 @@ There is no record of the votes, but the majority of members appeared to dismiss
 
 In 2022-2023, a UCLA undergraduate was charged $289.85 for the [Undergraduate Students Association Fee](https://sa.ucla.edu/RO/Fees/Public/public-fees?year=2023-2024&term=Annual&degree=Undergraduate%20cohort%202022-23). "The fee supports the undergraduate student government organization. It is collected by the University and passed on to Associated Students of UCLA for use by the undergraduate student government...Funds are used primarily to support student government and for programming such as community service, films, cultural events, and concerts." 
 
-According to UC Divest's IG page, this amounts to approximately 10 million in annual funding that is "sent to USAC to be governed by the 15 elected USAC offices for different programs and initiatives." Whether this money is at the sole discretion of USAC, or is related to The [Student Fee Advisory Committee](https://campuslife.ucla.edu/committees) that helps oversee $50M in student fees annually, is unknown. 
+According to UC Divest's [IG page](https://www.instagram.com/p/C3iVz9jJLc8/?hl=en&img_index=2), this amounts to approximately 10 million in annual funding that is "sent to USAC to be governed by the 15 elected USAC offices for different programs and initiatives." Whether this money is at the sole discretion of USAC, or is related to the [Student Fee Advisory Committee](https://campuslife.ucla.edu/committees) that helps oversee $50M in student fees annually, is unknown. 
 
 The resolution contains phrasing such as, 
 
@@ -604,7 +604,7 @@ It also says, "WHEREAS, this resolution is endorsed by Students for Justice in P
 
 The Daily Bruin stated "some student advocates cited parallels between BDS and the successful campaign by students in the 1980s calling for the UC to divest from companies doing business with the South African government, which was enforcing a system of apartheid."
 
-The difference is, the movement calling for the end of South African apartheid came from an assembled group within the general student body at Berkeley. It did not come from the student gov't. The issue arises when a University of California student, pays mandatory Undergraduate Students Association Fees in order to be allowed to attend the university. 
+The difference is the movement calling for the end of South African apartheid came from an assembled group within the general student body at Berkeley. It did not come from the student gov't. The issue arises when a University of California student pays mandatory Undergraduate Students Association Fees in order to be allowed to attend the university. 
 
 The above phrasing is highly critical of Israel, going far beyond military operations taking place in Gaza. Regardless of specific content, the message is political and calls into question whether the USAC is following their own [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1).
 
@@ -621,7 +621,7 @@ As for other council members, it should be investigated whether accepting the Un
 
 Title VI is very clear on discrimination based on national origin. Is this resolution, by a student government that forcibly takes fees from Jewish and Israeli students, a violation of Title VI? If an Israeli student can't attend a public university that receives federal funding without paying the student fees this means they must denounce their country of origin in order to attend the university; especially if they do not represent a large enough voting bloc to change USAC rhetoric. 
 
-This is not an ad hoc political movement where a group of students work with the university administration to change policy. This is a system&mdash;a governing body at UCLA that cannot and will not represent certain minorities within the student body, but is funded by those minorities. This represents a *systematic form of oppression* based on the national origin of this minority group. 
+This is not an ad hoc political movement where a group of students work with the university administration to change policy. This is a system&mdash;a governing body at UCLA that cannot and will not represent certain minorities within the student body but is funded by those minorities. This represents a *systematic form of oppression* based on the national origin of this minority group. 
 
 USAC may be confusing mandatory student fees with taxes, for example. When a U.S. citizen becomes naturalized, applicants are required to take an Oath of Allegiance, which includes pledging loyalty to the United States and renouncing allegiance to other nations. There is no such oath taken by applicants to the University of California. There is no such demand to renounce other nations. 
 
