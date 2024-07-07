@@ -242,6 +242,15 @@ figcaption a {
     text-decoration: none; /* No underline */
 }
 
+figcaption .photographer-credit {
+    font-family: 'Courier New', Courier, monospace;
+    color: #444;
+    white-space: normal; /* Prevent breaking */
+    font-size: .95em;
+    margin-left: 0px; /* Add some space between elements */
+    margin-top: 3px;
+}
+
 .figure-container {
     display: flex;
     flex-direction: column;

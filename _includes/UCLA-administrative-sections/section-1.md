@@ -256,13 +256,15 @@ Even phrasing such as "From the River to the Sea..." used by both orgs violates 
 SJP, there should be no collaborations between the groups.
 
 In regards to non-USAC orgs such as JVP, despite differing views on a "free Palestine," their Instagram content, where they have been tagged by SJP (and FJP the faculty branch at UCLA) 
-and vice versa, shows they stand in solidarity with SJP. They collaborate in [protest efforts](https://www.instagram.com/p/C6MHxXNx3Bb/?img_index=1) and also 
-support the boycott, divestment, sanctions ([BDS](https://www.instagram.com/p/CxqfsNngaOj/?img_index=1)) movement.
+and vice versa, shows they stand in solidarity with SJP. They collaborate in [protest efforts](https://www.instagram.com/p/C6MHxXNx3Bb/?img_index=1), [symbolic gatherings](https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence), and also 
+support the boycott, divestment, sanctions ([BDS](https://www.instagram.com/p/CxqfsNngaOj/?img_index=1)) movement. 
 
-CAC on the other hand, *has not shown any evidence* (via IG tagging or "@" mentions) of working with JVP, despite a shared interest in the pro-Palestinian movement. 
+CAC on the other hand, *has not shown any evidence* (via IG tagging, "@" mentions, or Daily Bruin articles) of working with JVP, despite a shared interest in the pro-Palestinian movement. 
 
-Hillel and Chabad House are largely apolitical. Their relevant messaging centers around the Jewish experience--- 
+Hillel and Chabad House are cultural, religious, and political in their messaging. Their relevant messaging centers around the Jewish experience within the campus community--- 
 largely made up of grievances and discomfort---on campus after the events of Oct 7th.
+
+Official statements with regards to Israel can be found [here](https://www.uclahillel.org/stateofjewishbruinlifeoct2023)
 
 ## The administration didn't want to face the problem 
 David Myers wrote an [op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse) entitled 
@@ -373,8 +375,30 @@ The document also refers to Israel as a "Zionist project" with any mention of "Z
 
 “No matter how high the stakes are, we are stronger together,” she said. “We will never be afraid when we’re together. We will never be ashamed when we’re together.”"
 
+#### Non-affiliates schedule protests at the university
+
+According to [a Daily Bruin article](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine), "Events held by non-university groups must be booked through the UCLA Events Office, which has the right to dictate the timing, location and manner of the protest...One recent protest in support of Israel on Oct. 30 was not hosted by organizations affiliated with the university."
+
+<div class="lightbox-trigger" style="width: 45%;">
+  <figure id="fig:reddit-hamas-islam-death" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/islamophobes-on-campus.jpg')" data-title="Early protests (10/23) spark concerns over Islamophobic imagery">
+      <img src="/images/2024-05-20/early-messaging/islamophobes-on-campus.jpg" 
+        alt="Early protests (10/23) spark concerns over Islamophobic imagery" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Reddit post, dated Oct 30th, sparks concerns over Islamophobic imagery. See the post <a href="https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/" style="color:#0F52BA; text-decoration:none;">here</a>.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
 
 
+The above image is a photo of a non-affiliate protester on UCLA campus presumably on Oct 30th.
+
+
+Stratl03-"I saw this guy in particular as the protest went by. He was causing so many problems, yelling at people as he went by. The organizers had to keep moving him along. It drives me crazy that he was making the face of their movement a face of anger, when everyone else looked so nice. I would have had him removed from the movement, because it’s like he was trying to pick fights, which is super detrimental to the cause."
+
+https://dailybruin.com/2023/10/30/ucla-community-members-host-protest-to-show-support-for-jewish-students
 ### November 
 
 Myers depiction of this “unbridgeable gulf” has been corroborated by the Daily Bruin, where [one article](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
@@ -425,23 +449,206 @@ Jewish students have also run into antisemitic insignia and behavior outside of 
 "Bella Brannon, the student president of Hillel at UCLA, said she has seen a swastika carved into a tree on campus and experienced people making comments that perpetuate antisemitic stereotypes during meetings."
 
 
-[Gene Block's response](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) to incidents occurring on both Nov 7th and 8th can be found here.  
-
+[Gene Block responded](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) to incidents occurring on both Nov 7th and 8th in a Nov 10th message. 
 
 Hillel’s student president Bella Brannon stated (in the same Daily Bruin article) that, “while she appreciates that the administration has made statements in support of Jewish students, she feels there is more that it could do. 
 She added that she has heard of instances of Jewish students not receiving responses to complaints they sent to the UCLA Office of Equity, Diversity and Inclusion.”
 
 
-
 ### December
-https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine
 
-https://www.nytimes.com/2023/12/13/us/politics/education-department-campus-discrimination.html
+On Dec 5, the Daily Bruin published an [article](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine) entitled, *UCLA faces scrutiny for safety issues at protests for Israel, Palestine*. 
+
+The article covers issues of slow responses from UCLA administration liaisons, security failure issues and imbalanced policing, 
+
+"Organizers of and participants in recent protests on campus related to the ongoing Israel-Hamas war said UCLA’s approach to policing these protests has been imbalanced and insufficient."
+
+"Though UCLA Media Relations declined a request for an interview with UCLA Student Affairs, citing a lack of availability, UCLA spokesperson Ricardo Vazquez said in an emailed statement that the office of Student Organizations, Leadership & Engagement attempts to meet with UCLA organizations planning protests and rallies to advise them on event logistics." Logistics that Vazquez is referring to here include scheduling, safety and security. 
+
+Vazquez also made a point to say that UCLA sends "monitors from Student Affairs" to events as well, although he "did not elaborate on what training they received," but did say that individuals ""who are trained on de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions while protecting participants’ right to speak.""
+
+The article also mentioned concerns from the campus community that some chants are antisemitic,
+
+"However, Vazquez said in the statement that the university does not restrict or control the views shared by student groups."
+(Title VI encourages statements by the university why don't they do this?)
+
+
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:hillel-dec-letter" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/early-grievence-letter-hillel.png')" data-title="Hillel student board members express concern over “rise of hate”">
+      <img src="/images/2024-05-20/early-messaging/early-grievence-letter-hillel.png" 
+        alt="Hillel student board members express concern over “rise of hate”" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Hillel student board members express concern over “rise of hate” in an <a href="https://www.instagram.com/p/C1BN9tHr054/?hl=en" style="color:#0F52BA; text-decoration:none;">IG post</a> dated Dec 18th. 
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+The above image shows an IG post written by Hillel Student Board Members on December 18th, stating that "Despite numerous attempts to engage with our Student Government to acknowledge the pain felt by Jewish students and create formidable paths to combat hate, many of our leaders have decided to choose a path of ignorance instead."
+
+The post goes on to say that "Campus Administration [is] failing to recognize and confront various reports of harassment submitted to the Office of Diversity, Equity, and Inclusion."
+
+"Additionally, numerous council members within our student government have publicized vitriolic remarks that continually harm Jewish students on our campus and exclude Jewish students from their inclusion efforts. Despite Hillel's calls to cordially engage with these Student Government members, our invitations have been repeatedly ignored."
+
+
+UCLA currently has 7 [Title VI cases](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&page=31) pending with the Office of Civil Rights (OCR). The earliest case by date categorizes the discrimination as "Title VI-National Origin Discrimination Involving Religion" with an open investigation date of Dec 06, 2023. While details on pending investigations are not given, in a [press release](https://www.ed.gov/news/press-releases/us-department-educations-office-civil-rights-announces-list-open-title-vi-shared-ancestry-investigations-institutions-higher-education-and-k-12-schools) from Nov 16, the OCR stated their aim "to take aggressive action to address the alarming nationwide rise in reports of antisemitism, anti-Muslim, anti-Arab, and other forms of discrimination and harassment on college campuses and in K-12 schools since the October 7 Israel-Hamas conflict."
+
+### February
+On Feb 8th, "Students for Justice in Palestine and the [UC Divest Coalition](https://www.instagram.com/p/C3iVz9jJLc8/?hl=en&img_index=1) at UCLA [held a rally](https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel)...calling on the university to divest from companies associated with Israel."
+
+
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:feb-8-rally" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/feb-8-rally.jpg')" data-title="Rally calling for UC to divest was held on Feb 8th">
+      <img src="/images/2024-05-20/early-messaging/feb-8-rally.jpg" 
+        alt="Rally calling for UC to divest was held on Feb 8th" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Rally attended by approximately 100 people sponsored by UC Divest at UCLA and SJP at UCLA. The rally, held on Feb 8th, called for UCLA to divest from corporations associated with Israel. 
+      <a href="https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel" 
+         style="color:#0F52BA; text-decoration:none;">Read more here</a>.
+      <span class="photographer-credit">&nbsp;Shane Yu/Daily Bruin staff</span>
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+
+A direct account was given by a Bruin journalist attending the BDS rally (above image), 
+
+"A small number of counter-protesters also attended the rally, including a person holding an Israeli flag and heckling speakers outside of Murphy Hall."
+
+"Although SJP has told rally attendees not to engage with counter-protesters in its guidelines, one speaker...appeared to address them directly by insulting the physical characteristics of counter-protesters. Descriptions of physical characteristics are a common antisemitic trope, according to the Media Diversity Institute."
+
+“'Do you realize how Zionists, … they have that ugly, half-American, half-Zionist smiles?” they said in a speech, leading to shouts of agreement from the crowd. The speaker also repeated insults at counter-protesters, even after being instructed not to engage with them by other organizers. “They’re just losers who are colonizers and settlers, and they will be defeated,” they said in a speech. “They are stupid, annoying and ugly.”"
+
+On Feb 20th, The USAC passed a resolution titled, [*A Resolution*](https://docs.google.com/document/d/1lVu1gC2K_oXhMl7-516jBoLsn1q3z9J5OE4HGqRdi_U/edit) *to Boycott and Divest from Apartheid, Ethnic Cleansing, and Genocide*.
+
+The resolution, sponsored by CAC Commissioner Alicia Verdugo, was opposed by Hillel at UCLA. They made a [statement on IG](https://www.instagram.com/p/C3bLTu1S4OF/?img_index=1) as well as an [official statement](https://docs.google.com/document/d/1n9uKsCn5DXzIy30ibswJZTC5qgJtEXWnWaQvlLjziLs/edit?pli=1) stating the details of their opposition. 
+
+
+A Daily Bruin [article](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement) covering the resolution, dated Feb 21st, mentioned calls for the impeachment of Verdugo, citing "allegations of antisemitism from pro-Israel groups and Jewish students."
+
+
+<!-- Main Display Image -->
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:uclabipac1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/uclabipac1.png')" data-title="UCLABIPAC message part 1">
+      <img src="/images/2024-07-03/uclabipac1.png" alt="UCLABIPAC message part 1" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1/5: <a href="https://www.instagram.com/p/C3a68r6uAHC/?igsh=ZWMyNDBlOTQyNg%3D%3D&img_index=1" style="color:#0F52BA; text-decoration:none; display:inline;">UCLABIPAC IG message</a>, dated Feb 16th, issued a joint statement on behalf of Jewish student organizations and student leaders calling for the impeachment of Alicia Verdugo. The statement lists several examples, where Verdugo was functioning in an official capacity or as an individual where, as a member of the USAC council, she exhibits clear ethics violations. 
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+<!-- Hidden Images for Carousel -->
+<div class="figure-container" style="display: none;">
+  <div class="figure-row">
+    <figure id="fig:uclabipac2" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/uclabipac2.png')">
+        <img src="/images/2024-07-03/uclabipac2.png" alt="UCLABIPAC message part 2" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+    <figure id="fig:uclabipac3" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/uclabipac3.png')">
+        <img src="/images/2024-07-03/uclabipac3.png" alt="UCLABIPAC message part 3" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+    <figure id="fig:uclabipac4" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/uclabipac4.png')">
+        <img src="/images/2024-07-03/uclabipac4.png" alt="UCLABIPAC message part 4" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+    <figure id="fig:uclabipac5" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-07-03/uclabipac5.png')">
+        <img src="/images/2024-07-03/uclabipac5.png" alt="UCLABIPAC message part 5" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+    </figure>
+  </div>
+</div>
+
+According to the USAC 2024-2025 [officers page](https://www.usac.ucla.edu/officers), it looks like not only has Verdugo not been removed from office, she has been successfully reelected to the position of CAC commissioner for another academic year.
+
+
+"Such a move at a time of high emotions prompted several questions among council members, such as whether the resolution’s mandate to take advice from the BDS movement placed USAC in murky legal territory. Others wondered if it was USAC’s role to take positions on violence outside the United States. Members were also at odds over whether anti-Zionism is a form of antisemitism and if council members had enough knowledge about the BDS movement and the Israeli-Palestinian conflict.
+
+There is no record of the votes, but the majority of members appeared to dismiss several of the concerns raised by General Representatives Katie Pool and Gabby Lasry and Financial Supports Commissioner Sara Broukhim. The three also charged that the resolution has inaccuracies, risks isolating Jewish students on campus and takes time away from more effective measures, such as a current proposal in the works by Student Wellness Commissioner Jennis Kang advocating for academic leniency to students whose families have been harmed in the war."
+
+In 2022-2023, a UCLA undergraduate was charged $289.85 for the [Undergraduate Students Association Fee](https://sa.ucla.edu/RO/Fees/Public/public-fees?year=2023-2024&term=Annual&degree=Undergraduate%20cohort%202022-23). "The fee supports the undergraduate student government organization. It is collected by the University and passed on to Associated Students of UCLA for use by the undergraduate student government...Funds are used primarily to support student government and for programming such as community service, films, cultural events, and concerts." 
+
+According to UC Divest's IG page, this amounts to approximately 10 million in annual funding that is "sent to USAC to be governed by the 15 elected USAC offices for different programs and initiatives." Whether this money is at the sole discretion of USAC, or is related to The [Student Fee Advisory Committee](https://campuslife.ucla.edu/committees) that helps oversee $50M in student fees annually, is unknown. 
+
+The resolution contains phrasing such as, 
+
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:usac-res1" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/usac_res1.png')" data-title="USAC Resolution 1">
+      <img src="/images/2024-07-03/usac_res1.png" alt="USAC Resolution 1" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      <a href="https://docs.google.com/document/d/1lVu1gC2K_oXhMl7-516jBoLsn1q3z9J5OE4HGqRdi_U/edit" style="color:#0F52BA; text-decoration:none;">USAC Resolution</a>
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+It also says, "WHEREAS, this resolution is endorsed by Students for Justice in Palestine at UCLA, Graduate Students for Justice in Palestine at UCLA, and Law Students for Justice in Palestine at UCLA" and UC Divest Coalition at UCLA is a sponsoring organization. 
+
+The Daily Bruin stated "some student advocates cited parallels between BDS and the successful campaign by students in the 1980s calling for the UC to divest from companies doing business with the South African government, which was enforcing a system of apartheid."
+
+The difference is, the movement calling for the end of South African apartheid came from an assembled group within the general student body at Berkeley. It did not come from the student gov't. The issue arises when a University of California student, pays mandatory Undergraduate Students Association Fees in order to be allowed to attend the university. 
+
+The above phrasing is highly critical of Israel, going far beyond military operations taking place in Gaza. Regardless of specific content, the message is political and calls into question whether the USAC is following their own [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1).
+
+Article I, Section D of the bylaws, *Conflict of Interest*, states, "Within these
+parameters, no Association member, elected or appointed or pending
+appointment, may have an unauthorized financial, familial, organizational or
+political interest or obligation which might cause divided loyalty or even the
+appearance of divided loyalty to the position which they serve or potentially
+will serve."
+
+The sponsor of the resolution, Alicia Verdugo, based on her activity on social media, exhibits a clear conflict of interest. Where political interest, i.e. siding with Hamas and statements that include hate speech online, have compromised her ability to govern effectively. 
+
+As for other council members, it should be investigated whether accepting the Undergraduate Student Association Fee from students who are Israeli or have familial and/or financial ties to Israel represents a conflict of interest. They may boycott where the money is going, but why haven't they scrutinized where it is coming from? Are they not partially supported by Israel? 
+
+Title VI is very clear on discrimination based on national origin. Is this resolution, by a student government that forcibly takes fees from Jewish and Israeli students, a violation of Title VI? If an Israeli student can't attend a public university that receives federal funding without paying the student fees this means they must denounce their country of origin in order to attend the university; especially if they do not represent a large enough voting bloc to change USAC rhetoric. 
+
+This is not an ad hoc political movement where a group of students work with the university administration to change policy. This is a system&mdash;a governing body at UCLA that cannot and will not represent certain minorities within the student body, but is funded by those minorities. This represents a *systematic form of oppression* based on the national origin of this minority group. 
+
+USAC may be confusing mandatory student fees with taxes, for example. When a U.S. citizen becomes naturalized, applicants are required to take an Oath of Allegiance, which includes pledging loyalty to the United States and renouncing allegiance to other nations. There is no such oath taken by applicants to the University of California. There is no such demand to renounce other nations. 
+
+
+Article I, Section E of the bylaws, *Discrimination*, also seems relevant here. "The Council shall not support or affiliate with any organization which legally
+discriminates on the basis of: race, creed, sex (except as exempt from Title IX),
+age, national origin, religion, physical handicap, or sexual orientation." Based on this, they should not affiliate with their own organization&mdash;The Cultural Affairs Commission. 
+
+Article II, Section E details the impeachment process, "Any student holding an appointed office approved by the Council...may be removed from office only after
+hearing and for cause by concurrence of two-thirds (2/3) of the voting members
+of the Council, which shall be the sole judge of cause."
+
+"If it be found thereafter that action by a Council appointee is inconsistent with
+a Council directive, this will be deemed as just cause for the removal of that
+appointee by a two-thirds (2/3) vote of council."
+
+Verdugo's misconduct continues well into Spring Quarter. Calls for her impeachment by UCLABIPAC were published in the Daily Bruin. Complaints that the student government would not work with Hillel were published as early as December. Not only did the the Council fail to address the issue and consider impeachment proceedings, Verdugo has been elected for another academic year. Does the issue with the Council go beyond Verdugo?  
+
+
 ### March
 
 Pull the other quote from the Myers article that is more specific regarding the pig imagery. 
 
 Also missing dates on the above figures
+
+
+
 
 
 ## Antisemitic behavior continued as the pro-Palestinian movement gained traction
@@ -519,6 +726,8 @@ The IG post below, dated 5/16, shows a more recent CAC post again displaying the
   <span class="maximize-icon">&#x26F6;</span>
 </div>
 
+https://www.reddit.com/r/Asmongold/comments/1cglw8f/jewish_ucla_student_blocked_from_entering_his_own/
+
 ### May 
 
 In response to UCLA's handling of the protest events, the CAC posted again, this time with the below image affixing the UCLA Chancellor (who is Jewish) Gene Block’s face to the body of a pig wearing a 
@@ -554,6 +763,13 @@ https://www.reddit.com/r/ucla/comments/1cimrik/antisemitic_graffiti_on_campus/
 ## Student and faculty voices are identity-driven
 "Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
 and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
+
+
+
+
+
+
+“The idea of not being educated is inherently classist, and, frankly, it feels a little coded in particular, as someone coming in from a low-income background, that I’m being told by a council member and peer that I may not be educated,” Valenzuela Mejia said. “As a Guatemalan, … my country went through genocide. My family died in the Guatemalan Mayan genocide. I understand. I very well know what genocide looks like.” https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement
 
 https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
 
