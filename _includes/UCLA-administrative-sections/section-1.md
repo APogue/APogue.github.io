@@ -640,16 +640,71 @@ appointee by a two-thirds (2/3) vote of council."
 
 Verdugo's misconduct continues well into Spring Quarter. Calls for her impeachment by UCLABIPAC were published in the Daily Bruin. Complaints that the student government would not work with Hillel were published as early as December. Not only did the the Council fail to address the issue and consider impeachment proceedings, Verdugo has been elected for another academic year. Does the issue with the Council go beyond Verdugo?  
 
-
+Contextual history:
+https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism
+https://dailybruin.com/2014/05/23/submission-usac-ethics-statement-exacerbates-israeli-palestinian-situation
+https://forward.com/israel/202616/why-did-ucla-hillel-funnel-cash-from-pro-israel-do/
 ### March
 
-Pull the other quote from the Myers article that is more specific regarding the pig imagery. 
-
-Also missing dates on the above figures
+A meeting of the UC Regents at UCLA on March 20th-21st was [met with protests](https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1) spanning from the 19th to the 21st. The protests were primarily against action item, [J1](https://dailybruin.com/2024/05/16/uc-regents-tables-discussion-on-item-j1-to-future-meeting), with additional calls for BDS, 
 
 
+"The protest’s goals are to call on the UC to divest from BlackRock – a company that has alleged ties to the Israeli military – and to not support the policy up for vote."
+
+Citing lack of adequate time for discussion, J1 has been [tabled](https://dailybruin.com/2024/05/16/uc-regents-tables-discussion-on-item-j1-to-future-meeting) for a future meeting. 
+
+In his [op-ed](https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse), Myers addressed---and likely the reason he felt compelled to speak out in the first place---an antisemitic statue placed outside of the UC Regents meeting on March 20th. "The regents’ meeting attracted protesters who bore signs and uttered chants 
+calling for divestment from companies that have ties to the Israeli military. Alongside these signs, someone placed...a statue that depicted a pig holding a bag of money in one hand and a birdcage with a keffiyeh in the other." 
+
+"To anyone familiar with classic antisemitic stereotypes, it is impossible not to recoil."
 
 
+
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:regents-antisemitic-pig" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/early-messaging/uc-regents-pig.jpg')" data-title="Antisemitic Imagery at UC Regents Meeting">
+      <img src="/images/2024-05-20/early-messaging/uc-regents-pig.jpg" 
+        alt="Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Unknown perpetrators place antisemitic imagery outside of a UC Regents meeting at UCLA on March 20th. 
+      <a href="https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse" 
+         style="color:#0F52BA; text-decoration:none;">Read more here</a>.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+"Since the 13th century, Jews have been associated with pigs – or, more accurately, with their coarse and animal-like quality..."
+
+"Indeed, for Jews – as well as for Muslims – the pig is the epitome of uncleanliness, reflecting the kind of perverse paradox on which anti-Jewish and other group-based hate rests...it became a feature of Nazi propaganda that cast Jews as Judenschwein, meaning Jewish pigs. And since that time, antisemites have equated Jews with pigs..."
+
+The use of derogatory epithets in statue's imagery did not stop there, 
+
+"and a hand holding a bag of money...Haters of Jews, such as the late 19th-century French author Édouard Drumont, have repeatedly cast them as avaricious, money-grubbing, materialistic and intent on global economic domination." 
+
+"Again, to anyone familiar with the repertoire of antisemitic images, it is hard to regard the assemblage of the pig, bag of money and star of David as anything other than a case of antisemitism that taps into deeply ingrained stereotypes..."
+
+"[And] it is important to recognize that the statue was deeply wounding to many members of the campus community."
+
+
+UCLA [issued a statement](https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting) in response to the statue on March 28th. "The protest ended on March 21 and the display has been removed. Hateful and racist depictions like this are a complete affront to UCLA’s Principles of Community and True Bruin Values, and to the diverse, inclusive academic community we aim to cultivate. 
+
+It is absolutely critical that Jewish members of our community — as well as those of all backgrounds and faiths — are treated with respect and dignity. We remain committed to doing all we can to support the safety and protect the rights of everyone on our campus."
+
+
+### UCLA was prepared to "protect" the meeting of the Regents
+The meeting of the UC Regents, including [controversial](https://medium.com/@ucpalestinecollective/reckoning-with-racism-bigotry-a-call-for-the-resignation-of-uc-regents-chair-richard-leib-38cc3b79d5d0) Chair [Richard Leib](https://regents.universityofcalifornia.edu/about/members-and-advisors/bios/richard-leib.html), was met with a sit-in the night before at the meeting location hotel lobby,
+
+"Students and community members entered the Meyer and Renee Luskin Conference Center around 8 p.m., before UCPD requested backup from LAPD at around 8:40 p.m."
+
+"At least 40 police officers from multiple departments, including UCPD, LAPD and Beverly Hills Police Department, arrived at the hotel and conference center shortly after and set up barricades around its entrance. Officers wore riot helmets and carried batons and rubber bullets."
+
+"“They showed up with face shields and riot gear. They showed up with batons. They showed up with ‘less-than-lethal guns,’” Anna said. “It looks like there’s … 100 cops being called on UCLA students.”"
+
+"A UCLA spokesperson said in an emailed statement that UCPD peacefully dispersed the protest and relocated the students to an area where they were permitted to assemble."
+
+"“Students have a right to protest in line with UCLA’s Time, Place, and Manner policies, which prioritizes the safety and well-being of everyone on campus,” the spokesperson said in an edited statement. “In this instance, however, students staged a rally, without a permit, at the Luskin Conference Center rather than at the designated protest area.”"
 
 ## Antisemitic behavior continued as the pro-Palestinian movement gained traction
 Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
@@ -733,7 +788,7 @@ https://www.reddit.com/r/Asmongold/comments/1cglw8f/jewish_ucla_student_blocked_
 In response to UCLA's handling of the protest events, the CAC posted again, this time with the below image affixing the UCLA Chancellor (who is Jewish) Gene Block’s face to the body of a pig wearing a 
 police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetoric, combines antisemitic stereotypes with derogatory slang for police officers.
 
-
+https://forward.com/opinion/608479/ucla-violence-campus-protests/
 
 <div class="lightbox-trigger float-right" style="width: 85%;">
   <figure id="fig:CAC-block-resign" style="width: 100%; height: auto;">
@@ -760,14 +815,17 @@ https://www.instagram.com/combatantisemitism/reel/C6eXAlBtVOq/
 
 https://www.reddit.com/r/ucla/comments/1cimrik/antisemitic_graffiti_on_campus/
 
+https://forward.com/opinion/608479/ucla-violence-campus-protests/
+
+https://www.nbcnews.com/news/education/israel-divestment-difficulty-colleges-rcna150019
+
+
+https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts
+"The attack began around 10:50 p.m., when counter-protesters started throwing fireworks and tear gas into the encampment. Vice Chancellor for Strategic Communications Mary Osako said at 12:12 a.m. in a statement that law enforcement had been called for immediate support. However, police did not intervene until more than two hours later."
+
 ## Student and faculty voices are identity-driven
 "Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
 and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
-
-
-
-
-
 
 “The idea of not being educated is inherently classist, and, frankly, it feels a little coded in particular, as someone coming in from a low-income background, that I’m being told by a council member and peer that I may not be educated,” Valenzuela Mejia said. “As a Guatemalan, … my country went through genocide. My family died in the Guatemalan Mayan genocide. I understand. I very well know what genocide looks like.” https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement
 
@@ -801,6 +859,12 @@ https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Re
 Vigil 
 https://dailybruin.com/2023/11/02/ucla-community-gathers-for-vigil-honoring-israeli-palestinian-lives
 
+
+Who are the big donors?:
+https://ejewishphilanthropy.com/ucla-donor-sharon-nazarian-decries-anti-israel-protesters-demands-to-shutter-schools-israel-studies-department/
+
+https://newsroom.ucla.edu/releases/5-million-gift-ensure-ucla-center-jewish-studies-remains-among-best-in-u-s
+
 ## Student ignorance is making things worse
 https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
 “Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
@@ -810,6 +874,9 @@ From the river to the sea...
 [Oct 25th rally](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
 Here put student reactions to the chants (reddit)
 And other gathered evidence from other article
+
+
+While the antisemitic imagery displayed in Figure 2 might be obvious to some, this is not the case for others. Figure 3 shows “MysteriousQueen81” attempting to gamify logic in order to argue the semantics underlying the imagery. To which anyone familiar with racist imagery in our art and culture might borrow “ToTheLastParade”’s response in saying, “The mental gymnastics in this post…”
 
 ## OCR Title VI severity thresholds should be reexamined 
 Write here about all the ongoing Title VI investigations.  
