@@ -679,7 +679,7 @@ calling for divestment from companies that have ties to the Israeli military. Al
 
 "Indeed, for Jews – as well as for Muslims – the pig is the epitome of uncleanliness, reflecting the kind of perverse paradox on which anti-Jewish and other group-based hate rests...it became a feature of Nazi propaganda that cast Jews as Judenschwein, meaning Jewish pigs. And since that time, antisemites have equated Jews with pigs..."
 
-The use of derogatory epithets in statue's imagery did not stop there, 
+The use of derogatory epithets in the statue's imagery did not stop there, 
 
 "and a hand holding a bag of money...Haters of Jews, such as the late 19th-century French author Édouard Drumont, have repeatedly cast them as avaricious, money-grubbing, materialistic and intent on global economic domination." 
 
@@ -707,16 +707,77 @@ The meeting of the UC Regents, including [controversial](https://medium.com/@ucp
 "“Students have a right to protest in line with UCLA’s Time, Place, and Manner policies, which prioritizes the safety and well-being of everyone on campus,” the spokesperson said in an edited statement. “In this instance, however, students staged a rally, without a permit, at the Luskin Conference Center rather than at the designated protest area.”"
 
 ## Antisemitic behavior continued as the pro-Palestinian movement gained traction
-Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
 
+### April
 
-in a poster by unknown perpetrators that was then showcased in a CAC IG post dated April 25th (below). 
+On April 25th, the Daily Bruin [reported](https://dailybruin.com/2024/04/25/encampment-led-by-students-in-support-of-palestine-begins-outside-royce-hall) "An encampment led by students in support of Palestine began Thursday morning outside of Royce Hall. The encampment was organized by Students for Justice in Palestine, and garnered the attention of around 100 students by 10 a.m." SJP at UCLA lead the way with a [list of demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) and together with UC Divest at UCLA and JVP at UCLA called on students to join them. [The post](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=1) has approximately 17,630 “likes” (bottom right-of-center), showing the combined “marketing” power of the organizations. 
+
+#### Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
+
 <a href="https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/" 
 style="color:#0F52BA; text-decoration:none">&nbsp;A Trump ad </a>was removed by Facebook for using the same imagery—
 &ldquo;The social media company said the ads violated its policies against &ldquo;organized hate.&rdquo;&rdquo; While at face value the red triangle references 
 a Nazi concentration camp <a href="https://encyclopedia.ushmm.org/content/en/article/classification-system-in-nazi-concentration-camps" 
 style="color:#0F52BA; text-decoration:none">political prisoner</a>, the true meaning for the triangle is unknown.
-Alluding to any targeted group for Nazi hate but colored red in reference to the Palestinian flag; the intention may be hate 'in the name of' Palestine so to speak.
+It may be alluding to any targeted group for Nazi hate but colored red in reference to the Palestinian flag; the intention may be hate 'in the name of' Palestine so to speak.
+
+<div class="lightbox-trigger" style="width: 25%;">
+  <figure id="fig:trump-red-triangle" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/supp-figures/trump-red-triangle.png')" data-title="Trump ad featuring Nazi triangle">
+      <img src="/images/2024-05-20/supp-figures/trump-red-triangle.png" 
+        alt="Trump ad featuring Nazi triangle taken down by Facebook" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+     Trump ad removed by Facebook for promoting "organized hate." 
+      <a href="https://www.washingtonpost.com/politics/2020/06/18/trump-campaign-runs-ads-with-marking-once-used-by-nazis-designate-political-prisoners/" 
+         style="color:#0F52BA; text-decoration:none;">Read more here</a>.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+
+Right off the bat, unknown perpetrators began putting the Nazi imagery on display. The below image (1 of 2) shows the same large sign that would become emblematic of the movement in its first days; appearing as a symbol representative of the encampment in the [Daily Bruin](https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza), [The Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/ucla-campus-israel-hamas-war-protests-police-arrests-1235888779/), the [LA Times](https://www.latimes.com/opinion/story/2024-05-08/gaza-palestinians-university-encampments-solidarity-students-protests-rafah-biden-redline), 
+[USA Today](https://www.usatoday.com/story/news/nation/2024/04/28/gaza-war-campus-protests-arrests/73491973007/), and
+the [LA Public Press](https://lapublicpress.org/2024/05/ucla-student-protestors-say-the-administration-is-putting-them-in-danger/) to name a few. 
+
+
+<!-- Main Display Image -->
+<div class="lightbox-trigger" style="width: 85%;">
+  <figure id="fig:same-large-sign-red-triangle" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/protest/unknown-red-triangle-2.jpg')" data-title="Same large sign with red triangle">
+      <img src="/images/2024-05-20/protest/unknown-red-triangle-2.jpg" 
+        alt="Same large sign with red triangle" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+       Image 1/2: Large sign at UCLA encampment with red triangle from <a href="https://lapublicpress.org/2024/05/ucla-student-protestors-say-the-administration-is-putting-them-in-danger/" style="color:#0F52BA; text-decoration:none;">LA Public Press</a>
+       <span class="photographer-credit">&nbsp;Eliana Chinea / LA Public Press</span>
+        Image 2/2: Same sign with large red triangle from the <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza" style="color:#0F52BA; text-decoration:none;">Daily Bruin</a>
+       <span class="photographer-credit">&nbsp;Darlene Sanzon/Daily Bruin</span>
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+<!-- Hidden Image for Carousel -->
+<div class="figure-container" style="display: none;">
+  <div class="figure-row">
+    <figure id="fig:unknown-red-triangle" style="width: 33%;">
+      <div class="lightbox-trigger" onclick="openModal('/images/2024-05-20/supp-figures/unknown-red-triangle.jpg')">
+        <img src="/images/2024-05-20/supp-figures/unknown-red-triangle.jpg" 
+          alt="Royc with sign featuring large red triangle" style="width: 100%; height: auto;">
+        <span class="maximize-icon">&#x26F6;"></span>
+      </div>
+      <figcaption>
+        Figure 33: Photo of sign with large red triangle from <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza" style="color:#0F52BA; text-decoration:none;">Daily Bruin</a>
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+
+It also appeared in a poster by unknown perpetrators that was then showcased in a CAC IG post dated April 25th (below). 
+
 <div class="figure-container">
   <div class="figure-row">
     <figure id="fig:cac-tent-propaganda-1" style="width: 63%;">
@@ -767,6 +828,12 @@ text-decoration:none;">Daily Bruin </a>took note of the CAC's presence at the pr
 who is running for reelection, was in attendance and did not respond to requests for comment…It is unclear if funds from USAC offices are being used to fund resources at the demonstration, but the 
 text “PAID FOR BY USAC” is visible on the Cultural Affairs Commission tent.”
 
+
+
+https://www.reddit.com/r/Asmongold/comments/1cglw8f/jewish_ucla_student_blocked_from_entering_his_own/
+
+### May 
+
 The IG post below, dated 5/16, shows a more recent CAC post again displaying the triangle.
 
 <div class="lightbox-trigger" style="width: 85%;">
@@ -780,10 +847,6 @@ The IG post below, dated 5/16, shows a more recent CAC post again displaying the
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
 </div>
-
-https://www.reddit.com/r/Asmongold/comments/1cglw8f/jewish_ucla_student_blocked_from_entering_his_own/
-
-### May 
 
 In response to UCLA's handling of the protest events, the CAC posted again, this time with the below image affixing the UCLA Chancellor (who is Jewish) Gene Block’s face to the body of a pig wearing a 
 police uniform. The outlandish/unapologetic imagery, in keeping with CAC rhetoric, combines antisemitic stereotypes with derogatory slang for police officers.

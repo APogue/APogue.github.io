@@ -16,15 +16,15 @@ published: true
 ## Pro-Israel, Jewish, Non-affiliate
 {: .custom-section-header}
 {% include sections/early-messaging-pro-israel-main.md %}-->
-
-## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
-{% include sections/months-prior-main.md %}
 <!--
-## Protest Events <span id="Protest Events"></span>
-{% include sections/protest-events.md %}-->
+## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
+{% include sections/months-prior-main.md %}-->
 
+## Protest Events <span id="Protest Events"></span>
+{% include sections/protest-events.md %}
+<!-- 
 ## University Support and Messaging  <span id="University Support and Messaging"></span>
-{% include sections/university-support-and-messaging.md %}
+{% include sections/university-support-and-messaging.md %}-->
 <!-- 
 ## Student Reactions <span id="Student Reactions"></span>
 {% include sections/student-reactions-main.md %}-->
@@ -38,8 +38,9 @@ published: true
 {: .custom-section-header}
 {% include sections/title-VI.md %}
 -->
+<!-- 
 ## UCLA Policy&mdash;Should <span id="UCLA Policy&mdash;Should"></span>
-{% include sections/ucla-policy-should.md %}
+{% include sections/ucla-policy-should.md %}-->
 <!-- 
 ## The DOE Needs to Do More <span id="The DOE Needs to Do More"></span>
 {% include sections/concluding-statement.md %}
