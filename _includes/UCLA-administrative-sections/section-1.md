@@ -623,7 +623,7 @@ Title VI is very clear on discrimination based on national origin. Is this resol
 
 This is not an ad hoc political movement where a group of students work with the university administration to change policy. This is a system&mdash;a governing body at UCLA that cannot and will not represent certain minorities within the student body but is funded by those minorities. This represents a *systematic form of oppression* based on the national origin of this minority group. 
 
-USAC may be confusing mandatory student fees with taxes, for example. When a U.S. citizen becomes naturalized, applicants are required to take an Oath of Allegiance, which includes pledging loyalty to the United States and renouncing allegiance to other nations. There is no such oath taken by applicants to the University of California. There is no such demand to renounce other nations. 
+USAC may be conflating mandatory student fees with taxes, for example. When a U.S. citizen becomes naturalized, applicants are required to take an Oath of Allegiance, which includes pledging loyalty to the United States and renouncing allegiance to other nations. There is no such oath taken by applicants to the University of California. There is no such demand to renounce other nations. 
 
 
 Article I, Section E of the bylaws, *Discrimination*, also seems relevant here. "The Council shall not support or affiliate with any organization which legally
@@ -712,7 +712,7 @@ The meeting of the UC Regents, including [controversial](https://medium.com/@ucp
 
 On April 25th, the Daily Bruin [reported](https://dailybruin.com/2024/04/25/encampment-led-by-students-in-support-of-palestine-begins-outside-royce-hall) "An encampment led by students in support of Palestine began Thursday morning outside of Royce Hall. The encampment was organized by Students for Justice in Palestine, and garnered the attention of around 100 students by 10 a.m." SJP at UCLA lead the way with a [list of demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) and together with UC Divest at UCLA and JVP at UCLA called on students to join them. [The post](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=1) has approximately 17,630 “likes” (bottom right-of-center), showing the combined “marketing” power of the organizations. 
 
-#### Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests. 
+#### Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests
 
 <a href="https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/" 
 style="color:#0F52BA; text-decoration:none">&nbsp;A Trump ad </a>was removed by Facebook for using the same imagery—
@@ -775,8 +775,24 @@ the [LA Public Press](https://lapublicpress.org/2024/05/ucla-student-protestors-
   </div>
 </div>
 
+Another triangle appeared on a smaller sign in front of Royce Hall. The metadata for the above image from the Daily Bruin shows the photo was taken on April 25th at 9:29 AM. The below image was taken on April 25th at 8:53 AM. 
 
-It also appeared in a poster by unknown perpetrators that was then showcased in a CAC IG post dated April 25th (below). 
+<div class="lightbox-trigger" style="width: 85%;">
+  <figure id="fig:smaller-red-triangle" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/protest/smaller-red-triangle.jpg')" data-title="Smaller red triangle">
+      <img src="/images/2024-05-20/protest/smaller-red-triangle.jpg" 
+        alt="Smaller red triangle" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Smaller red triangle on a sign with Arabic text that says "المقاومة مفتاح العودة", which in English translates to "resistance is the key to return" from the <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza" style="color:#0F52BA; text-decoration:none;">Daily Bruin</a>
+      <span class="photographer-credit">&nbsp;Darlene Sanzon/Daily Bruin</span>
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+#### The Cultural Affairs Commission and other USAC affiliates supported the encampment 
+The triangle also appeared in a poster by unknown perpetrators that was then showcased in a CAC IG post dated April 25th (below). 
 
 <div class="figure-container">
   <div class="figure-row">
@@ -794,10 +810,11 @@ It also appeared in a poster by unknown perpetrators that was then showcased in 
     </figure>
   </div>
   <figcaption class="single-caption">
-    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=2" style="color:#0F52BA; text-decoration:none; display:inline;">CAC Instagram post</a>
+    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=2" style="color:#0F52BA; text-decoration:none; display:inline;">CAC Instagram post</a>, dated Apr 25th,
     showing a propaganda poster with a Nazi classification triangle that was on display on the 1st and 2nd days of the pro-Palestinian protests.
   </figcaption>
 </div>
+
 
 <div class="figure-container">
   <div class="figure-row">
@@ -815,22 +832,63 @@ It also appeared in a poster by unknown perpetrators that was then showcased in 
     </figure>
   </div>
   <figcaption class="single-caption">
-    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
+    <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>, dated Apr 25th,
     showing tent w/name, USAC endorsement and propaganda poster with Nazi classification triangle.
   </figcaption>
 </div>
 
 
+The above image (left) shows the full name of the USAC organization tent at the pro-Palestine encampment site. 
 
-The above image (left) shows the full name of the USAC organization tent at the pro-Palestine encampment site (IG post dated 4/25). The
+The
 <a href="https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment" style="color:#0F52BA; 
-text-decoration:none;">Daily Bruin </a>took note of the CAC's presence at the protest, “Cultural Affairs Commissioner Alicia Verdugo, 
-who is running for reelection, was in attendance and did not respond to requests for comment…It is unclear if funds from USAC offices are being used to fund resources at the demonstration, but the 
+text-decoration:none;">Daily Bruin </a>took note of the USAC's presence at the protest, “Cultural Affairs Commissioner Alicia Verdugo, 
+who is running for reelection, was in attendance…It is unclear if funds from USAC offices are being used to fund resources at the demonstration, but the 
 text “PAID FOR BY USAC” is visible on the Cultural Affairs Commission tent.”
 
+A full list of officers and candidates in attendance was covered by [the Bruin](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment), Most notable among them were Adam Tfayli (current USAC president), Javier Nuñez-Verdugo (current external VP), and Alexandra Paul (current facilities commissioner). Both Nuñez-Verdugo and Paul expressed support for the use of USAC funds to support the encampment. 
+
+The Campus Events Commission and Mason Miller, the 2023-24 campus events commissioner, who expressed [support](https://www.instagram.com/p/C0442iSyxUw/) for the movement on their IG platform, were also present.  
 
 
-https://www.reddit.com/r/Asmongold/comments/1cglw8f/jewish_ucla_student_blocked_from_entering_his_own/
+
+
+
+
+
+
+
+
+“Eli Tsives, a candidate for general representative, was part of the counter-protest against the encampment. Tsives, who alleged the encampment was promoting hate speech, criticized Verdugo’s use of her platform to promote messages he believes makes Jewish students uncomfortable on campus.”
+
+"“They (the Cultural Affairs Commission) have purposefully used their position and power to make us Jewish students feel unsafe,” he said.”
+
+<figure id="figure-container" style="width: 45%;">
+  <div class="figure-row">
+    <blockquote 
+      class="social-media-embed instagram-media" 
+      data-instgrm-captioned
+      data-instgrm-permalink="https://www.instagram.com/p/C6WseJ2Jp3x/?hl=en" 
+      style="max-width:100%; min-width:0%; width:calc(100% - 2px); height:auto; aspect-ratio: 2.9/5;">
+    </blockquote> 
+    <script async src="//www.instagram.com/embed.js"></script>
+  </div> 
+  <figcaption>
+    Eli Tsives, an undergraduate student at UCLA, is seen here being denied entry to a part of campus presumably based on a refusal to swear allegiance to Palestine. Video was posted on <a href="https://www.instagram.com/p/C6WseJ2Jp3x/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342" style="color:#0F52BA; text-decoration:none;">Instagram</a> on April 29th.
+  </figcaption>
+</figure>
+
+Tsives, is also shown in the above video being denied entry to a part of UCLA campus. Paragraph 109 of [Frankel v.Regents of the University of California](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf), a federal lawsuit filed in the U.S. District Court for the Central District of California on June 5th, states,
+
+"To pass through these checkpoints, a person needed to agree to
+the activists’ “demands.” These “demands” required any person who
+wished to enter the encampment to condemn Israel as a committer of
+“apartheid[] and genocide of the Palestinian people,” to call for “an end
+to the occupation and genocide in Palestine,” and to agree that UCLA
+should “[s]ever all UC-wide connections to Israeli universities, including
+study abroad programs, fellowships, seminars, and research
+collaborations, and UCLA’s Nazarian Center.”"
+
 
 ### May 
 
@@ -894,6 +952,12 @@ and he feels that faculty members have tried to demonize the Jewish community by
 
 https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
 
+
+https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
+Javier Nuñez-Verdugo, a candidate for external vice president, said their background heavily influenced their decision to take part in the protest.
+
+“As someone who identifies very strongly with their indigenous identity to Mexico, I very much sympathize with the ongoing fight for Palestinian liberation, as they’re indigenous to their homeland and are currently being displaced,” they said. 
+
 ## After the protests the administration went into damage control mode
 
 
@@ -929,6 +993,11 @@ https://ejewishphilanthropy.com/ucla-donor-sharon-nazarian-decries-anti-israel-p
 https://newsroom.ucla.edu/releases/5-million-gift-ensure-ucla-center-jewish-studies-remains-among-best-in-u-s
 
 ## Student ignorance is making things worse
+
+https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
+"Tfayli, who co-sponsored the successful resolution endorsing the Boycott, Divestment and Sanctions Movement, called the February move an important initial step. He said he believes a large number of students support the Palestinian cause, insisting that USAC should support its students."
+
+
 https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
 “Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
 
