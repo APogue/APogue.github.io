@@ -846,18 +846,69 @@ text-decoration:none;">Daily Bruin </a>took note of the USAC's presence at the p
 who is running for reelection, was in attendance…It is unclear if funds from USAC offices are being used to fund resources at the demonstration, but the 
 text “PAID FOR BY USAC” is visible on the Cultural Affairs Commission tent.”
 
-A full list of officers and candidates in attendance was covered by [the Bruin](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment), Most notable among them were Adam Tfayli (current USAC president), Javier Nuñez-Verdugo (current external VP), and Alexandra Paul (current facilities commissioner). Both Nuñez-Verdugo and Paul expressed support for the use of USAC funds to support the encampment. 
-
-The Campus Events Commission and Mason Miller, the 2023-24 campus events commissioner, who expressed [support](https://www.instagram.com/p/C0442iSyxUw/) for the movement on their IG platform, were also present.  
 
 
+The Campus Events Commission (CEC, Mason Miller was the 2023-24 commissioner), another USAC organization who expressed [support](https://www.instagram.com/p/C0442iSyxUw/) for the movement on their IG platform, was also present.  
 
 
+<div class="lightbox-trigger" style="width: 85%;">
+  <figure id="fig:cec-and-cac" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/cec_and_cac.png')" data-title="CEC and CAC">
+      <img src="/images/2024-07-03/cec_and_cac.png" 
+        alt="CEC and CAC" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Image 1/2: Photograph taken of encampment showing the USAC CEC tent (yellow) and the CAC tent (purple). 
+      <span class="photographer-credit">&nbsp;Anna Dai-Liu/Daily Bruin senior staff</span>
+      Image 2/2: CAC tent with visible USAC endorsement in the presence of 'occupation-death' sign. 
+      View the gallery on <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza" 
+         style="color:#0F52BA; text-decoration:none;">Daily Bruin</a>.
+    <span class="photographer-credit">&nbsp;Aidan Sun/Daily Bruin</span>  
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;"></span>
+</div>
+
+Metadata from the [Bruin gallery](https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza), published on April 27th, shows the CEC tent was present as early as 1:19 PM on April 25th. Metadata from the above Image 2/2 of the CAC tent together with the 'occupation-death sign' indicates the image was taken on April 26th at 12:23 PM. It is clear then, that both USAC organizations were present while posters containing Nazi insignia were on display. 
+
+<div class="lightbox-trigger" style="width: 75%;" style="display: none;">
+  <figure id="fig:tent-endorsement-2" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/protest/paid4by.jpg')" data-title="CAC tent with visible USAC endorsement and 'occupation-death' sign">
+      <img src="/images/2024-05-20/protest/paid4by.jpg" 
+        alt="CAC tent with visible USAC endorsement and 'occupation-death' sign" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      CAC tent with visible USAC endorsement in the presence of 'occupation-death' sign. 
+      View the gallery on <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza" 
+         style="color:#0F52BA; text-decoration:none;">Daily Bruin</a>.
+    <span class="photographer-credit">&nbsp;Aidan Sun/Daily Bruin</span>  
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;"></span>
+</div>
 
 
+<div class="lightbox-trigger" style="width: 75%;">
+  <figure id="fig:cec-tent" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-05-20/supp-figures/cec-cac-protest.jpg')" data-title="Photo showing CEC & CAC tent and sign with red triangle REMOVED">
+      <img src="/images/2024-05-20/supp-figures/cec-cac-protest.jpg" 
+        alt="Photo showing CEC & CAC tent and sign with red triangle REMOVED" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Photo showing CEC and CAC tents and sign with red triangle REMOVED.
+      View the gallery on <a href="https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza" 
+         style="color:#0F52BA; text-decoration:none;">Daily Bruin</a>.
+       <span class="photographer-credit">&nbsp;Nicolas Greamo/Daily Bruin senior staff</span>  
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;"></span>
+</div>
 
+Metadata from the above photo says it was taken on April 26th at 6:16 PM. The image shows Dickson Court flanked on both sides by the USAC organizations, this time with posters containing Nazi insignia removed. It is still questionable though that the tents that stand out with clear endorsements in this photo are the two USAC tents. 
 
+A full list of officers and candidates who were seen in attendance was covered by [the Bruin's](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment) April 29th article, most notable among them were Adam Tfayli (current USAC president), Javier Nuñez-Verdugo (current external VP), Alicia Verdugo (current CAC commissioner) and Alexandra Paul (current facilities commissioner). Both Nuñez-Verdugo and Paul gave comment expressing support for the use of USAC funds to support the encampment. 
 
+Verdugo was the only USAC officer, however, singled out in the article, 
 
 “Eli Tsives, a candidate for general representative, was part of the counter-protest against the encampment. Tsives, who alleged the encampment was promoting hate speech, criticized Verdugo’s use of her platform to promote messages he believes makes Jewish students uncomfortable on campus.”
 
@@ -874,11 +925,11 @@ The Campus Events Commission and Mason Miller, the 2023-24 campus events commiss
     <script async src="//www.instagram.com/embed.js"></script>
   </div> 
   <figcaption>
-    Eli Tsives, an undergraduate student at UCLA, is seen here being denied entry to a part of campus presumably based on a refusal to swear allegiance to Palestine. Video was posted on <a href="https://www.instagram.com/p/C6WseJ2Jp3x/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342" style="color:#0F52BA; text-decoration:none;">Instagram</a> on April 29th.
+    Eli Tsives, an undergraduate student at UCLA, is seen here being denied entry to a part of campus presumably based on a refusal to swear allegiance to Palestine. Video was posted on <a href="https://www.instagram.com/p/C6WseJ2Jp3x/?hl=en" style="color:#0F52BA; text-decoration:none;">Instagram</a> on April 29th.
   </figcaption>
 </figure>
 
-Tsives, is also shown in the above video being denied entry to a part of UCLA campus. Paragraph 109 of [Frankel v.Regents of the University of California](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf), a federal lawsuit filed in the U.S. District Court for the Central District of California on June 5th, states,
+Tsives is also shown in the above video, posted on April 29th, being denied entry to a part of UCLA campus. Paragraph 109 of [Frankel v. Regents of the University of California](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf), a federal lawsuit filed in the U.S. District Court for the Central District of California on June 5th, states,
 
 "To pass through these checkpoints, a person needed to agree to
 the activists’ “demands.” These “demands” required any person who
