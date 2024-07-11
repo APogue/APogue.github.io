@@ -22,9 +22,9 @@ published: true
 
 ## Protest Events <span id="Protest Events"></span>
 {% include sections/protest-events.md %}
-<!-- 
+
 ## University Support and Messaging  <span id="University Support and Messaging"></span>
-{% include sections/university-support-and-messaging.md %}-->
+{% include sections/university-support-and-messaging.md %}
 <!-- 
 ## Student Reactions <span id="Student Reactions"></span>
 {% include sections/student-reactions-main.md %}-->
@@ -38,7 +38,7 @@ published: true
 {: .custom-section-header}
 {% include sections/title-VI.md %}
 -->
-<!-- 
+
 ## UCLA Policy&mdash;Should <span id="UCLA Policy&mdash;Should"></span>
 {% include sections/ucla-policy-should.md %}-->
 <!-- 

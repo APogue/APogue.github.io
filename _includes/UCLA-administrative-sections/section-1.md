@@ -904,7 +904,7 @@ Metadata from the [Bruin gallery](https://dailybruin.com/2024/04/27/gallery-ucla
   <span class="maximize-icon">&#x26F6;"></span>
 </div>
 
-Metadata from the above photo says it was taken on April 26th at 6:16 PM. The image shows Dickson Court flanked on both sides by the USAC organizations, this time with posters containing Nazi insignia removed. It is still questionable though that the tents that stand out with clear endorsements in this photo are the two USAC tents. 
+Metadata from the above photo says it was taken on April 26th at 6:16 PM. The image shows Dickson Court flanked on both sides by the USAC organizations, this time with posters containing Nazi insignia removed. It is still questionable though that the only tents that stand out with clear endorsements in this photo are the two USAC tents. 
 
 A full list of officers and candidates who were seen in attendance was covered by [the Bruin's](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment) April 29th article, most notable among them were Adam Tfayli (current USAC president), Javier Nuñez-Verdugo (current external VP), Alicia Verdugo (current CAC commissioner) and Alexandra Paul (current facilities commissioner). Both Nuñez-Verdugo and Paul gave comment expressing support for the use of USAC funds to support the encampment. 
 
@@ -939,6 +939,39 @@ to the occupation and genocide in Palestine,” and to agree that UCLA
 should “[s]ever all UC-wide connections to Israeli universities, including
 study abroad programs, fellowships, seminars, and research
 collaborations, and UCLA’s Nazarian Center.”"
+
+#### University messaging was unclear
+
+
+On April 26th Mary Osako, Vice Chacellor for Strategic Communications wrote, “It’s also important to note that we are following University of California systemwide policy guidance, which directs us not to request law enforcement involvement preemptively, and only if absolutely necessary to protect the physical safety of our campus community.”20
+
+
+When escalating aggression between protesting sides became more and more apparent, the Daily Bruin Reported on April 28th, “Osako said in the statement. “As an institution of higher education, we stand firmly for the idea that even when we disagree, we must still engage respectfully and recognize one another’s humanity. We are dismayed that certain individuals instead chose to jeopardize the physical safety of the community.””20
+
+
+<div class="lightbox-trigger" style="width: 45%;">
+  <figure id="fig:crypic-flyer" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/cryptic_flyer.png')" data-title="Crypic Flyer">
+      <img src="/images/2024-07-03/cryptic_flyer.png" 
+        alt="Crypic Flyer" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Original path: <a href="https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view" style="color:#0F52BA; text-decoration:none;">Google Drive</a>.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
+
+On the same day, following the distributed flyer, at 5:04 pm Chancellor Block mentioned student conduct investigations into those who had blocked access to parts of campus and declared the encampment to be unauthorized in a campuswide email, ““UCLA supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid,” Block said in the statement. “These incidents have put many on our campus, especially our Jewish students, in a state of anxiety and fear.””22
+
+The events to follow received a great deal of press. For a full Bruin Daily account of the violence that unfolded on the evening of April 30th please see23. In short, when counter-protesters attempted to breach the encampment barrier to assault protesters, UCPD and private security CSC failed to act right away, and it was not until hours later that LAPD and CHP showed up to the scene to quell the violence. Statements released during and after the protests can be found here.2425
+
+
+
+
+
+
+
 
 
 ### May 
@@ -995,6 +1028,25 @@ https://www.nbcnews.com/news/education/israel-divestment-difficulty-colleges-rcn
 https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts
 "The attack began around 10:50 p.m., when counter-protesters started throwing fireworks and tear gas into the encampment. Vice Chancellor for Strategic Communications Mary Osako said at 12:12 a.m. in a statement that law enforcement had been called for immediate support. However, police did not intervene until more than two hours later."
 
+## UCLA students were caught in the middle
+
+https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
+"Tfayli, who co-sponsored the successful resolution endorsing the Boycott, Divestment and Sanctions Movement, called the February move an important initial step. He said he believes a large number of students support the Palestinian cause, insisting that USAC should support its students."
+
+
+https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
+“Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
+
+From the river to the sea...
+[Nov 8th rally](https://dailybruin.com/2023/11/08/students-for-justice-in-palestine-uc-divest-host-rally-in-support-of-palestine)
+[Oct 25th rally](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
+Here put student reactions to the chants (reddit)
+And other gathered evidence from other article
+
+
+While the antisemitic imagery displayed in Figure 2 might be obvious to some, this is not the case for others. Figure 3 shows “MysteriousQueen81” attempting to gamify logic in order to argue the semantics underlying the imagery. To which anyone familiar with racist imagery in our art and culture might borrow “ToTheLastParade”’s response in saying, “The mental gymnastics in this post…”
+
+
 ## Student and faculty voices are identity-driven
 "Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
 and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
@@ -1009,8 +1061,15 @@ Javier Nuñez-Verdugo, a candidate for external vice president, said their backg
 
 “As someone who identifies very strongly with their indigenous identity to Mexico, I very much sympathize with the ongoing fight for Palestinian liberation, as they’re indigenous to their homeland and are currently being displaced,” they said. 
 
-## After the protests the administration went into damage control mode
+## The absence of UCLA's "voice" is creating a vacuum 
+The intention of higher institutions is the dissemination of ideas in their purest form, free from the mars of propaganda. It looks to exist in isolation from mainstream opinion and has no desire to be used as the arm of any establishment to indoctrinate young minds. Without this 'secular' model&mdash;the division of academia from politics and contemporary culture and values, etc.&mdash;the complete, unfettered freedom to generate novel scholarly knowledge is at risk. Even the US has comprehensive embargoes with very few nations and even then [exceptions](https://research-compliance.umich.edu/export-controls/embargoed-and-sanctioned-countries) are made with respect to educational exchanges, academic or research diplomacy, and scientific cooperation. 
 
+
+This brings forth the question, should the undergraduate student body at UCLA be allowed to 'self-mediate?' Isn't the prerequisite for a doctoral degree years of education with 'qualifying' checkpoints before an individual is bestowed the title of Ph.D., or independent thinker? It is only after earning this degree that someone can be deemed ready for the power conferred. Why then have the undergraduates been given this power and responsibility preemptively? Isn't it possible, that when untrained minds are permitted to interact unchecked, that they may bring their own biased ideologies and rationale along with them in order to influence others? That they may construct their own 'establishments,' abuse power, and form corrupt systems of oppression? Aren't they creating a microcosm of the very 'contemporary society' that academia and institutions of higher learning seek insulation from? 
+
+
+
+## After the protests the administration attempted damage control
 
 
 
@@ -1043,23 +1102,7 @@ https://ejewishphilanthropy.com/ucla-donor-sharon-nazarian-decries-anti-israel-p
 
 https://newsroom.ucla.edu/releases/5-million-gift-ensure-ucla-center-jewish-studies-remains-among-best-in-u-s
 
-## Student ignorance is making things worse
 
-https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
-"Tfayli, who co-sponsored the successful resolution endorsing the Boycott, Divestment and Sanctions Movement, called the February move an important initial step. He said he believes a large number of students support the Palestinian cause, insisting that USAC should support its students."
-
-
-https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
-“Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
-
-From the river to the sea...
-[Nov 8th rally](https://dailybruin.com/2023/11/08/students-for-justice-in-palestine-uc-divest-host-rally-in-support-of-palestine)
-[Oct 25th rally](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
-Here put student reactions to the chants (reddit)
-And other gathered evidence from other article
-
-
-While the antisemitic imagery displayed in Figure 2 might be obvious to some, this is not the case for others. Figure 3 shows “MysteriousQueen81” attempting to gamify logic in order to argue the semantics underlying the imagery. To which anyone familiar with racist imagery in our art and culture might borrow “ToTheLastParade”’s response in saying, “The mental gymnastics in this post…”
 
 ## OCR Title VI severity thresholds should be reexamined 
 Write here about all the ongoing Title VI investigations.  
