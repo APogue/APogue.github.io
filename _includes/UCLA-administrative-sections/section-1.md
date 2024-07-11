@@ -708,8 +708,6 @@ The meeting of the UC Regents, including [controversial](https://medium.com/@ucp
 
 ## Antisemitic behavior continued as the pro-Palestinian movement gained traction
 
-### April
-
 On April 25th, the Daily Bruin [reported](https://dailybruin.com/2024/04/25/encampment-led-by-students-in-support-of-palestine-begins-outside-royce-hall) "An encampment led by students in support of Palestine began Thursday morning outside of Royce Hall. The encampment was organized by Students for Justice in Palestine, and garnered the attention of around 100 students by 10 a.m." SJP at UCLA lead the way with a [list of demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) and together with UC Divest at UCLA and JVP at UCLA called on students to join them. [The post](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=1) has approximately 17,630 “likes” (bottom right-of-center), showing the combined “marketing” power of the organizations. 
 
 #### Nazi insignia appeared everywhere in the first two days of the pro-Palestinian protests
@@ -940,13 +938,23 @@ should “[s]ever all UC-wide connections to Israeli universities, including
 study abroad programs, fellowships, seminars, and research
 collaborations, and UCLA’s Nazarian Center.”"
 
-#### University messaging was unclear
+## Non-affiliate violence resulted from the same patterns of behavior from months before
 
+- Thursday [4/25](https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment)--"More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called "terrorists," to "show your face.""
 
-On April 26th Mary Osako, Vice Chacellor for Strategic Communications wrote, “It’s also important to note that we are following University of California systemwide policy guidance, which directs us not to request law enforcement involvement preemptively, and only if absolutely necessary to protect the physical safety of our campus community.”20
+- Friday [4/26](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26)-- Mary Osako, Vice Chacellor for Strategic Communications wrote, “It’s also important to note that we are following University of California systemwide policy guidance, which directs us not to request law enforcement involvement preemptively, and only if absolutely necessary to protect the physical safety of our campus community.”
 
+- Sunday [4/28](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)--"Graeme Blair, an associate professor of political science inside the encampment, said in a statement sent over text message that he believes counter-protesters were attempting to start conflicts with members of the encampment."
 
-When escalating aggression between protesting sides became more and more apparent, the Daily Bruin Reported on April 28th, “Osako said in the statement. “As an institution of higher education, we stand firmly for the idea that even when we disagree, we must still engage respectfully and recognize one another’s humanity. We are dismayed that certain individuals instead chose to jeopardize the physical safety of the community.””20
+Mary Osako, also made [a statement](https://newsroom.ucla.edu/ucla-statement-on-demonstrations-april-28) that day: 
+
+“UCLA has a long history of peaceful protest, and we are heartbroken to report that today, some physical altercations broke out among demonstrators on Royce Quad. 
+
+“We have since instituted additional security measures and increased the numbers of our safety team members on site.
+
+- Monday night and Tuesday morning [4/29-4/30](https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment)--"Around 60 counter-protesters attempted to breach the entrance of the encampment in Dickson Plaza around midnight Tuesday morning, drawing the presence of six UCPD officers in riot gear."
+
+- Tuesday [4/30](https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression)--"UC Divest Coalition at UCLA said in a written press release that it believes violence on campus was caused primarily by counter-protesters supporting Israel, some of whom the protesters allege threatened them with weapons. They added that they believe the administration has failed to protect students on campus."
 
 
 <div class="lightbox-trigger" style="width: 45%;">
@@ -956,26 +964,134 @@ When escalating aggression between protesting sides became more and more apparen
         alt="Crypic Flyer" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-      Original path: <a href="https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view" style="color:#0F52BA; text-decoration:none;">Google Drive</a>.
+      Image 1/2: <a href="https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view" style="color:#0F52BA; text-decoration:none;">Flyer</a> distributed to the encampment on April 30th notifying students it is unlawful and to vacate immediately.
+      Image 2/2: <a href="https://newsroom.ucla.edu/affirming-our-values-in-a-challenging-time" style="color:#0F52BA; text-decoration:none;">Message</a> posted on April 30th (also sent as an email at 5:04 PM) from Gene Block regarding UCLA position on encampment behavior. 
     </figcaption>
   </figure>
   <span class="maximize-icon">&#x26F6;</span>
 </div>
 
-On the same day, following the distributed flyer, at 5:04 pm Chancellor Block mentioned student conduct investigations into those who had blocked access to parts of campus and declared the encampment to be unauthorized in a campuswide email, ““UCLA supports peaceful protest, but not activism that harms our ability to carry out our academic mission and makes people in our community feel bullied, threatened and afraid,” Block said in the statement. “These incidents have put many on our campus, especially our Jewish students, in a state of anxiety and fear.””22
+<div class="lightbox-trigger" style="width: 45%; display: none;">
+  <figure id="fig:5pmGeneBlockEmail" style="width: 100%; height: auto;">
+    <a href="javascript:void(0);" onclick="openModal('/images/2024-07-03/5pmGeneBlockEmail.png')" data-title="5pm Gene Block Email">
+      <img src="/images/2024-07-03/5pmGeneBlockEmail.png" 
+        alt="5pm Gene Block Email" style="width: 100%; height: auto;">
+    </a>
+    <figcaption>
+      Original path: <a href="https://newsroom.ucla.edu/affirming-our-values-in-a-challenging-time" style="color:#0F52BA; text-decoration:none;">Message</a>.
+    </figcaption>
+  </figure>
+  <span class="maximize-icon">&#x26F6;</span>
+</div>
 
-The events to follow received a great deal of press. For a full Bruin Daily account of the violence that unfolded on the evening of April 30th please see23. In short, when counter-protesters attempted to breach the encampment barrier to assault protesters, UCPD and private security CSC failed to act right away, and it was not until hours later that LAPD and CHP showed up to the scene to quell the violence. Statements released during and after the protests can be found here.2425
+
+
+ Tuesday night and Wednesday morning [4/30-5/1](https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts)--"The attack began around 10:50 p.m., when counter-protesters started throwing fireworks and tear gas into the encampment. Vice Chancellor for Strategic Communications Mary Osako said at 12:12 a.m. in a statement that law enforcement had been called for immediate support. However, police did not intervene until more than two hours later."
+
+
+
+https://forward.com/opinion/608479/ucla-violence-campus-protests/
+
+https://x.com/GovPressOffice/status/1785589489878049091
+
+https://x.com/MayorOfLA/status/1785591832321151196
+
+https://x.com/GovPressOffice/status/1785726609947046387
+
+https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles
+
+https://calmatters.org/justice/2024/05/ucla-protest-palestine-police/
+
+https://www.instagram.com/p/C8ELJJRODh7/?hl=en
+
+
+
+
+## The administration attempted damage control
+
+
+## UCLA students were caught in the middle
+
+https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
+"Tfayli, who co-sponsored the successful resolution endorsing the Boycott, Divestment and Sanctions Movement, called the February move an important initial step. He said he believes a large number of students support the Palestinian cause, insisting that USAC should support its students."
+
+
+https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
+“Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
+
+From the river to the sea...
+[Nov 8th rally](https://dailybruin.com/2023/11/08/students-for-justice-in-palestine-uc-divest-host-rally-in-support-of-palestine)
+[Oct 25th rally](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
+Here put student reactions to the chants (reddit)
+And other gathered evidence from other article
+
+
+While the antisemitic imagery displayed in Figure 2 might be obvious to some, this is not the case for others. Figure 3 shows “MysteriousQueen81” attempting to gamify logic in order to argue the semantics underlying the imagery. To which anyone familiar with racist imagery in our art and culture might borrow “ToTheLastParade”’s response in saying, “The mental gymnastics in this post…”
+
+
+## Student and faculty voices are identity-driven
+"Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
+and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
+
+“The idea of not being educated is inherently classist, and, frankly, it feels a little coded in particular, as someone coming in from a low-income background, that I’m being told by a council member and peer that I may not be educated,” Valenzuela Mejia said. “As a Guatemalan, … my country went through genocide. My family died in the Guatemalan Mayan genocide. I understand. I very well know what genocide looks like.” https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement
+
+https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
+
+
+https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
+Javier Nuñez-Verdugo, a candidate for external vice president, said their background heavily influenced their decision to take part in the protest.
+
+“As someone who identifies very strongly with their indigenous identity to Mexico, I very much sympathize with the ongoing fight for Palestinian liberation, as they’re indigenous to their homeland and are currently being displaced,” they said. 
+
+
+## The absence of UCLA's "voice" is creating a vacuum 
+The intention of higher institutions is the dissemination of ideas in their purest form, free from the mars of propaganda. It looks to exist in isolation from mainstream opinion and has no desire to be used as the arm of any establishment to indoctrinate young minds. Without this 'secular' model&mdash;the division of academia from politics and contemporary culture and values, etc.&mdash;the complete, unfettered freedom to generate novel scholarly knowledge is at risk. Even the US has comprehensive embargoes on very few nations and even then [exceptions](https://research-compliance.umich.edu/export-controls/embargoed-and-sanctioned-countries) are made with respect to educational exchanges, academic or research diplomacy, and scientific cooperation. 
+
+
+This brings forth the question, should the undergraduate student body at UCLA be allowed to 'self-mediate?' Isn't the prerequisite for a doctoral degree years of education with 'qualifying' checkpoints before an individual is bestowed the title of Ph.D., or independent thinker? It is only after earning this degree that someone can be deemed ready for the power conferred. Why then have the undergraduates been given this power and responsibility preemptively? Isn't it possible, that when untrained minds are permitted to interact unchecked, that they may bring their own biased ideologies and rationale along with them in order to influence others? That they may construct their own 'establishments,' abuse power, and form corrupt systems of oppression? Aren't they creating a microcosm of the very 'contemporary society' that academia and institutions of higher learning seek insulation from? 
 
 
 
 
 
 
+## A lot of talk and no action...
+Office of EDI, what do they do...
+
+
+This article outlines UCLA's failings to prevent a hostile environment under Title VI
+https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf
+This article defines student conduct that is not protected under the First Ammendment
+https://www.thefire.org/news/heres-what-students-need-know-about-protesting-campus-right-now
+The law:
+https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html
+Fact sheets:
+https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html
+https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html
+
+Jewish students seek court order against UCLA’s antisemitic encampments before fall semester
+https://www.thecentersquare.com/national/article_8bf5303c-33c5-11ef-b5b7-7370c3907658.html
+https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-antisemitic-encampments-before-fall-semester/
+https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/
+https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf
+
+Vigil 
+https://dailybruin.com/2023/11/02/ucla-community-gathers-for-vigil-honoring-israeli-palestinian-lives
+
+
+Who are the big donors?:
+https://ejewishphilanthropy.com/ucla-donor-sharon-nazarian-decries-anti-israel-protesters-demands-to-shutter-schools-israel-studies-department/
+
+https://newsroom.ucla.edu/releases/5-million-gift-ensure-ucla-center-jewish-studies-remains-among-best-in-u-s
 
 
 
-### May 
+## OCR Title VI severity thresholds should be reexamined 
+Write here about all the ongoing Title VI investigations.  
 
+## Could the UC System be hiding the *real problem*?
+
+## put somewhere else----
 The IG post below, dated 5/16, shows a more recent CAC post again displaying the triangle.
 
 <div class="lightbox-trigger" style="width: 85%;">
@@ -1023,90 +1139,3 @@ https://www.reddit.com/r/ucla/comments/1cimrik/antisemitic_graffiti_on_campus/
 https://forward.com/opinion/608479/ucla-violence-campus-protests/
 
 https://www.nbcnews.com/news/education/israel-divestment-difficulty-colleges-rcna150019
-
-
-https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts
-"The attack began around 10:50 p.m., when counter-protesters started throwing fireworks and tear gas into the encampment. Vice Chancellor for Strategic Communications Mary Osako said at 12:12 a.m. in a statement that law enforcement had been called for immediate support. However, police did not intervene until more than two hours later."
-
-## UCLA students were caught in the middle
-
-https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
-"Tfayli, who co-sponsored the successful resolution endorsing the Boycott, Divestment and Sanctions Movement, called the February move an important initial step. He said he believes a large number of students support the Palestinian cause, insisting that USAC should support its students."
-
-
-https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement
-“Seeing so many students not being able to conceptualize that what they’re saying is antisemitic and is wrong is tough,” Brannon said."
-
-From the river to the sea...
-[Nov 8th rally](https://dailybruin.com/2023/11/08/students-for-justice-in-palestine-uc-divest-host-rally-in-support-of-palestine)
-[Oct 25th rally](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
-Here put student reactions to the chants (reddit)
-And other gathered evidence from other article
-
-
-While the antisemitic imagery displayed in Figure 2 might be obvious to some, this is not the case for others. Figure 3 shows “MysteriousQueen81” attempting to gamify logic in order to argue the semantics underlying the imagery. To which anyone familiar with racist imagery in our art and culture might borrow “ToTheLastParade”’s response in saying, “The mental gymnastics in this post…”
-
-
-## Student and faculty voices are identity-driven
-"Dan Gold, executive director of Hillel at UCLA, [said](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus) students have been called Zionists on social media, 
-and he feels that faculty members have tried to demonize the Jewish community by speaking on subjects outside of their academic fields during class."
-
-“The idea of not being educated is inherently classist, and, frankly, it feels a little coded in particular, as someone coming in from a low-income background, that I’m being told by a council member and peer that I may not be educated,” Valenzuela Mejia said. “As a Guatemalan, … my country went through genocide. My family died in the Guatemalan Mayan genocide. I understand. I very well know what genocide looks like.” https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement
-
-https://www.instagram.com/p/Czt0bmTvLAI/?hl=en
-
-
-https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment
-Javier Nuñez-Verdugo, a candidate for external vice president, said their background heavily influenced their decision to take part in the protest.
-
-“As someone who identifies very strongly with their indigenous identity to Mexico, I very much sympathize with the ongoing fight for Palestinian liberation, as they’re indigenous to their homeland and are currently being displaced,” they said. 
-
-## The absence of UCLA's "voice" is creating a vacuum 
-The intention of higher institutions is the dissemination of ideas in their purest form, free from the mars of propaganda. It looks to exist in isolation from mainstream opinion and has no desire to be used as the arm of any establishment to indoctrinate young minds. Without this 'secular' model&mdash;the division of academia from politics and contemporary culture and values, etc.&mdash;the complete, unfettered freedom to generate novel scholarly knowledge is at risk. Even the US has comprehensive embargoes with very few nations and even then [exceptions](https://research-compliance.umich.edu/export-controls/embargoed-and-sanctioned-countries) are made with respect to educational exchanges, academic or research diplomacy, and scientific cooperation. 
-
-
-This brings forth the question, should the undergraduate student body at UCLA be allowed to 'self-mediate?' Isn't the prerequisite for a doctoral degree years of education with 'qualifying' checkpoints before an individual is bestowed the title of Ph.D., or independent thinker? It is only after earning this degree that someone can be deemed ready for the power conferred. Why then have the undergraduates been given this power and responsibility preemptively? Isn't it possible, that when untrained minds are permitted to interact unchecked, that they may bring their own biased ideologies and rationale along with them in order to influence others? That they may construct their own 'establishments,' abuse power, and form corrupt systems of oppression? Aren't they creating a microcosm of the very 'contemporary society' that academia and institutions of higher learning seek insulation from? 
-
-
-
-## After the protests the administration attempted damage control
-
-
-
-## A lot of talk and no action...
-Office of EDI, what do they do...
-
-
-This article outlines UCLA's failings to prevent a hostile environment under Title VI
-https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf
-This article defines student conduct that is not protected under the First Ammendment
-https://www.thefire.org/news/heres-what-students-need-know-about-protesting-campus-right-now
-The law:
-https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html
-Fact sheets:
-https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html
-https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html
-
-Jewish students seek court order against UCLA’s antisemitic encampments before fall semester
-https://www.thecentersquare.com/national/article_8bf5303c-33c5-11ef-b5b7-7370c3907658.html
-https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-antisemitic-encampments-before-fall-semester/
-https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/
-https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf
-
-Vigil 
-https://dailybruin.com/2023/11/02/ucla-community-gathers-for-vigil-honoring-israeli-palestinian-lives
-
-
-Who are the big donors?:
-https://ejewishphilanthropy.com/ucla-donor-sharon-nazarian-decries-anti-israel-protesters-demands-to-shutter-schools-israel-studies-department/
-
-https://newsroom.ucla.edu/releases/5-million-gift-ensure-ucla-center-jewish-studies-remains-among-best-in-u-s
-
-
-
-## OCR Title VI severity thresholds should be reexamined 
-Write here about all the ongoing Title VI investigations.  
-
-## Could the UC System be hiding the *real problem*?
-
-
