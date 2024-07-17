@@ -55,7 +55,7 @@ itself, and for how long, is unknown.
       <img src="/images/2024-05-20/early-messaging/CAC_instagram_1.png" alt="CAC Instagram post part 1" style="width: 100%; height: auto;">
     </a>
     <figcaption>
-      Image 1 of 2: <a href="https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
+      Image 1 of 2: <a href="https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1" style="color:#0F52BA; text-decoration:none">CAC Instagram post</a>
       part dated October 9th, 2023 regarding the events of October 7th. They state that &ldquo;decolonization is not a metaphor. Thus we honor the Palestinians
       on the frontlines taking their land and sovereignty back!&rdquo; 
     </figcaption>
@@ -1048,7 +1048,7 @@ Javier Nuñez-Verdugo, a candidate for external vice president, said their backg
 The intention of higher institutions is the dissemination of ideas in their purest form, free from the mars of propaganda. It looks to exist in isolation from mainstream opinion and has no desire to be used as the arm of any establishment to indoctrinate young minds. Without this 'secular' model&mdash;the division of academia from politics and contemporary culture and values, etc.&mdash;the complete, unfettered freedom to generate novel scholarly knowledge is at risk. Even the US has comprehensive embargoes on very few nations and even then [exceptions](https://research-compliance.umich.edu/export-controls/embargoed-and-sanctioned-countries) are made with respect to educational exchanges, academic or research diplomacy, and scientific cooperation. 
 
 
-This brings forth the question, should the undergraduate student body at UCLA be allowed to 'self-mediate?' Isn't the prerequisite for a doctoral degree years of education with 'qualifying' checkpoints before an individual is bestowed the title of Ph.D., or independent thinker? It is only after earning this degree that someone can be deemed ready for the power conferred. Why then have the undergraduates been given this power and responsibility preemptively? Isn't it possible, that when untrained minds are permitted to interact unchecked, that they may bring their own biased ideologies and rationale along with them in order to influence others? That they may construct their own 'establishments,' abuse power, and form corrupt systems of oppression? Aren't they creating a microcosm of the very 'contemporary society' that academia and institutions of higher learning seek insulation from? 
+This brings forth the question, should the undergraduate student body at UCLA be allowed to 'self-mediate?' Isn't the prerequisite for a doctoral degree years of education with 'qualifying' checkpoints before an individual is bestowed the title of Ph.D., or independent thinker? It is only after earning this degree that someone can be deemed ready for the power conferred. Why then have the undergraduates been given this power and responsibility preemptively? Isn't it possible, that when untrained minds are permitted to interact unchecked, that they may bring their own biased ideologies and rationale along with them in order to influence others? That they may construct their own 'establishments,' abuse power, and form corrupt systems of oppression? Aren't they creating a microcosm of the very 'contemporary society' that academia and institutions of higher learning seek to insulate from? 
 
 
 
