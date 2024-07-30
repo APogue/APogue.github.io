@@ -5,6 +5,7 @@ body {
     padding: 20px;
     background-color: #f8f9fa;
     color: #212529;
+    text-align: left; /* Ensure main content is left-aligned */
 }
 
 /* Header styling */
@@ -30,6 +31,7 @@ footer {
 /* Main content styling */
 main {
     margin-top: 20px;
+    text-align: left; /* Ensure main content is left-aligned */
 }
 
 main h1 {
@@ -40,11 +42,13 @@ main p {
     text-align: left; /* Left-aligns paragraphs */
 }
 
-/* Resetting some default styles */
-ul {
-    list-style: none; /* Removes bullets */
-    padding: 0;
-    margin: 0;
+/* Bullet list styling */
+main ul {
+    list-style: disc; /* Adds bullets to the list */
+    padding-left: 40px; /* Adds padding to align bullets properly */
+    margin-top: 1em; /* Adds top margin for spacing */
+    margin-bottom: 1em; /* Adds bottom margin for spacing */
+    text-align: left; /* Ensure main content is left-aligned */
 }
 
 /* Navigation styling */
