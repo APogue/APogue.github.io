@@ -219,3 +219,6 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 	- Better rules for UCPD and campus security to follow regarding expelling non-affiliates from campus when rules are broken
 
 	- Permanent bans from campus for violent offenders
+
+
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
