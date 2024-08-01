@@ -44,7 +44,6 @@ published: true
 ## The DOE Needs to Do More <span id="The DOE Needs to Do More"></span>
 {% include sections/concluding-statement.md %}
 
-
 ## Supplementary Information <span id="Supplementary Information"></span>
 ## Video clips
 {: .custom-section-header}

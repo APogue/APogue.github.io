@@ -81,9 +81,9 @@
             <span class="copied-notification" style="display: none; color: black; margin-left: 10px;">Copied to clipboard✔️</span>
         </div>
 	    <div class="date">
-                {{ page.date | date: "%B %d, %Y at %I:%M %p" }} PDT
+                {{ page.date | date: "%B %d, %Y at %I:%M %p" }} EDT
                 {% if page.updated == true %}
-                    / Updated <span id="updated-date" data-utc="{{ site.time | date: '%Y-%m-%dT%H:%M:%S%z' }}"></span> PDT
+                    / Updated <span id="updated-date" data-utc="{{ site.time | date: '%Y-%m-%dT%H:%M:%S%z' }}"></span> EDT
                 {% endif %}
             </div>
         <div class="author-name">By {{ page.author }}</div>
@@ -261,7 +261,7 @@
 
                 // Convert to local time (PDT)
                 var options = { 
-                    timeZone: 'America/Los_Angeles', 
+                    timeZone: 'America/New_York', 
                     year: 'numeric', 
                     month: 'long', 
                     day: 'numeric', 
