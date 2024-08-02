@@ -93,10 +93,6 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 				- incidents leading up to major protest events and UCLA's handling
 
-			- When offenders are non-affiliates, this has led to aggressive incidents between students and offenders
-
-				- incidents leading up to major protest events and UCLA's handling
-
 	- Or vague promises of investigations and punishment
 
 		- Policies on non-affiliate misconduct
@@ -109,6 +105,10 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 			- consequences?
 
+		- When offenders are non-affiliates, this has led to aggressive incidents between students and offenders
+
+			- incidents leading up to major protest events and UCLA's handling
+
 		- Follow up on pre-protest incidents
 
 			- SJP meeting 
@@ -117,7 +117,7 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 				- what is the current status of the case? 
 
-    - Without addressing the broader issues underlying these incidents---now systemic problems---their inaction can now be defined as "institutional negligence."  
+    - Without addressing the broader issues underlying these incidents---now systemic problems---their inaction can be defined as "institutional negligence."  
 
 		- Pro-Hamas rhetoric by student organizations (yet action item J1 was drawn up to control professors?)
 
@@ -263,7 +263,7 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 ## Reform Doesn't Address Systemic Issues
 
-- UCLA wants to address the symptoms---violence and safety---but they continue to ignore the deeper issues
+- UCLA wants to address the symptoms---violence/safety/specific incidents of discrimination---but they continue to ignore the deeper issues
 
 	- Even with the new policing guy in place, police are still mishandling protest situations 
 
@@ -299,7 +299,7 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- The USAC have re-elected Verdugo
 
-			- Recent X posts (Obama follows CAC at UCLA) reveal anti-state-of-Israel rhetoric
+			- Recent X posts (Obama follows CAC at UCLA) reveal anti-state of Israel rhetoric
 
 				- https://x.com/culturalaffairs
 
@@ -377,18 +377,15 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 	- But also, who is holding UCLA accountable for not carrying out perfectly good non-affiliate policies already in place? 
 
-
-
-
 Notes: 
 
 USAC is an old institution with bylaws and mission statements that require it to represent all students. There are also accountability measures that students have tried to invoke, to no avail.
 
-CAC is the USAC arm of SJP. Together they have "institutionalized" anti-Israel rhetoric based on past positions (incidents really), consistent measures against Israel, and an unwillingness to work with Jewish organizations. When there have been calls for USAC to work with Jewish organizations, and calls for the impeachment of Verdugo, the USAC has done nothing. Verdugo was even called out by the Daily Bruin, and still nothing. In fact she was elected to another term shortly after. Despite systems in place to handle Verdugo's misconduct, no action has been taken, making all USAC members complicit. 
+CAC is the USAC arm of SJP. Together they have "institutionalized" anti-Israel rhetoric based on past positions (incidents really), consistent measures against Israel, and an unwillingness to work with Jewish organizations. When there have been calls for USAC to work with Jewish organizations, and calls for the impeachment of Verdugo, the USAC has done nothing. Verdugo was even called out by the Daily Bruin, and still nothing. In fact she was elected to another term shortly thereafter. Despite systems in place to handle Verdugo's misconduct, no action has been taken, making all USAC members complicit. 
 
 If fees are mandatory, and the Jewish and more specifically Israeli population are too small a voting bloc to be represented, is this made clear when a student signs a contract to attend the university? More relevant to these matters, because anti-Israel rhetoric has now been institutionalized within USAC, has this been made clear when a student agrees to attend the university? If the student government is consistently biased against a certain group, then the government is now an "anti-Israel" government, and it is no longer a question of whether an Israeli or Jewish student will "at times" not be represented, or "at times" be targeted. The question is now, is the student willing to "at all times" be targeted by the student government at UCLA? Is the student willing to renounce Israel to attend the university? 
 
-"Anti-Israel" does not mean anti-war, it does not mean anti-occupation, it means anti-state of Israel 
+"Anti-Israel" does not mean anti-war, it does not mean anti-occupation, it means anti-state of Israel. 
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
 
