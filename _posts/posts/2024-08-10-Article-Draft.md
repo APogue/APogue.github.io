@@ -211,7 +211,7 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 ## Context, history, "Expert" Opinion and Data
 
-- What were the protest demands?
+- What are the implications of the protest demands?
 
 	- Boycotts 
 
@@ -304,6 +304,16 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 		- Some Title IX should be be grouped in with Title VI
 
 ## Reform Doesn't Address Systemic Issues
+
+- The protest demands went far beyond the conflict in Gaza
+
+	- The fact that the demands weren't met isn't what's important
+
+		- Why were the demands so far reaching?
+
+		- What does that mean for UCLA moving forward? 
+
+			- The motivations behind these demands will continue to drive organizations like UC Divest, CAC, and SJP
 
 - UCLA wants to address the symptoms---violence/safety/specific incidents of discrimination---but they continue to ignore the deeper issues
 
