@@ -65,6 +65,8 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 	3. "True Bruin Values."
 
+		- Mary Osako statement
+
 		- https://www.ucla.edu/about/mission-and-values
 
 		- https://truebruin.ucla.edu/
@@ -75,7 +77,17 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 - Policy and control: How does UCLA policy support the above? What systems are in place, if any? Where there is a lack of systems, what patterns have emerged? 
 
-	- Policies on student misconduct
+	- Policies on student and group misconduct
+
+		- https://www.reddit.com/r/ucla/comments/1d4iy65/ucla_threatens_to_withhold_degrees_from/
+
+		- https://deanofstudents.ucla.edu/individual-student-code
+
+		- https://deanofstudents.ucla.edu/group-student-code
+
+		- https://www.deanofstudents.ucla.edu/student-conduct-faq
+
+		- https://deanofstudents.ucla.edu/file/2f52f587-8b22-4633-a4f5-d79ee25cea9b
 
 		- rules 
 
@@ -83,15 +95,20 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- consequences
 
-	- A pattern of completely ignoring or brushing incidents under the rug without proper condemnation 
+	- A pattern of using a "weak" tone in condemnation
 
-		- UCLA controls the optics. They take a "nothing is wrong, this stuff is happening out of nowhere" stance. They are treating each incident as a "one-off"
+		- Despite acknowledgement by Jewish groups that antisemitism is happening on campus
 
-			- When offenders are UCLA students, this has led to a toxic campus environment for Jewish students
+			- https://www.jewishla.org/the-jewish-federation-of-greater-los-angeles-launches-campus-impact-network-to-address-antisemitism-on-college-campuses/
 
-				- https://www.jewishfoundationla.org/grant/la-campuses-united-against-antisemitism/
+			- https://www.jewishfoundationla.org/grant/la-campuses-united-against-antisemitism/
 
-				- incidents leading up to major protest events and UCLA's handling
+
+		- Incidents by unknown student perpetrators continue
+
+			- incidents leading up to major protest events 
+
+				- UCLA controls the optics. They take a "nothing is wrong, this stuff is happening out of nowhere" stance. They are treating each incident as a "one-off"
 
 	- Or vague promises of investigations and punishment
 
@@ -99,13 +116,15 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 			- rules 
 
+				- cryptic flyer
+
 				- https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as
 
 			- reporting?
 
 			- consequences?
 
-		- When offenders are non-affiliates, this has led to aggressive incidents between students and offenders
+		- Aggressive incidents between students and offenders
 
 			- incidents leading up to major protest events and UCLA's handling
 
@@ -117,7 +136,7 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 				- what is the current status of the case? 
 
-    - Without addressing the broader issues underlying these incidents---now systemic problems---their inaction can be defined as "institutional negligence."  
+    - UCLA totally ignores organizational activity, even when it is brought to their attention  
 
 		- Pro-Hamas rhetoric by student organizations (yet action item J1 was drawn up to control professors?)
 
@@ -131,13 +150,17 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 			- https://www.jewishfoundationla.org/grant/la-campuses-united-against-antisemitism/
 
-	- Inaction has consequences & these issues are connected 
+	- Inaction has consequences & these issues are connected
 
-		- There is evidence that antisemitic rhetoric by the USAC was causing aggression from non-affiliate members of the greater LA community
+		- Toxic campus environment for Jewish students
 
-			- The incident is evidence that CAC's public position & activities are being followed by the greater LA community
+		- Antisemitic rhetoric by the USAC was causing aggression from non-affiliate members of the greater LA community
+
+			- CAC's public position & activities are being followed by the greater LA community
 
 		- There is a very large pro-Israel, non-affiliate population who regularly visits UCLA to pick fights with students
+
+			- UCLA has not taken proper measures to stop or minimize harassment, intimidation, and aggression from happening
 
 		- There is evidence that violence and aggression from non-affiliates and police misconduct was serving to inflame pro-Palestinian members of the UCLA community
 
@@ -157,7 +180,7 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 - Students reported to the Daily Bruin that symbolism and chants made them uncomfortable
 
-	- The school cleaned everything up (not before major news outlets snapped several photos) without any condemnation 
+	- Brushed under the rug by cleaning everything up (not before major news outlets snapped several photos) without any condemnation 
 
 	- Chants continued throughout protests
 
@@ -195,8 +218,6 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- Other videos of violence by masked perps with weapons
 
-	- CalMatters footage
-
 - Why were Pro-Israel protesters allowed to protest within the same space as pro-Palestinian protesters, yet restrictions were imposed on "place" during the regents meeting? It is likely because they can't qualify the protest "position," their judgment  remains "content-neutral" consistent with time, place and manner stipulations. They just piled everyone in a "designated" protest area, whereas the Regents meeting was not in one of these areas. Then they should have separated the protesters based on "manner" restrictions, as the manner in which they were protesting was not peaceful from the start. 
 
 	- This led to increasing tension between students and non-affiliates
@@ -208,6 +229,10 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 		- Late night tweets and UCLA statements 
 
 		- Block statement immediately afterwards
+
+- Police misconduct immediately following April 30th 
+
+	- CalMatters footage
 
 ## Context, history, "Expert" Opinion and Data
 
@@ -279,15 +304,37 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 			- The general UCLA student body may become indoctrinated by chants, symbolism, and extreme rhetoric 
 
+- Exclusion from areas of campus faced enormous confusion and backlash
+
+	- https://www.reddit.com/r/ucla/comments/1ch82s8/its_affecting_students_now/
+
+	- disabled students
+
+	- students completely confused by exclusion tactics, began using identity to prove or disprove assumed motives
+
 - Student and faculty positions are often identity-driven
 
-- Administrative rhetoric lacked "balance"
+- Without positional guidance (UCLA as a voice itself)
 
-	- Lack of balance and vacuum polarizes campus culture
+	- Campus culture becomes extremely polarized
+
+- UCLA weak follow ups on incidents or no interaction with orgs at all 
+
+	- Student orgs resigned to handle matters themselves
+
+- What involvement they do have, the rhetoric lacked "balance"
+
+	- Polarizes campus culture
+
+- "Reporting" of grievances with administration posted to social media or Daily Bruin without any follow up or acknowledgment 
+
+Bottom line: There is a difference between eliminating voices (which would go against higher learning philosophy and constitutional freedoms), and adding to the conversation, UCLA should understand the difference 
 
 ## Attempts at Reform
 
 - Office of Campus Safety
+
+- https://www.universityofcalifornia.edu/press-room/uc-announces-nationally-recognized-firm-will-review-actions-led-violent-events-ucla
 
 - Chancellor Block's congressional hearing (the story was UCLA was afraid for student safety? Was that how it really played out?)
 
@@ -305,6 +352,28 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 ## Reform Doesn't Address Systemic Issues
 
+Thesis: Without addressing the issues underlying these incidents---now systemic problems---their inaction can be defined as "institutional negligence." 
+
+- UCLA wants to address the symptoms---violence/safety/specific incidents of discrimination---but they continue to ignore the deeper issues
+
+	- UCPD Chief was fired
+
+	- Even with the new policing guy in place, police are still mishandling protest situations 
+
+		- https://www.instagram.com/p/C8ELJJRODh7/?hl=en
+
+		- https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html
+
+	- Osako said "not to request law enforcement preemptively, and only if absolutely necessary to protect the physical safety of our campus community"
+
+		- UCLA needs to define the threshold for "preemptively" in order to know what constitutes an "unsafe environment." Because the moment a non-affiliate shows up on campus with a mask on for example, the environment is now "unsafe."
+
+		- Scuffles, fights and aggressive behavior occurred on several nights leading up to the 30th, the environment from that point forward is then "unsafe"
+
+	- Are UCPD trained in non-affiliate policy? 
+
+		- Why have the non-affiliate policies in place if they are not enforced? 
+
 - The protest demands went far beyond the conflict in Gaza
 
 	- The fact that the demands weren't met isn't what's important
@@ -314,14 +383,6 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 		- What does that mean for UCLA moving forward? 
 
 			- The motivations behind these demands will continue to drive organizations like UC Divest, CAC, and SJP
-
-- UCLA wants to address the symptoms---violence/safety/specific incidents of discrimination---but they continue to ignore the deeper issues
-
-	- Even with the new policing guy in place, police are still mishandling protest situations 
-
-		- https://www.instagram.com/p/C8ELJJRODh7/?hl=en
-
-		- https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html
 
 - USAC represents an abuse of power 
 
@@ -335,7 +396,14 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- https://www.ucla.edu/about/facts-and-figures
 
-- "Reporting" seems to be grievances posted to social media without any follow up 
+- Students post grievances on social media because they are accustomed to being "ignored" and they don't understand the accountability systems
+
+	- There's a conflict of interest in the conduct-report-punishment loop
+
+	- USAC can't be trusted to hold their own accountable
+
+	- The "group" conduct policies could have been a way to hold CAC accountable, why didn't anyone know to use it? 
+
 
 ## Broader Impact and Data
 
