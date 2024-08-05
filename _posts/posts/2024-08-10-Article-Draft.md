@@ -223,6 +223,20 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 ## Student and Faculty Opinions
 
+- The term "Zionist" is extremely divisive 
+
+	- The pro-Palestinian movement is being deliberately vague about its definition, in order to pose its target of Israeli statehood as a target on "expansionist colonizers" 
+
+		- ADL definition 
+
+		- video
+
+		- Reddit
+
+		- JVP
+
+		- Hamas doctrine and evidence of anti-Israeli rhetoric 
+
 - Students felt they didn't have an "American viewpoint" when it came to the pro-Palestinian protests
 	
 	- Without any support or condemnation with respect to organizational rhetoric, a vacuum is created
