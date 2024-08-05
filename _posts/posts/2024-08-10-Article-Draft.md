@@ -163,6 +163,8 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- Reddit and the other evidence gathered
 
+		- https://www.tiktok.com/t/ZTNVpURRG/
+
 - Back to students blockading campus and Eli Tsives
 
 	- Lawsuit 
@@ -209,6 +211,12 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 ## Context, history, "Expert" Opinion and Data
 
+- What were the protest demands?
+
+	- Israeli universities 
+
+	- Nazarian Center
+
 - https://dailybruin.com/2024/04/07/legal-scholars-host-panel-discussing-freedom-of-speech-since-oct-7
 
 - https://www.thefire.org/news/ucla-lacks-intellectual-tolerance-these-alumni-are-banding-together-fix-it
@@ -223,15 +231,33 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 ## Student and Faculty Opinions
 
-- The term "Zionist" is extremely divisive 
+- There is more evidence that "Zionist" was the basis for exclusion from areas of campus
 
-	- The pro-Palestinian movement is being deliberately vague about its definition, in order to pose its target of Israeli statehood as a target on "expansionist colonizers" 
+	- The term "Zionist" is extremely divisive 
+
+	- The pro-Palestinian movement is being deliberately vague about its definition, in order to pose its targeting of Israeli statehood as a target on "expansionist colonizers" 
 
 		- ADL definition 
 
-		- video
+			- https://www.latimes.com/california/story/2024-05-09/are-you-a-zionist-checkpoints-at-ucla-encampment-provoked-debate-among-jewish-students
+
+			- https://www.adl.org/resources/backgrounder/anti-zionism?gad_source=1&gclsrc=aw.ds
+
+		- videos
+
+			- https://x.com/iambrianbj/status/1785215261529850007?s=61
+
+			- https://www.tiktok.com/t/ZTNVnADbJ/
 
 		- Reddit
+
+			- previously collected comments
+
+			- Reddit take on the lawsuit
+
+			- Reddit take on Eli Tsives
+
+			- https://www.reddit.com/r/ucla/comments/1cnol2u/powell_library_wristband_policy_during_ecampment/
 
 		- JVP
 
