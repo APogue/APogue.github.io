@@ -213,9 +213,11 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 - What were the protest demands?
 
-	- Israeli universities 
+	- Boycotts 
 
-	- Nazarian Center
+		- Israeli universities 
+
+		- Nazarian Center
 
 - https://dailybruin.com/2024/04/07/legal-scholars-host-panel-discussing-freedom-of-speech-since-oct-7
 
