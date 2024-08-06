@@ -43,6 +43,12 @@ updated: true
 
 		- Block's House Opening Remarks - constitutional freedoms above everything
 
+		- [ACLU weighs in](https://www.aclu.org/documents/aclu-urges-congress-to-oppose-anti-semitism-awareness-act) 
+
+			- The question of Israel's statehood is "political" and protected
+
+			- Harassment based on speech is not protected
+
 	2. Self-governance
 
 		- USAC charges mandatory fees from student tuition in order to run a large portion of undergraduate life
