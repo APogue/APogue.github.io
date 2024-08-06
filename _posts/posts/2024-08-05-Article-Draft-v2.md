@@ -155,7 +155,7 @@ updated: true
 
 			- Block made a general statement about the Gaza conflict on 10-13
 
-			- No statement is an act of condemnation of the students in and of itself
+			- No statement is an act of condemnation of the students in and of itself 
 
 			- Yet another exercise in the conflating of protected and unprotected student activity 
 
