@@ -87,7 +87,7 @@ updated: true
 
 		- [This makes UCLA open-access](https://dailybruin.com/2024/01/29/uclas-open-campus-raises-questions-around-student-safety)
 
-- How does UCLA policy support the above? Where there is a lack of systems, what patterns have emerged? 
+- How does UCLA policy and enforcement support the above? Where there is a lack of systems, what patterns have emerged? 
 
 	- Policies, reporting, consequences
 
@@ -111,7 +111,7 @@ updated: true
 
 					- 202.11b *Harassment*
 
-	- "Weak" tone in condemnation 
+	- "Weak" handling
 
 		- Acknowledgement by Jewish groups that antisemitism exists on campus
 
@@ -137,9 +137,32 @@ updated: true
 
 				- [Policy measures](https://www.universityofcalifornia.edu/press-room/uc-president-michael-v-drake-md-opening-remarks-november-15-regents-meeting) function as symbolic gestures
 
-				- No accountability measures
+				- No accountability efforts
 
-				- Specific incidents need to clear authoritative measures and groups of specific incidents need to first be  acknowledged; then remedied with policy measures
+				- Specific incidents need clear, authoritative responses and groups of incidents need to first be acknowledged; then remedied with policy measures
+
+	- Vague promises of investigations and punishment 
+
+		- [Non-affiliate policy](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as)
+
+		- Incident of [aggressive harassment](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=da38a384-7a44-4f57-8bd6-b2b95de70ae8) (IG post 10-12)
+
+		- UCLA spokesperson [addresses the incident](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine) (Daily Bruin 10-27) at an event
+
+			- This needs a follow-up inquiry, doubtful there is any info on it that is publicly available
+
+		- There was *no statement made* by the UCLA administration or Gene Block
+
+			- Block made a general statement about the Gaza conflict on 10-13
+
+			- No statement is an act of condemnation of the students in and of itself
+
+			- Yet another exercise in the conflating of protected and unprotected student activity 
+
+			- Only Hillel [addressed the issue](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) specifically (10-12)
+
+
+
 
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
