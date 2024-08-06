@@ -65,7 +65,9 @@ updated: true
 
 	3. UCLA "expects" students to function autonomously using value systems in place
 
-		- photo of the statue
+		- photo of the statue 
+
+			- considered discrimination based on the above definition
 
 		- [Mary Osako statement](https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting)
 
