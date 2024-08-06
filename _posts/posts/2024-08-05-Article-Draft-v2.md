@@ -35,6 +35,8 @@ updated: true
 
 ## Background and Context
 
+- UCLA is the most popular university in the US by application 
+
 - UCLA philosophy: 
 	
 	1. ["Academic freedom in its fullest terms"](https://www.ucla.edu/about/mission-and-values)
@@ -127,7 +129,17 @@ updated: true
 
 			- Why did they wait for the protest to be over before removing it? 
 
+		- Nov 8th rally in support of Palestine
 
+			- Students went viral for screaming hate speech
+
+			- [Block and Drake respond](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california)
+
+				- [Policy measures](https://www.universityofcalifornia.edu/press-room/uc-president-michael-v-drake-md-opening-remarks-november-15-regents-meeting) function as symbolic gestures
+
+				- No accountability measures
+
+				- Specific incidents need to clear authoritative measures and groups of specific incidents need to first be  acknowledged; then remedied with policy measures
 
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

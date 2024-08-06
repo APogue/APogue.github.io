@@ -244,6 +244,8 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- Nazarian Center
 
+		- https://www.reddit.com/r/ucla/comments/1cn9fy0/some_of_usacs_demands_are_ridiculous/
+
 - https://dailybruin.com/2024/04/07/legal-scholars-host-panel-discussing-freedom-of-speech-since-oct-7
 
 - https://www.thefire.org/news/ucla-lacks-intellectual-tolerance-these-alumni-are-banding-together-fix-it
@@ -376,7 +378,7 @@ Thesis: Without addressing the issues underlying these incidents---now systemic 
 
 - The protest demands went far beyond the conflict in Gaza
 
-	- The fact that the demands weren't met isn't what's important
+	- The fact that the [demands weren't met](https://www.universityofcalifornia.edu/press-room/university-california-statement-divestment) isn't what's important
 
 		- Why were the demands so far reaching?
 
