@@ -53,6 +53,8 @@ updated: true
 
 	2. Self-governance
 
+		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
+
 		- USAC charges mandatory fees from student tuition in order to run a large portion of undergraduate life
 
 			- [not all fees are at USAC discretion](https://www.reddit.com/r/ucla/comments/mtr3ns/what_is_usac_a_sort_of_brief_guide/)
@@ -61,7 +63,7 @@ updated: true
 
 				- [more recent fees paid number](https://sa.ucla.edu/RO/Fees/Public/public-fees?year=2023-2024&term=Annual&degree=Undergraduate%20cohort%202023-24)
 
-	3. "True Bruin Values."
+	3. UCLA "expects" students to function autonomously using value systems in place
 
 		- photo of the statue
 
@@ -71,7 +73,7 @@ updated: true
 
 			- Principles of community
 
-	4. "Student safety."
+	4. "Student safety" is a concern because the campus is open to the public
 
 		- [UCLA is a land-grant institution](https://www.nifa.usda.gov/about-nifa/how-we-work/partnerships/land-grant-colleges-universities)
 
