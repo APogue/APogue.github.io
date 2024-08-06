@@ -55,6 +55,10 @@ updated: true
 
 		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
 
+		- USAC has their own set of bylaws and judicial system as "checks and balances"
+
+		- USAC is accountable to *all* students
+
 		- USAC charges mandatory fees from student tuition in order to run a large portion of undergraduate life
 
 			- [not all fees are at USAC discretion](https://www.reddit.com/r/ucla/comments/mtr3ns/what_is_usac_a_sort_of_brief_guide/)
@@ -85,4 +89,45 @@ updated: true
 
 	- Policies, reporting, consequences
 
-		- 
+		- Student misconduct 
+
+			- There are [systems](https://deanofstudents.ucla.edu/individual-student-code) in place and information is [available](https://www.deanofstudents.ucla.edu/student-conduct-faq) wrt conduct and [consequences](https://deanofstudents.ucla.edu/file/2f52f587-8b22-4633-a4f5-d79ee25cea9b)
+
+			- Effectively none of this matters, because if a student is reported, an [administrative hold](https://www.reddit.com/r/ucla/comments/1d4iy65/ucla_threatens_to_withhold_degrees_from/) is placed on their myUCLA account to force engagement 
+
+		- Group misconduct 
+
+			- Similar systems are in place for [group](https://deanofstudents.ucla.edu/group-student-code) misconduct 
+
+				- Section II. Definitions, Section K, *Student Group*
+
+					- *USAC* 
+
+				- Section III.B, *Types of Misconduct* includes 202.11, *Discrimination and Harassment*
+
+					- 202.11a *Discrimination*
+
+					- 202.11b *Harassment*
+
+	- "Weak" tone in condemnation 
+
+		- Acknowledgement by Jewish groups that antisemitism exists on campus
+
+			- Grant---[*LA Campuses United Against Antisemitism*](https://www.jewishfoundationla.org/grant/la-campuses-united-against-antisemitism/) 
+
+			- [Campus Impact Network (CIN)](https://www.jewishla.org/the-jewish-federation-of-greater-los-angeles-launches-campus-impact-network-to-address-antisemitism-on-college-campuses/) 
+
+			- [Antisemitic display](https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/) was a catalyst for discussion about ongoing issues with antisemitism on campus 
+
+		- Osako said "The protest has ended and the display has been removed." 
+
+			- The distinction between protected and unprotected speech should be well understood by the administration and students alike
+
+			- What is depicted in the display shows clear discrimination (by the above definitions)
+
+			- Why did they wait for the protest to be over before removing it? 
+
+
+
+
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
