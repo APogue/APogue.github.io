@@ -159,9 +159,9 @@ updated: true
 
 			- Yet another exercise in the conflating of protected and unprotected student activity 
 
-			- Only Hillel [addressed the issue](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) specifically (10-12)
+			- Only* Hillel [addressed the issue](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) specifically (10-12)
 
-
+	- UCLA totally ignores organizational activity, even when it is brought to their attention  
 
 
 
