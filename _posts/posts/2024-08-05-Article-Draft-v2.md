@@ -129,9 +129,13 @@ updated: true
 
 			- Why did they wait for the protest to be over before removing it? 
 
-		- Nov 8th rally in support of Palestine
+		- Incidents occurring on Nov 7th & 8th 
 
-			- Students went viral for screaming hate speech
+			- Nov 7th 
+
+			- Nov 8th rally in support of Palestine
+
+				- Students went viral for screaming hate speech
 
 			- [Block and Drake respond](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california)
 
@@ -139,7 +143,9 @@ updated: true
 
 				- No accountability efforts
 
-				- Specific incidents need clear, authoritative responses and groups of incidents need to first be acknowledged; then remedied with policy measures
+					- Zero acknowledgement of non-affiliate problem
+
+					- No compulsory incident reviews with persons involved
 
 	- Vague promises of investigations and punishment 
 
@@ -161,8 +167,19 @@ updated: true
 
 			- Only* Hillel [addressed the issue](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) specifically (10-12)
 
-	- UCLA totally ignores organizational activity, even when it is brought to their attention  
+	- Complete inaction with respect to organizational activity
 
+		
+
+	- Consequences
+
+		- Failure to acknowledge emerging patterns
+		
+			- Implications
+
+				- A toxic campus environment for Jewish students 
+
+				- An unsafe campus environment for pro-Palestinian students
 
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
