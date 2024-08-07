@@ -246,6 +246,8 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- https://www.reddit.com/r/ucla/comments/1cn9fy0/some_of_usacs_demands_are_ridiculous/
 
+		- [text](https://docs.google.com/document/u/0/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic?pli%3D1)
+
 - https://dailybruin.com/2024/04/07/legal-scholars-host-panel-discussing-freedom-of-speech-since-oct-7
 
 - https://www.thefire.org/news/ucla-lacks-intellectual-tolerance-these-alumni-are-banding-together-fix-it
@@ -514,6 +516,10 @@ If fees are mandatory, and the Jewish and more specifically Israeli population a
 The problem with UCLA handling: 
 
 Rather than offer 'rhetorical guidance,' they claim a 'hands-off approach' to allow for the 'free exchange of ideas.' But in the qualification of incidents as 'worthy' of a response or not, this is in and of itself an 'administrative position' whereby this 'position' has forfeited the 'free exchange' for 'administrative bias.'
+
+Solution: 
+
+Force the school to engage in the same way they force students to engage. Withhold the fees. 
 
 
 
