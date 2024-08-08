@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Article Draft v2"
+title: "Introduction/Background and Context"
 published: true
 author: Alexie Pogue
 date: 2024-08-05 02:00 PM
@@ -220,37 +220,6 @@ updated: true
 
 
 
-### Appendix 
-
-- Student Organizations 
-	
-	- Hillel 
-
-	- CAC
-
-	- JVP
-
-	- SJP
-
-	- UC Divest
-
-- Policies 
-
-	- [USAC Guiding Documents](https://www.usac.ucla.edu/documents/guiding-docs)
-
-	- [Time, place, and manner policies](https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c)
-
-- Supervising Bodies
-
-	- [Student Affairs](https://www.studentaffairs.ucla.edu/) 
-
-- Timeline of Events Surrounding Major Protests at UCLA
-
-	- Events before 
-
-	- Events during 
-
-	- Events after 
 
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
