@@ -509,62 +509,7 @@ Thesis: Without addressing the issues underlying these incidents---now systemic 
 
 	- But also, who is holding UCLA accountable for not carrying out perfectly good non-affiliate policies already in place? 
 
-Notes: 
 
-The problem with student fees:
-
-USAC is an old institution with bylaws and mission statements that require it to represent all students. There are also accountability measures that students have tried to invoke, to no avail.
-
-CAC is the USAC arm of SJP. Together they have "institutionalized" anti-Israel rhetoric based on past positions (incidents really), consistent measures against Israel, and an unwillingness to work with Jewish organizations. When there have been calls for USAC to work with Jewish organizations, and calls for the impeachment of Verdugo, the USAC has done nothing. Verdugo was even called out by the Daily Bruin, and still nothing. In fact she was elected to another term shortly thereafter. Despite systems in place to handle Verdugo's misconduct, no action has been taken, making all USAC members complicit. 
-
-If fees are mandatory, and the Jewish and more specifically Israeli population are too small a voting bloc to be represented, is this made clear when a student signs a contract to attend the university? More relevant to these matters, because anti-Israel rhetoric has now been institutionalized within USAC, has this been made clear when a student agrees to attend the university? If the student government is consistently biased against a certain group, then the government is now an "anti-Israel" government, and it is no longer a question of whether an Israeli or Jewish student will "at times" not be represented, or "at times" be targeted. The question is now, is the student willing to "at all times" be targeted by the student government at UCLA? Is the student willing to renounce Israel to attend the university? 
-
-"Anti-Israel" does not mean anti-war, it does not mean anti-occupation, it means anti-state of Israel. 
-
-The problem with UCLA handling: 
-
-Rather than offer 'rhetorical guidance,' they claim a 'hands-off approach' to allow for the 'free exchange of ideas.' But in the qualification of incidents as 'worthy' of a response or not, this is in and of itself an 'administrative position' whereby this 'position' has forfeited the 'free exchange' for 'administrative bias.'
-
-Solution: 
-
-Force the school to engage in the same way they force students to engage. Withhold the fees. 
-
-USAC is corrupt: 
-
-	1. They're discriminating 
-
-		- CAC is discriminating 
-
-	2. Their resolution is unconstitutional 
-
-		- By the preamble
-
-	3. Violating II.B.3.a of their constitution
-
-		- Students have a right to the fair hearings of grievances
-
-	4. They are not holding members accountable (bylaws)
-
-		- Abuse of power
-
-CEC and CAC participated in the protest:
-
-	- The protest violated Title VI by blockading free movement of other students 
-
-	- Assume they were there in an official capacity
-
-		- doesn't matter if they appropriated funds towards the encampment
-
-		- student fees pay for their employment (Reddit post)
-
-		- [86.11 *Conditions for Support*](https://policy.ucop.edu/doc/2710528/PACAOS-80) "Particular
-				programs and activities of a Registered Campus Organization funded from compulsory
-				campus-based student fees shall be open to participation by the entire campus
-				community."
-
-		- Violating II.B.3.a of their constitution
-
-			- Students have the right to participate in all ASUCLA - sponsored activities 
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
 
