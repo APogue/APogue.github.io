@@ -57,17 +57,34 @@ updated: true
 
 		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
 
-		- USAC has their own set of bylaws and judicial system as "checks and balances"
+			- Positions on issues taken by student governments are not positions taken by the university (by PACAOS-63.00)
 
-		- USAC is accountable to *all* students
+		- USAC has a set of [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1) 
 
-		- USAC charges mandatory fees from student tuition in order to run a large portion of undergraduate life
+			- The process for initiating a hearing based on the identification of cause
+
+			- Removal from Council requires 2/3 vote
+
+		- USAC has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
+
+		- USAC [constitution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6509389145a9b930a19e0401/1695103121405/USA+Constitution.pdf)
+
+			- I.D---USAC shall not participate in discrimination 
+
+			- II.B.a---rights of students to a fair hearing of grievances
+
+		- USAC charges [mandatory fees](https://sole.ucla.edu/file/cfdd57d7-15e0-4d9d-a6bf-e5ce5e91e385) from student tuition in order to run a large portion of undergraduate life
 
 			- [not all fees are at USAC discretion](https://www.reddit.com/r/ucla/comments/mtr3ns/what_is_usac_a_sort_of_brief_guide/)
 
 				- [fee breakdown](https://www.usac.ucla.edu/funding/student-fee)
 
 				- [more recent fees paid number](https://sa.ucla.edu/RO/Fees/Public/public-fees?year=2023-2024&term=Annual&degree=Undergraduate%20cohort%202023-24)
+
+				- [86.11 *Conditions for Support*](https://policy.ucop.edu/doc/2710528/PACAOS-80) "Particular
+				programs and activities of a Registered Campus Organization funded from compulsory
+				campus-based student fees shall be open to participation by the entire campus
+				community."
 
 	3. UCLA "expects" students to function autonomously using value systems in place
 
@@ -169,17 +186,63 @@ updated: true
 
 	- Complete inaction with respect to organizational activity
 
+
 		
+
+	- Events, rallies, and Demonstration handling faces criticism 
+
+		- [Article](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine) by the Bruin---*UCLA faces scrutiny for safety issues at protests for Israel, Palestine (12-5)*  
+
+			- covers issues of slow responses from UCLA administration liaisons, security failure issues and imbalanced policing
+
+			- "university does not restrict or control the views shared by student groups.”
+
+				- this is their "blanket statement" that reserves them the right not to get involved even when discrimination and agitated harassment is occurring 
 
 	- Consequences
 
-		- Failure to acknowledge emerging patterns
+		- The implications of a failure to acknowledge emerging patterns
 		
-			- Implications
+			- A toxic campus environment for Jewish students 
 
-				- A toxic campus environment for Jewish students 
+			- An unsafe campus environment for pro-Palestinian students
 
-				- An unsafe campus environment for pro-Palestinian students
+
+
+
+
+
+### Appendix 
+
+- Student Organizations 
+	
+	- Hillel 
+
+	- CAC
+
+	- JVP
+
+	- SJP
+
+	- UC Divest
+
+- Policies 
+
+	- [USAC Guiding Documents](https://www.usac.ucla.edu/documents/guiding-docs)
+
+	- [Time, place, and manner policies](https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c)
+
+- Supervising Bodies
+
+	- [Student Affairs](https://www.studentaffairs.ucla.edu/) 
+
+- Timeline of Events Surrounding Major Protests at UCLA
+
+	- Events before 
+
+	- Events during 
+
+	- Events after 
 
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

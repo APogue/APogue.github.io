@@ -204,6 +204,10 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 - There was next to no guidance on time, place, and manner restrictions and UCLA demonstration policies 
 
+	- Time, place, and manner policies are located here
+
+		- https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c
+
 	- UCLA seemed deliberately vague (in the name of "freedoms protection?") with respect to appropriate protest conduct
 
 		- This lead to students blockading other students, including Jewish and handicapped students
