@@ -61,17 +61,25 @@ updated: true
 
 		- USAC has a set of [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1) 
 
-			- The process for initiating a hearing based on the identification of cause
+			- The process for initiating a hearing solely based on the identification of cause
 
 			- Removal from Council requires 2/3 vote
 
-		- USAC has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
+		- UC student government has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
+
+			- UCLA USAC's own constitution is more specific in limiting powers
 
 		- USAC [constitution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6509389145a9b930a19e0401/1695103121405/USA+Constitution.pdf)
 
-			- I.D---USAC shall not participate in discrimination 
+			- Preamble
 
-			- II.B.a---rights of students to a fair hearing of grievances
+			- I.D. USAC shall not participate in discrimination 
+
+			- II.B.3.a. 
+
+				- rights of students to participate in all activities 
+
+				- rights of students to a fair hearing of grievances
 
 		- USAC charges [mandatory fees](https://sole.ucla.edu/file/cfdd57d7-15e0-4d9d-a6bf-e5ce5e91e385) from student tuition in order to run a large portion of undergraduate life
 
@@ -197,7 +205,7 @@ updated: true
 
 			- "university does not restrict or control the views shared by student groups.”
 
-				- this is their "blanket statement" that reserves them the right not to get involved even when discrimination and agitated harassment is occurring 
+				- this is their "blanket statement" that reserves them the right not to get involved even when discrimination and harassment are occurring 
 
 	- Consequences
 

@@ -252,6 +252,10 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 		- [text](https://docs.google.com/document/u/0/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic?pli%3D1)
 
+		- the [resolution is unconstitutional](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6509389145a9b930a19e0401/1695103121405/USA+Constitution.pdf)
+
+			- the preamble is a basis for this 
+
 - https://dailybruin.com/2024/04/07/legal-scholars-host-panel-discussing-freedom-of-speech-since-oct-7
 
 - https://www.thefire.org/news/ucla-lacks-intellectual-tolerance-these-alumni-are-banding-together-fix-it
@@ -525,8 +529,42 @@ Solution:
 
 Force the school to engage in the same way they force students to engage. Withhold the fees. 
 
+USAC is corrupt: 
 
+	1. They're discriminating 
 
+		- CAC is discriminating 
+
+	2. Their resolution is unconstitutional 
+
+		- By the preamble
+
+	3. Violating II.B.3.a of their constitution
+
+		- Students have a right to the fair hearings of grievances
+
+	4. They are not holding members accountable (bylaws)
+
+		- Abuse of power
+
+CEC and CAC participated in the protest:
+
+	- The protest violated Title VI by blockading free movement of other students 
+
+	- Assume they were there in an official capacity
+
+		- doesn't matter if they appropriated funds towards the encampment
+
+		- student fees pay for their employment (Reddit post)
+
+		- [86.11 *Conditions for Support*](https://policy.ucop.edu/doc/2710528/PACAOS-80) "Particular
+				programs and activities of a Registered Campus Organization funded from compulsory
+				campus-based student fees shall be open to participation by the entire campus
+				community."
+
+		- Violating II.B.3.a of their constitution
+
+			- Students have the right to participate in all ASUCLA - sponsored activities 
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
 
