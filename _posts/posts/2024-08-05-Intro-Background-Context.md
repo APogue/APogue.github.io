@@ -194,9 +194,24 @@ updated: true
 
 	- Complete inaction with respect to organizational activity
 
+		- Background and context
 
+			- Establish the position of these organizations 
+
+				- Protected activity
+
+					- Qualification of this speech as abhorrent or not is irrelevant, it is protected 
+
+					- They dispute the statehood of Israel
+
+						- The broader picture shows more than interest in ending the Gaza conflict, or ending "occupation"
+
+						- They use several mechanisms to undermine Israel's legitimacy 
+
+		- Unprotected activity
+
+		- Student grievances 
 		
-
 	- Events, rallies, and Demonstration handling faces criticism 
 
 		- [Article](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine) by the Bruin---*UCLA faces scrutiny for safety issues at protests for Israel, Palestine (12-5)*  
