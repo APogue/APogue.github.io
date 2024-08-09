@@ -416,7 +416,6 @@ Thesis: Without addressing the issues underlying these incidents---now systemic 
 
 	- The "group" conduct policies could have been a way to hold CAC accountable, why didn't anyone know to use it? 
 
-
 ## Broader Impact and Data
 
 - Comparative Analysis: Comparison with other UC's and their handling of the protests
