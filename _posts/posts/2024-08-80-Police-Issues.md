@@ -51,9 +51,9 @@ https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-disc
 		- [Bruin reporter gets assaulted](https://x.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785843179801153865%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
 
 
+https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression
 
-
-
+https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus.
 
 https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342
 
