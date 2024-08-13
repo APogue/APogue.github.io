@@ -145,8 +145,34 @@ https://www.universityofcalifornia.edu/news/how-students-helped-end-apartheid
 
 Despite the obvious antisemitism on campus, where are the resolutions in the last few years condemning antisemitism? 
 
+- case, case, case, case   
+
 https://www.usac.ucla.edu/documents/resolutions
 
 The Gene Block resolution is missing from the above
 
 Hillel International will not sponsor a University Hillel that supports BDS, or rhetoric that opposes the right for Israel to exist, this is likely why USAC will not interact with them. Which is against their constitution. 
+
+
+
+
+USAC has a history of questionable incidents as it relates to antisemitism
+
+They have also passed resolutions condemning antisemitism 
+
+
+
+
+
+
+The corrupt and unconstitutional behavior on the part of the USAC, it's now a gov't standing against members of the UCLA community. Certainly for now, no fees. The question is, if the system of accountability (checks and balances) is not functioning, ie the the Council is too small, the Judicial Board is ineffective, then the institutions rely on the individual to uphold the constitution not the other way around. The bottom line is USAC is susceptible to corruption. 
+
+
+Academic freedom 
+
+
+
+
+double standard- they protest against J1, yet they want to censor Nazarian Center
+
+They're not ready for the (content-neutral) liberties given to higher institutions, what happens is a microcosm of what is happening on a national level- corruption
