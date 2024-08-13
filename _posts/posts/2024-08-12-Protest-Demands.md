@@ -76,11 +76,9 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 			- The motivations behind these demands will continue to drive organizations like UC Divest, CAC, and SJP
 
-https://dailybruin.com/2014/05/23/submission-usac-ethics-statement-exacerbates-israeli-palestinian-situation
 
 https://dailybruin.com/2014/10/08/petition-claims-amchas-efforts-limit-academic-freedom
 
-https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism
 
 https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093b574272311736b89fac/1695103831148/A+Resolution+In+Support+of+Jewish+Students+Amidst+Rising+Antisemitism.pdf
 
@@ -147,7 +145,7 @@ Despite the obvious antisemitism on campus, where are the resolutions in the las
 
 - case, case, case, case   
 
-https://www.usac.ucla.edu/documents/resolutions
+
 
 The Gene Block resolution is missing from the above
 
@@ -175,4 +173,23 @@ Academic freedom
 
 double standard- they protest against J1, yet they want to censor Nazarian Center
 
+CAC won't work with JVP (or vice versa)
+
 They're not ready for the (content-neutral) liberties given to higher institutions, what happens is a microcosm of what is happening on a national level- corruption
+
+
+
+
+Completed -------------------------------------------------------------------------------------------------------------------------
+
+
+https://dailybruin.com/2014/05/23/submission-usac-ethics-statement-exacerbates-israeli-palestinian-situation
+
+https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism
+
+https://www.usac.ucla.edu/documents/resolutions
+
+https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093b574272311736b89fac/1695103831148/A+Resolution+In+Support+of+Jewish+Students+Amidst+Rising+Antisemitism.pdf
+
+
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
