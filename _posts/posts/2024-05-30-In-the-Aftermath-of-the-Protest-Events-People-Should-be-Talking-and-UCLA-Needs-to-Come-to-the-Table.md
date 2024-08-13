@@ -6,7 +6,7 @@ published: true
 ---
 <!--
 ## Context and Objective <span id="Context and Objective"></span>
-{% include sections/Intro.md %}
+{% include sections/Intro.md %}-->
 
 ## Early Messaging <span id="Early Messaging"></span>
 ## Pro-Palestinian
@@ -18,7 +18,7 @@ published: true
 {% include sections/early-messaging-pro-israel-main.md %}
 
 ## Months Prior to Protest Events <span id="Months Prior to Protest Events"></span>
-{% include sections/months-prior-main.md %}-->
+{% include sections/months-prior-main.md %}
 
 ## Protest Events <span id="Protest Events"></span>
 {% include sections/protest-events.md %}

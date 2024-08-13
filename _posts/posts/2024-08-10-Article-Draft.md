@@ -103,7 +103,6 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 			- https://www.jewishfoundationla.org/grant/la-campuses-united-against-antisemitism/
 
-
 		- Incidents by unknown student perpetrators continue
 
 			- incidents leading up to major protest events 
@@ -166,6 +165,8 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 	- Some condemnation by the chancellor, the regents, and one measure to "Control" free speech: Action item J1
 
+	- https://www.latimes.com/california/story/2024-03-21/uc-regents-dicuss-tightening-controls-of-opinion-on-campus-websites
+
 		- What statements were made in the months leading up to the major protest
 
 		- Background and context to the Regents meeting
@@ -199,6 +200,8 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 		- It is not an issue of a "Jew Exclusion Zone" it is an issue of forcibly imposing political positions and subjugating students based on Israeli heritage, if in essence they have to renounce the state of Israel for access to campus. Any student that is international or has ancestral ties to Israel must renounce these ties. 
 
 		- If the argument is "Jew Exclusion Zone" it will be immediately debunked and disregarded by the pro-Palestinian and general student population. 
+
+		- Must go with the broadest terms, in order to withstand all anecdotal evidence that might contradict what looked like the true motive. They excluded people, enough said. 
 
 			- https://www.instagram.com/israelismfilm/reel/C6erq2KOYyY/ and Jewish Voices for Peace
 
