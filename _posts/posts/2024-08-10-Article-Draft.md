@@ -279,6 +279,15 @@ https://www.propublica.org/article/how-police-undermined-promise-body-cameras
 
 	- The pro-Palestinian movement is being deliberately vague about its definition, in order to pose its targeting of Israeli statehood as a target on "expansionist colonizers" 
 
+	https://www.insidehighered.com/news/2015/03/18/swarthmore-hillel-breaks-parent-organization-over-israel-issues
+
+	https://www.hillel.org/israel-guidelines/#:~:text=Hillel%20views%20Israel%20as%20a,to%20Jewish%20identification%20for%20students.
+
+	https://jewishchronicle.timesofisrael.com/swarthmore-hillel-votes-to-disaffiliate-with-hillel-intl/
+
+	zionist definition here is different-https://dailybruin.com/2014/01/13/panel-opens-discussion-on-jewish-community-issues
+
+
 		- ADL definition 
 
 			- https://www.latimes.com/california/story/2024-05-09/are-you-a-zionist-checkpoints-at-ucla-encampment-provoked-debate-among-jewish-students

@@ -87,7 +87,11 @@ https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 
 https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment
 
+https://www.instagram.com/p/C6aTBAhLoOl/?hl=en&img_index=1
 
+https://www.instagram.com/p/C6aNkbWrBSR/?hl=en&img_index=5
+
+https://www.instagram.com/p/C51p_t2SMCH/?hl=en
 
 - time, place, manner
 
