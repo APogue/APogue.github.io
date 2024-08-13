@@ -85,7 +85,7 @@ https://www.cbsnews.com/losangeles/news/ucla-police-makes-first-arrest-in-connec
 https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 
 
-
+https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment
 
 
 
@@ -110,3 +110,16 @@ https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 	- Why isn't the administration better prepared
 
 	- Why aren't they lowering their safety threshold? 
+
+
+
+
+"You can separate the groups by labeling them based on neutral identifiers, such as "Group A" and "Group B," or by referring to them as "Group 1" and "Group 2," rather than explicitly labeling them based on their content or viewpoints (e.g., "pro-Israel" or "pro-Palestine"). The separation itself can still be based on practical, content-neutral considerations, such as:
+
+Safety and Security: If there is a legitimate concern that having the groups too close to each other could lead to conflict, you can assign different areas to each group within the protest zone to maintain safety. The decision to separate them is based on maintaining public order rather than on the content of their speech.
+
+Logistics and Space Management: You might separate the groups to manage space effectively, ensuring that each group has enough room to express their views without interference from the other. Again, the basis for separation is logistical, not content-based.
+
+Avoiding Disruption: If having both groups in close proximity could disrupt traffic, business, or other public interests, they can be separated into different locations or times to prevent such disruption.
+
+While you might recognize the groups by their content in planning or internally, the official reason for separating them, as communicated and implemented, should be grounded in these neutral, practical considerations rather than their viewpoints. This approach allows you to manage the situation effectively while adhering to the content-neutral requirement of the law."
