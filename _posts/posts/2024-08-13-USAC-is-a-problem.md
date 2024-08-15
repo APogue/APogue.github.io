@@ -22,7 +22,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - Case of antisemitism 
 
- 	- Reemergence of what the author's believe is the "Jewish Question", [TDB](https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism)
+ 	- Reemergence of what the author believes is the "Jewish Question", [TDB](https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism)
 
 - [Resolutions](https://www.usac.ucla.edu/documents/resolutions) in the past have condemned antisemitism 
 
@@ -32,15 +32,57 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- [Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093f0232032a4edc39b4f9/1695104770978/A+Resolution+In+Favor+of+Equalized+Access+to+UCLA+for+Non-Commerical+Speech+Events%3B+Specifically+in+Regards+to+SJP.pdf) for equal access 
 
- - Protected speech by non-USAC affiliated student groups 
+- Shortly after Oct 7th 
 
- 	- SJP 
+ 	- Protected speech by non-USAC affiliated student groups 
+
+ 		- SJP
+
+ 		- [Mission](https://community.ucla.edu/studentorg/90)
+
+ 		- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
+
+ 		- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
 
 
- 	- JVP 
+ 		- JVP 
+
+ 		- [Mission](https://community.ucla.edu/studentorg/3992)
+
+ 		- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
+
+
+ 	- Protected speech by USAC affiliated student groups 
+
+ 		- CAC
+
+ 			- [Mission](https://community.ucla.edu/studentorg/623)
+
+ 				- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
+
+ 			- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
+
+ 	- USAC February Resolution
+
+ 		- [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+
+ 		- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
+
+ 			- The points listed 
+
+ 				- "Addresses longstanding issues related to Israel's...treatment of Palestinian's more generally"
+
+ 				- "Given this broader critique...it is likely that the "list" of entities to be boycotted would extend beyond the Gaza conflict...encompassing entities across Israel and its broader economic and political structures."
 
 
 
- - Protected speech by USAC affiliated student groups 
 
 
+
+
+
+
+
+ 	## The Protests 
+
+ 	- This alone may not 
