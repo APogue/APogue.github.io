@@ -120,6 +120,8 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- Student barred entry because he is a ["Zionist"](https://x.com/iambrianbj/status/1785215261529850007?s=61)
 
+		- [Frankel v. Regents of the University of California](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf)
+
 - USAC presence
 
 	- CAC and CEC were [present](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment) 
@@ -130,7 +132,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- Criticism of Verdugo
 
-		- [Eli Tsives](https://www.instagram.com/reel/C6WseJ2Jp3x/?utm_source=ig_embed&ig_rid=48470d69-c9e4-4a25-86b0-1efaa3c285de) who was also blockaded, expressed disapproval of CAC and Verdugo
+		- [Eli Tsives](https://www.instagram.com/reel/C6WseJ2Jp3x/?utm_source=ig_embed&ig_rid=48470d69-c9e4-4a25-86b0-1efaa3c285de) who was also blocked, expressed disapproval of CAC and Verdugo
 
 			- [DB quote](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)- "Eli Tsives... criticized Verdugo’s use of her platform to promote messages he believes makes Jewish students uncomfortable on campus. “They (the Cultural Affairs Commission) have purposefully used their position and power to make us Jewish students feel unsafe,” he said."
 
@@ -150,46 +152,63 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 			- [Sometime after Nov 7th, 2023](https://x.com/itranslate123/status/1292459086257295360)
 
-- Is Tsives, who is widely publicized for being "attention hungry" and a right-wing media device, the only one who feels this way? 
+- Is Tsives, who is widely criticized for being "attention hungry" and a right-wing media device, the only one who feels this way? 
 
+	- [Dec 18th](https://www.instagram.com/p/C1BN9tHr054/?hl=en) post by Hillel says they have been dismissed by student government and EDI
 
+	- [UCLABIPAC IG message](https://www.instagram.com/p/C3a68r6uAHC/?igsh=ZWMyNDBlOTQyNg%3D%3D&img_index=1) 
 
+		- Labeled as "calls for impeachment" and published in the [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement) on 2-21
 
+		- Shows examples of discriminatory behavior on the part of Verdugo
 
+	- Despite seemingly misaligned political positions, JVP works with SJP and vice versa
 
+		- There is no social media evidence* that CAC will work with JVP or vice versa
 
+			- Beyond political positions, the lack of a relationship shows that either CAC does not want to work with JVP based on Jewish identity or JVP agrees they are involved in discriminatory behavior
 
+- Verdugo is compromised and unfit to work within USAC
 
+	- All of the above represents a "conflict of interest," as defined by bylaws, with respect to any political position on Israel
 
+- Does the issue with USAC go beyond Verdugo? 
 
+	- They will not work with Hillel 
 
+	- They will not hear BIPAC calls for impeachment
 
+	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in unlawful behavior, ie, being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
 
+- USAC is also compromised
 
+	- USAC constitution II.B.3.a. 
 
+		- rights of students to participate in all activities
 
+		- rights of students to a fair hearing of grievances 
 
-protest hate- discrimination CAC triangles on their site
-
-JVP will and will not work with - indicates discrimination, because the "political" messages of JVP and SJP do not "align", but JVP does work with SJP 
-
-calls for impeachment- indiscrimantion 
-
-they go unanswered - discrimination 
-
-USAC misconduct 
 	
-	- tayfili said 
 
-	- blockading students
 
-	- USAC involvement 
 
-Last resolution
 
-	- 
 
-Make a point to name the various channels broadcasting this information, on how many fronts was this group ignored? 
+
+
+	- The omission of a resolution condemning the uptick in antisemitism happening *on campus* speaks for itself 
+
+		- Case, case, case 
+
+		- Their behavior is *exclusive*, it is *excluding* members of the campus community 
+
+
+
+
+
+
+
+
 
 "From the River to the Sea"
 - https://www.tiktok.com/t/ZTNVpURRG/
