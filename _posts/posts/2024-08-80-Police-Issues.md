@@ -128,6 +128,6 @@ Avoiding Disruption: If having both groups in close proximity could disrupt traf
 
 While you might recognize the groups by their content in planning or internally, the official reason for separating them, as communicated and implemented, should be grounded in these neutral, practical considerations rather than their viewpoints. This approach allows you to manage the situation effectively while adhering to the content-neutral requirement of the law."
 
-
+https://www.nytimes.com/2024/08/14/us/columbia-president-nemat-shafik-resigns.html?smid=nytcore-ios-share&referringSource=articleShare
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
