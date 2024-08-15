@@ -178,9 +178,9 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- They will not hear BIPAC calls for impeachment
 
-	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in unlawful behavior, ie, being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
+	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in unlawful behavior, ie being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
 
-- USAC is also compromised
+- USAC is also compromised by the above 
 
 	- USAC constitution II.B.3.a. 
 
@@ -188,30 +188,39 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- rights of students to a fair hearing of grievances 
 
-	
+- There has not even been a symbolic move made to address the uptick in antisemitism that's been happening *on campus* 
+
+	- Case, case, case
+
+- All of the above indicates their behavior is *exclusive*, USAC is *excluding* members of the campus community 
+
+- It seems reasonable then to question the motives behind their more recent resolution as possibly targeting the state of Israel rather than Israel's policies 
+
+	- If a particular group of students will not be included, and discrimination is occurring, this increases the likelihood that *correlation is causation* with respect to Hamas rhetoric 
+
+	- Has Hamas rhetoric bled into the [USAC resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)?
+
+		- [It](https://docs.google.com/document/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic) is questionably far reaching, and calls for the abolishment of the UCLA Nazarian Center
+
+- Given Verdugo has been [*reelected*](https://dailybruin.com/2024/05/17/bruins-elect-1st-international-student-as-usac-president-in-2024-elections) to office, USAC corruption is likely to continue
+
+- While Hamas rhetoric is technically "protected," this position together with the above evidence alludes to an attack on students associated with the state of Israel rather than its policies---by discrimination, exclusion and abuse of power
+
+	- The Israeli community (or the entire Jewish community inclusive of the Israeli community)  is too small a voting bloc, theoretically or practically to change USAC election outcomes (by "Article Draft", *USAC represents an abuse of power*)
+
+	- If by the claims made in the lawsuit, and the evidence above, USAC has shown consistent bias against a certain student group, then they are seeking to "institutionalize" this bias
+
+		- refer to "Notes" document *The problem with student fees*
+
+- By the above, students *should not pay* their student fees
+
+	- [86.11 *Conditions for Support*](https://policy.ucop.edu/doc/2710528/PACAOS-80) "Particular
+	programs and activities of a Registered Campus Organization funded from compulsory
+	campus-based student fees shall be open to participation by the entire campus
+	community."
 
 
 
-
-
-
-
-	- The omission of a resolution condemning the uptick in antisemitism happening *on campus* speaks for itself 
-
-		- Case, case, case 
-
-		- Their behavior is *exclusive*, it is *excluding* members of the campus community 
-
-
-
-
-
-
-
-
-
-"From the River to the Sea"
-- https://www.tiktok.com/t/ZTNVpURRG/
 
 
 
