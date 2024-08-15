@@ -61,9 +61,15 @@ updated: true
 
 		- USAC has a set of [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1) 
 
-			- The process for initiating a hearing solely based on the identification of cause
+			- I.D. Conflict of Interest
 
-			- Removal from Council requires 2/3 vote
+				- Discrimination represents a conflict of interest when involved in political activity 
+
+			- II.E. Removal Process
+
+				- The process for initiating a hearing solely based on the identification of cause
+
+				- Removal from Council requires 2/3 vote
 
 		- UC student government has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
 

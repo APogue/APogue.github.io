@@ -38,18 +38,20 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
  		- SJP
 
- 		- [Mission](https://community.ucla.edu/studentorg/90)
+ 			- [Mission](https://community.ucla.edu/studentorg/90)
 
- 		- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
+ 			- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
 
- 		- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
+ 			- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
 
 
  		- JVP 
 
- 		- [Mission](https://community.ucla.edu/studentorg/3992)
+ 			- [Mission](https://community.ucla.edu/studentorg/3992)
 
- 		- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
+ 				- How do they define "Zionism?"
+
+ 			- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
 
 
  	- Protected speech by USAC affiliated student groups 
@@ -61,6 +63,10 @@ This way, you clearly separate the timing of events from the underlying ideologi
  				- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
 
  			- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
+
+ 				- "River to the Sea"
+
+ 				- "Honoring Palestinians on the front lines"
 
  	- USAC February Resolution
 
@@ -74,6 +80,52 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
  				- "Given this broader critique...it is likely that the "list" of entities to be boycotted would extend beyond the Gaza conflict...encompassing entities across Israel and its broader economic and political structures."
 
+			- Resolution was sponsored by Verdugo, 10-3 vote to pass on 2-20
+
+- The political climate at this point, given the rhetorical positions of SJP and CAC, and the desire to target Israel more broadly, resembles the political positions of Hamas 
+
+	- This is still "okay," if they want to side with Hamas this is protected 
+
+	- Define the political position of Hamas
+
+		- The state of Israel is a "Zionist Project"
+
+		- [Propaganda document](https://www.palestinechronicle.com/wp-content/uploads/2024/01/PDF.pdf)
+
+		- [General Principles and Policies](https://irp.fas.org/world/para/docs/hamas-2017.pdf)
+
+		- [Core Policies](https://www.wilsoncenter.org/article/doctrine-hamas)
+
+			- Position 18
+
+			- Position 20
+
+## The Protests
+
+
+
+
+
+
+protest hate- discrimination CAC triangles on their site
+
+JVP will and will not work with - indicates discrimination
+
+calls for impeachment- indiscrimantion 
+
+they go unanswered - discrimination 
+
+USAC misconduct 
+	
+	- tayfili said 
+
+	- blockading students
+
+	- USAC involvement 
+
+Last resolution
+
+	- 
 
 
 
@@ -82,7 +134,8 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 
 
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
 
- 	## The Protests 
 
- 	- This alone may not 
+
+
