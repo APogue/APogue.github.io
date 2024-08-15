@@ -14,15 +14,15 @@ Thesis: Correlation with the conflict in Gaza is not necessarily causation.
 This way, you clearly separate the timing of events from the underlying ideological consistency that might be driving the rhetoric."
 
 
- ## Background and context
+## Background and context
 
- - The situation in Palestine has been on the Council's radar for a while 
+- The situation in Palestine has been on the Council's radar for a while 
 
- 	- [Myers opposes](https://dailybruin.com/2014/05/23/submission-usac-ethics-statement-exacerbates-israeli-palestinian-situation) a proposed pledge (2014) that would ban students from taking trips to Israel sponsored by certain groups 
+	- [Myers opposes](https://dailybruin.com/2014/05/23/submission-usac-ethics-statement-exacerbates-israeli-palestinian-situation) a proposed pledge (2014) that would ban students from taking trips to Israel sponsored by certain groups 
 
 - Case of antisemitism 
 
- 	- Reemergence of what the author believes is the "Jewish Question", [TDB](https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism)
+	- Reemergence of what the author believes is the "Jewish Question", [TDB](https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism)
 
 - [Resolutions](https://www.usac.ucla.edu/documents/resolutions) in the past have condemned antisemitism 
 
@@ -34,51 +34,51 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - Shortly after Oct 7th 
 
- 	- Protected speech by non-USAC affiliated student groups 
+	- Protected speech by non-USAC affiliated student groups 
 
- 		- SJP
+		- SJP
 
- 			- [Mission](https://community.ucla.edu/studentorg/90)
+			- [Mission](https://community.ucla.edu/studentorg/90)
 
- 			- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
+			- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
 
- 			- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
-
-
- 		- JVP 
-
- 			- [Mission](https://community.ucla.edu/studentorg/3992)
-
- 				- How do they define "Zionism?"
-
- 			- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
+			- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
 
 
- 	- Protected speech by USAC affiliated student groups 
+		- JVP 
 
- 		- CAC
+			- [Mission](https://community.ucla.edu/studentorg/3992)
 
- 			- [Mission](https://community.ucla.edu/studentorg/623)
+				- How do they define "Zionism?"
 
- 				- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
+			- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
 
- 			- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
 
- 				- "River to the Sea"
+	- Protected speech by USAC affiliated student groups 
 
- 				- "Honoring Palestinians on the front lines"
+		- CAC
 
- 	- USAC February Resolution
+			- [Mission](https://community.ucla.edu/studentorg/623)
 
- 		- [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+				- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
 
- 		- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
+			- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
 
- 			- The points listed 
+				- "River to the Sea"
 
- 				- "Addresses longstanding issues related to Israel's...treatment of Palestinian's more generally"
+				- "Honoring Palestinians on the front lines"
 
- 				- "Given this broader critique...it is likely that the "list" of entities to be boycotted would extend beyond the Gaza conflict...encompassing entities across Israel and its broader economic and political structures."
+	- USAC February Resolution
+
+		- [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+
+		- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
+
+			- The points listed 
+
+				- "Addresses longstanding issues related to Israel's...treatment of Palestinian's more generally"
+
+				- "Given this broader critique...it is likely that the "list" of entities to be boycotted would extend beyond the Gaza conflict...encompassing entities across Israel and its broader economic and political structures."
 
 			- Resolution was sponsored by Verdugo, 10-3 vote to pass on 2-20
 
