@@ -115,6 +115,7 @@ https://www.instagram.com/p/C51p_t2SMCH/?hl=en
 
 	- Why aren't they lowering their safety threshold? 
 
+* To a certain extent, because the administration allowed the pro-Israel agitators to repeatedly threaten the students, this *caused* them to start blockading. 
 
 
 

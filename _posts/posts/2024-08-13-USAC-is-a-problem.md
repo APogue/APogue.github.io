@@ -102,6 +102,68 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 ## The Protests
 
+- SJP and JVP worked together on the protest
+
+	- [Demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) 
+
+- Discrimination 
+
+	- Student testimonials
+
+		- [Lavie Levi](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
+
+	- Symbology 
+
+		- Red triangles were there for two days and were removed without condemnation 
+
+	- Blockading students 
+
+		- Student barred entry because he is a ["Zionist"](https://x.com/iambrianbj/status/1785215261529850007?s=61)
+
+- USAC presence
+
+	- CAC and CEC were [present](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment) 
+
+		- [photo](https://dailybruin.com/2024/04/27/gallery-ucla-students-supporting-palestine-organize-encampment-in-dickson-plaza) of both tents
+
+		- CAC promoted their presence there in an IG [post](https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4)
+
+	- Criticism of Verdugo
+
+		- [Eli Tsives](https://www.instagram.com/reel/C6WseJ2Jp3x/?utm_source=ig_embed&ig_rid=48470d69-c9e4-4a25-86b0-1efaa3c285de) who was also blockaded, expressed disapproval of CAC and Verdugo
+
+			- [DB quote](https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment)- "Eli Tsives... criticized Verdugo’s use of her platform to promote messages he believes makes Jewish students uncomfortable on campus. “They (the Cultural Affairs Commission) have purposefully used their position and power to make us Jewish students feel unsafe,” he said."
+
+	- CAC's social media presence
+
+		- Instagram 
+
+			- [Protest](https://www.instagram.com/p/C6M4IM1v3LI/?hl=en&img_index=4)
+
+			- [Nakba Day](https://www.instagram.com/p/C7DHmdrvogE/?img_index=1)
+
+			- [Block](https://www.instagram.com/p/C6sht0ROgJk/?hl=en)
+
+		- X 
+
+			- [July 25th](https://x.com/mxmsworld/status/1816579036560158872)
+
+			- [Sometime after Nov 7th, 2023](https://x.com/itranslate123/status/1292459086257295360)
+
+- Is Tsives, who is widely publicized for being "attention hungry" and a right-wing media device, the only one who feels this way? 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -109,7 +171,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 protest hate- discrimination CAC triangles on their site
 
-JVP will and will not work with - indicates discrimination
+JVP will and will not work with - indicates discrimination, because the "political" messages of JVP and SJP do not "align", but JVP does work with SJP 
 
 calls for impeachment- indiscrimantion 
 
@@ -127,9 +189,10 @@ Last resolution
 
 	- 
 
+Make a point to name the various channels broadcasting this information, on how many fronts was this group ignored? 
 
-
-
+"From the River to the Sea"
+- https://www.tiktok.com/t/ZTNVpURRG/
 
 
 
