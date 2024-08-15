@@ -194,17 +194,15 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - All of the above indicates their behavior is *exclusive*, USAC is *excluding* members of the campus community 
 
-- It seems reasonable then to question the motives behind their more recent resolution as possibly targeting the state of Israel rather than Israel's policies 
+- Their more recent [resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation) possibly targets the state of Israel rather than Israel's policies 
 
-	- If a particular group of students will not be included, and discrimination is occurring, this increases the likelihood that *correlation is causation* with respect to Hamas rhetoric 
+	- [It](https://docs.google.com/document/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic) is questionably far reaching, and calls for the abolishment of the UCLA Nazarian Center
 
-	- Has Hamas rhetoric bled into the [USAC resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)?
+- Given Verdugo has been [*reelected*](https://dailybruin.com/2024/05/17/bruins-elect-1st-international-student-as-usac-president-in-2024-elections) to office, USAC corruption is likely to continue (abuse of power)
 
-		- [It](https://docs.google.com/document/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic) is questionably far reaching, and calls for the abolishment of the UCLA Nazarian Center
+- The position and other evidence against the state of Israel together with attack on a certain group of students at UCLA---by discrimination, exclusion and abuse of power---proves an attack on a particular group of students based on Israeli national origin or association with Israel (against Title VI)
 
-- Given Verdugo has been [*reelected*](https://dailybruin.com/2024/05/17/bruins-elect-1st-international-student-as-usac-president-in-2024-elections) to office, USAC corruption is likely to continue
-
-- While Hamas rhetoric is technically "protected," this position together with the above evidence alludes to an attack on students associated with the state of Israel rather than its policies---by discrimination, exclusion and abuse of power
+	- Increased likelihood that *correlation is causation* with respect USAC alignment with Hamas
 
 	- The Israeli community (or the entire Jewish community inclusive of the Israeli community)  is too small a voting bloc, theoretically or practically to change USAC election outcomes (by "Article Draft", *USAC represents an abuse of power*)
 
@@ -218,11 +216,6 @@ This way, you clearly separate the timing of events from the underlying ideologi
 	programs and activities of a Registered Campus Organization funded from compulsory
 	campus-based student fees shall be open to participation by the entire campus
 	community."
-
-
-
-
-
 
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
