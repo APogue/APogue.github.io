@@ -25,6 +25,8 @@ updated: true
 
 			- 100001.B. ""University Property" means *buildings* and grounds that are operated by, or under the control of, the Regents of the University of California
 
+				- Weapons definition should be expanded, What about bear spray? Fireworks?
+
 	- They organize their own protests on campus and they attend protests they oppose
 
 		- They are aware of what's going on somehow
@@ -92,6 +94,14 @@ updated: true
 
 		- This Rick Braziel [statement](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs) makes no sense, they couldn't get a police response together in 24 hrs?
 
+	- Everyone was breaking rules wrt permits, masking, and loitering/encampments
+
+		- Example: the university allowed a disruptive screen to be present on campus for days after its permit expired
+
+		- The university is *not obligated* to treat non-affiliates and students with equal "fairness" wrt timeliness of accountability measures and conduct enforcement
+
+			- "Non-Affiliates: The time, place, manner [document](https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c) specifies that non-affiliates may be asked to leave campus or face other immediate actions if they violate campus regulations, particularly when they are seen as a disruption (e.g., Section II under "Grounds Open to the Public" and Section IV.A.5). This suggests that non-affiliates can be dealt with swiftly and directly by University officials."
+
 - April 30th UCLA response 
 
 	- No guidance
@@ -135,11 +145,13 @@ updated: true
 
 		- CSC and UCPD present on the scene did little to quell violence [article](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)
 
-			- CSC Security: Hired by UCLA, retreated into Kaplan Hall and did not engage with the protesters or counter-protesters.
+			- CSC called LAPD sometime before 10:55 p.m. "when the first firework was released"
+
+			- CSC Security: Hired by UCLA, retreated into Kaplan Hall and did not engage with the protesters or counter-protesters
 
 			- Two UCPD cars and one UCLA EMT arrived at 11:13 p.m. but left by 11:21 p.m.
 
-			- UCPD Chief John Thomas mentioned only five to six officers on duty and that officers retreated after coming under attack.
+			- UCPD Chief John Thomas mentioned only five to six officers on duty and that officers retreated after coming under attack
 
 			- Around 70 police officers were on the scene by 3 a.m.
 
@@ -186,9 +198,9 @@ updated: true
 
 	- Newsom [statement](https://x.com/GovPressOffice/status/1785726609947046387)
 
-		- Refers to Mutual Aid Agreements
+		- Refers to [Mutual Aid Agreements](https://www.caloes.ca.gov/office-of-the-director/operations/response-operations/law-enforcement/mutual-aid-system/)
 
-		- How do these agreements work wrt LAPD?
+		- Agreements in effect since 2022 [DB](https://dailybruin.com/2024/07/15/documents-reveal-how-ucpd-coordinated-protest-responses-with-other-departments)
 
 	- Karen Bass "shocked and horrified" [statement](https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles)
 
@@ -208,13 +220,37 @@ updated: true
 
 - DB points to police mishandling [article](https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts)
 
+- Gene Block reflects on the evening before [statement](https://chancellor.ucla.edu/messages/condemning-violence-in-our-community/)
+
+	- States measures to be taken to hold people accountable
+
+		- Follow up? No news wrt holding non-affiliates accountable?
+
+	- Condemns the violence---"However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable."
+
+		- Asserts an "opinion" but still an unusual condemnation of non-affiliate activity
+
+- Gene Block testimony [UCLA Policy---Should](https://alexiepogue.com/2024/05/30/In-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table/)
+
+	- It was never stated that the encampment posed a safety risk to students, although Block cited safety concerns as the reason for removal at the Committee hearing (Figure 56 @ 44:14). 
+
+		- If Block *was aware of the security risks*, and there was no indication students would leave, why weren’t police reinforcements on standby to head off the mounting tension? 
+
+		- He clearly *was not aware of the security risks*, as evidenced by the statement "law enforcement is on hand to protect and keep safe [students and demonstrators as you vacate]”"
+
+			- From the above we know that the protest was severely understaffed from a safety and security standpoint
+
 - One would think, what happened was enough to say UCLA is prepared for future incidents, but Columbia's measures indicate they believe closing campus is the safest way forward
 	
 	- Columbia color codes campus climate; no longer allows non-affiliates access [article](https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus)
-
 
 ## Post-protest issues continue
 
 - Police misconduct at pro-Palestine protest [IG post](https://www.instagram.com/p/C8ELJJRODh7/?hl=en)
 
 	- Officer misconduct goes unpunished in general [article](https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html)
+
+
+
+
+	ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

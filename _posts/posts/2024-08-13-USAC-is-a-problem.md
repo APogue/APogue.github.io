@@ -178,7 +178,9 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- They will not hear BIPAC calls for impeachment
 
-	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in unlawful behavior, ie being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
+	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in "unlawful behavior", ie being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
+
+		- Blocking "Zionists" or students in general is not a Title VI violation, it is likely a public safety and access law violation 
 
 - USAC is also compromised by the above 
 
