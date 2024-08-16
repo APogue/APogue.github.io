@@ -137,8 +137,6 @@ updated: true
 
 				- The administration did not understand or convey the urgency of the matter---this is the main point, the safety issue is why the encampment needed to be cleared right away
 
-					- Block's testimony came off like safety was the main issue 
-
 - Violence occurred the evening of April 30th 
 
 	- Delayed police response
