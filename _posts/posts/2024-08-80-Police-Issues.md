@@ -9,70 +9,16 @@ updated: true
 
 ### Police Issues
 
-- Background and Context
 
-	
-
-	- [Time, place, and manner policies](https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c)
-
-	
-
-
-
-	
-
-	
-
-	
+		
 
 
 
 
-
-
-
-
-
-- Protests 
-
-	- Sergio Olmos 
-
-		- [tiktok](https://www.tiktok.com/t/ZTNs1PfNg/) talks about delayed police response, states specific times. He got there at 12:20 am, they arrived at 1:45 am, and stood watching for about an hour. Brawling went on for two hours without police intervention. 
-
-		- [twitter](https://twitter.com/MrOlmos/status/1785600611326763059?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785600611326763059%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
-
-		- [twitter](https://twitter.com/i/status/1790143954245370107)
-
-
-	- Bruin Reporter
-
-		- [Bruin reporter gets assaulted](https://x.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785843179801153865%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://x.com/GovPressOffice/status/1785589489878049091
-
-https://x.com/MayorOfLA/status/1785591832321151196
 
 https://x.com/GovPressOffice/status/1785726609947046387
 
 https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles
-
-https://calmatters.org/justice/2024/05/ucla-protest-palestine-police/
-
-https://www.instagram.com/p/C8ELJJRODh7/?hl=en
 
 
 https://www.usatoday.com/story/news/investigations/2024/05/18/unmasking-ucla-protest-attackers/73735371007/
@@ -84,12 +30,23 @@ https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 
 
 
+"You can separate the groups by labeling them based on neutral identifiers, such as "Group A" and "Group B," or by referring to them as "Group 1" and "Group 2," rather than explicitly labeling them based on their content or viewpoints (e.g., "pro-Israel" or "pro-Palestine"). The separation itself can still be based on practical, content-neutral considerations, such as:
+
+Safety and Security: If there is a legitimate concern that having the groups too close to each other could lead to conflict, you can assign different areas to each group within the protest zone to maintain safety. The decision to separate them is based on maintaining public order rather than on the content of their speech.
+
+Logistics and Space Management: You might separate the groups to manage space effectively, ensuring that each group has enough room to express their views without interference from the other. Again, the basis for separation is logistical, not content-based.
+
+Avoiding Disruption: If having both groups in close proximity could disrupt traffic, business, or other public interests, they can be separated into different locations or times to prevent such disruption.
+
+While you might recognize the groups by their content in planning or internally, the official reason for separating them, as communicated and implemented, should be grounded in these neutral, practical considerations rather than their viewpoints. This approach allows you to manage the situation effectively while adhering to the content-neutral requirement of the law."
 
 
 
 
 
 
+
+completed ------------------------------------------------------------------------------------------------------------------
 - time, place, manner
 
 	- how are these people behaving on campus
@@ -112,29 +69,19 @@ https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 
 	- Why aren't they lowering their safety threshold? 
 
- 
+https://www.instagram.com/p/C8ELJJRODh7/?hl=en
 
+- [Bruin reporter gets assaulted](https://x.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785843179801153865%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
 
+https://calmatters.org/justice/2024/05/ucla-protest-palestine-police/
 
-"You can separate the groups by labeling them based on neutral identifiers, such as "Group A" and "Group B," or by referring to them as "Group 1" and "Group 2," rather than explicitly labeling them based on their content or viewpoints (e.g., "pro-Israel" or "pro-Palestine"). The separation itself can still be based on practical, content-neutral considerations, such as:
+- Sergio Olmos 
 
-Safety and Security: If there is a legitimate concern that having the groups too close to each other could lead to conflict, you can assign different areas to each group within the protest zone to maintain safety. The decision to separate them is based on maintaining public order rather than on the content of their speech.
+	- [tiktok](https://www.tiktok.com/t/ZTNs1PfNg/) talks about delayed police response, states specific times. He got there at 12:20 am, they arrived at 1:45 am, and stood watching for about an hour. Brawling went on for two hours without police intervention. 
 
-Logistics and Space Management: You might separate the groups to manage space effectively, ensuring that each group has enough room to express their views without interference from the other. Again, the basis for separation is logistical, not content-based.
+	- [twitter](https://twitter.com/MrOlmos/status/1785600611326763059?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785600611326763059%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
 
-Avoiding Disruption: If having both groups in close proximity could disrupt traffic, business, or other public interests, they can be separated into different locations or times to prevent such disruption.
-
-While you might recognize the groups by their content in planning or internally, the official reason for separating them, as communicated and implemented, should be grounded in these neutral, practical considerations rather than their viewpoints. This approach allows you to manage the situation effectively while adhering to the content-neutral requirement of the law."
-
-
-
-
-
-
-
-completed ------------------------------------------------------------------------------------------------------------------
-
-
+- [twitter](https://twitter.com/i/status/1790143954245370107)
 
 https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment
 
@@ -175,6 +122,8 @@ https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests
 https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html
 
 
+https://x.com/MayorOfLA/status/1785591832321151196
 
+https://x.com/GovPressOffice/status/1785589489878049091
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

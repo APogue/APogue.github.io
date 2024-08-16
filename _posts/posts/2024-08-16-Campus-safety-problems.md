@@ -19,7 +19,7 @@ updated: true
 
 - The Jewish community has a history of actively engaging with the university 
 
-	- [Jewish community](https://scholarworks.brandeis.edu/esploro/outputs/report/9924131723201921#file-2) is the 2nd largest in the united states 
+	- [Jewish community](https://scholarworks.brandeis.edu/esploro/outputs/report/9924131723201921#file-2) is the 2nd largest in the United States 
 
 	- They have broad access to campus, policy is strict but not enforced (bring this up when evidence is presented)
 
@@ -47,7 +47,7 @@ updated: true
 
 	- Emergency teach-in posted at [Kaplan 193](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) 
 
-	- Met with [aggression](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1) 
+		- Met with [aggression](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1) 
 
 	- CAC staff [harassment](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
 
@@ -60,17 +60,11 @@ updated: true
 	- [Encounters leading to aggression](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
 
 
-
 ## March Regents meeting 
 
 - [Regents meeting](https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1) met with protests and police response 
 
 - UC Divest "shut it down" (police footage) [IG post](https://www.instagram.com/p/C51p_t2SMCH/?hl=en)
-
-
-
-
-
 
 ## Protest
 
@@ -82,16 +76,17 @@ updated: true
 
 	- David Myers present at protest during escalating tension on the *Sunday before* Tuesday, April 30th [article](https://forward.com/opinion/608479/ucla-violence-campus-protests/)
 
-	- [Protest timeline](https://alexiepogue.com/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/) 
-			- Skirmishes and violent incidents happening days before April 30th
+	- [Protest timeline](https://alexiepogue.com/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
 
-			- Large counter-protester groups congregated 
+		- Skirmishes and violent incidents happening days before April 30th
+
+		- Large counter-protester groups congregated
 
 	- Incident that likely was the catalyst for the encampment shutdown the next day [DB](https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment)
 
 		- This Rick Braziel [statement](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs) makes no sense, they couldn't get a police response together in 24 hrs?
 
-- UCLA response 
+- April 30th UCLA response 
 
 	- No guidance
 
@@ -110,33 +105,89 @@ updated: true
 
 	- Vague policy measures instead of proper crowd control 
 
+		- Newsroom [statement](https://newsroom.ucla.edu/ucla-statement-on-demonstrations-april-30) on the morning of April 30th
+
 		- Totally cryptic [flyer](https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view) largely directed at non-affiliates
+
+			- Without explanation to what they meant by "unlawful" it sounds like they were conjuring "legalese" to get rid of protesters
 
 		- Blocks [email](https://newsroom.ucla.edu/affirming-our-values-in-a-challenging-time) essentially took a policy stance rather than laying out authoritative directives and reasoning behind it
 
-			- Opened the door for "interpretation" of the email as a university position---ie the university's opinion, this was totally confusing 
+			- Opened the door for "interpretation" of the email as a university position---ie the university's opinion, this was totally confusing
 
-			- Clearly the administration did not understand or convey the urgency of the matter 
+				- This pits the university "against" the protesters, it will cause defiance, rebellion
+
+					- Content-neutral identification of "time, place, and manner" misconduct would be less likely to flare tensions 
+
+				- The administration did not understand or convey the urgency of the matter---this is the main point, the safety issue is why the encampment needed to be cleared right away
+
+- Violence occurred the evening of April 30th 
+
+	- Delayed police response
+
+		- CSC and UCPD present on the scene did little to quell violence [article](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)
+
+		- [Daily Bruin](https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts) “The attack began around 10:50 p.m., when counter-protesters started throwing fireworks and tear gas into the encampment. Vice Chancellor for Strategic Communications Mary Osako said at 12:12 a.m. in a statement that law enforcement had been called for immediate support. However, police did not intervene until more than two hours later.”
+
+		- Newsroom [statement](https://newsroom.ucla.edu/ucla-statement-on-disturbances-at-encampment) 12:12 am they called backup 
+
+		- [tiktok](https://www.tiktok.com/t/ZTNs1PfNg/) talks about delayed police response, states specific times. He got there at 12:20 am, they arrived at 1:45 am, and stood watching for about an hour. Brawling went on for two hours without police intervention. 
+
+			- 1:38 am Newsom [tweet](https://x.com/GovPressOffice/status/1785589489878049091) likely referring to CHP
+
+			- 1:47 am tweet by Karen Bass, LAPD arrived on campus [tweet](https://x.com/MayorOfLA/status/1785591832321151196)
+
+		- [Scenes](https://x.com/MrOlmos/status/1785600611326763059?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785600611326763059%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F) where police arrived half an hour before and did nothing 
+
+	- General scenes of violence
+
+		- [Bruin reporter gets assaulted](https://x.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785843179801153865%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
 
 
+- Post-April 30th events
 
-## Post-protest incidents 
+	- CalMatters footage of police misconduct, [twitter](https://twitter.com/i/status/1790143954245370107)
 
-
-
+	- CalMatters [official review](https://calmatters.org/justice/2024/05/ucla-protest-palestine-police/)
 
 
 
 ## Efforts at reform 
 
+- Finger pointing 
+
+	- Newsom [statement](https://x.com/GovPressOffice/status/1785726609947046387)
+
+		- Refers to Mutual Aid Agreements
+
+		- How does these agreements work wrt LAPD?
+
+	- Karen Bass "shocked and horrified" [statement](https://www.youtube.com/watch?v=pn9hZ9vbmtI)
+
+		- Questions to be answered:
+
+			- Not considered "LAPD" territory---UCPD and CHP respond to calls on UC campuses 
+
+			- Notify law enforcement in advance, can't call backup while events unfolding, when was *mutual aid* called for? 
+
+			- The appropriate "decision makers, where were they?"
+
+			- "Why frankly was the counter-protest happening right next door to the encampment?"
+
+			- People need to be held accountable, this might mean someone gets fired, or improvements and recommendations 
+
+- DB points to police mishandling [article](https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts)
+
 - UCLA looks at how to "fund" [protest](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs)
 
-
-
-- Columbia color codes campus climate; no longer allows non-affiliates access [article](https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus)
+- One would think, what happened was enough to say UCLA is prepared for future incidents, but Columbia's measures indicate they believe closing campus is the safest way forward
+	
+	- Columbia color codes campus climate; no longer allows non-affiliates access [article](https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus)
 
 
 
 ## Post-protest issues continue
 
-- Officer misconduct goes unpunished in general [article](https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html)
+- Police misconduct at pro-Palestine protest [IG post](https://www.instagram.com/p/C8ELJJRODh7/?hl=en)
+
+	- Officer misconduct goes unpunished in general [article](https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html)
