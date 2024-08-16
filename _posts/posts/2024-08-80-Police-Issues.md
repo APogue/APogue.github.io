@@ -16,16 +16,11 @@ updated: true
 
 
 
-https://x.com/GovPressOffice/status/1785726609947046387
-
-https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles
 
 
-https://www.usatoday.com/story/news/investigations/2024/05/18/unmasking-ucla-protest-attackers/73735371007/
 
-https://www.cbsnews.com/losangeles/news/ucla-police-makes-first-arrest-in-connection-with-april-30-attack-on-encampment/
 
-https://www.instagram.com/p/CyMXtjEy11s/?hl=en
+
 
 
 
@@ -125,5 +120,18 @@ https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-disc
 https://x.com/MayorOfLA/status/1785591832321151196
 
 https://x.com/GovPressOffice/status/1785589489878049091
+
+https://x.com/GovPressOffice/status/1785726609947046387
+
+https://www.instagram.com/p/CyMXtjEy11s/?hl=en
+
+https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles
+
+
+
+https://www.cbsnews.com/losangeles/news/ucla-police-makes-first-arrest-in-connection-with-april-30-attack-on-encampment/
+
+https://www.usatoday.com/story/news/investigations/2024/05/18/unmasking-ucla-protest-attackers/73735371007/
+
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
