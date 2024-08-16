@@ -19,11 +19,11 @@ updated: true
 
 	- [Regents meeting](https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1) met with protests and police response 
 
-	- [Students voice concerns](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+	
 
-	- [Islamophobia on Campus](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)
+	
 
-	- [Counter-protesters](https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel) attend a BDS rally
+	
 
 
 	- [Protest timeline](https://alexiepogue.com/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
@@ -45,25 +45,26 @@ https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-disc
 
 		- [twitter](https://twitter.com/MrOlmos/status/1785600611326763059?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785600611326763059%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
 
+		- [twitter](https://twitter.com/i/status/1790143954245370107)
+
 
 	- Bruin Reporter
 
 		- [Bruin reporter gets assaulted](https://x.com/loisbeckett/status/1785843179801153865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785843179801153865%7Ctwgr%5E2db7b041a9d18a0006d25a41759e7877cf043ff8%7Ctwcon%5Es1_&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F2024%2F05%2F30%2FIn-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table%2F)
 
 
-https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression
 
-https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus.
 
-https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342
 
-https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1
 
-https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel
 
-https://twitter.com/i/status/1790143954245370107
 
-https://forward.com/opinion/608479/ucla-violence-campus-protests/
+
+
+
+
+
+
 
 https://x.com/GovPressOffice/status/1785589489878049091
 
@@ -87,11 +88,11 @@ https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 
 https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment
 
-https://www.instagram.com/p/C6aTBAhLoOl/?hl=en&img_index=1
 
-https://www.instagram.com/p/C6aNkbWrBSR/?hl=en&img_index=5
 
-https://www.instagram.com/p/C51p_t2SMCH/?hl=en
+
+
+
 
 - time, place, manner
 
@@ -129,6 +130,41 @@ Avoiding Disruption: If having both groups in close proximity could disrupt traf
 
 While you might recognize the groups by their content in planning or internally, the official reason for separating them, as communicated and implemented, should be grounded in these neutral, practical considerations rather than their viewpoints. This approach allows you to manage the situation effectively while adhering to the content-neutral requirement of the law."
 
-https://www.nytimes.com/2024/08/14/us/columbia-president-nemat-shafik-resigns.html?smid=nytcore-ios-share&referringSource=articleShare
+
+
+
+https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs
+
+
+
+completed ------------------------------------------------------------------------------------------------------------------
+
+
+- [Students voice concerns](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+
+- [Islamophobia on Campus](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)
+
+- [Counter-protesters](https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel) attend a BDS rally
+
+https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression
+
+https://www.instagram.com/p/C6aTBAhLoOl/?hl=en&img_index=1
+
+https://www.instagram.com/p/C51p_t2SMCH/?hl=en
+
+https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus
+
+https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342
+
+https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1
+
+https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel
+
+https://forward.com/opinion/608479/ucla-violence-campus-protests/
+
+
+
+
+
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

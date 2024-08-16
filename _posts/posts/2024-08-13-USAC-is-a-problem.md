@@ -220,6 +220,11 @@ This way, you clearly separate the timing of events from the underlying ideologi
 	community."
 
 
+
+****Verdugo was on the council during 2021-2022 year when the last Resolution condemning antisemitism was passed 
+
+
+
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
 
 
