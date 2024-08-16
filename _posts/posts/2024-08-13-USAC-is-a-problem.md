@@ -192,6 +192,8 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- Case, case, case
 
+	- The fact that they won't condemn antisemitic incidents occurring *during protests* is proof that there is a *conflict of interest* with respect to political positions on Israel, and the Palestine-Israel conflict
+
 - All of the above indicates their behavior is *exclusive*, USAC is *excluding* members of the campus community 
 
 - Their more recent [resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation) possibly targets the state of Israel rather than Israel's policies 
