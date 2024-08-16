@@ -11,13 +11,13 @@ updated: true
 
 - Background and Context
 
-	- [Article](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine) 
+	
 
 	- [Time, place, and manner policies](https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c)
 
-	- Mary Osako [statement](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26)
+	
 
-	- [Regents meeting](https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1) met with protests and police response 
+
 
 	
 
@@ -26,16 +26,12 @@ updated: true
 	
 
 
-	- [Protest timeline](https://alexiepogue.com/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
-
-
-	- [Encampment Flyer](https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view)
-
-	- [Gene Block Email](https://newsroom.ucla.edu/affirming-our-values-in-a-challenging-time)
 
 
 
-https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html
+
+
+
 
 - Protests 
 
@@ -86,7 +82,7 @@ https://www.cbsnews.com/losangeles/news/ucla-police-makes-first-arrest-in-connec
 https://www.instagram.com/p/CyMXtjEy11s/?hl=en
 
 
-https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment
+
 
 
 
@@ -116,7 +112,7 @@ https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-a
 
 	- Why aren't they lowering their safety threshold? 
 
-* To a certain extent, because the administration allowed the pro-Israel agitators to repeatedly threaten the students, this *caused* them to start blockading. 
+ 
 
 
 
@@ -133,12 +129,18 @@ While you might recognize the groups by their content in planning or internally,
 
 
 
-https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs
 
 
 
 completed ------------------------------------------------------------------------------------------------------------------
 
+
+
+https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment
+
+- [Regents meeting](https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1) met with protests and police response 
+
+- [Encampment Flyer](https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view)
 
 - [Students voice concerns](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
 
@@ -162,7 +164,15 @@ https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-ucl
 
 https://forward.com/opinion/608479/ucla-violence-campus-protests/
 
+- [Protest timeline](https://alexiepogue.com/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
 
+https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs
+
+- Mary Osako [statement](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26)
+
+- [Article](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine) 
+
+https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html
 
 
 
