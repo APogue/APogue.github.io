@@ -102,6 +102,8 @@ updated: true
 
 			- "Non-Affiliates: The time, place, manner [document](https://sole.ucla.edu/file/4efd2db6-2863-447e-acb3-ca109fa5b33c) specifies that non-affiliates may be asked to leave campus or face other immediate actions if they violate campus regulations, particularly when they are seen as a disruption (e.g., Section II under "Grounds Open to the Public" and Section IV.A.5). This suggests that non-affiliates can be dealt with swiftly and directly by University officials."
 
+				- This should be official policy---given the same misconduct, non-affiliates are subject to timely disciplinary action that may or may not be consistent with actions taken to hold students accountable
+
 - April 30th UCLA response 
 
 	- No guidance
