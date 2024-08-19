@@ -29,8 +29,6 @@ updated: true
 
 - Title VI training 
 
-    - Optional, upon request workshop "Establishing Equity and Inclusion in the University Setting: Strategies, Resources and Best Practices." Involves some Title VI and code of conduct for faculty training purposes. 
-
     - Title VI Power Point presentation students are shown at orientation 
 
         - Block mentioned at the committee hearing that participation is approx 90% (find the source time)
@@ -39,7 +37,7 @@ updated: true
 
     - Office of Equity, Diversity & Inclusion 
 
-        - Oversees the Civil Rights Office (CRO)
+        - Oversees the Civil Rights Office (CRO est. 2020)
 
             - Offices overseen by CRO: 
 
@@ -47,9 +45,11 @@ updated: true
 
                 - Discrimination Prevention Office (DPO)
 
+                    - Where did it go? [site](https://equity.ucla.edu/about-us/our-teams/civil-rights-office/discrimination-prevention/)
+
 - Title VI
 
-    - “[Title VI]69 of the Civil Rights Act of 1964 prohibits discrimination based on race, color, or national origin in programs or activities that receive federal financial assistance. Title VI states that:
+    - “Title VI of the Civil Rights Act of 1964 prohibits discrimination based on race, color, or national origin in programs or activities that receive federal financial assistance. Title VI states that:
 
     No person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial assistance.” 70
 
@@ -95,6 +95,110 @@ updated: true
     - Following time, place and manner is necessary because policies are in place so that everyone can attend their classes and get their education free from disturbance 
 
     - Anytime time, place and manner is broken, that message, whatever it might be, can become inappropriate and hurt someone 
+
+
+
+
+Tonal negligence as a “perpetrator” of misconduct is everywhere in this problem. “Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to antisemitic tropes.“ I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”80 In Student Reactions we observe pervasive and frequent use of the words or phrase, “Intifada”, “Zionist”, and “from the river to the sea…” First off, looking at Figure 71 the DOE’s OCR office has what looks to be somewhat “dated” circumstances that raise Title VI concerns—“A Jewish middle school student feels unsafe at school because classmates routinely place notes with swastikas on the student’s backpack, perform Nazi salutes, and make jokes about the Holocaust.” It is unlikely that a situation like this would arise anymore, because students have found rhetorical “workarounds”, so to speak. This situation also seems quite extreme, if this were the bar to clear I’m not sure the House Committee would need to call a hearing. The OCR should update antisemitic vocabulary and devices for pervasive harassment (this is the age of social media, not written notes). It should also make clear what the minimum requirement is for Title VI infringements.
+
+
+
+
+[UC Divest: "I hate white people"](https://twitter.com/i/status/1787521409079791881)
+
+
+[UC Divest: "Zionists, ... they have that ugly, half-American...."](https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel)
+
+
+
+[CAC message on "Zionist" agitator](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
+
+    - So much wrong with this message. Outside of the "lack of safety from targeting" aspect 
+
+        - The harasser used the word "terrorist"
+
+        - CAC used the word "Zionist" 
+
+            - This word has no definition and is thrown around without a second thought 
+
+
+- Red triangle 
+
+    - [Trump ad](https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/)
+
+    - [Image Nazi triangle](https://www.washingtonpost.com/politics/2020/06/18/trump-campaign-runs-ads-with-marking-once-used-by-nazis-designate-political-prisoners/)
+
+    - [Concentration camp link](https://encyclopedia.ushmm.org/content/en/article/classification-system-in-nazi-concentration-camps)
+
+
+
+
+
+
+
+
+
+[DB Students voice worries over Islamophobia](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+
+    - “”I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
+
+    - “A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”
+
+    - “Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now.”
+
+
+
+
+
+[DOE OCR Fact Sheet](https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-shared-ancestry-202301.pdf)
+
+
+[DB Counter protesters](https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment) "More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called “terrorists,” to “show your face.”" 
+
+[UCLA Public Accountability Report](https://ucla.app.box.com/s/eyri3lej5htfl7uwkv7huhp9o8y3revo)
+
+
+[UCLA orientation is optional](https://newstudents.ucla.edu/programs/first-year-students/#tab-id-3)
+
+
+[SOCR: Systemwide office of Civil Rights](https://equity.ucla.edu/news-and-events/statement-from-ivp-chang-avc-bhatnagar-new-systemwide-office-of-civil-rights-and-uc-anti-discrimination-policy/)
+
+
+
+[EDI: anti-Muslim prevention resources](https://equity.ucla.edu/preventing-anti-muslim-and-anti-arab-discrimination-at-ucla/)
+
+[EDI: antisemitism prevention](https://equity.ucla.edu/preventing-antisemitism-at-ucla/)
+
+
+[EDI: focused on employee training and UCLA-wide accountability](https://equity.ucla.edu/edi-impact/)
+
+
+[EDI@UCLA](https://equity.ucla.edu/edi-ucla/)
+
+[EDI: so-called "mandatory civil rights training](https://equity.ucla.edu/edi-ucla/education/) for students" is really just Title IX training 
+
+
+[UC anti-discrimination policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
+
+
+Office of EDI: "The website suffers from poor information architecture, with related content scattered across multiple links, dropdowns, and pages, leading to a disorganized and confusing user experience." If you find useful information somewhere deep within the website it is nearly impossible to locate that information again should you need it. 
+
+A lot of the pages and one training previously mentioned are now gone. Seems to have undergone reorganization. Still confusing and disorganized. 
+
+Stick with Title VI, Title VII, Title IX, what is mandatory, federally and internally, and what is optional
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
