@@ -253,4 +253,9 @@ updated: true
 
 
 
+
+
+
+[UC wide ban on masking, encampment conduct](https://www.msn.com/en-us/news/us/university-of-california-bans-protest-encampments-and-masks-at-all-campuses/ar-AA1p5NYJ?ocid=msedgdhp&pc=U531&cvid=0d398d468d4d433d87e572329e0c74e6&ei=11)
+
 	ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

@@ -138,7 +138,7 @@ Tonal negligence as a “perpetrator” of misconduct is everywhere in this prob
 
 
 
-[DB Students voice worries over Islamophobia](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+- [DB Students voice worries over Islamophobia](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
 
     - “”I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
 
@@ -161,7 +161,7 @@ Tonal negligence as a “perpetrator” of misconduct is everywhere in this prob
 [UCLA orientation is optional](https://newstudents.ucla.edu/programs/first-year-students/#tab-id-3)
 
 
-[SOCR: Systemwide office of Civil Rights](https://equity.ucla.edu/news-and-events/statement-from-ivp-chang-avc-bhatnagar-new-systemwide-office-of-civil-rights-and-uc-anti-discrimination-policy/)
+[SOCR: Systemwide office of Civil Rights](https://equity.ucla.edu/news-and-events/statement-from-ivp-chang-avc-bhatnagar-new-systemwide-office-of-civil-rights-and-uc-anti-discrimination-policy/)---this could be in response to the post Oct 7th activity
 
 
 
@@ -187,17 +187,96 @@ A lot of the pages and one training previously mentioned are now gone. Seems to 
 
 Stick with Title VI, Title VII, Title IX, what is mandatory, federally and internally, and what is optional
 
+- UCLA SAIRO (Student Affairs Information and Research Office) [Campus Climate and Diversity](https://sairo.ucla.edu/by-topic/campus-climate-and-diversity)
+
+    - [Social media study is outdated](https://sairo.ucla.edu/file/b30f4eb2-2bbf-44cd-b556-574d2315bf67)
 
 
 
+- Office of EDI, what do they do…
+
+This article outlines UCLA’s failings to prevent a hostile environment under Title VI https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf 
+
+This article defines student conduct that is not protected under the First Amendment https://www.thefire.org/news/heres-what-students-need-know-about-protesting-campus-right-now 
+
+The law: https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html 
+
+Fact sheets: https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html 
+
+https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html
 
 
 
+- [UCLA has 7 pending OCR Investigations](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&page=14) from as early as 01/03/2020
+
+- [There are UCLA (Title IX) cases from as early as 2014 still pending with OCR](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&order=field_open_investigation_date&sort=asc&page=0)
+
+[OCR 11/16 press release](https://www.ed.gov/news/press-releases/us-department-educations-office-civil-rights-announces-list-open-title-vi-shared-ancestry-investigations-institutions-higher-education-and-k-12-schools)
 
 
+[Sec of Education Miguel Cardona](https://dailybruin.com/2023/12/14/ucla-included-in-title-vi-investigation-over-alleged-ethnic-discrimination)
+
+[US Dept of Education OCR Office page](https://www2.ed.gov/about/offices/list/ocr/index.html?src=oc)
+
+[OCR policy guidance, bullying and harassment](https://www2.ed.gov/about/offices/list/ocr/frontpage/pro-students/issues/roi-issue06.html)
+
+[OCR policy guidance, harassment based on race, color, national origin, shared ancestry](https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html)
 
 
+- Dear colleague letters:
 
+    - November 7, 2023: "It is in this context that I write to remind colleges, universities, and schools that receive federal financial assistance of their legal responsibility under Title VI of the Civil Rights Act of 1964 and its implementing regulations (Title VI) to provide all students a school environment free from discrimination based on race, color, or national origin, including shared ancestry or ethnic characteristics."
+
+        - refers to [Fact Sheet](https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-shared-ancestry-202301.pdf)
+
+
+    - March 14, 2024: Not much here
+
+    - May 7th 2024: Lays out some applicable scenarios,
+
+        - Chants
+
+        - Symbology
+
+        - Resistance is justified
+
+        - Obvious discrimination 
+
+        - There's also non-affiliate conduct that applies i.e. "shoving," "terrorist"
+
+    - What is the point of building a case and submitting it to OCR? 
+
+        - Long pending periods for cases
+
+        - Examples of changes they've enforced in the past? 
+
+        - There's no way, even if they were capable of reprimanding the school in a timely manner, they could actually get the school to "change." These protests have not elicited any kind of noticeable change.
+
+        - The answer is training and education, that should be mandatory 
+
+
+Pending USC cases from June 2022 have not been resolved- 
+
+https://www.insidehighered.com/news/2022/07/27/ed-launches-title-vi-investigation-usc
+
+
+https://forward.com/news/511933/usc-under-investigation-for-title-vi-violation-rose-ritch-zionist/
+
+
+https://www.jewishportland.org/roseritch
+
+Resolution agreements - 
+
+https://www.justice.gov/sites/default/files/crt/legacy/2012/04/25/ucsdresolutionagreement.pdf
+
+ U mich resolution agreement 
+ 
+https://www2.ed.gov/about/offices/list/ocr/docs/investigations/more/15242066-a.pdf
+
+
+OCR resolution agreements
+
+https://www.jdsupra.com/legalnews/another-title-vi-agreement-and-another-1121678/
 
 
 
