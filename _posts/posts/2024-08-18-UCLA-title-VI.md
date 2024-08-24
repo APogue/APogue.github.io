@@ -121,6 +121,8 @@ Tonal negligence as a “perpetrator” of misconduct is everywhere in this prob
 
             - This word has no definition and is thrown around without a second thought 
 
+            - https://www.msn.com/en-us/news/us/nyu-clarifies-antisemitism-policies-to-include-instances-of-anti-zionism/ar-AA1pkHZ2?ocid=msedgdhp&pc=U531&cvid=976740f6df9249c3a7cb938d0afa6fa5&ei=30
+
 
 - Red triangle 
 
@@ -277,6 +279,76 @@ https://www2.ed.gov/about/offices/list/ocr/docs/investigations/more/15242066-a.p
 OCR resolution agreements
 
 https://www.jdsupra.com/legalnews/another-title-vi-agreement-and-another-1121678/
+
+https://www2.ed.gov/about/offices/list/ocr/docs/ocrcpm.pdf
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+## UCLA discrimination infrastructure
+
+Gene Block promised changes but none has been implemented
+
+EDI runs Title IX office and OCR (DPO is not online, operative word, "prevention")
+
+EDI outlines the conduct chart, that relies on administrative holds to function
+
+All OCR relies heavily on complaint filing with no real education infrastructure
+
+Title IX is different because it is mandatory 
+
+Data and reporting, is it more complete wrt Title IX?
+
+The office uses a misnomer to link to "civil rights training" or something, it is Title IX training
+
+Orientation still has the Title VI and "anti-discrimination" training, and freshman orientation is optional 
+
+The SAIROS social media study is dated
+
+
+## DOE discrimination infrastructure
+
+Pending cases date back to 2014
+
+There should be more transparency at least with respect to progress
+
+Largely functions as a complaint box wrt Title VI 
+
+What kind of funding are they getting?
+
+Thresholds need to be reevaluated 
+
+Dear colleague letters are mere suggestions 
+
+
+## The accountability feedback loop 
+
+Survey the students
+
+Educate the students 
+
+Monitor complaints 
+
+Report survey feedback and ongoing changes to address issues 
+
+
+## The greater discrimination problem
+
+History wrt Title IX 
+
+Efforts to address discrimination across the board would help campus culture 
+
+
+## The future of civil rights accountability 
+
+Who is looking to effectively defund them? 
+
+The need-based issues should be funded first
+
+
+
+
 
 
 
