@@ -91,21 +91,82 @@ and that such violation “will be evaluated under current legal standards.”"
 motivate the underlying misconduct"
 
 
+### Example Reports
+
+- Targeting
+
+	- "[Redacted content] OSCR received a request for services from a student regarding a
+comment that was made on social media by a GSI. According to the student, he viewed
+the GSI’s Instagram story, which included a discussion of pro-Palestinian topics. The GSI
+then screenshotted that the student had viewed [redacted content] story and posted a new
+story with a comment along the lines of "Did you like my educational talk," tagging the
+student in the post and showing that he had an Israeli flag in his bio. [Redacted
+sentences]. OSCR said to a student “your interest for resolution in this situation was in a
+more formal conflict resolution pathway. This pathway requires a violation of the
+Statement of Student Rights and Responsibilities, and evidence to substantiate that
+violation. I have been able to review [redacted content], and formal conflict resolution is
+not a path forward at this time. Using social media to communicate, regardless of the
+content being communicated, is largely going to be protected as free speech, unless there
+is a clear and direct threat. . . . As we discussed Friday, we do have many conflict
+resolution pathways available that do not require policy violations. The main goal for
+these pathways is in sharing perspective and repairing harm.”"
+
+- Totality of the circumstances, motivated by bias? 
+
+	- "On November [redacted content], 2023, a [redacted content] reported to ECRT,
+“[redacted content] posted hate speech on their Instagram and Facebook accounts.” The
+report was regarding the phrase “from the river to the sea” which the [redacted content]
+said the anti-defamation league has determined to be antisemitic hate speech. The
+reporter said: “I asked them to take it down and they didn't -- this organization represents
+[redacted content], how is it ok for them to post hate speech against Jews? It is extremely
+upsetting for me as [redacted content], can you imagine how Jewish undergrad students
+feel?" ECRT told the [redacted content] they were not taking any action as this was a
+free speech issue; they said that the [redacted content] could make a report to CCS; the
+complainant responded that she had already contacted CCS and that they never
+responded."
 
 
 
+	- "On [redacted content], 2023, a report was made to OSCR regarding an incident a few
+weeks earlier involving [redacted content] who “had a negative and harmful interaction
+with a student protester related to the conflict in the Middle East.” The student was
+participating in a pro-Palestine protest, and [redacted content] yelled at the student that
+she was supporting rape and murder, and that she has terrorist friends. The report stated
+[redacted content] was quite distraught and it was clear that the incident impacted [redacted content] greatly. [Redacted sentence]. The case was closed after OSCR held
+restorative circles for staff, faculty, and students."
 
 
+### Recent Events
+
+- Training, is it mandatory? 
+
+	- "OCR also reviewed training materials the University submitted on the topics of Title VI
+discrimination and harassment delivered during the fall of the 2023-2024 school year. None
+included reference to shared ancestry or ethnic characteristics as a basis or as an example of Title
+VI discrimination. OCR found that the trainings were inconsistent with regard to where and how
+discrimination could be reported."
 
 
+- Post university report of revision of the complaints processing system, "Publicly available information indicates the existence of ongoing incidents of harassing conduct;
+because these reported incidents postdate the University document production to date, OCR does
+not have information from the University regarding any relevant University evaluation or
+response."
+
+	- "The University put out a statement the same day stating “the
+tactics used today represent a significant and dangerous escalation in the protests that have been
+occurring on campus. Going to an individual’s private residence is intimidating behavior and, in
+this instance, illegal trespassing. This kind of conduct is not protected speech; it’s dangerous and
+unacceptable.”" *Intimidating behavior and targeting*
+
+	- "Reportedly, police asked protesters to leave voluntarily before
+clearing the encampment. Students reported to news outlets that police in riot gear used pepper
+spray during the process of removing the encampment. It is not clear whether anyone was
+affected by the spray, however four people were arrested for resisting and obstructing." *Police misconduct*
 
 
+### Legal Analysis
 
-
-
-
-
-
+- Evaluation of whether a "hostile environment" was created by incidents
 
 
 
