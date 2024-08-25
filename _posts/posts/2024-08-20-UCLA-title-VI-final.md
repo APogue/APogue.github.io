@@ -166,14 +166,76 @@ affected by the spray, however four people were arrested for resisting and obstr
 
 ### Legal Analysis
 
-- Evaluation of whether a "hostile environment" was created by incidents
+- Evaluation of whether a "hostile environment" was created by incidents 
+
+	- "In none of the reports summarized above did OCR
+identify any information in the documentation provided by the University that the University
+assessed whether a hostile environment was created for students, faculty, or staff."
+
+	- "It appears that in some incidents the University took no steps to respond aside from referring the reporting
+student to CSS, on the basis of a University determination that the incident involved protected
+speech and did not involve a direct threat.""
+
+	- "While the University may not discipline speakers for protected speech, the University retains a Title VI
+legal obligation to take other steps as necessary to ensure that no hostile environment based on
+shared ancestry persists."
+
+	- "At minimum, therefore, the University has an obligation to evaluate
+whether any incidents of harassment of which it has notice rise to the level that they create a
+hostile environment to which the University must respond promptly and effectively."
+
+	- "For example, when protesters shouted on the central campus "Fuck education, Nazi liberation,”
+University records reflect that the University forwarded the reports to public affairs for response
+and do not identify any other steps taken to assess the existence of or redress any resulting
+hostile environment from the conduct. Likewise, after a student reported to the University that
+[redacted content] yelled at an accusation at her that she had “terrorist” friends because she
+participated in a pro-Palestinian protest, the University reported that it held restorative circles to
+address the incident, but took no further action, including taking no action to address effects on
+students from the widely reported incident."
 
 
+### University obligation to comply with Title VI
+
+- "The information provided by the University to date in this investigation also raises concerns that
+diffuse University policies leave students, faculty, and staff unclear as to how the University will
+respond to alleged discrimination."
+
+- "In addition, the policies contain different definitions of harassment for
+faculty/staff than for students, and the Student Policy and Procedures does not accurately capture
+harassment that violates Title VI as opposed to harassment or bullying generally."
+
+- "Although the University’s ECRT, by policy, is responsible for ensuring compliance with federal
+antidiscrimination laws, the ECRT does not appear to evaluate reports or oversee responses to
+determine compliance with University policy or Title VI."
+
+- "OCR notes that the
+University represented to OCR that it is evaluating and taking steps to change its decentralized
+way of receiving and responding to reports of Title VI harassment and discrimination from
+students and employees and revising its policies and procedures."
 
 
+### Resolution agreement 
 
+- How is Title VI monitored by the OCR? With respect to reporting in general? How does it differ from Title IX? It is hopefully not the case that the only monitoring is via filed complaints, investigations and resolution agreements?
 
+- "Under Section 302 of OCR’s Case Processing Manual, allegations under investigation may be
+resolved at any time when, prior to the conclusion of the investigation, the recipient expresses an
+interest in resolving the allegations and OCR determines that it is appropriate to resolve them
+because OCR’s investigation has identified concerns that can be addressed through a resolution
+agreement."
 
+- "In this case, the University expressed an interest in resolving the allegations prior to
+the conclusion of OCR’s investigation and OCR determined resolution was appropriate."
+
+- "The University signed the enclosed Resolution Agreement, which, when fully implemented, will
+address all of the allegations in the complaints. OCR will monitor the implementation of the
+Resolution Agreement."
+
+- "Under the Freedom of Information Act, it may be necessary to release this document and related
+correspondence and records upon request."
+
+- "OCR looks forward to receiving the University’s first monitoring report. For questions about
+implementation of the Agreement, please contact Kimberly Kilby, Senior Attorney,"
 
 
 
