@@ -125,7 +125,7 @@ free speech issue; they said that the [redacted content] could make a report to 
 complainant responded that she had already contacted CCS and that they never
 responded."
 
-
+- No action to address the effects on students
 
 	- "On [redacted content], 2023, a report was made to OSCR regarding an incident a few
 weeks earlier involving [redacted content] who “had a negative and harmful interaction
