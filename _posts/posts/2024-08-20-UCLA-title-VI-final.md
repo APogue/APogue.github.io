@@ -237,9 +237,6 @@ correspondence and records upon request."
 - "OCR looks forward to receiving the University’s first monitoring report. For questions about
 implementation of the Agreement, please contact Kimberly Kilby, Senior Attorney,"
 
-### Notes
-
-- It looks like with Title IX, based on legal obligations to inform students of their rights, a literacy component is provided. With respect to Title VI, is there a legal obligation to inform students of their rights? Or is there only a legal obligation to "protect" students' rights? If part of that protection mechanism relies on the student then, like Title IX, they should be made literate and informed of their rights. 
 
 
 
