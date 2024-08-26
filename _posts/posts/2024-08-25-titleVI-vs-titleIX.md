@@ -24,14 +24,28 @@ OCR has consistently reaffirmed that the Federal civil rights laws it enforces p
 
 	- Can't find explicitly that "training" is required for students, but the policies below may equate to "training"
 
+	- [Prevention training](https://www2.ed.gov/about/offices/list/ocr/docs/202107-qa-titleix.pdf) (Q3) for students may not actually be required. UCLA may be misinforming with respect to "sexual violence and sexual harassment" training being a Title IX requirement
+
+		- [Campus SaVE Act](http://studentaffairs.manoa.hawaii.edu/titleix/understanding_saveact.php#:~:text=The%20Campus%20Sexual%20Violence%20Elimination,campus%2Dwide%20prevention%20education%20programs.)
+
+		- This explains why many rights covered by Title IX, like protections against gender discrimination, *are not part of the "Title IX" training we receive* 
+
+		- This is extremely confusing because it is called "Title IX Training," but Title IX only encourages training, what specifically motivates the label given? What specifically is mandated by Title IX wrt having rights be known and the communication of policies? 
+
+			- Is it enough to have student policies posted on a website to read? Don't think it is, I would like to find the portion of the law that communicates this because for some reason, it is enough to have all other policies "made available" but not necessarily "made known" to students. 
+
+			- The goal is to align Title VI (and gender + LGBTQ+ discrimination) with Title IX
+
+				- Rights are communicated and students made literate/competent with respect to these rights
+
+				- Prevention education 
+
 
 - [U.S. Department of Education’s 2024 Title IX Final Rule Overview](https://www2.ed.gov/about/offices/list/ocr/docs/t9-final-rule-factsheet.pdf)
 	
 	- Ensure that schools communicate their nondiscrimination policies and procedures.
 	The final regulations require schools to clearly and effectively inform key people, including
 	students, employees, and applicants, of their nondiscrimination policies and procedures. 
-
-
 
 - [OCR know your rights](https://www2.ed.gov/about/offices/list/ocr/docs/title-ix-rights-201104.html)
 
