@@ -7,7 +7,9 @@ date: 2024-08-20 04:00 PM
 updated: true
 ---
 
-### U Mich resolution agreement 
+[General resolution search](https://ocrcas.ed.gov/ocr-search?f%5B0%5D=field_ocr_statutes%3A527&sort_order=DESC&sort_by=field_resolved)
+
+### U Mich resolution letter 
 
 - [Link to resolution agreement](https://www2.ed.gov/about/offices/list/ocr/docs/investigations/more/15242066-a.pdf)
 
@@ -238,13 +240,7 @@ correspondence and records upon request."
 implementation of the Agreement, please contact Kimberly Kilby, Senior Attorney,"
 
 
-
-
-
-
-
-
-
+### U Mich resolution agreement
 
 
 
