@@ -7,6 +7,10 @@ date: 2024-08-18 07:00 PM
 updated: true
 ---
 
+
+Turn into a reference doc: Dear Colleague letters, Title VI definition, applicable quotes, UCLA links, relevant opinions, 1st Amendment protection clarification wrt to protests, etc. 
+
+
 ## Background and context
 
 
