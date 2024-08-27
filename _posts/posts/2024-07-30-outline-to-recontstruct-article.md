@@ -2,7 +2,7 @@
 layout: outline
 title: "Outline to reconstruct article"
 date: 2024-07-30
-published: true
+published: false
 author: Alexie Pogue
 ---
 

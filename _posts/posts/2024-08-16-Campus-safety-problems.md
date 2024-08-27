@@ -240,6 +240,17 @@ updated: true
 
 			- From the above we know that the protest was severely understaffed from a safety and security standpoint
 
+- Office of Campus Safety (this might belong in another section)
+
+    - manage UCPD
+
+    - manage Office of Emergency Management 
+
+    - inagural Associate Vice Chancellor Rick Braziel will lead the office
+
+
+- [UC wide ban on masking, encampment conduct](https://www.msn.com/en-us/news/us/university-of-california-bans-protest-encampments-and-masks-at-all-campuses/ar-AA1p5NYJ?ocid=msedgdhp&pc=U531&cvid=0d398d468d4d433d87e572329e0c74e6&ei=11)
+
 - One would think, what happened was enough to say UCLA is prepared for future incidents, but Columbia's measures indicate they believe closing campus is the safest way forward
 	
 	- Columbia color codes campus climate; no longer allows non-affiliates access [article](https://ny1.com/nyc/all-boroughs/news/2024/08/10/columbia-again-restrict-access-to-campus#:~:text=10%2C%202024-,Columbia%20will%20require%20a%20university%20ID%20to%20access%20campus%20starting,said%20of%20the%20Columbia%20campus)
@@ -250,12 +261,5 @@ updated: true
 
 	- Officer misconduct goes unpunished in general [article](https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html)
 
-
-
-
-
-
-
-[UC wide ban on masking, encampment conduct](https://www.msn.com/en-us/news/us/university-of-california-bans-protest-encampments-and-masks-at-all-campuses/ar-AA1p5NYJ?ocid=msedgdhp&pc=U531&cvid=0d398d468d4d433d87e572329e0c74e6&ei=11)
 
 	ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

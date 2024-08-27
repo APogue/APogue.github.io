@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest Demands"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-08-12 02:00 PM
 updated: true

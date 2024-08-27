@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "UCLA Title VI final"
+title: "Resolution Letters and Agreements"
 published: true
 author: Alexie Pogue
 date: 2024-08-20 04:00 PM

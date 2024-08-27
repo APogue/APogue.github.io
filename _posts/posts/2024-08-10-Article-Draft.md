@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Article Draft"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-08-01 02:00 PM
 updated: true
