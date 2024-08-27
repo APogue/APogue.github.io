@@ -107,6 +107,8 @@ What is mandatory with respect to Title IX and the CaRE Act? What is mandatory w
 
 	- Administrative requirements § 106.8
 
+		- [Compliance responsibilities and Coordinator roles](https://www.federalregister.gov/d/2024-07915/p-1173)
+
 		- § 106.8(a), Designation of a Title IX Coordinator
 
 			- P. 250, " Some commenters supported proposed § 106.8(a) because it would centralize the
@@ -142,6 +144,8 @@ What is mandatory with respect to Title IX and the CaRE Act? What is mandatory w
 	issue, conflicts of interest, and bias; and the meaning and application of the term “relevant” in
 	relation to questions and evidence, and the types of evidence that are impermissible regardless of
 	relevance under § 106.45, and if applicable § 106.46.
+
+		- [Federal Register link to discussion on recordkeeping](https://www.federalregister.gov/d/2024-07915/p-1058)
 
 	- 34 C.F.R. §§ 106.2; 106.44(a), (f)., [Obligation to Respond](https://www.lcwlegal.com/news/the-does-new-title-ix-regulations-a-summary-of-the-key-provisions/)
 
