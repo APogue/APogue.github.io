@@ -15,7 +15,7 @@ updated: true
 
 	- The entire UCLA community receives Title IX education annually 
 
-    	- [Training required annually](https://sexualharassment.ucla.edu/education-training/undergraduate-students), failure to complete training results in registration hold on account 
+		- [Training required annually](https://sexualharassment.ucla.edu/education-training/undergraduate-students), failure to complete training results in registration hold on account 
 
 - Who do we have to thank for this? 
 
