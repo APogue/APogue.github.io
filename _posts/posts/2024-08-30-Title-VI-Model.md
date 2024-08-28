@@ -76,15 +76,23 @@ updated: true
 
 	- Given these acts were created to broaden access to education, there needs to be progress here as well
 
-	- The remaining portions of Title IX and the all of Title VI differ with respect to the "protection mechanism"
+	- The "protection mechanism"
 
-		- If rights are made available but are not necessarily known, students cannot be part of the "protection feedback cycle"
+		- Discrepancies in notification 
 
-			- Is there a legal obligation to inform students of their rights? Or is there only a legal obligation to "protect" students' rights? If part of that protection mechanism relies on the student then, like Title IX, they should be made literate and informed of their rights. 
+			- Title IX rights are made available to every student, by law
 
-	- Title IX training is misleading because it implies comprehensive coverage of Title IX issues
+			- Title VI is there a legal obligation to make rights available to every student? 
 
-		- This is confusing because Title IX is about much more than social/sexual relationships and SVSH but that is the impression given 
+		- If students are notified but not educated, they can't be part of the "protection feedback cycle"
+
+			- Is the law vague with respect to what constitutes "protection of rights?"
+
+				- If part of that protection mechanism relies on the student then they should be made literate with respect to their rights
+
+					- Relevant areas of Title IX beyond SVSH should be covered
+
+					- All or relevant areas of Title VI should be covered
 
 ### Given these shortcomings, can we say civil rights protections are working? Can we say with confidence they are doing what was intended? 
  
@@ -96,7 +104,7 @@ updated: true
 
 - Survey the students, do they know who to report to?
 
-- Even if the students know who to report to, do they when to report if they don't properly understand their rights? 
+- Even if the students know who to report to, do they know when to report if they don't properly understand their rights? 
 
 ### UCUES indicates 
 
