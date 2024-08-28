@@ -8,12 +8,94 @@ updated: true
 ---
 
 
-Turn into a reference doc: Dear Colleague letters, Title VI definition, applicable quotes, UCLA links, relevant opinions, 1st Amendment protection clarification wrt to protests, etc. 
 
 
+
+
+### Title VI Definition 
+
+
+
+
+
+
+
+### UCLA Title VI Infrastructure
+
+
+
+
+
+
+
+
+
+### OCR Title VI 
+
+
+
+
+
+
+### 1st Amendment Protests Info
+
+
+
+
+
+
+
+### Opinion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 ## Background and context
-
-
 
 
 - Title VI
@@ -490,6 +572,8 @@ Clarifies which records a recipient must maintain for at least seven years. (§ 
         - This is a good reason to have a Title VI add-on to Title IX infrastructure 
 
 ### Notes
+
+- These are basic needs issues. No educating can occur until these kids are "satisfactorily" helped to adulthood. This "education" may be the most important education kids get at college. Yet somehow their brains are filled with everything but, while this vitally important part is left confused and underdeveloped. 
 
 - It looks like with Title IX, based on legal obligations to inform students of their rights, a literacy component is provided. With respect to Title VI, is there a legal obligation to inform students of their rights? Or is there only a legal obligation to "protect" students' rights? If part of that protection mechanism relies on the student then, like Title IX, they should be made literate and informed of their rights. 
 
