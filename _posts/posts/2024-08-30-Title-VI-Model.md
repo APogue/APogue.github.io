@@ -34,7 +34,7 @@ updated: true
 
 - Proves that in essence, these are similar civil rights protections to Title VI
 
-- These acts were created in the same spirit to broaden access to education 
+	- created in the same spirit to broaden access to education 
 
 ### Administrative Enforcement of Title IX and Title VI
 
