@@ -8,7 +8,19 @@ updated: true
 ---
 
 
+if the law is vague, and its left up to the recipient to define "access to education" then that access will be vulnerable. 
 
+based on michigan the schools themselves don't know title VI or the discrepencies between a hostile environment and 1st ammendment protections. They need a coordinator. They need letters and whatever to be codified. to be unified across schools. 
+
+"regardless of how one feels about the encampment..." is that bias? Did that bias result in an unsafe situation? Isn't he obligated under Title VI not to be biased? 
+
+watch the title ix video recorded
+
+check in with the regents, the ucla newsroom, and the chancellor page for news 
+
+check in with the daily bruin
+
+check in with Insta
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Background and context
