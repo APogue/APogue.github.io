@@ -184,7 +184,7 @@ updated: true
 
 		- Campus climate is a problem in some areas
 
-		- What are the diversity enrollments in areas like STEM?
+		- What are the diversity enrollments in STEM?
 
 			- If we don't know, how can we say there's no correlation between minority enrollment and STEM "climate?"
 
