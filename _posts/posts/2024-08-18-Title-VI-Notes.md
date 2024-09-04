@@ -8,9 +8,15 @@ updated: true
 ---
 
 
-if the law is vague, and its left up to the recipient to define "access to education" then that access will be vulnerable. 
+Mom's stories are similar to that Reddit post. She was systematically denied opportunities based on her womanhood, based on the fact that men that have families to support "needed" the work more. 
 
-based on michigan the schools themselves don't know title VI or the discrepencies between a hostile environment and 1st ammendment protections. They need a coordinator. They need letters and whatever to be codified. to be unified across schools. 
+- She was paid 30% less than colleagues doing the exact same work
+
+- She was repeatedly asked if she was dating or planning to marry
+
+- She was asked about Dad's work, his income, if he would get tenure as part of her own interviews 
+
+Look at the Title VI and Title IX cases again for post-secondary institutions. Are there cases like the Reddit post? Are there cases related to STEM? 
 
 "regardless of how one feels about the encampment..." is that bias? Did that bias result in an unsafe situation? Isn't he obligated under Title VI not to be biased? 
 
