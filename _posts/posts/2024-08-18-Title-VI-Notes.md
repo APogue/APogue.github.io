@@ -7,6 +7,29 @@ date: 2024-08-18 07:00 PM
 updated: true
 ---
 
+Evidence is sparse, 1 case denial benefits gender, 1 case denial benefits race, 1 case gender/sexual harassment, 1 case race-based harassment 
+
+The above cases resulted in tangible negative outcomes, which motivated reporting, Title VI coverage and Title IX training we currently have covers many more less "serious" scenarios 
+
+Push upstream, the system is broken. 
+
+Wrt Mich, the reporting system was flooded with complaints---proved reporting system broken 
+
+Otherwise---notification system broken 
+
+Literacy broken 
+
+Conflict of interest
+
+No surveys 
+
+There is no way to know whether there is a problem 
+
+What we do know is minorities are severely under represented in certain areas like STEM
+
+It is imperative that the climate they function in is professional 
+
+Like having an HR department, it is necessary to have one at Universities as well 
 
 Mom's stories are similar to that Reddit post. She was systematically denied opportunities based on her womanhood, based on the fact that men that have families to support "needed" the work more. 
 
