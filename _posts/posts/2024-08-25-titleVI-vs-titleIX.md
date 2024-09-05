@@ -57,6 +57,37 @@ updated: true
 
 	- Coverage goes on and on, from constructive notice [jurisdiction](https://www.federalregister.gov/d/2024-07915/p-797) to what constitutes a complaint [1](https://www.federalregister.gov/d/2024-07915/p-424) & [2](https://www.federalregister.gov/d/2024-07915/p-389) to a [legal obligation to respond](https://www.federalregister.gov/d/2024-07915/p-1130) to [identity disclosure](https://www.federalregister.gov/d/2024-07915/p-1662) to [recordkeeping](https://www.federalregister.gov/d/2024-07915/p-1058)
 
+
+
+- The goal with Title VI is to go with the obvious arguments
+
+- Model it after SaVE
+
+	- Save saw a need beyond what Title IX was doing 
+
+		- Safety was still a major concern on college campuses
+
+		- Title IX violations, specifically wrt SVSH had become an epidemic on college campuses 
+
+	- This is similar to what is happening now---stick with the crux of the argument---safety and numerous reports
+
+		- Safety is now a major concern on college campuses
+
+		- Title VI violations, specifically wrt shared ancestry and national origin has become an epidemic on college campuses
+
+		- Also attach to the Clery Act? 
+
+	- But Title VI has not been amended to reflect the regulations necessary to achieve protections the same way Title IX has
+
+		- Coordinator 
+
+		- Unification of notification, publication of notification, and grievance policies 
+
+		- Laws against bias, constructive notice, obligation to respond, recordkeeping etc. 
+
+----------------------------------------------------------------------------------
+
+I don't know what Title VI regulatory requirements are, because I can't find them anywhere
 	
 - Title VI designed by the "recipient" 
 
