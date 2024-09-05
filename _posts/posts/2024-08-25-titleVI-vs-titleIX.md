@@ -13,7 +13,7 @@ updated: true
 
 - [Overview of key provisions](https://www2.ed.gov/about/offices/list/ocr/docs/t9-final-rule-summary.pdf)
 
-### Administrative Enforcement of Title IX and Title VI
+### Title IX 
 
 - There is a discrepancy with respect to how they're enforced
 
@@ -51,9 +51,13 @@ updated: true
 
 		- What is the story there? 
 
-		- It is clear that the university is just trying fulfill a legal obligation---Title IX education consisted of several prevention training modules, with link clicks to long documents in between. These long documents explained our rights. But there were no clear messages stating, "if you are unsure whether an incident may have occurred go to your Title IX Coordinator." They (deliberately?) buried the lede when really clarity and an explanation of rights can be reiterated by the Title IX office should someone need it. The 1st requirement, above everything else, is the students need to know reflexively that the Coordinator is there. 
+		- It is clear that the university is just trying fulfill a legal obligation---Title IX education consisted of several prevention training modules, with link clicks to long documents in between. These long documents explained our rights. But there were no clear messages stating, "if you are unsure whether an incident may have occurred go to your Title IX Coordinator." They (deliberately?) buried the lede when really clarity and an explanation of rights can be reiterated by the Title IX office should someone need it. The 1st requirement, above everything else, is the students need to know reflexively that the coordinator is there. 
 
+			- "First, encouraging reporting and facilitating complaints of sex discrimination is a critical part of a recipient's duty to effectuate Title IX's nondiscrimination mandate...and the risk of increased litigation, if any, is justified because, as explained in greater detail above, mandating that complaints be made in writing discourages individuals from making complaints, in contravention of the purpose of Title IX to eliminate all discrimination on the basis of sex in any education program or activity receiving Federal financial assistance."
 
+	- Coverage goes on and on, from constructive notice [jurisdiction](https://www.federalregister.gov/d/2024-07915/p-797) to what constitutes a complaint [1](https://www.federalregister.gov/d/2024-07915/p-424) & [2](https://www.federalregister.gov/d/2024-07915/p-389) to a [legal obligation to respond](https://www.federalregister.gov/d/2024-07915/p-1130) to [identity disclosure](https://www.federalregister.gov/d/2024-07915/p-1662) to [recordkeeping](https://www.federalregister.gov/d/2024-07915/p-1058)
+
+	
 - Title VI designed by the "recipient" 
 
 	- Notification of rights do not go as far
