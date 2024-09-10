@@ -221,6 +221,68 @@ updated: true
 
 - In short, the Clery report helps ensure that schools are accountable for accurately reporting campus crimes and maintaining transparency, but its focus is primarily on institutional accountability rather than directly enforcing action against individual offenders. The threat of fines, reputational damage, and loss of funding motivates institutions to comply with the Act’s requirements.
 
+
+### Would updates to Title VI just be an exercise in over-regulation? 
+
+- Updating Title VI to be more like Title IX in terms of specific procedural requirements and structured enforcement mechanisms could significantly improve transparency, accountability, and uniformity in how Title VI is implemented across institutions. Here's why---
+
+1. Lack of Specificity Creates Gaps in Accountability 
+
+    - The broad and vague regulations under Title VI can lead to inconsistent enforcement. Institutions have more discretion in how they handle compliance, which means that some may not provide adequate protections or clear processes for addressing discrimination.
+
+    - By comparison, Title IX has specific requirements like designating coordinators, publishing notices, and creating grievance procedures, which ensure that institutions are more proactive in addressing gender-based discrimination. Adopting a similar framework for Title VI would likely improve how racial and national origin discrimination is handled.
+
+2. Improved Reporting and Visibility:
+
+    - One of the strengths of the Title IX system is that it mandates publicly visible procedures, such as easily accessible notices, complaint mechanisms, and required training. These procedures ensure that students and staff are aware of their rights and know how to report discrimination.
+
+    - For Title VI, many students and employees may not be fully aware of their rights or how to report discrimination unless they are directly informed. Strengthening Title VI regulations with clearer notification requirements (like Title IX’s) could make reporting more accessible and help address discrimination more effectively.
+
+3. Streamlining Enforcement:
+
+    - Title VI enforcement tends to be reactive—institutions only face scrutiny when someone files a complaint with federal agencies, such as the Office for Civil Rights (OCR). In contrast, the Title IX framework requires proactive measures (like annual training, coordinator roles, and institutional reporting (via SaVE)), which can prevent issues before they escalate.
+
+    - Updating Title VI to include proactive measures like requiring institutions to regularly evaluate and report on their compliance could streamline enforcement and prevent violations from going unnoticed.
+
+4. Potential for Over-Regulation?:
+
+    - While some might argue that making Title VI more like Title IX would lead to over-regulation, I believe that the seriousness of racial and ethnic discrimination warrants more specific protections and oversight. Ensuring that institutions are held to consistent standards on how they implement anti-discrimination measures is crucial for promoting fairness.
+
+    - The key would be to find a balance—creating structured processes that improve accountability, but not so burdensome that they hinder institutional flexibility. For example, rather than prescribing exactly how every school must handle all aspects of compliance, the rules could mandate certain minimum standards (like public notifications, coordinators, or complaint processes) while still allowing room for schools to adapt based on their size or needs.
+
+5. Alignment with Modern Realities:
+
+    - Racial and national origin discrimination continues to be a significant issue, particularly in diverse educational settings. As societal awareness around race and civil rights grows, it seems appropriate to update the Title VI framework to reflect modern realities, just as Title IX has evolved in response to changes in societal views on gender equality and sexual harassment.
+
+    - A more structured system under Title VI could help institutions address intersectional discrimination (e.g., when someone experiences both race and gender-based discrimination) more effectively.
+
+- Conclusion---
+
+    - While Title VI has played an important role in combating discrimination, it could benefit from updates that make it more like Title IX—with clearer guidelines for institutions, more visible processes for reporting, and a more proactive approach to enforcement. Far from being over-regulation, I think these changes would strengthen the effectiveness of Title VI and ensure that institutions are held to higher, more consistent standards in their approach to addressing racial and ethnic discrimination.
+
+    - The backlog of OCR reports and the rise in antisemitism and related violence on campuses highlight the need for more structured regulations and proactive measures to address and prevent these incidents. A unified standard, similar to the more defined frameworks of Title IX, could ensure consistency across institutions, streamline responses, and help prevent such events from escalating.
+
+    - It seems like now more than ever, there’s a need for clearer, stronger guidance to deal with discrimination effectively, especially in a diverse and politically charged environment like college campuses.
+
+### Why is Title VI so vague? 
+
+1. Broad Framework:
+
+    - Title VI was designed as a broad civil rights law that applies to a wide range of programs and activities receiving federal funding, not just educational institutions. This means the regulations are intended to cover various sectors and aren’t tailored specifically to schools, as Title IX regulations are.
+
+2. Focus on Enforcement Through Federal Agencies:
+
+    - Title VI enforcement is more reliant on federal agencies to ensure compliance, and institutions are expected to cooperate with federal officials who oversee compliance. There is less specificity in terms of how institutions must structure their policies, leaving room for interpretation.
+
+    - This flexibility means the regulations focus on the outcome (non-discrimination) rather than prescribing how institutions must achieve that outcome.
+
+3. Historical Context:
+
+    - Title VI, passed in 1964, was part of broader civil rights legislation at a time when the legal landscape was focused on dismantling systemic racial segregation. The regulations were written in a way that gave federal agencies discretion to enforce the law but didn't require institutions to follow highly specific processes.
+
+    - Title IX, passed in 1972, evolved with a different focus, particularly on educational institutions and gender equality, which led to much more granular regulations over time, particularly in recent decades as gender-based discrimination and sexual misconduct gained more attention.
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 Evidence is sparse, 1 case denial benefits gender, 1 case denial benefits race, 1 case gender/sexual harassment, 1 case race-based harassment 
