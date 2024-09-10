@@ -3,7 +3,7 @@ layout: outline
 title: "Title VI Notes"
 published: true
 author: Alexie Pogue
-date: 2024-08-18 07:00 PM
+date: 2024-09-10 04:10 PM
 updated: true
 ---
 

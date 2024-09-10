@@ -3,11 +3,20 @@ layout: outline
 title: "Title VI vs Title IX"
 published: true
 author: Alexie Pogue
-date: 2024-08-25 02:00 PM
+date: 2024-09-10 03:00 PM
 updated: true
 ---
 
+### Code of Federal Regulations
+
+- [CFR Part 106- Nondiscrimination on the Basis of Sex](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-106)
+
+- [CFR Part 100- Nondiscrimination on the Basis of the Civil Rights Act of 1964](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/)
+
+
 ### Title IX Final Rule
+
+- Published in the Federal Register (FR), where federal agencies publish rules, proposed rules, and notices.
 
 - "The U.S. Department of Education (Department) amends the regulations implementing Title IX of the Education Amendments of 1972 (Title IX). The purpose of these amendments is to better align the Title IX regulatory requirements with Title IX's nondiscrimination mandate. These amendments clarify the scope and application of Title IX and the obligations of recipients of Federal financial assistance from the Department, including elementary schools, secondary schools, postsecondary institutions, and other recipients (referred to below as “recipients” or “schools”) to provide an educational environment free from discrimination on the basis of sex, including through responding to incidents of sex discrimination. These final regulations will enable all recipients to meet their obligations to comply with Title IX while providing them with appropriate discretion and flexibility to account for variations in school size, student populations, and administrative structures."
 
@@ -23,13 +32,15 @@ updated: true
 
 		- [Section 106.8(a): Title IX Coordinator](https://www.federalregister.gov/d/2024-07915/p-931) 
 
-			- "Title IX Coordinator's role as outlined in the proposed regulations, including with respect to duties contemplated by proposed §§ 106.40(b), 106.44(b), 106.44(f), 106.44(k), 106.45(d)(4)(iii), and 106.45(h)(3)."
+			- "Title IX Coordinator's role as outlined in the proposed regulations, including with respect to duties contemplated by proposed § 106.40(b), 106.44(b), 106.44(f), 106.44(k), 106.45(d)(4)(iii), and 106.45(h)(3)."
 
 	- [Unified nondiscrimination policy, grievance procedures, and notice of nondiscrimination](https://www.federalregister.gov/d/2024-07915/p-944)
 
 		- The notice of nondiscrimination, 106.8(c)(1), must be published in accordance with 106.8(c)(2), the [notification of rights](https://www.federalregister.gov/d/2024-07915/p-979)
 
 			- [The notice](https://www.federalregister.gov/d/2024-07915/p-953) "notifies individuals of rights protected by Title IX and how to make a report or a complaint under Title IX."
+
+			- "The final regulations' posting requirement is necessary so that students, their parents or guardians, or other legal representatives as appropriate, employees, and others who seek to participate in a recipient's education program or activity have access to information about Title IX whenever they might need it. Section 106.8(c)(2) may be broader than other State or Federal notice requirements that relate only to employees because a recipient needs to reach the entire school community, including those who join midway through or for only a limited part of the school year."
 
 		- [Final Rule Section 106.46 & 106.44(k): Framework for Grievance Procedures](https://www.federalregister.gov/d/2024-07915/p-1777)
 
@@ -51,13 +62,73 @@ updated: true
 
 		- What is the story there? 
 
-		- It is clear that the university is just trying fulfill a legal obligation---Title IX education consisted of several prevention training modules, with link clicks to long documents in between. These long documents explained our rights. But there were no clear messages stating, "if you are unsure whether an incident may have occurred go to your Title IX Coordinator." They (deliberately?) buried the lede when really clarity and an explanation of rights can be reiterated by the Title IX office should someone need it. The 1st requirement, above everything else, is the students need to know reflexively that the coordinator is there. 
+		- It is clear that the university is just trying fulfill a legal obligation---Title IX education consisted of several prevention training modules, with link clicks to long documents in between. These long documents explained our rights. But there were no clear messages stating, "if you are unsure whether an incident may have occurred go to your Title IX Coordinator." The 1st requirement, above everything else, is the students need to know reflexively that the coordinator exists. 
 
 			- "First, encouraging reporting and facilitating complaints of sex discrimination is a critical part of a recipient's duty to effectuate Title IX's nondiscrimination mandate...and the risk of increased litigation, if any, is justified because, as explained in greater detail above, mandating that complaints be made in writing discourages individuals from making complaints, in contravention of the purpose of Title IX to eliminate all discrimination on the basis of sex in any education program or activity receiving Federal financial assistance."
 
 	- Coverage goes on and on, from constructive notice [jurisdiction](https://www.federalregister.gov/d/2024-07915/p-797) to what constitutes a complaint [1](https://www.federalregister.gov/d/2024-07915/p-424) & [2](https://www.federalregister.gov/d/2024-07915/p-389) to a [legal obligation to respond](https://www.federalregister.gov/d/2024-07915/p-1130) to [identity disclosure](https://www.federalregister.gov/d/2024-07915/p-1662) to [recordkeeping](https://www.federalregister.gov/d/2024-07915/p-1058)
 
 
+- [2020 Q & A on Title IX 2020 Amendments](https://www2.ed.gov/about/offices/list/ocr/docs/202107-qa-titleix.pdf)
+
+	- P. 3, "The Department’s Title IX regulations were first issued in 1975, reissued in 1980,
+	and then amended after that, including in 2006 and 2020. Prior to 2020, the regulations set out
+	requirements under Title IX for educational programs and activities that receive federal financial
+	aid, but they did not include specific requirements related to sexual harassment. Instead, OCR
+	had several guidance documents in place to assist schools in understanding how OCR interpreted
+	the Department’s Title IX regulations. The 2020 amendments added specific, legally binding steps
+	that schools must take in response to notice of alleged sexual harassment."
+
+### Title VI 
+
+- [CFR § 100.6 Compliance Information](https://www.ecfr.gov/current/title-34/section-100.6) 
+
+	- 34 CFR § 100.6(a) Cooperation and assistance. Discusses the role of federal agencies in providing guidance and seeking voluntary compliance, emphasizing cooperation rather than strict enforcement measures.
+
+	- 34 CFR § 100.6(b) Compliance reports. Requires institutions to submit compliance reports, but it gives the Department of Education flexibility in determining the timing, form, and content of those reports. It also provides an example (racial and ethnic data) but doesn't mandate exactly what every institution must report.
+
+		- Reactive oversight. "Each recipient shall keep such records and submit to the responsible Department official or his designee timely, complete and accurate compliance reports at such times, and in such form and containing such information, as the responsible Department official or his designee may determine to be necessary to enable him to ascertain whether the recipient has complied or is complying with this part."
+
+	- 34 CFR § 100.6(c) Access to sources of information. Allows the Department to access records and information but leaves room for institutions to navigate privacy concerns. Again, it is flexible and non-prescriptive.
+
+	- 34 CFR § 100.6(d) Information to beneficiaries and participants. Under Title VI requires that institutions “make available” information about non-discrimination to beneficiaries and participants.
+
+		- It does not have the same detailed obligations for notification and publication that Title IX does
+
+		- The posting requirement under Title IX goes further to ensure ongoing and broad access to information
+
+		- Leaves significant room for interpretation. It does not prescribe specific methods (e.g., website postings, handbooks, etc.) or detail exactly what information must be communicated, unlike Title IX regulations, which are far more explicit.
+
+	- Has not seen updates in over two decades---45 FR 30918, May 9, 1980, as amended at 53 FR 49143, Dec. 6, 1988; 65 FR 68053, Nov. 13, 2000
+
+		- 45 FR 30918, May 9, 1980: This indicates that the regulation was originally published in Volume 45 of the Federal Register, on page 30918, on May 9, 1980.
+
+		- 53 FR 49143, Dec. 6, 1988: This indicates that the regulation was amended (updated) in Volume 53 of the Federal Register, on page 49143, on December 6, 1988.
+
+		- 65 FR 68053, Nov. 13, 2000: This is another amendment, published in Volume 65, on page 68053, on November 13, 2000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 
 - The goal with Title VI is to go with the obvious arguments
 
@@ -85,26 +156,7 @@ updated: true
 
 		- Laws against bias, constructive notice, obligation to respond, recordkeeping etc. 
 
-----------------------------------------------------------------------------------
-
-I don't know what Title VI regulatory requirements are, because I can't find them anywhere
-	
-- Title VI designed by the "recipient" 
-
-	- Notification of rights do not go as far
-
-	- Optional training (freshman orientation)
-
-	- Confusing reporting mechanism
-
-	- No legal obligation to respond to reports 
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------
-
-What is mandatory with respect to Title IX and the CaRE Act? What is mandatory with respect to Title VI? How are the resolution agreements going beyond? Can this ultimately be 
-
 
 
 ### Campus SaVE Act requires training and annual compliance reporting wrt sexual harassment and violence 
@@ -197,89 +249,18 @@ What is mandatory with respect to Title IX and the CaRE Act? What is mandatory w
 	resolution process must not have a conflict of interest or bias for or against complainants
 	or respondents generally or an individual complainant or respondent."
 
-- [Brief Overview of Key Provisions of the Department of Education’s 2024 Title IX Final Rule*](https://www2.ed.gov/about/offices/list/ocr/docs/t9-final-rule-summary.pdf)
+- Compliance (Background)
 
-- [2024 Unofficial Version Title IX Final Rule](https://www2.ed.gov/about/offices/list/ocr/docs/t9-unofficial-final-rule-2024.pdf)
-
-	- Administrative requirements § 106.8
-
-		- [Compliance responsibilities and Coordinator roles](https://www.federalregister.gov/d/2024-07915/p-1173)
-
-		- § 106.8(a), Designation of a Title IX Coordinator
-
-			- P. 250, " Some commenters supported proposed § 106.8(a) because it would centralize the
-	recipient’s compliance efforts, ensure accountability and efficiency, and minimize internal
-	conflicts and confusion that could delay compliance."
-
-		- § 106.8(c)(2), Providing a notice of nondiscrimination
-
-			- P. 267,"The final regulations’ posting requirement is necessary so that students, their parents or
-	guardians, or other legal representatives as appropriate, employees, and others who seek to
-	participate in a recipient’s education program or activity have access to information about Title
-	IX whenever they might need it. Section 106.8(c)(2) may be broader than other State or Federal
-	notice requirements that relate only to employees because a recipient needs to reach the entire
-	school community, including those who join midway through or for only a limited part of the
-	school year. Although recipients may be subject to requirements under other Federal or State
-	laws, the Department has determined that the requirements in § 106.8(c)(2) are necessary to
-	effectuate Title IX’s nondiscrimination mandate. While the Department agrees that Title IX does
-	not itself require a recipient to issue notices mandated under any other law, including State laws,
-	it is unnecessary to address obligations under other laws in the final Title IX regulations. "
-
-		- § 106.8(d), Clarifies which individuals a 
-		recipient must train on Title IX and provides requirements for such training, which vary based on an individual’s role.
-
-			- P. 267, Background: Section 106.8(d)(1) requires all employees to be trained on the recipient’s
-	obligation to address sex discrimination in its education program or activity, the scope of
-	conduct that constitutes sex discrimination under Title IX, including the definition of “sex-based
-	harassment,” and all applicable notification and information requirements under §§ 106.40(b)(2)
-	and 106.44. Additionally, § 106.8(d)(2) requires all investigators, decisionmakers, and other
-	persons responsible for implementing the recipient’s grievance procedures or who have the
-	authority to modify or terminate supportive measures to also be trained on the recipient’s
-	obligations under § 106.44; the recipient’s grievance procedures under § 106.45, and if
-	applicable § 106.46; how to serve impartially, including by avoiding prejudgment of the facts at
-	issue, conflicts of interest, and bias; and the meaning and application of the term “relevant” in
-	relation to questions and evidence, and the types of evidence that are impermissible regardless of
-	relevance under § 106.45, and if applicable § 106.46.
-
-		- [Federal Register link to discussion on recordkeeping](https://www.federalregister.gov/d/2024-07915/p-1058)
-
-	- 34 C.F.R. §§ 106.2; 106.44(a), (f)., [Obligation to Respond](https://www.lcwlegal.com/news/the-does-new-title-ix-regulations-a-summary-of-the-key-provisions/)
-
-		- "The new regulations set a higher bar for institutional compliance by requiring a response upon receipt of notice of possible sex discrimination under Title IX."
-
-	- Compliance (Background)
-
-		Resolution agreements- P. 91, "Moreover, in the context of administrative enforcement, a recipient must be given notice and an opportunity to come into compliance before the termination of funding. 20 U.S.C. 1682.
-		Indeed, the Department’s administrative enforcement investigations generally result in
-		agreements with the recipient to take action that would bring them into compliance. Thus, if the
-		Department receives a complaint about severe or pervasive harassment, and its investigation
-		confirms the allegations in that complaint, the Department will bring this conduct to the attention
-		of the recipient, and to discuss and determine appropriate corrective measures with the
-		recipient’s input.""
-
-- [2020 Q & A on Title IX 2020 Amendments](https://www2.ed.gov/about/offices/list/ocr/docs/202107-qa-titleix.pdf)
-
-	- P. 3, "The Department’s Title IX regulations were first issued in 1975, reissued in 1980,
-	and then amended after that, including in 2006 and 2020. Prior to 2020, the regulations set out
-	requirements under Title IX for educational programs and activities that receive federal financial
-	aid, but they did not include specific requirements related to sexual harassment. Instead, OCR
-	had several guidance documents in place to assist schools in understanding how OCR interpreted
-	the Department’s Title IX regulations. The 2020 amendments added specific, legally binding steps
-	that schools must take in response to notice of alleged sexual harassment."
+	Resolution agreements- P. 91, "Moreover, in the context of administrative enforcement, a recipient must be given notice and an opportunity to come into compliance before the termination of funding. 20 U.S.C. 1682.
+	Indeed, the Department’s administrative enforcement investigations generally result in
+	agreements with the recipient to take action that would bring them into compliance. Thus, if the
+	Department receives a complaint about severe or pervasive harassment, and its investigation
+	confirms the allegations in that complaint, the Department will bring this conduct to the attention
+	of the recipient, and to discuss and determine appropriate corrective measures with the
+	recipient’s input.""
 
 
-- Who does the Title IX Coordinator report to? What are the obligations with respect to Title IX reporting? 
-
-	- OCR should want to know whether a school is doing a good job based on the submission of complete reports periodically; they should not wait for complaints filed to OCR as evidence that Title IX compliance is inadequate. 
-
-	- OCR is just a reaction mechanism to ensure compliance? Not an oversight body? 
-
-		- Dear Colleague Letters (suggestions)
-
-		- Resolution Letters and Agreements (receive complaints, conduct investigations and hold institutions accountable)
-
-
-### OCR and Title VI 
+### UCLA and Title VI 
 
 - [UC Anti-Discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
 
