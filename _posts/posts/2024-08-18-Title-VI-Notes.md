@@ -7,7 +7,7 @@ date: 2024-08-18 07:00 PM
 updated: true
 ---
 
-### Chat GPT says 
+### Factual vs. Legal Dispute
 
 
 - Yes, a factual dispute occurs when the parties disagree on what actually happened. In the context of someone breaking the law, it might mean one party claims an event or action occurred (e.g., a law was broken), and the other party denies it or offers a different version of events.
@@ -27,6 +27,7 @@ updated: true
     In a constitutional case, the issue might be whether a law or government action violates constitutional rights, even if the facts are not in dispute.
     In these situations, the judge typically resolves the dispute by interpreting the law and applying it to the facts.
 
+### Statutory Update vs. Regulatory Update
 
 - Yes, that makes sense. When Title IX is amended, it functions as an "update" by modifying or adding provisions to improve how the law is enforced or interpreted. These amendments can introduce new regulatory measures, clarify existing rules, or expand protections to ensure Title IX is applied more effectively. For instance, changes may address how educational institutions handle issues like discrimination, sexual harassment, or gender equality, thereby refining the enforcement framework.
 
@@ -79,6 +80,146 @@ updated: true
     4. Need for Stakeholder Input: Agencies typically rely on input from educational institutions, advocacy groups, and the public to gauge how regulatory changes will be received and whether they are necessary. Without significant pressure or demonstrated need, agencies may take a cautious approach to avoid proposing rules that could be seen as overreaching or poorly received. 
 
         In short, while regulatory updates are possible, agencies often act more cautiously, balancing the need for new rules against the risk of pushback, legal challenges, and resource limitations. Public outcry or advocacy often helps push these issues to the forefront, prompting regulatory changes.
+
+### The Code of Federal Regulations (CFR)
+
+- The Code of Federal Regulations (CFR) is a collection of rules and regulations created by federal agencies to enforce and interpret laws passed by Congress, such as the Civil Rights Act of 1964.
+
+    1. CFR vs. Laws (like the Civil Rights Act):
+
+        - Laws are passed by Congress and signed by the President (e.g., the Civil Rights Act of 1964 or Title IX of the Education Amendments of 1972). These are the broad legal frameworks that establish rights and prohibitions (like banning discrimination).
+
+        - The CFR contains the detailed rules and regulations written by federal agencies (like the Department of Education) to implement and enforce these laws. These regulations explain how the law is applied in practice. For instance, the Civil Rights Act gives general anti-discrimination protections, and the CFR explains how institutions must comply with those protections.
+
+    2. What’s in the CFR?
+
+        - The CFR is where federal agencies provide specific procedures or guidelines for how to follow the law. For example, 34 CFR Part 100 outlines how institutions that receive federal funding must comply with Title VI of the Civil Rights Act.
+
+        - The CFR is not the law itself but the set of rules that are created under the authority of the law. Agencies are empowered to write these regulations to ensure that the law is enforced effectively.
+
+    3. How It Works Together:
+
+        - Congress passes a law like the Civil Rights Act of 1964 (statutory law).
+
+        - Federal agencies (like the Department of Education) then create regulations, which are published in the CFR, to clarify how institutions must comply with the law. These regulations help interpret the law’s requirements in practice.
+
+        - If you look at 34 CFR § 100.6, for example, it’s part of the regulatory framework that explains how institutions must provide compliance information under Title VI.
+
+- Once a Final Rule is issued by a federal agency, it is incorporated into the Code of Federal Regulations (CFR).
+
+    1. Law Passed by Congress: Congress passes a law, such as Title IX or Title VI.
+
+    2. Agency Rulemaking:
+
+        - Federal agencies (like the Department of Education) are tasked with creating detailed rules to implement and enforce the law.
+
+        - The agency drafts proposed rules, opens them to public comment, and may revise them based on feedback.
+
+    3. Final Rule:
+
+        - After the rulemaking process, the agency issues a Final Rule, which includes the specific guidelines, procedures, or requirements related to the law.
+
+        - The Final Rule is published in the Federal Register, which is the official journal of the federal government where all rules, proposed rules, and notices are published.
+
+    4. Incorporation into the CFR:
+
+        - Once the Final Rule is published and becomes effective, it is incorporated into the CFR. The CFR serves as the official codification of all the rules created by federal agencies.
+
+        - For example, when the Department of Education issues a Final Rule clarifying how Title IX is to be enforced, that rule is added to 34 CFR Part 106, which contains the Title IX regulations.
+
+    - In summary: once a Final Rule is issued and becomes effective, it is incorporated into the CFR, which is the comprehensive collection of federal regulations. The CFR serves as the authoritative source for understanding how federal laws are implemented and enforced in practice.
+
+- [CFR Part 106- Nondiscrimination on the Basis of Sex](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-106)
+
+- [CFR Part 100- Nondiscrimination on the Basis of the Civil Rights Act of 1964](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/)
+
+### The Clery Act 
+
+- The Clery Act was established to promote transparency about campus safety and to ensure that students, parents, and employees have access to accurate information about crime on campus. The goal is to provide essential data that helps people make informed decisions about their safety in educational environments
+
+1. Reporting is Based on the Occurrence of Crimes:
+
+    - The Clery Act mandates that institutions report certain types of crimes that occur on campus, in campus-controlled properties, and in certain public areas near campus, regardless of whether law enforcement makes an arrest.
+
+    - What matters is that a Clery-reportable crime (e.g., assault, hate crime, theft, stalking, etc.) occurred. If the incident fits the definition of one of these crimes, it must be reported in the school’s Clery statistics.
+
+2. No Arrest Needed for Reporting:
+
+    - An arrest is not required for an incident to be included in the Clery report. If a crime is reported to campus security authorities (such as campus police, Title IX coordinators, or residence hall staff) or if the incident is documented by local law enforcement, it still needs to be included in the annual report, even if no arrest is made.
+
+    - For example, if an assault occurs on campus and is reported to campus authorities or the police, it will typically be counted in the Clery Act statistics, regardless of whether any suspect is arrested or charged.
+
+3. Reporting of Non-Criminal Incidents:
+
+    - The Clery Act also requires institutions to report incidents of hate crimes or other serious violations that may not necessarily result in an arrest but still constitute significant threats or discrimination.
+
+4. Reporting Sources:
+
+    - Reports can come from various sources, including:
+
+        - Campus police or security
+
+        - Local law enforcement
+
+        - Campus security authorities (including certain administrators, faculty, or staff who have a duty to report)
+
+    - Even if the victim doesn’t press charges or the police don’t make an arrest, the incident still needs to be included in the Clery report if it falls under the required crime categories.
+
+- The Clery Act was established to promote transparency about campus safety and to ensure that students, parents, and employees have access to accurate information about crime on campus. The goal is to provide essential data that helps people make informed decisions about their safety in educational environments.
+
+- Key Purposes of the Clery Act and Its Accountability:
+
+    1. Transparency About Crime:
+
+        - Schools are required to report and disclose statistics about certain categories of crime that occur on or near campus. This helps to keep the campus community informed about safety risks and trends in criminal activity.
+        
+        - The reports include crimes like sexual assault, robbery, aggravated assault, hate crimes, and other significant offenses, making the institution’s crime data accessible to the public.
+
+    2. Empowering Students and Families:
+
+        - By having access to this information, students, parents, and employees can better assess the safety of the campus environment and decide on appropriate precautions. It also helps prospective students and their families make informed choices when selecting a college or university.
+
+    3. Accountability for Institutions:
+
+        - Schools are held accountable for maintaining accurate records of campus crime and for ensuring compliance with the law. This is part of their responsibility to provide a safe environment.
+
+        - Institutions that fail to comply with the Clery Act can face significant penalties, including:
+
+            - Fines from the U.S. Department of Education (up to $68,000 per violation).
+
+            - Potential loss of federal funding, including financial aid.
+
+            - Damage to the school’s reputation if non-compliance becomes public knowledge.
+
+    4. Timely Warnings and Emergency Notifications:
+
+        - The Clery Act requires institutions to issue timely warnings to the campus community about ongoing threats to safety (e.g., a crime that poses an ongoing risk to students and employees).
+
+        - Schools are also required to have procedures for emergency notifications in the event of an immediate threat, ensuring that the community can take action to protect itself.
+
+    5. Encouraging Reporting:
+
+        - The Clery Act also encourages students, faculty, and staff to report crimes through campus security authorities (such as campus police or Title IX offices), promoting a culture of reporting and safety.
+
+- Accountability Factor:
+
+    - While the Clery Act does not directly enforce criminal penalties against individuals who commit crimes, it holds institutions accountable for:
+
+        - Documenting and disclosing crime data accurately.
+
+        - Providing support systems (e.g., victim support, resources for safety).
+
+        - Creating transparent safety policies that help to protect students and staff.
+
+- If schools do not follow the Clery Act’s requirements, the Department of Education has the authority to:
+
+    - Conduct audits and investigations into an institution’s compliance.
+
+    - Impose fines and require corrective actions to address non-compliance.
+
+    - Publicly list institutions that are non-compliant, which can hurt their reputation.
+
+- In short, the Clery report helps ensure that schools are accountable for accurately reporting campus crimes and maintaining transparency, but its focus is primarily on institutional accountability rather than directly enforcing action against individual offenders. The threat of fines, reputational damage, and loss of funding motivates institutions to comply with the Act’s requirements.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
