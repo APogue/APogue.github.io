@@ -155,7 +155,31 @@ updated: true
 
 		- [Fraternities at SCU](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/)---"most of the incidents go unreported"
 
+			- [Where are the reports for 2021](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2023-Main-Campus-ASR-Final.pdf)? Pp. 97
+
 		- [Reporting is a problem at SCU](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/)---"At SCU, there is currently no way to know how pervasive sexual violence is on campus since students often do not report incidents and there is no central place for recording all reports that are made."
+
+			- [SV policy addressed at SCU](https://crimlawandpolicy.wordpress.com/2022/02/19/addressing-sexual-violence-policy-at-santa-clara-university/)
+
+- Campus SaVE Act
+
+	- There should be real-time university sponsored Clery reporting with crime classifications 
+
+		- [60 Day Daily Crime and Fire Log](https://ucla.box.com/v/clerylog)
+
+		- [Crime statistics reporting](https://www.universityofcalifornia.edu/about-us/information-center/ucpd-crimes)
+
+		- [Timely Warnings](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act/timely-warnings-and-emergency-notifications)
+
+		- [Clery Report 2023](https://ucla.app.box.com/v/2023-clery-report)
+
+	- Important to 
+
+		- Empowering Students and Families:
+
+			- By having access to this information, students, parents, and employees can better assess the safety of the campus environment and decide on appropriate precautions. It also helps prospective students and their families make informed choices when selecting a college or university.
+
+		- Make coordinators aware of incidents that could be contributing to systemic problems on campus
 
 ---------------------------------------------------------------------------------------------------------------------------
 

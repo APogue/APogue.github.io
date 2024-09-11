@@ -222,7 +222,7 @@ updated: true
 - In short, the Clery report helps ensure that schools are accountable for accurately reporting campus crimes and maintaining transparency, but its focus is primarily on institutional accountability rather than directly enforcing action against individual offenders. The threat of fines, reputational damage, and loss of funding motivates institutions to comply with the Act’s requirements.
 
 
-### Would updates to Title VI just be an exercise in over-regulation? 
+### Would updates to Title VI just be an exercise in overregulation? 
 
 - Updating Title VI to be more like Title IX in terms of specific procedural requirements and structured enforcement mechanisms could significantly improve transparency, accountability, and uniformity in how Title VI is implemented across institutions. Here's why---
 
