@@ -107,26 +107,55 @@ updated: true
 
 		- 65 FR 68053, Nov. 13, 2000: This is another amendment, published in Volume 65, on page 68053, on November 13, 2000.
 
+### Why the differences? 
 
+- Title VI's enforcement and interpretation have evolved more through case law and agency guidance, while Title IX has seen more direct amendments and regulatory updates. 
 
+- Title VI enforcement may not be seen as a top priority without significant public outcry or high-profile cases drawing attention to it. 
 
+- Without significant pressure on agencies or demonstrated need, agencies may take a cautious approach that could be seen as overreaching or poorly received. 
 
+- There is a need to strike a balance between the need for new rules against the risk for pushback, legal challenges, and resource limitations. 
 
+	- The key would be to find a balance—creating structured processes that improve accountability, but not so burdensome that they hinder institutional flexibility. For example, rather than prescribing exactly how every school must handle all aspects of compliance, the rules could mandate certain minimum standards (like public notifications, coordinators, or complaint processes) while still allowing room for schools to adapt based on their size or needs.
 
+- Historical Context 
 
+	- Title VI, passed in 1964, was part of broader civil rights legislation at a time when the legal landscape was focused on dismantling systemic racial segregation. The regulations were written in a way that gave federal agencies discretion to enforce the law but didn’t require institutions to follow highly specific processes.
 
+	- Title IX, passed in 1972, evolved with a different focus, particularly on educational institutions and gender equality, which led to much more granular regulations over time, particularly in recent decades as gender-based discrimination and sexual misconduct gained more attention.
 
+- Congressional Research Service
 
+	- "Although Title VI applies to funds distributed by every federal agency, much of the doctrine under the statute has been shaped by its use in the public schools. That doctrinal story has accordingly centered on one agency in particular: the Office for Civil Rights (OCR)..."
 
+	- "OCR primarily enforces Title VI through its investigation and resolution of complaints."
 
+### Demonstrate similar need that resulted in SaVE and Title IX amendments 
 
+- What is the backstory for Campus SaVE
 
+- Gather evidence that corresponds to 
 
+	- Bias, discrimination is occurring (and in some cases being improperly handled and going unanswered), violence and crimes are occurring (done)
 
+	- The feedback loop is broken 
 
+	- Backlog in cases at OCR 
 
+	- OCR is taking case by case, every school is subject to different accountability measures 
 
+- They need to be notified, the notifications need to be published, they need a coordinator, *they need to know they can report to the coordinator*, they need to be trained
 
+	- At UCLA it is not clear that there is a Title IX coordinator
+
+	- At UCLA it is not clear that *all* employees are trained to handle Title IX incidents 
+
+	- Reporting to campus law enforcement does not happen at high rates
+
+		- [Fraternities at SCU](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/)---"most of the incidents go unreported"
+
+		- [Reporting is a problem at SCU](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/)---"At SCU, there is currently no way to know how pervasive sexual violence is on campus since students often do not report incidents and there is no central place for recording all reports that are made."
 
 ---------------------------------------------------------------------------------------------------------------------------
 
