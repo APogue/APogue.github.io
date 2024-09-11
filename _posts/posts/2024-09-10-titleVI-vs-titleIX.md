@@ -165,7 +165,7 @@ updated: true
 
 	- There should be real-time university sponsored Clery reporting with crime classifications 
 
-		- [60 Day Daily Crime and Fire Log](https://ucla.box.com/v/clerylog)
+		- [60 Day Daily Crime and Fire Log](https://ucla.box.com/v/clerylog), due each October
 
 		- [Crime statistics reporting](https://www.universityofcalifornia.edu/about-us/information-center/ucpd-crimes)
 
@@ -180,6 +180,14 @@ updated: true
 			- By having access to this information, students, parents, and employees can better assess the safety of the campus environment and decide on appropriate precautions. It also helps prospective students and their families make informed choices when selecting a college or university.
 
 		- Make coordinators aware of incidents that could be contributing to systemic problems on campus
+
+	- Campus [SaVE Act FAQ](http://thecampussaveact.com/faq/)
+
+		- Campus SaVE Act [requirements](https://www.acenet.edu/Documents/VAWA-Summary.pdf)
+
+		- The training program should also include: *who specifically to report to*
+
+			- There is a reason *every university Title IX Coordinator* has the same official title, the students should *know* the title 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
