@@ -310,7 +310,11 @@ updated: true
 
 
 
+- [Table 55](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/Campus-Safety/Revised%20Aggregate%20report%20%20and%20appendices%201-7_(01-16-2020_FINAL).pdf)
 
+	- How knowledgeable are you about where to make a
+	report of sexual assault or (other)3 sexual misconduct at
+	[University]?---28.4, 34.5, 33.6 % (undergraduate) reported "very" or "extremely"
 
 
 ---------------------------------------------------------------------------------------------------------------------------
