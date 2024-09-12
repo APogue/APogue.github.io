@@ -14,7 +14,7 @@ updated: true
 - [CFR Part 100- Nondiscrimination on the Basis of the Civil Rights Act of 1964](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/)
 
 
-### Title IX Final Rule
+### 2024 Title IX Final Rule
 
 - Published in the Federal Register (FR), where federal agencies publish rules, proposed rules, and notices.
 
@@ -145,9 +145,11 @@ updated: true
 
 	- OCR is taking case by case, every school is subject to different accountability measures 
 
-- They need to be notified, the notifications need to be published, they need a coordinator, *they need to know they can report to the coordinator*, they need to be trained
+	- OCR mentions that Title VI-related incidents continue even after investigations began (UMich) 
 
-	- At UCLA it is not clear that there is a Title IX coordinator
+- They need a notification, the notifications need to be published, they need a coordinator, *they need to know they can report to the coordinator*, they need to be trained
+
+	- At UCLA it is not clear that there is a Title IX Coordinator
 
 	- At UCLA it is not clear that *all* employees are trained to handle Title IX incidents 
 
@@ -159,19 +161,25 @@ updated: true
 
 		- [Reporting is a problem at SCU](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/)---"At SCU, there is currently no way to know how pervasive sexual violence is on campus since students often do not report incidents and there is no central place for recording all reports that are made."
 
+			- "Adding to the issues around Title IX is the misinformation that is spread regarding what the Title IX coordinators are supposed to do, and how the process looks. Even though there are trainings offered at orientation, during sexual assault awareness month, and at the dorms and around campus, students often learn about the office through word of mouth. "
+
 			- [SV policy addressed at SCU](https://crimlawandpolicy.wordpress.com/2022/02/19/addressing-sexual-violence-policy-at-santa-clara-university/)
+
+				- "At SCU, an additional reason students may not report sexual violence is because there is no central place to make a report, and the process of reporting is complicated and confusing."
 
 - Campus SaVE Act
 
 	- There should be real-time university sponsored Clery reporting with crime classifications 
 
-		- [60 Day Daily Crime and Fire Log](https://ucla.box.com/v/clerylog), due each October
+		- [60 Day Daily Crime and Fire Log](https://ucla.box.com/v/clerylog)
 
 		- [Crime statistics reporting](https://www.universityofcalifornia.edu/about-us/information-center/ucpd-crimes)
 
 		- [Timely Warnings](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act/timely-warnings-and-emergency-notifications)
 
-		- [Clery Report 2023](https://ucla.app.box.com/v/2023-clery-report)
+		- [Clery Report 2023](https://ucla.app.box.com/v/2023-clery-report), due each October
+
+		- [Campus Security Authority](https://police.vanderbilt.edu/crimeinfo/cleryactfaq.php) and campus police make up the reporting body to Clery crime reporting, this includes Title IX personnel. 
 
 	- Important to 
 
@@ -191,31 +199,119 @@ updated: true
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-- The goal with Title VI is to go with the obvious arguments
 
-- Model it after SaVE
+- [Campus SaVE Act](https://campussaveact.org/) 
 
-	- Save saw a need beyond what Title IX was doing 
+	- 2011 April 2011 Dear Colleague Letter---"Noting that sexual assault had become an epidemic on college campuses, OCR reiterated that Title IX guarantees all students an education free from sexual harassment and violence. OCR also recommended that "all schools implement preventive education programs" as part of their orientation programs for new students, faculty, and staff.
 
-		- Safety was still a major concern on college campuses
+		- [2011 Dear Colleague Letter](https://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf)
 
-		- Title IX violations, specifically wrt SVSH had become an epidemic on college campuses 
+			- Some quotes
 
-	- This is similar to what is happening now---stick with the crux of the argument---safety and numerous reports
+				- "The sexual harassment of students, including sexual violence, interferes with students’ right to receive an education free from discrimination and, in the case of sexual violence, is a crime."
 
-		- Safety is now a major concern on college campuses
+				- "The statistics on sexual violence are both deeply troubling and a call to action for the nation. A
+				report prepared for the National Institute of Justice found that about 1 in 5 women are victims
+				of completed or attempted sexual assault while in college. The report also found that
+				approximately 6.1 percent of males were victims of completed or attempted sexual assault
+				during college."
 
-		- Title VI violations, specifically wrt shared ancestry and national origin has become an epidemic on college campuses
+				- Obligation to Respond. "If a school knows or reasonably should know about student-on-student harassment that creates a hostile environment, Title IX requires the school to take immediate action to eliminate
+			    the harassment, prevent its recurrence, and address its effects."
 
-		- Also attach to the Clery Act? 
+				- "The notice must state that inquiries concerning the application of Title IX may be referred to the recipient’s Title IX coordinator or to OCR. It should include the name or title, office address, telephone number, and e-mail address for the recipient’s designated Title IX coordinator. "
 
-	- But Title VI has not been amended to reflect the regulations necessary to achieve protections the same way Title IX has
+				- "Informing students of their options to notify proper law enforcement authorities,
+				including school and local police, and the option to be assisted by school employees in
+				notifying those authorities. "
 
-		- Coordinator 
+		- Pieces of this list need work Pp. 18
 
-		- Unification of notification, publication of notification, and grievance policies 
+			- Know the school’s prohibition against sex discrimination, including sexual
+			harassment and violence
 
-		- Laws against bias, constructive notice, obligation to respond, recordkeeping etc. 
+			- Recognize sex discrimination, sexual harassment, and sexual violence when they
+			occur
+
+			- *Understand how and to whom to report any incidents*
+
+			- Know the connection between alcohol and drug abuse and sexual harassment or
+			violence
+
+			- *Feel comfortable that school officials will respond promptly and equitably to
+			reports of sexual harassment or violence*
+
+
+- The issue with Title IX will be an issue with Title VI
+
+	- The evolution of more granular regulations over time is moot if an ever more perfect system is effectively "out of reach" of the students. The Title IX Coordinator is the necessary connection between the students and this system. 
+
+		- There is an undue cognitive burden with respect to notification and publication of notification. The Title IX Coordinator---a very important piece of the reporting process---is buried within the legal material. 
+
+		- [New Requirements to Educate Students](https://www.acenet.edu/Documents/VAWA-Summary.pdf) Pp. 3 should explicitly mention the Title IX Coordinator *by name* as the contact for reports of misconduct 
+
+
+
+
+
+- College-age victims of sexual violence don't report for several reasons
+
+	- Department of Justice, Office of Justice Programs, Bureau of Justice Statistics,  Rape and Sexual Victimization Among College-Aged Females, 1995-2013 (2014) stats are located on the [RAINN cite](https://rainn.org/statistics/campus-sexual-violence)
+
+		- Each reason represents a barrier to reporting
+
+		- Having a single reporting contact that students can trust and are "reflexively" aware of can help them overcome a lack of familiarity and fear. If this barrier is reduced, it may aid in helping students overcome other barriers. A vague sense of anxiety can often be misattributed to what feels like a logical reason. 
+
+
+
+- [Data](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/Campus-Safety/Revised%20Aggregate%20report%20%20and%20appendices%201-7_(01-16-2020_FINAL).pdf) from 21 schools as of 2019 says
+
+	- Nonconsensual sexual contact by physical force or inability to consent
+
+		- 26.4 percent among undergraduate women
+
+		- 6.9 percent among undergraduate men
+
+	- "Slightly less than a third of the women who reported nonconsensual penetration by physical
+	force or inability to consent made contact with a program or resource (29.5%), as did
+	17.8 percent of men, and 42.9 percent of TGQN students. "
+
+	- "Undergraduate women are more likely to report nonconsensual sexual contact by physical
+	force or inability to consent occurred since the beginning of the Fall 2018 term in their first
+	year at school (16.1%) when compared to later years (13.8% in the second year, 11.5% in
+	the third year, and 11.3% in the fourth year or higher)."
+
+	- "The most important reason women gave for not contacting a program was she could handle it herself (20.0%); the victim did not think the incident was serious enough to merit seeking help (16.8%); or that the victim felt
+	embarrassed, ashamed or that it would be too emotionally difficult to seek assistance (15.9%)."
+
+
+
+
+
+
+- [Sexual Harassment, IPV, stalking](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/Campus-Safety/Revised%20Aggregate%20report%20%20and%20appendices%201-7_(01-16-2020_FINAL).pdf)
+
+	- "Sexual comments..." is not covered by training, Pp. xv
+
+		- "Students were asked if they had witnessed various situations related to sexual assault and
+		misconduct against others. The most common situation respondents reported they observed
+		was someone making sexual comments that made others feel uncomfortable or offended
+		(26.0%), followed by witnessing a situation they believe could have led to sexual assault
+		(15.0%), witnessing someone behaving in a controlling or abusive manner (13.0%), and
+		witnessing sexually harassing behavior (7.0%)."
+
+	- Pp. Xii
+
+		- "Among all students, 41.8 percent reported experiencing at least one sexually harassing
+		behavior since enrollment. Overall, 18.9 percent of students reported sexually harassing
+		behavior that either “interfered with their academic or professional performance”, “limited
+		their ability to participate in an academic program” or “created an intimidating, hostile or
+		offensive social, academic or work environment”. "
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
