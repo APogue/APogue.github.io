@@ -3,7 +3,7 @@ layout: outline
 title: "Title VI vs Title IX"
 published: true
 author: Alexie Pogue
-date: 2024-09-10 03:00 PM
+date: 2024-09-13 07:00 PM
 updated: true
 ---
 
@@ -189,6 +189,10 @@ updated: true
 
 		- Make coordinators aware of incidents that could be contributing to systemic problems on campus
 
+		- Encouraging Reporting:
+
+			- The Clery Act also encourages students, faculty, and staff to report crimes through campus security authorities (such as campus police or Title IX offices), promoting a culture of reporting and safety.
+
 	- Campus [SaVE Act FAQ](http://thecampussaveact.com/faq/)
 
 		- Campus SaVE Act [requirements](https://www.acenet.edu/Documents/VAWA-Summary.pdf)
@@ -283,9 +287,6 @@ updated: true
 
 	- "The most important reason women gave for not contacting a program was she could handle it herself (20.0%); the victim did not think the incident was serious enough to merit seeking help (16.8%); or that the victim felt
 	embarrassed, ashamed or that it would be too emotionally difficult to seek assistance (15.9%)."
-
-
-
 
 
 
