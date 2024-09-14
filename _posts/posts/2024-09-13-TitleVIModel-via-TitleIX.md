@@ -38,6 +38,17 @@ updated: true
 
 - mention the updates 
 
+### Title VI doesn't go far enough, why? 
+
+- Acting as a reactionary agency will not suffice
+
+	- There are enough ongoing investigations to prove that the system should shift from "reactionary" case law and agency guidance to "proactive" direct amendments and regulatory updates
+
+	- Backlog of investigations etc
+
+- The system has been flooded with reports and chaos ensued
+
+
 ### Title IX Isn't Perfect
 
 - Go into the core areas of Title IX that should be the backbone of Title VI 
@@ -89,9 +100,77 @@ updated: true
 
 	- Undue burden wrt Coordinator buried in legal material 
 
-	- Why is there a stigma in talking about SVSH? Why don't we know how pervasive SVSH is? Why aren't students surveyed? 
+	- Current training is focused on social situations
+
+		- SaVE website---"Most higher education institutions—including community colleges and vocational schools—must educate students, faculty, and staff on the prevention of rape, acquaintance rape, domestic violence, dating violence, sexual assault, and stalking."
+
+		- Reference the SaVE document training list
+
+		- Add a Title IX Module
+
+			- Who do you report to? Either Title IX Coordinator, Campus PD, or Title IX officials can assist in filing a report with campus PD
+
+			- Do you have to pursue a Title IX or criminal investigation if you submit a report? No, you can file a report without a Title IX or criminal investigation 
+
+			- What circumstances will lead to an investigation regardless of the complainant's wishes? Situations involving A. A weapon B. A minor C. Multiple respondents, D. A high degree of violence or E. Any of the above? E
+
+			- Should you pursue a Title IX investigation, you have the right to an investigation that is A. Prompt B. *Discrete* C. Equitable or D. All of the above. D
+
+	- Title IX codified sexual harassment in 2020
+
+		- 21 school statistics
+	
+	- But it does not *proactively address* sexual harassment & sexual harassment is one among several protections afforded by Title IX that are not covered by Campus SaVE (it did address quid pro quo harassment).
+	
+		- Gender discrimination 
+	
+	- Similar issues of program exclusion may fall under Title VI
+
+		- The POC student on Reddit
+
+	- There are two circumstances under which we can define a problem as "pervasive," 
+
+		1. there are a lot of reports (as in antisemitism and anti-muslim discrimination)
+
+		2. students are surveyed (as in SVSH)
+
+	- If in the above, we have not surveyed the students, there is no way to know whether a low number of reports are due to a low number of incidents or a broken reporting loop. 
+
+	- With reference to all of the above, under the present conditions neither Title VI or Title IX are likely to make a statistical difference without literacy---students need to know their rights. 
+
+		1. Students are unable to recognize problematic scenarios when they arise
+
+		2. Students are not trained in preventative measures
+
+		3. Students do not know the Title Coordinators exist or what their roles are 
+
+
+	- A separate training (series of) module(s)
+
+		- Training focused on *academic* and *on-campus* scenarios 
+
+		- Title VI
+
+			- Safety on campus
+
+			- De-escalation tactics
+
+			- Behavior contributing to a hostile environment, ie discrimination, etc. 
+
+				- Discrimination based on race, religion, national origin, shared ancestry
+
+			- Reporting
+
+		- Title IX
+
+			- Sexual Harassment (move the quid pro quo here)
+
+			- Gender and gender identity discrimination
+
+			- Reporting
+
+- Why is there a stigma in talking about SVSH? Why don't we know how pervasive SVSH is? Why aren't students surveyed? 
 
 		- How can anyone have any idea if the number of reports coming in reflects a working loop without surveying the students? Is this not a concern for the well-being of the students? 
-
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
