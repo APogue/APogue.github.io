@@ -50,11 +50,11 @@ updated: true
 
 	- Title IX training at UCLA does not mention the Title IX Coordinator at all 
 
-	- The Title IX Office notification is buried within the legal documents
+		- The Title IX Office notification is buried within the legal documents
 
-	- Barriers to reporting
+	- There are barriers to reporting
 
-	- Title IX Coordinator awareness can reduce other barriers
+		- Title IX Coordinator awareness can reduce other barriers
 
 - School accountability is largely voluntary
 
@@ -70,9 +70,17 @@ updated: true
 
 			- Many schools do not even guarantee 4 years of housing 
 
-		- SCU dissociated completely from its fraternity and sorority system. 
+		- SCU dissociated completely from its [fraternity and sorority system](https://dh.scu.edu/exhibits/exhibits/show/greeklifescu), yet still, today, "with six Fraternities and five Sororities, more than twenty-five percent of Santa Clara students are involved in Greek life."
 
-			- Serious fraternity-related assault is occurring 
+			- Serious fraternity-related [assault is occurring](https://www.mercurynews.com/2021/10/04/santa-clara-university-students-demand-action-from-school-after-multiple-sexual-assault-allegations/amp/), wrt these events, the administration took a "my word versus yours" position. They claimed incidents were not happening because reports were not being made. 
+
+				- [Another article](https://www.ktvu.com/news/sexual-assaults-go-largely-unreported-santa-clara-university-and-students-talk-disparity-in-numbers)
+
+				- [Reddit](https://www.reddit.com/r/SCU/comments/12snkpf/how_bad_is_sexual_assault_at_scu/)
+
+				- [Reddit2](https://www.reddit.com/r/SCU/comments/17yppxz/give_it_to_me_straight_how_is_scu_i_need_the_real/)
+
+				- "If you like drinking all day, being a dick, getting hazed, and trying to force girls to fornicate, scu greek life is for you." [Reddit](https://www.reddit.com/r/SCU/comments/el64lo/greek_life_reputation/)
 
 			- They are not under Clery jurisdiction 
 
