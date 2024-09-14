@@ -97,8 +97,11 @@ updated: true
 
 	- [UCLA annual report](https://ucla.app.box.com/s/eyri3lej5htfl7uwkv7huhp9o8y3revo) vs. [UCLA Clery Report](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act)
 
+		- Clery jurisdiction off-campus only includes campus-affiliated properties. In UCLA's case, this includes the fraternities and sororities. [site](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act/campus-security-authorities-csa)
+
 	- [SCU no annual report](https://www.scu.edu/title-ix/about/documents/) yet they have [problems](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/) that are not accounted for in the [SCU Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2023-Main-Campus-ASR-Final.pdf)
 
+		- SCU dissociated all fraternities and sororities years ago. They *do not fall* under Clery jurisdiction 
 
 - For *both* Title IX and Title VI, *in the training*, they need to be *promoting a culture of reporting and safety*
 
