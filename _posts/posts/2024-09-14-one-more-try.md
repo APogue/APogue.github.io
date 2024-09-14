@@ -72,18 +72,15 @@ updated: true
 
 		- SCU dissociated completely from its [fraternity and sorority system](https://dh.scu.edu/exhibits/exhibits/show/greeklifescu), yet still, today, "with six Fraternities and five Sororities, more than twenty-five percent of Santa Clara students are involved in Greek life."
 
-			- Serious fraternity-related [assault is occurring](https://www.mercurynews.com/2021/10/04/santa-clara-university-students-demand-action-from-school-after-multiple-sexual-assault-allegations/amp/), wrt these events, the administration took a "my word versus yours" position. They claimed incidents were not happening because reports were not being made. 
+			- Serious fraternity-related [assault is occurring](https://www.mercurynews.com/2021/10/04/santa-clara-university-students-demand-action-from-school-after-multiple-sexual-assault-allegations/amp/). Wrt these events, the administration took a "my word versus yours" position. They claimed incidents were not happening because reports were not being made. 
 
-				- [Another article](https://www.ktvu.com/news/sexual-assaults-go-largely-unreported-santa-clara-university-and-students-talk-disparity-in-numbers)
-
-				- [Reddit](https://www.reddit.com/r/SCU/comments/12snkpf/how_bad_is_sexual_assault_at_scu/)
-
-				- [Reddit2](https://www.reddit.com/r/SCU/comments/17yppxz/give_it_to_me_straight_how_is_scu_i_need_the_real/)
-
-				- "If you like drinking all day, being a dick, getting hazed, and trying to force girls to fornicate, scu greek life is for you." [Reddit](https://www.reddit.com/r/SCU/comments/el64lo/greek_life_reputation/)
-
+				- [Another article](https://www.ktvu.com/news/sexual-assaults-go-largely-unreported-santa-clara-university-and-students-talk-disparity-in-numbers), [Reddit](https://www.reddit.com/r/SCU/comments/12snkpf/how_bad_is_sexual_assault_at_scu/), [Reddit2](https://www.reddit.com/r/SCU/comments/17yppxz/give_it_to_me_straight_how_is_scu_i_need_the_real/), [Reddit3](https://www.reddit.com/r/SCU/comments/el64lo/greek_life_reputation/), "If you like drinking all day, being a dick, getting hazed, and trying to force girls to fornicate, scu greek life is for you." 
+			
 			- They are not under Clery jurisdiction 
 
 			- It is moot because reporting culture is said to be "poor" at SCU
 
 			- They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
+
+
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
