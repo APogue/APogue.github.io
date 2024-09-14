@@ -81,19 +81,23 @@ updated: true
 
 			- Knowing reflexively about the Title IX coordinator can help reduce other barriers
 
+			- GW has an outstanding [Title IX website](https://titleix.gwu.edu/), it makes the UC website look really bad
+
 		- There's anxiety about possible outcomes 
 
 			- The goal should be to encourage people, if nothing else, to just submit a report 
-
-				- The Clery Reporting system is useless if incidents are not reported
-
-					- SCU article vs their Clery Report
 
 				- It should be clear to students first and foremost that an arrest does not have to be made and a Title IX investigation does not need to be initiated
 
 					- Beyond this step, they should trust that the grievance process is discrete and fair 
 
+- Annual Title IX report vs the Clery Report
 
+	- [GW annual report](https://titleix.gwu.edu/title-ix-office-annual-reports) vs. [GW Clery Report](https://police.gwu.edu/annual-security-fire-safety-report)
+
+	- [UCLA annual report](https://ucla.app.box.com/s/eyri3lej5htfl7uwkv7huhp9o8y3revo) vs. [UCLA Clery Report](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act)
+
+	- [SCU no annual report](https://www.scu.edu/title-ix/about/documents/) yet they have [problems](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/) that are not accounted for in the [SCU Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2023-Main-Campus-ASR-Final.pdf)
 
 
 - For *both* Title IX and Title VI, *in the training*, they need to be *promoting a culture of reporting and safety*
@@ -105,6 +109,10 @@ updated: true
 		- SaVE website---"Most higher education institutions—including community colleges and vocational schools—must educate students, faculty, and staff on the prevention of rape, acquaintance rape, domestic violence, dating violence, sexual assault, and stalking."
 
 		- Reference the SaVE document training list
+
+		- According to the [AAU survey](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/Campus-Safety/Revised%20Aggregate%20report%20%20and%20appendices%201-7_(01-16-2020_FINAL).pdf), between 2015 and 2019 students had a better understanding of "the definition of sexual assault and other sexual misconduct, where there were increases
+		of 11.5 percentage points for undergraduate women and 12.4 percentage points for
+		undergraduate men."
 
 		- Add a Title IX Module
 
@@ -121,6 +129,10 @@ updated: true
 		- 21 school statistics
 	
 	- But it does not *proactively address* sexual harassment & sexual harassment is one among several protections afforded by Title IX that are not covered by Campus SaVE (it did address quid pro quo harassment).
+
+		- "Sexual harassment refers to behaviors with sexual connotations that interfered with an individual’s
+	academic or professional performance, limited the individual’s ability to participate in an academic
+	program, or created an intimidating, hostile, or offensive social, academic, or work environment." (AAU Climate Survey)
 	
 		- Gender discrimination 
 	
@@ -171,6 +183,6 @@ updated: true
 
 - Why is there a stigma in talking about SVSH? Why don't we know how pervasive SVSH is? Why aren't students surveyed? 
 
-		- How can anyone have any idea if the number of reports coming in reflects a working loop without surveying the students? Is this not a concern for the well-being of the students? 
+	- How can anyone have any idea if the number of reports coming in reflects a working loop without surveying the students? Is this not a concern for the well-being of the students? 
 
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

@@ -288,6 +288,8 @@ updated: true
 	- "The most important reason women gave for not contacting a program was she could handle it herself (20.0%); the victim did not think the incident was serious enough to merit seeking help (16.8%); or that the victim felt
 	embarrassed, ashamed or that it would be too emotionally difficult to seek assistance (15.9%)."
 
+	- [Study methodology (2015)](https://assessmentresearch.arizona.edu/sites/default/files/2021-08/aau-campus-climate-survey-on-sexual-assult-and-misconduct.pdf)
+
 
 
 - [Sexual Harassment, IPV, stalking](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/Campus-Safety/Revised%20Aggregate%20report%20%20and%20appendices%201-7_(01-16-2020_FINAL).pdf)
