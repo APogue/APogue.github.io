@@ -44,13 +44,13 @@ updated: true
 
 	- The loop 
 
-		- 1. Publication of notification 
+		1. Publication of notification 
 
-		- 2. Literacy wrt rights means two things. They need to be able to recognize when situations arise--- 1. for prevention measures or 2. for reporting purposes
+		2. Literacy wrt rights means two things. They need to be able to recognize when situations arise--- 1. for prevention measures or 2. for reporting purposes
 
-		- 3. Know who to report to 
+		3. Know who to report to 
 
-		- 4. Trust the reporting system
+		4. Trust the reporting system
 
 - But there are ongoing issues wrt Title IX, describe them here
 
@@ -58,8 +58,8 @@ updated: true
 
 		- 21 school survey
 
-	- No one is reporting, there are several barriers to reporting
-
+	- No one is reporting
+	
 		- Incident statistics vs reporting statistics 
 
 		- What are the barriers
@@ -92,3 +92,6 @@ updated: true
 	- Why is there a stigma in talking about SVSH? Why don't we know how pervasive SVSH is? Why aren't students surveyed? 
 
 		- How can anyone have any idea if the number of reports coming in reflects a working loop without surveying the students? Is this not a concern for the well-being of the students? 
+
+
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
