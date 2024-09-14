@@ -80,6 +80,10 @@ updated: true
 
 			- It is moot because reporting culture is said to be "poor" at SCU
 
+				- Off the record from a current student---one fraternity at SCU has a policy for handling assault internally. Where they ask girls to list assault in an "accountability book" so they can hold brothers accountable themselves, with the worst repercussions being expulsion from the frat; no school or police involvement whatsoever. This was apparently the idea of the new frat president after the previous frat president was expelled from the frat for assault. 
+
+				- There are no means for proving this from online sources. I can only quote a website saying "people don't report at SCU"
+
 			- They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
 
 
