@@ -203,7 +203,7 @@ Notes to campus from STIXO:
 
 	- Notify law enforcement 
 
-- Optional reading (click and read through---if you don't expand the window then you can't click the next button)
+- Optional reading (click and read through---if you don't expand the window then you can't click the next button), [Link](https://github.com/APogue/APogue.github.io/tree/main/images/UCLA_Title_IX_Training)
 
 	- Types of employees
 
@@ -273,7 +273,7 @@ University employees have responsibilities to report sexual violence and sexual 
 
 ### Final Assessment 
 
-- Link to assessment
+- [Link to assessment](https://github.com/APogue/APogue.github.io/tree/main/images/UCLA_Title_IX_Training/Final_Assessment)
 
 
 
