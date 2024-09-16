@@ -182,6 +182,8 @@ updated: true
 
 - Not enough coverage, and not covered in appropriate context 
 
+	- Sexual harassment training is voluntary(?)
+
 	- Undue burden
 
 	- Training is "out of place with SV, IPV, and stalking"
