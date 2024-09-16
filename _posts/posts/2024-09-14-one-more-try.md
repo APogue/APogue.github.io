@@ -19,11 +19,11 @@ updated: true
 
 - Clery training requirements
 
-	- requires "recognition" ie literacy
+	- Requires "recognition" i.e. introduce the concept of literacy
 
 - Title IX posting requirements
 
-	- key elements
+	- Key Elements
 
 - Both of the above require that the student be trained or notified *at least* once
 
@@ -43,11 +43,13 @@ updated: true
 
 	- SCU dissociated completely from its [fraternity and sorority system](https://dh.scu.edu/exhibits/exhibits/show/greeklifescu), yet still, today, "with six Fraternities and five Sororities, more than twenty-five percent of Santa Clara students are involved in Greek life."
 
+		- Greek life is the de facto social scene at SCU. This means SCU *relies* on the Greek system to attract students. They want to have their cake and eat it too.
+
 		- Serious fraternity-related [assault is occurring](https://www.mercurynews.com/2021/10/04/santa-clara-university-students-demand-action-from-school-after-multiple-sexual-assault-allegations/amp/). Wrt these events, the administration took a "my word versus yours" position. They claimed incidents were not happening because reports were not being made. 
 
 			- [Another article](https://www.ktvu.com/news/sexual-assaults-go-largely-unreported-santa-clara-university-and-students-talk-disparity-in-numbers), [Reddit](https://www.reddit.com/r/SCU/comments/12snkpf/how_bad_is_sexual_assault_at_scu/), [Reddit2](https://www.reddit.com/r/SCU/comments/17yppxz/give_it_to_me_straight_how_is_scu_i_need_the_real/), [Reddit3](https://www.reddit.com/r/SCU/comments/el64lo/greek_life_reputation/), "If you like drinking all day, being a dick, getting hazed, and trying to force girls to fornicate, scu greek life is for you." 
 			
-		- They are not under Clery jurisdiction 
+		- The dissociation means Greek life at SCU is not under Clery jurisdiction 
 
 		- It is moot because reporting culture is said to be "poor" at SCU
 
@@ -55,7 +57,7 @@ updated: true
 
 			- There are no means for proving this from online sources. I can only quote a website saying "people don't report at SCU"
 
-		- They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
+		- They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
 
 
 ### Students are not reporting in general
@@ -67,8 +69,6 @@ updated: true
 - But students are not reporting 
 
 	- AAU survey shows about 1/3 of students report incidents
-
-	- AAU survey shows students are less likely to report after their freshman year
 
 	- AAU survey only shows a slight improvement in reporting awareness
 
@@ -82,10 +82,14 @@ updated: true
 
 		- A posting requirement wrt Title IX Coordinators may be insufficient 
 
+			- Posting does not mean literacy. There is no mandate for Title IX Coordinator awareness in training. There is nothing to stop the Title IX Coordinator info from being buried in legal documents and school policy. 
+
 
 ### A single training and notification session is not sufficient 
 
-- Elements like the "forgetting curve" or misalignment with "learning styles" can affect information retention
+- AAU survey shows students are less likely to report after their freshman year
+
+- Elements like the "forgetting curve" or misalignment with "learning styles" can affect comprehension and information retention
 
 - There is an undue burden on the student to expect them to learn the entire training in one session, and to expect them to identify important information like the Title IX Coordinator in the first session
 
@@ -101,20 +105,17 @@ updated: true
 
 	- A friend has experienced assault
 
-	- The person themselves have come close to or experienced some degree of assault themselves
+	- The person themselves has come close to or experienced some degree of assault themselves
 
 	- The student has heard rumors about SVSH issues occurring at some social event 
 
 - Therefor, one training session *is not sufficient*
 
-	- Most schools do not require annual training, e.g. UCLA is *the only* UC campus to require annual training
+	- Most schools do not require annual training, e.g. UCLA is *the only* UC campus to require annual undergraduate training
 
 	- A student may not be an interested party until *after* the first training session 
 
-	- If they, like me, did not pay attention during the first training, they are not equipped to handle SVSH
-
-
-
+		- If they are trained only once, then they are not equipped to recognize SVSH and they are not equipped to report it
 
 ### Background Title IX
 
