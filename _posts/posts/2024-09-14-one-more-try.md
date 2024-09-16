@@ -6,9 +6,16 @@ author: Alexie Pogue
 date: 2024-09-16 11:00 AM
 updated: true
 ---
+### Define Title IX
+
+- Definition 
+
+- Final Rule
 
 
 ### Title IX training
+
+- Introduce Campus SaVE
 
 - Clery training requirements
 
@@ -80,6 +87,8 @@ updated: true
 
 - Elements like the "forgetting curve" or misalignment with "learning styles" can affect information retention
 
+- There is an undue burden on the student to expect them to learn the entire training in one session, and to expect them to identify important information like the Title IX Coordinator in the first session
+
 - Personally I know one who is rushing can come out of the training having learned basically nothing 
 
 	- I am not at risk 
@@ -98,6 +107,8 @@ updated: true
 
 - Therefor, one training session *is not sufficient*
 
+	- Most schools do not require annual training, e.g. UCLA is *the only* UC campus to require annual training
+
 	- A student may not be an interested party until *after* the first training session 
 
 	- If they, like me, did not pay attention during the first training, they are not equipped to handle SVSH
@@ -105,20 +116,50 @@ updated: true
 
 
 
+### Background Title IX
+
+- History 
+
+- Differences historically between Title IX and Title VI
 
 
+### Define Title VI
 
+- Definition 
 
+- Years amended vs. Title IX
 
+- Differences in enforcement vs. Title IX
 
+	- Reactive not proactive
 
+- Non-existent reporting loop
 
+	- There is no way to know how pervasive some Title VI issues are 
 
+### Title VI has a demonstrated need for 
 
+- notification 
 
+- publication of notification 
 
+- coordinator
 
-### Title IX still has a demonstrated need for *academic* and *on-campus* training scenarios 
+- at least one *mandatory* training scenario
+
+	- safety 
+
+	- de-escalation 
+
+	- bystander intervention 
+
+	- hostile environment discrimination
+
+	- bias---both institutional and organizational 
+
+	- reporting
+
+### Title IX still has a similar need for *academic* and *on-campus* training scenarios 
 
 - There is a gap with respect to on-campus issues that are covered by Title IX
 
@@ -136,8 +177,11 @@ updated: true
 
 - Not enough coverage, and not covered in appropriate context 
 
+	- Undue burden
+
 	- Training is "out of place with SV, IPV, and stalking"
 
+	- It is confusing to mix social scenarios with academic scenarios, this does not promote professionalism in the classroom 
 
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
