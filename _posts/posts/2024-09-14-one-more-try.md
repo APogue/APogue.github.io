@@ -134,6 +134,10 @@ updated: true
 
 	- Reactive not proactive
 
+		- Case law is not comprehensive enough (the latest UCLA lawsuit is an example)
+
+		- OCR is comprehensive, but they are over-burdened, behind, and issues persist even with involvement
+
 - Non-existent reporting loop
 
 	- There is no way to know how pervasive some Title VI issues are 
