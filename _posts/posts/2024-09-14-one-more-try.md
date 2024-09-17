@@ -123,7 +123,7 @@ updated: true
 
 - History relevant SVSH
 
-	- The evolution of more granular regulations over time is moot if an ever more perfect system is effectively “out of reach” of the students. Training is the necessary connection between the students and this system.
+	- The evolution of more granular regulations over time is moot if an ever more perfect system is effectively “out of reach” of the students. Annual training is the necessary connection between the students and this system.
 
 - History relevant Title VI
 
