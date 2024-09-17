@@ -1,174 +1,201 @@
-body {
+/* Reset some default browser styles for consistency */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ensure the html and body elements take up the full height */
+html, body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    background-color: #d3d3d3;
+    color: #111;
+}
+
+/* Body Padding */
+body {
     padding: 20px;
-
 }
+
+/* Header Styling */
 header {
-    background-color: #f8f9fa; /* Light grey background */
-    padding: 10px 0; /* Top and bottom padding */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Adds a subtle shadow */
-    text-align: center; /* Ensures the title is centered */
-}
 
-h1 {
-    margin: 0;
-    color: #333; /* Dark grey color for the text */
-}
-
-/* Media Query for Mobile Devices */
-@media (max-width: 767px) {
-    h1 {
-        font-size: 18px; /* Fixed font size for mobile */ /* Fixed font size for mobile */
-    }
-}
-
-footer {
-    background-color: #f8f9fa;
-    padding: 10px 20px;
-    text-align: center;
-}
-
-main {
-    margin-top: 20px;
-	max-width: 1200px;
-	margin: 0px auto 0 auto; /* Center the container and move it up */
-	text-align: left;
-}
-
-
-main h1 {
-    text-align: center; /* Centers only the h1 title */
-}
-
-main p {
-    text-align: center; /* Left-aligns paragraphs */
-}
-
-
-/* Navigation */
-nav {
+    padding: 20px 0;
+    text-align: left;
     position: relative;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    padding: 10px 20px;
-    background: #f8f9fa;
 }
 
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+/* Navigation Styling */
+nav {
+
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* Move hamburger to the right */
+    position: relative;
+}
+
+/* Hamburger Menu Styling */
 .hamburger-menu {
-    display: block;
     font-size: 1.5em;
     cursor: pointer;
-    color: #333;
+    color:  #111;
 }
 
+/* Dropdown Menu Styling */
 .nav-links {
     list-style: none;
-    display: none;
     flex-direction: column;
-    background: #f8f9fa;
+    width: 200px; /* Set a smaller width */
+    display: none; /* Hidden by default */
+    background: #d3d3d3;
     position: absolute;
-    top: 50px;
-    right: 0;
-    width: 200px;
+    top: 100%; /* Position below the nav bar */
+    right: 0; /* Align to the right under the hamburger menu */
     padding: 10px;
+    margin: 0;
 }
 
+/* Show the nav links when active */
 .nav-links.active {
     display: flex;
 }
 
-.nav-links li {
-    margin-bottom: 10px;
-}
-
+/* Nav Link Items Styling */
 .nav-links li a {
-    color:#333;
+    color: #111; /* Changed to white for better visibility */
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+    font-weight: bold;
 }
 
-.close-menu {
-    align-self: flex-end;
-    font-size: 1.5em;
-    cursor: pointer;
-    color: #fff;
-    margin-bottom: 10px;
+/* Hover Effect for Links */
+.nav-links li a:hover {
+    color: #adb5bd; /* Lighter gray on hover */
+}
+/* Hide Close Menu Icon */
+.nav-links .close-menu {
+    display: none;
 }
 
+/* Main Content Styling */
+main {
+    max-width: 1200px;
+    margin: 20px 20px;
+    padding: 0 20px;
+    flex: 1;
+    list-style: none;
+}
 
+main h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+main p {
+    margin-bottom: 15px;
+    text-align: left;
+    list-style: none;
+}
+
+/* Footer Styling */
+footer {
+
+    padding: 20px;
+    text-align: center;
+    color: #111;
+}
+
+/* Figure and Image Styling */
 figure {
-    max-width: 100%; /* Matches the image width, or can be set to 100% if you prefer it to be responsive */
-    margin: auto; /* Centers the figure */
-    text-align: center; /* Centers the text caption */
+    max-width: 100%;
+    margin: 100px auto;
+    text-align: center;
 }
 
 figcaption {
-    color: #666; /* Grey text color for the caption */
-    font-style: italic; /* Italicize the caption text */
+    color: #666;
+    font-style: italic;
+    margin-top: 10px;
 }
 
 .centered-image {
     display: block;
     margin: auto;
-    max-width: 100%; /* Responsive, or you can set a fixed max-width like 300px */
+    max-width: 100%;
+    height: auto;
 }
 
 .image-column {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: flex-start; /* Align items at the start of the flex line */
-	margin-bottom: 20px; /* Add space to the bottom of each image */
+    align-items: flex-start;
+    margin-bottom: 20px;
 }
 
 .image-column img {
-     /* Adjust width for spacing and preference */
-	width: auto;
-	height: auto; 
-	max-width: 100%;
-	max-height: 100%; 
-	margin-bottom: 20px; /
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
-
+.blog-list,
+.blog-list li {
+    list-style: none; /* Remove default list styles */
+    margin: 0;
+    padding: 0;
+}
+/* Blog List Styling */
 .blog-list a {
-    color: #333; /* Dark gray color for the text */
-    font-weight: bold; /* Makes the text bold */
-    text-decoration: none; /* Removes the underline from links */
-    font-size: 18px; /* Sets a larger font size for visibility */
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
 }
 
 .blog-list a:hover {
-    color: #0056b3; /* Changes color on hover for a visual effect */
-    text-decoration: underline; /* Adds an underline on hover */
+    color: #adb5bd;
 }
 
-/* Custom styles for specific headers */
+/* Custom Section Header */
 h2.custom-section-header {
     font-size: 1.5em;
-    color: 2px solid #666666; /* Lighter grey color */
+    color: #333;
+    border-bottom: 2px solid #666;
+    padding-bottom: 5px;
     margin-top: 20px;
-    border-bottom: 2px solid #666666;
-    text-align: left; /* Custom alignment if needed */
+    text-align: left;
 }
 
-/* Ensure the html and body elements take up the full height */
-html, body {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
+.contact-list {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;            /* Remove default padding */
+    margin: 0;             /* Remove default margin */
 }
 
-/* Main content should take up all available space */
-main {
-    flex: 1;
+.contact-list li {
+    margin-bottom: 5px;   /* Add spacing between list items */
 }
 
-/* Footer should stay at the bottom */
-footer {
-    text-align: center;
-    padding: 1em 0;
-    background-color: #f8f8f8;
+.contact-list a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit;        /* Inherit text color */
+}
+
+.contact-list a:hover {
+    text-decoration: underline; /* Optional: Add underline on hover */
 }

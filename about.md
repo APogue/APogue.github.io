@@ -13,14 +13,14 @@ Ended up at San Diego Mesa Community College 2008-2010 (a bunch of Associate’s
 I go by she/her, I'm a second generation American---My dad came from Canada to get his Ph.D. and my Mom from Vietnam for her B.A., M.A.
 
 I went to: San Diego Mesa Community College 2008-2010 (a bunch of Associate’s degrees), University of California San Diego 2010-2013 
-(B.S. Chemical Engineering), University of California Los Angeles 2014 – present (M.S. Mechanical Engineering 2016, Ph.D. Candidate 2018)
+(B.S. Chemical Engineering), University of California Los Angeles 2014 – 2024 (M.S. Mechanical Engineering 2016, Ph.D. Candidate 2018)
 
 
 **The Basics**
 
 My writing is “homegrown”—I don’t use chatbots for anything but formatting. I do this with intention and will elaborate further in my blog posts. 
 
-I’m a “first principles” thinker, organically not deliberately. I came to notice that about myself and recently decided to embrace the formal definition and be conscious of it as I go.
+I’m a “first principles” thinker, organically not deliberately. I came to notice that about myself and recently decided to embrace it and be conscious of it as I go.
 
 **The Turning Point**
 
@@ -43,4 +43,4 @@ I'm interested in the intersection of policy and tech; specifically, how AI will
 
 **My Interests**
 
-I'm a lifelong learner, I might consider learning together with people "quality time". I love comedy, poetry, and basketball. I'd love to get into some DIY projects if I ever have the time... Does this website count? 😎
+I'm a lifelong learner, I might consider learning together with people "quality time." I love comedy, poetry, and basketball. I'd love to get into some DIY projects if I ever have time... Does this website count? 😎
