@@ -12,6 +12,7 @@
     <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
+    <div class="container">
     <header>
         <h1>{{ site.title }}</h1>
         <nav>
@@ -36,7 +37,7 @@
     <main>
         {{ content }}
     </main>
-
+    </div>
     <footer>
         <p>© {{ 'now' | date: "%Y" }} Alexie's Website - Site in Beta</p>
     </footer>
@@ -61,5 +62,6 @@
         });
     });
 </script>
+
 </body>
 </html>

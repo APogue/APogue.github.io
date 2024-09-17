@@ -1,4 +1,5 @@
 /* Reset some default browser styles for consistency */
+/* Reset default margins and paddings */
 * {
     margin: 0;
     padding: 0;
@@ -8,17 +9,24 @@
 /* Ensure the html and body elements take up the full height */
 html, body {
     height: 100%;
+    margin: 0;
+}
+
+/* Body Styling */
+body {
+    min-height: 100vh; /* Ensures the body is at least the height of the viewport */
     display: flex;
     flex-direction: column;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #d3d3d3;
+    background-color: #d3d3d3; /* Light gray background */
     color: #111;
 }
 
-/* Body Padding */
-body {
-    padding: 20px;
+/* Container for content with padding */
+.container {
+    flex: 1; /* Allows the container to grow and fill available space */
+    padding: 20px; /* Applies padding inside the container */
 }
 
 /* Header Styling */
