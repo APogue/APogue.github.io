@@ -127,6 +127,7 @@ footer {
 /* Figure and Image Styling */
 figure {
     max-width: 100%;
+    height: auto;
     margin: 100px auto;
     text-align: center;
 }
