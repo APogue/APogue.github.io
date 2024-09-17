@@ -12,7 +12,6 @@ updated: true
 
 - Final Rule
 
-
 ### Title IX training
 
 - Introduce Campus SaVE
@@ -58,6 +57,8 @@ updated: true
 			- There are no means for proving this from online sources. I can only quote a website saying "people don't report at SCU"
 
 		- They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
+
+		- They have zero Title IX cases pending with OCR, last 2 resolution letters are from 2017 and 2018 (Title II and Title VI/XI)
 
 
 ### Students are not reporting in general
