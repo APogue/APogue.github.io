@@ -118,12 +118,16 @@ updated: true
 
 		- If they are trained only once, then they are not equipped to recognize SVSH and they are not equipped to report it
 
+	- The evolution of more granular regulations over time is moot if an ever more perfect system is effectively “out of reach” of the students. Training is the necessary connection between the students and this system.
+
+
 ### Background Title IX
 
 - History 
 
 - Differences historically between Title IX and Title VI
 
+- Despite differences, Congressional Research Service says, "much of the doctrine under the statute has been shaped by its use in the public schools."
 
 ### Define Title VI
 
