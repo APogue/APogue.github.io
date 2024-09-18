@@ -54,17 +54,17 @@
             <div class="container">
                 <h1>{{ site.title }}</h1>
                 <nav>
-                    <div class="hamburger-menu">
-                        <i class="fas fa-bars"></i>
-                    </div>
-                    <ul class="nav-links">
-                        <li class="close-menu"><i class="fas fa-times"></i></li>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/projects">Projects</a></li>
-                        <li><a href="/blog">Blog</a></li>
-                        <li><a href="/contact">Contact</a></li>
-                    </ul>
+                  <div class="hamburger-menu">
+                    <i class="fas fa-bars"></i>
+                  </div>
+                  <ul class="nav-links">
+                    <li class="close-menu"><i class="fas fa-times"></i></li>
+                    {% for item in site.data.navigation %}
+                      <li{% if page.url == item.url %} class="active"{% endif %}>
+                        <a href="{{ item.url }}">{{ item.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
                 </nav>
                 <div class="title-bar-container">
                     <div class="title-bar">
@@ -85,41 +85,41 @@
                 <p>© {{ 'now' | date: "%Y" }} Alexie's Website - Site in Beta</p>
             </div> 
         </footer>
-
-
     <script>
     // Wrap your code in an IIFE to avoid global variables
-    (function() {
-        const navLinks = document.querySelector('.nav-links');
-        const hamburgerMenu = document.querySelector('.hamburger-menu');
-        const closeMenu = document.querySelector('.close-menu');
+        (function() {
+      const navLinks = document.querySelector('.nav-links');
+      const hamburgerMenu = document.querySelector('.hamburger-menu');
+      const closeMenu = document.querySelector('.close-menu');
+      const navLinkItems = navLinks.querySelectorAll('a');
 
-        // Toggle the 'active' class on the nav-links when the hamburger menu is clicked
-        hamburgerMenu.addEventListener('click', function(event) {
-            navLinks.classList.toggle('active');
-            event.stopPropagation(); // Prevent the click event from bubbling up
-        });
+      function closeNavMenu() {
+        navLinks.classList.remove('active');
+      }
 
-        // Remove the 'active' class when the close menu icon is clicked
-        closeMenu.addEventListener('click', function(event) {
-            navLinks.classList.remove('active');
-            event.stopPropagation(); // Prevent the click event from bubbling up
-        });
+      hamburgerMenu.addEventListener('click', function(event) {
+        navLinks.classList.toggle('active');
+        event.stopPropagation();
+      });
 
-        // Close the menu when clicking outside of it
-        document.addEventListener('click', function() {
-            navLinks.classList.remove('active');
-        });
+      closeMenu.addEventListener('click', function(event) {
+        closeNavMenu();
+        event.stopPropagation();
+      });
 
-        // Optional: Close the menu when a navigation link is clicked
-        const navLinkItems = document.querySelectorAll('.nav-links a');
-        navLinkItems.forEach(function(link) {
-            link.addEventListener('click', function(event) {
-                navLinks.classList.remove('active');
-                // No need to stop propagation here
-            });
+      navLinkItems.forEach(function(link) {
+        link.addEventListener('click', function() {
+          closeNavMenu();
         });
+      });
+
+      document.addEventListener('click', function(event) {
+        if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
+          closeNavMenu();
+        }
+      });
     })();
+
 </script>
     </div>
 </body>
