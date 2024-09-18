@@ -86,38 +86,83 @@
         </footer>
 
 
-    <script>
-    // Wrap your code in an IIFE to avoid global variables
+   <script>
     (function() {
         const navLinks = document.querySelector('.nav-links');
         const hamburgerMenu = document.querySelector('.hamburger-menu');
         const closeMenu = document.querySelector('.close-menu');
-
-        // Toggle the 'active' class on the nav-links when the hamburger menu is clicked
-        hamburgerMenu.addEventListener('click', function(event) {
-            navLinks.classList.toggle('active');
-            event.stopPropagation(); // Prevent the click event from bubbling up
-        });
-
-        // Remove the 'active' class when the close menu icon is clicked
-        closeMenu.addEventListener('click', function(event) {
-            navLinks.classList.remove('active');
-            event.stopPropagation(); // Prevent the click event from bubbling up
-        });
-
-        // Close the menu when clicking outside of it
-        document.addEventListener('click', function() {
-            navLinks.classList.remove('active');
-        });
-
-        // Optional: Close the menu when a navigation link is clicked
         const navLinkItems = document.querySelectorAll('.nav-links a');
-        navLinkItems.forEach(function(link) {
-            link.addEventListener('click', function(event) {
-                navLinks.classList.remove('active');
-                // No need to stop propagation here
+
+        // Function to close the menu
+        function closeNavMenu() {
+            navLinks.classList.remove('active');
+        }
+
+        // Event Handlers
+        function onHamburgerClick(event) {
+            navLinks.classList.toggle('active');
+            event.stopPropagation();
+        }
+
+        function onCloseMenuClick(event) {
+            closeNavMenu();
+            event.stopPropagation();
+        }
+
+        function onNavLinkClick(event) {
+            closeNavMenu();
+            // No need to stop propagation
+        }
+
+        function onDocumentClick(event) {
+            if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
+                closeNavMenu();
+            }
+        }
+
+        // Attach Event Listeners
+        function attachEventListeners() {
+            hamburgerMenu.addEventListener('click', onHamburgerClick);
+            closeMenu.addEventListener('click', onCloseMenuClick);
+            navLinkItems.forEach(function(link) {
+                link.addEventListener('click', onNavLinkClick);
             });
+            document.addEventListener('click', onDocumentClick);
+        }
+
+        // Remove Event Listeners
+        function removeEventListeners() {
+            hamburgerMenu.removeEventListener('click', onHamburgerClick);
+            closeMenu.removeEventListener('click', onCloseMenuClick);
+            navLinkItems.forEach(function(link) {
+                link.removeEventListener('click', onNavLinkClick);
+            });
+            document.removeEventListener('click', onDocumentClick);
+        }
+
+        // Initialize Menu
+        function initializeMenu() {
+            // Close the menu in case it's open
+            closeNavMenu();
+            // Attach event listeners
+            attachEventListeners();
+        }
+
+        // Handle BFCache restoration
+        window.addEventListener('pageshow', function(event) {
+            if (event.persisted) {
+                // The page was restored from BFCache
+                initializeMenu();
+            }
         });
+
+        // Clean up event listeners on page hide
+        window.addEventListener('pagehide', function() {
+            removeEventListeners();
+        });
+
+        // Initialize the menu when the script runs
+        initializeMenu();
     })();
 </script>
     </div>
