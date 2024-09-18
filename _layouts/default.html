@@ -85,84 +85,107 @@
             </div> 
         </footer>
 
-        <script>
-        (function() {
-            // Variables
-            let navLinks = document.querySelector('.nav-links');
-            let hamburgerMenu = document.querySelector('.hamburger-menu');
-            let closeMenu = document.querySelector('.close-menu');
-            // Event Handlers
-            function onHamburgerClick() {
-                navLinks.classList.toggle('active');
-            }
-            function onCloseMenuClick() {
+      <script>
+    (function() {
+        // Variables
+        let navLinks = document.querySelector('.nav-links');
+        let hamburgerMenu = document.querySelector('.hamburger-menu');
+        let closeMenu = document.querySelector('.close-menu');
+        let navLinkItems = document.querySelectorAll('.nav-links a');
+
+        // Event Handlers
+        function onHamburgerClick(event) {
+            navLinks.classList.toggle('active');
+            event.stopPropagation(); // Prevent event from bubbling up
+        }
+
+        function onCloseMenuClick(event) {
+            navLinks.classList.remove('active');
+            event.stopPropagation(); // Prevent event from bubbling up
+        }
+
+        function onNavLinkClick(event) {
+            // Optionally, you can remove the 'active' class if you want the menu to close upon navigation
+            navLinks.classList.remove('active');
+            // No need to stop propagation here if you want 'onDocumentClick' not to interfere
+            // But we can prevent 'onDocumentClick' from executing
+            event.stopPropagation();
+        }
+
+        function onDocumentClick(event) {
+            if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
                 navLinks.classList.remove('active');
             }
-            function onDocumentClick(event) {
-                if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
-                    navLinks.classList.remove('active');
-                }
+        }
+
+        // Attach Event Listeners
+        hamburgerMenu.addEventListener('click', onHamburgerClick);
+        closeMenu.addEventListener('click', onCloseMenuClick);
+        navLinkItems.forEach(function(link) {
+            link.addEventListener('click', onNavLinkClick);
+        });
+        document.addEventListener('click', onDocumentClick);
+
+        // Clean Up Event Listeners on Page Hide
+        window.addEventListener('pagehide', function() {
+            hamburgerMenu.removeEventListener('click', onHamburgerClick);
+            closeMenu.removeEventListener('click', onCloseMenuClick);
+            navLinkItems.forEach(function(link) {
+                link.removeEventListener('click', onNavLinkClick);
+            });
+            document.removeEventListener('click', onDocumentClick);
+        });
+    })();
+
+    // Diagnostic script remains the same
+    (function() {
+        const navTimings = [];
+        const navLinks = document.querySelectorAll('.nav-links a');
+        
+        // Create debug div for mobile devices
+        const debugDiv = document.createElement('div');
+        debugDiv.style.position = 'fixed';
+        debugDiv.style.bottom = '0';
+        debugDiv.style.left = '0';
+        debugDiv.style.right = '0';
+        debugDiv.style.background = 'rgba(0,0,0,0.7)';
+        debugDiv.style.color = 'white';
+        debugDiv.style.padding = '10px';
+        debugDiv.style.fontSize = '12px';
+        debugDiv.style.zIndex = '9999';
+        document.body.appendChild(debugDiv);
+
+        function log(message) {
+            console.log(message);
+            debugDiv.innerHTML += `${message}<br>`;
+        }
+
+        let startTime;
+
+        // Log navigation start
+        window.addEventListener('beforeunload', function() {
+            startTime = performance.now();
+            log(`Navigation started at ${new Date().toISOString()}`);
+        });
+
+        // Log navigation end
+        window.addEventListener('load', function() {
+            if (startTime) {
+                const duration = performance.now() - startTime;
+                navTimings.push(duration);
+                log(`Navigation ended. Took ${duration.toFixed(2)}ms`);
+                const avgTime = navTimings.reduce((a, b) => a + b, 0) / navTimings.length;
+                log(`Average navigation time: ${avgTime.toFixed(2)}ms`);
             }
-            // Attach Event Listeners
-            hamburgerMenu.addEventListener('click', onHamburgerClick);
-            closeMenu.addEventListener('click', onCloseMenuClick);
-            document.addEventListener('click', onDocumentClick);
-            // Clean Up Event Listeners on Page Hide
-            window.addEventListener('pagehide', function() {
-                hamburgerMenu.removeEventListener('click', onHamburgerClick);
-                closeMenu.removeEventListener('click', onCloseMenuClick);
-                document.removeEventListener('click', onDocumentClick);
-            });
-        })();
+        });
 
-        // Diagnostic script
-        (function() {
-            const navTimings = [];
-            const navLinks = document.querySelectorAll('.nav-links a');
-            
-            // Create debug div for mobile devices
-            const debugDiv = document.createElement('div');
-            debugDiv.style.position = 'fixed';
-            debugDiv.style.bottom = '0';
-            debugDiv.style.left = '0';
-            debugDiv.style.right = '0';
-            debugDiv.style.background = 'rgba(0,0,0,0.7)';
-            debugDiv.style.color = 'white';
-            debugDiv.style.padding = '10px';
-            debugDiv.style.fontSize = '12px';
-            debugDiv.style.zIndex = '9999';
-            document.body.appendChild(debugDiv);
+        // Log any errors
+        window.addEventListener('error', function(event) {
+            log(`Error: ${event.message}`);
+        });
+    })();
+</script>
 
-            function log(message) {
-                console.log(message);
-                debugDiv.innerHTML += `${message}<br>`;
-            }
-
-             let startTime;
-            
-            // Log navigation start
-            window.addEventListener('beforeunload', function() {
-                startTime = performance.now();
-                log(`Navigation started at ${new Date().toISOString()}`);
-            });
-
-            // Log navigation end
-            window.addEventListener('load', function() {
-                if (startTime) {
-                    const duration = performance.now() - startTime;
-                    navTimings.push(duration);
-                    log(`Navigation ended. Took ${duration.toFixed(2)}ms`);
-                    const avgTime = navTimings.reduce((a, b) => a + b, 0) / navTimings.length;
-                    log(`Average navigation time: ${avgTime.toFixed(2)}ms`);
-                }
-            });
-
-            // Log any errors
-            window.addEventListener('error', function(event) {
-                log(`Error: ${event.message}`);
-            });
-        })();
-    </script>
 
     </div>
 </body>
