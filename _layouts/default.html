@@ -6,27 +6,44 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <title>{{ page.title }}</title>
+    
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <!-- Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:400,700&display=swap">
+    
+    <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+
     <style>
-        body {
+        /* Ensure safe area handling and background coloring for all devices */
+        html, body {
             padding-top: env(safe-area-inset-top);
-            background-color: black; /* Or your desired background color */
+            background-color: black;
+            margin: 0;
+            height: 100%;
         }
+
         .wrapper {
-            background-color: #d3d3d3; /* Replace with your actual background color */
+            background-color: #d3d3d3;
             min-height: 100vh;
             padding-top: env(safe-area-inset-top);
-            margin-top: -env(safe-area-inset-top);
+        }
+
+        /* Mobile Navigation */
+        .nav-links {
+            display: none;
+        }
+
+        .nav-links.active {
+            display: block;
         }
     </style>
+</head>
 <body>
     <div class="wrapper">
         <header>
@@ -52,29 +69,36 @@
                 </div>
             </div>
         </header>
+
         <main>
             <div class="container">
                 {{ content }}
             </div> 
         </main>
+
         <footer>
             <div class="container">
                 <p>© {{ 'now' | date: "%Y" }} Alexie's Website - Site in Beta</p>
             </div> 
         </footer>
+
         <script>
             document.addEventListener('DOMContentLoaded', function() {
-                document.querySelector('.hamburger-menu').addEventListener('click', function() {
-                    document.querySelector('.nav-links').classList.toggle('active');
+                const navLinks = document.querySelector('.nav-links');
+                const hamburgerMenu = document.querySelector('.hamburger-menu');
+                const closeMenu = document.querySelector('.close-menu');
+                
+                hamburgerMenu.addEventListener('click', function() {
+                    navLinks.classList.toggle('active');
                 });
 
-                document.querySelector('.close-menu').addEventListener('click', function() {
-                    document.querySelector('.nav-links').classList.remove('active');
+                closeMenu.addEventListener('click', function() {
+                    navLinks.classList.remove('active');
                 });
 
                 document.addEventListener('click', function(event) {
-                    if (!document.querySelector('.nav-links').contains(event.target) && !document.querySelector('.hamburger-menu').contains(event.target)) {
-                        document.querySelector('.nav-links').classList.remove('active');
+                    if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
+                        navLinks.classList.remove('active');
                     }
                 });
             });
