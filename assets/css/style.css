@@ -102,7 +102,7 @@ nav {
 }
 /* Hide Close Menu Icon */
 .nav-links .close-menu {
-    display: none;
+   
 }
 
 /* Main Content Styling */
@@ -184,18 +184,27 @@ figcaption {
     margin: 0;
     padding: 0;
 }
+
 /* Blog List Styling */
 .blog-list a {
     color: #333;
     font-weight: bold;
     text-decoration: none;
-    list-style: none;
     font-size: 1.2em;
     transition: color 0.3s ease;
 }
 
 .blog-list a:hover {
     color: #adb5bd;
+}
+
+/* 'Posted on' Stamp */
+.post-date {
+    font-family: 'Merriweather', serif;
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 5px;
+    font-style: none;
 }
 
 .contact-list {

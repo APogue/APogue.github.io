@@ -6,6 +6,9 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+     <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:400,700&display=swap">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -13,58 +16,58 @@
 </head>
 <body>
     <div class="wrapper">
-    <header>
-        <div class="container">
-        <h1>{{ site.title }}</h1>
-        <nav>
-            <div class="hamburger-menu">
-                <i class="fas fa-bars"></i>
+        <header>
+            <div class="container">
+                <h1>{{ site.title }}</h1>
+                <nav>
+                    <div class="hamburger-menu">
+                        <i class="fas fa-bars"></i>
+                    </div>
+                    <ul class="nav-links">
+                        <li class="close-menu"><i class="fas fa-times"></i></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/blog">Blog</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </nav>
+                <div class="title-bar-container">
+                    <div class="title-bar">
+                        <h1>{{ page.title }}</h1> 
+                    </div>
+                </div>
             </div>
-            <ul class="nav-links">
-                <li class="close-menu"><i class="fas fa-times"></i></li>
-                <li><a href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/projects">Projects</a></li>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="/contact">Contact</a></li>
-            </ul>
-        </nav>
-        <div class="title-bar-container">
-            <div class="title-bar">
-                <h1>{{ page.title }}</h1> 
-            </div>
-        </div>
-        </div>
-    </header>
-    <main>
-        <div class="container">
-        {{ content }}
-       </div> 
-    </main>
-    <footer>
-        <div class="container">
-        <p>© {{ 'now' | date: "%Y" }} Alexie's Website - Site in Beta</p>
-        </div> 
-    </footer>
-	<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        document.querySelector('.hamburger-menu').addEventListener('click', function() {
-            console.log('Hamburger menu clicked');
-            document.querySelector('.nav-links').classList.toggle('active');
-        });
+        </header>
+        <main>
+            <div class="container">
+                {{ content }}
+            </div> 
+        </main>
+        <footer>
+            <div class="container">
+                <p>© {{ 'now' | date: "%Y" }} Alexie's Website - Site in Beta</p>
+            </div> 
+        </footer>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                document.querySelector('.hamburger-menu').addEventListener('click', function() {
+                    console.log('Hamburger menu clicked');
+                    document.querySelector('.nav-links').classList.toggle('active');
+                });
 
-        document.querySelector('.close-menu').addEventListener('click', function() {
-             console.log('Close menu clicked');
-            document.querySelector('.nav-links').classList.remove('active');
-        });
+                document.querySelector('.close-menu').addEventListener('click', function() {
+                    console.log('Close menu clicked');
+                    document.querySelector('.nav-links').classList.remove('active');
+                });
 
-        document.addEventListener('click', function(event) {
-            if (!document.querySelector('.nav-links').contains(event.target) && !document.querySelector('.hamburger-menu').contains(event.target)) {
-                document.querySelector('.nav-links').classList.remove('active');
-            }
-        });
-    });
-</script>
-</div>
+                document.addEventListener('click', function(event) {
+                    if (!document.querySelector('.nav-links').contains(event.target) && !document.querySelector('.hamburger-menu').contains(event.target)) {
+                        document.querySelector('.nav-links').classList.remove('active');
+                    }
+                });
+            });
+        </script>
+    </div>
 </body>
 </html>
