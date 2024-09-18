@@ -84,7 +84,7 @@ nav {
 
 /* Show the nav links when active */
 .nav-links.active {
-    display: flex;
+    display: block;
 }
 
 /* Nav Link Items Styling */
