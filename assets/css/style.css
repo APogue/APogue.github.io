@@ -23,10 +23,12 @@ body {
     color: #111;
 }
 
-/* Container for content with padding */
+/* Container Styling */
 .container {
-    flex: 1; /* Allows the container to grow and fill available space */
-    padding: 20px; /* Applies padding inside the container */
+    width: 100%;
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 20px;
 }
 
 /* Header Styling */
@@ -124,13 +126,23 @@ footer {
     color: #111;
 }
 
-/* Figure and Image Styling */
+/* Figure Styling */
 figure {
-    max-width: 100%;
-    height: auto;
-    margin: 100px auto;
+    width: 100%; /* Ensure the figure takes full available width */
+    max-width: 800px; /* Optional: set a maximum width */
+    margin: 20px auto; /* Center the figure and add vertical spacing */
     text-align: center;
 }
+
+
+/* Image Styling */
+figure img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Optional: centers the image */
+}
+
 
 figcaption {
     color: #666;
