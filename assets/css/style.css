@@ -210,11 +210,11 @@ figcaption {
 .contact-list {
     list-style-type: none; /* Remove bullet points */
     padding: 0;            /* Remove default padding */
-    margin: 0;             /* Remove default margin */
+    margin-top: 30px;             /* Remove default margin */
 }
 
 .contact-list li {
-    margin-bottom: 5px;   /* Add spacing between list items */
+    margin-bottom: 7px;   /* Add spacing between list items */
 }
 
 .contact-list a {
@@ -222,6 +222,4 @@ figcaption {
     color: inherit;        /* Inherit text color */
 }
 
-.contact-list a:hover {
-    text-decoration: underline; /* Optional: Add underline on hover */
-}
+
