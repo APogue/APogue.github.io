@@ -87,38 +87,57 @@
 
     <script>
             (function() {
-                // Variables
-                let navLinks = document.querySelector('.nav-links');
-                let hamburgerMenu = document.querySelector('.hamburger-menu');
-                let closeMenu = document.querySelector('.close-menu');
+            // Variables
+            let navLinks = document.querySelector('.nav-links');
+            let hamburgerMenu = document.querySelector('.hamburger-menu');
+            let closeMenu = document.querySelector('.close-menu');
+            let isNavigating = false;
+            let navigationTimeout;
 
-                // Event Handlers
-                function onHamburgerClick() {
-                    navLinks.classList.toggle('active');
-                }
+            // Event Handlers
+            function onHamburgerClick() {
+                navLinks.classList.toggle('active');
+            }
 
-                function onCloseMenuClick() {
+            function onCloseMenuClick() {
+                navLinks.classList.remove('active');
+            }
+
+            function onDocumentClick(event) {
+                if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
                     navLinks.classList.remove('active');
                 }
+            }
 
-                function onDocumentClick(event) {
-                    if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
-                        navLinks.classList.remove('active');
-                    }
+            function onNavLinkClick(event) {
+                if (event.target.tagName === 'A') {
+                    event.preventDefault();
+                    
+                    if (isNavigating) return;
+                    
+                    isNavigating = true;
+                    clearTimeout(navigationTimeout);
+                    
+                    navigationTimeout = setTimeout(() => {
+                        window.location.href = event.target.href;
+                    }, 300); // 300ms delay
                 }
+            }
 
-                // Attach Event Listeners
-                hamburgerMenu.addEventListener('click', onHamburgerClick);
-                closeMenu.addEventListener('click', onCloseMenuClick);
-                document.addEventListener('click', onDocumentClick);
+            // Attach Event Listeners
+            hamburgerMenu.addEventListener('click', onHamburgerClick);
+            closeMenu.addEventListener('click', onCloseMenuClick);
+            document.addEventListener('click', onDocumentClick);
+            navLinks.addEventListener('click', onNavLinkClick);
 
-                // Clean Up Event Listeners on Page Hide
-                window.addEventListener('pagehide', function() {
-                    hamburgerMenu.removeEventListener('click', onHamburgerClick);
-                    closeMenu.removeEventListener('click', onCloseMenuClick);
-                    document.removeEventListener('click', onDocumentClick);
-                });
-            })();
+            // Clean Up Event Listeners on Page Hide
+            window.addEventListener('pagehide', function() {
+                hamburgerMenu.removeEventListener('click', onHamburgerClick);
+                closeMenu.removeEventListener('click', onCloseMenuClick);
+                document.removeEventListener('click', onDocumentClick);
+                navLinks.removeEventListener('click', onNavLinkClick);
+            });
+        })();
         </script>
 
     </div>
