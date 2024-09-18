@@ -3,16 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+    <!-- Enable full-screen mode on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Set the status bar style -->
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- Set the browser theme color -->
+    <meta name="theme-color" content="#000000">
+
     <title>{{ page.title }}</title>
-    
+
     <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:400,700&display=swap">
-    
+
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -20,17 +26,41 @@
     <link rel="manifest" href="/site.webmanifest">
 
     <style>
-        /* Ensure safe area handling and background coloring for all devices */
-        html, body {
-            padding-top: env(safe-area-inset-top);
+        /* Set background color on html to cover entire page */
+        html {
             background-color: black;
+            min-height: 100%;
             margin: 0;
-            height: 100%;
+            padding: 0;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100%;
+            /* Background color is inherited from html */
+        }
+
+        /* Safe area overlay for iOS */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: env(safe-area-inset-top);
+            background-color: black;
+            z-index: 1;
         }
 
         .wrapper {
             background-color: #d3d3d3;
             min-height: 100vh;
+            /* Remove padding-top and margin-top */
+        }
+
+        /* Adjust your content positioning if needed */
+        .container {
             padding-top: env(safe-area-inset-top);
         }
 
