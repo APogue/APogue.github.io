@@ -23,19 +23,27 @@ body {
     color: #111;
 }
 
+/* Wrapper Styling */
+.wrapper {
+    width: 100%;
+    max-width: 1900px; /* Maximum width of the content */
+    margin: 0 auto; /* Centers the wrapper */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+}
+
 /* Container Styling */
 .container {
-    width: 100%;
-    max-width: 1200px; /* Adjust as needed */
+    max-width: 1900px; /* Adjust as needed */
     margin: 0 auto;
     padding: 20px;
 }
 
 /* Header Styling */
 header {
-
+    max-width: 1900px;
     padding: 20px 0;
-    text-align: left;
     position: relative;
 }
 
@@ -46,7 +54,6 @@ header h1 {
 
 /* Navigation Styling */
 nav {
-
     padding: 10px 20px;
     display: flex;
     align-items: center;
@@ -100,10 +107,10 @@ nav {
 
 /* Main Content Styling */
 main {
-    max-width: 1200px;
-    margin: 20px 20px;
+    max-width: 1900px;
+    margin: 0 20px 20px 20px; /* Removes top margin */
     padding: 0 20px;
-    flex: 1;
+    flex: 1 0 auto;
     list-style: none;
 }
 
@@ -120,7 +127,6 @@ main p {
 
 /* Footer Styling */
 footer {
-
     padding: 20px;
     text-align: center;
     color: #111;
@@ -130,7 +136,7 @@ footer {
 figure {
     width: 100%; /* Ensure the figure takes full available width */
     max-width: 800px; /* Optional: set a maximum width */
-    margin: 20px auto; /* Center the figure and add vertical spacing */
+    margin: 80px auto; /* Center the figure and add vertical spacing */
     text-align: center;
 }
 
@@ -190,16 +196,6 @@ figcaption {
 
 .blog-list a:hover {
     color: #adb5bd;
-}
-
-/* Custom Section Header */
-h2.custom-section-header {
-    font-size: 1.5em;
-    color: #333;
-    border-bottom: 2px solid #666;
-    padding-bottom: 5px;
-    margin-top: 20px;
-    text-align: left;
 }
 
 .contact-list {

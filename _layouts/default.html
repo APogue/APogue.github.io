@@ -12,8 +12,9 @@
     <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
-    <div class="container">
+    <div class="wrapper">
     <header>
+        <div class="container">
         <h1>{{ site.title }}</h1>
         <nav>
             <div class="hamburger-menu">
@@ -33,16 +34,18 @@
                 <h1>{{ page.title }}</h1> 
             </div>
         </div>
+        </div>
     </header>
     <main>
+        <div class="container">
         {{ content }}
+       </div> 
     </main>
-    </div>
     <footer>
+        <div class="container">
         <p>© {{ 'now' | date: "%Y" }} Alexie's Website - Site in Beta</p>
+        </div> 
     </footer>
-    <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
-    <script src="/assets/js/figure-references.js"></script>
 	<script>
     document.addEventListener('DOMContentLoaded', function() {
         document.querySelector('.hamburger-menu').addEventListener('click', function() {
@@ -62,6 +65,6 @@
         });
     });
 </script>
-
+</div>
 </body>
 </html>
