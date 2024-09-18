@@ -85,27 +85,42 @@
             </div> 
         </footer>
 
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                const navLinks = document.querySelector('.nav-links');
-                const hamburgerMenu = document.querySelector('.hamburger-menu');
-                const closeMenu = document.querySelector('.close-menu');
-                
-                hamburgerMenu.addEventListener('click', function() {
+    <script>
+            (function() {
+                // Variables
+                let navLinks = document.querySelector('.nav-links');
+                let hamburgerMenu = document.querySelector('.hamburger-menu');
+                let closeMenu = document.querySelector('.close-menu');
+
+                // Event Handlers
+                function onHamburgerClick() {
                     navLinks.classList.toggle('active');
-                });
+                }
 
-                closeMenu.addEventListener('click', function() {
+                function onCloseMenuClick() {
                     navLinks.classList.remove('active');
-                });
+                }
 
-                document.addEventListener('click', function(event) {
+                function onDocumentClick(event) {
                     if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
                         navLinks.classList.remove('active');
                     }
+                }
+
+                // Attach Event Listeners
+                hamburgerMenu.addEventListener('click', onHamburgerClick);
+                closeMenu.addEventListener('click', onCloseMenuClick);
+                document.addEventListener('click', onDocumentClick);
+
+                // Clean Up Event Listeners on Page Hide
+                window.addEventListener('pagehide', function() {
+                    hamburgerMenu.removeEventListener('click', onHamburgerClick);
+                    closeMenu.removeEventListener('click', onCloseMenuClick);
+                    document.removeEventListener('click', onDocumentClick);
                 });
-            });
+            })();
         </script>
+
     </div>
 </body>
 </html>
