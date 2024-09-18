@@ -2,43 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <!-- Viewport settings -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-
-    <!-- Enable full-screen mode on iOS -->
+    
+    <!-- iOS-specific meta tags -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <!-- Set the status bar style -->
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <!-- Set the browser theme color -->
+    
+    <!-- Browser theme color -->
     <meta name="theme-color" content="#000000">
-
+    
     <title>{{ page.title }}</title>
-
+    
     <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:400,700&display=swap">
-
+    
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
 
+    <!-- Custom Styles -->
     <style>
-        /* Set background color on html to cover entire page */
-        html {
-            background-color: black;
-            min-height: 100%;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
+        html, body {
             margin: 0;
             padding: 0;
             min-height: 100%;
-            /* Background color is inherited from html */
+            background-color: #d3d3d3; /* Your desired background color */
         }
 
         /* Safe area overlay for iOS */
@@ -49,17 +43,16 @@
             left: 0;
             right: 0;
             height: env(safe-area-inset-top);
-            background-color: black;
-            z-index: 1;
+            background-color: black; /* Black for the safe area */
+            z-index: 9999; /* Keep it on top */
         }
 
         .wrapper {
-            background-color: #d3d3d3;
             min-height: 100vh;
-            /* Remove padding-top and margin-top */
+            /* No need for padding-top or margin-top */
         }
 
-        /* Adjust your content positioning if needed */
+        /* Adjust content positioning to avoid the notch */
         .container {
             padding-top: env(safe-area-inset-top);
         }
