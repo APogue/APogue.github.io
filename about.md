@@ -10,9 +10,8 @@ title: 👋 About Me
 <!--A would-be graduate of high school in 2001, but that didn’t happen (no high school diploma, no GED). Took some time to find myself. 
 Ended up at San Diego Mesa Community College 2008-2010 (a bunch of Associate’s degrees), University of California San Diego 2010-2013 
 (B.S. Chemical Engineering), University of California Los Angeles 2014 – present (M.S. Mechanical Engineering 2016, Ph.D. Candidate 2018).-->
-I go by she/her, I'm a second generation American---My dad came from Canada to get his Ph.D. and my Mom from Vietnam for her B.A., M.A.
 
-I went to: San Diego Mesa Community College 2008-2010 (a bunch of Associate’s degrees), University of California San Diego 2010-2013 
+Education: San Diego Mesa Community College 2008-2010 (a bunch of Associate’s degrees), University of California San Diego 2010-2013 
 (B.S. Chemical Engineering), University of California Los Angeles 2014 – 2024 (M.S. Mechanical Engineering 2016, Ph.D. Candidate 2018)
 
 
@@ -43,4 +42,4 @@ I'm interested in the intersection of policy and tech; specifically, how AI will
 
 **My Interests**
 
-I'm a lifelong learner, I might consider learning together with people "quality time." I love comedy, poetry, and basketball. I'd love to get into some DIY projects if I ever have time... Does this website count? 😎
+I'm a lifelong learner, I might consider learning together with people "quality time." I love comedy, poetry, and basketball. I'd love to get into some DIY projects if I ever have time...Does this website count? 😎
