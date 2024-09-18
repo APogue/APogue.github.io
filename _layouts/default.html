@@ -138,33 +138,28 @@
                 debugDiv.innerHTML += `${message}<br>`;
             }
 
-            navLinks.forEach(link => {
-                link.addEventListener('click', function(e) {
-                    e.preventDefault(); // Prevent default navigation
-                    const startTime = Date.now();
-                    const url = this.href;
-                    
-                    log(`Navigation started to ${url}`);
+             let startTime;
+            
+            // Log navigation start
+            window.addEventListener('beforeunload', function() {
+                startTime = performance.now();
+                log(`Navigation started at ${new Date().toISOString()}`);
+            });
 
-                    // Simulate navigation
-                    fetch(url)
-                        .then(response => response.text())
-                        .then(() => {
-                            const duration = Date.now() - startTime;
-                            navTimings.push(duration);
-                            log(`Navigation to ${url} took ${duration}ms`);
+            // Log navigation end
+            window.addEventListener('load', function() {
+                if (startTime) {
+                    const duration = performance.now() - startTime;
+                    navTimings.push(duration);
+                    log(`Navigation ended. Took ${duration.toFixed(2)}ms`);
+                    const avgTime = navTimings.reduce((a, b) => a + b, 0) / navTimings.length;
+                    log(`Average navigation time: ${avgTime.toFixed(2)}ms`);
+                }
+            });
 
-                            // Log average navigation time
-                            const avgTime = navTimings.reduce((a, b) => a + b, 0) / navTimings.length;
-                            log(`Average navigation time: ${avgTime.toFixed(2)}ms`);
-
-                            // Actually navigate to the page
-                            window.location.href = url;
-                        })
-                        .catch(error => {
-                            log(`Navigation error: ${error.message}`);
-                        });
-                });
+            // Log any errors
+            window.addEventListener('error', function(event) {
+                log(`Error: ${event.message}`);
             });
         })();
     </script>
