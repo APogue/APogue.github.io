@@ -85,60 +85,89 @@
             </div> 
         </footer>
 
-    <script>
-            (function() {
+        <script>
+        (function() {
             // Variables
             let navLinks = document.querySelector('.nav-links');
             let hamburgerMenu = document.querySelector('.hamburger-menu');
             let closeMenu = document.querySelector('.close-menu');
-            let isNavigating = false;
-            let navigationTimeout;
-
             // Event Handlers
             function onHamburgerClick() {
                 navLinks.classList.toggle('active');
             }
-
             function onCloseMenuClick() {
                 navLinks.classList.remove('active');
             }
-
             function onDocumentClick(event) {
                 if (!navLinks.contains(event.target) && !hamburgerMenu.contains(event.target)) {
                     navLinks.classList.remove('active');
                 }
             }
-
-            function onNavLinkClick(event) {
-                if (event.target.tagName === 'A') {
-                    event.preventDefault();
-                    
-                    if (isNavigating) return;
-                    
-                    isNavigating = true;
-                    clearTimeout(navigationTimeout);
-                    
-                    navigationTimeout = setTimeout(() => {
-                        window.location.href = event.target.href;
-                    }, 300); // 300ms delay
-                }
-            }
-
             // Attach Event Listeners
             hamburgerMenu.addEventListener('click', onHamburgerClick);
             closeMenu.addEventListener('click', onCloseMenuClick);
             document.addEventListener('click', onDocumentClick);
-            navLinks.addEventListener('click', onNavLinkClick);
-
             // Clean Up Event Listeners on Page Hide
             window.addEventListener('pagehide', function() {
                 hamburgerMenu.removeEventListener('click', onHamburgerClick);
                 closeMenu.removeEventListener('click', onCloseMenuClick);
                 document.removeEventListener('click', onDocumentClick);
-                navLinks.removeEventListener('click', onNavLinkClick);
             });
         })();
-        </script>
+
+        // Diagnostic script
+        (function() {
+            const navTimings = [];
+            const navLinks = document.querySelectorAll('.nav-links a');
+            
+            // Create debug div for mobile devices
+            const debugDiv = document.createElement('div');
+            debugDiv.style.position = 'fixed';
+            debugDiv.style.bottom = '0';
+            debugDiv.style.left = '0';
+            debugDiv.style.right = '0';
+            debugDiv.style.background = 'rgba(0,0,0,0.7)';
+            debugDiv.style.color = 'white';
+            debugDiv.style.padding = '10px';
+            debugDiv.style.fontSize = '12px';
+            debugDiv.style.zIndex = '9999';
+            document.body.appendChild(debugDiv);
+
+            function log(message) {
+                console.log(message);
+                debugDiv.innerHTML += `${message}<br>`;
+            }
+
+            navLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault(); // Prevent default navigation
+                    const startTime = Date.now();
+                    const url = this.href;
+                    
+                    log(`Navigation started to ${url}`);
+
+                    // Simulate navigation
+                    fetch(url)
+                        .then(response => response.text())
+                        .then(() => {
+                            const duration = Date.now() - startTime;
+                            navTimings.push(duration);
+                            log(`Navigation to ${url} took ${duration}ms`);
+
+                            // Log average navigation time
+                            const avgTime = navTimings.reduce((a, b) => a + b, 0) / navTimings.length;
+                            log(`Average navigation time: ${avgTime.toFixed(2)}ms`);
+
+                            // Actually navigate to the page
+                            window.location.href = url;
+                        })
+                        .catch(error => {
+                            log(`Navigation error: ${error.message}`);
+                        });
+                });
+            });
+        })();
+    </script>
 
     </div>
 </body>
