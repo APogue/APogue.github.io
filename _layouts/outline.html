@@ -32,8 +32,8 @@
     <main>
         <div class="date">
             {{ page.date | date: "%B %d, %Y at %I:%M %p" }} EDT
-            {% if page.updated == true %}
-            / Updated <span id="updated-date" data-utc="{{ site.time | date: '%Y-%m-%dT%H:%M:%S%z' }}"></span> EDT
+            {% if page.last_modified_at %}
+            / Updated <span id="updated-date">{{ page.last_modified_at | date: "%B %d, %Y at %I:%M %p" }}</span> EDT
             {% endif %}
         </div>
         {{ content }}

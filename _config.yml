@@ -4,3 +4,7 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 permalink: pretty
 
+
+plugins:
+  - jekyll-last-modified-at
+
