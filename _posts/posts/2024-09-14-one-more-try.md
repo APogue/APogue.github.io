@@ -3,7 +3,8 @@ layout: outline
 title: "Try to get this right one more time"
 published: true
 author: Alexie Pogue
-date: 2024-09-16 11:00 AM
+date: 2024-09-16 12:00 PM
+
 ---
 ### Define Title IX
 

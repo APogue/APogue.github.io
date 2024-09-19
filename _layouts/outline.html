@@ -30,12 +30,12 @@
         </nav>
     </header>
     <main>
-        <div class="date">
-            {{ page.date | date: "%B %d, %Y at %I:%M %p" }} EDT
-            {% if page.last_modified_at %}
-            / Updated <span id="updated-date">{{ page.last_modified_at | date: "%B %d, %Y at %I:%M %p" }}</span> EDT
-            {% endif %}
-        </div>
+<div class="date">
+    {{ page.date | date: "%B %d, %Y at %I:%M %p" }} EDT
+    / Updated <span id="updated-date">September 19, 2024 at 11:00 AM</span> EDT
+</div>
+
+
         {{ content }}
     </main>
     <footer>
@@ -56,28 +56,7 @@
             }
         });
     </script>
-     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var updatedDateElem = document.getElementById('updated-date');
-            if (updatedDateElem) {
-                var utcDateStr = updatedDateElem.getAttribute('data-utc');
-                var utcDate = new Date(utcDateStr);
 
-                // Convert to local time (PDT)
-                var options = { 
-                    timeZone: 'America/New_York', 
-                    year: 'numeric', 
-                    month: 'long', 
-                    day: 'numeric', 
-                    hour: 'numeric', 
-                    minute: 'numeric', 
-                    hour12: true 
-                };
-                var pdtDateStr = new Intl.DateTimeFormat('en-US', options).format(utcDate);
-                updatedDateElem.textContent = pdtDateStr;
-            }
-        });
-    </script>
      </div>
 </body>
 </body>
