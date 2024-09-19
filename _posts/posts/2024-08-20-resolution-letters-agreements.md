@@ -241,7 +241,3 @@ implementation of the Agreement, please contact Kimberly Kilby, Senior Attorney,
 
 
 ### U Mich resolution agreement
-
-
-
-ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

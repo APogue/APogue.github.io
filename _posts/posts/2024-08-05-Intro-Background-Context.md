@@ -236,11 +236,3 @@ updated: true
 
 			- An unsafe campus environment for pro-Palestinian students
 
-
-
-
-
-
-
-
-ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

@@ -275,6 +275,3 @@ University employees have responsibilities to report sexual violence and sexual 
 
 - [Link to assessment](https://github.com/APogue/APogue.github.io/tree/main/images/UCLA_Title_IX_Training/Final_Assessment)
 
-
-
-ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

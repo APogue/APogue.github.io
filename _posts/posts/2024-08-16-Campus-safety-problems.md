@@ -262,4 +262,3 @@ updated: true
 	- Officer misconduct goes unpunished in general [article](https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html)
 
 
-	ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
