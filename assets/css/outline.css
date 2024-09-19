@@ -30,6 +30,16 @@ nav {
     position: relative;
 }
 
+/* Wrapper Styling */
+.wrapper {
+    width: 100%;
+    max-width: 1900px; /* Maximum width of the content */
+    margin: 0 auto; /* Centers the wrapper */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+}
+
 /* Hamburger Menu Styling */
 .hamburger-menu {
     font-size: 1.5em;
