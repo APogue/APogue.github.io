@@ -30,12 +30,12 @@
         </nav>
     </header>
     <main>
-<div class="date">
-    {{ page.date | date: "%B %d, %Y at %I:%M %p" }} EDT
-    / Updated <span id="updated-date">September 19, 2024 at 11:00 AM</span> EDT
-</div>
-
-
+        <div class="date">
+            {{ page.date | date: "%B %d, %Y at %I:%M %p" }} EDT
+            {% if page.updated_date %}
+            / Updated <span id="updated-date">{{ page.updated_date | date: "%B %d, %Y at %I:%M %p" }}</span> EDT
+            {% endif %}
+        </div>
         {{ content }}
     </main>
     <footer>

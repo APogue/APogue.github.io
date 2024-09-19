@@ -4,8 +4,11 @@ title: "Try to get this right one more time"
 published: true
 author: Alexie Pogue
 date: 2024-09-16 12:00 PM
-
+updated_date: 2024-09-19 5:31 PM
 ---
+
+Change to reflect "Updated" test
+
 ### Define Title IX
 
 - Definition 
@@ -14,7 +17,7 @@ date: 2024-09-16 12:00 PM
 
 ### Title IX training
 
-- Introduce Campus SaVE bla bla bla test
+- Introduce Campus SaVE 
 
 - Clery training requirements
 
