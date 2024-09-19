@@ -92,10 +92,17 @@
         const closeMenu = document.querySelector('.close-menu');
         const navLinkItems = navLinks.querySelectorAll('a');
 
-        // Function to detect if it's Chrome on mobile
+        // Function to detect if it's Chrome on mobile (Android or iOS)
         function isChromeMobile() {
             const userAgent = navigator.userAgent || navigator.vendor || window.opera;
-            return /Chrome/.test(userAgent) && /Android|iPhone|iPad|iPod/.test(userAgent);
+            
+            // Detect Chrome on Android
+            const isAndroidChrome = /Chrome/.test(userAgent) && /Android/.test(userAgent);
+            
+            // Detect Chrome on iOS (which uses WebKit like Safari)
+            const isIosChrome = /CriOS/.test(userAgent); // "CriOS" is specific to Chrome on iOS
+            
+            return isAndroidChrome || isIosChrome;
         }
 
         function closeNavMenu() {
@@ -130,7 +137,7 @@
                 const originalUrl = link.getAttribute('href');
 
                 if (isChromeMobile()) {
-                    // Chrome on mobile: Append a unique timestamp as a query string to bypass the cache
+                    // Chrome on mobile (Android or iOS): Append a unique timestamp as a query string to bypass the cache
                     const newUrl = originalUrl + (originalUrl.includes('?') ? '&' : '?') + 'nocache=' + new Date().getTime();
 
                     // Navigate to the new URL with cache-busting query string
