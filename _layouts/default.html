@@ -11,11 +11,6 @@
     
     <!-- Browser theme color -->
     <meta name="theme-color" content="#000000">
-
-      <!-- Disable Caching -->
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
     
     <title>{{ page.title }}</title>
     
@@ -91,12 +86,17 @@
             </div> 
         </footer>
     <script>
-    // Wrap your code in an IIFE to avoid global variables
     (function() {
         const navLinks = document.querySelector('.nav-links');
         const hamburgerMenu = document.querySelector('.hamburger-menu');
         const closeMenu = document.querySelector('.close-menu');
         const navLinkItems = navLinks.querySelectorAll('a');
+
+        // Function to detect if it's Chrome on mobile
+        function isChromeMobile() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            return /Chrome/.test(userAgent) && /Android|iPhone|iPad|iPod/.test(userAgent);
+        }
 
         function closeNavMenu() {
             navLinks.classList.remove('active');
@@ -121,7 +121,7 @@
             }
         });
 
-        // For each nav link, append a cache-busting timestamp and navigate
+        // For each nav link, apply behavior based on whether it's Chrome mobile or not
         navLinkItems.forEach(function(link) {
             link.addEventListener('click', function(event) {
                 event.preventDefault(); // Prevent the default navigation behavior
@@ -129,19 +129,23 @@
                 // Get the original href of the link
                 const originalUrl = link.getAttribute('href');
 
-                // Append a unique timestamp as a query string to bypass the cache
-                const newUrl = originalUrl + (originalUrl.includes('?') ? '&' : '?') + 'nocache=' + new Date().getTime();
+                if (isChromeMobile()) {
+                    // Chrome on mobile: Append a unique timestamp as a query string to bypass the cache
+                    const newUrl = originalUrl + (originalUrl.includes('?') ? '&' : '?') + 'nocache=' + new Date().getTime();
 
-                // Close the navigation menu
+                    // Navigate to the new URL with cache-busting query string
+                    window.location.href = newUrl;
+                } else {
+                    // Other browsers: Regular navigation without cache-busting
+                    window.location.href = originalUrl;
+                }
+
+                // Close the navigation menu after navigation
                 closeNavMenu();
-
-                // Navigate to the new URL
-                window.location.href = newUrl;
             });
         });
     })();
 </script>
-
     </div>
 </body>
 </html>
