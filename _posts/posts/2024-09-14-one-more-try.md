@@ -196,6 +196,3 @@ updated: true
 	- Training is "out of place with SV, IPV, and stalking"
 
 	- It is confusing to mix social scenarios with academic scenarios, this does not promote professionalism in the classroom 
-
-
-pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

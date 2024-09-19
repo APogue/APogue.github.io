@@ -4,19 +4,15 @@ body {
     line-height: 1.6;
     padding: 0;
     margin: 0;
-    background-color: #f8f9fa;
+    background-color:#f8f9fa;
     color: #212529;
 }
 
 /* Header styling */
 header {
-    background-color: #f8f9fa; /* Light grey background */
-    padding: 10px 20px; /* Top and bottom padding */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Adds a subtle shadow */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: left;
+    max-width: 1900px;
+    padding: 20px 0;
+    position: relative;
 }
 
 h1 {
@@ -25,77 +21,62 @@ h1 {
     text-align: left;
 }
 
-/* Navigation styling */
+/* Navigation Styling */
 nav {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* Move hamburger to the right */
     position: relative;
 }
 
+/* Hamburger Menu Styling */
 .hamburger-menu {
+    font-size: 1.5em;
     cursor: pointer;
-    font-size: 24px;
-    padding: 10px;
-    display: none; /* Hidden by default */
+    color:  #111;
 }
 
+/* Dropdown Menu Styling */
 .nav-links {
     list-style: none;
-    padding: 0;
+    flex-direction: column;
+    width: 200px; /* Set a smaller width */
+    display: none; /* Hidden by default */
+    background: #f8f9fa;
+    position: absolute;
+    top: 100%; /* Position below the nav bar */
+    right: 0; /* Align to the right under the hamburger menu */
+    padding: 10px;
     margin: 0;
-    display: flex; /* Display as flexbox */
-    text-align: left;
 }
 
-.nav-links li {
-    margin-left: 20px; /* Space between links */
+/* Show the nav links when active */
+.nav-links.active {
+    display: block;
 }
 
-.nav-links a {
+/* Nav Link Items Styling */
+.nav-links li a {
+    color: #111; /* Changed to white for better visibility */
     text-decoration: none;
-    color: #333;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
     font-weight: bold;
 }
 
-/* Media queries for responsiveness */
-@media (max-width: 768px) {
-    .hamburger-menu {
-        display: block; /* Show hamburger menu on smaller screens */
-    }
-
-    .nav-links {
-        display: none; /* Hide nav links by default */
-        flex-direction: column; /* Stack nav links vertically */
-        position: absolute;
-        top: 100%;
-        left: 0;
-        background-color: #f8f9fa;
-        width: 100%;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-
-    .nav-links.active {
-        display: flex; /* Show nav links when active */
-    }
-
-    .nav-links li {
-        margin: 0; /* Remove default margin */
-        border-bottom: 1px solid #ddd; /* Add border between items */
-    }
-
-    .nav-links li:last-child {
-        border-bottom: none; /* Remove border from last item */
-    }
-
-    .close-menu {
-        display: block;
-        text-align: right;
-        padding: 10px;
-        cursor: pointer;
-    }
+/* Hover Effect for Links */
+.nav-links li a:hover {
+    color: #adb5bd; /* Lighter gray on hover */
+}
+/* Hide Close Menu Icon */
+.nav-links .close-menu {
+   
 }
 
 /* Main content styling */
 main {
-    margin-top: 20px;
+    margin-top: -50px;
     padding: 20px;
     text-align: left;
 }
@@ -140,11 +121,9 @@ main ul ul ul {
     margin-left: 80px;
 }
 
+/* Footer styling */
 footer {
-    background-color: #f8f9fa;
-    padding: 10px 20px;
-    text-align: left;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    padding: 20px;
+    text-align: center;
+    color: #111;
 }
