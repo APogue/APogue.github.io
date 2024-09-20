@@ -4,9 +4,9 @@ title: "In the Aftermath of the Protest Events People Should be Talking, and UCL
 date: 2024-05-30
 published: true
 ---
-<!--
+
 ## Context and Objective <span id="Context and Objective"></span>
-{% include sections/Intro.md %}-->
+{% include sections/Intro.md %}
 
 ## Early Messaging <span id="Early Messaging"></span>
 ## Pro-Palestinian
