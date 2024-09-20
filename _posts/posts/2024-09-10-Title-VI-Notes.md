@@ -4,7 +4,7 @@ title: "Title VI Notes"
 published: true
 author: Alexie Pogue
 date: 2024-09-10 04:10 PM
-updated: true
+updated_date: 2024-09-20 4:31 PM
 ---
 
 ### Factual vs. Legal Dispute
@@ -282,193 +282,37 @@ updated: true
 
     - Title IX, passed in 1972, evolved with a different focus, particularly on educational institutions and gender equality, which led to much more granular regulations over time, particularly in recent decades as gender-based discrimination and sexual misconduct gained more attention.
 
-
 ---------------------------------------------------------------------------------------------------------------------------
-
-Evidence is sparse, 1 case denial benefits gender, 1 case denial benefits race, 1 case gender/sexual harassment, 1 case race-based harassment 
-
-The above cases resulted in tangible negative outcomes, which motivated reporting, Title VI coverage and Title IX training we currently have covers many more less "serious" scenarios 
-
-Push upstream, the system is broken. 
-
-Wrt Mich, the reporting system was flooded with complaints---proved reporting system broken 
-
-Otherwise---notification system broken 
-
-Literacy broken 
-
-Conflict of interest
-
-No surveys 
-
-There is no way to know whether there is a problem 
-
-What we do know is minorities are severely under represented in certain areas like STEM
-
-It is imperative that the climate they function in is professional 
-
-Like having an HR department, it is necessary to have one at Universities as well 
-
-Mom's stories are similar to that Reddit post. She was systematically denied opportunities based on her womanhood, based on the fact that men that have families to support "needed" the work more. 
-
-- She was paid 30% less than colleagues doing the exact same work
-
-- She was repeatedly asked if she was dating or planning to marry
-
-- She was asked about Dad's work, his income, if he would get tenure as part of her own interviews 
-
-Look at the Title VI and Title IX cases again for post-secondary institutions. Are there cases like the Reddit post? Are there cases related to STEM? 
-
-"regardless of how one feels about the encampment..." is that bias? Did that bias result in an unsafe situation? Isn't he obligated under Title VI not to be biased? 
-
-watch the title ix video recorded
-
-check in with the regents, the ucla newsroom, and the chancellor page for news 
-
-check in with the daily bruin
-
-check in with Insta
-
----------------------------------------------------------------------------------------------------------------------------
-## Background and context
+## OCR Policy and Guidance 
 
 
-- Title VI
+- Title VI Definition
 
     - “Title VI of the Civil Rights Act of 1964 prohibits discrimination based on race, color, or national origin in programs or activities that receive federal financial assistance. Title VI states that:
 
     No person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial assistance.” 
 
-- “Education and Title VI” page of the U.S. Department of Education Office for Civil Rights
+- “Education and Title VI” [page](https://www.ed.gov/laws-and-policy/civil-rights-laws/civil-rights-act-of-1964/education-and-title-vi) of the U.S. Department of Education Office for Civil Rights
 
-    - Displays "Dear Colleague" letters as guidance
 
-    - One dated May 25th 2023 covered discrimination based on shared ancestry and ethnic characteristics
+- [One dated May 25th 2023]
+(https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/antisemitism-dcl.pdf) covered discrimination based on shared ancestry and ethnic characteristics
 
-        - “As we witness a nationwide rise in reports of antisemitic harassment, including in schools, I write to remind you of schools’ legal obligation under Title VI of the Civil Rights Act of 1964 (Title VI) to provide all students, including Jewish students, a school environment free from discrimination based on race, color, or national origin, including shared ancestry or ethnic characteristics."
+    - “As we witness a nationwide rise in reports of antisemitic harassment, including in schools, I write to remind you of schools’ legal obligation under Title VI of the Civil Rights Act of 1964 (Title VI) to provide all students, including Jewish students, a school environment free from discrimination based on race, color, or national origin, including shared ancestry or ethnic characteristics."
 
-        - Talks about fact sheet "Protecting Students from Discrimination Based on Shared Ancestry or Ethnic Characteristics" 
+    - Talks about [fact sheet](https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-shared-ancestry-202301.pdf) "Protecting Students from Discrimination Based on Shared Ancestry or Ethnic Characteristics" 
 
-        - "Schools must take immediate and appropriate action to respond to harassment that creates a hostile environment. OCR generally finds that a hostile environment exists where there is harassing conduct that is sufficiently severe, pervasive, or persistent so as to interfere with or limit the ability of an individual to participate in or benefit from the services, activities, or privileges provided by a school."
+    - "Schools must take immediate and appropriate action to respond to harassment that creates a hostile environment. OCR generally finds that a hostile environment exists where there is harassing conduct that is sufficiently severe, pervasive, or persistent so as to interfere with or limit the ability of an individual to participate in or benefit from the services, activities, or privileges provided by a school."
 
-        - If a hostile environment based on shared ancestry existed, and the school knew or should have known of the hostile environment, OCR will evaluate whether the school met its obligation under Title VI to take prompt and effective steps reasonably calculated to end the harassment, eliminate any hostile environment and its effects, and prevent harassment from recurring. In other words, a school violates Title VI when it fails to take adequate steps to address discriminatory harassment, such as antisemitic harassment.”
 
-        - "A broader Title VI inquiry was announced by U.S. Secretary of Education Miguel Cardona in November, investigating universities and K-12 schools for discrimination based on “shared ancestry,” which is harassment based on someone’s ancestry or ethnic characteristics.” 
+- [Harassment based on race, color, or National Origin-July 2, 2024](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf)
 
 
-- Notes on general harassment (not a Title VI violation? but should be part of student training---speech that is disruptive and serves to harass people is no longer protected)
+- DOE Race, color, or national origin discrimination [overview](https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html )
 
-    - 1st Amendment rights are protected based on "time, place, manner" 
 
-    - Speech not following appropriate "time, place, and manner" policies is not protected
 
-        - If certain phrases, mainly, "From the River to the Sea..." are used as a form of harassment, can't they be forced to stop? In other words, it may not be "discrimination" per se, but if its use is sufficiently inappropriate, rules and conduct code against it should apply
 
-            - There is a time and a place for loud chants that can be disruptive to students in class 
-
-                - [TikTok example from 5/24](https://www.tiktok.com/t/ZTNVpURRG/)
-
-            - The big screen that UCLA failed to remove after permit expiration and was disrupting classes 
-
-                - [Conduct that is not protected under the First Amendment](https://www.thefire.org/news/heres-what-students-need-know-about-protesting-campus-right-now)
-
-    - Otherwise based on "totality of circumstances" this language is possibly "actionable"
-
-
-- For training purposes it might be appropriate to say
-
-    - Following time, place and manner is necessary because policies are in place so that everyone can attend their classes and get their education free from disturbance 
-
-    - Anytime time, place and manner is broken, that message, whatever it might be, can become inappropriate and hurt someone 
-
-
-- Even protected speech can be "explained away" if UCLA acts as a "guide." When they "stay out of it," protected speech that is derogatory, or controversial can confuse students who may mistake it for hate speech. 
-
-    - “Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to antisemitic tropes.“ I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”80
-
-- [UC Divest: "I hate white people"](https://twitter.com/i/status/1787521409079791881)
-
-
-- [UC Divest: "Zionists, ... they have that ugly, half-American...."](https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel)
-
-
-
-- [CAC message on "Zionist" agitator](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
-
-    - So much wrong with this message. Outside of the "lack of safety from targeting" aspect 
-
-        - The harasser used the word "terrorist"
-
-        - CAC used the word "Zionist" 
-
-            - This word has no definition and is thrown around without a second thought 
-
-            - https://www.msn.com/en-us/news/us/nyu-clarifies-antisemitism-policies-to-include-instances-of-anti-zionism/ar-AA1pkHZ2?ocid=msedgdhp&pc=U531&cvid=976740f6df9249c3a7cb938d0afa6fa5&ei=30
-
-
-- Red triangle 
-
-    - [Trump ad](https://www.cbsnews.com/news/facebook-removes-trump-campaign-ads-nazi-concentration-camp-symbol/)
-
-    - [Image Nazi triangle](https://www.washingtonpost.com/politics/2020/06/18/trump-campaign-runs-ads-with-marking-once-used-by-nazis-designate-political-prisoners/)
-
-    - [Concentration camp link](https://encyclopedia.ushmm.org/content/en/article/classification-system-in-nazi-concentration-camps)
-
-
-- [DB Students voice worries over Islamophobia](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
-
-    - “”I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
-
-    - “A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”
-
-    - “Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now.”
-
-
-[DOE OCR Fact Sheet](https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-shared-ancestry-202301.pdf)
-
-
-[DB Counter protesters](https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment) "More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called “terrorists,” to “show your face.”" 
-
-
-[UCLA orientation is optional](https://newstudents.ucla.edu/programs/first-year-students/#tab-id-3)
-
-
-[SOCR: Systemwide office of Civil Rights](https://equity.ucla.edu/news-and-events/statement-from-ivp-chang-avc-bhatnagar-new-systemwide-office-of-civil-rights-and-uc-anti-discrimination-policy/)---this could be in response to the post Oct 7th activity
-
-
-[EDI: anti-Muslim prevention resources](https://equity.ucla.edu/preventing-anti-muslim-and-anti-arab-discrimination-at-ucla/)
-
-[EDI: antisemitism prevention](https://equity.ucla.edu/preventing-antisemitism-at-ucla/)
-
-
-- [EDI: focused on employee training and UCLA-wide accountability](https://equity.ucla.edu/edi-impact/). It isn't even about training for the sake of prevention. It is about training for the sake of reporting, which factors into accountability. 
-
-
-[EDI@UCLA](https://equity.ucla.edu/edi-ucla/)
-
-[EDI: so-called "mandatory civil rights training](https://equity.ucla.edu/edi-ucla/education/) for students" is really just Title IX training 
-
-- Why we need a Title VI Coordinator
-
-    - Office of EDI: "The website suffers from poor information architecture, with related content scattered across multiple links, dropdowns, and pages, leading to a disorganized and confusing user experience." If you find useful information somewhere deep within the website it is nearly impossible to locate that information again should you need it. 
-
-
-- UCLA SAIRO (Student Affairs Information and Research Office) [Campus Climate and Diversity](https://sairo.ucla.edu/by-topic/campus-climate-and-diversity)
-
-    - [Social media study is outdated](https://sairo.ucla.edu/file/b30f4eb2-2bbf-44cd-b556-574d2315bf67)
-
-        - Can social media be considered constructive notice? 
-
-
----------------------------------------------------------------------------------------------------------------------------
-
-- Office of EDI, what do they do…
-
-This article outlines UCLA’s failings to prevent a hostile environment under Title VI https://www2.ed.gov/about/offices/list/ocr/docs/ocr-factsheet-race-color-national-origin-202407.pdf 
-
-
-
-The law: https://www2.ed.gov/policy/rights/guid/ocr/raceoverview.html 
 
 Fact sheets: https://www2.ed.gov/about/offices/list/ocr/frontpage/faq/rr/policyguidance/index.html 
 
@@ -548,21 +392,74 @@ https://www.jdsupra.com/legalnews/another-title-vi-agreement-and-another-1121678
 https://www2.ed.gov/about/offices/list/ocr/docs/ocrcpm.pdf
 
 ---------------------------------------------------------------------------------------------------------------------------
-
-
 ### Notes
 
-- These are basic needs issues. No educating can occur until these kids are "satisfactorily" helped to adulthood. This "education" may be the most important education kids get at college. Yet somehow their brains are filled with everything but, while this vitally important part is left confused and underdeveloped. 
+- Notes on general harassment (not a Title VI violation? but should be part of student training---speech that is disruptive and serves to harass people is no longer protected)
 
-- The resolution agreements are mandating annual nondiscrimination training. Looks like they'll require this of every institution that has an issue. 
+    - 1st Amendment rights are protected based on "time, place, manner" 
 
-    - Why this isn't perfect
+    - Speech not following appropriate "time, place, and manner" policies is not protected
 
-        - These are reactive measures not proactive measures
+        - If certain phrases, mainly, "From the River to the Sea..." are used as a form of harassment, can't they be forced to stop? In other words, it may not be "discrimination" per se, but if its use is sufficiently inappropriate, rules and conduct code against it should apply
 
-        - "Systemic Change: Laws and additional regulations provide a foundation for systemic change, ensuring that all institutions uphold certain standards. This helps create a more consistent and equitable environment across all campuses."
+            - There is a time and a place for loud chants that can be disruptive to students in class 
 
-        - The institutions themselves determine "how much to care"
+                - [TikTok example from 5/24](https://www.tiktok.com/t/ZTNVpURRG/)
 
-        - The institutions themselves are responsible for determining the extent to which they will hold themselves accountable 
+            - The big screen that UCLA failed to remove after permit expiration and was disrupting classes 
 
+                - [Conduct that is not protected under the First Amendment](https://www.thefire.org/news/heres-what-students-need-know-about-protesting-campus-right-now)
+
+    - Otherwise based on "totality of circumstances" this language is possibly "actionable"
+
+- Even protected speech can be "explained away" if UCLA acts as a "guide." 
+
+    - “Kohanteb said he feels the university should offer more guidance for students about what constitutes hate speech because he feels some students are ignorant when it comes to antisemitic tropes.“ I’m scared sometimes that hate usually comes from ignorance,” he said. “If we can inform students of what is and what isn’t antisemitic, and where that line is, I think it’d be very beneficial to all.”80
+
+- [DB Students voice worries over Islamophobia](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
+
+    - “”I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,” said Mohammad, a student who was granted partial anonymity for safety reasons. “I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.””
+
+    - “A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”
+
+    - “Even if it’s nothing political and you just have Arabic writing on your shirt – and it could literally mean sunshine – they will literally call you a terrorist now.”
+
+- OCR cases in academic scenarios: 
+
+    - Evidence is sparse, 1 case denial benefits gender, 1 case denial benefits race, 1 case gender/sexual harassment, 1 case race-based harassment 
+
+    - The above cases resulted in tangible negative outcomes, which motivated reporting.
+
+- The history of Title IX is something like the below: 
+
+    - Mom's stories are similar to that Reddit post. She was systematically denied opportunities based on her womanhood, based on the fact that men that have families to support "needed" the work more. 
+
+    - She was paid 30% less than colleagues doing the exact same work
+
+    - She was repeatedly asked if she was dating or planning to marry
+
+    - She was asked about Dad's work, his income, if he would get tenure as part of her own interviews 
+
+- [DB Counter protesters](https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment) "More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called “terrorists,” to “show your face.”" 
+
+- [UCLA orientation is optional](https://newstudents.ucla.edu/programs/first-year-students/#tab-id-3)
+
+- [SOCR: Systemwide office of Civil Rights](https://equity.ucla.edu/news-and-events/statement-from-ivp-chang-avc-bhatnagar-new-systemwide-office-of-civil-rights-and-uc-anti-discrimination-policy/)---this could be in response to the post Oct 7th activity
+
+- [EDI: anti-Muslim prevention resources](https://equity.ucla.edu/preventing-anti-muslim-and-anti-arab-discrimination-at-ucla/)
+
+- [EDI: antisemitism prevention](https://equity.ucla.edu/preventing-antisemitism-at-ucla/)
+
+- [EDI@UCLA](https://equity.ucla.edu/edi-ucla/)
+
+- [EDI: so-called "mandatory civil rights training](https://equity.ucla.edu/edi-ucla/education/) for students" is really just Title IX training 
+
+- Why we need a Title VI Coordinator(why everyone needs a Title VI Coordinator, because one point of contact can aid in mitigating the confusing mess that is the usual reporting infrastructure at any school)
+
+    - Office of EDI: "The website suffers from poor information architecture, with related content scattered across multiple links, dropdowns, and pages, leading to a disorganized and confusing user experience." If you find useful information somewhere deep within the website it is nearly impossible to locate that information again should you need it. 
+
+- UCLA SAIRO (Student Affairs Information and Research Office) [Campus Climate and Diversity](https://sairo.ucla.edu/by-topic/campus-climate-and-diversity)
+
+    - [Social media study is outdated](https://sairo.ucla.edu/file/b30f4eb2-2bbf-44cd-b556-574d2315bf67)
+
+        - Can social media be considered constructive notice? 
