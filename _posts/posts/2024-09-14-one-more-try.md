@@ -7,7 +7,7 @@ date: 2024-09-16 12:00 PM
 updated_date: 2024-09-19 5:31 PM
 ---
 
-Change to reflect "Updated" test
+This file will be renamed "Title VI Model" and info from "Title VI Model" will be redistributed here or deleted
 
 ### Define Title IX
 

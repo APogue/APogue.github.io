@@ -6,5 +6,9 @@ author: Alexie Pogue
 date: 2024-09-23 04:37 PM
 ---
 
+"Title VI Notes" will be reorganized and redistributed here and elsewhere
 
 - Go over the other sections and recursively add to this section 
+
+
+
