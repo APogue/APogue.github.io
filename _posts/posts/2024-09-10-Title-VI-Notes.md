@@ -326,7 +326,7 @@ updated_date: 2024-09-23 3:46 PM
 
     - "The Department of Education announced an investigation into other universities alongside UCLA, including UC San Diego, Stanford University, the University of Washington and Rutgers University. Nearby community college Santa Monica College was added Dec. 4 to the investigation.
 
-   Other notable schools under investigation from November are Columbia University and the University of Pennsylvania."
+    Other notable schools under investigation from November are Columbia University and the University of Pennsylvania."
 
 - [One dated May 25th 2023](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/antisemitism-dcl.pdf) covered discrimination based on shared ancestry and ethnic characteristics
 

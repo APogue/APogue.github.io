@@ -4,7 +4,7 @@ title: "Title VI vs Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-09-13 07:00 PM
-updated: true
+updated_date: 2024-09-23 4:24 PM
 ---
 
 ### Code of Federal Regulations
@@ -13,6 +13,25 @@ updated: true
 
 - [CFR Part 100- Nondiscrimination on the Basis of the Civil Rights Act of 1964](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/)
 
+### OCR and Title IX
+
+- [DOE Title IX Final Rule press release](https://www.ed.gov/news/press-releases/us-department-education-releases-final-title-ix-regulations-providing-vital-protections-against-sex-discrimination)
+
+	- "Protect against all sex-based harassment and discrimination."
+
+	- "Promote accountability and fairness."
+
+	- "Empower and support students and families."
+
+- [Compliance (Background)](https://www.federalregister.gov/d/2024-07915/p-530)
+
+	- Resolution agreements---"Moreover, in the context of administrative enforcement, a recipient must be given notice and an opportunity to come into compliance before the termination of funding. 20 U.S.C. 1682.
+	Indeed, the Department’s administrative enforcement investigations generally result in
+	agreements with the recipient to take action that would bring them into compliance. Thus, if the
+	Department receives a complaint about severe or pervasive harassment, and its investigation
+	confirms the allegations in that complaint, the Department will bring this conduct to the attention
+	of the recipient, and to discuss and determine appropriate corrective measures with the
+	recipient’s input.""
 
 ### 2024 Title IX Final Rule
 
@@ -20,7 +39,9 @@ updated: true
 
 - "The U.S. Department of Education (Department) amends the regulations implementing Title IX of the Education Amendments of 1972 (Title IX). The purpose of these amendments is to better align the Title IX regulatory requirements with Title IX's nondiscrimination mandate. These amendments clarify the scope and application of Title IX and the obligations of recipients of Federal financial assistance from the Department, including elementary schools, secondary schools, postsecondary institutions, and other recipients (referred to below as “recipients” or “schools”) to provide an educational environment free from discrimination on the basis of sex, including through responding to incidents of sex discrimination. These final regulations will enable all recipients to meet their obligations to comply with Title IX while providing them with appropriate discretion and flexibility to account for variations in school size, student populations, and administrative structures."
 
-- [Overview of key provisions](https://www2.ed.gov/about/offices/list/ocr/docs/t9-final-rule-summary.pdf)
+- [Overview of key provisions](https://www2.ed.gov/about/offices/list/ocr/docs/t9-final-rule-summary.pdf) (link dead, see TitleIX-final-rule-summary.pdf in the Title VI folder)
+
+- [Outline of key provisions](https://www.acenet.edu/Documents/Title-IX-2024-Rule-Key-Provisions.pdf)
 
 ### Title IX 
 
@@ -149,23 +170,19 @@ updated: true
 
 - They need a notification, the notifications need to be published, they need a coordinator, *they need to know they can report to the coordinator*, they need to be trained
 
-	- At UCLA it is not clear that there is a Title IX Coordinator
+- Reporting to campus law enforcement does not happen at high rates
 
-	- At UCLA it is not clear that *all* employees are trained to handle Title IX incidents 
+	- [Fraternities at SCU](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/)---"most of the incidents go unreported"
 
-	- Reporting to campus law enforcement does not happen at high rates
+		- [Where are the reports for 2021](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2023-Main-Campus-ASR-Final.pdf)? Pp. 97
 
-		- [Fraternities at SCU](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/)---"most of the incidents go unreported"
+	- [Reporting is a problem at SCU](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/)---"At SCU, there is currently no way to know how pervasive sexual violence is on campus since students often do not report incidents and there is no central place for recording all reports that are made."
 
-			- [Where are the reports for 2021](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2023-Main-Campus-ASR-Final.pdf)? Pp. 97
+		- "Adding to the issues around Title IX is the misinformation that is spread regarding what the Title IX coordinators are supposed to do, and how the process looks. Even though there are trainings offered at orientation, during sexual assault awareness month, and at the dorms and around campus, students often learn about the office through word of mouth. "
 
-		- [Reporting is a problem at SCU](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/)---"At SCU, there is currently no way to know how pervasive sexual violence is on campus since students often do not report incidents and there is no central place for recording all reports that are made."
+		- [SV policy addressed at SCU](https://crimlawandpolicy.wordpress.com/2022/02/19/addressing-sexual-violence-policy-at-santa-clara-university/)
 
-			- "Adding to the issues around Title IX is the misinformation that is spread regarding what the Title IX coordinators are supposed to do, and how the process looks. Even though there are trainings offered at orientation, during sexual assault awareness month, and at the dorms and around campus, students often learn about the office through word of mouth. "
-
-			- [SV policy addressed at SCU](https://crimlawandpolicy.wordpress.com/2022/02/19/addressing-sexual-violence-policy-at-santa-clara-university/)
-
-				- "At SCU, an additional reason students may not report sexual violence is because there is no central place to make a report, and the process of reporting is complicated and confusing."
+			- "At SCU, an additional reason students may not report sexual violence is because there is no central place to make a report, and the process of reporting is complicated and confusing."
 
 - Campus SaVE Act
 
@@ -394,35 +411,6 @@ updated: true
 		- [Training required annually](https://sexualharassment.ucla.edu/education-training/undergraduate-students), failure to complete training results in registration hold on account 
 
 		- ["Mandatory civil rights training" by EDI@UCLA](https://equity.ucla.edu/edi-ucla/education/) simply leads to Title IX training
-
-#### OCR and Title IX
-
-- [DOE Title IX Final Rule](https://www.ed.gov/news/press-releases/us-department-education-releases-final-title-ix-regulations-providing-vital-protections-against-sex-discrimination)
-
-	- "The rule clarifies the steps a school must take to protect students, employees, and applicants from discrimination based on pregnancy or related conditions."
-
-	- "The final rule promotes accountability by requiring schools to take prompt and effective action to end any sex discrimination in their education programs or activities, prevent its recurrence, and remedy its effects."
-
-- [FACT SHEET: U.S. Department of Education’s 2024 Title IX Final Rule Overview](https://www2.ed.gov/about/offices/list/ocr/docs/t9-final-rule-factsheet.pdf)
-	
-	- "Ensure that schools communicate their nondiscrimination policies and procedures---
-	The final regulations require schools to clearly and effectively inform key people, including
-	students, employees, and applicants, of their nondiscrimination policies and procedures."
-
-	- "Title IX Coordinators, investigators, decisionmakers, and facilitators of an informal
-	resolution process must not have a conflict of interest or bias for or against complainants
-	or respondents generally or an individual complainant or respondent."
-
-- Compliance (Background)
-
-	Resolution agreements- P. 91, "Moreover, in the context of administrative enforcement, a recipient must be given notice and an opportunity to come into compliance before the termination of funding. 20 U.S.C. 1682.
-	Indeed, the Department’s administrative enforcement investigations generally result in
-	agreements with the recipient to take action that would bring them into compliance. Thus, if the
-	Department receives a complaint about severe or pervasive harassment, and its investigation
-	confirms the allegations in that complaint, the Department will bring this conduct to the attention
-	of the recipient, and to discuss and determine appropriate corrective measures with the
-	recipient’s input.""
-
 
 ### UCLA and Title VI 
 
