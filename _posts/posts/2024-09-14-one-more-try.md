@@ -172,6 +172,10 @@ Change to reflect "Updated" test
 
 	- bias---both institutional and organizational 
 
+	- time, place, manner
+
+	- message activism over identity activism
+
 	- reporting
 
 ### Title IX still has a similar need for *academic* and *on-campus* training scenarios 
