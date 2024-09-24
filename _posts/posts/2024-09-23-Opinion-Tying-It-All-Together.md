@@ -4,7 +4,7 @@ title: "Opinion, Tying it All Together"
 published: true
 author: Alexie Pogue
 date: 2024-09-23 04:37 PM
-updated_date: 2024-09-19 10:09 PM
+updated_date: 2024-09-19 10:32 PM
 ---
 
 - "Notes" post will be reorganized and redistributed here and elsewhere
