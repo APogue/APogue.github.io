@@ -435,6 +435,18 @@ updated_date: 2024-09-23 3:46 PM
 
     - She was asked about Dad's work, his income, if he would get tenure as part of her own interviews 
 
+### UCLA-relevant notes
+
+- We have all felt protected by Title IX
+
+    - The entire UCLA community receives Title IX education annually 
+
+        - [Training required annually](https://sexualharassment.ucla.edu/education-training/undergraduate-students), failure to complete training results in registration hold on account 
+
+- Who do we have to thank for this? 
+
+    - [Training requirements](https://equity.ucla.edu/education/mandatory-trainings/t9-sexual-violence-sexual-harassment-training/#student) and relevant policies 
+
 - [DB Counter protesters](https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment) "More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called “terrorists,” to “show your face.”" 
 
 - [UCLA orientation is optional](https://newstudents.ucla.edu/programs/first-year-students/#tab-id-3)
@@ -459,3 +471,16 @@ updated_date: 2024-09-23 3:46 PM
 
         - Can social media be considered constructive notice? 
 
+### Other schools 
+
+- GW has an outstanding [Title IX website](https://titleix.gwu.edu/)
+
+- Annual Title IX report vs the Clery Report
+
+    - [GW annual report](https://titleix.gwu.edu/title-ix-office-annual-reports) vs. [GW Clery Report](https://police.gwu.edu/annual-security-fire-safety-report)
+
+    - [UCLA annual report](https://ucla.app.box.com/s/eyri3lej5htfl7uwkv7huhp9o8y3revo) vs. [UCLA Clery Report](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act)
+
+        - Clery jurisdiction off-campus only includes campus-affiliated properties. In UCLA's case, this includes the fraternities and sororities. [site](https://www.ucpd.ucla.edu/reports-statistics/jeanne-clery-act/campus-security-authorities-csa)
+
+    - [SCU no annual report](https://www.scu.edu/title-ix/about/documents/) yet they have [problems](https://www.kron4.com/news/bay-area/multiple-alleged-sexual-assaults-reported-at-santa-clara-university/) that are not accounted for in the [SCU Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2023-Main-Campus-ASR-Final.pdf)

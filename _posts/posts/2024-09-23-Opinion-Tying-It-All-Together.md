@@ -4,6 +4,7 @@ title: "Opinion, Tying it All Together"
 published: true
 author: Alexie Pogue
 date: 2024-09-23 04:37 PM
+updated_date: 2024-09-19 10:09 PM
 ---
 
 "Title VI Notes" will be reorganized and redistributed here and elsewhere
@@ -11,4 +12,99 @@ date: 2024-09-23 04:37 PM
 - Go over the other sections and recursively add to this section 
 
 
+- Training should include
 
+	- message activism over identity activism
+
+
+- There's anxiety about possible outcomes 
+
+	- The goal should be to encourage people, if nothing else, to just submit a report 
+
+		- It should be clear to students first and foremost that an arrest does not have to be made and a Title IX investigation does not need to be initiated
+
+		- Beyond this step, they should trust that the grievance process is discrete and fair 
+
+
+
+- Why is there a stigma in talking about SVSH? Why don't we know how pervasive SVSH is? Why aren't students surveyed? 
+
+	- How can anyone have any idea if the number of reports is anywhere close to the number of incidents? Is this not a concern for the well-being of the students? 
+
+
+- It would also be nice 
+
+	- Accountability reporting
+
+		- Campus climate is a problem in some areas
+
+		- What are the diversity enrollments in STEM?
+
+			- If we don't know, how can we say there's no correlation between minority enrollment and STEM "climate?"
+
+	- More money for DOE and OCR 
+
+
+
+
+
+- For *both* Title IX and Title VI, *in the training*, they need to be *promoting a culture of reporting and safety*
+
+
+
+
+
+
+- Students are adults, and should be treated as such. An equitable environment shouldn't mean punishment.
+
+
+- Problems with UCUES
+
+	- UCUES is optional 
+
+	- UCUES is massive 
+
+	- UCUES made certain civil rights questions optional, in an optional survey 
+
+
+### The case for an overhaul on Title VI in general 
+
+- Based on the last year, it is impossible to say that the current standard for Title VI is working, we know that with respect to antisemitic and anti-Muslim activity
+
+	- Based on Michigan the schools themselves don't know Title VI 
+
+		- Decentralized reporting with little to no accountability
+
+		- Difficulty deciphering between creation of a hostile environment and protected speech
+
+
+
+
+- The goal is to cast doubt, which means make it impossible to disprove the possibility that civil rights violations that equate to denied access to education are occurring 
+
+- *Based on these issues why would we assume it is working at all?* 
+
+- The law is vague with respect to what constitutes "protection of rights"
+
+	- It largely relies on the student to protect themselves
+
+	- But the student cannot be relied upon to be *aware and proactive* without, at the very least, notification and literacy
+
+- Thus, even if the number of reports were low, there is no way to determine whether this is due to a low number of incidents or a broken system
+
+
+
+
+
+
+
+
+
+
+
+- UCLA annual data report has inexplicable discrepancies 
+
+	- Civil rights reporting is low compared to Title IX 
+
+
+- If the law is vague, and its left up to the recipient---who may themselves be the subject of reports---to define "access to education" then that access will inevitably be vulnerable

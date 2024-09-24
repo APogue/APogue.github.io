@@ -1,13 +1,11 @@
 ---
 layout: outline
-title: "Try to get this right one more time"
+title: "Title VI Model"
 published: true
 author: Alexie Pogue
 date: 2024-09-16 12:00 PM
-updated_date: 2024-09-19 5:31 PM
+updated_date: 2024-09-19 10:10 PM
 ---
-
-This file will be renamed "Title VI Model" and info from "Title VI Model" will be redistributed here or deleted
 
 ### Define Title IX
 
@@ -21,7 +19,7 @@ This file will be renamed "Title VI Model" and info from "Title VI Model" will b
 
 - Clery training requirements
 
-	- Requires "recognition" i.e. introduce the concept of literacy
+	- Requires "recognition" i.e. introduce the concept of literacy---students are unable to recognize problematic scenarios when they arise
 
 - Title IX posting requirements
 
@@ -68,7 +66,7 @@ This file will be renamed "Title VI Model" and info from "Title VI Model" will b
 
 - Sexual assault is still pervasive 
 
-- From 2015 to 2019 students have a better understanding of what constitutes assault (SaVE training is working)
+- From 2015 to 2019 students have a better understanding of what constitutes assault (AAU survey---SaVE training is working)
 
 - But students are not reporting 
 
@@ -82,7 +80,7 @@ This file will be renamed "Title VI Model" and info from "Title VI Model" will b
 
 	- There are barriers to reporting
 
-		- Title IX Coordinator awareness can reduce other barriers
+		- "Reflexive" Title IX Coordinator awareness can reduce other barriers (opinion?)
 
 		- A posting requirement wrt Title IX Coordinators may be insufficient 
 
@@ -130,6 +128,8 @@ This file will be renamed "Title VI Model" and info from "Title VI Model" will b
 
 - History relevant Title VI
 
+	- Proactive approaches: direct amendments and regulatory updates
+
 ### Define Title VI
 
 - Definition 
@@ -138,19 +138,31 @@ This file will be renamed "Title VI Model" and info from "Title VI Model" will b
 
 	- Despite differences historically with Title IX, Congressional Research Service says, "much of the doctrine under the statute has been shaped by its use in the public schools."
 
-- Years amended vs. Title IX
+- Years amended (the law is still extremely vague, despite its de facto purpose)
 
 - Differences in enforcement vs. Title IX
+
+	- Still largely relies on agency guidance via Dear Colleague Letters 
+
+		- Agency guidance is exactly that, guidance
 
 	- Reactive not proactive
 
 		- Case law is not comprehensive enough (the latest UCLA lawsuit is an example)
 
 		- OCR is comprehensive, but they are over-burdened, behind, and issues persist even with involvement
-
+	
 - Non-existent reporting loop
 
-	- There is no way to know how pervasive some Title VI issues are 
+	- Notification need only be "made available"
+
+	- Optional training (freshman orientation)
+
+	- Based on both of the above, how will students know when to report if they don't properly understand their rights? 
+
+	- As a result, there is no way to know how pervasive some Title VI issues are (Reddit example)
+
+	- A working loop requires *publication of notification-literacy-know who to report to ("coordinator awareness")-trust the reporting system*
 
 ### Title VI has a demonstrated need for 
 
@@ -173,8 +185,6 @@ This file will be renamed "Title VI Model" and info from "Title VI Model" will b
 	- bias---both institutional and organizational 
 
 	- time, place, manner
-
-	- message activism over identity activism
 
 	- reporting
 
