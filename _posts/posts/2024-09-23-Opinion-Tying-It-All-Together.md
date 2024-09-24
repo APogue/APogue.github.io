@@ -40,7 +40,7 @@ updated_date: 2024-09-19 10:32 PM
 
 #### Campus climate is a related problem
 
-- If the law is vague, and left up to the recipient---who may themselves be the subject of reports---to define "access to education" then that access will inevitably be vulnerable
+- If the law is vague, and left up to the recipient---who may themselves be the subject of reports---to define "access to education," then that access may be vulnerable
 
 - What are the diversity enrollments in STEM?
 
