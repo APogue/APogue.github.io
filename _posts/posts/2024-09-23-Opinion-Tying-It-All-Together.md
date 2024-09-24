@@ -50,6 +50,15 @@ updated_date: 2024-09-19 10:32 PM
 ---------------------------------------------------------------------------------------------------------------------------
 ### Notes 
 
+- [Accountability report 2020](https://accountability.universityofcalifornia.edu/2020/chapters/chapter-7.html#7.3.1)
+
+	- "African American students are less likely to feel that students of their race/ethnicity are respected on their campus than other students."
+
+	- Other valuable info here such see other charts
+
+- [UCOP Academic Affairs](https://www.ucop.edu/academic-affairs/prop-209/index.html#:~:text=Proposition%20209%2C%20passed%20in%201996,public%20contracting%20and%20public%20education.) research and analyses on the impact of proposition 209 in CA 
+
+
 - Training should include
 
 	- message activism over identity activism
