@@ -50,6 +50,8 @@ updated_date: 2024-09-19 10:32 PM
 ---------------------------------------------------------------------------------------------------------------------------
 ### Notes 
 
+- [Acknowledge by enrollment to adhere to student conduct code](https://deanofstudents.ucla.edu/student-conduct-code)
+
 - [Undergraduate Admissions Summary Tables](https://www.universityofcalifornia.edu/about-us/information-center/admissions-residency-and-ethnicity)
 
 - [Accountability report 2020](https://accountability.universityofcalifornia.edu/2020/chapters/chapter-7.html#7.3.1)
