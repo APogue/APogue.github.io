@@ -67,7 +67,7 @@ updated_date: 2024-09-19 10:09 PM
 	- UCUES made certain civil rights questions optional, in an optional survey 
 
 
-### The case for an overhaul on Title VI in general 
+### The case for an overhaul of Title VI in general 
 
 - Based on the last year, it is impossible to say that the current standard for Title VI is working, we know that with respect to antisemitic and anti-Muslim activity
 
