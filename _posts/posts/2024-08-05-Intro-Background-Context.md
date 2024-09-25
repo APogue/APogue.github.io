@@ -289,7 +289,9 @@ updated_date: 2024-09-25 2:53 PM
 
 		- Encampment exclusion activities 
 
-		- Involvement of their own organizations, CAC and the other USAC org, in the encampment while they partook in exclusion
+		- Involvement of their own organizations, CAC and the other USAC org, in the encampment while they partook in exclusion---internal accountability 
+
+		- They have in the past condemned antisemitism happening elsewhere in the country. They can't condemn it occurring on their own campus? Isn't it their job to be working on behalf of *all* the students? 
 
 	- When they partook in discriminating behavior
 
