@@ -4,7 +4,7 @@ title: "Introduction/Background and Context"
 published: true
 author: Alexie Pogue
 date: 2024-08-05 02:00 PM
-
+updated_date: 2024-09-25 2:53 PM
 ---
 
 ## Introduction
@@ -236,3 +236,41 @@ date: 2024-08-05 02:00 PM
 
 			- An unsafe campus environment for pro-Palestinian students
 
+---------------------------------------------------------------------------------------------------------
+### Refresher Notes
+
+- USAC can take political positions
+
+	- the idea that they must be "inclusive" of everyone does not equate to "political correctness," their *ideas*, their *positions* need not be inclusive of everyone
+
+	- but they cannot *exclude* anyone that wants to participate, that is the line. E.g. If someone of Israeli origin does not believe Israel should exist, then they must be included if that's what they want
+
+	- Therefor, UCLA would take the position, that regardless of what one may think CAC's constitution implies, their X posts are within the codes of conduct 
+
+	- However, once they began discriminating, we can view these positions as contributing to a *hostile environment* because they are motivated by bias. Thus they are in violation of Title VI by totality of circumstances. 
+
+- Where did USAC mess up
+
+	- When they did not respond to Hillel---denied benefits
+
+	- When they participated in the encampment---denied benefits
+
+	- Neither of the above has anything to do with the basis for which people were exluded. "Zionism" etc., these labels are irrelevant. 
+
+	- When they would not condemn discriminating behavior 
+	
+		- CAC, UC Divest, general campus climate activity, etc. 
+
+		- Encampment exclusion activities 
+
+		- Involvement of their own organizations, CAC and the other USAC org, in the encampment while they partook in exclusion
+
+	- When they partook in discriminating behavior
+
+		- CAC discriminates
+
+		- We would assume USAC had constructive notice of CAC's activity via direct call outs by DB and Hillel, their own Insta activity
+
+		- They took no measures to hold CAC accountable via impeachment hearings---corruption
+
+	
