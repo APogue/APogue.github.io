@@ -241,21 +241,47 @@ updated_date: 2024-09-25 2:53 PM
 
 - USAC can take political positions
 
-	- the idea that they must be "inclusive" of everyone does not equate to "political correctness," their *ideas*, their *positions* need not be inclusive of everyone
+	- the idea that they must be "inclusive" of everyone does not equate to "political correctness," their *ideas*, their *positions*, need not be inclusive of everyone
 
-	- but they cannot *exclude* anyone that wants to participate, that is the line. E.g. If someone of Israeli origin does not believe Israel should exist, then they must be included if that's what they want
+	- but they cannot *exclude* anyone that wants to participate, that is the line. E.g. if someone of Israeli origin does not believe Israel should exist, then they must be included if that's what they want
 
-	- Therefor, UCLA would take the position, that regardless of what one may think CAC's constitution implies, their X posts are within the codes of conduct 
+	- Therefor, UCLA would take the position, that regardless of what CAC's constitution implies, their X posts are within the codes of conduct 
 
 	- However, once they began discriminating, we can view these positions as contributing to a *hostile environment* because they are motivated by bias. Thus they are in violation of Title VI by totality of circumstances. 
+
+- There are 2 issues at hand
+
+	- UC policy---no one can be denied on any grounds
+
+	- Title VI---no one can be denied benefits where discrimination is occurring 
+
+- The encampment would not allow "Zionists" through. What is the definition? They were deliberately vague. There was no evidence to suggest that "Zionist" did not mean an individual who believes in Israel's statehood. 
+
+	- Is this a Title VI violation? Technically, no. Discrimination based on national origin by its "purest" definition would be hating someone of Israeli origin whether or not the state exists. They did not exclude anyone based purely on their national origin. 
+
+	- This clearly is a violation of UC policy, more specifically---
+
+		- Based on an obligation to pay student fees, there is a de facto contractual agreement in place, that should someone decide to go to UCLA
+
+			- They must renounce Israel to do so
+
+	- This is a violation of Title VI---
+
+		- Based on an obligation to pay student fees, there is a de facto contractual agreement in place, that should someone be Jewish and decide to go to UCLA
+
+			- The student gov't and associated organizations will side against them 
+
+		- Discrimination was occurring inside the encampment (red triangles)
+
+		- UC, like Michigan, willfully conflates Title VI protected and unprotected activity
+
+		- Where unprotected activity exists, *there must be a coordinator in place* to receive constructive notice and to determine whether a hostile environment exists based on totality of circumstances 
 
 - Where did USAC mess up
 
 	- When they did not respond to Hillel---denied benefits
 
 	- When they participated in the encampment---denied benefits
-
-	- Neither of the above has anything to do with the basis for which people were exluded. "Zionism" etc., these labels are irrelevant. 
 
 	- When they would not condemn discriminating behavior 
 	
