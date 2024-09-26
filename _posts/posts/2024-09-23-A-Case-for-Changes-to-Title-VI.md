@@ -4,7 +4,7 @@ title: "A Case for Changes to Title VI"
 published: true
 author: Alexie Pogue
 date: 2024-09-23 04:30 PM
-updated_date: 2024-09-19 11:06 PM
+updated_date: 2024-09-26 6:06 PM
 ---
 
 
@@ -15,6 +15,12 @@ updated_date: 2024-09-19 11:06 PM
 - When largely left up to the recipient, they've proven ill-equipped 
 
 	- How is UCLA handling last April? 
+
+	- UCLA is not holding themselves accountable 
+
+		- The house committee was weak and useless and Block gave vague promises of change
+
+		- Nothing UCLA is doing to hold themselves accountable looks like what other schools going through resolution agreements are doing 
 
 - History of incidents not being resolved in a timely manner (behind)
 
