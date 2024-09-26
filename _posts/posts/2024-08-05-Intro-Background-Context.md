@@ -301,4 +301,4 @@ updated_date: 2024-09-25 2:53 PM
 
 		- They took no measures to hold CAC accountable via impeachment hearings---corruption
 
-	
+- They're treating student gov't like a club that a group of friends belong to. How can anyone take them seriously? 
