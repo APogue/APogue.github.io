@@ -59,7 +59,7 @@ updated_date: 2024-09-19 10:10 PM
 
 		- They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
 
-		- They have zero Title IX cases pending with OCR, last 2 resolution letters are from 2017 and 2018 (Title II and Title VI/XI)
+		- They have zero Title IX cases pending with OCR, last 2 resolution letters are from [2017](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172106-a.pdf) and [2018 (Title II and Title VI/IX)](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172584-a.pdf)
 
 
 ### Students are not reporting in general

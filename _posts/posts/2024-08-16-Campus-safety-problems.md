@@ -4,7 +4,7 @@ title: "Campus safety is a problem"
 published: true
 author: Alexie Pogue
 date: 2024-08-16 11:00 AM
-updated: true
+updated_date: 2024-09-26 2:33 PM
 ---
 
 ## Background and context
@@ -13,7 +13,7 @@ updated: true
 
 	- [Op-ed by Gene Block](https://dailybruin.com/2018/11/18/national-students-for-justice-in-palestine-conference-goes-on-despite-on-campus-protest) argues that pro-Israel delegates should be allowed to participate 
 
-		- As a non-USAC affiliated student org they have no obligation to do this (conflating protected and unprotected activity)
+		- As a non-USAC affiliated student org they have no obligation to do this---[student org constitutions](https://docs.google.com/document/d/1C129AzlLy7CYdq81f2TUWyMaVdpr0V7LHmKVnA1PvoE/edit) 
 
 - The Jewish community has a history of actively engaging with the university 
 
@@ -38,6 +38,8 @@ updated: true
 - Student testimonies
 
 	- Safety through [rhetoric](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=3) 
+
+		- student needs are becoming more nuanced and sensitive
 
 	- [Students voice concerns](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
 
@@ -262,3 +264,53 @@ updated: true
 	- Officer misconduct goes unpunished in general [article](https://www.nytimes.com/2024/06/27/nyregion/how-the-nypd-quietly-shuts-down-discipline-cases-against-officers.html)
 
 
+----------------------------------------------------------------------------------------------------------------------------
+
+### Notes 
+
+[UCLA releases new time, place, manner policies](https://sole.ucla.edu/policies)
+
+California withholds funds until UC's figure out bla bla bla ("article draft")
+
+With UCLA as the example---
+
+1. Institutional and organizational bias
+
+2. Campus safety 
+
+SCU as the example---
+
+3. Students are not reporting enough 
+
+UC's as an example---
+
+4. Campus climate issues, such as Black students not feeling comfortable on campus
+
+
+
+
+
+
+3. Campus climate assessment based on totality of circumstances 
+
+4. Notification of students' rights
+
+
+
+
+
+
+
+Major themes based on my objective---
+
+1. Campus climate assessment based on totality of circumstances
+
+2. Institutional and organizational bias
+
+3. Safety and knowledge of students' rights
+
+4. Pathways to increase reporting 
+
+5. Elimination of discrimination in on-campus settings
+
+6. Awareness of what constitutes harm: bias, discrimination, assault 

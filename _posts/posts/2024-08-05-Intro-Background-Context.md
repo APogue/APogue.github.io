@@ -236,7 +236,7 @@ updated_date: 2024-09-25 2:53 PM
 
 			- An unsafe campus environment for pro-Palestinian students
 
----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 ### Refresher Notes
 
 - USAC can take political positions
@@ -302,3 +302,5 @@ updated_date: 2024-09-25 2:53 PM
 		- They took no measures to hold CAC accountable via impeachment hearings---corruption
 
 - They're treating student gov't like a club that a group of friends belong to. How can anyone take them seriously? 
+
+- This is related to UC policy cultivating a microcosm of corruption. 

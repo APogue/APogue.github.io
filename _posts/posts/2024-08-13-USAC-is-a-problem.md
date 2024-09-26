@@ -4,7 +4,7 @@ title: "USAC is a Problem"
 published: true
 author: Alexie Pogue
 date: 2024-08-13 02:00 PM
-updated: true
+updated_date: 2024-09-26 12:21 PM
 ---
 
 Thesis: Correlation with the conflict in Gaza is not necessarily causation. 
@@ -58,7 +58,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- CAC
 
-			- [Mission](https://community.ucla.edu/studentorg/623)
+			- [Mission](https://prod.community.ucla.systems/studentorg/623)
 
 				- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
 
@@ -202,7 +202,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - All of the above indicates their behavior is *exclusive*, USAC is *excluding* members of the campus community 
 
-- Their more recent [resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation) possibly targets the state of Israel rather than Israel's policies 
+- Their more recent [resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation) possibly targets Israeli and Jewish culture rather than Israel's policies
 
 	- [It](https://docs.google.com/document/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic) is questionably far reaching, and calls for the abolishment of the UCLA Nazarian Center
 
@@ -226,15 +226,10 @@ This way, you clearly separate the timing of events from the underlying ideologi
 	community."
 
 
+---------------------------------------------------------------------------------------------------------
+### Refresher Notes
 
 ****Verdugo was on the council during 2021-2022 year when the last Resolution condemning antisemitism was passed 
 
 Jewish students seek court order against UCLA’s antisemitic encampments before fall semester https://www.thecentersquare.com/national/article_8bf5303c-33c5-11ef-b5b7-7370c3907658.html https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-antisemitic-encampments-before-fall-semester/ https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/ https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf
-
-
----------------------------------------------------------------------------------------------------------
-### Refresher Notes
-
-
-
 

@@ -50,6 +50,12 @@ updated_date: 2024-09-19 10:32 PM
 ---------------------------------------------------------------------------------------------------------------------------
 ### Notes 
 
+
+
+- Based on a broken system it is unknown what other civil rights issues are present
+
+- Longevity: these issues will persist indefinitely---due to geopolitical conflict, the vitriolic political climate, foreign students, unfettered access to bias and discriminatory views via social media, and bullying and harassment via social media---and will serve to fill the void in the absence of administrative guidance and Title VI education and enforcement
+
 - [Acknowledge by enrollment to adhere to student conduct code](https://deanofstudents.ucla.edu/student-conduct-code)
 
 - [Undergraduate Admissions Summary Tables](https://www.universityofcalifornia.edu/about-us/information-center/admissions-residency-and-ethnicity)
