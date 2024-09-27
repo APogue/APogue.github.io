@@ -32,7 +32,7 @@ date: 2024-09-27 04:34 PM
 - [Brown University July 8, 2024](https://www.jdsupra.com/legalnews/another-title-vi-agreement-and-another-1121678/)
 
 
-
+- [Case Processing Manual](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocrcpm.pdf)
 
 ### Pending Cases Currently Under Investigation at Elementary-Secondary and Post-Secondary Schools
 
