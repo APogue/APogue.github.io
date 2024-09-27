@@ -6,20 +6,24 @@ author: Alexie Pogue
 date: 2024-09-27 04:34 PM
 ---
 
+### Notes and Links
 
-   - [Records related to Title VI Shared Ancestry or Ethnic Characteristics Investigations](https://www.ed.gov/laws-and-policy/civil-rights-laws/race-religion-and-national-origin/records-related-to-title-vi-shared-ancestry-or-ethnic-characteristics-investigations)
+- [List of Open Title VI Shared Ancestry Investigations](https://www.ed.gov/about/offices/list/ocr/sharedancestry-list)
 
-       - "The Department's Office for Civil Rights (OCR) has determined that some records related to OCR's investigations of elementary, secondary, and post-secondary institutions for alleged discrimination involving shared ancestry or ethnic characteristics, filed in or after October 2023, are ones for which multiple Freedom of Information Act (FOIA) requests have been (or are likely to be) received."
+- [Records related to Title VI Shared Ancestry or Ethnic Characteristics Investigations](https://www.ed.gov/laws-and-policy/civil-rights-laws/race-religion-and-national-origin/records-related-to-title-vi-shared-ancestry-or-ethnic-characteristics-investigations)
 
-   - [All pending OCR civil rights cases](https://ocrcas.ed.gov/open-investigations) at elementary-secondary and post-secondary institutions that are currently being investigated can be found here
+    - "The Department's Office for Civil Rights (OCR) has determined that some records related to OCR's investigations of elementary, secondary, and post-secondary institutions for alleged discrimination involving shared ancestry or ethnic characteristics, filed in or after October 2023, are ones for which multiple Freedom of Information Act (FOIA) requests have been (or are likely to be) received."
 
-   - [OCR recent resolution search](https://ocrcas.ed.gov/ocr-search?f%5B0%5D=field_ocr_statutes%3A527&sort_order=DESC&sort_by=field_resolved) database can be found here
+    - The above link is dead
+
+- [All pending OCR civil rights cases](https://ocrcas.ed.gov/open-investigations) at elementary-secondary and post-secondary institutions that are currently being investigated can be found here
+
+- [OCR recent resolution search](https://ocrcas.ed.gov/ocr-search?f%5B0%5D=field_ocr_statutes%3A527&sort_order=DESC&sort_by=field_resolved) database can be found here
 
 
-- [UCLA has 8 pending Title VI Investigations](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&page=15) from as early as 01/03/2020
+- [Case Processing Manual](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocrcpm.pdf)
 
-- [There are UCLA (Title IX) cases from as early as 2014 still pending with OCR](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&order=field_open_investigation_date&sort=asc&page=0)
-
+- [Case resolutions regarding race, color, or national origin discrimination](https://www.ed.gov/about/ed-offices/ocr/race-discrimination)
 
 
 - [August 5, 2020 Statement](https://www.jewishportland.org/roseritch), Rose Ritch Resignation Statement From Undergraduate Student Government
@@ -31,8 +35,9 @@ date: 2024-09-27 04:34 PM
 
 - [Brown University July 8, 2024](https://www.jdsupra.com/legalnews/another-title-vi-agreement-and-another-1121678/)
 
+- [UCLA has 8 pending Title VI Investigations](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&page=15) from as early as 01/03/2020
 
-- [Case Processing Manual](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocrcpm.pdf)
+- [There are UCLA (Title IX) cases from as early as 2014 still pending with OCR](https://ocrcas.ed.gov/open-investigations?field_ois_state=642&field_ois_discrimination_statute=All&field_ois_type_of_discrimination=All&items_per_page=20&field_ois_institution=&field_ois_institution_type=All&field_open_investigation_date_1=&field_open_investigation_date_2=&field_open_investigation_date=&field_open_investigation_date_3=&order=field_open_investigation_date&sort=asc&page=0)
 
 ### Pending Cases Currently Under Investigation at Elementary-Secondary and Post-Secondary Schools
 
@@ -103,3 +108,4 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - Retaliation - 118 records - 07/05/2013 - 09/18/2024
 
+### Case resolutions regarding race, color, or national origin discrimination
