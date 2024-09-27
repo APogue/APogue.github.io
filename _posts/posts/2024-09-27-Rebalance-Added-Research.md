@@ -85,6 +85,8 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - Denial of Benefits - 224 records - 12/18/2014 - 09/20/2024
 
+	- Requires an FOIA request? 
+
 - Discipline - 12 records - 01/08/2016 - 08/23/2024
 
 - English Language Learners - 0 records
