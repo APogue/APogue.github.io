@@ -3,7 +3,7 @@ layout: outline
 title: "Rebalance the Outlines with Added Research"
 published: true
 author: Alexie Pogue
-date: 2024-09-27 04:34 PM
+date: 2024-09-30 07:15 PM
 ---
 
 ### Notes and Links
@@ -109,3 +109,27 @@ Cases are not necessarily investigated in the order that complaints are received
 - Retaliation - 118 records - 07/05/2013 - 09/18/2024
 
 ### Case resolutions regarding race, color, or national origin discrimination
+
+
+### Articles 
+
+[Nov. 27, 2023](https://nymag.com/intelligencer/2023/11/why-jewish-voice-for-peace-is-against-israels-war-in-gaza.html?utm_source=google&utm_medium=h5d&utm_campaign=h_st_00431&gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapWK71smntLGUbJCX28MDbDy3HqkM0xK8EFG_22S07ccF7w5LOpd3hcaApvdEALw_wcB)
+
+[Death to Israel Michigan Daily Sept 30, 2024](https://www.michigandaily.com/news/news-briefs/university-president-santa-ono-responds-to-instagram-deleting-jvp-post/)
+
+[President Ono Post on JVP non-affiliate post](https://publicaffairs.vpcomm.umich.edu/key-issues/instagrams-decision-to-delete-jvp-post/)
+
+[UCLA external VP gets involved with "death to Israel" post](https://www.instagram.com/sababasisters/p/DAhOEGaStSJ/)
+
+UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
+
+
+UCLA announces new Time, Place and Manner policies, limits public expression areas [article](https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas)
+
+UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
+
+[UCLA time, place, and manner policies](https://adminvc.ucla.edu/tpm-policies)
+
+[UCLA SOLE policies---new tpm policies](https://sole.ucla.edu/policies)
+
+[Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
