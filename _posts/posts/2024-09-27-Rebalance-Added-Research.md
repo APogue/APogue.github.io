@@ -3,7 +3,7 @@ layout: outline
 title: "Rebalance the Outlines with Added Research"
 published: true
 author: Alexie Pogue
-date: 2024-09-30 07:15 PM
+date: 2024-10-01 11:51 AM
 ---
 
 ### Notes and Links
@@ -113,23 +113,37 @@ Cases are not necessarily investigated in the order that complaints are received
 
 ### Articles 
 
-[Nov. 27, 2023](https://nymag.com/intelligencer/2023/11/why-jewish-voice-for-peace-is-against-israels-war-in-gaza.html?utm_source=google&utm_medium=h5d&utm_campaign=h_st_00431&gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapWK71smntLGUbJCX28MDbDy3HqkM0xK8EFG_22S07ccF7w5LOpd3hcaApvdEALw_wcB)
+- [Nov. 27, 2023](https://nymag.com/intelligencer/2023/11/why-jewish-voice-for-peace-is-against-israels-war-in-gaza.html?utm_source=google&utm_medium=h5d&utm_campaign=h_st_00431&gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapWK71smntLGUbJCX28MDbDy3HqkM0xK8EFG_22S07ccF7w5LOpd3hcaApvdEALw_wcB)
 
-[Death to Israel Michigan Daily Sept 30, 2024](https://www.michigandaily.com/news/news-briefs/university-president-santa-ono-responds-to-instagram-deleting-jvp-post/)
+- [Death to Israel Michigan Daily Sept 30, 2024](https://www.michigandaily.com/news/news-briefs/university-president-santa-ono-responds-to-instagram-deleting-jvp-post/)
 
-[President Ono Post on JVP non-affiliate post](https://publicaffairs.vpcomm.umich.edu/key-issues/instagrams-decision-to-delete-jvp-post/)
+	- [ Unaffiliated JVP at UMich defines Zionism](https://www.instagram.com/jvpumich/p/C4_1u7kPrUJ/?img_index=8)
 
-[UCLA external VP gets involved with "death to Israel" post](https://www.instagram.com/sababasisters/p/DAhOEGaStSJ/)
+	- [President Ono Post on JVP non-affiliate post](https://publicaffairs.vpcomm.umich.edu/key-issues/instagrams-decision-to-delete-jvp-post/)
 
-UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
+- [UCLA external VP gets involved with "death to Israel" post](https://www.instagram.com/sababasisters/p/DAhOEGaStSJ/), this post looks fake in which case someone tried to set them up. The underline under the name is not normal. This is a case of targeting of pro-palestinian advocates at the university. 
+
+	- "I do not believe this is real (the _ which appears partially under his name looks fake), BUT if it is he would immediately be relieved of his duties @UCLA"
+
+	- [Statements made by EVP are more balanced in rhetoric---Eva Jussim](https://www.instagram.com/p/CzxE9LbPZm2/)
 
 
-UCLA announces new Time, Place and Manner policies, limits public expression areas [article](https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas)
+	- [University of California Students Association](https://www.instagram.com/p/C90ZaFDSty9/?img_index=1) policy on public discretionary statements
 
-UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
+	- [EVP meets with stakeholders regarding April 30th---Eva Jussim and Javier Verdugo](https://www.instagram.com/p/C7hdjjAPJWe/)
 
-[UCLA time, place, and manner policies](https://adminvc.ucla.edu/tpm-policies)
+	- [jj.aviier March Regents Meeting with Pig effigy](https://www.instagram.com/p/C4wYcR4PRzn/?img_index=1)
 
-[UCLA SOLE policies---new tpm policies](https://sole.ucla.edu/policies)
+- UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
 
-[Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
+- UCLA announces new Time, Place and Manner policies, limits public expression areas [article](https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas)
+
+- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
+
+- [UCLA time, place, and manner policies](https://adminvc.ucla.edu/tpm-policies)
+
+- [UCLA SOLE policies---new tpm policies](https://sole.ucla.edu/policies)
+
+- [Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
+
+
