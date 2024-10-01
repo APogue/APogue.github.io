@@ -3,7 +3,7 @@ layout: outline
 title: "Rebalance the Outlines with Added Research"
 published: true
 author: Alexie Pogue
-date: 2024-10-01 11:51 AM
+date: 2024-10-01 7:05 PM
 ---
 
 ### Notes and Links
@@ -146,6 +146,11 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - [Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
 
+- [Drake letter regarding new TPM policies](https://www.documentcloud.org/documents/25051187-letter-from-president-drake-chancellors-policies-impacting-expressive-activity-003)
+
+- [police at uc santa cruz](https://mondoweiss.net/2024/06/we-are-going-to-hurt-you-uc-santa-cruz-chancellor-unleashes-police-mayhem-against-student-protesters/)
+
+- [At Michigan, Activists Take Over and Shut Down Student Government](https://www.nytimes.com/2024/08/27/us/umich-gaza-protests-student-government.html)---this looks policy related, not relevant 
 
 ### Demonstrate a need for publication of notification
 
@@ -153,4 +158,39 @@ Cases are not necessarily investigated in the order that complaints are received
 
 	- "Information to beneficiaries and participants.  Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation."
 
-- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
+- [UC non-affiliate policy](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as)
+
+- [Police arrested hundreds of pro-Palestinian students in L.A. The fallout continues, Aug. 2, 2024](https://www.latimes.com/california/story/2024-08-02/ucla-usc-pomona-palestinian-protests)
+
+	- "Since police arrested her twice this spring at UCLA — accusing her of failing to obey orders to leave pro-Palestinian encampments — Asil Yassine has spent the summer navigating court dates and uncertainties. No criminal charges have been filed in one case, although it has not been dropped. In the other, an arraignment is coming up in late August. The consequences of her arrests are piling up."
+
+	- "Yassine was temporarily banned from campus and could not attend her graduation, where she would have received a doctorate in human development and psychology. The university placed holds on her records and she still has not received her diploma. Without proof of her degree, her work this summer at a psychology office won’t count toward her license. “I’m not surprised by the oppression but I’m shocked by the extent and aggression of it and how punitive it was,” said Yassine, who is of Palestinian and Lebanese heritage."
+
+	- "About three months since 231 UCLA protesters were arrested, most on misdemeanor charges, the Los Angeles city attorney’s office has not received referrals involving those cases, a spokesman said. The city attorney typically handles misdemeanor charges. There is a one-year period in which charges can be filed in misdemeanor cases."
+
+	- "Citing student privacy, a UCLA spokesman said the university could not discuss its internal student conduct proceedings."
+
+	- "Law enforcement authorities are still investigating those who instigated violence at the encampment on April 30 and May 1. One arrest was made in the attack."
+
+	- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
+
+		President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
+
+		- The UC's mainly concerned with enforcing rules to mitigate costs associated with protests
+
+		- This includes notification about rules around free speech activities and consequences for violating them 
+
+		- Also talks of extra security costs around Board of Regents meetings at UCLA 
+
+		- Yet they seem in support of costs "to keep campuses safe"
+
+			- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety.
+
+				“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
+
+	- [AB-107 Budget Act of 2024](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB107) "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans." Also applies to CSU (25 and 25)
+
+	- [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
+
+	- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
+
