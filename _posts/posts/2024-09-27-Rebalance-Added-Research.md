@@ -147,3 +147,10 @@ Cases are not necessarily investigated in the order that complaints are received
 - [Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
 
 
+### Demonstrate a need for publication of notification
+
+- [CFR 100.6d Compliance information](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/section-100.6)
+
+	- "Information to beneficiaries and participants.  Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation."
+
+- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
