@@ -194,3 +194,25 @@ Cases are not necessarily investigated in the order that complaints are received
 
 	- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
 
+		- Concepts related to bias 
+
+
+
+
+
+
+- Does UCLA care about its students? Why are they trying to get away with the riots of April 30th? 
+
+	- No signaling by the administration---UCOP, Regents, or UCLA---that they care about what happened, that ultimately they are an ally of the students
+
+	- They pitted themselves *against* these students, because the manner in which they are managing them *is not* content neutral 
+
+	- They refuse to acknowledge mistakes were made, they refuse to acknowledge that UCLA is unique in its circumstances
+
+	- Content neutral buffer zones
+
+	- Mandatory ID scans if non-affiliates 
+
+	- [Interim Chancellor Hunt Four-Point Plan](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
+
+		- "Braziel also initiated a review of UCLA’s safety protocols and police response to the events of last spring — which I will share with you when it is available. "
