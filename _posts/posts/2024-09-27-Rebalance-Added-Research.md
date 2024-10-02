@@ -216,3 +216,5 @@ Cases are not necessarily investigated in the order that complaints are received
 	- [Interim Chancellor Hunt Four-Point Plan](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
 
 		- "Braziel also initiated a review of UCLA’s safety protocols and police response to the events of last spring — which I will share with you when it is available. "
+
+		- [Campus safety report 2022](https://ucla.app.box.com/v/Public-Safety-Report)
