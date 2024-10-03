@@ -278,3 +278,15 @@ Cases are not necessarily investigated in the order that complaints are received
 
 
 - [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
+
+
+### Notes
+
+- Institutional bias
+
+- The conflating of protected and unprotected activity is always in service of the negative handling of pro-Palestinian students
+
+- There is a pattern showing a lack of siding with pro-Palestinian protesters via punishment, statement omissions, or a negative administrative tone
+
+- Shows they are not *truly* committed to content-neutral student management
+
