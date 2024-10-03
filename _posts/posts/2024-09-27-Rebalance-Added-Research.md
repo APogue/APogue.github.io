@@ -292,3 +292,20 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - Ex. the pig effigy, they didn't remove it right away even though it breaks Title VI and UC anti-discrimination policy. This and other messaging by the administration signals that *it is okay* to discriminate; resulting in organizational bias. 
 
+- There was a lack of swift response, conduct evaluations, appropriate acknowledgment, and anti-discrimination training during the last academic year. They are making scapegoats of these students thereby fueling the flames of divide between these groups. 
+
+- Yet they had constructive notice either via the DB, organization posts, or submitted complaints.
+
+- They had constructive notice via the Daily Bruin of the hate speech and discrimination occurring from counter-protesters as well---I don't believe there was any administrative response. 
+
+	- There needs to be *specific* recourse for what happened. If they can't close campus to non-affiliates like Columbia, then UCLA needs to become a surveillance campus. Scan an ID to come on campus. 
+
+- The UC non-discrimination policy 
+
+	- "Training and Education for the Respondent:
+	•	If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure.
+	•	The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards."
+
+	- By the UC anti-discrimination policy, respondents are subject to anti-discrimination training and education. By failing to hold the discriminating persons accountable, they are effectively denying them access to a Title VI education. 
+
+	- Denying them this education means they really do not care about these individuals and they do not care about campus climate. They continue with symbolic gestures tossed to the abyss. 
