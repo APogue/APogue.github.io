@@ -290,3 +290,5 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - Shows they are not *truly* committed to content-neutral student management
 
+- Ex. the pig effigy, they didn't remove it right away even though it breaks Title VI and UC anti-discrimination policy. This and other messaging by the administration signals that *it is okay* to discriminate; resulting in organizational bias. 
+
