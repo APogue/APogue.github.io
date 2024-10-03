@@ -309,3 +309,5 @@ Cases are not necessarily investigated in the order that complaints are received
 	- By the UC anti-discrimination policy, respondents are subject to anti-discrimination training and education. By failing to hold the discriminating persons accountable, they are effectively denying them access to a Title VI education. 
 
 	- Denying them this education means they really do not care about these individuals and they do not care about campus climate. They continue with symbolic gestures tossed to the abyss. 
+
+- All in all, (Gene Block and) UCLA have washed their hands of these students, they don't want to deal with them. 
