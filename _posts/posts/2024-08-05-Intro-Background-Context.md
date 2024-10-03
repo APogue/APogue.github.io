@@ -269,7 +269,7 @@ updated_date: 2024-09-25 2:53 PM
 
 		- Based on an obligation to pay student fees, there is a de facto contractual agreement in place, that should someone be Jewish and decide to go to UCLA
 
-			- The student gov't and associated organizations will side against them 
+			- The student gov't and associated organizations will side against them, i.e *exclude* them
 
 		- Discrimination was occurring inside the encampment (red triangles)
 
@@ -303,4 +303,4 @@ updated_date: 2024-09-25 2:53 PM
 
 - They're treating student gov't like a club that a group of friends belong to. How can anyone take them seriously? 
 
-- This is related to UC policy cultivating a microcosm of corruption. 
+- This is related to UC philosophy cultivating a microcosm of corruption. 

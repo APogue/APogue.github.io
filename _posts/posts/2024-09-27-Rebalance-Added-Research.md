@@ -152,13 +152,7 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - [At Michigan, Activists Take Over and Shut Down Student Government](https://www.nytimes.com/2024/08/27/us/umich-gaza-protests-student-government.html)---this looks policy related, not relevant 
 
-### Demonstrate a need for publication of notification
-
-- [CFR 100.6d Compliance information](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/section-100.6)
-
-	- "Information to beneficiaries and participants.  Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation."
-
-- [UC non-affiliate policy](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as)
+### Updates to protest events and activities at UCLA
 
 - [Police arrested hundreds of pro-Palestinian students in L.A. The fallout continues, Aug. 2, 2024](https://www.latimes.com/california/story/2024-08-02/ucla-usc-pomona-palestinian-protests)
 
@@ -178,7 +172,7 @@ Cases are not necessarily investigated in the order that complaints are received
 
 		- [Large police presence](https://www.instagram.com/p/C8D0QunNw6t/)
 
-		- [Police misconduct](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1)
+		- [Police misconduct](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1) and [clearer video](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
 
 		- No statement made by Gene Block 
 
@@ -191,6 +185,7 @@ Cases are not necessarily investigated in the order that complaints are received
 			- [June 11th Rick Braziel statement](https://newsroom.ucla.edu/condemning-mondays-violence-on-campus)
 
 		- What about the man with the megaphone or the huge screen at UCLA? see r/reddit clippings
+		or [May 6th](https://www.instagram.com/p/C6ouFj1Pa6m/?hl=en) use of amplified sound
 
 		- The response was disproportionate 
 
@@ -198,7 +193,9 @@ Cases are not necessarily investigated in the order that complaints are received
 
 				- There was no verbal warning that she would be physically handled if she did not cease and desist, she turned her back and they grabbed her. 
 
-				- See "guidelines for amplified sound," was she in an Area for Public Expression?
+				- UCLA Interim Policy 852: Public Expression Activities---"Public Expression Activities may be directed to cease subject to the review and approval by the Chancellor or a Designated University Official based on the UCLA Interim Policy 852 Safety and Security Criteria and/or the Interference Criteria that will be evaluated in a content-neutral and viewpoint-neutral manner"
+
+				- See "guidelines for amplified sound," was she in an Area for Public Expression? Does it matter? If you break UC policy are you breaking the law? Are you subject to arrest?
 
 			- The response by the school would serve to discourage pro-Palestinian demonstrations and was therefor not content neutral. Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel's numbers don't match the UCPD statement. This is out of approximately 175 total protesters. 
 
@@ -217,17 +214,6 @@ Cases are not necessarily investigated in the order that complaints are received
 			- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety.
 
 				“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
-
-	- [AB-107 Budget Act of 2024](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB107) "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans." Also applies to CSU (25 and 25)
-
-	-  [UCOP, Campuses Must Provide Free Speech, Climate Report](https://bifi.us/2024/08/09/ucop-campuses-must-provide-free-speech-climate-report/)
-
-	- [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
-
-	- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
-
-		- Concepts related to bias 
-
 
 
 
@@ -250,3 +236,45 @@ Cases are not necessarily investigated in the order that complaints are received
 		- "Braziel also initiated a review of UCLA’s safety protocols and police response to the events of last spring — which I will share with you when it is available. "
 
 		- [Campus safety report 2022](https://ucla.app.box.com/v/Public-Safety-Report)
+
+
+- ["Funding mass murder..."](https://www.instagram.com/p/C6ecLBLpLFU/?hl=en)
+
+### Demonstrate a need for publication of notification
+
+- [CFR 100.6d Compliance information](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/section-100.6)
+
+	- "Information to beneficiaries and participants.  Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation."
+
+- [UC non-affiliate policy](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as)
+
+- [Acknowledge by enrollment to adhere to student conduct code](https://deanofstudents.ucla.edu/individual-student-code), very sparse wrt discrimination
+
+- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
+
+	- "This Policy prohibits Prohibited Conduct as defined in Section II.A. Individuals may
+	engage in Prohibited Conduct in person or through other means. This includes, but is
+	not limited to, conduct involving physical actions and/or any form of communication,
+	including, but not limited to, spoken, written, and non-verbal communication through any
+	means including, but not limited to, electronic media, such as the internet, social
+	networks, cell phones, texts, and other devices or forms of contact."
+
+	- This is as important for recipients as anyone else; they themselves may not know the difference between protected and unprotected speech
+
+
+- [AB-107 Budget Act of 2024](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB107) "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans." Also applies to CSU (25 and 25)
+
+-  [UCOP, Campuses Must Provide Free Speech, Climate Report](https://bifi.us/2024/08/09/ucop-campuses-must-provide-free-speech-climate-report/)
+
+- The above is from Senate Bill No. 108 Ch 35 SEC. 219. Item 6440-001-0001 of Section 2.00 of the Budget Act of 2024 is amended to read: 6440-001-0001—For support of University of California 34. 
+
+	- "Each campus shall provide notification of the following to students before the start of each academic year: (3) The systemwide Nondiscrimination Policy, which ensures compliance with Title VI and Title VII of the Civil Rights Act of 1964."
+
+
+
+
+
+
+
+
+- [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
