@@ -172,6 +172,24 @@ Cases are not necessarily investigated in the order that complaints are received
 
 	- "Law enforcement authorities are still investigating those who instigated violence at the encampment on April 30 and May 1. One arrest was made in the attack."
 
+    - [21st century policing independent solutions June 7th](https://www.instagram.com/p/C77S9I_SNHs/?img_index=1)
+
+	- June 10th protest
+
+		- [Large police presence](https://www.instagram.com/p/C8D0QunNw6t/)
+
+		- [Police misconduct](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1)
+
+		- No statement made by Gene Block 
+
+		- [UCPD statement regarding June 10, 2024 unlawful encampment incidents and arrests](https://ucla.app.box.com/v/Arrests-241105-06102024)
+
+		- Mary Osako---Newsroom statements
+
+			- [June 10th](https://newsroom.ucla.edu/statement-on-royce-quad-disruption)
+
+			- [June 11th Rick Braziel statement](https://newsroom.ucla.edu/condemning-mondays-violence-on-campus)
+
 	- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
 
 		President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
