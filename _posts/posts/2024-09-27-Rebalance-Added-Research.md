@@ -190,6 +190,14 @@ Cases are not necessarily investigated in the order that complaints are received
 
 			- [June 11th Rick Braziel statement](https://newsroom.ucla.edu/condemning-mondays-violence-on-campus)
 
+		- What about the man with the megaphone or the huge screen at UCLA? see r/reddit clippings
+
+		- The response was disproportionate 
+
+			- Use of amplified sound, check the TPM policies, are you subject to physical handling by police for inappropriate use of amplified sound? 
+
+			- The response by the school would serve to discourage pro-Palestinian demonstrations and was therefor not content neutral. Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel's numbers don't match the UCPD statement. This is out of approximately 175 total protesters. 
+
 	- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
 
 		President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
@@ -207,6 +215,8 @@ Cases are not necessarily investigated in the order that complaints are received
 				“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
 
 	- [AB-107 Budget Act of 2024](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB107) "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans." Also applies to CSU (25 and 25)
+
+	-  [UCOP, Campuses Must Provide Free Speech, Climate Report](https://bifi.us/2024/08/09/ucop-campuses-must-provide-free-speech-climate-report/)
 
 	- [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
 
