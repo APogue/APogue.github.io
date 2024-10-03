@@ -121,7 +121,7 @@ Cases are not necessarily investigated in the order that complaints are received
 
 	- [President Ono Post on JVP non-affiliate post](https://publicaffairs.vpcomm.umich.edu/key-issues/instagrams-decision-to-delete-jvp-post/)
 
-- [UCLA external VP gets involved with "death to Israel" post](https://www.instagram.com/sababasisters/p/DAhOEGaStSJ/), this post looks fake in which case someone tried to set them up. The underline under the name is not normal. This is a case of targeting of pro-palestinian advocates at the university. 
+- [UCLA external VP becomes involved with "death to Israel" post](https://www.instagram.com/sababasisters/p/DAhOEGaStSJ/), this post looks fake in which case someone tried to set them up. The underline under the name is not normal. This is a case of targeting of pro-palestinian advocates at the university. 
 
 	- "I do not believe this is real (the _ which appears partially under his name looks fake), BUT if it is he would immediately be relieved of his duties @UCLA"
 
@@ -195,6 +195,10 @@ Cases are not necessarily investigated in the order that complaints are received
 		- The response was disproportionate 
 
 			- Use of amplified sound, check the TPM policies, are you subject to physical handling by police for inappropriate use of amplified sound? 
+
+				- There was no verbal warning that she would be physically handled if she did not cease and desist, she turned her back and they grabbed her. 
+
+				- See "guidelines for amplified sound," was she in an Area for Public Expression?
 
 			- The response by the school would serve to discourage pro-Palestinian demonstrations and was therefor not content neutral. Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel's numbers don't match the UCPD statement. This is out of approximately 175 total protesters. 
 
