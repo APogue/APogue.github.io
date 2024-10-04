@@ -313,4 +313,6 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - All in all, (Gene Block and) UCLA have washed their hands of these students, they don't want to deal with them. 
 
-- [Daily Bruin Op-Ed Account](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead)
+- [Daily Bruin Op-Ed Account of April 30th protests](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead)
+
+- [Daily Bruin Op-Ed 4 point plan](https://dailybruin.com/2024/10/01/the-uc-must-revise-its-handling-of-free-speech-student-protests-to-promote-trust)
