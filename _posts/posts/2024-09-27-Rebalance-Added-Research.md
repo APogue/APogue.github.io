@@ -4,6 +4,7 @@ title: "Rebalance the Outlines with Added Research"
 published: true
 author: Alexie Pogue
 date: 2024-10-01 7:05 PM
+updated_date: 2024-10-04 10:04 AM
 ---
 
 ### Notes and Links
@@ -311,3 +312,5 @@ Cases are not necessarily investigated in the order that complaints are received
 	- Denying them this education means they really do not care about these individuals and they do not care about campus climate. They continue with symbolic gestures tossed to the abyss. 
 
 - All in all, (Gene Block and) UCLA have washed their hands of these students, they don't want to deal with them. 
+
+- [Daily Bruin Op-Ed Account](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead)
