@@ -31,7 +31,7 @@ updated_date: 2024-09-19 10:10 PM
 
 - Title IX "jurisdiction" is the largest, it covers anywhere students interact
 
-- Title IX accountability reporting is voluntary
+- Title IX accountability reporting by recipient is voluntary
 
 - Clery accountability reports are mandatory 
 
