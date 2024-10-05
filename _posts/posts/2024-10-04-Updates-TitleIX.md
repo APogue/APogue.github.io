@@ -63,7 +63,7 @@ https://www.reddit.com/r/SanJose/comments/h9595f/students_suing_santa_clara_univ
 
 	- It was updated in 2024, the explanation is [rather complicated](https://www.federalregister.gov/d/2024-07915/p-797), and CFR [§ 106.11 Application](https://www.ecfr.gov/current/title-34/section-106.11) is rather vague. 
 
-	- The main point is this---"A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." If the conduct, regardless of where it took place, effects access to education, then measures can be taken. The recipient's obligation may be vague, for example it need not investigate whether the conduct took place and punitive measures for the conduct if it is not under recipient jurisdiction. It may only need to provide supportive measures in these circumstances. 
+	- The main point is this---"A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." If the conduct, regardless of where it took place, affects access to education, then measures can be taken. The recipient's obligation may be vague, for example it need not investigate whether the conduct took place and punitive measures for the conduct if it is not under recipient jurisdiction. It may only need to provide supportive measures in these circumstances. 
 
 	- Student A and B jurisdiction 
 
