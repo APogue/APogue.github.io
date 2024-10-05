@@ -8,6 +8,19 @@ date: 2024-10-04 3:27 PM
 
 ### Updates to Title IX 
 
+#### Background 
+
+- It seems that since 2014, the legislature---SaVE---has changed, but fraternity culture has not 
+
+	- [Frat brothers rape 300% more. One in 5 women is sexually assaulted on campus. Should we ban frats?](https://www.theguardian.com/commentisfree/2014/sep/24/rape-sexual-assault-ban-frats), background, this article is from 2014 and names several schools with rape or rape and drug culture
+
+
+
+
+
+
+
+
 #### Santa Clara University---Background 
 
 - SCU dissociated completely from its [fraternity and sorority system](https://dh.scu.edu/exhibits/exhibits/show/greeklifescu), yet still, today, "with six Fraternities and five Sororities, more than twenty-five percent of Santa Clara students are involved in Greek life."
@@ -44,12 +57,36 @@ https://www.reddit.com/r/SanJose/comments/h9595f/students_suing_santa_clara_univ
 
 		- [Lawsuit story 2](https://www.mercurynews.com/2020/06/14/students-suing-santa-clara-university-over-sex-assault-cases-join-chorus-of-title-ix-concerns/)
 
-		- How is this fair? You choose your university based on the standard they use? "UCLA will continue to use the preponderance of evidence standard for its Title IX investigations as well as for other university offices that conduct investigations, he added." [DB article on the 2020 FR](https://dailybruin.com/2020/08/16/new-title-ix-policies-prompt-calls-on-ucla-to-protect-survivors-of-sexual-violence)
+		- All universities have stayed with preponderance standard. "UCLA will continue to use the preponderance of evidence standard for its Title IX investigations as well as for other university offices that conduct investigations, he added." [DB article on the 2020 FR](https://dailybruin.com/2020/08/16/new-title-ix-policies-prompt-calls-on-ucla-to-protect-survivors-of-sexual-violence)
 
 - Title IX Jurisdiction
 
+	- It was updated in 2024, the explanation is [rather complicated](https://www.federalregister.gov/d/2024-07915/p-797), and CFR [§ 106.11 Application](https://www.ecfr.gov/current/title-34/section-106.11) is rather vague. 
+
+	- The main point is this---"A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." If the conduct, regardless of where it took place, effects access to education, then measures can be taken. The recipient's obligation may be vague, for example it need not investigate whether the conduct took place and punitive measures for the conduct if it is not under recipient jurisdiction. It may only need to provide supportive measures in these circumstances. 
+
+	- Student A and B jurisdiction 
+
+	- How does that apply to SCU "Lawsuit story" had it occurred at a frat?
+
+	- [SCU Title IX](https://www.scu.edu/title-ix/policy/title-ix-policy/), it looks like this is the only SVSH policy they have. [This](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html) talks about "on-campus and off-campus conduct," but not specifically. It refers the reader to the Title IX office. The SCU Title IX policy is specific about its jurisdiction, which is limited and does not include the frats. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Notes
 
 "As an alum, the school's failure to handle these situations properly doesn't surprise me at all. I saw several abusers protected during my time at SCU. It's not a place I'd ever send my kids, nor a place I'd donate to."
 
@@ -61,3 +98,30 @@ https://www.reddit.com/r/SanJose/comments/q2apxd/santa_clara_university_students
 "Haven’t stop and frisk laws(extremely unconstitutional) only been used to racial profile in the past? There has to be better ways"
 
 "I don't see any realistic proactive alternatives to crack down on possession of rohypnol and reduce these assaults"
+
+
+
+https://www.reddit.com/r/ucla/comments/j0lbjg/ucla_frat_breakdown/
+
+https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternities-alleging-sexual-assault
+
+https://dailybruin.com/2019/04/24/campaign-responding-to-fraternity-sexual-assault-allegations-urges-for-reform
+
+https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternities-alleging-sexual-assault
+
+https://dailybruin.com/2018/08/24/editorial-ucla-must-ban-greek-life-houses-that-perpetuate-sexual-assault-and-harassment
+
+
+
+#### Santa Clara links
+
+Santa Clara encourages a culture of non-reporting 
+
+
+- [Policy](https://www.scu.edu/title-ix/policy/)
+
+https://www.nbcbayarea.com/news/local/south-bay/hundreds-rally-at-santa-clara-university-to-condemn-sexual-assault-demand-action/2671711/
+
+https://www.ktvu.com/news/sexual-assaults-go-largely-unreported-santa-clara-university-and-students-talk-disparity-in-numbers
+
+https://www.mercurynews.com/2021/10/04/santa-clara-university-students-demand-action-from-school-after-multiple-sexual-assault-allegations/amp/

@@ -29,7 +29,7 @@ updated_date: 2024-09-19 10:10 PM
 
 ### School accountability is largely voluntary
 
-- Title IX "jurisdiction" is the largest, it covers anywhere students interact
+- Title IX "jurisdiction" is complicated
 
 - Title IX accountability reporting by recipient is voluntary
 
