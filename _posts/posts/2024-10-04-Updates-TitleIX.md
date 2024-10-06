@@ -155,6 +155,8 @@ date: 2024-10-05 9:46 PM
 
 	- Broad references to CA state law
 
+	- They may have a different obligation than the UC and CSU system under CA law
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 
