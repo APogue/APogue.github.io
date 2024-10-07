@@ -97,7 +97,7 @@ date: 2024-10-05 9:46 PM
 
 	According to the lawsuit, an ensuing Title IX investigation in that case concluded the sex was non-consensual. The suit states that the university’s Sexual and Gender Based Misconduct Board “concluded that there was a preponderance of evidence that (the co-plaintiff) was incapacitated and incapable of giving consent and that (the defendant) knew or should have known this. However, the Board did not find that the incident constituted a sexual harassment violation.”
 
-- The story is vague, but the incident occurred prior to the 2020 rule change 
+- The incident occurred prior to the 2020 rule change 
 
 - Dear Colleague letters serve as guidance (verify), the [SCU policy as of 2015 (archive)](https://www.scu.edu/title-ix/about/documents/) was the following, 
 
@@ -175,10 +175,13 @@ date: 2024-10-05 9:46 PM
 
 	- They may have a different obligation than the UC and CSU system under CA law
 
-
 ### The Clery Act
 
 - Santa Clara University Clery responsibility---
+
+	- "A crime is considered “reported” when it is brought to the attention of a CSA, Campus Safety Services or local law enforcement by a victim, witness, other third party, or even the suspect."
+
+		- Had the reports just been made (does not automatically initiate investigation or notify respondent), with respect to the drugging and assault incident, SCU might have been flagged by the DOE (verify)
 
 	- [Intersection with Title IX](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/miscellaneous/FERPA-Chart.pdf)
 
@@ -190,9 +193,9 @@ date: 2024-10-05 9:46 PM
 
 	- [What the Clery Numbers Do and Do Not Say](https://www.scu.edu/campus-safety/clery-act-compliance/)
 
-		- Statistics compiled for the annual security report and shared with the Department of Education DO INCLUDE those reported to the “campus security authorities”, such as campus police or security, a coach, an advisor to a student group or a dean of students.
+		- "Statistics compiled for the annual security report and shared with the Department of Education DO INCLUDE those reported to the “campus security authorities”, such as campus police or security, a coach, an advisor to a student group or a dean of students." (what about mention of Title IX office? verify)
 
-		- These statistics DO NOT reflect incidents reported that occurred in areas that are not Clery geography (such as at an off-campus party at a location not owned or controlled by the institution, an incident that occurs at a local bar or club, or an incident that occurs in the hometown of a student).
+		- "These statistics DO NOT reflect incidents reported that occurred in areas that are not Clery geography (such as at an off-campus party at a location not owned or controlled by the institution, an incident that occurs at a local bar or club, or an incident that occurs in the hometown of a student)."
 
 	- [2024 Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2024-Annual-Security-&-Fire-Safety-Report---Main-Campus.pdf)
 
@@ -214,7 +217,7 @@ date: 2024-10-05 9:46 PM
 	who was assaulted off campus from further sexual harassment or retaliation from the
 	perpetrator and his or her associates." Pp. 4
 
-- Rolled back in 2020 Amendments---
+- Rolled back in 2020 amendments---
 
 	- [§ 106.11 Application.](https://www.ecfr.gov/on/2021-04-10/title-34/section-106.11)
 
@@ -232,6 +235,32 @@ date: 2024-10-05 9:46 PM
 
 			- (i) The recipient must investigate the allegations in a formal complaint. If the conduct alleged in the formal complaint would not constitute sexual harassment as defined in § 106.30 even if proved, did not occur in the recipient's education program or activity, or did not occur against a person in the United States, then the recipient must dismiss the formal complaint with regard to that conduct for purposes of sexual harassment under title IX or this part; such a dismissal does not preclude action under another provision of the recipient's code of conduct.
 
+- Restored in the 2024 amendments---
+
+	- [§ 106.11 Application](https://www.ecfr.gov/current/title-34/section-106.11)
+
+		- "Except as provided in this subpart, this part applies to every recipient and to all sex discrimination occurring under a recipient's education program or activity in the United States. For purposes of this section, conduct that occurs under a recipient's education program or activity includes but is not limited to conduct that occurs in a building owned or controlled by a student organization that is officially recognized by a postsecondary institution, and conduct that is subject to the recipient's disciplinary authority. A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." 
+
+
+	- [The explanation](https://www.federalregister.gov/d/2024-07915/p-797)
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### SCU and Title IX 
+
+- [Policy](https://www.scu.edu/title-ix/policy/), here it is only EO and Title IX policy
+
+- [SCU Policy Archive](https://www.scu.edu/title-ix/about/documents/), the documents here are explicit with respect to Title IX, and there are references to schools SVSH policy. I can't find other documents that talk explicitly about their SVSH policy, should it offer broader coverage. May be buried within student conduct policy. Looks like these updates are due to updates from the DOE. (How old is Equal Opportunity Policy then?)
+
+- [Student Conduct Code](https://www.scu.edu/academic-integrity/student-resources/student-conduct-code/#d.en.665447) is shockingly short
+
+- [Some other SCU policy manual ](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html) is vague with respect to SVSH
+
+- [SCU student training](https://www.scu.edu/title-ix/training/student/) and other related Title IX material 
 
 
 
@@ -242,68 +271,6 @@ date: 2024-10-05 9:46 PM
 
 
 
-
-
-
-
-
-
-
-
-	- It was updated in 2024, the explanation is [rather complicated](https://www.federalregister.gov/d/2024-07915/p-797), and CFR [§ 106.11 Application](https://www.ecfr.gov/current/title-34/section-106.11) is rather vague. 
-
-	- The main point is this---"A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." If the conduct, regardless of where it took place, affects access to education, then measures can be taken. The recipient's obligation may be vague, for example it need not investigate whether the conduct took place and punitive measures for the conduct if it is not under recipient jurisdiction. It may only need to provide supportive measures in these circumstances. 
-
-	- Student A and B jurisdiction 
-
-	- How does that apply to SCU "Lawsuit story" had it occurred at a frat?
-
-	- [SCU Title IX](https://www.scu.edu/title-ix/policy/title-ix-policy/), it looks like this is the only SVSH policy they have. [This](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html) talks about "on-campus and off-campus conduct," but not specifically. It refers the reader to the Title IX office. The SCU Title IX policy is specific about its jurisdiction, which is limited and does not include the frats. 
-
-
-
-- [this](https://www.scu.edu/title-ix/training/student/) also refers to both on-campus and off-campus conduct 
-
-
-
-
-
-2024---
-
-§ 106.11 Application.
-
-Except as provided in this subpart, this part applies to every recipient and to all sex discrimination occurring under a recipient's education program or activity in the United States. For purposes of this section, conduct that occurs under a recipient's education program or activity includes but is not limited to conduct that occurs in a building owned or controlled by a student organization that is officially recognized by a postsecondary institution, and conduct that is subject to the recipient's disciplinary authority. A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States.
-
-
-2020---
-
-
-
-
-
-
-https://www.ecfr.gov/on/2021-04-10/title-34/section-106.44
-
-
-
-pre-2020---
-
-
-§ 106.11 Application.
-
-Except as provided in this subpart, this part 106 applies to every recipient and to the education program or activity operated by such recipient which receives Federal financial assistance.
-
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)
-
-[45 FR 86298, Dec. 30, 1980, as amended at 65 FR 68056, Nov. 13, 2000]
-
-
-
-
-https://www.federalregister.gov/d/2024-07915/p-688
-
-
-The Department disagrees with the commenter who stated that inclusion of the Clery Act offenses would make a postsecondary institution more likely to expel respondents without due process. As discussed elsewhere in this preamble, especially the discussions of §§ 106.45 and 106.46, the final regulations contain numerous guardrails to ensure that grievance procedures are conducted without bias and with notice and an opportunity to be heard, and to ensure that no person is subject to disciplinary sanction absent a determination that they engaged in sex discrimination prohibited by Title IX.
 
 
 https://www.ecfr.gov/current/title-34/part-106/section-106.45#p-106.45(h)(3)
@@ -376,9 +343,7 @@ https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%
 
 - Gavin Newsom alma mater, Jerry Brown also went there 
 
-- [Policy](https://www.scu.edu/title-ix/policy/)
 
-- [SCU Policy Archive](https://www.scu.edu/title-ix/about/documents/)
 
 
 
