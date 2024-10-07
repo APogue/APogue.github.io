@@ -62,6 +62,8 @@ date: 2024-10-05 9:46 PM
 
 - [Lawsuit story in dorm room 2](https://www.mercurynews.com/2020/06/14/students-suing-santa-clara-university-over-sex-assault-cases-join-chorus-of-title-ix-concerns/)
 
+	- How is this not deliberate indifference? 
+
 - The incident occurred in 2019, [CNN](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) referred to an "2011 Obama-era Dear Colleague letter" that defined sexual harassment before the 2020 FR. I would assume it is the 2011 Dear Colleague letter that served as the foundation for Campus SaVE. Verify at a later time. Currently I will assume that at this time SCU was functioning under the guidance of this Dear Colleague letter. Within this letter is the statement,
 
 	"As explained in OCR’s 2001 Guidance, when a student sexually harasses another student, the
@@ -71,7 +73,23 @@ date: 2024-10-05 9:46 PM
 	incidents to prove a hostile environment, particularly if the harassment is physical. Indeed, a
 	single or isolated incident of sexual harassment may create a hostile environment if the
 	incident is sufficiently severe. For instance, a single instance of rape is sufficiently severe to
-	create a hostile environment.10"
+	create a hostile environment.10" Pp. 3
+
+
+	"Title IX requires a school to take steps to protect the complainant as necessary, including taking
+	interim steps before the final outcome of the investigation. The school should undertake these
+	steps promptly once it has notice of a sexual harassment or violence allegation. The school
+	should notify the complainant of his or her options to avoid contact with the alleged
+	perpetrator and allow students to change academic or living situations as appropriate. For
+	instance, the school may prohibit the alleged perpetrator from having any contact with the
+	complainant pending the results of the school’s investigation. 
+
+
+	When taking steps to separate
+	the complainant and alleged perpetrator, a school should minimize the burden on the complainant, and thus should not, as a matter of course, remove complainants from classes or housing while allowing alleged perpetrators to remain. In addition, schools should ensure that complainants are aware of their Title IX rights and any available resources, such as counseling, health, and mental health services, and their right to file a complaint with local law
+	enforcement.41" Pp. 16
+
+
 
 - In the above articles, the SCU student (dorm room incident) had this to say, 
 
@@ -178,8 +196,76 @@ date: 2024-10-05 9:46 PM
 
 	- [2024 Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2024-Annual-Security-&-Fire-Safety-Report---Main-Campus.pdf)
 
+### Title IX Jurisdiction
 
-----------------------------------------------------------------------------------------------------------------------------
+- Obama-era guidance in Dear Colleague letter---
+
+	- "Schools may have an obligation to respond to student-on-student sexual harassment that
+	initially occurred off school grounds, outside a school’s education program or activity. If a
+	student files a complaint with the school, regardless of where the conduct occurred, the school
+	must process the complaint in accordance with its established procedures. Because students
+	often experience the continuing effects of off-campus sexual harassment in the educational
+	setting, schools should consider the effects of the off-campus conduct when evaluating
+	whether there is a hostile environment on campus. For example, if a student alleges that he or
+	she was sexually assaulted by another student off school grounds, and that upon returning to
+	school he or she was taunted and harassed by other students who are the alleged perpetrator’s
+	friends, the school should take the earlier sexual assault into account in determining whether
+	there is a sexually hostile environment. The school also should take steps to protect a student
+	who was assaulted off campus from further sexual harassment or retaliation from the
+	perpetrator and his or her associates." Pp. 4
+
+- Rolled back in 2020 Amendments---
+
+	- [§ 106.11 Application.](https://www.ecfr.gov/on/2021-04-10/title-34/section-106.11)
+
+		- "Except as provided in this subpart, this part 106 applies to every recipient and to the education program or activity operated by such recipient which receives Federal financial assistance."
+
+
+	- [§ 106.44 Recipient's response to sexual harassment.](https://www.ecfr.gov/on/2021-04-10/title-34/section-106.44)
+
+		- "“education program or activity” includes locations, events, or circumstances over which the recipient exercised substantial control over both the respondent and the context in which the sexual harassment occurs, and also includes any building owned or controlled by a student organization that is officially recognized by a postsecondary institution. A recipient's response must treat complainants and respondents equitably by offering supportive measures as defined in § 106.30 to a complainant, and by following a grievance process that complies with § 106.45 before the imposition of any disciplinary sanctions or other actions that are not supportive measures as defined in § 106.30, against a respondent."
+
+
+	- § 106.45 Grievance process for formal complaints of sexual harassment.
+
+		- [(3) Dismissal of a formal complaint---](https://www.ecfr.gov/on/2021-04-10/title-34/part-106#p-106.45(b)(3))
+
+			- (i) The recipient must investigate the allegations in a formal complaint. If the conduct alleged in the formal complaint would not constitute sexual harassment as defined in § 106.30 even if proved, did not occur in the recipient's education program or activity, or did not occur against a person in the United States, then the recipient must dismiss the formal complaint with regard to that conduct for purposes of sexual harassment under title IX or this part; such a dismissal does not preclude action under another provision of the recipient's code of conduct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	- It was updated in 2024, the explanation is [rather complicated](https://www.federalregister.gov/d/2024-07915/p-797), and CFR [§ 106.11 Application](https://www.ecfr.gov/current/title-34/section-106.11) is rather vague. 
+
+	- The main point is this---"A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." If the conduct, regardless of where it took place, affects access to education, then measures can be taken. The recipient's obligation may be vague, for example it need not investigate whether the conduct took place and punitive measures for the conduct if it is not under recipient jurisdiction. It may only need to provide supportive measures in these circumstances. 
+
+	- Student A and B jurisdiction 
+
+	- How does that apply to SCU "Lawsuit story" had it occurred at a frat?
+
+	- [SCU Title IX](https://www.scu.edu/title-ix/policy/title-ix-policy/), it looks like this is the only SVSH policy they have. [This](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html) talks about "on-campus and off-campus conduct," but not specifically. It refers the reader to the Title IX office. The SCU Title IX policy is specific about its jurisdiction, which is limited and does not include the frats. 
+
+
+
+- [this](https://www.scu.edu/title-ix/training/student/) also refers to both on-campus and off-campus conduct 
+
+
+
 
 
 2024---
@@ -191,14 +277,10 @@ Except as provided in this subpart, this part applies to every recipient and to 
 
 2020---
 
-§ 106.11 Application.
 
 
 
-Except as provided in this subpart, this part 106 applies to every recipient and to the education program or activity operated by such recipient which receives Federal financial assistance.
 
-
-https://www.ecfr.gov/on/2021-04-10/title-34/section-106.11
 
 https://www.ecfr.gov/on/2021-04-10/title-34/section-106.44
 
@@ -256,24 +338,6 @@ When the decisionmaker finds that sex-based harassment occurred, any disciplinar
 
 		- All universities have stayed with preponderance standard. "UCLA will continue to use the preponderance of evidence standard for its Title IX investigations as well as for other university offices that conduct investigations, he added." [DB article on the 2020 FR](https://dailybruin.com/2020/08/16/new-title-ix-policies-prompt-calls-on-ucla-to-protect-survivors-of-sexual-violence)
 
-- Title IX Jurisdiction
-
-	- It was updated in 2024, the explanation is [rather complicated](https://www.federalregister.gov/d/2024-07915/p-797), and CFR [§ 106.11 Application](https://www.ecfr.gov/current/title-34/section-106.11) is rather vague. 
-
-	- The main point is this---"A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." If the conduct, regardless of where it took place, affects access to education, then measures can be taken. The recipient's obligation may be vague, for example it need not investigate whether the conduct took place and punitive measures for the conduct if it is not under recipient jurisdiction. It may only need to provide supportive measures in these circumstances. 
-
-	- Student A and B jurisdiction 
-
-	- How does that apply to SCU "Lawsuit story" had it occurred at a frat?
-
-	- [SCU Title IX](https://www.scu.edu/title-ix/policy/title-ix-policy/), it looks like this is the only SVSH policy they have. [This](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html) talks about "on-campus and off-campus conduct," but not specifically. It refers the reader to the Title IX office. The SCU Title IX policy is specific about its jurisdiction, which is limited and does not include the frats. 
-
-
-
-- [this](https://www.scu.edu/title-ix/training/student/) also refers to both on-campus and off-campus conduct 
-
-
-
 
 
 
@@ -304,7 +368,7 @@ https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternitie
 
 https://dailybruin.com/2018/08/24/editorial-ucla-must-ban-greek-life-houses-that-perpetuate-sexual-assault-and-harassment
 
-
+https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%20ZBT%20et%20al%20(1).pdf
 
 #### Santa Clara links
 
