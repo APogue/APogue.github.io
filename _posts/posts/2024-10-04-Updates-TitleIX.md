@@ -20,7 +20,7 @@ date: 2024-10-05 9:46 PM
 
 - Definition of sexual harassment 
 
-- Dear colleague letters are just suggestions
+- Dear colleague letters are just suggestions (verify)
 
 ### Title IX prior to 2020 
 
@@ -32,7 +32,7 @@ date: 2024-10-05 9:46 PM
 
 - Defined sexual harassment 
 
-- [CFR post 2020 and pre 2024 Definitions](https://www.ecfr.gov/on/2021-04-10/title-34/subtitle-B/chapter-I/part-106)
+- [CFR post-2020 and pre-2024 Definitions](https://www.ecfr.gov/on/2021-04-10/title-34/subtitle-B/chapter-I/part-106)
 
 - Sexual harassment means conduct on the basis of sex that satisfies one or more of the following:
 
@@ -46,7 +46,7 @@ date: 2024-10-05 9:46 PM
 
 - Redefined sexual harassment 
 
-- [CFR post 2024 Definitions](https://www.ecfr.gov/current/title-34/part-106#p-106.2(Sex-based%20harassment))
+- [CFR post-2024 Definitions](https://www.ecfr.gov/current/title-34/part-106#p-106.2(Sex-based%20harassment))
 
 - Gets more specific still 
 
@@ -62,7 +62,7 @@ date: 2024-10-05 9:46 PM
 
 - [Lawsuit story in dorm room 2](https://www.mercurynews.com/2020/06/14/students-suing-santa-clara-university-over-sex-assault-cases-join-chorus-of-title-ix-concerns/)
 
-- The incident occurred in 2019, [CNN](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) referred to an "2011 Obama-era Dear Colleague letter" that defined sexual harassment before the 2020 FR. I would assume it is the 2011 Dear Colleague letter that served as the foundation for Campus SaVE. Verify at a later time. Currently I will assume that at this time SCU was functioning under the guidance of this Dear Colleague letter. Within this letter is the statement
+- The incident occurred in 2019, [CNN](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) referred to an "2011 Obama-era Dear Colleague letter" that defined sexual harassment before the 2020 FR. I would assume it is the 2011 Dear Colleague letter that served as the foundation for Campus SaVE. Verify at a later time. Currently I will assume that at this time SCU was functioning under the guidance of this Dear Colleague letter. Within this letter is the statement,
 
 	"As explained in OCR’s 2001 Guidance, when a student sexually harasses another student, the
 	harassing conduct creates a hostile environment if the conduct is sufficiently serious that it
@@ -81,7 +81,7 @@ date: 2024-10-05 9:46 PM
 
 - The story is vague, but the incident occurred prior to the 2020 rule change 
 
-- Dear Colleague letters serve as guidance (verify), the [SCU policy as of 2015](https://www.scu.edu/title-ix/about/documents/) was the following, 
+- Dear Colleague letters serve as guidance (verify), the [SCU policy as of 2015 (archive)](https://www.scu.edu/title-ix/about/documents/) was the following, 
 
 - [2015 SCU SVSH Policy](https://www.scu.edu/media/offices/eeo/2015-policy-1.pdf) opted for the narrower "AND"
 
@@ -118,7 +118,7 @@ date: 2024-10-05 9:46 PM
 
 - It looks like the 2020 rule change, although it did have an "AND" definition, it was "OR" with respect to sexual assault. So the rule change would have mandated a minimum standard for SH that would have included the incident. This is reflected in the SVSH policy for [SCU in 2022](https://www.scu.edu/media/offices/eeo/2022_Policy.pdf).
 
-- However, it is a question of what these schools were choosing to do to protect its students. Even with respect to the sexual harassment definition in 2020, the UC's stated this, 
+- However, it is a question of what these schools were choosing to do to protect its students. Even with respect to the sexual harassment definition in 2020, [the UC's stated this](https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb), 
 
 	"The [new 2020] regulations define sexual harassment as "unwelcome conduct determined by a
 	reasonable person to be so severe, pervasive, and objectively offensive that it
@@ -157,10 +157,84 @@ date: 2024-10-05 9:46 PM
 
 	- They may have a different obligation than the UC and CSU system under CA law
 
+
+### The Clery Act
+
+- Santa Clara University Clery responsibility---
+
+	- [Intersection with Title IX](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/miscellaneous/FERPA-Chart.pdf)
+
+	- [Clery Geography SCU](https://www.scu.edu/media/offices/emergency-planning/Clery-Geography-Map.pdf)
+
+	- "Non Campus property:
+
+		- Any building or property owned or controlled by a student organization that is officially recognized by the institution; or..."
+
+	- [What the Clery Numbers Do and Do Not Say](https://www.scu.edu/campus-safety/clery-act-compliance/)
+
+		- Statistics compiled for the annual security report and shared with the Department of Education DO INCLUDE those reported to the “campus security authorities”, such as campus police or security, a coach, an advisor to a student group or a dean of students.
+
+		- These statistics DO NOT reflect incidents reported that occurred in areas that are not Clery geography (such as at an off-campus party at a location not owned or controlled by the institution, an incident that occurs at a local bar or club, or an incident that occurs in the hometown of a student).
+
+	- [2024 Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2024-Annual-Security-&-Fire-Safety-Report---Main-Campus.pdf)
+
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 
+2024---
 
+§ 106.11 Application.
+
+Except as provided in this subpart, this part applies to every recipient and to all sex discrimination occurring under a recipient's education program or activity in the United States. For purposes of this section, conduct that occurs under a recipient's education program or activity includes but is not limited to conduct that occurs in a building owned or controlled by a student organization that is officially recognized by a postsecondary institution, and conduct that is subject to the recipient's disciplinary authority. A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States.
+
+
+2020---
+
+§ 106.11 Application.
+
+
+
+Except as provided in this subpart, this part 106 applies to every recipient and to the education program or activity operated by such recipient which receives Federal financial assistance.
+
+
+https://www.ecfr.gov/on/2021-04-10/title-34/section-106.11
+
+https://www.ecfr.gov/on/2021-04-10/title-34/section-106.44
+
+
+
+pre-2020---
+
+
+§ 106.11 Application.
+
+Except as provided in this subpart, this part 106 applies to every recipient and to the education program or activity operated by such recipient which receives Federal financial assistance.
+
+(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)
+
+[45 FR 86298, Dec. 30, 1980, as amended at 65 FR 68056, Nov. 13, 2000]
+
+
+
+
+https://www.federalregister.gov/d/2024-07915/p-688
+
+
+The Department disagrees with the commenter who stated that inclusion of the Clery Act offenses would make a postsecondary institution more likely to expel respondents without due process. As discussed elsewhere in this preamble, especially the discussions of §§ 106.45 and 106.46, the final regulations contain numerous guardrails to ensure that grievance procedures are conducted without bias and with notice and an opportunity to be heard, and to ensure that no person is subject to disciplinary sanction absent a determination that they engaged in sex discrimination prohibited by Title IX.
+
+
+https://www.ecfr.gov/current/title-34/part-106/section-106.45#p-106.45(h)(3)
+
+A recipient may not impose discipline on a respondent for sex discrimination prohibited by Title IX unless there is a determination at the conclusion of the recipient's grievance procedures that the respondent engaged in prohibited sex discrimination;
+
+
+
+https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)
+
+When the decisionmaker finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 - It is moot because reporting culture is said to be "poor" at SCU
 
@@ -213,7 +287,7 @@ date: 2024-10-05 9:46 PM
 
 
 #### UCLA 
-
+https://www.insidehighered.com/news/2018/09/20/ucla-student-sues-fraternities-says-they-should-do-more-protect-against-rape
 
 - [UC explains the 2020 FR change](https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb) and how it relates to CA and UC SVSH policy 
 
