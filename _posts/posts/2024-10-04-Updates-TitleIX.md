@@ -248,28 +248,6 @@ date: 2024-10-05 9:46 PM
 
 
 
-----------------------------------------------------------------------------------------------------------------------------
-
-### SCU and Title IX 
-
-- [Policy](https://www.scu.edu/title-ix/policy/), here it is only EO and Title IX policy
-
-- [SCU Policy Archive](https://www.scu.edu/title-ix/about/documents/), the documents here are explicit with respect to Title IX, and there are references to schools SVSH policy. I can't find other documents that talk explicitly about their SVSH policy, should it offer broader coverage. May be buried within student conduct policy. Looks like these updates are due to updates from the DOE. (How old is Equal Opportunity Policy then?)
-
-- [Student Conduct Code](https://www.scu.edu/academic-integrity/student-resources/student-conduct-code/#d.en.665447) is shockingly short
-
-- [Some other SCU policy manual ](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html) is vague with respect to SVSH
-
-- [SCU student training](https://www.scu.edu/title-ix/training/student/) and other related Title IX material 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -282,6 +260,32 @@ A recipient may not impose discipline on a respondent for sex discrimination pro
 https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)
 
 When the decisionmaker finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### SCU and Title IX 
+
+- [Policy](https://www.scu.edu/title-ix/policy/), here it is only EO and Title IX policy
+
+- [SCU Policy Archive](https://www.scu.edu/title-ix/about/documents/), the documents here are explicit with respect to Title IX, and there are references to school's SVSH policy. I can't find other documents that talk explicitly about their SVSH policy, should it offer broader coverage. Buried within student conduct policy? Looks like these updates are due to updates from the DOE. (How old is Equal Opportunity Policy then?)
+
+- [Student Conduct Code](https://www.scu.edu/academic-integrity/student-resources/student-conduct-code/#d.en.665447) is shockingly short
+
+- [Some other SCU policy manual ](https://www.scu.edu/bulletin/undergraduate/EqualOpportunityNondiscriminationandSexualHarassmentPolicies.html), vague with respect to SVSH
+
+- [SCU student training](https://www.scu.edu/title-ix/training/student/) and other related Title IX material 
+
+
+
+
+
+
+
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
