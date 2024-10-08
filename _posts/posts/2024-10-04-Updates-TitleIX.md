@@ -62,7 +62,9 @@ date: 2024-10-05 9:46 PM
 
 - [Lawsuit story in dorm room 2](https://www.mercurynews.com/2020/06/14/students-suing-santa-clara-university-over-sex-assault-cases-join-chorus-of-title-ix-concerns/)
 
-	- How is this not deliberate indifference? 
+	- How is this not [deliberate indifference?](https://www.federalregister.gov/d/2024-07915/p-841) (by the 2024 standard)
+
+		- "See 526 U.S. at 646-7 (“We thus conclude that recipients of federal funding may be liable for `subject[ing]' their students to discrimination where the recipient is deliberately indifferent to known acts of student-on-student sexual harassment and the harasser is under the school's disciplinary authority.”); Brown, 82 F.4th at 875 (“[A] key consideration is whether the school has some form of disciplinary authority over the harasser in the setting in which the harassment takes place.”);"
 
 - The incident occurred in 2019, [CNN](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) referred to an "2011 Obama-era Dear Colleague letter" that defined sexual harassment before the 2020 FR. I would assume it is the 2011 Dear Colleague letter that served as the foundation for Campus SaVE. Verify at a later time. Currently I will assume that at this time SCU was functioning under the guidance of this Dear Colleague letter. Within this letter is the statement,
 
@@ -85,11 +87,12 @@ date: 2024-10-05 9:46 PM
 	complainant pending the results of the school’s investigation. 
 
 
-	When taking steps to separate
-	the complainant and alleged perpetrator, a school should minimize the burden on the complainant, and thus should not, as a matter of course, remove complainants from classes or housing while allowing alleged perpetrators to remain. In addition, schools should ensure that complainants are aware of their Title IX rights and any available resources, such as counseling, health, and mental health services, and their right to file a complaint with local law
+	When taking steps to separate the complainant and alleged perpetrator, a school should minimize the burden on the complainant, and thus should not, as a matter of course, remove complainants from classes or housing while allowing alleged perpetrators to remain. In addition, schools should ensure that complainants are aware of their Title IX rights and any available resources, such as counseling, health, and mental health services, and their right to file a complaint with local law
 	enforcement.41" Pp. 16
 
+- [REVISED SEXUAL HARASSMENT GUIDANCE: HARASSMENT OF STUDENTS BY SCHOOL EMPLOYEES, OTHER STUDENTS, OR THIRD PARTIES, January 2001](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/shguide.pdf)
 
+	- "The more severe the conduct, the less the need to show a repetitive series of incidents; this is particularly true if the harassment is physical. For instance, if the conduct is more severe, e.g., attempts to grab a female student’s breasts or attempts to grab any student’s genital area or buttocks, it need not be as persistent to create a hostile environment. Indeed, a single or isolated incident of sexual harassment may, if sufficiently severe, create a hostile environment.4"
 
 - In the above articles, the SCU student (dorm room incident) had this to say, 
 
@@ -244,6 +247,30 @@ date: 2024-10-05 9:46 PM
 
 	- [The explanation](https://www.federalregister.gov/d/2024-07915/p-797)
 
+https://www.federalregister.gov/d/2024-07915/p-804
+
+As discussed in the July 2022 NPRM, conduct occurring under a recipient's education program or activity would include, but is not limited to, conduct that occurs in off-campus settings that are operated or overseen by the recipient, including, for example, field trips, online classes, and athletic programs; conduct subject to a recipient's disciplinary authority that occurs off campus; conduct that takes place via school-sponsored electronic devices, computer and internet networks and digital platforms operated by, or used in the operations of, the recipient, including AI technologies; and conduct that occurs during training programs sponsored by a recipient at another location.
+
+
+The recipient would not, however, have a standalone obligation to address the underlying alleged sexual assault of Student A that allegedly occurred while Student A and Student B were abroad because Title IX's protections do not apply extraterritorially.
+
+When, for example, a student alleges they have been assaulted by a professor in a study abroad program and that a sex-based hostile environment exists when the student and professor return to campus, a recipient would be obligated to address the alleged hostile environment that exists under its education program or activity in the United States. How a recipient should address a complaint of a hostile environment resulting from conduct alleged to have occurred outside of the United States will depend on the particular facts and circumstances.
+
+
+Further, the Department notes that Federal courts have held that a recipient's responsibilities under Title IX extend to conduct subject to the recipient's disciplinary authority. 
+
+See, e.g., Brown,
+
+82 F.4th at 878-79 (finding student presented sufficient evidence of substantial control when, among other things, the university's code of conduct applied to conduct “both on-campus and off-campus” and the university previously issued a no-contact order that applied off campus). 
+
+The Department confirms that if a recipient has disciplinary authority over a teacher's sexual harassment of a student that occurs off campus or outside of a school-sponsored activity, a recipient would be obligated to respond to that sexual harassment under § 106.11.
+
+https://www.federalregister.gov/d/2024-07915/p-833
+
+
+The Department also appreciates the opportunity to clarify its discussion of buildings owned or controlled by a student organization officially recognized by a postsecondary institution. The decision to officially recognize a student organization is within the purview of the postsecondary institution itself and will depend on that institution's particular policies and procedures.
+
+
 
 
 
@@ -279,12 +306,19 @@ When the decisionmaker finds that sex-based harassment occurred, any disciplinar
 - [SCU student training](https://www.scu.edu/title-ix/training/student/) and other related Title IX material 
 
 
+### SCU promotes a culture of nonreporting 
 
+- Deliberate indifference to and punishment of a reporter
 
+- Reddit
 
+- By not investigating plausible claims 
 
+- By the evidence showing that OCR has had no reports submitted and only two irrelevant resolutions
 
+- By taking the public position if a report was not made then the incident did not actually happen 
 
+- Legally banning fraternities and sororities 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -319,7 +353,8 @@ When the decisionmaker finds that sex-based harassment occurred, any disciplinar
 
 
 #### Notes
-
+Davis standard
+https://www.thefire.org/news/why-supreme-courts-davis-standard-necessary-restore-free-speech-americas-college-campuses-part
 
 #### UCLA 
 https://www.insidehighered.com/news/2018/09/20/ucla-student-sues-fraternities-says-they-should-do-more-protect-against-rape
@@ -340,14 +375,6 @@ https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternitie
 https://dailybruin.com/2018/08/24/editorial-ucla-must-ban-greek-life-houses-that-perpetuate-sexual-assault-and-harassment
 
 https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%20ZBT%20et%20al%20(1).pdf
-
-#### Santa Clara links
-
-- Santa Clara encourages a culture of non-reporting 
-
-- Gavin Newsom alma mater, Jerry Brown also went there 
-
-
 
 
 
