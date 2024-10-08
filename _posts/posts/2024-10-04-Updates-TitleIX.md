@@ -99,7 +99,7 @@ updated_date: 2024-10-08 11:59 PM
 
 	- "As the discussion in 62 FR 12041 makes clear, our definition reflects a continuum of severity. The ‘‘or’’ merely indicated that a particularly severe incident may not need to be persistent to be a problem under Title IX"
 
-	- The doc refers consistency with a 1997 document with the same guidance, so this guidance has been in place for at least 27 years
+	- The doc refers to consistency with a 1997 document with the same guidance, so this guidance has been in place for at least 27 years
 
 - [For almost 3 decades, Title IX has effectively been broader than the Davis standard](https://www.federalregister.gov/d/2024-07915/p-518) "because the Department also believes a broader standard is appropriate to enforce Title IX's prohibition on sex discrimination in the administrative context, in which educational access is the goal and private damages are not at issue."
 
@@ -196,13 +196,25 @@ violation"
 
 	- They may have a different obligation than the UC and CSU system under CA law
 
+#### Had the incident occurred at a fraternity...
+
+- 2020 CFR is clear and explicit with respect to Title VI jurisdiction
+
+- Post-2020, while there is language in the Title IX law for the inclusion of fraternities and sororities, due to the non-affiliate status of SCU fraternities and sororities, had the incident occurred at a frat, it would have been dismissed. (There's language in the SCU policy that permits broader interpretations, but given this was not the action taken with respect to the case and the previous policy, there's no reason to believe it would apply here.)
+
+- Beginning in 2022, the SCU policy provides a "scope"---"This Policy can also be applied to the effects of off-campus misconduct that effectively deprives or limits the educational or employment access, benefits, and/or opportunities.10" (footnote is very vague)
+
+	- By the SCU 2022 policy standard can the effects of a single assault occurring outside the program or activity be considered hostile environment sexual harassment within their program or activity? No, because it may be sufficiently severe, but not pervasive. 
+
+	- The above was the official SCU policy on SVSH until August of 2024
+
 ### The Clery Act
 
 - Santa Clara University Clery responsibility---
 
 	- "A crime is considered “reported” when it is brought to the attention of a CSA, Campus Safety Services or local law enforcement by a victim, witness, other third party, or even the suspect."
 
-		- Had the reports just been made (does not automatically initiate investigation or notify respondent), with respect to the drugging and assault incident, SCU might have been flagged by the DOE (verify)
+		- Had the reports just been made (does not automatically initiate investigation or notify respondent), with respect to the drugging and assault incidents, SCU might have been flagged by the DOE (verify)
 
 	- [Intersection with Title IX](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/miscellaneous/FERPA-Chart.pdf)
 
@@ -218,7 +230,13 @@ violation"
 
 		- "These statistics DO NOT reflect incidents reported that occurred in areas that are not Clery geography (such as at an off-campus party at a location not owned or controlled by the institution, an incident that occurs at a local bar or club, or an incident that occurs in the hometown of a student)."
 
-	- [2024 Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2024-Annual-Security-&-Fire-Safety-Report---Main-Campus.pdf)
+	- [2024 SCU Clery Report](https://www.scu.edu/media/offices/university-operations/campus-safety/campus-safety/annual-clery-pdfs/2024-Annual-Security-&-Fire-Safety-Report---Main-Campus.pdf)
+
+	- [What is a Timely Warning?](https://police.ucla.edu/reports-statistics/jeanne-clery-act/timely-warnings-and-emergency-notifications#:~:text=A%20Timely%20Warning%2C%20also%20known,continuing%20threat%20to%20students%20and)
+
+		- "A Timely Warning, also known as a Crime Alert, will be issued for all Clery Act crimes that occur on UCLA’s Clery Act geography that are reported to campus security authorities or local police agencies and are considered by the institution to represent a serious or continuing threat to students and employees."
+
+	- [Clery Timely Warning, 10-7](https://www.reddit.com/r/ucla/comments/1fynrh4/this_is_insane/)
 
 ### Title IX Jurisdiction
 
@@ -307,14 +325,6 @@ https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)
 When the decisionmaker finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
 
 
-- 2020 CFR is explicit with respect to Title VI jurisdiction
-
-- post-2020, had the incident occurred at a frat, it would have been dismissed. There's language in the policy that permits broader interpretations, but given this was not the action taken with respect to the case and the previous policy, there's no reason to believe it would apply here. 
-
-- Beginning in 2022, the SCU policy provides a "scope"---"This Policy can also be applied to the effects of off-campus misconduct that effectively deprives or limits the educational or employment access, benefits, and/or opportunities.10" (footnote is very vague)
-
-	- By the 2020 standard can the effects of a single assault occurring outside the program or activity be considered hostile environment sexual harassment within the program or activity? No, because it may be sufficiently severe, but not pervasive. 
-
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -344,6 +354,7 @@ When the decisionmaker finds that sex-based harassment occurred, any disciplinar
 - By taking the public position if a report was not made then the incident did not actually happen 
 
 - Legally banning fraternities and sororities 
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
