@@ -313,10 +313,8 @@ violation"
 
 - The bar is incredibly high in criminal and civil trials, administrative enforcement of Title IX may be the only recourse students have, and schools have a history of indifference 
 
-- [educate UGA lawsuit](https://caselaw.findlaw.com/court/us-11th-circuit/1013330.html#:~:text=Additionally%2C%20Williams%20asserts%20that%20UGA,members%20of%20the%20university%20community.)
+	- [UGA lawsuit](https://caselaw.findlaw.com/court/us-11th-circuit/1013330.html#:~:text=Additionally%2C%20Williams%20asserts%20that%20UGA,members%20of%20the%20university%20community.)
 
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ### SCU and Title IX 
 
@@ -345,67 +343,9 @@ violation"
 
 - Legally banning fraternities and sororities 
 
+-----------------------------------------------------------------------------------------------------------------------------
 
-
--------------------------------------------------------------------------------------------------------------------------------------
-
-- It is moot because reporting culture is said to be "poor" at SCU
-
-- A story (I did not ask to publish formally and do not plan to) from a current student---one fraternity at SCU has a policy for handling assault internally. Where they ask girls to list assault in an "accountability book" so they can hold brothers accountable themselves, with the worst repercussions being expulsion from the frat; no school or police involvement whatsoever. This was apparently the idea of the new frat president after the previous frat president was expelled from the frat for assault. 
-
-- There are no means for proving this from online sources. I can only quote a website saying "people don't report at SCU"
-
-- They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
-
-- They have zero Title IX cases pending with OCR, last 2 resolution letters are from [2017](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172106-a.pdf) and [2018 (Title II and Title VI/IX)](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172584-a.pdf)
-
-- Title IX Standard of proof
-
-	- [2024 Federal Register Final Rule, Preponderance vs. clear and convincing evidence](https://www.federalregister.gov/d/2024-07915/p-2424)
-
-		- [2020 Final Rule](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) DeVos snuck a higher standard of proof option for schools as long as they use it uniformly in all cases (into [COVID legislation](https://x.com/EdWorkforceDems/status/1258058830463799300))
-
-		- "The Department has decided to retain the standard of proof proposed in the July 2022 NPRM, without any changes..." This means that 2024 FR opted to stay with the standard of proof from DeVos' 2020 FR, but they added an option to apply a different standard to employees
-
-		- All universities have stayed with preponderance standard. "UCLA will continue to use the preponderance of evidence standard for its Title IX investigations as well as for other university offices that conduct investigations, he added." [DB article on the 2020 FR](https://dailybruin.com/2020/08/16/new-title-ix-policies-prompt-calls-on-ucla-to-protect-survivors-of-sexual-violence)
-
-
-
-
-
-
-
-
-
-
-#### Notes
-Davis standard
-https://www.thefire.org/news/why-supreme-courts-davis-standard-necessary-restore-free-speech-americas-college-campuses-part
-
-#### UCLA 
-https://www.insidehighered.com/news/2018/09/20/ucla-student-sues-fraternities-says-they-should-do-more-protect-against-rape
-
-- [UC explains the 2020 FR change](https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb) and how it relates to CA and UC SVSH policy 
-
-
-https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb
-
-https://www.reddit.com/r/ucla/comments/j0lbjg/ucla_frat_breakdown/
-
-https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternities-alleging-sexual-assault
-
-https://dailybruin.com/2019/04/24/campaign-responding-to-fraternity-sexual-assault-allegations-urges-for-reform
-
-https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternities-alleging-sexual-assault
-
-https://dailybruin.com/2018/08/24/editorial-ucla-must-ban-greek-life-houses-that-perpetuate-sexual-assault-and-harassment
-
-https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%20ZBT%20et%20al%20(1).pdf
-
-
-
-
-#### Background
+### SCU Background
 
 - Greek life is a major part of the social scene at SCU. This means SCU *relies* on the Greek system to attract students. 
 
@@ -454,4 +394,55 @@ https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%
 - The dissociation means Greek life at SCU is not under Clery jurisdiction 
 
 
-- [educate UGA lawsuit](https://caselaw.findlaw.com/court/us-11th-circuit/1013330.html#:~:text=Additionally%2C%20Williams%20asserts%20that%20UGA,members%20of%20the%20university%20community.)
+- It is moot because reporting culture is said to be "poor" at SCU
+
+- A story (I did not ask to publish formally and do not plan to) from a current student---one fraternity at SCU has a policy for handling assault internally. Where they ask girls to list assault in an "accountability book" so they can hold brothers accountable themselves, with the worst repercussions being expulsion from the frat; no school or police involvement whatsoever. This was apparently the idea of the new frat president after the previous frat president was expelled from the frat for assault. 
+
+- There are no means for proving this from online sources. I can only quote a website saying "people don't report at SCU"
+
+- They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
+
+- They have zero Title IX cases pending with OCR, last 2 resolution letters are from [2017](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172106-a.pdf) and [2018 (Title II and Title VI/IX)](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172584-a.pdf)
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+#### Notes
+Davis standard
+https://www.thefire.org/news/why-supreme-courts-davis-standard-necessary-restore-free-speech-americas-college-campuses-part
+
+#### UCLA 
+https://www.insidehighered.com/news/2018/09/20/ucla-student-sues-fraternities-says-they-should-do-more-protect-against-rape
+
+- [UC explains the 2020 FR change](https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb) and how it relates to CA and UC SVSH policy 
+
+
+[DB article on the 2020 FR](https://dailybruin.com/2020/08/16/new-title-ix-policies-prompt-calls-on-ucla-to-protect-survivors-of-sexual-violence)
+
+
+
+https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb
+
+https://www.reddit.com/r/ucla/comments/j0lbjg/ucla_frat_breakdown/
+
+https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternities-alleging-sexual-assault
+
+https://dailybruin.com/2019/04/24/campaign-responding-to-fraternity-sexual-assault-allegations-urges-for-reform
+
+https://dailybruin.com/2018/08/20/student-files-lawsuit-against-ucla-fraternities-alleging-sexual-assault
+
+https://dailybruin.com/2018/08/24/editorial-ucla-must-ban-greek-life-houses-that-perpetuate-sexual-assault-and-harassment
+
+https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%20ZBT%20et%20al%20(1).pdf
+
+
+
+
+
+
