@@ -267,7 +267,6 @@ violation"
 
 		- "“education program or activity” includes locations, events, or circumstances over which the recipient exercised substantial control over both the respondent and the context in which the sexual harassment occurs, and also includes any building owned or controlled by a student organization that is officially recognized by a postsecondary institution. A recipient's response must treat complainants and respondents equitably by offering supportive measures as defined in § 106.30 to a complainant, and by following a grievance process that complies with § 106.45 before the imposition of any disciplinary sanctions or other actions that are not supportive measures as defined in § 106.30, against a respondent."
 
-
 	- § 106.45 Grievance process for formal complaints of sexual harassment.
 
 		- [(3) Dismissal of a formal complaint---](https://www.ecfr.gov/on/2021-04-10/title-34/part-106#p-106.45(b)(3))
@@ -280,50 +279,42 @@ violation"
 
 		- "Except as provided in this subpart, this part applies to every recipient and to all sex discrimination occurring under a recipient's education program or activity in the United States. For purposes of this section, conduct that occurs under a recipient's education program or activity includes but is not limited to conduct that occurs in a building owned or controlled by a student organization that is officially recognized by a postsecondary institution, and conduct that is subject to the recipient's disciplinary authority. A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States." 
 
-
 	- [The explanation](https://www.federalregister.gov/d/2024-07915/p-797)
 
-https://www.federalregister.gov/d/2024-07915/p-804
-
-As discussed in the July 2022 NPRM, conduct occurring under a recipient's education program or activity would include, but is not limited to, conduct that occurs in off-campus settings that are operated or overseen by the recipient, including, for example, field trips, online classes, and athletic programs; conduct subject to a recipient's disciplinary authority that occurs off campus; conduct that takes place via school-sponsored electronic devices, computer and internet networks and digital platforms operated by, or used in the operations of, the recipient, including AI technologies; and conduct that occurs during training programs sponsored by a recipient at another location.
+- The 2024 amendments are deliberate and vague---err on the side of sanctions only when the respondent is subject to recipient's disciplinary authority or the incident occurred within the education program or activity (given circumstances are not extraordinary). Thus, it is likely that post-2024 amendments, incidents occurring at off-campus locations such as non-affiliate fraternities and sororities, depending on severity, would not be subject to disciplinary sanction. Respondents are entitled to due process, schools may not have the authority or obligation to meet evidentiary standards required for disciplinary sanction if an incident occurred outside of the program or activity, unless absolutely necessary. 
 
 
-The recipient would not, however, have a standalone obligation to address the underlying alleged sexual assault of Student A that allegedly occurred while Student A and Student B were abroad because Title IX's protections do not apply extraterritorially.
+	- "[As discussed in the July 2022 NPRM,](https://www.federalregister.gov/d/2024-07915/p-797) conduct occurring under a recipient's education program or activity would include, but is not limited to, conduct that occurs in off-campus settings that are operated or overseen by the recipient, including, for example, field trips, online classes, and athletic programs; conduct subject to a recipient's disciplinary authority that occurs off campus; conduct that takes place via school-sponsored electronic devices, computer and internet networks and digital platforms operated by, or used in the operations of, the recipient, including AI technologies; and conduct that occurs during training programs sponsored by a recipient at another location."
 
-When, for example, a student alleges they have been assaulted by a professor in a study abroad program and that a sex-based hostile environment exists when the student and professor return to campus, a recipient would be obligated to address the alleged hostile environment that exists under its education program or activity in the United States. How a recipient should address a complaint of a hostile environment resulting from conduct alleged to have occurred outside of the United States will depend on the particular facts and circumstances.
+	- "The recipient would not, however, have a standalone obligation to address the underlying alleged sexual assault of Student A that allegedly occurred while Student A and Student B were abroad because Title IX's protections do not apply extraterritorially."
 
-
-Further, the Department notes that Federal courts have held that a recipient's responsibilities under Title IX extend to conduct subject to the recipient's disciplinary authority. 
-
-See, e.g., Brown,
-
-82 F.4th at 878-79 (finding student presented sufficient evidence of substantial control when, among other things, the university's code of conduct applied to conduct “both on-campus and off-campus” and the university previously issued a no-contact order that applied off campus). 
-
-The Department confirms that if a recipient has disciplinary authority over a teacher's sexual harassment of a student that occurs off campus or outside of a school-sponsored activity, a recipient would be obligated to respond to that sexual harassment under § 106.11.
-
-https://www.federalregister.gov/d/2024-07915/p-833
+	- "When, for example, a student alleges they have been assaulted by a professor in a study abroad program and that a sex-based hostile environment exists when the student and professor return to campus, a recipient would be obligated to address the alleged hostile environment that exists under its education program or activity in the United States. How a recipient should address a complaint of a hostile environment resulting from conduct alleged to have occurred outside of the United States will depend on the particular facts and circumstances."
 
 
-The Department also appreciates the opportunity to clarify its discussion of buildings owned or controlled by a student organization officially recognized by a postsecondary institution. The decision to officially recognize a student organization is within the purview of the postsecondary institution itself and will depend on that institution's particular policies and procedures.
+	- "Further, the Department notes that Federal courts have held that a recipient's responsibilities under Title IX extend to conduct subject to the recipient's disciplinary authority. See, e.g., Brown, 82 F.4th at 878-79 (finding student presented sufficient evidence of substantial control when, among other things, the university's code of conduct applied to conduct “both on-campus and off-campus” and the university previously issued a no-contact order that applied off campus). The Department confirms that if a recipient has disciplinary authority over a teacher's sexual harassment of a student that occurs off campus or outside of a school-sponsored activity, a recipient would be obligated to respond to that sexual harassment under § 106.11."
+
+	- "The Department also appreciates the opportunity to clarify its discussion of buildings owned or controlled by a student organization officially recognized by a postsecondary institution. The decision to officially recognize a student organization is within the purview of the postsecondary institution itself and will depend on that institution's particular policies and procedures."
+
+	- [A recipient](https://www.ecfr.gov/current/title-34/part-106/section-106.45#p-106.45(h)(3)) may not impose discipline on a respondent for sex discrimination prohibited by Title IX unless there is a determination at the conclusion of the recipient's grievance procedures that the respondent engaged in prohibited sex discrimination;
+
+	- [When the decisionmaker](https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)) finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
 
 
+- With respect to SCU's handling it is clear, 
 
+	- Individuals who use alcohol and alcohol laced with elicit substances as a weapon to commit rape are not considered a threat to campus security
 
+	- Individuals who commit this form of rape are not considered contributors to hostile environments, and are not considered a threat to campus security 
 
+		- This is because SCU is happy to turn a blind eye to non-affiliate fraternity activities and welcome those who partake to be present on campus day after day
 
+		- This is because through a series of tactics used by the administration to dismiss and deny the student body, and to silence survivors, even acts that might clear the SCU Title IX hostile environment standard, had survivors been supported, were never reported or corroborated with multiple accounts against the same individuals
 
+		- This means practically speaking, given the culture of sexual assault at SCU, there is no evidence to suggest that perpetrators were not free to commit sexual violence multiple times without consequence
 
+- The bar is incredibly high in criminal and civil trials, administrative enforcement of Title IX may be the only recourse students have, and schools have a history of indifference 
 
-https://www.ecfr.gov/current/title-34/part-106/section-106.45#p-106.45(h)(3)
-
-A recipient may not impose discipline on a respondent for sex discrimination prohibited by Title IX unless there is a determination at the conclusion of the recipient's grievance procedures that the respondent engaged in prohibited sex discrimination;
-
-
-
-https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)
-
-When the decisionmaker finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
-
+- [educate UGA lawsuit](https://caselaw.findlaw.com/court/us-11th-circuit/1013330.html#:~:text=Additionally%2C%20Williams%20asserts%20that%20UGA,members%20of%20the%20university%20community.)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -428,6 +419,12 @@ https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%
 - The administration took a "my word versus yours" position. They claimed incidents were not happening because reports were not being made. 
 
 	- The response by the administrator was giving 2002. How often does any administrator function without substantial training and policy experience informing their positions? It felt like a backwards, common sense kind of response. When these gross generalizations are applied, effectively deciding the fate of hundreds or even thousands of students, it's pretty reckless. 
+
+- [#METOOSCU.](https://www.instagram.com/metoo.scu/)
+
+	- Where was the constructive notice for DOE, OCR, anyone? How did the DOE not know this was going on, is that not why they have regional offices? 
+
+- [SCU criminal law & policy site](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/), ex student
 
 - [Reddit](https://www.reddit.com/r/SCU/comments/12snkpf/how_bad_is_sexual_assault_at_scu/), 
 
