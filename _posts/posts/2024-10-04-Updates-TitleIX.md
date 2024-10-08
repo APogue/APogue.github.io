@@ -4,6 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
+updated_date: 2024-10-08 11:59 PM
 ---
 
 ## Updates to Title IX 
@@ -137,7 +138,7 @@ date: 2024-10-05 9:46 PM
 
 - By the above definition, the perpetrator would have had to rape her multiple times in order for the conduct to qualify as "Title IX sexual harassment." Therefor "by Title IX," the student was not entitled to supportive accommodations. With respect to the rape itself, the school reserved the right to "impose any level of sanction" on sexual misconduct. 
 
-- The 2015 SCU policy refers to the Title IX Coordinator and both above 2011 and 2001 guidance documents, they were clearly aware of the broader definitions; and misleadingly included the references to broader protections by referring to the policy.
+- The 2015 SCU policy refers to the Title IX Coordinator and both above 2011 and 2001 guidance documents, they were clearly aware of the broader definitions; and misleadingly included references to broader protections by referring to the policy.
 
 - All of this would have been legal(?), the [Federal Register / Vol. 65, No. 213](https://www.govinfo.gov/content/pkg/FR-2000-11-02/pdf/00-27910.pdf) put it well, 
 
