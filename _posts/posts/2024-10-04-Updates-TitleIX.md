@@ -66,7 +66,7 @@ date: 2024-10-05 9:46 PM
 
 		- "See 526 U.S. at 646-7 (“We thus conclude that recipients of federal funding may be liable for `subject[ing]' their students to discrimination where the recipient is deliberately indifferent to known acts of student-on-student sexual harassment and the harasser is under the school's disciplinary authority.”); Brown, 82 F.4th at 875 (“[A] key consideration is whether the school has some form of disciplinary authority over the harasser in the setting in which the harassment takes place.”);"
 
-- The incident occurred in 2019, [CNN](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) referred to an "2011 Obama-era Dear Colleague letter" that defined sexual harassment before the 2020 FR. I would assume it is the 2011 Dear Colleague letter that served as the foundation for Campus SaVE. Verify at a later time. Currently I will assume that at this time SCU was functioning under the guidance of this Dear Colleague letter. Within this letter is the statement,
+- The incident occurred in 2019, [CNN](https://www.cnn.com/2020/05/06/politics/education-secretary-betsy-devos-title-ix-regulations/index.html) referred to an "2011 Obama-era Dear Colleague letter" that defined sexual harassment before the 2020 FR. 
 
 	"As explained in OCR’s 2001 Guidance, when a student sexually harasses another student, the
 	harassing conduct creates a hostile environment if the conduct is sufficiently serious that it
@@ -94,17 +94,21 @@ date: 2024-10-05 9:46 PM
 
 	- "The more severe the conduct, the less the need to show a repetitive series of incidents; this is particularly true if the harassment is physical. For instance, if the conduct is more severe, e.g., attempts to grab a female student’s breasts or attempts to grab any student’s genital area or buttocks, it need not be as persistent to create a hostile environment. Indeed, a single or isolated incident of sexual harassment may, if sufficiently severe, create a hostile environment.4"
 
+- Santa Clara specifically referred to the two above documents in their policy manual, but this definition goes back farther, [Federal Register / Vol. 65, No. 213, 2000](https://www.govinfo.gov/content/pkg/FR-2000-11-02/pdf/00-27910.pdf)
+
+	- "As the discussion in 62 FR 12041 makes clear, our definition reflects a continuum of severity. The ‘‘or’’ merely indicated that a particularly severe incident may not need to be persistent to be a problem under Title IX"
+
+	- The doc refers consistency with a 1997 document with the same guidance, so this guidance has been in place for at least 27 years
+
+- [For almost 3 decades, Title IX has effectively been broader than the Davis standard](https://www.federalregister.gov/d/2024-07915/p-518) "because the Department also believes a broader standard is appropriate to enforce Title IX's prohibition on sex discrimination in the administrative context, in which educational access is the goal and private damages are not at issue."
+
 - In the above articles, the SCU student (dorm room incident) had this to say, 
 
 	"This plaintiff stated that she asked for a no-contact order and for accommodations to ensure she had no interaction with her attacker, but that instead, she was the one dropped from a class they shared. She also alleges the male student violated the no-contact order by having a private investigator try to reach her.
 
 	According to the lawsuit, an ensuing Title IX investigation in that case concluded the sex was non-consensual. The suit states that the university’s Sexual and Gender Based Misconduct Board “concluded that there was a preponderance of evidence that (the co-plaintiff) was incapacitated and incapable of giving consent and that (the defendant) knew or should have known this. However, the Board did not find that the incident constituted a sexual harassment violation.”
 
-- The incident occurred prior to the 2020 rule change 
-
-- Dear Colleague letters serve as guidance (verify), the [SCU policy as of 2015 (archive)](https://www.scu.edu/title-ix/about/documents/) was the following, 
-
-- [2015 SCU SVSH Policy](https://www.scu.edu/media/offices/eeo/2015-policy-1.pdf) opted for the narrower "AND"
+- [2015 SCU SVSH Policy](https://www.scu.edu/media/offices/eeo/2015-policy-1.pdf) opted for the narrower "AND" (Davis standard)
 
 - Defines sexual harassment as "unwelcome, sexual or gender-based verbal, written, online and/or physical conduct," 
 
@@ -131,9 +135,22 @@ date: 2024-10-05 9:46 PM
 	committed by any person upon any other person, regardless of the sex, gender, sexual orientation
 	and/or gender identity of those involved. "
 
-- By the above definition, the perpetrator would have had to rape her multiple times in order for the conduct to qualify as Title IX sexual harassment. Therefor by Title IX, the student was not entitled to supportive accommodations. With respect to the rape itself, the school protected itself by reserving the right to "impose any level of sanction" on sexual misconduct. 
+- By the above definition, the perpetrator would have had to rape her multiple times in order for the conduct to qualify as "Title IX sexual harassment." Therefor "by Title IX," the student was not entitled to supportive accommodations. With respect to the rape itself, the school reserved the right to "impose any level of sanction" on sexual misconduct. 
 
-- All of this would have been legal. The articles mention the students speculating that the 2020 FR would make things harder for students, referring to what they saw as a narrower definition of SH and the live hearing and cross examination portions of the law (verify).
+- The 2015 SCU policy refers to the Title IX Coordinator and both above 2011 and 2001 guidance documents, they were clearly aware of the broader definitions; and misleadingly included the references to broader protections by referring to the policy.
+
+- All of this would have been legal(?), the [Federal Register / Vol. 65, No. 213](https://www.govinfo.gov/content/pkg/FR-2000-11-02/pdf/00-27910.pdf) put it well, 
+
+	- "D. OCR Case Resolution---The 1997 guidance discussion of liability contained a subsection titled
+''OCR Case Resolution.'' Because the focus of the proposed revised guidance is specifically OCR enforcement, this section has been retained and clarified. This section lets schools know that, even if the school discriminates, the
+school does not immediately lose Federal funds on that basis alone. Consistent with the Title IX statute, we provide recipients with the opportunity to take timely and effective corrective action before issuing a formal finding of
+violation"
+
+	- What SCU did was a Title IX violation, but the school would not be held accountable unless a complaint were filed with OCR. It is a reactive system. 
+
+	- Good case for notification and preventative measures
+
+- The articles mention the student confusion, speculating that the 2020 FR would make things harder for students, referring to what they saw as a narrower definition of SH and the live hearing and cross examination portions of the law (verify).
 
 - I believe they partook in some form of live hearing and cross examination (verify) and that schools already had a system like this in place (UCLA did, verify). It was a concern that schools that did not have this kind of system might struggle to meet the rule change in time. 
 
@@ -308,7 +325,7 @@ When the decisionmaker finds that sex-based harassment occurred, any disciplinar
 
 ### SCU promotes a culture of nonreporting 
 
-- Deliberate indifference to and punishment of a reporter
+- Deliberate indifference to and punishment/retaliation of a reporter
 
 - Reddit
 
@@ -418,3 +435,6 @@ https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%
 - They want to have their cake and eat it too.
 
 - The dissociation means Greek life at SCU is not under Clery jurisdiction 
+
+
+- [educate UGA lawsuit](https://caselaw.findlaw.com/court/us-11th-circuit/1013330.html#:~:text=Additionally%2C%20Williams%20asserts%20that%20UGA,members%20of%20the%20university%20community.)
