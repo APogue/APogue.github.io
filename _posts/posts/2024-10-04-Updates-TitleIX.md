@@ -4,7 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
-updated_date: 2024-10-08 11:59 PM
+updated_date: 2024-10-08 05:29 PM
 ---
 
 ## Updates to Title IX 
@@ -298,7 +298,6 @@ violation"
 	- [A recipient](https://www.ecfr.gov/current/title-34/part-106/section-106.45#p-106.45(h)(3)) may not impose discipline on a respondent for sex discrimination prohibited by Title IX unless there is a determination at the conclusion of the recipient's grievance procedures that the respondent engaged in prohibited sex discrimination;
 
 	- [When the decisionmaker](https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)) finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
-
 
 - With respect to SCU's handling it is clear, 
 
