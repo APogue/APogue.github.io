@@ -307,6 +307,13 @@ https://www.ecfr.gov/current/title-34/part-106/section-106.46#p-106.46(h)
 When the decisionmaker finds that sex-based harassment occurred, any disciplinary sanctions the postsecondary institution will impose on the respondent, whether remedies other than the imposition of disciplinary sanctions will be provided by the postsecondary institution to the complainant, and, to the extent appropriate, other students identified by the postsecondary institution to be experiencing the effects of the sex-based harassment; and
 
 
+- 2020 CFR is explicit with respect to Title VI jurisdiction
+
+- post-2020, had the incident occurred at a frat, it would have been dismissed. There's language in the policy that permits broader interpretations, but given this was not the action taken with respect to the case and the previous policy, there's no reason to believe it would apply here. 
+
+- Beginning in 2022, the SCU policy provides a "scope"---"This Policy can also be applied to the effects of off-campus misconduct that effectively deprives or limits the educational or employment access, benefits, and/or opportunities.10" (footnote is very vague)
+
+	- By the 2020 standard can the effects of a single assault occurring outside the program or activity be considered hostile environment sexual harassment within the program or activity? No, because it may be sufficiently severe, but not pervasive. 
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -332,7 +339,7 @@ When the decisionmaker finds that sex-based harassment occurred, any disciplinar
 
 - By not investigating plausible claims 
 
-- By the evidence showing that OCR has had no reports submitted and only two irrelevant resolutions
+- By the evidence showing that OCR has had no reports submitted and only three irrelevant resolutions since 2013
 
 - By taking the public position if a report was not made then the incident did not actually happen 
 
@@ -408,6 +415,8 @@ https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%
 - [Another article 2](https://www.ktvu.com/news/sexual-assaults-go-largely-unreported-santa-clara-university-and-students-talk-disparity-in-numbers),
 
 - The administration took a "my word versus yours" position. They claimed incidents were not happening because reports were not being made. 
+
+	- The response by the administrator was giving 2002. How often does any administrator function without substantial training and policy experience informing their positions? It felt like a backwards, common sense kind of response. When these gross generalizations are applied, effectively deciding the fate of hundreds or even thousands of students, it's pretty reckless. 
 
 - [Reddit](https://www.reddit.com/r/SCU/comments/12snkpf/how_bad_is_sexual_assault_at_scu/), 
 
