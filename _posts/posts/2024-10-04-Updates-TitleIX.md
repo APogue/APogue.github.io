@@ -4,7 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
-updated_date: 2024-10-09 04:44 PM
+updated_date: 2024-10-09 06:12 PM
 ---
 
 ## Updates to Title IX 
