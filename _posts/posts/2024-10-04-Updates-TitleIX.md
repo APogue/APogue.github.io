@@ -404,12 +404,24 @@ violation"
 
 - They have zero Title IX cases pending with OCR, last 2 resolution letters are from [2017](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172106-a.pdf) and [2018 (Title II and Title VI/IX)](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/investigations/more/09172584-a.pdf)
 
+### General direction (notes)
 
+- Discrimination was pervasive and met the Davis standard at the Georgia school because the school knowingly allowed an individual with a history of sexual assault to be on campus.
 
+- A lawsuit at UCLA charged a fraternity with a similar crime because they allowed someone the school disciplined with assault to continue living in a fraternity house.
 
+- After notifying the fraternity of the incident, the fraternity first tried to convince her not to report the assault to the university. 
 
+- Whether this is common practice is unknown, but an SCU fraternity is apparently, at the same moment using this practice. 
 
+- Another fraternity (or the same one can't remember), who is known for having, "the hottest guys," is also known for using 
+date rape drugs. Which apparently is considered "ironic" given it is joked that they should need them the least. 
 
+- Meanwhile in 2021, when protests broke out, and students demonstrated to raise awareness and condemn administrative bias, the administration's 
+rebuttal was a he said, she said claim. That assaults were not actually occurring because reports were not being made. 
+
+- This shows the administrator's complete lack of policy research, as research shows that barriers to reporting 
+represent a major issue in holding offending students accountable. 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
