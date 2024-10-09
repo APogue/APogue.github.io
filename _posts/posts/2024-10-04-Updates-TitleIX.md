@@ -432,9 +432,9 @@ are a major issue in holding offending students accountable.
 
 	- "Students share stories of being misinformed that SCU doesn’t investigate off campus incidents. They are also sometimes unaware that they can report to Title IX without an investigation. This misinformation is dangerous, as it can prevent survivors from accessing support."
 
-	- For whatever reason, whether it be the handling of other cases and word of mouth, attempts at understanding the manual, or whether this is the actual case, it is likely that there are reports not being made and support not being given to victims of sexual assault. 
+	- For whatever reason, whether it be the handling of other cases and word of mouth, attempts at understanding the manual, or whether this is the actual case, it is likely that there were reports not being made and support not being given to victims of sexual assault. 
 
-	- It is impossible to know how Santa Clara may have handled this case, because the severity of the incident is unknown. What is known is that this case and possibly others went unreported. Whether alleged perpetrators present imminent threats or are repeat offenders is therefor also unknown. 
+	- It is impossible to know how Santa Clara would have handled this case, because the severity of the incident is unknown. What is known is this case and possibly others went unreported. Whether alleged perpetrators presented imminent threats or were repeat offenders is therefor also unknown. 
 
 	- "It was my understanding that the Title IX office would not hear my case because it happened off-campus" [Insta post](https://www.instagram.com/p/CJwyecoLkFt/?img_index=2)
 
