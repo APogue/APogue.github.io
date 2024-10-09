@@ -417,6 +417,8 @@ violation"
 - Another fraternity (or the same one can't remember), who is known for having, "the hottest guys," is also known for using 
 date rape drugs. Which apparently is considered "ironic" given it is joked that they should need them the least. 
 
+- Apparently last year (2023) "welcome week" was "when it was bad" verbatim
+
 - Meanwhile in 2021, when protests broke out, and students demonstrated to raise awareness and condemn administrative bias, the administration's 
 rebuttal was a he said, she said claim---assaults were not actually occurring because reports were not being made. 
 
