@@ -425,6 +425,13 @@ rebuttal was a he said, she said claim---assaults were not actually occurring be
 - This shows the administrator's complete lack of policy research, as research shows that barriers to reporting 
 are a major issue in holding offending students accountable. 
 
+https://crimlawandpolicy.wordpress.com/2022/04/06/arrested-development-how-the-law-fails-to-protect-students-off-campus/
+
+https://crimlawandpolicy.wordpress.com/2022/06/10/the-case-for-enterprise-risk-management-in-higher-education%ef%bf%bc/
+
+- 2b student training and transparency---
+
+https://crimlawandpolicy.wordpress.com/2022/06/01/take-action-and-build-a-better-system-to-address-sexual-violence/
 
 ### Related quotes
 
