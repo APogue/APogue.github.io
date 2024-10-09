@@ -4,7 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
-updated_date: 2024-10-08 05:29 PM
+updated_date: 2024-10-09 04:44 PM
 ---
 
 ## Updates to Title IX 
@@ -408,20 +408,20 @@ violation"
 
 - Discrimination was pervasive and met the Davis standard at the Georgia school because the school knowingly allowed an individual with a history of sexual assault to be on campus.
 
-- A lawsuit at UCLA charged a fraternity with a similar crime because they allowed someone the school disciplined with assault to continue living in a fraternity house.
+- A lawsuit at UCLA charged accused a fraternity of doing something similar---they allowed someone the school disciplined with assault to continue living in a fraternity house.
 
 - After notifying the fraternity of the incident, the fraternity first tried to convince her not to report the assault to the university. 
 
-- Whether this is common practice is unknown, but an SCU fraternity is apparently, at the same moment using this practice. 
+- Whether this is common practice is unknown, but an SCU fraternity is apparently currently using this practice. 
 
 - Another fraternity (or the same one can't remember), who is known for having, "the hottest guys," is also known for using 
 date rape drugs. Which apparently is considered "ironic" given it is joked that they should need them the least. 
 
 - Meanwhile in 2021, when protests broke out, and students demonstrated to raise awareness and condemn administrative bias, the administration's 
-rebuttal was a he said, she said claim. That assaults were not actually occurring because reports were not being made. 
+rebuttal was a he said, she said claim---assaults were not actually occurring because reports were not being made. 
 
 - This shows the administrator's complete lack of policy research, as research shows that barriers to reporting 
-represent a major issue in holding offending students accountable. 
+are a major issue in holding offending students accountable. 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
