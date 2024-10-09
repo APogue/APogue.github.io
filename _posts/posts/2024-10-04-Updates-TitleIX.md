@@ -423,6 +423,29 @@ rebuttal was a he said, she said claim---assaults were not actually occurring be
 - This shows the administrator's complete lack of policy research, as research shows that barriers to reporting 
 are a major issue in holding offending students accountable. 
 
+
+### Related quotes
+
+- Todo---Why did UCLA mention CA law? Check if it is "OR," was SCU was violating CA law?
+
+- [Criminal law and policy related to SCU site](https://crimlawandpolicy.wordpress.com/2022/04/17/the-complicated-sexual-violence-policies-at-santa-clara-university/) 
+
+	- "Students share stories of being misinformed that SCU doesn’t investigate off campus incidents. They are also sometimes unaware that they can report to Title IX without an investigation. This misinformation is dangerous, as it can prevent survivors from accessing support."
+
+	- For whatever reason, whether it be the handling of other cases and word of mouth, attempts at understanding the manual, or whether this is the actual case, it is likely that there are reports not being made and support not being given to victims of sexual assault. 
+
+	- It is impossible to know how Santa Clara may have handled this case, because the severity of the incident is unknown. What is known is that this case and possibly others went unreported. Whether alleged perpetrators present imminent threats or are repeat offenders is therefor also unknown. 
+
+	- "It was my understanding that the Title IX office would not hear my case because it happened off-campus" [Insta post](https://www.instagram.com/p/CJwyecoLkFt/?img_index=2)
+
+- "Even though there are trainings offered at orientation, during sexual assault awareness month, and at the dorms and around campus, students often learn about the office through word of mouth."
+
+	- [There is one mandatory training at SCU](https://www.scu.edu/title-ix/training/student/), Title IX training, "In collaboration with the Office of Student Life, each newly enrolled student (first year students, transfers and graduate students) is required to complete online training modules through the Vector Solutions online training platform which discusses sexual harassment and sex based misconduct and discrimination."
+
+	- This individual became an "interested party" after her incident, and likely used the "sexual assault awareness month" training 
+
+	- "I didn't know that reporting to title IX without an investigation was a possibility until i found out during training on sexual assault" [insta quoted](https://www.instagram.com/p/CY7qDIZJ4p2/?img_index=6)
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 #### Notes
