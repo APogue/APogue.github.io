@@ -404,6 +404,8 @@ violation"
 
 	- The bargain was, if they keep the record book, will the sorority consider attending future socials?
 
+	- He said he would "sleep with the book under his bed" to keep brothers from trying to tamper with it
+
 	- Oh also I'm not allowed to ruin her social life and have the fraternities shut down (jfc)
 
 - They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
