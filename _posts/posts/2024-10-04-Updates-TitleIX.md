@@ -4,7 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
-updated_date: 2024-10-10 01:17 PM
+updated_date: 2024-10-10 01:34 PM
 ---
 
 ## Updates to Title IX 
@@ -202,7 +202,7 @@ violation"
 
 - Post-2020, while there is language in the Title IX law for the inclusion of fraternities and sororities, due to the non-affiliate status of SCU fraternities and sororities, had the incident occurred at a frat, it would have been dismissed. (There's language in the SCU policy that permits broader interpretations, but given this was not the action taken with respect to the case and the previous policy, there's no reason to believe it would apply here.)
 
-- Beginning in 2022, the SCU policy provides a "scope"---"This Policy can also be applied to the effects of off-campus misconduct that effectively deprives or limits the educational or employment access, benefits, and/or opportunities.10" (footnote is very vague)
+- Beginning in 2020, the SCU policy provides a "scope"---"This Policy can also be applied to the effects of off-campus misconduct that effectively deprives or limits the educational or employment access, benefits, and/or opportunities.10" (footnote is very vague)
 
 	- By the SCU 2022 policy standard can the effects of a single assault occurring outside the program or activity be considered hostile environment sexual harassment within their program or activity? No, because it may be sufficiently severe, but not pervasive. 
 
@@ -450,7 +450,6 @@ https://crimlawandpolicy.wordpress.com/2022/06/01/take-action-and-build-a-better
 
 https://www.instagram.com/p/CNx-SHXH-FV/?img_index=1
 
-
 - scu violence prevention organization
 
 https://www.instagram.com/scuviolenceprevention/
@@ -474,6 +473,8 @@ https://www.instagram.com/scuviolenceprevention/
 	- [There is one mandatory training at SCU](https://www.scu.edu/title-ix/training/student/), Title IX training, "In collaboration with the Office of Student Life, each newly enrolled student (first year students, transfers and graduate students) is required to complete online training modules through the Vector Solutions online training platform which discusses sexual harassment and sex based misconduct and discrimination."
 
 	- This individual became an "interested party" after her incident, and likely used the "sexual assault awareness month" training 
+
+	- Given the Davis standard originally used, and then not meeting CA law, any efforts by the school were clearly symbolic
 
 	- "I didn't know that reporting to title IX without an investigation was a possibility until i found out during training on sexual assault" [insta quoted](https://www.instagram.com/p/CY7qDIZJ4p2/?img_index=6)
 
