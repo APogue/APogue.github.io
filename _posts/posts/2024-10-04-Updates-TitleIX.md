@@ -4,7 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
-updated_date: 2024-10-09 09:20 PM
+updated_date: 2024-10-10 01:17 PM
 ---
 
 ## Updates to Title IX 
@@ -446,6 +446,15 @@ https://crimlawandpolicy.wordpress.com/2022/06/10/the-case-for-enterprise-risk-m
 
 https://crimlawandpolicy.wordpress.com/2022/06/01/take-action-and-build-a-better-system-to-address-sexual-violence/
 
+- scu survey
+
+https://www.instagram.com/p/CNx-SHXH-FV/?img_index=1
+
+
+- scu violence prevention organization
+
+https://www.instagram.com/scuviolenceprevention/
+
 ### Related quotes
 
 - Todo---Why did UCLA mention CA law? Check if it is "OR," was SCU was violating CA law?
@@ -467,6 +476,33 @@ https://crimlawandpolicy.wordpress.com/2022/06/01/take-action-and-build-a-better
 	- This individual became an "interested party" after her incident, and likely used the "sexual assault awareness month" training 
 
 	- "I didn't know that reporting to title IX without an investigation was a possibility until i found out during training on sexual assault" [insta quoted](https://www.instagram.com/p/CY7qDIZJ4p2/?img_index=6)
+
+
+### California state law
+
+- [Doc by Association of Title IX Administrators](https://www.yosemite.edu/title9/YCCD_CA_SB_493.pdf)
+
+	- Under Title IX---Actual notice standard (requiring notice to the Title IX Coordinator or an Official with Authority).
+
+	- Under SB 493---Revives the concept of “constructive notice” for California institutions. Requires that an institution take steps to investigate possible policy violations once the institution knows (actual notice) or reasonably should know (constructive notice) about possible instances of sexual harassment. This difference creates a greater duty on the part of institutions to respond to notice, not just complaints.
+
+	- Private right of action: "SB 493 states that violations of the law could constitute discrimination and could subject institutions to civil lawsuits and applicable remedies, including but not limited to, injunctions, restraining orders."
+
+- [USC explains the CA bill](https://eeotix.usc.edu/news-and-announcements/required-california-state-legal-updates-to-policy-and-resolution-process-for-sexual-misconduct/) 
+
+- [USC policy is clear and explicit](https://policy.usc.edu/wp-content/uploads/2022/08/Policy-on-Prohibited-Discrimination-Harassment-and-Retaliation.pdf)
+
+	- With regards to Title IX definitions (Pp. 7) and CA SB 493 definition (Pp. 9)
+
+	- "However, in keeping with the University’s educational mission and commitment to foster a 
+	learning, living, and working environment free from discrimination, harassment, and retaliation, 
+	the University will move forward under the same Resolution Process for Sexual Misconduct for 
+	reports of California Education Code Sexual Harassment (including Sexual Violence, Rape, 
+	Sexual Battery, and Sexual Exploitation), Sexual and Gender-Based Harassment, Sexual Assault,Dating Violence, Domestic Violence, Stalking, and other forms of Prohibited Conduct that occur 
+	outside of Title IX Jurisdiction (e.g., not in the United States, or as noted above, outside of the 
+	education program or activity)."
+
+	- 2P1P, the above is part of the 2-pronged approach
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -505,3 +541,17 @@ The above is a take from the other side...
 
 "Honestly I would consider Sexual Assault the #1 problem in Greek life that must be addressed. As well as one of the geed media’s biggest weapons against fraternities, because there is always that one house at every school that does this shit, if not more, and the schools won’t step up because of Alumni Donations."
 
+"You're correct that noncompliance with Title IX typically does not result in direct civil liability for educational institutions. Under federal Title IX, the consequences for noncompliance generally involve the potential loss of federal funding. Title IX complaints are investigated by the Office for Civil Rights (OCR), and if a school is found in violation, it typically faces administrative actions, such as entering into a resolution agreement with OCR. The focus is on bringing the institution into compliance rather than imposing direct civil penalties.
+
+However, under California state law—specifically SB 493—the consequences of noncompliance can be much more severe. SB 493 explicitly states that violations related to handling sexual harassment and assault could constitute discrimination under California law. This noncompliance can indeed make educational institutions subject to:
+
+Civil lawsuits by victims or parties harmed by the school's failure to comply.
+Applicable remedies, which include injunctions (to require certain actions) or restraining orders (to prevent certain behaviors).
+This means that in California, schools that fail to adequately respond to or address incidents of sexual harassment or assault can face civil liability, making them more directly accountable under state law compared to federal Title IX.
+
+SB 493 effectively allows survivors of sexual misconduct or discrimination to seek legal action against schools for not complying with California’s requirements. This is different from federal Title IX enforcement, which typically lacks a civil remedy mechanism unless an individual can prove that the institution was "deliberately indifferent" to harassment that was reported—a much harder standard to meet compared to California’s provisions.
+
+In summary:
+
+Title IX (federal): Administrative actions, risk of losing federal funding, but no direct civil liability for noncompliance.
+California SB 493: Schools are subject to civil liability for failing to comply, including the possibility of lawsuits and injunctions."
