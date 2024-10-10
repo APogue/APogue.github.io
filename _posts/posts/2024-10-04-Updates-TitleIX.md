@@ -4,7 +4,7 @@ title: "Updates to Title IX"
 published: true
 author: Alexie Pogue
 date: 2024-10-05 9:46 PM
-updated_date: 2024-10-09 06:12 PM
+updated_date: 2024-10-09 09:20 PM
 ---
 
 ## Updates to Title IX 
@@ -396,9 +396,15 @@ violation"
 
 - It is moot because reporting culture is said to be "poor" at SCU
 
-- A story (I did not ask to publish formally and do not plan to) from a current student---one fraternity at SCU has a policy for handling assault internally. Where they ask girls to list assault in an "accountability book" so they can hold brothers accountable themselves, with the worst repercussions being expulsion from the frat; no school or police involvement whatsoever. This was apparently the idea of the new frat president after the previous frat president was expelled from the frat for assault. 
+- A story (I did not ask to publish formally and do not plan to) from a current student---one fraternity at SCU has a policy for handling assault internally. Where they ask girls to list assault in an "accountability book" so girls have time to think about whether they want to proceed and they can hold brothers accountable themselves, with the worst repercussions being expulsion from the frat; no school or police involvement whatsoever. This was apparently the idea of the new frat president after the previous frat president was expelled from the frat for assault. 
 
-- There are no means for proving this from online sources. I can only quote a website saying "people don't report at SCU"
+	- Apparently this was an announcement made to her sorority at a sorority meeting
+
+	- The frat was being blacklisted due to past assault and no one was coming to their parties
+
+	- The bargain was, if they keep the record book, will the sorority consider attending future socials?
+
+	- Oh also I'm not allowed to ruin her social life and have the fraternities shut down (jfc)
 
 - They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
 
@@ -414,16 +420,21 @@ violation"
 
 - Whether this is common practice is unknown, but an SCU fraternity is apparently currently using this practice. 
 
-- Another fraternity (or the same one can't remember), who is known for having, "the hottest guys," is also known for using 
-date rape drugs. Which apparently is considered "ironic" given it is joked that they should need them the least. 
+- Another fraternity (it is a different fraternity than the record book frat), who is known for having, "the hottest guys," is also known for using date rape drugs. Which apparently is considered "ironic" given it is joked that they should need them the least. 
 
 - Apparently last year (2023) "welcome week" was "when it was bad" verbatim
+
+- 40 or so cases of drugging and assault
+
+- She doesn't know whether it is the same roofie frat as a couple years before
 
 - Meanwhile in 2021, when protests broke out, and students demonstrated to raise awareness and condemn administrative bias, the administration's 
 rebuttal was a he said, she said claim---assaults were not actually occurring because reports were not being made. 
 
 - This shows the administrator's complete lack of policy research, as research shows that barriers to reporting 
 are a major issue in holding offending students accountable. 
+
+- Some of the policy site blog posts---
 
 https://crimlawandpolicy.wordpress.com/2022/04/06/arrested-development-how-the-law-fails-to-protect-students-off-campus/
 
@@ -486,7 +497,9 @@ https://dailybruin.com/2018/08/24/editorial-ucla-must-ban-greek-life-houses-that
 https://www.insidehighered.com/sites/default/files/media/BC717396%20-%20Doe%20v%20ZBT%20et%20al%20(1).pdf
 
 
+https://www.reddit.com/r/Frat/comments/zrqa9b/i_think_i_was_roofied_at_your_party_last_night/
 
+The above is a take from the other side...
 
-
+"Honestly I would consider Sexual Assault the #1 problem in Greek life that must be addressed. As well as one of the geed media’s biggest weapons against fraternities, because there is always that one house at every school that does this shit, if not more, and the schools won’t step up because of Alumni Donations."
 
