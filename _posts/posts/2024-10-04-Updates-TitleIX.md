@@ -155,7 +155,9 @@ violation"
 
 - I believe they partook in some form of live hearing and cross examination (verify) and that schools already had a system like this in place (UCLA did, verify). It was a concern that schools that did not have this kind of system might struggle to meet the rule change in time. 
 
-- It looks like the 2020 rule change, although it did have an "AND" definition, it was "OR" with respect to sexual assault. So the rule change would have mandated a minimum standard for SH that would have included the incident. This is reflected in the SVSH policy for [SCU in 2022](https://www.scu.edu/media/offices/eeo/2022_Policy.pdf).
+- It looks like the 2020 rule change, although it did have an "AND" definition, it was "OR" with respect to sexual assault. So the rule change would have mandated a minimum standard for SH that would have included the incident. This is reflected in the SVSH policy for [SCU in 2022](https://www.scu.edu/media/offices/eeo/2022_Policy.pdf). 
+
+- 2020 and 2022 policy also have a section called "CA discriminatory harassment"
 
 - However, it is a question of what these schools were choosing to do to protect its students. Even with respect to the sexual harassment definition in 2020, [the UC's stated this](https://sexualharassment.ucla.edu/file/ff9b59bd-21ce-48df-8fc1-d5d26eda55bb), 
 
