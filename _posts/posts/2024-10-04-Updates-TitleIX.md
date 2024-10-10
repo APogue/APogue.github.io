@@ -406,7 +406,7 @@ violation"
 
 	- He said he would "sleep with the book under his bed" to keep brothers from trying to tamper with it
 
-	- Oh also I'm not allowed to ruin her social life and have the fraternities shut down (jfc)
+	- Oh also I'm not allowed to ruin her social life and have the fraternities shut down 
 
 - They do not have mandatory Title IX training annually. They do not have a Title IX accountability report to indicate efforts at transparency or concern for student safety and well-being 
 
@@ -416,7 +416,7 @@ violation"
 
 - Discrimination was pervasive and met the Davis standard at the Georgia school because the school knowingly allowed an individual with a history of sexual assault to be on campus.
 
-- A lawsuit at UCLA charged accused a fraternity of doing something similar---they allowed someone the school disciplined with assault to continue living in a fraternity house.
+- A lawsuit at UCLA accused a fraternity of doing something similar---they allowed someone the school disciplined with assault to continue living in a fraternity house.
 
 - After notifying the fraternity of the incident, the fraternity first tried to convince her not to report the assault to the university. 
 
@@ -434,7 +434,7 @@ violation"
 rebuttal was a he said, she said claim---assaults were not actually occurring because reports were not being made. 
 
 - This shows the administrator's complete lack of policy research, as research shows that barriers to reporting 
-are a major issue in holding offending students accountable. 
+are a major issue in the support of victims of sexual assault. 
 
 - Some of the policy site blog posts---
 
