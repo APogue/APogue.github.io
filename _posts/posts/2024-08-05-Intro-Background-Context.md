@@ -1,19 +1,18 @@
 ---
 layout: outline
-title: "Introduction/Background and Context"
+title: "Introduction/Background and Context V2"
 published: true
 author: Alexie Pogue
-date: 2024-08-05 02:00 PM
-updated_date: 2024-09-25 2:53 PM
+date: 2024-10-11 03:54 PM
 ---
 
 ## Introduction
 
-- Draw a connection between what is happening on the national level and UCLA: the antisemitic activity that occurred in D.C. during Netanyahu visit 
+- Draw a connection between what is happening on the national level and UCLA: current antisemitic activity 
 	
-	- Graffiti at UCLA
+	- Graffiti 
 
-	- Similar symbolism at the UCLA protest 
+	- Symbolism at the UCLA protest 
 
 	- Lavie Levi's statement
 
@@ -31,11 +30,15 @@ updated_date: 2024-09-25 2:53 PM
 
 	- There was clear rule breaking on both sides, so why did UCLA allow it to continue for days until things got completely out of hand? 
 
-- Thesis statement: A lack of oversight by UCLA administration has led to problematic incidents involving discrimination and violence
+- Thesis statement: A lack of proper oversight by UCLA administration has led to problematic incidents involving discrimination and violence
 
 ## Background and Context
 
 - UCLA is the most popular university in the US by application 
+
+- UC Philosophy:
+
+	- [E. Free speech and Academic Freedom](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
 
 - UCLA philosophy: 
 	
@@ -55,7 +58,7 @@ updated_date: 2024-09-25 2:53 PM
 
 	2. Self-governance
 
-		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
+		- UCLA takes a hands-off approach to guidance and oversight based on these principles 
 
 			- Positions on issues taken by student governments are not positions taken by the university (by PACAOS-63.00)
 
@@ -71,9 +74,61 @@ updated_date: 2024-09-25 2:53 PM
 
 				- Removal from Council requires 2/3 vote
 
-		- UC student government has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
+		- [PACAOS 60.00 Policy on Student Governments](https://policy.ucop.edu/doc/2710526/PACAOS-60) is more "supervisory" in nature
 
-			- UCLA USAC's own constitution is more specific in limiting powers
+			- **63.00 Right To Take Positions on Public Issues** 
+
+			- **61.13** "To provide financial and other tangible support for student activities and organizations
+			on a viewpoint-neutral basis, consistent with the provisions of Section 86.00 of these
+			Policies, in order to foster a sense of community and to further discussion among
+			students of the broadest range of ideas;"
+
+			- **61.00 Status** "Chancellors have authority to authorize or discontinue recognition of student
+			governmental entities as official student governments, consistent with the status of such
+			governments as official units of the University of California (see The Regents' Policy on
+			the Status of Associated Students). Such governments are responsible for representing
+			student constituencies comprising either the student body as a whole or particular
+			segments of it. Chancellors may also assign to such governments specified powers and
+			other responsibilities concerning student affairs."
+
+			- **64.00 Lobbying and Other Public Policy-Oriented Activities** "Consistent with the University's purposes for student governments as set forth in Section 61.10-15 of these Policies, student governments may undertake lobbying and other public policy-oriented activities on student-related matters, as defined in Section
+			64.01 and 64.02 of these Policies, supported by compulsory campus-based student fees and/or by voluntary student contributions"
+
+			- "The lobbying and other public policy-oriented activities of student governments serve
+			the University's purposes for such governments when such activities provide students
+			with educational experiences in developing, discussing, and resolving positions on
+			student-related matters, and articulating these positions through public and private
+			discussions, meetings, and other forms of communication."
+
+			- "In furtherance of the University's purposes for student governments, the educational
+			benefit provided to students by such activities must outweigh any purpose of furthering
+			a particular ideological or political viewpoint. Consistent with this requirement, all such
+			activities must be established by and under the direct and exclusive control of student
+			governments and their democratic processes, and offer opportunities for participation by
+			University of California students in meaningful learning experiences."
+
+			- **64.02 Definition of Public Policy-Oriented Activities Other Than Lobbying**
+			"The term "other public policy-oriented activities" as used in these Policies means the
+			funding or sponsorship by student governments of any program or activity of such
+			governments (other than "lobbying activities" as defined in Section 64.01 of these
+			Policies) that involves the communication to a University audience of a student
+			government position (including the supporting rationale for that position) on a student-related matter"
+
+			- **64.20 Pro Rata Refunds for Public Policy-Oriented Activities of Student Governments Other than Lobbying**"In consultation with its student government or governments, a campus may at its
+			discretion establish and administer a mechanism providing for a pro rata refund to any
+			student of that portion of his or her compulsory campus-based student fees that has
+			been allocated to support a particular public policy-oriented activity of student
+			government other than lobbying (as defined in Section 64.02 of these Policies).
+			Campuses are encouraged but not required to consult with the Office of the President
+			and with the Office of General Counsel in the development of criteria and procedures for
+			any such refund mechanism. Such criteria and procedures should provide that the
+			availability of pro rata refunds be widely and frequently publicized among students, and
+			that all requests for such refunds by objecting students be processed equitably and
+			expeditiously. Establishment of such a refund mechanism for the public policy-oriented
+			activities of student governments other than lobbying is not required either as a matter
+			of University policy or the law. (See also Section 86.13 of these Policies.)"
+
+		- UCLA USAC constitution is specific in limiting powers
 
 		- USAC [constitution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6509389145a9b930a19e0401/1695103121405/USA+Constitution.pdf)
 
