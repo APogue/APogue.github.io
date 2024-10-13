@@ -28,7 +28,7 @@ date: 2024-10-11 03:54 PM
 
 - Transitional statement
 
-	- There was clear rule breaking on both sides, so why did UCLA allow it to continue for days until things got completely out of hand? 
+	- There was clear rule breaking on both sides, so why did UCLA allow it to continue for days until things got out of hand? 
 
 - Thesis statement: A lack of proper oversight by UCLA administration has led to problematic incidents involving discrimination and violence
 

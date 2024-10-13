@@ -9,6 +9,12 @@ updated_date: 2024-09-26 2:33 PM
 
 ## Background and context
 
+- "Student safety" is a concern because the campus is open to the public
+
+	- [UCLA is a land-grant institution](https://www.nifa.usda.gov/about-nifa/how-we-work/partnerships/land-grant-colleges-universities)
+
+	- [This makes UCLA open-access](https://dailybruin.com/2024/01/29/uclas-open-campus-raises-questions-around-student-safety)
+
 - Block has a contentious history with SJP
 
 	- [Op-ed by Gene Block](https://dailybruin.com/2018/11/18/national-students-for-justice-in-palestine-conference-goes-on-despite-on-campus-protest) argues that pro-Israel delegates should be allowed to participate 
