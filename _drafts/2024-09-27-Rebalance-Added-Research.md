@@ -4,7 +4,7 @@ title: "Rebalance the Outlines with Added Research"
 published: true
 author: Alexie Pogue
 date: 2024-10-01 7:05 PM
-updated_date: 2024-10-04 10:04 AM
+updated_date: 2024-10-14 3:38 PM
 ---
 
 ### Notes and Links
@@ -200,6 +200,8 @@ Cases are not necessarily investigated in the order that complaints are received
 
 			- The response by the school would serve to discourage pro-Palestinian demonstrations and was therefor not content neutral. Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel's numbers don't match the UCPD statement. This is out of approximately 175 total protesters. 
 
+			- According to the DB, the individual arrested for interfering with police was USAC president Adam Tfayli (who is within his rights to be present at an open protest and would not have been violent) - [Pro-Palestine protesters set up 3rd solidarity encampment in Dickson Plaza](https://dailybruin.com/2024/06/10/pro-palestine-protesters-set-up-3rd-solidarity-encampment-in-dickson-plaza)
+
 	- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
 
 		President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
@@ -273,11 +275,6 @@ Cases are not necessarily investigated in the order that complaints are received
 
 
 
-
-
-
-
-
 - [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
 
 
@@ -313,6 +310,53 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - All in all, (Gene Block and) UCLA have washed their hands of these students, they don't want to deal with them. 
 
-- [Daily Bruin Op-Ed Account of April 30th protests](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead)
+- [UCLA faculty FJP daily bruin respond to June 10th](https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety)
+
+- [Daily Bruin Op-Ed Account of April 30th/June 10th protests](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead)
+
+- Police are cornering them in some cases, picking at random to arrest, using physicality
+
+	- When was the dispersal order given?
+
+	- Where did some of these incidents occur? 
+
+- The above has [twitter link](https://x.com/ACatWithNews/status/1800405549689024949) to video of June 10th
+
+- [June 10th footage](https://x.com/ACatWithNews/status/1800366924792053815)
+
+- [UCLA attacker Rony is on a megaphone, in an non-public expression designated area](https://x.com/ACatWithNews/status/1800327459029897328)
+
+- [counter protesters loiter as security watches on](https://x.com/ACatWithNews/status/1800401292516614339)
+
+- [kid beaten with a baton](https://x.com/ACatWithNews/status/1800371874356158598)
+
+- [yanked out of crowd](https://x.com/ACatWithNews/status/1800405549689024949)
+
+- [security guard head gets bumped](https://www.youtube.com/watch?v=ggNHGKvpA2I&ab_channel=danieljbmitchell)
+
+	- other arrest footage in the above
+
+	- the entire video is relevant (connect the individuals with the signs from kettling to arrest, excessive use of force throughout, especially with the two individuals near the end)
+
+- [disperse orders at 9 pm (end of video)](https://www.youtube.com/watch?v=Vs8lLjQ68qk&ab_channel=FOX5WashingtonDC)
+
+- [security guard taunting](https://x.com/ACatWithNews/status/1800375874866516030)
+
+- [CBS news take of June 10th](https://www.cbsnews.com/losangeles/news/protesters-carrying-fake-corpses-march-across-ucla-campus/)
+
+	- Shows location of arrests in photo in article 
 
 - [Daily Bruin Op-Ed 4 point plan](https://dailybruin.com/2024/10/01/the-uc-must-revise-its-handling-of-free-speech-student-protests-to-promote-trust)
+
+- [map areas public expression](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression)
+
+
+- Eden On
+
+- [June 21, 2024: UCLA Demonstration Case Referred to LA City Attorney’s Office for Misdemeanor Filing Consideration](https://da.lacounty.gov/media/news/ucla-demonstration-case-referred-la-city-attorney-s-office-misdemeanor-filing)
+
+- [LA County declines to charge man recorded](https://www.cnn.com/2024/06/21/us/edan-on-ucla-palestine-encampment-attack/index.html)
+
+- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
+
+
