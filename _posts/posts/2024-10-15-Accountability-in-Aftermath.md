@@ -12,7 +12,7 @@ date: 2024-10-15 4:19 PM
 
 	- Looks like the authors are university professors, [Gaye Theresa Johnson](https://afam.ucla.edu/person/gaye-theresa-johnson/)
 
-	- The letter goes through the students' intention of the protest on June 10th
+	- The letter goes through the students' intentions wrt the protest on June 10th
 
 	- "Chancellor Block created the office unilaterally, without a search, a vetting process, faculty or 
 	staff input—and not even a consideration that Braziel’s appointment might be temporary or 
