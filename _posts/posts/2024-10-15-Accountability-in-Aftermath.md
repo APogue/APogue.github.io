@@ -6,7 +6,59 @@ author: Alexie Pogue
 date: 2024-10-15 4:19 PM
 ---
 
-https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf
+
+
+- [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
+
+	- Looks like the authors are university professors, [Gaye Theresa Johnson](https://afam.ucla.edu/person/gaye-theresa-johnson/)
+
+	- The letter goes through the students' intention of the protest on June 10th
+
+	- "Chancellor Block created the office unilaterally, without a search, a vetting process, faculty or 
+	staff input—and not even a consideration that Braziel’s appointment might be temporary or 
+	interim. "
+
+	- Pp. 6 costs of policing 
+
+	- Pp. 11 laws around aiming projectiles to disperse crowds
+
+	- Based on video footage the description of police brutality is exaggerated 
+
+	- "Then at one point a UCPD officer shot a student in the chest with a rubber bullet from a distance of 
+	about five feet away, surely a violation of the rules for the use of such armaments, which can be 
+	lethal at such ranges. The force of the bullet knocked them down and two fellow students assisted 
+	them to safety through the bushes. The student suffered a contusion to the heart and a bruised 
+	lung and was taken by car to the ER at Ronald Reagan Hospital. They remained there for two 
+	days given the severity of the injury, which caused elevated cardiac enzymes. This situation could 
+	have ended with a permanent disability or death and is a stark reminder of why it is so dangerous 
+	to simply transfer control of campus to a militarized police force. Other students were injured as 
+	well, one suffering from a concussion, others from bruises and lacerations.3"
+
+	- [Gaza war protesters clash with police at new UCLA encampment](https://thehill.com/homenews/education/4715568-gaza-war-student-protesters-police-ucla-encampment/)
+
+		- "UCLA Associate professor Graeme Blair, a member of Faculty for Justice in Palestine, said one student had to go to the hospital after they were hit with a rubber bullet. 
+
+			“They were shot in the chest from 10-15 feet range,” Blair told The Hill."
+
+	- [What Rubber Bullets Can Do to the Human Body](https://slate.com/technology/2024/05/rubber-bullets-blind-kill-trama-ucla-protest.html)
+
+	- [Op-ed: The instructors, staff of Dodd Hall demand that our workplace be restored](https://dailybruin.com/2024/06/12/op-ed-the-instructors-staff-of-dodd-hall-demand-that-our-workplace-be-restored), this is the original [letter](https://docs.google.com/forms/d/e/1FAIpQLScG5AT6nsLoTVo8Ereqj5Oz2pde77Z5m0BNqE9wt_CjEb5ncA/viewform) signed by staff
+
+		- "Many eyewitness reports, including the experiences of several Dodd Hall occupants, as well as documentary video and photographic evidence, support the claim that the violence was incited by police and security, rather than the protesting students."
+
+	- [Footage here shows the kettling](https://x.com/brethamilton/status/1800640869869228490?s=46&t=fKh9XATL-WMti11DkcbvEg) on June 10th
+
+	- The above doc said they were given a dispersal order then kettled. The police press release does say they essentially moved the students around the campus. 
+
+	- Braziel mentioned the best way to conceal security forces would be to put them in blue in gold polo shirts and hide them in buildings, this would effectively make campus feel more like campus. Clearly professors find that disruptive. 
+
+
+
+
+
+
+
+https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety
 
 https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests
 
