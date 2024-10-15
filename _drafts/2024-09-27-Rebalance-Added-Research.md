@@ -4,7 +4,7 @@ title: "Rebalance the Outlines with Added Research"
 published: true
 author: Alexie Pogue
 date: 2024-10-01 7:05 PM
-updated_date: 2024-10-14 3:38 PM
+updated_date: 2024-10-15 12:48 AM
 ---
 
 ### Notes and Links
