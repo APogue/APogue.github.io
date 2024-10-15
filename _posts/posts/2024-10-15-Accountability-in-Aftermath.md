@@ -52,13 +52,24 @@ date: 2024-10-15 4:19 PM
 
 	- Braziel mentioned the best way to conceal security forces would be to put them in blue in gold polo shirts and hide them in buildings, this would effectively make campus feel more like campus. Clearly professors find that disruptive. 
 
+- [Op-ed: Rick Braziel’s messaging belies disregard for police accountability, student safety](https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety)
 
+	- "It’s not clear if he understands the function and nature of life on a university campus: He seems to regard student protest as inherently illegitimate and illegal by default; his reactive impulse to any sign of student activism is to police violence as a first response."
 
+	- "Since the university has contracted several different security companies – some with murky reputations – and there were several different law enforcement agencies on campus, it was difficult to tell who was actually in charge, or whether, having washed its hands of its duty of care to its own students, the upper administration was content to have handed over campus to a loose confederation of police officers acting more or less on their own volition."
 
+	- In claiming that protestors “prevented students from completing their final exams” or “entering classrooms,” he again ignores the fact that there would have been no disruptions to campus activities if the students had not been forced to relocate from one site to another by the police – and that the police themselves, not the students, were the ones blocking access to buildings and facilities and evicting students and instructors while exams were underway.
 
+		- It can't be proven whether their encampments were blocking free access to campus, so the above may be only partially true
 
+	- "What stands out above all in Braziel’s message, in fact, is his total disregard for our students, his contempt for their right to express themselves and his inability to recognize that UCLA is a university, not an armed camp run by militarized police."
 
-https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety
+	- "If June 10’s protest was “not peaceful,” as Braziel states, it was because of the police. And if “the campus community belongs to all of us and we must model the respect we expect to receive from others,” then Braziel and his junta should expect nothing less than continued escalation unless they try to adapt themselves to the norms of our community, rather than trying to compress us into theirs."
+
+	- "In any case, although Braziel has supplanted the recognized authorities on our campus – above all the now silent and invisible chancellor and provost – his reckless disregard for our students and our values is ultimately their responsibility."
+
+	- "We demand that they bring their policemen back under their control, that they restore cultural, political and intellectual order to our campus community by protecting rather than punishing expression and protest, and that they take steps to allow this community to breathe freely once more by reducing or eliminating – rather than enhancing – the police presence on campus."
+
 
 https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests
 
@@ -149,7 +160,7 @@ https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and
 
 		- "The union issued a statement this week placing the responsibility for the UC police response in the hands of “campus leadership,” saying the strategic direction was controlled by administrators. The three sources said, however, that such direction to prepare a plan, with enough officers to ensure safety, was given to Thomas multiple times."
 
-- Ultimately the chief of police was to blame here
+- Ultimately the chief of police was blamed here
 
 	- The impending or possible danger wasn't made clear to the chief of police by the administration, we know this because it wasn't made clear to the students. 
 
