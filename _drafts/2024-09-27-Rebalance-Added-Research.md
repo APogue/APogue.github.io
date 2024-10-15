@@ -360,3 +360,22 @@ Cases are not necessarily investigated in the order that complaints are received
 - [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
 
 
+- Ultimately the chief of police was to blame here
+
+	- The impending or possible danger wasn't made clear to the chief of police by the administration, we know this because it wasn't made clear to the students. 
+
+	- If administrative moves were truly being made for riot preparedness, why wasn't there any transparency with respect to this process? In real time? 
+
+	- The reason the chief said "general response" in that times article, is because *he didn't know* how out of hand things were going to get and he was not made aware that this was a possibility 
+
+	- If it were the case that he needed to come up with a strategic plan for several scenarios, he clearly did not have the training to do so (nor was there redundancy in the event of failure either by a single individual or an interdepartmental logjam)
+
+	- Evidence shows huge police responses at Regents meetings, etc. A last minute call for a task no one could have been prepared for without prior training or protocol was an exercise in passing the buck when the state of campus safety was completely unknown. 
+
+	- And to hire Braziel (there is no Office of Campus Safety, and there is no Accountability Report and Braziel's term is over, just got extended) and point an abundance of force at encampments is treating UCLA like every other campus, and it is not (cite UCLA statistics for violence at protests which is low)
+
+	- This is not a case of citations and rough handling of students to clear encampments, and this is not a case of resolving safety issues by making them "unlawful." The issue here is the environment in which this campus exists can be unsafe for protesting students. And you can point as many police at congregating students as you wish, or clear encampments as much as you wish, but that does not solve the problem. 
+
+	- This is a case of tensions flaring, embroiling both sides in conflict due to administrative negligence 
+
+	- The more downstream force they use to smother the symptoms of problems now deeply rooted in these factions the worse the situation will become. It is a pressure cooker that will require more and more force hold back, indefinitely. 
