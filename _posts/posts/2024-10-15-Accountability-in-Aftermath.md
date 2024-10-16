@@ -3,10 +3,8 @@ layout: outline
 title: "Accountability in the Aftermath of the April 30th Riot"
 published: true
 author: Alexie Pogue
-date: 2024-10-15 4:19 PM
+date: 2024-10-16 4:19 PM
 ---
-
-
 
 - [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
 
@@ -70,23 +68,30 @@ date: 2024-10-15 4:19 PM
 
 	- "We demand that they bring their policemen back under their control, that they restore cultural, political and intellectual order to our campus community by protecting rather than punishing expression and protest, and that they take steps to allow this community to breathe freely once more by reducing or eliminating – rather than enhancing – the police presence on campus."
 
+- The main issue with the arrests is, while the encampments were illegal, and looked like they were building barricades, the arrests and disruptions came from the "kettling" incident. 
 
-https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests
+- [UCLA police chief reassigned after security failures over pro-Palestinian protests](https://www.latimes.com/california/story/2024-05-22/ucla-police-chief-reassigned-after-security-failures-over-pro-palestinian-protests)
 
-https://www.latimes.com/california/story/2024-05-22/ucla-police-chief-reassigned-after-security-failures-over-pro-palestinian-protests
+	- There are several sources "not authorized to speak publicly" that are doing UCLA's damage control 
 
-https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest
+		- "“Given Chief Thomas’ mishandling of keeping our community safe and ear-splitting calls for him to step aside, this had to happen,” said one source, who was not authorized to speak publicly."
 
-https://laist.com/news/education/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
+		- "Thomas had lost confidence within UCLA and among some outside law enforcement officials, who have criticized what they said was the police chief’s lack of proper planning, coordination and communication in creating a campus safety plan and securing enough officers to carry it out should violence occur at the encampment. Both the police chief and Michael Beck, the administrative vice chancellor who oversaw the police department and Office of Emergency Management at the time, have faced calls for their resignation. Braziel has taken over both of those units as chief safety officer."
 
-https://www.kpbs.org/news/education/2024/05/02/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
+		- Can't find any direct quotes from "LAPD leaders" in LA Times articles
 
-https://dailybruin.com/2021/05/14/editorial-uc-runs-counter-to-student-faculty-preferences-with-systemwide-special-police-force
+			- "Several top LAPD leaders told The Times that Thomas had tarnished the reputation of Los Angeles law enforcement with what they called his lack of planning and poor communication with other agencies. They said they had to scramble for officers and wait until enough could be assembled to safely intervene at about 1:40 a.m."
 
-https://policy.ucop.edu/doc/4000382/PoliceProceduresManual
+	- ""This was not a simple protest. It was a riot.""---
 
-https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and-now-engage-in-blame-shifting/
+		- "But one UC source, who was not authorized to speak publicly, said Thomas and other officers should have moved in to stop the violence with the forces they had. In the case of active shooter situations, the source said, police used to wait for a larger force with sharpshooting expertise to assemble, but now move in more quickly to save those in danger. A similar protocol should have been used to quell the mob attack."
 
+		- "“Whoever gets there first has to go in,” the UC source said. “If you’re waiting while people are getting hit in the head, there is something wrong with the system. This was not a simple protest. It was a riot.”"
+
+
+	- "Wade Stern, president of the Federated University Peace Officers Assn., in a statement."
+
+		- "“What unfolded at UCLA calls into question whether UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies,” said Stern, who is also an officer at UC Riverside. “The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.”"
 
 
 
@@ -179,3 +184,62 @@ https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and
 	- This is a case of tensions flaring, embroiling both sides in conflict due to administrative negligence.
 
 	- The more downstream force they use to smother the symptoms of problems now deeply rooted in these factions the worse the situation will become. It is a pressure cooker that will require more and more force hold back, indefinitely. 
+
+- Show the video of CHP on June 10th, was this what Thomas was supposed to have mobilized, standing at the ready, in the event of a riot? 
+
+- Because that was the number of officers necessary to quell the "violence" that evening
+
+- That is what Braziel did on June 10th, and according to his most recent LA Times interview, he considers his job thus far a success 
+
+- Based on their inability to address the elephant in the room at UCLA presently, treating students as an outlandish, violent mob, shows they would never have been ready for the April 30th riots. Because the UCLA students are not an outlandish, violent mob. So neither Thomas or anyone else would assume that an army would be necessary to control them. And neither Thomas or anyone else should be expected to prepare an army for a phantom militia---
+
+- What they wanted Thomas to address was an elephant in the room. His failure to pick up what they were implying and direct resources at it is now what is being called "a failure" on his part. 
+
+- When January 6th occurred at our nation's capital did we blame Capitol Police? Did we blame [Nancy Pelosi](https://cha.house.gov/2024/8/new-obtained-hbo-footage-shows-pelosi-again-taking-responsibility-for-capitol-security-on-january-6) for not beefing up security beyond that of any other congressional count and certification? No, Trump incited a violent mob to prevent the peaceful transfer of power. That mob was thereafter held accountable, not Congress. Even if Congress has members some would consider despicable, that is irrelevant. That mob was years in the making. The result of systemic issues that run deep in the various factions that make up this country. 
+
+- What the police did do on June 10th, is serve as a deterrent for counter-protesters. A few showed up, but nothing came of it. But there is no telling whether June 10th could have ended like April 30th (or the days before) had the police not been there. Will they be mobilizing these forces preemptively every time? Spending this money every time? Directing the forces at students and creating collateral damage every time? The collateral damage is exactly that, collateral damage that UCLA is dragging out for the public to view as justice served. 
+
+- The non-affiliates need to be addressed, explicitly. 
+
+- The barricades that continually go up, even for small encampments, are likely meant for agitators and counter-protesters, not police or students. Or is it to keep "Zionists" out? Or are the Zionists counter-protesters? While actions in April felt broader than a move simply for the sake of safety, if the students have to protect themselves from bodily harm either way, then any attempt to protest without the barricades and exclusion, as many students may be willing to do, would put their safety is at risk. Because no one will address the safety to students as its own separate issue, these broad, umbrella policies meant to keep the peace are really serving to chill free speech activities on campus. The reason UCLA decided to allow the encampment in the first place was because they wanted to be part of the national conversation. They wanted the spotlight partially on them. As policing and policy continue to be layered on, without addressing the real issues, UCLA will never again be part of this conversation, or potentially any other. Meanwhile Columbia shut their campus down to non-affiliates in a move that directly addresses an issue causing chaos and unsafe conditions on campus. That acknowledgement, in whatever form appropriate for UCLA, is vitally important. 
+
+
+
+
+
+
+- The three temporally parallel but spatially sequential threads 
+
+	- Administrative negligence---
+
+		- Safety is an issue
+
+		- Students cannot govern themselves
+
+		- The conversation around the issues 
+
+			- follow the etymology of "Zionist"
+
+
+
+
+
+
+
+
+
+https://www.latimes.com/california/story/2024-05-02/ucla-canceled-campus-police-requests-for-outside-help
+
+https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests
+
+https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest
+
+https://laist.com/news/education/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
+
+https://www.kpbs.org/news/education/2024/05/02/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
+
+https://dailybruin.com/2021/05/14/editorial-uc-runs-counter-to-student-faculty-preferences-with-systemwide-special-police-force
+
+https://policy.ucop.edu/doc/4000382/PoliceProceduresManual
+
+https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and-now-engage-in-blame-shifting/
