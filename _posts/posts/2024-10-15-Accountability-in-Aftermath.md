@@ -3,7 +3,7 @@ layout: outline
 title: "Accountability in the Aftermath of the April 30th Riot"
 published: true
 author: Alexie Pogue
-date: 2024-10-16 4:19 PM
+date: 2024-10-17 6:29 PM
 ---
 
 - [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
@@ -165,6 +165,107 @@ date: 2024-10-16 4:19 PM
 
 		- "The union issued a statement this week placing the responsibility for the UC police response in the hands of “campus leadership,” saying the strategic direction was controlled by administrators. The three sources said, however, that such direction to prepare a plan, with enough officers to ensure safety, was given to Thomas multiple times."
 
+- [UCLA sought extra police but canceled requests in days before protest camp was attacked](https://www.latimes.com/california/story/2024-05-02/ucla-canceled-campus-police-requests-for-outside-help)
+	
+	- "Stern’s union put out a statement Wednesday noting that the police departments across the UC system take their orders from the chancellors of the schools."
+
+	- "“When protests erupt on campus, the decisions regarding the response of the UC Police rest firmly in the hands of campus leadership,” the union said in a statement."
+
+	- "The union noted the difference between “operational execution,” which was under the departments, compared to “strategic direction,” which was controlled by the school administrators, according to the statement."
+
+- [David Myers LA Times Opinion](https://www.latimes.com/opinion/story/2024-09-16/israel-gaza-hamas-protest-antisemitism-ucla-usc-college)
+
+	- [Nexus Project](https://nexusproject.us/)
+
+	- [A Campus Guide To Identifying Antisemitism In A Time Of Perplexity](https://nexusproject.us/wp-content/uploads/2024/09/A-Campus-Guide-To-Identifying-Antisemitism-In-A-Time-Of-Perplexity.pdf)
+
+	- "The guide assumes both that antisemitism is a real problem in our society and that not all harsh criticism of Israel is antisemitic. Indeed, political speech may be painful or offensive to people who identify strongly with Israel without being antisemitic."
+
+		- When something is defined as subjectively offensive, they are no longer discriminating
+
+	- "Just as Jewish students have felt attacked for supporting Israel, so too have students who support the pro-Palestine movement felt attacked for their views. They faced hostility from right-wing, pro-Israel counter-demonstrators, a deaf ear from university leaders and often violent responses from law enforcement. Moreover, they were frequently accused of being antisemitic because of their support for Palestinians and criticism of Israel even though a noticeable contingent of Jews participated in the protests."
+
+	- His questions regarding antisemitism are narrower than the Title VI guidelines on discrimination 
+
+	- "For example, the guide maintains that the phrase “From the river to the sea” is not antisemitic if it’s proposing a single state in which all citizens, Jewish and Palestinian, have equal rights. By contrast, if the phrase is a call to eliminate Jews from the land between the Jordan and the Mediterranean or to relegate them to second-class status, it is antisemitic."
+
+- [At USC, arrests. At UCLA, hands off. Why pro-Palestinian protests have not blown up on UC campuses](https://www.latimes.com/california/story/2024-04-26/at-usc-arrests-at-ucla-hands-off-why-pro-palestinian-protests-have-not-blown-up-on-uc-campuses)
+
+	- UCLA was adding barricades, this was also stated in the DB, find it
+
+	- "Across town at UCLA, scores of Palestinian supporters set up about 20 tents, created a perimeter around their “Palestine Solidarity Encampment” and peacefully protested day and night — all without arrests, suspensions or intervention by campus staff, who watched from the sidelines. Private security guards with bikes separated the pro-Palestinian group from Israel supporters, and UCLA eventually added metal barricades after counter-protesters repeatedly tried to breach the encampment and in at least one case witnessed by The Times entered and shoved a woman to the ground."
+
+- [Dueling Gaza protests at UCLA draw hundreds as USC sees peaceful demonstration](https://www.latimes.com/california/story/2024-04-28/gaza-ucla-usc-protests)
+
+	- "The director of UCLA’s Nazarian Center, a nexus for both social and political Israeli studies, took to X on Saturday to voice support for those who oppose Israel’s blockade and destruction of Gaza. But Dov Waxman drew the line at a demand for UCLA to sever connections to Israeli universities and foreign study programs."
+
+	- "“The Center is devoted to the academic study of Israel and has no ties to the Israeli government,” Waxman wrote. Further, Waxman singled out one of the groups he said is organizing campus protests, Students for Justice in Palestine. Waxman said the group has voiced support for Hamas."
+
+	- "USC’s campus has been closed to the general public since Friday, with access restricted to residents and registered visitors. Further steps were hinted at with the approach of commencement ceremonies starting May 8. The traditional central ceremony has been canceled but separate events for individual schools are still planned."
+
+	- "Across the lawn, demonstrators carried signs that ranged from a handmade “Free Hugs Jewish Students” to pre-printed “I go bananas for Israel” — a taunt aimed at reports of someone with a banana allergy in the pro-Palestinian encampment, now encircled by a protective wall of plywood. Through gaps in the wood, a person waved a large Palestinian flag."
+
+
+- [Intense UCLA policing draws scrutiny as security chief speaks out on handling protests](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
+
+	- The photo of the Oct 7th rally looks like Braziel has quite a few security guards on the premises 
+
+	- "Braziel led a large behind-the-scenes operation that culminated in peaceful Oct. 7 protests"
+
+	- "A tense moment came when pro-Palestinian supporters marched into a campus area off-limits to protest activities and initially refused to leave after student affairs staff told them they were violating campus rules.
+
+		Police were called in. They determined protesters were not breaking any laws. The protesters moved on and the night ended with no arrests, no significant confrontations — and, in an intentional UCLA effort to create a calmer environment, no visible massive mobilization of police in riot gear wielding batons."
+
+	- "But the university is trying to turn a corner with more effective policing and security protocols."
+
+	- "In an interview with The Times, Braziel laid out his strategy for overhauling UCLA security operations — and responded to questions and criticism from faculty and others about his role, which is actually a $52,000-a-month short-term position."
+
+	- "“My vision is a beautiful campus where people feel safe and comfortable with each other and police are seen as part of the family, not an invading army,” Braziel said. “It’s not a one-person fix. It’s going to take a whole team of experts from inside and outside the UCLA organization to create positive change.”"
+
+	- "By far, the key concern expressed by many campus members is what they perceive as a “militarized” campus with too many police and security officers. Law enforcement officers have arrested more than 200 protesters, are working on about 50 related criminal cases and drew outrage when they used batons, pepper balls and sponge rounds fired from launchers — some of which badly injured several students — during protests in April, May and June."
+
+	- "Anna Markowitz, an associate professor of education, said the heavy presence of officers standing around “in little packs” made the campus less comfortable, ramping up tensions and the potential for racial profiling. Another faculty member said he was shocked to count 14 officers in a half-mile walk through campus."
+
+		- "“What’s the plan to get rid of this?” Markowitz said she asked at recent Academic Senate town hall with Braziel and Interim Chancellor Darnell Hunt. “Is there a plan?”"
+
+		- "Braziel’s response during the town hall — putting security officers in friendlier blue-and-gold UCLA polo shirts instead of the black shirts that many currently wear — did not play well among faculty, who said he missed their larger concerns of the tense campus climate created by the stepped-up patrols."
+
+	- Braziel's plan---
+
+		- There are several points see article
+
+		- "Integration: Campus police and civilian security officers need to become part of the campus, he said. It’s why he promoted the idea of UCLA-branded wear for civilian safety staff in the model of community policing that relies on strong relationships between security forces and those they serve."
+
+	- "On Oct. 7, he said, he and his team had fully staffed up — deploying all 51 campus police officers available that day, tripling normal private security staffing to 158 officers, bringing some UC San Francisco officers to UCLA and requesting LAPD forces to stand by on campus."
+
+	- "But he kept most of the officers out of sight inside buildings, close enough to intervene if needed but without presenting a negative “visual impact,” he said. Police had their riot gear ready but did not wear it, an intentional decision."
+
+		"“If you dress for a riot, you’re going to get a riot,” Braziel said. “The visual is super important to the response you’re going to get.”"
+
+	- "He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave."
+
+	- "Ariela Gross, a UCLA law professor, was one of several who expressed concern about accountability as Braziel was hired so quickly into such a senior position to start a new administrative office without faculty input — as is generally required under UC’s system of shared governance.
+
+		“When you see something thrown together in a couple of days that hasn’t been vetted but has enormous power, I have concerns,” Gross said. “There’s potential for abuse.”"
+
+	- "But Braziel’s terms of employment are significantly different from public assumptions, based on Block’s announcement. He is not a permanent employee with multiple responsibilities related to campus safety. Braziel’s original contract, obtained by The Times, ended Aug. 31 and has been extended until the end of the year."
+
+		"He said he hoped to have key changes in place with a plan to move forward to hand off to the incoming chancellor, Julio Frenk, who will take the reins Jan. 1."
+
+	- "Braziel, 64, who lives in Sacramento, said he never had a desire or intention to move to Los Angeles for a long-term job. He said he agreed to a short-term contract to review UCLA’s protest management and suggest institutional changes to improve safety practices after first being contacted by the UC Office of the President and then Block. He said he understood his other job duties as helping UCLA through a peaceful commencement, and providing updates on security operations to Block..."
+
+	- "“I’m the person coming in for just a few months, hopefully fix things, get them moving down the road and then somebody else takes over when I’m gone,” he said.
+
+		Braziel said he never agreed to set up the new Office of Campus Safety or prepare a campus response plan for potential fall protests — tasks that each amount to full-time jobs themselves but that many expected him to take on. Creating the safety office, he said, would take several employees many months to create a website, complaint intake process, training curriculum, policies and procedures, compliance auditing, staffing and planning for such future events as the 2028 Summer Olympics in Los Angeles."
+
+		"Braziel said he was given no staff or funding for either job but agreed to extend his contract after receiving approval to hire consultants to do them."
+
+	- "The violence of the melee and encampment takedown was predictable, he said, looking at what was happening at Columbia University and other protest hot spots at the time — but UCLA was operating in reactive mode."
+
+		"“We have to stop playing checkers where you’re waiting for something to happen and respond,” he said. “With chess, you’re constantly looking four, five moves down the board to anticipate what will happen so you can either avoid it or better respond to it.”"
+
+### Notes
+
 - Ultimately the chief of police was blamed here
 
 	- The impending or possible danger wasn't made clear to the chief of police by the administration, we know this because it wasn't made clear to the students. 
@@ -201,12 +302,9 @@ date: 2024-10-16 4:19 PM
 
 - The non-affiliates need to be addressed, explicitly. 
 
-- The barricades that continually go up, even for small encampments, are likely meant for agitators and counter-protesters, not police or students. Or is it to keep "Zionists" out? Or are the Zionists counter-protesters? While actions in April was broader than a move simply for the sake of safety, if the students have to protect themselves from bodily harm either way, then any attempt to protest without the barricades and exclusion, as many students may be willing to do, would put their safety is at risk. Because no one will address the safety to students as its own separate issue, these broad, umbrella policies meant to keep the peace are really serving to chill free speech activities on campus. The reason UCLA decided to allow the encampment in the first place was because they wanted to be part of the national conversation. They wanted the spotlight partially on them. As policing and policy continue to be layered on, without addressing the real issues, UCLA will never again be part of this conversation, or potentially any other. Meanwhile Columbia shut their campus down to non-affiliates in a move that directly addresses an issue causing chaos and unsafe conditions on campus. That acknowledgement, in whatever form appropriate for UCLA, is vitally important. 
-
+- The barricades that continually go up, even for small encampments, are likely meant for agitators and counter-protesters, not police or students. Or is it to keep "Zionists" out? Or are the Zionists counter-protesters? While actions in April were broader than a move simply for the sake of safety, if the students have to protect themselves from bodily harm either way, then any attempt to protest without the barricades and exclusion, as many students may be willing to do, would put their safety at risk. Because no one will address the safety to students as its own separate issue, these broad, umbrella policies meant to keep the peace are really serving to chill free speech activities on campus. The reason UCLA decided to allow the encampment in the first place was because they wanted to be part of the national conversation. They wanted the spotlight partially on them. As policing and policy continue to be layered on, without addressing the real issues, UCLA will never again be part of this conversation, or potentially any other. Meanwhile Columbia shut their campus down to non-affiliates in a move that directly addresses an issue causing chaos and unsafe conditions on campus. That acknowledgement, in whatever form appropriate for UCLA, is vitally important. 
 
 - They have to stop vandalizing campus, that vandalization is very expensive. This is a give a little take a little situation. 
-
-
 
 - The three temporally parallel but spatially sequential threads 
 
@@ -224,13 +322,6 @@ date: 2024-10-16 4:19 PM
 
 
 
-
-
-
-
-https://www.latimes.com/california/story/2024-05-02/ucla-canceled-campus-police-requests-for-outside-help
-
-https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests
 
 https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest
 
