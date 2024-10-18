@@ -139,6 +139,8 @@ date: 2024-10-17 6:29 PM
 
 	- Thomas watching a Dodgers game? He clearly had no idea how serious the situation was, it was up to the administration to relay this intel 
 
+		- Where does the intel come from? Student Affairs staff. They are the liasons from the ground to the administration. They were even there the day that the students were confronted by violent aggressors in Oct 2023.
+
 		- "On the Tuesday night of the attack, Thomas said he was home watching the Dodgers game when he was alerted to the problems by Beck. He said he immediately called the LAPD’s West L.A. station and asked the watch commander to deploy resources. Then he called UCLA’s watch commander and instructed him to call in mutual aid assistance from law enforcement with the cities of Beverly Hills, Culver City and Santa Monica and sheriff’s deputies."
 
 	- Here Thomas is lacking adequate riot training
@@ -264,7 +266,70 @@ date: 2024-10-17 6:29 PM
 
 		"“We have to stop playing checkers where you’re waiting for something to happen and respond,” he said. “With chess, you’re constantly looking four, five moves down the board to anticipate what will happen so you can either avoid it or better respond to it.”"
 
+
+- [UCLA administrators ignored UC policies and now engage in blame-shifting](https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and-now-engage-in-blame-shifting/)
+
+	- [Robinson/Edley Report](https://campusprotestreport.universityofcalifornia.edu/documents/implementation-report.pdf)
+
+	- "Ten years ago, the UC system created a comprehensive guide of roles, responsibilities, and planning for the UC system and individual campuses to follow in responding to civil disobedience on campuses. These guidelines remain in effect to this day."
+
+	- "Central to these guidelines was the clear delineation of administrators’ and campus law enforcement roles in managing civil disobedience incidents."
+
+	- "The guidelines state that campus policy must “require the participation of senior administrators in decision-making about any police response to civil disobedience; clearly define the respective roles of administrators (objectives) and police (tactics) in this process.”"
+
+	- "Moreover, recognizing the pivotal role of campus administrators in protest response, the guidelines demanded that those administrators be well-trained in protest response."
+
+	- "Moreover, recognizing the pivotal role of campus administrators in protest response, the guidelines demanded that those administrators be well-trained in protest response. Specifically, the guidelines required UCLA to “implement formal training of administrators . . .  This mandatory training was directed to be conducted annually, ensuring that current and best practices in protest response would be employed."
+
+	- "joint simulations involving administrators and campus police to rehearse responses to potential civil disobedience scenarios."
+
+		- "campus police were to undergo crowd management and mediation training"
+
+		- "with an explicit directive that the initial response be handled internally before seeking assistance from outside law enforcement agencies."
+
+	- "The role of UC police was emphasized, with officers trained in crowd management, mediation, and de-escalation. Additionally, the initial police response was restricted to campus police, with the additional directive that “each campus police agency [is] to seek aid first from other UC campuses before calling on outside law enforcement.”"
+
+	- "Every UC campus was directed to establish a specialized response team to respond to major incidents on their campus and to respond to other campuses. Unfortunately, although those teams have been established, they have not been trained since 2020 because the UC system and its campuses refuse to fund such training."
+
+	- "Per the guidelines, UCLA was directed to create “a regular program for joint trainings, briefings and scenario planning with law enforcement agencies on which each campus police department is likely to call for assistance or mutual aid.”"
+
+	- "The guidelines make clear that well before these protests, UCLA should have had in place trained administrators ready to implement specific, established, and well-rehearsed plans. Those plans should have covered in detail how both UCLA PD and any outside law enforcement would respond to civil disobedience on campus and who the senior administrators were who would make the call on when to execute any part of the plans."
+
+	- "If this is not the case, then it should be easy for the UCLA administration to identify those administrators who undertook the required annual training in crowd management and response. UCLA can simply produce the plans developed before these protests, which guided their response, and demonstrate how the response dovetailed with those plans. Finally, the UCLA administration can also show how it met the required training, briefing, and scenario planning that it was ordered to undertake both with its own police department and outside agencies prior to these protests."
+
+
+
 ### Notes
+
+- WRT June 10th arrests
+
+	- These were in an effort to get campus under control before graduation
+
+	- Braziel said more recently, that dispersal orders are given and arrests are made when they are ignored
+
+	- It is clear that the students would not be able to disperse given the circumstances 
+
+	- It is also the case that encampment barricades were put up in April by CSC 
+
+	- What about Drake's original intent? With his campus security and safety plan meant to instill trust in the campus community? 
+
+- New laws and rules in place
+
+	- Encampments banned, facemasks banned
+
+	- New time, place, manner policies
+
+	- Posting requirements for anti-discrimination 
+
+	- 4 point plan, with the above, to get funding from CA
+
+	- There a couple more bills directed anti-discrimination training coming from CA gov't
+
+	- Office of Campus Safety 
+
+		- integration and ingratiation of UCPD, beefed up campus security, putting them in polos, hiding them in buildings
+
+		- better communication system and efforts to take friendlier positions 
 
 - Ultimately the chief of police was blamed here
 
