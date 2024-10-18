@@ -4,6 +4,7 @@ title: "Accountability in the Aftermath of the April 30th Riot"
 published: true
 author: Alexie Pogue
 date: 2024-10-17 6:29 PM
+updated_date: 2024-10-18 5:32 PM
 ---
 
 - [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
@@ -297,6 +298,42 @@ date: 2024-10-17 6:29 PM
 
 	- "If this is not the case, then it should be easy for the UCLA administration to identify those administrators who undertook the required annual training in crowd management and response. UCLA can simply produce the plans developed before these protests, which guided their response, and demonstrate how the response dovetailed with those plans. Finally, the UCLA administration can also show how it met the required training, briefing, and scenario planning that it was ordered to undertake both with its own police department and outside agencies prior to these protests."
 
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
+
+	- [UC Community Safety Plan](https://www.ucop.edu/uc-operations/systemwide-community-safety/policies-and-guidance/community-safety-plan/uc-community-safety-plan.pdf)
+
+		- [Campus safety report 2022](https://ucla.app.box.com/v/Public-Safety-Report), not sure if this is related to the above
+
+	- "Drake’s safety plan states: “The University will reinforce existing guidelines that minimize police presence at protests, follow de-escalation methods in the event of violence and seek non-urgent mutual aid first from UC campuses before calling outside law enforcement agencies.”"
+
+	- "“My office has requested a detailed accounting from the campus about what transpired in the early morning hours today,” Drake said on Tuesday. “But some confusion remains. Therefore, we are also ordering an independent external review of both UCLA’s planning and actions, and the effectiveness of the mutual aid response.”"
+
+	- "At about 4 a.m. Wednesday, a small group of student journalists for the Daily Bruin, including Christopher Buchanan, a student fellow for the CalMatters College Journalism Network, were confronted by a group of counterprotesters who began berating them. They targeted the staff’s news editor, calling her names, and blocked the journalists’ route to the Daily Bruin office. One shined a strobe light into Buchanan’s face while others attacked him as he fell to the ground.
+
+		“After I was struck and debilitated, I was surrounded by four to seven counterprotesters who proceeded to punch and kick my head and torso for thirty seconds to a minute,” Buchanan said. “I didn’t sustain any internal injuries, but I was badly bruised on the body and face.”
+
+		Buchanan said this all happened within earshot of CHP officials, who did nothing to intervene."
+
+	- "UC Irvine spokesperson Tom Vasich described the decision to involve five law enforcement departments as “a standard response” for situations where the campus needs support while simultaneously describing the protest as a “very peaceful environment.” He attributed the police response to potential trespassing violations from people not affiliated with the university.
+
+		“This isn’t a free speech issue, this is a trespassing issue,” Vasich said."
+
+		- Why then were non-affiliates not given this treatment at UCLA?
+
+		- [This Chancellor Update](https://chancellor.uci.edu/communications/campus/2024/240429-campus-activity-update.php) from UC Irvine is enlightening 
+
+			- I believe in this case, "non-affiliates are pro-Palestinian protesters"
+
+			- The non-affiliates at UCLA were carrying weapons, harassing and spewing hate speech, getting aggressive and physical---none of this qualifies as trespassing? 
+
+	- “The University of California has consistently opposed calls for boycotts against and divestment from Israel,” the statement said. “While the University affirms the right of our community members to express diverse viewpoints, a boycott of this sort impinges on the academic freedom of our students and faculty and the unfettered exchange of ideas on our campuses.”
+
+	- "In 2011, the Occupy Wall Street protests at UC Davis drew international attention when peaceful activists were pepper sprayed by the university’s police department. In the end, students won a $1 million settlement from UC Davis."
+
+	- "The 2021 safety plan instituted data dashboards, police advisory boards, mental health responders and professional accreditation for individual police departments. According to the UC’s director of community safety, Jody Stiger, all 10 campuses are expected to put the plan into action — with the final, delayed step being professional accreditation for campus law enforcement agencies — by the end of this year."
+
+	- [UCSA message](https://www.instagram.com/p/C6XChA5SiDk/?utm_source=ig_web_copy_link&img_index=1)
+
 
 
 ### Notes
@@ -388,7 +425,7 @@ date: 2024-10-17 6:29 PM
 
 
 
-https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest
+
 
 https://laist.com/news/education/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
 
