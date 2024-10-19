@@ -158,6 +158,8 @@ updated_date: 2024-10-18 8:03 PM
 
 		- "The mutual aid requests made Thursday and Friday, April 25-26 — which would have provided UCLA with more officers as they dealt with the camp and a dueling area erected by pro-Israel activists — were both canceled. Thomas said he made the requests because the university was tentatively planning to take down the encampment then, but he canceled them when that plan was delayed."
 
+			- What about the notice to vacate on April 30th? How did that communication break down? Did they just assume Thomas was aware and prepared? Or were they relying on the "general response?"
+
 		- "The responsibility to call for mutual aid through the UC Systemwide Response Team — a group of about 80 officers across the 10 campuses — has to be made by the host university’s chief of police, according to the UC police procedures manual.
 
 			- Wade says they haven't been trained since 2020, does that include the chief? 
@@ -297,6 +299,8 @@ updated_date: 2024-10-18 8:03 PM
 	- "Every UC campus was directed to establish a specialized response team to respond to major incidents on their campus and to respond to other campuses. Unfortunately, although those teams have been established, they have not been trained since 2020 because the UC system and its campuses refuse to fund such training."
 
 		- These teams are brought up [in this](https://senate.universityofcalifornia.edu/_files/underreview/gold-book-systemwide-review.pdf) document 
+
+		- Are these the teams that cleared the encampment? 
 
 	- "Per the guidelines, UCLA was directed to create “a regular program for joint trainings, briefings and scenario planning with law enforcement agencies on which each campus police department is likely to call for assistance or mutual aid.”"
 
