@@ -4,7 +4,7 @@ title: "Accountability in the Aftermath of the April 30th Riot"
 published: true
 author: Alexie Pogue
 date: 2024-10-17 6:29 PM
-updated_date: 2024-10-18 5:32 PM
+updated_date: 2024-10-18 8:03 PM
 ---
 
 - [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
@@ -94,8 +94,6 @@ updated_date: 2024-10-18 5:32 PM
 
 		- "“What unfolded at UCLA calls into question whether UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies,” said Stern, who is also an officer at UC Riverside. “The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.”"
 
-
-
 - [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
 
 	- Anonymous sources weigh in
@@ -161,6 +159,12 @@ updated_date: 2024-10-18 5:32 PM
 		- "The mutual aid requests made Thursday and Friday, April 25-26 — which would have provided UCLA with more officers as they dealt with the camp and a dueling area erected by pro-Israel activists — were both canceled. Thomas said he made the requests because the university was tentatively planning to take down the encampment then, but he canceled them when that plan was delayed."
 
 		- "The responsibility to call for mutual aid through the UC Systemwide Response Team — a group of about 80 officers across the 10 campuses — has to be made by the host university’s chief of police, according to the UC police procedures manual.
+
+			- Wade says they haven't been trained since 2020, does that include the chief? 
+
+			- See how [this doc](https://senate.universityofcalifornia.edu/_files/underreview/gold-book-systemwide-review.pdf) relates
+
+			- [Universitywide Police Policies And Administrative Procedures](https://policy.ucop.edu/doc/4000382/PoliceProceduresManual)
 
 	- He, like the students, clearly did not understand the severity of the situation. They were not made aware by the administration 
 
@@ -292,6 +296,8 @@ updated_date: 2024-10-18 5:32 PM
 
 	- "Every UC campus was directed to establish a specialized response team to respond to major incidents on their campus and to respond to other campuses. Unfortunately, although those teams have been established, they have not been trained since 2020 because the UC system and its campuses refuse to fund such training."
 
+		- These teams are brought up [in this](https://senate.universityofcalifornia.edu/_files/underreview/gold-book-systemwide-review.pdf) document 
+
 	- "Per the guidelines, UCLA was directed to create “a regular program for joint trainings, briefings and scenario planning with law enforcement agencies on which each campus police department is likely to call for assistance or mutual aid.”"
 
 	- "The guidelines make clear that well before these protests, UCLA should have had in place trained administrators ready to implement specific, established, and well-rehearsed plans. Those plans should have covered in detail how both UCLA PD and any outside law enforcement would respond to civil disobedience on campus and who the senior administrators were who would make the call on when to execute any part of the plans."
@@ -326,6 +332,8 @@ updated_date: 2024-10-18 5:32 PM
 
 			- The non-affiliates at UCLA were carrying weapons, harassing and spewing hate speech, getting aggressive and physical---none of this qualifies as trespassing? 
 
+			- He negotiated with the encampment, at least
+
 	- “The University of California has consistently opposed calls for boycotts against and divestment from Israel,” the statement said. “While the University affirms the right of our community members to express diverse viewpoints, a boycott of this sort impinges on the academic freedom of our students and faculty and the unfettered exchange of ideas on our campuses.”
 
 	- "In 2011, the Occupy Wall Street protests at UC Davis drew international attention when peaceful activists were pepper sprayed by the university’s police department. In the end, students won a $1 million settlement from UC Davis."
@@ -334,7 +342,25 @@ updated_date: 2024-10-18 5:32 PM
 
 	- [UCSA message](https://www.instagram.com/p/C6XChA5SiDk/?utm_source=ig_web_copy_link&img_index=1)
 
+- [2021: Editorial: UC runs counter to student, faculty preferences with systemwide special police force](https://dailybruin.com/2021/05/14/editorial-uc-runs-counter-to-student-faculty-preferences-with-systemwide-special-police-force)
 
+	- [Universitywide Police Policies and Administrative Procedures: Management Consultation and Employee
+	Consultation Periods](https://senate.universityofcalifornia.edu/_files/underreview/gold-book-systemwide-review.pdf)
+
+		- "The “Systemwide Response Teams” policy was drafted based on recommendation by the Robinson/Edley report
+		to create specialized response teams to respond to crown management situations. A proposed Systemwide
+		Response Team policy underwent Management Consultation in 2017, as well as review by the
+		UCFW. However, it was put on hold pending the recommendations of the President’s Police Task Force"
+
+	- "The most concerning changes come in the form of the university’s new crowd management, or Systemwide Response Team, which has been likened to a form of UC national guard by prominent abolitionist groups such as the Divest/Invest UCLA Faculty Collective. According to the proposal, the SRT will be issued riot gear, arrest kits, chemical agents and kinetic energy projectiles. The team would be a UC-wide group of police officers exceeding the size of a police force on any single campus."
+
+	- "Just last month, the UCLA Lewis Center for Regional Policy Studies released research showing that less than 10% of police calls at UCLA involve force, violence or even threats of violence. And even if UCLA did have more calls involving violence or crime, data has shown that increased police presence is not correlated with decreased crime."
+
+		- [Mapping Yesterday’s Police Activity at UCLA](https://escholarship.org/content/qt4jm4t63k/qt4jm4t63k.pdf)
+
+	- "There have been studies upon studies showing that policing disproportionately harms people of color as well as other marginalized groups."
+
+		- Why after the lessons learned with the occupy wallstreet and George Floyd protest activity, is UCLA policing disproportionately? 
 
 ### Notes
 
@@ -427,12 +453,8 @@ updated_date: 2024-10-18 5:32 PM
 
 
 
-https://laist.com/news/education/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
 
-https://www.kpbs.org/news/education/2024/05/02/ucs-president-had-a-plan-to-deescalate-protests-how-did-we-get-a-night-of-violence-at-ucla
 
-https://dailybruin.com/2021/05/14/editorial-uc-runs-counter-to-student-faculty-preferences-with-systemwide-special-police-force
 
-https://policy.ucop.edu/doc/4000382/PoliceProceduresManual
 
-https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and-now-engage-in-blame-shifting/
+
