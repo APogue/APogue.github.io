@@ -4,7 +4,7 @@ title: "Accountability in the Aftermath of the April 30th Riot"
 published: true
 author: Alexie Pogue
 date: 2024-10-17 6:29 PM
-updated_date: 2024-10-18 8:03 PM
+updated_date: 2024-10-19 2:03 PM
 ---
 
 - [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
@@ -435,6 +435,30 @@ updated_date: 2024-10-18 8:03 PM
 - The non-affiliates need to be addressed, explicitly. 
 
 - The barricades that continually go up, even for small encampments, are likely meant for agitators and counter-protesters, not police or students. Or is it to keep "Zionists" out? Or are the Zionists counter-protesters? While actions in April were broader than a move simply for the sake of safety, if the students have to protect themselves from bodily harm either way, then any attempt to protest without the barricades and exclusion, as many students may be willing to do, would put their safety at risk. Because no one will address the safety to students as its own separate issue, these broad, umbrella policies meant to keep the peace are really serving to chill free speech activities on campus. The reason UCLA decided to allow the encampment in the first place was because they wanted to be part of the national conversation. They wanted the spotlight partially on them. As policing and policy continue to be layered on, without addressing the real issues, UCLA will never again be part of this conversation, or potentially any other. Meanwhile Columbia shut their campus down to non-affiliates in a move that directly addresses an issue causing chaos and unsafe conditions on campus. That acknowledgement, in whatever form appropriate for UCLA, is vitally important. 
+
+
+- What happened between the administration and Thomas on April 30th? Did they alert him to the fact that campers were told to vacate? 
+
+	- It is odd that he called for mutual aid on the 25th and 26th, because the administration was planning to "tentatively" clear the encampment.
+
+	- Why then didn't he call for mutual aid on the days before the 30th? Is it because the decision to clear the encampment came on the 30th?
+
+	- Why was he watching a Dodgers game on the night of the 30th? Was he aware of the vacate notification at all? Was he made aware of the mounting tension? Did he call mutual aid on the 30th expecting to clear the encampment days later? Did he call mutual aid at all? 
+
+	- One possible scenario: Sunday and Monday tensions mounted, they decided *on Tuesday* to clear the encampment, thereby giving Thomas no prior notification, and relied on his "general response" forces in the event anything went wrong
+
+	- They did not say *if you stay it could be unsafe*
+
+		- They were relying on Thomas despite having no confirmed game plan 
+
+		- They didn't want to demonize the counter-protesters, and were willing to risk the safety of the students 
+
+		- They didn't want to admit that they miscalculated and were miscalculating the state of campus safety
+
+
+
+
+
 
 - They have to stop vandalizing campus, that vandalization is very expensive. This is a give a little take a little situation. 
 
