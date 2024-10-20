@@ -16,16 +16,10 @@ date: 2024-10-18 8:24 PM
 - [Robinson/Edley Report](https://campusprotestreport.universityofcalifornia.edu/documents/implementation-report.pdf)
 
 
-- [UC Community Safety Plan](https://www.ucop.edu/uc-operations/systemwide-community-safety/policies-and-guidance/community-safety-plan/uc-community-safety-plan.pdf)
-
-
 - [Campus safety report 2022](https://ucla.app.box.com/v/Public-Safety-Report), not sure if this is related to the above
 
 
 - [Mapping Yesterday’s Police Activity at UCLA](https://escholarship.org/content/qt4jm4t63k/qt4jm4t63k.pdf)
-
-
-
 
 
 - The response was a massive clusterfuck of miscommunication especially in the days leading up to April 30th
@@ -65,3 +59,6 @@ date: 2024-10-18 8:24 PM
 	- June 10th
 
 		- What does the policy manual say about their use of force policy
+
+
+
