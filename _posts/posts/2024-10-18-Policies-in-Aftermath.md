@@ -78,7 +78,7 @@ updated_date: 2024-10-21 5:04 PM
 
 ### Non-affiliates are harassing students
 
-- Whether it be by student conduct, non-affiliate conduct, Title VI, or exceptions to 1st amendment we know that
+- Whether it be by student conduct, non-affiliate conduct, Title VI, or the 1st amendment we know that
 
 	- Physical harassment that occurred is not protected by any of the above 
 
