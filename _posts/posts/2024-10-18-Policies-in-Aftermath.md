@@ -31,6 +31,8 @@ updated_date: 2024-10-21 3:28 PM
 
 	- It also makes clear that while exceptions to the 1st Amendment are narrowly defined, students are subject to student conduct policy, and can be disciplined. This presents a double standard, where students are subject to rules and the non-affiliates are not. 
 
+	- [Regulations Governing Conduct of Non-Affiliates in the Buildings and on the Grounds of the University of California](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs) there is no mention of harassment in this doc
+
 	- Later in the doc it mentions [Free Speech on Campus: The Basics, The Myths, The Challenges](https://ucla.app.box.com/v/free-speech-on-campus)
 
 		- Why were all the red triangles removed without any acknowledgment one way or the other? Are they an expression of free speech? Then don't remove them. Are they discrimination? Then why hide this fact? If the university is a place where truth prevails, and it must exist entirely unmoderated and unprocessed, why sanitize the movement? Especially when censorship in this case can be used as a teachable moment. 
@@ -69,9 +71,9 @@ updated_date: 2024-10-21 3:28 PM
 		- "In addition, UCLA should continue its efforts to diversify the university; to facilitate the development of programmatic and curricular initiatives that advance and reflect its commitment to equity, diversity, and inclusion; and proactively work to ensure that no student feels barred from participating in the multiple dimensions of campus life because of their social group membership."
 
 
+- It is very convenient for the school to support 1st amendment rights in the manner that it is---doing nothing. The school can uphold the 1st amendment in a way that is legal, which would take significantly more involvement and oversight. They would need to be more than "just a bank that holds classes sometimes" or whatever that students said
 
-
-
+	- It is clear this is happening because even in areas where they were tasked with implementing policy, they failed to do so and simply threw money at the problem after disaster struck
 
 
 
