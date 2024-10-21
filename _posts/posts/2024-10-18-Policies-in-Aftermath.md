@@ -4,7 +4,7 @@ title: "Policies in the Aftermath..."
 published: true
 author: Alexie Pogue
 date: 2024-10-18 8:24 PM
-updated_date: 2024-10-21 3:28 PM 
+updated_date: 2024-10-21 5:04 PM 
 ---
 
 
@@ -76,7 +76,69 @@ updated_date: 2024-10-21 3:28 PM
 	- It is clear this is happening because even in areas where they were tasked with implementing policy, they failed to do so and simply threw money at the problem after disaster struck
 
 
+### Non-affiliates are harassing students
 
+- Whether it be by student conduct, non-affiliate conduct, Title VI, or exceptions to 1st amendment we know that
+
+	- Physical harassment that occurred is not protected by any of the above 
+
+	- The school is showing a willful indifference to this form of harassment
+
+	- The school is not approaching policing in a balanced fashion
+
+		- the school is knowingly allowing harassment to occur
+
+		- in the case of the protesters, they get a dispersal order, if they do not disperse, then they are cited (two instances where they were either caught off guard or kettled)
+
+			- The students were collateral damage, the students were purposefully punished before graduation, and they were kept from their own graduation (cite peaceful protest statistics)
+
+		- The counter protesters were allowed to disperse without any citation
+
+			- The counter-protesters effectively engaged in conduct so severe, it denied students access to their education, because they were injured. This warrants a no-contact order for all who engaged in this conduct. 
+
+			- Even though they should have faced criminal and misdemeanor charges by [SECTION 100013](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs) and should be subject to no-contact orders by [Anti-Discrimination](https://policy.ucop.edu/doc/1001004/Anti-Discrimination) policy or some other on-campus conduct policy
+
+		- By both the Policies, Principles and Practices 2024 update and the Robinson/Edley report, UCLA should have had a protocol in place for when non-affiliate harassment happens. They should also have a formal protest monitoring system that includes video for accountability purposes. 
+
+			- The 2024 report says it leaves policy regarding protests largely to individual campuses because each campus is unique in its circumstances
+
+			- It is time for UCLA to revise its non-affiliate policy
+
+- It doesn't matter whether Thomas had sufficient forces present in case violence breaks out. The issue is "operational execution" (UCPD) versus strategic direction (UC administration). The policy *does not matter* if it is not enforced. Part of this strategy requires preventative measures such as behavior deterrents via condemnation. Otherwise the reactive mechanism is enforced- cite people for harassment. 
+
+- Eden On
+
+- [June 21, 2024: UCLA Demonstration Case Referred to LA City Attorney’s Office for Misdemeanor Filing Consideration](https://da.lacounty.gov/media/news/ucla-demonstration-case-referred-la-city-attorney-s-office-misdemeanor-filing)
+
+- [LA County declines to charge man recorded](https://www.cnn.com/2024/06/21/us/edan-on-ucla-palestine-encampment-attack/index.html)
+
+- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Other sources
 
 - [Mapping Yesterday’s Police Activity at UCLA](https://escholarship.org/content/qt4jm4t63k/qt4jm4t63k.pdf)
 
@@ -86,7 +148,9 @@ updated_date: 2024-10-21 3:28 PM
 
 - [Campus safety report 2022](https://ucla.app.box.com/v/Public-Safety-Report), not sure if this is related to the above
 
+https://supreme.justia.com/cases/federal/us/385/589/
 
+- [UC Policy on Academic Freedom](https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-010.pdf)
 
 - The response was a massive clusterfuck of miscommunication especially in the days leading up to April 30th
 
