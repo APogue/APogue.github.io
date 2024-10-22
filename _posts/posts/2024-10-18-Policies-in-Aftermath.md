@@ -104,9 +104,27 @@ updated_date: 2024-10-21 5:04 PM
 
 			- It is time for UCLA to revise its non-affiliate policy
 
-- It doesn't matter whether Thomas had sufficient forces present in case violence breaks out. The issue is "operational execution" (UCPD) versus "strategic direction" (UC administration). The policy *does not matter* if it is not enforced. Part of this strategy requires preventative measures such as behavior deterrents via condemnation. Otherwise the reactive mechanism is necessary- cite people for harassment. 
+- It doesn't matter whether Thomas had sufficient forces present in case violence breaks out. The issue 
+is "operational execution" (UCPD) versus "strategic direction" (UC administration). The policy 
+*does not matter* if it is not enforced. Part of this strategy requires preventative measures such
+ as behavior deterrents via condemnation. Otherwise the reactive mechanism is necessary- cite people 
+ for harassment. 
 
-- In the days leading up to the violence, UCLA needed to recognize that acts of aggression were one-sided. Whether a strong police presence was eventually necessary or not, they should have started citing for harassment days before April 30th. If they had put their own non-affiliate policy to use by citing people for harassment and threatened criminal arrest if violence breaks out, the outbreak in violence would never have happened. But even if one could say they wanted to allow the "civil discourse" to remain organic and who could have known it would blow up the way it did... Then hypothetically, the moment things began to get out of hand on April 30th, had sufficient police been on the scene, what was the strategic plan for the counter-protesters? It is likely the outcome would have been to issue dispersal orders. Then what conduct exactly warrants consequences for non-affiliates? Regardless of finger pointing, it isn't about safety, although that is the first priority. The issue is the rights of these students are not being protected by the university. Because there is no mechanism in place to protect them in the event an incident occurs. If assailants fleed the scene too quickly to be arrested, and police focused on crowd control for safety purposes. Where is the position on the University making clear the consequences for the *harassment* of students?
+- In the days leading up to the violence, UCLA needed to recognize that acts of aggression were 
+one-sided. Whether a strong police presence was eventually necessary or not, they should have started 
+citing for harassment days before April 30th. If they had put their own non-affiliate policy to use by 
+citing people for harassment and threatened criminal arrest if violence breaks out, the outbreak in 
+violence would never have happened. But even if one could say they wanted to allow the "civil discourse" 
+to remain organic and who could have known it would blow up the way it did... Then hypothetically, the 
+moment things began to get out of hand on April 30th, had sufficient police been on the scene, what was 
+the strategic plan for the counter-protesters? It is likely the outcome would have been to issue 
+dispersal orders. Then what conduct exactly warrants consequences for non-affiliates? Regardless of 
+finger pointing, it isn't about safety, although that is the first priority. The issue is the rights 
+of these students *to free speech* and to *access their education* are not being protected by the 
+university. Because there is no mechanism in place to protect them in the event an incident occurs. 
+If assailants fleed the scene too quickly to be arrested, and police focused on crowd control for safety 
+purposes. Where is the position on the University making clear the consequences for the *harassment* of 
+students?
 
 - Eden On
 
