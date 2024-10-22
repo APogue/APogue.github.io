@@ -100,15 +100,13 @@ Thesis: UCLA wants free speech at any cost i.e. safety, equality, and freedom of
 
 		- Assault, intimidation
 
-		- Police did not intervene
-
-		- Police told them to leave
+		- Police did not intervene or told them to leave
 
 
 
 - UC Divest Protest to Regents meeting
 
-	- There were plenty of officers present
+	- Many officers present
 
 
 
