@@ -37,9 +37,9 @@ Thesis: UCLA wants free speech at any cost i.e. safety, equality, and freedom of
 
 		- Title VI 
 
-### Incidents occurring after Oct 7th
+### Handling of free speech since Oct 7th
 
-- Illustrate what UCLA intends for free speech
+- Illustrate free speech, protected 
 
 	- Extreme political positions
 
@@ -67,24 +67,61 @@ Thesis: UCLA wants free speech at any cost i.e. safety, equality, and freedom of
 
 - Nov 7th and 8th incidents
 
-	- Condemned by Block and Drake (vague and broad to address all incidents in the past month)
+	- Condemned by Block and Drake (vague and broad to address all incidents in the past month)		
 
-- Illustrate when "equal rights give way to free speech", i.e. UCLA permits more extreme cases of discrimination
+- Free speech gray area
 
-	- Did not remove it, waited to condemn it 
+	- When "equal rights give way to free speech"---UCLA permits more extreme cases of discrimination
 
-	- Impactful discriminatory art at a larger-scale protest
+		- Did not remove it, waited to condemn it 
+
+		- Impactful discriminatory art at a larger-scale protest
+
+			- Made it into social media posts, Op-eds, news articles 
+
+	- Instances of discrimination quietly removed
+
+		- Students mentioned they wanted to leave campus due to "clear signs of discrimination" happening 
+
+		- Triangles made it into several articles as the "face of the protest"
+	
+		- No acknowledgment
+
 
 ### Protests 
 
-- Instances of discrimination going unacknowledged 
+- Non-affiliates have a history of interacting with students 
+
+	- February rally 
+
+		- Heckling 
+
+	- Off campus protests
+
+		- Assault, intimidation
+
+		- Police did not intervene
+
+		- Police told them to leave
+
+
+
+- UC Divest Protest to Regents meeting
+
+	- There were plenty of officers present
+
+
+
+
+
+		
 
 
 
 
 
 
-
+### Post-protest finger pointing 
 
 
 
@@ -139,3 +176,4 @@ Thesis: UCLA wants free speech at any cost i.e. safety, equality, and freedom of
 
 	- due to injury, fear and intimidation
 
+- Why remove the red triangles? Are they an expression of free speech? Then don't remove them. If they are discrimination, why hide it? If the university is a place where truth prevails, then it must exist unmoderated and unprocessed. Why sanitize the movement when legal censorship can be used as a teachable moment?

@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Campus safety is a problem"
+title: "Campus safety is a problem old version"
 published: true
 author: Alexie Pogue
 date: 2024-08-16 11:00 AM
