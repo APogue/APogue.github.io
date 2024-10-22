@@ -152,6 +152,8 @@ updated_date: 2024-10-21 5:04 PM
 
 https://supreme.justia.com/cases/federal/us/385/589/
 
+https://police.ucla.edu/about-ucla-pd/department-information/policies
+
 - [UC Policy on Academic Freedom](https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-010.pdf)
 
 - The response was a massive clusterfuck of miscommunication especially in the days leading up to April 30th
