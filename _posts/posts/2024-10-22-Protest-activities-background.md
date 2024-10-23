@@ -8,8 +8,6 @@ date: 2024-10-22 7:50 PM
 
 ### Background and context 
 
-- Open to public 
-
 - Free speech and academic freedom 
 	
 	- Qualification of knowledge for the sake of orthodoxy, conformity or propriety is a societal construct. Truth is absolute.
