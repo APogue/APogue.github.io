@@ -8,11 +8,14 @@ date: 2024-10-22 8:10 PM
 
 
 
+### "Sources Said"
+
+
 ### Post-protest finger pointing 
 
 
 
-
+### Rick Braziel said 
 
 - Braziel's take to the LA Times
 
@@ -31,7 +34,11 @@ date: 2024-10-22 8:10 PM
 
 
 
+### Lawsuits
 
+- [Lawsuit 1](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf) 
+
+- [Lawsuit 2](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
 
 
 

@@ -26,11 +26,21 @@ date: 2024-10-22 7:50 PM
 
 		- Defamation 
 
-	- 14th Amendment rights 
+	- 14th Amendment rights (getting too heady, USAC stuff in this doc?)
 
 		- Anti-discrimination policy
 
+			- Severe and/or pervasive, must interfere with access to education 
+
 		- Title VI 
+
+			- Totality of circumstances
+
+			- Rhetoric motivated by bias
+
+	- Time, place, and manner
+
+		- Content-neutral, what is applied to one must be applied to all
 
 ### Handling of free speech since Oct 7th
 
@@ -38,7 +48,13 @@ date: 2024-10-22 7:50 PM
 
 	- Extreme political positions
 
+		- Moshiach flag guy 
+
 	- Includes protections for instances of shocking messaging or hate speech 
+
+		- [Example 1](http://127.0.0.1:4000/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
+
+		- [Example 2](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)
 
 - May cause tensions to flare, UCLA won't get involved 
 
@@ -71,3 +87,9 @@ date: 2024-10-22 7:50 PM
 - Students started blockading pathways and excluding students
 
 - Then UCLA stepped in 
+
+
+
+### Quotes 
+
+- “Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by 	the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and 			Chancellor Gene Block with horns on his head – is antisemitic. ‘I feel very uncomfortable,’ he said. ‘I might skip my 		classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on 			campus.’” [Student onlookers express differing opinions on pro-Palestine encampment](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
