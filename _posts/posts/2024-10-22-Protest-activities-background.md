@@ -84,7 +84,15 @@ date: 2024-10-22 7:50 PM
 
 - Hate speech at the protest 
 
+	- hate speech coming from counter-protesters
+
+	- hate speech coming from protesters
+
+	- reddit, daily bruin, tiktok
+
 - Students started blockading pathways and excluding students
+
+	- insta, tiktok 
 
 - Then UCLA stepped in 
 
