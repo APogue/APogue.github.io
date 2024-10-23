@@ -102,9 +102,6 @@ Thesis: Safety through accountability
 	- "“We will not leave,” UC Divest said in the press release. “We will remain here until our demands are met.”"
 
 
-
-
-
 ### Police response
 
 
