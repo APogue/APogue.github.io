@@ -140,6 +140,8 @@ date: 2024-10-22 8:10 PM
 
 	- "8:12 p.m.---Around 30 counter-protesters arrived in Dickson Court North and began to heckle pro-Palestine protesters. In response, pro-Palestine protesters attempted to form a line to prevent them from accessing the sukkah."
 
+	- The arrested was referred to as a "demonstrator," is presumed a pro-Palestinian demonstrator
+
 - [Braziel's handling of Oct 7](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
 
 	- “He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave.”
