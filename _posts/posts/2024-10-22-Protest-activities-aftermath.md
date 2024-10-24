@@ -113,7 +113,7 @@ date: 2024-10-22 8:10 PM
 
 - [Sukkot for Palestine announcement](https://www.instagram.com/p/DBZJ5g0Ph01/?hl=en&img_index=1), 10-21
 
-	- Would things be different if they went to the SE corner of Dickson Court? [map](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression), any kind encampment is no longer consistent with "manner" policy
+	- Would things be different if they went to the SE corner of Dickson Court? [Map](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression), any kind encampment is no longer consistent with "manner" policy
 
 - [Insta Post by JVP at UCLA 10-23](https://www.instagram.com/p/DBfBe0Gg2SW/?hl=en&img_index=4)
 
@@ -141,6 +141,12 @@ date: 2024-10-22 8:10 PM
 	- "8:12 p.m.---Around 30 counter-protesters arrived in Dickson Court North and began to heckle pro-Palestine protesters. In response, pro-Palestine protesters attempted to form a line to prevent them from accessing the sukkah."
 
 	- The arrested was referred to as a "demonstrator," is presumed a pro-Palestinian demonstrator
+
+	- "3:05 p.m. – Chabad at UCLA and Alpha Epsilon Pi also set up a sukkah in Bruin Plaza on Monday morning. A fire marshal from UCFD did not respond to a request for comment as to whether that temporary structure is a fire hazard – which UCFD declared the sukkah in Dickson Court North to be."
+
+		- Bruin Plaza is an approved area for public expression, not sure how that relates to fire code, but the Sukkahs were on the wrong side of Dickson Court
+
+	- [Chabad House at UCLA Sukkah post](https://www.instagram.com/p/DBdM7GFxygf/?img_index=12)
 
 - [Braziel's handling of Oct 7](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
 
