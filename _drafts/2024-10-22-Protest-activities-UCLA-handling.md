@@ -119,3 +119,8 @@ Thesis: Safety through accountability
 
 - Corroborating evidence 
 
+- [Pro-Israel counter-protesters attempt to storm encampment, sparking violence](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)
+
+	- "Two UCPD cars and one UCLA EMT showed up at 11:13 p.m. in an attempt to break up the conflict, but all left the scene at 11:21 p.m. UCPD Chief of Police John Thomas said to the Daily Bruin that the force only had around five to six officers on duty. Officers came under attack while trying to help an injured person, and so they left, Thomas said."
+
+		"“We called several different agencies. Right now, they’re preparing to go in and render the location safe,” he said. “It has nothing to do with the encampment, but I do want to render the situation safe and take care of those that may have been injured at this point – to possibly make arrests if that opportunity presents.”"

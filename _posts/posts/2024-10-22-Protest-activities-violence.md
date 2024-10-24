@@ -60,7 +60,7 @@ Thesis: Safety is accountability
 
 	- Police did not intervene or told them to leave
 
-
+- "Green fireworks shoot up in front of Royce Hall as counter-protesters look on. Fireworks were released from outside the encampment toward the inside of it. [(Nicolas Greamo/Daily Bruin senior staff)](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)"
 
 ### Quotes 
 

@@ -86,6 +86,8 @@ date: 2024-10-22 7:50 PM
 
 	- hate speech coming from counter-protesters
 
+		- "A counter-protester smashed the finger of a protester inside using a wooden slab at around 12:28 a.m. Counter-protesters also shouted an anti-Black racial slur at around the same time." [Pro-Israel counter-protesters attempt to storm encampment, sparking violence](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)
+
 	- hate speech coming from protesters
 
 	- reddit, daily bruin, tiktok
