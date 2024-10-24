@@ -240,6 +240,8 @@ Cases are not necessarily investigated in the order that complaints are received
 
 		- [Campus safety report 2022](https://ucla.app.box.com/v/Public-Safety-Report)
 
+	- [Announcing the Office of Inclusive Excellence](https://chancellor.ucla.edu/messages/announcing-the-office-of-inclusive-excellence/)
+
 
 - ["Funding mass murder..."](https://www.instagram.com/p/C6ecLBLpLFU/?hl=en)
 

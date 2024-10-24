@@ -77,6 +77,8 @@ Thesis: Safety through accountability
 
 		- "On Sunday..." He goes into specifics on this day and on the following Tuesday riot. 
 
+		- "Not only must we recognize one another’s humanity, we must also learn to engage respectfully. In line with this, UCLA is substantially expanding its Dialogue across Difference (DaD) initiative, which will now move under the banner of UCLA’s Bedari Kindness Institute. Sady and Ludwig Kahn Professor of Jewish History David Myers, who leads the DaD initiative, has been named director of the institute." [Our Four-Point Plan for a Safer, Stronger UCLA](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
+
 
 - [Monday 4/29](https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment)
 

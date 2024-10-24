@@ -102,3 +102,4 @@ date: 2024-10-22 8:10 PM
 	- due to injury, fear and intimidation
 
 - Why remove the red triangles? Are they an expression of free speech? Then don't remove them. If they are discrimination, why hide it? If the university is a place where truth prevails, then it must exist unmoderated and unprocessed. Why sanitize the movement when legal censorship can be used as a teachable moment?
+
