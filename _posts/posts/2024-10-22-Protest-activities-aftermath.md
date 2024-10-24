@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Protest activities-aftermath"
+title: "Protest activities-aftermath w/policy"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM

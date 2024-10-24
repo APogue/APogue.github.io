@@ -94,7 +94,11 @@ date: 2024-10-22 7:50 PM
 
 	- insta, tiktok 
 
-- Then UCLA stepped in 
+- Then UCLA stepped in (this is the tie in with "UCLA handling doc")
+
+	- No condemnation of hate speech 
+
+	- Allows the sides to become embroiled in conflict 
 
 
 

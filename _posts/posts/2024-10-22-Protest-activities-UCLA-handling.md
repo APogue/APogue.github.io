@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Protest activities-UCLA handling w/policy"
+title: "Protest activities-UCLA handling"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:05 PM
@@ -105,10 +105,6 @@ Thesis: Safety through accountability
 ### Police response
 
 
-
-
-
-
 - [Sergio Olmos X](https://x.com/MrOlmos/status/1785575555620123065)
 
 	- [Police formed a line](https://x.com/MrOlmos/status/1785609923088519168), "Police at UCLA have formed a line about a hundred feet from the encampment. Counter-protestors have left, there have been no visible arrests so far. I saw the brawl last 2.5 hours, police arrived 1 hour ago."
@@ -121,4 +117,5 @@ Thesis: Safety through accountability
 
 		Once the police decided to move in, the counter-protesters left, some of them were chanting "USA! USA!" And, you know, there was many people saying, you know, don't interfere with police let them do their job, or pro-police kind of things."
 
+- Corroborating evidence 
 
