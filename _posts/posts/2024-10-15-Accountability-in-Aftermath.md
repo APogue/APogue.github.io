@@ -367,26 +367,6 @@ updated_date: 2024-10-24 2:07 PM
 		- Why after the lessons learned with the occupy wallstreet and George Floyd protest activity, is UCLA policing disproportionately? 
 
 
-### Recently added articles 10-24
-
-- These pieces fail to extrapolate the larger problem
-
-- [UCLA students and faculty raise alarm on antisemitic and anti-Palestinian hate amid ongoing protests](https://www.latimes.com/california/story/2024-10-23/ucla-antisemitism-anti-palestinian-reports)
-
-- [UCLA rocked by competing claims of antisemitism and anti-Palestinian bias](https://www.nbcnews.com/news/us-news/ucla-rocked-competing-claims-antisemitism-anti-palestinian-bias-rcna176886)
-
-	- "It also calls for an injunction that would bar UCLA from giving orders to disperse based solely on suspected breaches of university policies, which the lawsuit says unfairly target pro-Palestinian voices."
-
-- [Campus Report on Anti-Semitism at UCLA Released](https://www.reddit.com/r/ucla/comments/1gafzp8/campus_report_on_antisemitism_at_ucla_released/)
-
-	- "it's giving the ADL changing their inclusion of what antisemitism is"
-
-- [ANTISEMITISM AND ANTI-ISRAELI BIAS AT UCLA](https://antisemitismreport.org/) 
-
-- [REPORT OF TASK FORCE ON ANTI PALESTINIAN, ANTI MUSLIM AND ANTI ARAB RACISM](https://www.dropbox.com/scl/fi/k6qkx97jdfrg61i6vlnxq/CORRECTED-MAY-15-REPORT-OF-TASK-FORCE-ON-ANTI.pdf?rlkey=j82r8gn89i03yclzn6hcxgz3u&e=1&st=6s3n3uvu&dl=0)
-
-
-
 ### Notes
 
 - WRT June 10th arrests

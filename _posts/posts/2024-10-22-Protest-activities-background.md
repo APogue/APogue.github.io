@@ -102,11 +102,17 @@ date: 2024-10-22 7:50 PM
 
 	- Allows the sides to become embroiled in conflict 
 
-### Disrupting campus operations 
+### True disruptions to campus operations 
+
+- Encampment blockading 
+
+	- Reddit---people can't get to class, their jobs, disabled people are denied access to campus
 
 - The marching through the halls with chants of "From the River to the Sea" (TikTok)
 
 - The screen that UCLA permitted to stay without permit 
+
+	- Reddit quote
 
 	- [Hillel comments](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view), "There is a screen placed by community members at UCLA playing the horrors of October 7th on repeat--and we
 	can’t learn over the constant noise of Jews being slaughtered. The wider community is prioritizing their own idea of

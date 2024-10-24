@@ -135,9 +135,7 @@ Thesis: Safety through accountability
 
 ### Immediate Hillel response 
 
-- [Hillel statement found on X](https://x.com/dnbrgr/status/1787193774487339102)
-
-	- [related article involves Columbia](https://www.timesofisrael.com/in-viral-letter-450-jewish-columbia-students-say-zionism-is-core-to-their-identity/)
+- While their statement is well-meaning, it is the job of the administration to handle *any* violation of the law in a content-neutral manner. They don't need to single out a single group the way Hillel has. But they do need to hold people accountable. It is about safety through accountability---rhetoric, strategic direction, and policy. 
 
 - [Hillel at UCLA Statement: May 1, 2024](https://www.uclahillel.org/stateofjewishbruinlifeoct2023)
 
