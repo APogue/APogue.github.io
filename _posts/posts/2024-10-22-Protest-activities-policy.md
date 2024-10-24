@@ -109,10 +109,17 @@ Thesis: Safety through accountability
 
 
 
+- [Sergio Olmos X](https://x.com/MrOlmos/status/1785575555620123065)
 
+	- [Police formed a line](https://x.com/MrOlmos/status/1785609923088519168), "Police at UCLA have formed a line about a hundred feet from the encampment. Counter-protestors have left, there have been no visible arrests so far. I saw the brawl last 2.5 hours, police arrived 1 hour ago."
 
+	- [Police directing people to exits](https://x.com/MrOlmos/status/1785616767676743886), "UCLA: California Highway Patrol officer says "everybody" needs to go. Directs peoples onto the sidewalk to exit."
 
+- [Sergio Olmos TikTok (Al Jazeera)](https://www.tiktok.com/@maria_free76_/video/7364062755206335786)
 
+	- "I got here at about 12:20 am, they arrived at about 1:45 am and then kind of stood at a line maybe a few hundred feet away just watching for about an hour. And so the brawl went on for about 2 hours without any kind of police intervention. 
+
+		Once the police decided to move in, the counter-protesters left, some of them were chanting "USA! USA!" And, you know, there was many people saying, you know, don't interfere with police let them do their job, or pro-police kind of things."
 
 
 ### Protest handling (policy)
