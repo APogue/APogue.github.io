@@ -353,12 +353,3 @@ Cases are not necessarily investigated in the order that complaints are received
 - [map areas public expression](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression)
 
 
-- Eden On
-
-- [June 21, 2024: UCLA Demonstration Case Referred to LA City Attorney’s Office for Misdemeanor Filing Consideration](https://da.lacounty.gov/media/news/ucla-demonstration-case-referred-la-city-attorney-s-office-misdemeanor-filing)
-
-- [LA County declines to charge man recorded](https://www.cnn.com/2024/06/21/us/edan-on-ucla-palestine-encampment-attack/index.html)
-
-- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
-
-

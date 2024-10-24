@@ -126,3 +126,28 @@ Thesis: Safety through accountability
 	- "Two UCPD cars and one UCLA EMT showed up at 11:13 p.m. in an attempt to break up the conflict, but all left the scene at 11:21 p.m. UCPD Chief of Police John Thomas said to the Daily Bruin that the force only had around five to six officers on duty. Officers came under attack while trying to help an injured person, and so they left, Thomas said."
 
 		"“We called several different agencies. Right now, they’re preparing to go in and render the location safe,” he said. “It has nothing to do with the encampment, but I do want to render the situation safe and take care of those that may have been injured at this point – to possibly make arrests if that opportunity presents.”"
+
+
+### Immediate administrative response
+
+
+
+
+### Immediate Hillel response 
+
+- [Hillel statement found on X](https://x.com/dnbrgr/status/1787193774487339102)
+
+	- [related article involves Columbia](https://www.timesofisrael.com/in-viral-letter-450-jewish-columbia-students-say-zionism-is-core-to-their-identity/)
+
+- [Hillel at UCLA Statement: May 1, 2024](https://www.uclahillel.org/stateofjewishbruinlifeoct2023)
+
+	- [UCLA Jewish Student Leader's ask to Non-Campus Jews](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view)
+
+	- "The truth is that a largely peaceful, pro-Palestinian encampment was attacked by an angry, violent mob comprised
+	of fringe members of the off-campus Jewish community last night. They do not represent the estimated 3,000
+	Jewish Bruins at UCLA, yet those are precisely the people who will have to live with the reverberations of their
+	aggressive actions. 
+
+		**We can not have a clearer ask for the off-campus Jewish community: stay off our campus. Do not fund any actions on campus. Do not protest on campus. Your actions are harming Jewish students."**
+
+		- The funding may be referring to the Go Fund Me campaign that raised 80k

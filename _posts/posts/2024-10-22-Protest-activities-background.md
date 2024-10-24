@@ -102,8 +102,24 @@ date: 2024-10-22 7:50 PM
 
 	- Allows the sides to become embroiled in conflict 
 
+### Disrupting campus operations 
+
+- The marching through the halls with chants of "From the River to the Sea" (TikTok)
+
+- The screen that UCLA permitted to stay without permit 
+
+	- [Hillel comments](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view), "There is a screen placed by community members at UCLA playing the horrors of October 7th on repeat--and we
+	can’t learn over the constant noise of Jews being slaughtered. The wider community is prioritizing their own idea of
+	activism over what Jewish students want. We want peace and a diplomatic resolution."
 
 
 ### Quotes 
 
 - “Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by 	the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and 			Chancellor Gene Block with horns on his head – is antisemitic. ‘I feel very uncomfortable,’ he said. ‘I might skip my 		classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on 			campus.’” [Student onlookers express differing opinions on pro-Palestine encampment](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
+
+
+- [Unmasking counterprotesters who attacked UCLA’s pro-Palestine encampment](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)
+
+	- "‘You guys are about to get f—ed up’
+	In one of the more dramatic videos of the night, a protester wearing the colors of the Palestinian flag underneath an LA Kings jersey was knocked to the ground and beaten by multiple counterprotesters as he guarded the encampment."
+

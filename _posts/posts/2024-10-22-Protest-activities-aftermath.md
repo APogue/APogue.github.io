@@ -57,6 +57,39 @@ date: 2024-10-22 8:10 PM
 
 - [Lawsuit 2](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
 
+### Arrests
+
+- [USAC officers announce additional arrests, warrants related to encampment attack](https://dailybruin.com/2024/10/18/usac-officers-announce-additional-arrests-warrants-related-to-encampment-attack)
+
+	- "The report said two individuals have been arrested on felony charges with primary hearings scheduled, and two more individuals have active warrants for arrest – one with a felony warrant and one with a misdemeanor warrant. The report also said there is one additional case being reviewed by United States Attorney for the Central District of California E. Martin Estrada’s office."
+
+	- "One of the individuals with felony charges was Eyal Shalom – who was coined by several accounts as “#UCLAMaroonHoodie” on X, formerly Twitter. Shalom was arrested for illegal use of tear gas May 1. Journalist Dolores Quintana took to X in May saying Shalom pepper sprayed her in the eye, while another man shone a light on her face." 
+
+	-[Eyal Shalom sprays journalist directly in the face](https://x.com/doloresquintana/status/1794899214734184806) (video evidence)
+
+	- [CNN identified Eden On and Marlan-Librett](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)---
+
+		- "The other individual arrested with felony charges, Malachi Joshua Marlan-Librett, was charged with assault with a deadly weapon – not firearm – as well as special circumstance allegations of a hate crime and a use of a deadly weapon from May 1. Marlan-Librett, who graduated from UC Santa Cruz in 2020, was also charged with two felony counts of battery from April 28. 
+
+		Marlan-Librett – who was first identified by CNN as an April 30 attacker in May – is set to have a preliminary hearing Nov. 22 at Airport Courthouse."
+
+		- Eyal Shalom is also pictured in the CNN report
+
+- [USAC transparency report](https://www.instagram.com/uclapresident/p/DBSOoJSSp2S/?img_index=1)
+
+	- "As of now, two individuals have been arrested on felony charges, and their primary hearings have been scheduled. Additionally, two more individuals have active warrants being processed by the District Attorney's office. One individual has a felony warrant issued, while another, initially charged with a felony, had their charged reclassified as a misdemeanor by the judge. Lastly there is one case currently being reviewed by the US Attorneys Office."
+
+	- 
+
+- Eden On
+
+	- [June 21, 2024: UCLA Demonstration Case Referred to LA City Attorney’s Office for Misdemeanor Filing Consideration](https://da.lacounty.gov/media/news/ucla-demonstration-case-referred-la-city-attorney-s-office-misdemeanor-filing)
+
+	- [LA County declines to charge man recorded](https://www.cnn.com/2024/06/21/us/edan-on-ucla-palestine-encampment-attack/index.html)
+
+	- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
+
+
 
 
 ### Effects of imbalanced handling (thought notes)
