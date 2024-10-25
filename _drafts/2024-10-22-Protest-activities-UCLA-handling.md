@@ -130,8 +130,11 @@ Thesis: Safety through accountability
 
 ### Immediate administrative response
 
+- Office of Campus Safety
 
+	- Braziel hired 
 
+- Thomas and Beck reassigned 
 
 ### Immediate Hillel response 
 
@@ -149,3 +152,22 @@ Thesis: Safety through accountability
 		**We can not have a clearer ask for the off-campus Jewish community: stay off our campus. Do not fund any actions on campus. Do not protest on campus. Your actions are harming Jewish students."**
 
 		- The funding may be referring to the Go Fund Me campaign that raised 80k
+
+
+### UCLA does damage control
+
+- Block congressional hearing 
+
+### Post-protest finger pointing 
+
+- Braziel said (Bruin article)
+
+- Mayor Bass said 
+
+### A month later (or so)
+
+- Thomas interview 
+
+- Sources said
+
+- Wade said

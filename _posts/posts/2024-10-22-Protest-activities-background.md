@@ -110,6 +110,8 @@ date: 2024-10-22 7:50 PM
 
 - The marching through the halls with chants of "From the River to the Sea" (TikTok)
 
+	- [Pro-Palestinian protesters took over UCLA's Dodd Hall](https://www.tiktok.com/@journalistjeremy/video/7372692453956062507)
+
 - The screen that UCLA permitted to stay without permit 
 
 	- Reddit quote

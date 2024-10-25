@@ -6,9 +6,86 @@ author: Alexie Pogue
 date: 2024-10-22 8:10 PM
 ---
 
+### Robinson/Edley report
+
+- Brought up in the 2024 UC toolkit
+
+- Statistics from DB and policy reports on UCLA protests being largely peaceful 
+
+
+### June 10th protest
+
+- video footage 
+
+- FJP take 
+
+- Braziel statement 
+
+- UCPD statement 
+
+- LA Times article 
+
+
+
+### Rick Braziel LA Times interview
+
+- No office of campus safety
+
+- He was hired temporarily 
+
+- Still no report on April 30th
+
+- His position was just extended
+
+	- Paid a huge bloated salary
+
+- More militarization, more security
+
+
+### Directly relevant UC policies 
+
+- No masking
+
+- No encampments 
+
+- LA Times article on spending 
+
+- What the Regents Chair said about "safety"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Protest handling (policy)
 
-- Congressional hearing goes here 
+
 
 
 - LA Times, Bruin, Robinson
@@ -25,10 +102,10 @@ date: 2024-10-22 8:10 PM
 
 - Robinson/Edley Report 
 
-### "Sources Said"
 
 
-### Post-protest finger pointing 
+
+
 
 
 
@@ -60,7 +137,7 @@ date: 2024-10-22 8:10 PM
 
 	- "One of the individuals with felony charges was Eyal Shalom – who was coined by several accounts as “#UCLAMaroonHoodie” on X, formerly Twitter. Shalom was arrested for illegal use of tear gas May 1. Journalist Dolores Quintana took to X in May saying Shalom pepper sprayed her in the eye, while another man shone a light on her face." 
 
-	-[Eyal Shalom sprays journalist directly in the face](https://x.com/doloresquintana/status/1794899214734184806) (video evidence)
+	- [Eyal Shalom sprays journalist directly in the face](https://x.com/doloresquintana/status/1794899214734184806) (video evidence)
 
 	- [CNN identified Eden On and Marlan-Librett](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)---
 
@@ -86,9 +163,11 @@ date: 2024-10-22 8:10 PM
 
 
 
+- [Editorial: UCLA administration’s response to protests fails to repair ties with community](https://dailybruin.com/2024/10/20/editorial-ucla-administrations-response-to-protests-fail-to-repair-ties-with-community)
 
+	- "But if any kind of reconciliation is at all possible, the administration must lay a new foundation for the future. In our view, the process has to begin with this first step.
 
-
+	Apologize."
 
 
 
@@ -152,7 +231,7 @@ date: 2024-10-22 8:10 PM
 
 	- “He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave.”
 
-	- The question becomes, if the Sukkah's are peaceful civil disobedience, that should be allowed if not disrupting campus operations, then what was disrupting operations? The counter-protesters that the Sukkahs attracted? 
+	- The question becomes, if the Sukkahs are peaceful civil disobedience, that should be allowed if not disrupting campus operations, then what was disrupting operations? The counter-protesters that the Sukkahs attracted? 
 
 
 ### Effects of imbalanced handling (thought notes)
