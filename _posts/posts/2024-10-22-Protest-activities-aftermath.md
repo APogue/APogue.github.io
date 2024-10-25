@@ -12,6 +12,9 @@ date: 2024-10-22 8:10 PM
 
 - Statistics from DB and policy reports on UCLA protests being largely peaceful 
 
+- What's the point of this beautifully thought out policy that administrators signed their commitment to, if when push comes to shove they take the path of least resistance and all of a sudden it's Texas in California. 
+
+- Administrators *need* to back up everything they do with policy. Not "we are heartbroken," again giving 2004 kind of response to events and incidents that can affect hundreds of students. Everything must come from study, data, and training on the subject. Nothing of large magnitude affecting hundreds of students can be dealt with by administrative "parenting" or instinct. 
 
 ### Directly relevant UC policies 
 
@@ -29,8 +32,6 @@ date: 2024-10-22 8:10 PM
 
 		- Many officers present
 
-
-
 ### June 10th protest
 
 - video footage 
@@ -43,7 +44,11 @@ date: 2024-10-22 8:10 PM
 
 - LA Times article 
 
+	- girl didn't get to go to her graduation
 
+### UCLA graduation 
+
+- dates of commencement 
 
 ### Rick Braziel LA Times interview
 
@@ -59,7 +64,7 @@ date: 2024-10-22 8:10 PM
 
 - More militarization, more security
 
-
+- DB on Oct 7th? Did counter-protesters show up?
 
 ### Protests around the time that Ben Shapiro came to speak for Young Americans for Freedom and or aligning with Sukkot 
 
@@ -153,52 +158,17 @@ date: 2024-10-22 8:10 PM
 
 ### Effects of imbalanced handling (thought notes)
 
-- [Editorial: UCLA administration’s response to protests fails to repair ties with community](https://dailybruin.com/2024/10/20/editorial-ucla-administrations-response-to-protests-fail-to-repair-ties-with-community)
-
-	- "But if any kind of reconciliation is at all possible, the administration must lay a new foundation for the future. In our view, the process has to begin with this first step.
-
-	Apologize."
-
-
 - The conflating of protected and unprotected activity is always in service of the negative handling of pro-Palestinian students
 
 - There is a pattern showing a lack of siding with pro-Palestinian protesters via punishment, statement omissions, or a negative administrative tone
 
-- The UC non-discrimination policy
+- Ignoring instances of clear discrimination as part of a broader construct set up in the disservice of this group of students
 
-	- “Training and Education for the Respondent: • If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure. • The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards.”
-
-	- By the UC anti-discrimination policy, respondents are subject to anti-discrimination training and education. By failing to hold the discriminating persons accountable, they are effectively denying them access to a Title VI education.
-
-- Discrimination that crosses the line opens the door for teachable moments 
-
-	- Forces students to communicate using legal free speech
-
-	- This will aid in becoming more effective communicators after college
-
-	- It also opens the forum for civil discourse---a more meaningful use of time and resources 
-
-	- Denying them anti-discrimination education means they do not care about these individuals and they do not care about campus climate. 
-
-- Where is the line? UCLA has made no effort to define it
-
-	- What is pervasive? What is severe? Who is tallying the totality of the circumstances so that when the line is crossed, it can be stopped before students are denied equal access to education?
-
-	- Ignoring instances of clear discrimination as part of a broader construct set up in the disservice of this group of students
-
-	- It is fueling the flames of divide between student groups
+- It is fueling the flames of divide between student groups
 
 - Not truly committed to content-neutral student management
 
 - Not truly committed to a legal, free speech environment
 
-- Chilling of free speech
 
-	- Due to imbalanced discipline and policing
-
-- Denial of benefits---access to education 
-
-	- due to injury, fear and intimidation
-
-- Why remove the red triangles? Are they an expression of free speech? Then don't remove them. If they are discrimination, why hide it? If the university is a place where truth prevails, then it must exist unmoderated and unprocessed. Why sanitize the movement when legal censorship can be used as a teachable moment?
 
