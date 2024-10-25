@@ -4,6 +4,7 @@ title: "Protest activities-UC and State policy"
 published: true
 author: Alexie Pogue
 date: 2024-10-25 12:12 PM
+updated_date: 2024-10-25 1:45 PM
 ---
 
 ### State policy 
