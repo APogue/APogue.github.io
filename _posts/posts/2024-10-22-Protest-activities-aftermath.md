@@ -155,7 +155,6 @@ date: 2024-10-22 8:10 PM
 
 
 
-
 ### Effects of imbalanced handling (thought notes)
 
 - The conflating of protected and unprotected activity is always in service of the negative handling of pro-Palestinian students

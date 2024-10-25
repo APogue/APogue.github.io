@@ -6,16 +6,9 @@ author: Alexie Pogue
 date: 2024-10-25 12:12 PM
 ---
 
+### State policy 
 
-- UCLA campus safety report
-
-- Drake's policing with safety policy
-
-- CA witholding funds 
-
-- UCLA 4 point plan
-
-- Myers appointed to address campus climate
+- CA witholding funds
 
 - Laws put in place (Scott Wiener)
 
@@ -23,16 +16,19 @@ date: 2024-10-25 12:12 PM
 
 	- SJP take, anti-Muslim education is optional (is it?)
 
-- What is the point of discrimination training if the university doesn't even enforce its own policy on remedial anti-discrimination training
-
-
-### State policy 
-
-
 ### UC policy 
 
+- Drake's policing with safety policy
 
 ### UCLA Policy
+
+- UCLA campus safety report 
+
+- UCLA 4 point plan
+
+	- Myers appointed to address campus climate
+
+- What is the point of any of the above if the university doesn't even enforce its own policy on remedial anti-discrimination training
 
 - The UC non-discrimination policy
 
@@ -50,7 +46,6 @@ date: 2024-10-25 12:12 PM
 
 	- Denying them anti-discrimination education means they do not care about these individuals and they do not care about campus climate. 
 
-
 ### Title VI 
 
 - Where is the line? UCLA has made no effort to define it
@@ -66,7 +61,11 @@ date: 2024-10-25 12:12 PM
 	- due to injury, fear and intimidation
 
 
-### What do the students actually want 
+### What do the students and faculty actually want 
+
+- To feel safe on campus
+
+- Less militarization of campus 
 
 - [Editorial: UCLA administration’s response to protests fails to repair ties with community](https://dailybruin.com/2024/10/20/editorial-ucla-administrations-response-to-protests-fail-to-repair-ties-with-community)
 
