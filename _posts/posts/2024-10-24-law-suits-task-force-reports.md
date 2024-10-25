@@ -6,9 +6,6 @@ author: Alexie Pogue
 date: 2024-10-24 5:08 PM
 ---
 
-
-
-
 ### Recently added articles 10-24
 
 - These pieces fail to extrapolate the larger problem

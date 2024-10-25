@@ -119,7 +119,7 @@ date: 2024-10-22 8:10 PM
 
 	- "In observance of the holiday of Sukkot, Jewish students at UCLA erected a Gaza Solidarity Sukkah. They adorned the Sukkah with handmade decorations, photos of anti-Zionist Jewish ancestors, and banners that read “Stop Arming Israel.” They were joined by other students of conscience, members of Graduate Students for Justice in Palestine and Jewish Voice for Peace, who gathered to join in prayer and protest.
 
-	hen, pro-genocide agitators and UCLA administrators tore their Sukkah down.
+	Then, pro-genocide agitators and UCLA administrators tore their Sukkah down.
 
 	First, agitators surrounded the Sukkah and taunted the students with slurs and threats. Then, police in riot gear then arrived to clear the area, allowing agitators to begin tearing down handmade decorations. Finally, facilities workers sent by UCLA admin completed the destruction of this sacred dwelling.
 
@@ -128,7 +128,7 @@ date: 2024-10-22 8:10 PM
 	As UCLA allowed for the destruction of a sacred Jewish religious structure, the truth was clear: the University does not care about actual experiences of antisemitism—only about how it can use concerns about the “safety” of Jewish students to suppress anyone who dares to speak out for Palestine.
 
 	Over the past months, UCLA has chosen to further militarize the campus and criminalize speech and political activity instead of withdrawing its support for Israeli human rights violations, war crimes, and crimes against humanity.
-	Despite threats from pro-genocide agitators and from UCLA police, students of conscience at UCLA remain committed to calling on their university to divest from the Israeli military which is destroying life in Gaza."
+	Despite threats from pro-genocide agitators and from UCLA police, students of conscience at UCLA remain committed to calling on their university to divest from the Israeli military which is destroying life in Gaza."---Was the encampment deemed "unsafe?" Or was it interfering with operations? What is the Robinson/Edley policy on civil disobedience? What does the ACLU lawsuit say about negotiating with a protest? (There's policy on it). The encampments are "unsafe" because they attract harassers. 
 
 	- [Video of non-affiliate](https://www.instagram.com/p/DBfBe0Gg2SW/?hl=en&img_index=1) saying, "what's up faggot, take off your mask" as he tears down the structure and the [same video posted by SJP](https://www.instagram.com/p/DBawEEKR-EF/?hl=en&img_index=6)
 
