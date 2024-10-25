@@ -22,9 +22,9 @@ date: 2024-10-22 7:50 PM
 
 	- 1st Amendment exceptions narrowly defined
 
-		- True threats
+		- True threats (give an example)
 
-		- Defamation 
+		- Defamation (give an example)
 
 	- 14th Amendment rights (getting too heady, USAC stuff in this doc?)
 
