@@ -7,9 +7,9 @@ date: 2024-10-25 12:12 PM
 updated_date: 2024-10-25 1:45 PM
 ---
 
-Thesis: Policy that works requires *balance*. Anti-discrimination education that serves everyone. Policing that targets the actual problems that are occurring using the appropriate amount of resources. Free speech that acknowledges anti-discrimination laws.
+Thesis1: Policy that works requires *balance*. Anti-discrimination education that serves everyone. Policing that targets the actual problems that are occurring using the appropriate amount of resources. Free speech that acknowledges anti-discrimination laws.
 
-Umbrella responses unfairly targets certain groups, chills free speech, and leaves certain members of the community vulnerable to continual harm. 
+Thesis2: Umbrella responses unfairly target certain groups, chill free speech, and leave certain members of the community vulnerable to continual harm. 
 
 
 

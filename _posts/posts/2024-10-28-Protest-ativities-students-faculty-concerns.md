@@ -6,7 +6,7 @@ author: Alexie Pogue
 date: 2024-10-28 3:18 PM
 ---
 
-Thesis: 
+Thesis: UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
 
 
 ### What do the students and faculty actually want 

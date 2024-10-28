@@ -7,10 +7,15 @@ date: 2024-10-22 8:10 PM
 updated_date: 2024-10-25 1:45 PM
 ---
 
+Thesis1: The biased handling of protesters by the administration continues in the aftermath of the April Riot. 
 
-Thesis: When things got completely out of hand, even after police arrived they did nothing; proving at the very least there was no strategic plan in place.
+Thesis2: When things got completely out of hand, even after police arrived they did nothing; proving at the very least there was no strategic plan in place.
 
-Thesis: Administrative policies meant to safeguard free speech---no interference or oversight, heavy policing---are only serving to chill free speech. UCLA is cannabalizing its own mission. UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
+Thesis3: It was implied that the Office of Campus Safety was put in place out of concern for student safety, and as an "olive branch" to those who thought UCLA put students in danger during the April protest.
+
+Thesis4: The Office of Campus Safety has served to "maintain order." Without any acknowledgment or admission that non-affiliates acted as chaos agents in past protests they attended, UCLA has pointed the gun at students, patting themselves on the back when protest activities "go off without a hitch."
+
+Thesis5: Administrative actions meant to safeguard free speech---no interference or oversight, heavy policing targeting students---looks like their strategic plan. This plan is inconsistent with existing policy and data, and only serves to chill free speech. UCLA is cannabalizing its own mission. 
 
 
 

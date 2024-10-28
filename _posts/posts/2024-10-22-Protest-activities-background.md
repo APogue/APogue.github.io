@@ -6,7 +6,17 @@ author: Alexie Pogue
 date: 2024-10-22 7:50 PM
 ---
 
-Thesis: what is UC and UCLA philosophy? (insert the quote about even the smallest thing mattering from the 2024 toolkit)
+Thesis: What is UC and UCLA philosophy? (insert the quote about even the smallest thing mattering from the 2024 toolkit)
+
+Thesis1: The philosophy of the school is handling that is content-neutral
+
+Thesis2: The philosophy of the schools is the support of academic freedom
+
+Thesis3: The philosophy of the school is freedom of speech
+
+Thesis4: Free speech is not an unconditional constitutional right
+
+Thesis4: It would appear as though school involvement and oversight are in circumstances where protest activities interfere with UCLA's public image. Rather than legal conditions, it would appear as though these are the conditions under which UCLA gets involved. 
 
 ### Background and context 
 
@@ -74,7 +84,7 @@ Thesis: what is UC and UCLA philosophy? (insert the quote about even the smalles
 
 		- Impactful discriminatory art at a larger-scale protest
 
-			- Made it into social media posts, Op-eds, news articles 
+			- Made it into social media posts, Op-eds, news articles (which news articles?)
 
 	- Instances of discrimination quietly removed
 

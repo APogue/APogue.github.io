@@ -6,9 +6,12 @@ author: Alexie Pogue
 date: 2024-10-22 8:00 PM
 ---
 
-Thesis: Safety is accountability
+Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
 
-Thesis: An incident in October that was dealt with in a manner not consistent with university philosophy shows that policy is not content-neutral, but driven by bias. As a singular major incident, it may be difficult to label it as deliberate---perhaps only incidents garnering significant media attention were condemned. 
+Thesis2: This incident does show, however, that when students seek to further the academic mission of the university, the university will show them no protection. If these students were African American and their assailants were White, the gravity of the situation might be clearer. 
+
+Thesis3: As a singular major incident occurring after Oct 7th, no pattern indicating bias has appeared yet---as of this time, incidents that were condemned also garnered significant media attention (a question in and of itself). 
+
 ### Unprotected free speech 
 
 - [Oct 11th Kaplan Incident](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)

@@ -8,7 +8,9 @@ date: 2024-10-22 8:05 PM
 
 Thesis: Safety through accountability
 
-Thesis: It becomes more clear that a pattern of bias existed when during the major protest the administration began releasing statements acknowledging problems, but deliberately avoided condemnation or promises to take action against alleged perpetrators of harassment and violence. When things got completely out of hand, even after police arrived they did nothing. When all was said and done, Thomas took the brunt of the blame. 
+Thesis1: It becomes more clear that a pattern of bias existed during the major protest (which was garnering media attention) when the administration began releasing statements acknowledging problems, but deliberately avoided condemnation or promises to take action against alleged perpetrators of harassment and violence. 
+
+Thesis2: When things got completely out of hand, even after police arrived they did nothing. When all was said and done, Thomas took the brunt of the blame. 
 
 
 ### Administrative messaging 
