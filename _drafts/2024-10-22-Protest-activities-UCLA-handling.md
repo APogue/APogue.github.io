@@ -8,6 +8,7 @@ date: 2024-10-22 8:05 PM
 
 Thesis: Safety through accountability
 
+Thesis: It becomes more clear that a pattern of bias existed when during the major protest the administration began releasing statements acknowledging problems, but deliberately avoided condemnation or promises to take action against perpetrators of harassment and violence. When things got completely out of hand, even after police arrived they did nothing. Finally, when all was said and done, Thomas took the brunt of the blame. 
 
 
 ### Administrative messaging 
@@ -18,11 +19,13 @@ Thesis: Safety through accountability
 
 - [Mary Osako Sunday 4/28](https://newsroom.ucla.edu/ucla-statement-on-demonstrations-april-28)- 
 
-	“UCLA has a long history of peaceful protest, and we are heartbroken to report that today, some physical altercations broke out among demonstrators on Royce Quad.
+	- 11:22 a.m.---"“This morning, a group of demonstrators breached a barrier that the university had established separating two groups of protestors on our campus, resulting in physical altercations. UCLA has a long history of being a place of peaceful protest, and we are heartbroken about the violence that broke out.”"
 
-	“We have since instituted additional security measures and increased the numbers of our safety team members on site."
+	- 4:19 p.m.---“UCLA has a long history of peaceful protest, and we are heartbroken to report that today, some physical altercations broke out among demonstrators on Royce Quad.
 
-	Tuesday 4/30–“UC Divest Coalition at UCLA said in a written press release that it believes violence on campus was caused primarily by counter-protesters supporting Israel, some of whom the protesters allege threatened them with weapons. They added that they believe the administration has failed to protect students on campus.”
+		“We have since instituted additional security measures and increased the numbers of our safety team members on site."
+
+		“As an institution of higher education, we stand firmly for the idea that even when we disagree, we must still engage respectfully and recognize one another’s humanity. We are dismayed that certain individuals instead chose to jeopardize the physical safety of the community.”
 
 - [Mary Osako Tuesday 4/30 11:48 a.m.](https://newsroom.ucla.edu/ucla-statement-on-demonstrations-april-30)
 

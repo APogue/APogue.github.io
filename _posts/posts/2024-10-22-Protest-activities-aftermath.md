@@ -7,6 +7,13 @@ date: 2024-10-22 8:10 PM
 updated_date: 2024-10-25 1:45 PM
 ---
 
+
+Thesis: When things got completely out of hand, even after police arrived they did nothing; proving at the very least there was no strategic plan in place.
+
+Thesis: Administrative policies meant to safeguard free speech---no interference or oversight, heavy policing---are only serving to chill free speech. UCLA is cannabalizing its own mission. UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
+
+
+
 ### Robinson/Edley report
 
 - Brought up in the 2024 UC toolkit

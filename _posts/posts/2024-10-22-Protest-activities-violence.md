@@ -6,12 +6,9 @@ author: Alexie Pogue
 date: 2024-10-22 8:00 PM
 ---
 
-Thesis: UCLA wants free speech at any cost i.e. safety, equality, and freedom of speech. UCLA is cannabalizing its own mission. UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
-
 Thesis: Safety is accountability
 
-
-
+Thesis: An incident in October that was dealt with in a manner not consistent with university philosophy shows that policy is not content-neutral, but driven by bias. As a singular major incident, it may be difficult to label it as deliberate---perhaps only incidents garnering significant media attention were condemned. 
 ### Unprotected free speech 
 
 - [Oct 11th Kaplan Incident](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)

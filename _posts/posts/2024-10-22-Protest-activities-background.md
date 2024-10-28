@@ -6,6 +6,8 @@ author: Alexie Pogue
 date: 2024-10-22 7:50 PM
 ---
 
+Thesis: what is UC and UCLA philosophy? (insert the quote about even the smallest thing mattering from the 2024 toolkit)
+
 ### Background and context 
 
 - Free speech and academic freedom 
@@ -61,6 +63,8 @@ date: 2024-10-22 7:50 PM
 	- February rally 
 
 		- Heckling 
+
+	- Sunday before April 30th (Myers article)
 
 - Free speech gray area
 
