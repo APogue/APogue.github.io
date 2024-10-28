@@ -15,7 +15,7 @@ Thesis3: It was implied that the Office of Campus Safety was put in place out of
 
 Thesis4: The Office of Campus Safety has served to "maintain order." Without any acknowledgment or admission that non-affiliates acted as chaos agents in past protests they attended, UCLA has pointed the gun at students, patting themselves on the back when protest activities "go off without a hitch."
 
-Thesis5: Administrative actions meant to safeguard free speech---no interference or oversight, heavy policing targeting students---looks like their strategic plan. This plan is inconsistent with existing policy and data, and only serves to chill free speech. UCLA is cannabalizing its own mission. 
+Thesis5: Administrative actions meant to safeguard free speech---no interference or oversight, heavy policing targeting students---looks like their strategic plan. This plan is inconsistent with existing policy and data, and only serves to chill free speech---UCLA is cannabalizing its own mission. 
 
 
 
