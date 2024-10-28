@@ -7,15 +7,9 @@ date: 2024-10-25 12:12 PM
 updated_date: 2024-10-25 1:45 PM
 ---
 
-### State policy 
+Thesis: Policy that works requires *balance*. Anti-discrimination education that serves everyone. Policing that targets the actual problems that are occurring using the appropriate amount of resources. Free speech that acknowledges anti-discrimination laws. Umbrella responses serve to unfairly target certain groups, chill free speech, and leave certain members of the community continually unsafe. 
 
-- CA witholding funds
 
-- Laws put in place (Scott Wiener)
-
-	- Is it balanced
-
-	- SJP take, anti-Muslim education is optional (is it?)
 
 ### UC policy 
 
@@ -47,6 +41,16 @@ updated_date: 2024-10-25 1:45 PM
 
 	- Denying them anti-discrimination education means they do not care about these individuals and they do not care about campus climate. 
 
+### State policy 
+
+- CA witholding funds
+
+- Laws put in place (Scott Wiener)
+
+	- Is it balanced
+
+	- SJP take, anti-Muslim education is optional (is it?)
+
 ### Title VI 
 
 - Where is the line? UCLA has made no effort to define it
@@ -62,14 +66,3 @@ updated_date: 2024-10-25 1:45 PM
 	- due to injury, fear and intimidation
 
 
-### What do the students and faculty actually want 
-
-- To feel safe on campus
-
-- Less militarization of campus 
-
-- [Editorial: UCLA administration’s response to protests fails to repair ties with community](https://dailybruin.com/2024/10/20/editorial-ucla-administrations-response-to-protests-fail-to-repair-ties-with-community)
-
-	- "But if any kind of reconciliation is at all possible, the administration must lay a new foundation for the future. In our view, the process has to begin with this first step.
-
-	Apologize."
