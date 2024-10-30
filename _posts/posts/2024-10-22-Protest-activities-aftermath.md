@@ -7,9 +7,9 @@ date: 2024-10-22 8:10 PM
 updated_date: 2024-10-25 1:45 PM
 ---
 
-Thesis1: The biased handling of protesters by the administration continues in the aftermath of the April Riot. 
+Thesis1: When things got completely out of hand, even after police arrived they did nothing; proving at the very least there was no strategic plan in place.
 
-Thesis2: When things got completely out of hand, even after police arrived they did nothing; proving at the very least there was no strategic plan in place.
+Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
 
 Thesis3: It was implied that the Office of Campus Safety was put in place out of concern for student safety, and as an "olive branch" to those who thought UCLA put students in danger during the April protest.
 
@@ -39,6 +39,8 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 - What the Regents Chair said about "safety"
 
+- Regents resolution on distancing from polemic messaging (did that get approved?)
+
 - Heavy policing is a UC standard 
 
 	- UC Divest Protest to Regents meeting
@@ -50,6 +52,12 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 - video footage 
 
 - FJP take 
+
+- [SJP take](https://www.instagram.com/p/C8GD2LXSLM9/?hl=en&img_index=3), is interesting, because in the police press release they didn't explicitly say they gave dispersal orders near the law school. 
+
+- [UC policy on student rights](https://policy.ucop.edu/doc/2710537/PACAOS-170)
+
+	- "171.11 To the extent appropriate to the circumstances, to be free from University discipline for actions committed involuntarily or under duress."
 
 - Braziel statement 
 
@@ -166,6 +174,23 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 	- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
 
+### True disruptions to campus operations 
+
+- Encampment blockading 
+
+	- Reddit---people can't get to class, their jobs, disabled people are denied access to campus
+
+- The marching through the halls with chants of "From the River to the Sea" (TikTok)
+
+	- [Pro-Palestinian protesters took over UCLA's Dodd Hall](https://www.tiktok.com/@journalistjeremy/video/7372692453956062507)
+
+- The screen that UCLA permitted to stay without permit 
+
+	- Reddit quote
+
+	- [Hillel comments](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view), "There is a screen placed by community members at UCLA playing the horrors of October 7th on repeat--and we
+	can’t learn over the constant noise of Jews being slaughtered. The wider community is prioritizing their own idea of
+	activism over what Jewish students want. We want peace and a diplomatic resolution."
 
 
 ### Effects of imbalanced handling (thought notes)

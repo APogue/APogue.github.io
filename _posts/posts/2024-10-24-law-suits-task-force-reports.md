@@ -32,3 +32,8 @@ date: 2024-10-24 5:08 PM
 - [Lawsuit 2](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
 
 	- [Announcement](https://www.instagram.com/p/DBb7iDJy7PT/?hl=en)
+
+
+### Congressional Research
+
+- [Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress](https://crsreports.congress.gov/product/pdf/R/R47828)

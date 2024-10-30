@@ -17,6 +17,12 @@ Thesis2: Umbrella responses unfairly target certain groups, chill free speech, a
 
 - Drake's policing with safety policy
 
+- [Passed measure J2](https://dailybruin.com/2024/07/17/uc-regents-votes-to-pass-item-j2-following-months-of-revision-and-deferred-voting)
+
+- [UCSA says that they can add a disclaimer](https://www.instagram.com/p/C90ZaFDSty9/?img_index=1), not sure that is the case
+
+- [SJP take](https://www.instagram.com/p/C-BXNiNiNKt/?hl=en&img_index=1)
+
 ### UCLA Policy
 
 - UCLA campus safety report 
@@ -51,7 +57,7 @@ Thesis2: Umbrella responses unfairly target certain groups, chill free speech, a
 
 	- Is it balanced
 
-	- SJP take, anti-Muslim education is optional (is it?)
+	- [SJP take, anti-Muslim education is optional (is it?)](https://www.instagram.com/p/DAwUcHky-MM/?hl=en&img_index=3)
 
 ### Title VI 
 
