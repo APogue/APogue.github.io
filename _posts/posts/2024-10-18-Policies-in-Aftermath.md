@@ -11,6 +11,8 @@ updated_date: 2024-10-21 5:04 PM
 
 - [Robinson/Edley Report](https://campusprotestreport.universityofcalifornia.edu/documents/implementation-report.pdf)
 
+- [Robinson-Edley Report](https://campusprotestreport.universityofcalifornia.edu/), implementation report above is the promise to use the policy
+
 	- A lot of policy that seems very effective. Without dedicated accountability policy, schools will take the "path of least resistance" to achieve an end, bypassing all preordained policy for force, oppression, and the chilling of free speech. 
 
 	- Unlike the other schools, UCLA gave the impression they had all necessary systems in place. There was mention of training and an "Incident Command System" they were pursuing at the time. I can't find any "Incident Command System" associated with UCLA. 

@@ -4,16 +4,14 @@ title: "Protest activities-the tale of the phantom militia"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
+updated_date: 2024-10-30 5:57 PM
 ---
-
-Thesis4: It would appear as though, administratively, oversight and involvement are in circumstances where protest activities interfere with UCLA's public image. Rather than legal conditions, it would appear as though these are the conditions under which UCLA gets involved. 
 
 Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
 
 Thesis2: This incident does show, however, that when students seek to further the academic mission of the university, the university will show them no protection. If these students were African American and their assailants were White, the gravity of the situation might be clearer. 
 
-Thesis3: As a singular major incident occurring after Oct 7th, no pattern indicating bias has appeared yet---as of this time, incidents that were condemned also garnered significant media attention (a question in and of itself). 
-
+Thesis3: As a singular major incident occurring after Oct 7th, no pattern indicating bias has appeared yet
 
 ### Counter-protesters---the tale of the phantom militia 
 
@@ -35,6 +33,19 @@ Thesis3: As a singular major incident occurring after Oct 7th, no pattern indica
 
 		- "This week, the growing war has prompted lectures, rallies, protests, counter-protests and many intense debates on our campus. This will surely continue in the days to come, and we will stand firmly in support of our community members’ First Amendment rights to free expression. I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911."
 
+			- Harassment based on a "perceived Protected Category?" Or is it harassment based on political views?
+
+			- This statement is an admission of knowledge. This statement is requiring "actual notice." Which is a higher standard than currently exists (DeVos messed with this standard). This statement looks like willful indifference. 
+
+			- “To establish a violation of Title VI under the hostile environment theory, OCR must find that: (1) a hostile environment based on race, color, or national origin existed; (2) the recipient had actual or constructive notice of the hostile environment; and (3) the recipient failed to take prompt and effective action to end the harassment, eliminate any hostile environment and its effects, and prevent the harassment from recurring.” (from UMich Resolution Letter doc)
+
+			- “In other words, if the recipient could have found out about the harassment had it made a proper inquiry, and if the recipient should have made such an inquiry, knowledge of the harassment will be imputed to the recipient.” (from UMich Resolution Letter doc)
+
+			- "“OCR interprets Title VI to mean that the following type of harassment creates a hostile environment: unwelcome conduct that, based on the totality of the circumstances, is subjectively and objectively offensive and is so severe or pervasive that it limits or denies a person’s ability to participate in or benefit from a recipient’s education program or activity.”"(from UMich Resolution Letter doc) 
+
+				- This incident clearly meets the severity standard. 
+
+
 	- Backlash from some students
 
 		- "“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than Palestinian students.”" [Nov 19th article](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
@@ -45,8 +56,12 @@ Thesis3: As a singular major incident occurring after Oct 7th, no pattern indica
 
 		- Can be considered a [political](https://www.aljazeera.com/opinions/2023/10/8/there-is-nothing-surprising-about-hamass-operation) statement equivalent to the [Israeli position that Palestinian civilians deaths are necessary](https://www.washingtonpost.com/world/2024/06/12/hamas-death-toll-gaza-sinwar-messages/) to eradicate Hamas ([source 2](https://www.washingtonpost.com/world/2024/05/21/gaza-hospitals-attacks-bombed-israel-war/))
 
+		- By "[constellation of circumstances](https://www.govinfo.gov/content/pkg/FR-2000-11-02/pdf/00-27910.pdf)" 
 
-	- [Example 2, Oct 30th](https://www.reddit.com/r/ucla/comments/17k6sx8/islamophobes_on_campus/)
+			"Under Davis, determining whether harassment is actionable ‘‘depends on a constellation of surrounding circumstances, expectations, and relationships’’"
+
+
+
 
 
 
@@ -100,6 +115,13 @@ Thesis3: As a singular major incident occurring after Oct 7th, no pattern indica
 
 
 		
+- [Off campus protests](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)
+
+	- Assault, intimidation
+
+	- Police did not intervene or told them to leave
+
+- "Green fireworks shoot up in front of Royce Hall as counter-protesters look on. Fireworks were released from outside the encampment toward the inside of it. [(Nicolas Greamo/Daily Bruin senior staff)](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)"
 
 
 

@@ -59,6 +59,8 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 	- "171.11 To the extent appropriate to the circumstances, to be free from University discipline for actions committed involuntarily or under duress."
 
+	- Is in direct contention with---[UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md)
+
 - Braziel statement 
 
 - UCPD statement 

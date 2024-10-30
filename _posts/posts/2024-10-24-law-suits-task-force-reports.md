@@ -4,6 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
+updated_date: 2024-10-30 4:09 PM
 ---
 
 ### Recently added articles 10-24
@@ -31,7 +32,23 @@ date: 2024-10-24 5:08 PM
 
 - [Lawsuit 2](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
 
+	- [Actual filing](https://www.aclusocal.org/sites/default/files/blair_v_regents_complaint.pdf)
+
 	- [Announcement](https://www.instagram.com/p/DBb7iDJy7PT/?hl=en)
+
+	- "The ACLU’s argument here likely hinges on distinguishing between policy-based disruptions that affect university operations and those that impact free speech rights. They might argue that while the university can regulate based on time, place, and manner to address genuine operational disruptions, declaring an unlawful assembly solely based on “suspicion” of a policy violation—without imminent or actual disruption—risks suppressing lawful protest.
+
+		In essence, the ACLU would be pushing for stricter standards (probable cause and the presence of imminent violence or disruption) to prevent the university from prematurely declaring assemblies “unlawful,” emphasizing that not all policy violations justify breaking up a protest if it doesn't clearly interfere with essential university functions."
+
+- [Legal precedent explained](https://freespeech.stanford.edu/policies-and-guidance/core-policies/protected-speech-discrimination-and-harassment#:~:text=Otherwise%20known%20as%20the%20%E2%80%9CFighting,Mason%20Univ.%2C%201991)
+
+	- Like Title IX, legal precedent has significantly narrower protections 
+
+		- "In higher education, the harassing behavior (including speech) must be of a kind that is “so severe, pervasive, and objectively offensive, and that so undermines and detracts from the victims’ educational experience, that the victim-students are effectively denied equal access to an institutions’ resources and opportunities.” (Davis v. Monroe County Board of Education, 1999)."
+
+	- UCLA may not be liable legally, but under Title VI it has an obligation to respond
+
+		- "For almost 3 decades, Title IX has effectively been broader than the Davis standard “because the Department also believes a broader standard is appropriate to enforce Title IX’s prohibition on sex discrimination in the administrative context, in which educational access is the goal and private damages are not at issue.”" (from updates to Title IX doc)
 
 
 ### Congressional Research
@@ -42,7 +59,11 @@ date: 2024-10-24 5:08 PM
 
 - [Atrocities of Oct 7th](https://www.factcheck.org/2023/10/what-we-know-about-three-widespread-israel-hamas-war-claims/)
 
-- [Bisan Owda](https://www.thewrap.com/bisan-owda-emmy-israel-gaza-idf-executions-claim/)
+- [Bisan Owda](https://www.thewrap.com/bisan-owda-emmy-israel-gaza-idf-executions-claim/), unsubstantiated 
+
+- [Propaganda on the number of Palestinians killed](https://www.instagram.com/p/DA2Um1qR26B/?hl=en&img_index=2)
+
+	- Versus Congressional Research Service, updated Oct 4th, "**Conflict, humanitarian situation, and international action.** In the conflict to date, more than 41,000 Palestinians in Gaza have been killed, according to the Hamas-controlled health ministry there. Additionally, about 90% of Gaza’s some 2.1 million residents have been displaced, with most facing unsanitary, overcrowded conditions alongside acute shortages of food, water, medical care, and other essential supplies and services. Obstacles to transporting aid through crossings and Israeli checkpoints and then safely delivering it have contributed to high levels of food insecurity. According to the Famine Early Warning Systems Network (FEWS NET) as of August 2024, humanitarian aid was probably preventing famine, but “hunger and malnutrition remain dire, and hunger-related mortality is likely still occurring.”"
 
 - [IDF X on terrorist arrests](https://x.com/AvichayAdraee/status/1847644148355993827)
 
@@ -64,7 +85,7 @@ date: 2024-10-24 5:08 PM
 
 - [UCLABIPAC](http://127.0.0.1:4000/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
 
-	- "There is so much propaganda that those are quote-uquote Israelis, those are settlers."
+	- "There is so much propaganda that those are quote-unquote Israelis, those are settlers."
 
 	- Denial of benefits
 
