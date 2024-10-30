@@ -37,3 +37,13 @@ date: 2024-10-24 5:08 PM
 ### Congressional Research
 
 - [Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress](https://crsreports.congress.gov/product/pdf/R/R47828)
+
+### Fact checks
+
+- [Atrocities of Oct 7th](https://www.factcheck.org/2023/10/what-we-know-about-three-widespread-israel-hamas-war-claims/)
+
+- [Bisan Owda](https://www.thewrap.com/bisan-owda-emmy-israel-gaza-idf-executions-claim/)
+
+- [IDF X on terrorist arrests](https://x.com/AvichayAdraee/status/1847644148355993827)
+
+- [Facebook and Insta restrict red triangle usage](https://www.instagram.com/muslim/p/DA55NaXOU0x/?img_index=1)
