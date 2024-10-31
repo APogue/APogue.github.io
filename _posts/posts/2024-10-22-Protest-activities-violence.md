@@ -9,42 +9,47 @@ updated_date: 2024-10-30 5:57 PM
 
 Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
 
-Thesis2: This incident does show, however, that when students seek to further the academic mission of the university, the university will show them no protection. If these students were African American and their assailants were White, the gravity of the situation might be clearer. 
+Thesis2: This incident does show, however, that when students seek to further the academic mission of the university, the university will show them no protection. 
 
-Thesis3: As a singular major incident occurring after Oct 7th, no pattern indicating bias has appeared yet
+Thesis3: There have been many instances of harassment of pro-Palestinian students on campus while the administration turned a blind eye
 
 ### Counter-protesters---the tale of the phantom militia 
 
 - The administration will not acknowledge the non-affiliate community in its messaging 
 
-- Includes protections for instances of shocking messaging or hate speech 
+- Block [statement Oct 9th](https://chancellor.ucla.edu/messages/reflections-at-the-close-of-a-difficult-week/)
 
-	- Block [statement Oct 9th](https://chancellor.ucla.edu/messages/reflections-at-the-close-of-a-difficult-week/)
+- Oct 11, [Kaplan gathering](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) on "The Crisis in Palestine"
 
-	- Oct 11, [Kaplan gathering](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) on "The Crisis in Palestine"
+- Oct 12, [video recording posted](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1)
 
-		- Oct 12, [video recording posted](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1)
+	- The students were furthering "the mission of the university" 
 
-	- Block [statement Oct 13th](https://chancellor.ucla.edu/messages/reflections-at-the-close-of-a-difficult-week/)
+	- [Hillel condemned it](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) 
 
-		- "Only six days ago, a heinous assault was perpetrated upon Israeli civilians by the terror organization Hamas, a despicable attack that included the killing of children and the elderly as well as the taking of innocent hostages. Earlier this week, I joined UC leadership in condemning this attack, and as new details have emerged, I can only denounce it further: This was a grievous act of malice and hate. It was, I am pained to say, the largest one-day killing of Jews since the end of the Holocaust.
+	- Non-affiliates clearly broke the law, UCLA conduct policy and UCLA non-affiliate conduct policy, should have been
 
-			Since then, Israel has responded to the assault, leading to a significant loss of Palestinian lives and the troubling displacement of large numbers of innocent individuals."
+		- Arrested for intimidation, property damage, attempted assault characterized by bias 
 
-		- "This week, the growing war has prompted lectures, rallies, protests, counter-protests and many intense debates on our campus. This will surely continue in the days to come, and we will stand firmly in support of our community members’ First Amendment rights to free expression. I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911."
+		- Cited for harassment and disruption of university operations
 
-			- Harassment based on a "perceived Protected Category?" 
+		- No-contact order 
 
-			- This statement is an admission of knowledge. This statement is requiring "actual notice." Which is a higher standard than currently exists (DeVos messed with this standard). This statement looks like willful indifference. 
+		- They were permitted to leave the premises 
 
-			- “To establish a violation of Title VI under the hostile environment theory, OCR must find that: (1) a hostile environment based on race, color, or national origin existed; (2) the recipient had actual or constructive notice of the hostile environment; and (3) the recipient failed to take prompt and effective action to end the harassment, eliminate any hostile environment and its effects, and prevent the harassment from recurring.” (from UMich Resolution Letter doc)
+- Block [statement Oct 13th](https://chancellor.ucla.edu/messages/reflections-at-the-close-of-a-difficult-week/)
 
-			- “In other words, if the recipient could have found out about the harassment had it made a proper inquiry, and if the recipient should have made such an inquiry, knowledge of the harassment will be imputed to the recipient.” (from UMich Resolution Letter doc)
+	- "Only six days ago, a heinous assault was perpetrated upon Israeli civilians by the terror organization Hamas, a despicable attack that included the killing of children and the elderly as well as the taking of innocent hostages. Earlier this week, I joined UC leadership in condemning this attack, and as new details have emerged, I can only denounce it further: This was a grievous act of malice and hate. It was, I am pained to say, the largest one-day killing of Jews since the end of the Holocaust.
 
-			- "“OCR interprets Title VI to mean that the following type of harassment creates a hostile environment: unwelcome conduct that, based on the totality of the circumstances, is subjectively and objectively offensive and is so severe or pervasive that it limits or denies a person’s ability to participate in or benefit from a recipient’s education program or activity.”"(from UMich Resolution Letter doc) 
+		Since then, Israel has responded to the assault, leading to a significant loss of Palestinian lives and the troubling displacement of large numbers of innocent individuals."
 
-				- This incident clearly meets the severity standard. 
+	- "This week, the growing war has prompted lectures, rallies, protests, counter-protests and many intense debates on our campus. This will surely continue in the days to come, and we will stand firmly in support of our community members’ First Amendment rights to free expression. I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911."
 
+		- Harassment based on a "perceived Protected Category?" 
+
+		- This statement is an admission of knowledge. This statement is requiring "actual notice," a higher standard than currently exists (DeVos messed with this standard in the Title IX rollback). This statement looks like willful indifference. 
+
+		- “To establish a violation of Title VI under the hostile environment theory, OCR must find that: (1) a hostile environment based on race, color, or national origin existed; (2) the recipient had actual or constructive notice of the hostile environment; and (3) the recipient failed to take prompt and effective action to end the harassment, eliminate any hostile environment and its effects, and prevent the harassment from recurring.” (from UMich Resolution Letter doc)
 
 	- Backlash from some students
 
@@ -60,46 +65,34 @@ Thesis3: As a singular major incident occurring after Oct 7th, no pattern indica
 
 			"Under Davis, determining whether harassment is actionable ‘‘depends on a constellation of surrounding circumstances, expectations, and relationships’’"
 
+- [Off campus protests](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)
+
+	- Assault, intimidation
+
+	- Police did not intervene or told them to leave
+
+- Condemnation (or lack thereof)
+
+	- By staff at an event
+
+- [Nov 7th incident](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
+
+	- Pro-Israel rallies on campus attracted non-affiliates
+
+	- "Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams---including UCPD. More than ever, it is clear that there is no safety for...students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years. 
+
+		We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence."
+
+- The Nov 8th incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th, although the previous incident was not explicitly condemned. 
+
+	- "Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
+
+		 " At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
 
 
 
 
 
-
-
-
-
-
-
-### Unprotected free speech 
-
-- [Oct 11th Kaplan Incident](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)
-
-	- The students were furthering "the mission of the university" because they were on the frontier of theoretical knowledge 
-
-	- [Hillel condemned it](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) 
-
-	- Non-affiliates clearly broke the law, UCLA conduct policy and UCLA non-affiliate conduct policy, should have been
-
-		- Arrested for intimidation, property damage, attempted assault characterized by bias 
-
-		- Cited for harassment and disruption of university operations
-
-		- No-contact order 
-
-	- They were permitted to leave the premises 
-
-	- Condemnation (or lack thereof)
-
-		- By staff at an event
-
-- Nov 7th and 8th incidents
-
-	- [Nov 7th incident](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
-
-		- "Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams---including UCPD. More than ever, it is clear that there is no safety for...students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years. 
-
-			We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence."
 
 	
 
@@ -115,11 +108,7 @@ Thesis3: As a singular major incident occurring after Oct 7th, no pattern indica
 
 
 		
-- [Off campus protests](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)
 
-	- Assault, intimidation
-
-	- Police did not intervene or told them to leave
 
 - "Green fireworks shoot up in front of Royce Hall as counter-protesters look on. Fireworks were released from outside the encampment toward the inside of it. [(Nicolas Greamo/Daily Bruin senior staff)](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)"
 
@@ -142,27 +131,9 @@ Thesis3: As a singular major incident occurring after Oct 7th, no pattern indica
 
 	- reddit, daily bruin, tiktok
 
-- Students started blockading pathways and excluding students
-
-	- insta, tiktok 
-
-- Then UCLA stepped in (this is the tie in with "UCLA handling doc")
-
-	- No condemnation of hate speech 
-
-	- Allows the sides to become embroiled in conflict 
 
 
 
-### Quotes 
-
-- “Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by 	the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and 			Chancellor Gene Block with horns on his head – is antisemitic. ‘I feel very uncomfortable,’ he said. ‘I might skip my 		classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on 			campus.’” [Student onlookers express differing opinions on pro-Palestine encampment](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
-
-
-- [Unmasking counterprotesters who attacked UCLA’s pro-Palestine encampment](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)
-
-	- "‘You guys are about to get f—ed up’
-	In one of the more dramatic videos of the night, a protester wearing the colors of the Palestinian flag underneath an LA Kings jersey was knocked to the ground and beaten by multiple counterprotesters as he guarded the encampment."
 
 
 
