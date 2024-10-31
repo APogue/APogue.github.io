@@ -151,3 +151,9 @@ Thesis3: USAC was present at a protest that was 1. discriminating and 2. excludi
 	- No condemnation of hate speech 
 
 	- Allows the sides to become embroiled in conflict 
+
+- [UCLA faces scrutiny for safety issues at protests for Israel, Palestine](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine)
+
+	- Additionally, at recent protests in support of Palestine, protesters have chanted phrases such as “From the river to the sea, Palestine will be free,” and “Resistance is justified when people are occupied.” Some members of the campus community said they were concerned that the chants were antisemitic.
+
+	- However, Vazquez said in the statement that the university does not restrict or control the views shared by student groups.

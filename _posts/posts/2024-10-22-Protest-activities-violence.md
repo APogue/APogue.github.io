@@ -79,6 +79,8 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- Pro-Israel rallies on campus attracted non-affiliates
 
+	- "After a protest held in support of Israel on Nov. 7, the Undergraduate Students Association Council’s Cultural Affairs Commission – which has previously expressed support for Palestine and condemned the United States’ and UC’s financial and military support of Israel – alleged in an Instagram post that protesters harassed, threatened and assaulted students who showed support for Palestine on the same day as the rally."
+
 	- "Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams---including UCPD. More than ever, it is clear that there is no safety for...students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years. 
 
 		We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence."
@@ -90,9 +92,15 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 		 " At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
 
 
+- [UCLA faces scrutiny for safety issues at protests for Israel, Palestine](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine)
 
+	- "Mohammad said he thought members of university security who were present at a teach-in about Palestine failed to protect the safety of students. In an Instagram post, SJP at UCLA alleged that  individuals at the event shouted death threats at students attending the teach-in and threw their laptops in the trash."
 
+	-  UCLA spokesperson Ricardo Vazquez: 
 
+	- "He added that the university is increasing safety precautions, such as through additional patrols by UCPD, to protect students on campus, following recent concerns of antisemitism and Islamophobia."
+
+	- "“At on-campus events, UCPD and Student Affairs Monitors — who are trained on de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions while protecting participants’ right to speak,” he said in the statement."
 
 	
 
