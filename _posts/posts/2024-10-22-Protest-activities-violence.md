@@ -53,7 +53,9 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- Backlash from some students
 
-		- "“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than Palestinian students.”" [Nov 19th article](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
+		- "“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. 
+
+			They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than Palestinian students.”" [Nov 19th article](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus) 
 
 		- Also see Muslim Issues and Islamophobia in r/UCLA 1st article 
 
@@ -71,15 +73,17 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- Police did not intervene or told them to leave
 
-- Condemnation (or lack thereof)
+- Oct 27th, [Hundreds of UCLA students participate in march, walkout for Palestine](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
 
-	- By staff at an event
+	- "Several speakers brought attention to recent allegations of attacks against pro-Palestinian students on campus.
+
+		In the statement, the UCLA spokesperson said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
+
+		“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect,” they said in the statement."
 
 - [Nov 7th incident](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
 
-	- Pro-Israel rallies on campus attracted non-affiliates
-
-	- "After a protest held in support of Israel on Nov. 7, the Undergraduate Students Association Council’s Cultural Affairs Commission – which has previously expressed support for Palestine and condemned the United States’ and UC’s financial and military support of Israel – alleged in an Instagram post that protesters harassed, threatened and assaulted students who showed support for Palestine on the same day as the rally."
+	- "After a protest held in support of Israel on Nov. 7, the Undergraduate Students Association Council’s Cultural Affairs Commission – which has previously expressed support for Palestine and condemned the United States’ and UC’s financial and military support of Israel – alleged in an Instagram post that protesters harassed, threatened and assaulted students who showed support for Palestine on the same day as the rally." (DB: UCLA faces scrutiny...link below)
 
 	- "Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams---including UCPD. More than ever, it is clear that there is no safety for...students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years. 
 
@@ -89,36 +93,44 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- "Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
 
-		 " At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
+		 "At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
 
 
-- [UCLA faces scrutiny for safety issues at protests for Israel, Palestine](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine)
+- [Students voice worries over Islamophobia on UCLA campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus), Nov. 19, 2023 
+
+	- "“‘I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,’ said Mohammad, a student who was granted partial anonymity for safety reasons. ‘I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.’”"
+
+		"Mohammad said he feels the university should be doing more to protect students and hold perpetrators of harassment accountable. He added that he feels the university has taken alleged incidents of Islamophobia less seriously than ones of antisemitism.
+
+		“We’re (UCLA is) allowing actual harassment, actual violence, actual verbal and physical assault,” he said. “The double standard is so hard to ignore.”"
+
+	- "“A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”"
+
+		"“When I do go to protest, and I wear my keffiyeh or anything Palestinian, I’m definitely unsafe because seeing firsthand, people get very aggressive and violent when you’re not even trying to interact with them in the slightest,” they said."
+
+	- "Other students also said they had heard of those wearing keffiyehs being harassed. Afnan Khawaja, a fourth-year computer science student and a member of the Muslim Students Association, said he has heard of many instances of harassment, such as one instance when a girl wearing a keffiyeh was pepper-sprayed in Westwood.
+
+		He said he was called a terrorist when he attempted to tell people to stop harassing girls protesting in support of Palestine."
+
+
+- [UCLA faces scrutiny for safety issues at protests for Israel, Palestine](https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine), Dec 5th, 2023
 
 	- "Mohammad said he thought members of university security who were present at a teach-in about Palestine failed to protect the safety of students. In an Instagram post, SJP at UCLA alleged that  individuals at the event shouted death threats at students attending the teach-in and threw their laptops in the trash."
 
 	-  UCLA spokesperson Ricardo Vazquez: 
 
-	- "He added that the university is increasing safety precautions, such as through additional patrols by UCPD, to protect students on campus, following recent concerns of antisemitism and Islamophobia."
+	- "Mohammad added that he felt UCPD has also targeted protestors supporting Palestine in some instances.
+
+		“The police are always accelerating and agitating the aggression in exchanges with people who are pro-Palestinian and people who are demonstrating for the sake of Palestine,” he said.
+
+		Vazquez said in the statement that administration approaches to policing are decided on a content-neutral basis. 
+
+		He added that the university is increasing safety precautions, such as through additional patrols by UCPD, to protect students on campus, following recent concerns of antisemitism and Islamophobia."
 
 	- "“At on-campus events, UCPD and Student Affairs Monitors — who are trained on de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions while protecting participants’ right to speak,” he said in the statement."
 
-	
-
-### Quotes 
-
-
-- [Students voice worries over Islamophobia on UCLA campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus)
-
-	- "“‘I’ve been spit in the face. I’ve been directly pushed. I’ve been called a terrorist on multiple occasions,’ said Mohammad, a student who was granted partial anonymity for safety reasons. ‘I’m constantly looking over my shoulder, I’m getting mean looks and people looking at me, just eyeing me down. I know they have the intention to make it some kind of form of harassment if they have a chance.’”"
-
-	- "“A Palestinian student, who was granted anonymity for safety reasons, said they have heard numerous accounts of people yelling hateful comments at those wearing keffiyehs. While they said they have only heard accounts of physical violence perpetrated by non-students, they added that they have seen students spreading hate speech on campus about Arab students – such as calling them terrorists and Nazis and saying they deserve to be raped and killed.”"
-
-
-
 		
 
-
-- "Green fireworks shoot up in front of Royce Hall as counter-protesters look on. Fireworks were released from outside the encampment toward the inside of it. [(Nicolas Greamo/Daily Bruin senior staff)](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)"
 
 
 
@@ -141,6 +153,8 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 
 
+
+- "Green fireworks shoot up in front of Royce Hall as counter-protesters look on. Fireworks were released from outside the encampment toward the inside of it. [(Nicolas Greamo/Daily Bruin senior staff)](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)"
 
 
 
