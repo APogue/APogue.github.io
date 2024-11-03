@@ -20,3 +20,22 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 	- "But if any kind of reconciliation is at all possible, the administration must lay a new foundation for the future. In our view, the process has to begin with this first step.
 
 	Apologize."
+
+
+
+### Hillel response 
+
+- While their statement is well-meaning, it is the job of the administration to handle *any* violation of the law in a content-neutral manner. They don't need to single out a single group the way Hillel has. But they do need to hold people accountable. It is about safety through accountability---rhetoric, strategic direction, and policy. 
+
+- [Hillel at UCLA Statement: May 1, 2024](https://www.uclahillel.org/stateofjewishbruinlifeoct2023)
+
+	- [UCLA Jewish Student Leader's ask to Non-Campus Jews](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view)
+
+	- "The truth is that a largely peaceful, pro-Palestinian encampment was attacked by an angry, violent mob comprised
+	of fringe members of the off-campus Jewish community last night. They do not represent the estimated 3,000
+	Jewish Bruins at UCLA, yet those are precisely the people who will have to live with the reverberations of their
+	aggressive actions. 
+
+		**We can not have a clearer ask for the off-campus Jewish community: stay off our campus. Do not fund any actions on campus. Do not protest on campus. Your actions are harming Jewish students."**
+
+		- The funding may be referring to the Go Fund Me campaign that raised 80k

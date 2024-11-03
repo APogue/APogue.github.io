@@ -367,6 +367,16 @@ updated_date: 2024-10-24 2:07 PM
 		- Why after the lessons learned with the occupy wallstreet and George Floyd protest activity, is UCLA policing disproportionately? 
 
 
+
+- [Law enforcement leadership structure at UCLA faces scrutiny in wake of encampment](https://dailybruin.com/2024/05/30/law-enforcement-leadership-structure-at-ucla-faces-scrutiny-in-wake-of-encampment)
+
+	- "“We are CANCELING our SRT call out /MUTUAL AID at this time. The campus is not ready to move to a police operation as of yet, and we don’t foresee any action happening that will require us at least this coming weekend,” Koh said in the email. “We may be talking to you in the coming weeks regarding mutual aid if our campus administration moves to clearing this out.”"
+
+- [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs)
+
+	- "Rick Braziel, associate vice chancellor for the Office of Campus Safety, said an issue the university ran into with its law enforcement for the spring protests is that they did not anticipate every scenario that could happen and plan the appropriate responses. He added that the hasty response time required for the protests made it so the university was “scrambling” to find law enforcement, hiring people at a rate that could have been lower with ample preparation."
+
+
 ### Notes
 
 - WRT June 10th arrests

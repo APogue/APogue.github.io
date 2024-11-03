@@ -45,7 +45,7 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- "This week, the growing war has prompted lectures, rallies, protests, counter-protests and many intense debates on our campus. This will surely continue in the days to come, and we will stand firmly in support of our community members’ First Amendment rights to free expression. I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911."
 
-		- Harassment based on a "perceived Protected Category?" 
+		- Harassment based on a "perceived Protected Category?"
 
 		- This statement is an admission of knowledge. This statement is requiring "actual notice," a higher standard than currently exists (DeVos messed with this standard in the Title IX rollback). This statement looks like willful indifference. 
 
@@ -74,6 +74,8 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 	- Police did not intervene or told them to leave
 
 - Oct 27th, [Hundreds of UCLA students participate in march, walkout for Palestine](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
+
+	- They requested comment and heard back in the form of an email. 
 
 	- "Several speakers brought attention to recent allegations of attacks against pro-Palestinian students on campus.
 
