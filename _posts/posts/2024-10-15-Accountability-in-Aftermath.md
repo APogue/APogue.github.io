@@ -120,7 +120,7 @@ updated_date: 2024-10-24 2:07 PM
 
 		- "Sources" seem to be choosing a PR term for what was clearly a riot
 
-	- The truth is the administration was unprepared, and as the first line of oversight of student body activity, if they did not know now dangerous the situation had become, there was no way Thomas was going to know
+	- The truth is the administration was unprepared, and as the first line of oversight of student activity, if they did not know now dangerous the situation had become, there was no way Thomas was going to know
 
 		- "He acknowledged that he did tell leadership that it would take just minutes to deploy police forces, but he was referring to a general response — not a force large enough to handle the size of the crowds that clashed that night. But three sources confirmed he was directly asked how long it would take for outside law enforcement to quell any violence."
 

@@ -33,6 +33,8 @@ date: 2024-11-3 6:50 PM
 
 - [Pro-Israel counter-protesters attempt to storm encampment, sparking violence](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)
 
+	- LAPD was called by several people prior to Karen Bass and UCLA Admin intervention 
+
 	- "Two UCPD cars and one UCLA EMT showed up at 11:13 p.m. in an attempt to break up the conflict, but all left the scene at 11:21 p.m. UCPD Chief of Police John Thomas said to the Daily Bruin that the force only had around five to six officers on duty. Officers came under attack while trying to help an injured person, and so they left, Thomas said."
 
 		"“We called several different agencies. Right now, they’re preparing to go in and render the location safe,” he said. “It has nothing to do with the encampment, but I do want to render the situation safe and take care of those that may have been injured at this point – to possibly make arrests if that opportunity presents.”"
@@ -53,6 +55,8 @@ date: 2024-11-3 6:50 PM
 
 		- What documents? Were they specific to this situation or policy docs? 
 
+		- So they waited until Karen Bass stepped in? 
+
 - [Newsom tweet](https://x.com/GovPressOffice/status/1785589489878049091), 1:38 a.m. 
 
 	- "Our office is closely monitoring the situation at @UCLA.
@@ -66,26 +70,23 @@ date: 2024-11-3 6:50 PM
 		LAPD has arrived on campus."
 
 
-
-
 ### Immediate administrative response
 
 - Office of Campus Safety
 
 	- Braziel hired 
 
-- Thomas and Beck reassigned 
+- [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say), May 3rd
+
+	- "“On the Tuesday night of the attack, Thomas said he was home watching the Dodgers game when he was alerted to the problems by Beck. He said he immediately called the LAPD’s West L.A. station and asked the watch commander to deploy resources. Then he called UCLA’s watch commander and instructed him to call in mutual aid assistance from law enforcement with the cities of Beverly Hills, Culver City and Santa Monica and sheriff’s deputies.”"
+
+	- "Thomas said he arrived on campus shortly before midnight and found that 19 officers from UCLA, the LAPD and three of the mutual aid agencies had arrived but had not moved in to quell the violence. When he asked why, he said an LAPD lieutenant told him the force was too small. Thomas said he asked why they couldn’t go in with the forces they had, and the lieutenant told him he was directed to wait.
+
+		It took more than 90 minutes for sufficient forces to arrive and intervene. Thomas said it usually takes an hour or even two to amass “mobile field forces” large enough — 50 officers or more from all over the city — to handle situations like the melee at UCLA."
+
+	- This puts "sufficient forces" arrival time at approximately 1:30 a.m. 
 
 
 
 
-
-
-### A month later (or so)
-
-- Thomas interview 
-
-- Sources said
-
-- Wade said
 

@@ -10,8 +10,15 @@ Thesis: Safety through accountability
 
 Thesis1: It becomes more clear that a pattern of bias existed during the major protest (which was garnering media attention) when the administration began releasing statements acknowledging problems, but deliberately avoided condemnation or promises to take action against alleged perpetrators of harassment and violence. 
 
-Thesis2: When things got completely out of hand, even after police arrived they did nothing. When all was said and done, Thomas took the brunt of the blame. 
+Thesis2: "Violence" had been occurring all along, but it was the failure by the administration to adequately respond that drew larger and larger crowds to the encampment night after night. 
 
+Thesis3: This failure to identify and address this pattern of behavior by the administration also left the UCPD Chief without the proper intel to adequately plan or be adequately prepared. 
+
+Thesis4: On April 30th, when things got completely out of hand, even after police arrived they did nothing. 
+
+Thesis5: Thomas took all the blame
+
+Thesis6: But UCPD by policy functions as "operational execution" as opposed to "strategic direction" which is controlled by school administrators (Wade statement)
 
 ### Administrative messaging 
 
@@ -73,6 +80,14 @@ Thesis2: When things got completely out of hand, even after police arrived they 
 
 	“More counter-protesters gathered, with nearly 50 people there shortly before 7 p.m. Some waving megaphones shouted at students, who they called “terrorists,” to “show your face.””
 
+- Friday 4/26
+
+	- [Law enforcement leadership structure at UCLA faces scrutiny in wake of encampment](https://dailybruin.com/2024/05/30/law-enforcement-leadership-structure-at-ucla-faces-scrutiny-in-wake-of-encampment)
+
+		- "According to emails between UC police departments obtained by the Daily Bruin, UCLA requested additional aid from the police departments of various UC campuses, but UCPD Lieutenant Issac Koh then canceled the request at 11:25 a.m. April 26."
+
+		- "“We are CANCELING our SRT call out /MUTUAL AID at this time. The campus is not ready to move to a police operation as of yet, and we don’t foresee any action happening that will require us at least this coming weekend,” Koh said in the email. “We may be talking to you in the coming weeks regarding mutual aid if our campus administration moves to clearing this out.”"
+
 
 - [Sunday 4/28](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)
 
@@ -109,11 +124,62 @@ Thesis2: When things got completely out of hand, even after police arrived they 
 	- "“We will not leave,” UC Divest said in the press release. “We will remain here until our demands are met.”"
 
 
+
+
+### Thomas interview
+
+- [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
+
+	- “But university leadership, he said, decided to allow the tents “as an expression of students’ 1st Amendment rights” and directed that police not be included in any security plan. Under UC’s systemwide community safety plan, police are deployed as a last resort — guidance developed after UC Davis police pepper-sprayed peaceful protesters in 2011, setting off a firestorm of controversy and an internal review that changed campus practices.”
+
+		“As a result, Thomas said he developed a plan that relied on private security and made sure to alert the Los Angeles Police Department of the need to respond immediately should problems arise. The private security guards, who were not authorized to make arrests, were instructed to contact UCLA police if needed.”
+
+		“However, sources said he was directed to provide a written safety strategy outlining the response and preparation for various scenarios, such as a rally, skirmishes or violence — with the direction to do what was needed to keep the community safe — and he failed to deliver.”
+
+	- "“He acknowledged that he did tell leadership that it would take just minutes to deploy police forces, but he was referring to a general response — not a force large enough to handle the size of the crowds that clashed that night. But three sources confirmed he was directly asked how long it would take for outside law enforcement to quell any violence.”"
+
+	- "“As altercations at the encampment began to increase, Thomas acknowledged that campus leadership changed direction and authorized him to supplement UCLA police and private security with increased external law enforcement, saying overtime would be paid. He could not recall exactly when that occurred, but he said he immediately contacted the LAPD and L.A. County Sheriff’s Department to secure their assistance.”
+
+		“But he said the LAPD told him there was a problem with the payment system between the city and state, so the arrangements “couldn’t be done by the time of the attack.””
+
+		- Based on the Newsroom updates, looks like this would have been April 30th
+
+	- Thomas talks about mutual aid
+
+		- “The mutual aid requests made Thursday and Friday, April 25-26 — which would have provided UCLA with more officers as they dealt with the camp and a dueling area erected by pro-Israel activists — were both canceled. Thomas said he made the requests because the university was tentatively planning to take down the encampment then, but he canceled them when that plan was delayed.”
+
+			“He said he did not make any additional request after that because there was no specific reason for it at the time, but he directed his watch commander to do so immediately after learning about the attack, which he said was a “spontaneous” event. Critics are asking why he did not make another request sooner than that, after specific instances of physical altercations on Sunday and Monday.”
+
+
+
 ### UCLA does damage control
 
 - Block congressional hearing 
 
 ### Post-protest finger pointing 
+
+- [UCLA police chief reassigned after security failures over pro-Palestinian protests](https://www.latimes.com/california/story/2024-05-22/ucla-police-chief-reassigned-after-security-failures-over-pro-palestinian-protests), May 22nd
+
+	- ““Given Chief Thomas’ mishandling of keeping our community safe and ear-splitting calls for him to step aside, this had to happen,” said one source, who was not authorized to speak publicly.”
+
+	- “Several top LAPD leaders told The Times that Thomas had tarnished the reputation of Los Angeles law enforcement with what they called his lack of planning and poor communication with other agencies. They said they had to scramble for officers and wait until enough could be assembled to safely intervene at about 1:40 a.m.”
+
+		- There was no dispersal order given at 1:40 a.m., there was no action until approximately 2:40 a.m. 
+
+	- “But one UC source, who was not authorized to speak publicly, said Thomas and other officers should have moved in to stop the violence with the forces they had. In the case of active shooter situations, the source said, police used to wait for a larger force with sharpshooting expertise to assemble, but now move in more quickly to save those in danger. A similar protocol should have been used to quell the mob attack.”
+
+		““Whoever gets there first has to go in,” the UC source said. “If you’re waiting while people are getting hit in the head, there is something wrong with the system. This was not a simple protest. It was a riot.””
+
+		- The above is especially true because UCPD and LAPD are armed with less-than-lethal munitions, they should have made the dispersal order and started utilizing these munitions right away, the same way they did with the encampment days later
+
+	- “Wade Stern, president of the Federated University Peace Officers Assn., in a statement.”
+
+		““What unfolded at UCLA calls into question whether UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies,” said Stern, who is also an officer at UC Riverside. “The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.””
+
+
+
+
+
 
 - Braziel said (Bruin article)
 

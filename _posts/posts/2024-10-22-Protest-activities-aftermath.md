@@ -73,6 +73,12 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 - dates of commencement 
 
+### Rick Braziel said in the Daily Bruin 
+
+- [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), July 24th
+
+	- “Rick Braziel, associate vice chancellor for the Office of Campus Safety, said an issue the university ran into with its law enforcement for the spring protests is that they did not anticipate every scenario that could happen and plan the appropriate responses. He added that the hasty response time required for the protests made it so the university was “scrambling” to find law enforcement, hiring people at a rate that could have been lower with ample preparation.”
+
 ### Rick Braziel LA Times interview
 
 - No office of campus safety

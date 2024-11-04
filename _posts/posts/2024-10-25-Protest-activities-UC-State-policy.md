@@ -51,6 +51,10 @@ Thesis2: Umbrella responses unfairly target certain groups, chill free speech, a
 
 - [Editorial: Actions of law enforcement, UCLA admin reveal unwillingness to protect students](https://dailybruin.com/2024/05/17/editorial-actions-of-law-enforcement-ucla-admin-reveal-unwillingness-to-protect-students)
 
+- [Local and state officials condemn late response from law enforcement at encampment](https://dailybruin.com/2024/05/01/local-and-state-officials-condemn-late-response-from-law-enforcement-at-encampment)
+
+	- [Newsom is way off with his statement](https://x.com/ccadelago/status/1785728263266185237)
+
 ### State policy 
 
 - CA witholding funds
