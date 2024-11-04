@@ -181,14 +181,3 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 
 
-- Braziel said (Bruin article)
-
-- Mayor Bass said 
-
-### Irvine chancellor
-
-- He reaches out directly to the encampment
-
-- It seemed with UCLA they were communicating through the Daily Bruin, the People's Council or some other 3rd party channel
-
-- That is incredibly unsafe not to try to interact with them directly 
