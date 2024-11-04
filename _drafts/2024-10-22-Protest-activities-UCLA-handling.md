@@ -170,7 +170,7 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 		““Whoever gets there first has to go in,” the UC source said. “If you’re waiting while people are getting hit in the head, there is something wrong with the system. This was not a simple protest. It was a riot.””
 
-		- The above is especially true because UCPD and LAPD are armed with less-than-lethal munitions, they should have made the dispersal order and started utilizing these munitions right away, the same way they did with the encampment days later
+		- The above is especially true because UCPD and LAPD are armed with less-than-lethal munitions, they should have made the dispersal order and started utilizing these munitions right away, the same way they did with the encampment days later. Who determines what protocol is used *after* police arrive? 
 
 	- “Wade Stern, president of the Federated University Peace Officers Assn., in a statement.”
 
