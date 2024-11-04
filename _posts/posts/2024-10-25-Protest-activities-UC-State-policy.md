@@ -49,6 +49,8 @@ Thesis2: Umbrella responses unfairly target certain groups, chill free speech, a
 
 	- Denying them anti-discrimination education means they do not care about these individuals and they do not care about campus climate. 
 
+- [Editorial: Actions of law enforcement, UCLA admin reveal unwillingness to protect students](https://dailybruin.com/2024/05/17/editorial-actions-of-law-enforcement-ucla-admin-reveal-unwillingness-to-protect-students)
+
 ### State policy 
 
 - CA witholding funds

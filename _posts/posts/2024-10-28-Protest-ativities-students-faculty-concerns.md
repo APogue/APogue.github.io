@@ -39,3 +39,23 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 		**We can not have a clearer ask for the off-campus Jewish community: stay off our campus. Do not fund any actions on campus. Do not protest on campus. Your actions are harming Jewish students."**
 
 		- The funding may be referring to the Go Fund Me campaign that raised 80k
+
+
+
+### Injuries 
+
+- [Two months after violent clash at UCLA protest, no charges against attackers](https://www.usatoday.com/story/news/investigations/2024/06/29/cla-protest-clash-san-diego-antifa-case/74251068007/)
+
+	- "Thistle Boosinger, a 23-year-old member of the encampment, had her hand smashed the night of the violence. Boosinger requested CNN obscure a portion of this image over privacy concerns following recent developments. Courtesy Thistle Boosinger" - [From CNN investigation](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)
+
+	- "Boosinger underwent surgery in May and is still wearing a brace to protect her hand. She said a detective interviewed her soon after the attack, but that she hasn’t heard anything since.
+
+		“The detective asked me very vaguely if I could pick someone out of a lineup, but she never asked me to actually do it,” Boosinger said. “I don't have any faith in the police.""
+
+- [Unmasking counterprotesters who attacked UCLA’s pro-Palestine encampment](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)
+
+	- "Law enforcement did not track injuries from the attack. But according to the encampment’s organizers, more than 150 students “were assaulted with pepper spray and bear mace,” and at least 25 protesters ended up being transported to local emergency rooms to receive treatment for injuries including fractures, severe lacerations and chemical-induced injuries.
+
+		“I actually thought someone would get killed,” said Rabbi Chaim Seidler-Feller, UCLA Hillel’s Director Emeritus, who called 911 around midnight as he watched the violence on live TV. “They came to beat people up.”"
+
+- [‘I thought I was going to die’: UCLA encampment protesters recall April 30 attack](https://dailybruin.com/2024/05/07/i-thought-i-was-going-to-die-ucla-encampment-protesters-recall-april-30-attack)
