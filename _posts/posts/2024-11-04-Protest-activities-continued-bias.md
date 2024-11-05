@@ -4,17 +4,12 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
+updated_date: 2024-11-05 7:00 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
 
-### June 10th protest
-
-- video footage 
-
-- FJP take 
-
-- [SJP take](https://www.instagram.com/p/C8GD2LXSLM9/?hl=en&img_index=3), is interesting, because in the police press release they didn't explicitly say they gave dispersal orders near the law school. 
+### Policy 
 
 - [UC policy on student rights](https://policy.ucop.edu/doc/2710537/PACAOS-170)
 
@@ -22,13 +17,164 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 	- Is in direct contention with---[UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md)
 
-- Braziel statement 
 
-- UCPD statement 
+- [TPM policy at the time, Jan 2024](https://ucla.app.box.com/s/saxl0zf54hel7l7848mk323ldas1oohk)
 
-- LA Times article 
+- [UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md), May 16, 2024
 
-	- girl didn't get to go to her graduation
+	- "Any member of the university community who is arrested for unlawful behavior or cited for a violation of university policy must go through the applicable review process, such as student code of conduct or employee disciplinary process.
+
+		The Regents further affirmed that amnesty for students, faculty and staff is inconsistent with this guideline."
+
+
+### June 10th protest
+
+- [UCLA Newsroom statement](https://newsroom.ucla.edu/statement-on-royce-quad-disruption), Mary Osako, June 10th
+
+	- “Our Students Affairs and Campus Safety teams are on site to help ensure the well-being and safety of our community.”
+
+- [Large police presence](https://www.instagram.com/p/C8D0QunNw6t/)
+
+- [3rd encampment setup cleared](https://x.com/brethamilton/status/1800640865515532508), after two obeyed dispersal orders, they begin clearing the 3rd encampment "without a dispersal order" (Bret Hamilton)
+
+- [Footage showing the police getting aggressive](https://x.com/ACatWithNews/status/1800366924792053815)
+
+	- "Updating as quickly as possible at UCLA Pro Palestine protest. Less lethal fired. Lots of detainments. Lots of shoving. Seeing some minor injuries. No dispersal order called" (Sean Beckner-Carmitchel)
+
+- [June 10th kettling incident](https://x.com/brethamilton/status/1800640869869228490)
+
+- [SJP take](https://www.instagram.com/p/C8GD2LXSLM9/?hl=en&img_index=3), is interesting, because in the police press release they didn't explicitly say they gave dispersal orders near the law school.
+
+	- "They gave us barely audible dispersal orders *after* they invaded the camp and started arresting. Even then, there was nowhere to go, their dispersal directions led us to the line of officers behind us. **We tried to leave. THEY TRAPPED US INSIDE**...They arrested dozens of students, zip tied them and held them captive in Dodd Hall *for hours*."
+
+- [Police grabbed an unsuspecting protester](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
+
+	- [SJP post](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1)
+
+- June 11th, no statement made by Gene Block
+
+	- [UCPD statement](https://ucla.app.box.com/v/Arrests-241105-06102024)
+
+		- Describes 3 encampment setups and 2 explicit dispersal orders
+
+		- "The group then marched to the courtyard between Dodd Hall and the School of Law, where they **set up another
+		unauthorized and unlawful encampment.** The group **restricted access to the general public** in violation of
+		University policy and also **disrupted nearby final exams.** At around 8:00 p.m. approximately 25 members of
+		the group were arrested for **California Penal Code section 626.4(d) – Willful Disruption of University
+		Operations.** The individuals are in the process of being cited, issued 14-day stay away orders from UCLA
+		property, and released. Approximately 150 protesters remain in the area as of the latest update."
+
+	- [Rick Braziel statement](https://newsroom.ucla.edu/condemning-mondays-violence-on-campus)
+
+		- "**Condemning Monday's violence on campus**"
+
+		- "When the group on Kerckhoff patio was told to disperse, they moved to an area near Dodd Hall. This resulted in some students having to miss finals because they were blocked from entering classrooms. Additionally, some students had to be evacuated in the middle of taking their final exams. 
+
+			Throughout the evening, there were also violent attacks on safety personnel and law enforcement, resulting in at least six injuries to UCPD personnel and other safety officers. One security guard was left with his head bleeding after he was struck with an object. Simply put, these acts of non-peaceful protest are abhorrent and cannot continue. 
+
+			During these events, 27 individuals were arrested. We are still determining which arrestees are not members of the UCLA community. Students who were arrested will be subject to disciplinary actions based on UCOP guidance, which could include a campus exclusion that will prevent them from being on campus to take finals or participate in commencement ceremonies.
+
+			Yesterday’s protest was not peaceful. These guidelines support advocacy that does not jeopardize safety or disrupt university operations."
+
+		- "Rick Braziel Associate Vice Chancellor for Campus Safety"
+
+- Injuries 
+
+	- 1 student hospitalized 
+
+- Arrests 
+
+	- Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel’s numbers don’t match the UCPD statement. This is out of approximately 175 total protesters.
+
+	- [According to the DB](https://dailybruin.com/2024/06/10/pro-palestine-protesters-set-up-3rd-solidarity-encampment-in-dickson-plaza), the individual arrested for interfering with police was USAC president Adam Tfayli 
+
+- Reactions 
+
+	- [Op-ed: Rick Braziel’s messaging belies disregard for police accountability, student safety](https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety), FJP, June 18, 2024 
+
+		- "Braziel was appointed overnight in a process that lacked transparency and input from the campus community he now governs arbitrarily, totally disregarding fundamental principles of academic freedom and constitutionally protected forms of freedom of expression."
+
+		- “It’s not clear if he understands the function and nature of life on a university campus: He seems to regard student protest as inherently illegitimate and illegal by default; his reactive impulse to any sign of student activism is to police violence as a first response.”
+
+		- "In claiming that protestors “prevented students from completing their final exams” or “entering classrooms,” he again ignores the fact that there would have been no disruptions to campus activities if the students had not been forced to relocate from one site to another by the police – and that the police themselves, not the students, were the ones blocking access to buildings and facilities and evicting students and instructors while exams were underway."
+
+		- “In any case, although Braziel has supplanted the recognized authorities on our campus – above all the now silent and invisible chancellor and provost – his reckless disregard for our students and our values is ultimately their responsibility.”
+
+		- “We demand that they bring their policemen back under their control, that they restore cultural, political and intellectual order to our campus community by protecting rather than punishing expression and protest, and that they take steps to allow this community to breathe freely once more by reducing or eliminating – rather than enhancing – the police presence on campus.”
+
+- [Op-ed: Admin’s actions toward pro-Palestine protesters proves UCLA wants us dead](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead), published Oct. 3, 2024, talks about April 30th and June 10th incidents
+
+	- "During our June 10 protest, police aimlessly fired less-than-lethal weapons – hospitalizing one student and injuring several others with the rubber bullets that ricocheted through the crowd of trapped protesters. They continued firing countless pepper balls, hitting several students and causing them to limp to finals over the next few days. Several students became concussed from violent police takedowns, with one student violently yanked into the police line for speaking into a megaphone."
+
+		- Is all of the above factually true? Were students really concussed? That would be a big deal. 
+
+	- "Once police seemingly finished their job clearing each successive protest, UCLA abandoned us to defend ourselves against the ensuing counter-protesters – including many repeaters from the Zionist mob attack."
+
+	- "Zionist counter-protesters would target and encircle individual protesters, barraging them with a combination of racist slurs, sexually-explicit harassment if perceived female and incendiary threats to provoke a recorded reaction."
+
+	- "Following a Dodd Hall dispersal in late May, I was stalked, surrounded, harassed and threatened by a group of counter-protesters, one of whom claimed to have my address and told me I wouldn’t be safe at home."
+
+	- "My friend had a Zionist slash their leg with a knife, which caused them to limp around campus. Others were stalked home and subjected to hateful vitriol at their doorstep. Our mutual aid and food distributions received passing cars launching tomatoes, eggs, milkshakes and other food items at us. All these incidents are known – and not uncommon – with UCLA continually failing to take action."
+
+		- When did this happen? 
+
+	- "During the June 10 protest, I asked Administrative Vice Chancellor Michael Beck on his plans following our dispersal, with several Zionist onlookers – whom I recognized from the encampment attack – screaming epithets in the background. Beck halfheartedly responded, “UCPD is watching them and will deal with it.” Hours later, as we waited outside for our friends to be released, UCPD and campus security faded into nearby buildings, leaving us to the Zionist onslaught."
+
+
+### LA Times article 
+
+- [Police arrested hundreds of pro-Palestinian students in L.A. The fallout continues, Aug. 2, 2024](https://www.latimes.com/california/story/2024-08-02/ucla-usc-pomona-palestinian-protests)
+
+	- “Since police arrested her twice this spring at UCLA — accusing her of failing to obey orders to leave pro-Palestinian encampments — Asil Yassine has spent the summer navigating court dates and uncertainties. No criminal charges have been filed in one case, although it has not been dropped. In the other, an arraignment is coming up in late August. The consequences of her arrests are piling up.”
+
+	- “Yassine was temporarily banned from campus and could not attend her graduation, where she would have received a doctorate in human development and psychology. The university placed holds on her records and she still has not received her diploma. Without proof of her degree, her work this summer at a psychology office won’t count toward her license. “I’m not surprised by the oppression but I’m shocked by the extent and aggression of it and how punitive it was,” said Yassine, who is of Palestinian and Lebanese heritage.”
+
+	- “About three months since 231 UCLA protesters were arrested, most on misdemeanor charges, the Los Angeles city attorney’s office has not received referrals involving those cases, a spokesman said. The city attorney typically handles misdemeanor charges. There is a one-year period in which charges can be filed in misdemeanor cases.”
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### True disruptions to campus operations 

@@ -59,3 +59,16 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 		“I actually thought someone would get killed,” said Rabbi Chaim Seidler-Feller, UCLA Hillel’s Director Emeritus, who called 911 around midnight as he watched the violence on live TV. “They came to beat people up.”"
 
 - [‘I thought I was going to die’: UCLA encampment protesters recall April 30 attack](https://dailybruin.com/2024/05/07/i-thought-i-was-going-to-die-ucla-encampment-protesters-recall-april-30-attack)
+
+
+- 1 student hospitalized June 10th 
+
+
+
+
+
+### Student reactions 
+
+- [Op-ed: Admin’s actions toward pro-Palestine protesters proves UCLA wants us dead](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead), published Oct. 3, 2024, talks about April 30th and June 10th incidents
+
+	
