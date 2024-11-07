@@ -163,71 +163,6 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 	- “About three months since 231 UCLA protesters were arrested, most on misdemeanor charges, the Los Angeles city attorney’s office has not received referrals involving those cases, a spokesman said. The city attorney typically handles misdemeanor charges. There is a one-year period in which charges can be filed in misdemeanor cases.”
 
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### True disruptions to campus operations 
-
-- Encampment blockading 
-
-	- Reddit---people can't get to class, their jobs, disabled people are denied access to campus
-
-- The marching through the halls with chants of "From the River to the Sea" (TikTok)
-
-	- [Pro-Palestinian protesters took over UCLA's Dodd Hall](https://www.tiktok.com/@journalistjeremy/video/7372692453956062507)
-
-- The screen that UCLA permitted to stay without permit 
-
-	- Reddit quote
-
-	- [Hillel comments](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view), "There is a screen placed by community members at UCLA playing the horrors of October 7th on repeat--and we
-	can’t learn over the constant noise of Jews being slaughtered. The wider community is prioritizing their own idea of
-	activism over what Jewish students want. We want peace and a diplomatic resolution."
-
-
 
 
 ### Protests around the time that Ben Shapiro came to speak for Young Americans for Freedom and or aligning with Sukkot 
@@ -280,4 +215,21 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 	- “He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave.”
 
-	- The question becomes, if the Sukkahs are peaceful civil disobedience, that should be allowed if not disrupting campus operations, then what was disrupting operations? The counter-protesters that the Sukkahs attracted? 
+
+### True disruptions to campus operations 
+
+- Encampment blockading 
+
+	- Reddit---people can't get to class, their jobs, disabled people are denied access to campus
+
+- The marching through the halls with chants of "From the River to the Sea" (TikTok)
+
+	- [Pro-Palestinian protesters took over UCLA's Dodd Hall](https://www.tiktok.com/@journalistjeremy/video/7372692453956062507)
+
+- The screen that UCLA permitted to stay without permit 
+
+	- Reddit quote
+
+	- [Hillel comments](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view), "There is a screen placed by community members at UCLA playing the horrors of October 7th on repeat--and we
+	can’t learn over the constant noise of Jews being slaughtered. The wider community is prioritizing their own idea of
+	activism over what Jewish students want. We want peace and a diplomatic resolution."
