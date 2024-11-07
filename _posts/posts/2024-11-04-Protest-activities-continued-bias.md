@@ -4,7 +4,7 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-11-05 7:00 PM
+updated_date: 2024-11-07 5:48 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
@@ -78,6 +78,10 @@ Thesis2: The biased handling of protesters by the administration continues in th
 	- "We've never seen what Desmond was just talking about, such close corridors like this? With the protesters and police. Which is a little concerning to be honest." 6:20 min
 
 	- Image in image file of Dodd area bird's eye view
+
+	- [Map](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression)
+
+- [Protester taunts a security guard](https://www.cbsnews.com/losangeles/news/protesters-carrying-fake-corpses-march-across-ucla-campus/), shows the people held captive inside near end
 
 - June 11th, no statement made by Gene Block
 
