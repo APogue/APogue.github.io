@@ -41,7 +41,17 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 	- "Updating as quickly as possible at UCLA Pro Palestine protest. Less lethal fired. Lots of detainments. Lots of shoving. Seeing some minor injuries. No dispersal order called" (Sean Beckner-Carmitchel)
 
-- [June 10th kettling incident](https://x.com/brethamilton/status/1800640869869228490)
+- [Footage of June 10th kettling 1](https://x.com/ACatWithNews/status/1800371874356158598)
+
+	- "I’ll upload a more complete clip later but it was about 10 minutes of sustained pushing and a few less lethal. Was briefly told I was under arrest. The crowd was pushed into a hallway, Saw some people looking crushed."
+
+- [June 10th kettling incident 2](https://x.com/brethamilton/status/1800640869869228490)
+
+- [Police disturbing](https://x.com/ACatWithNews/status/1800413754984943875) Dodd Hall
+
+- [Police firing rubber bullets](https://x.com/ACatWithNews/status/1800419894875615428)
+
+	- Why didn't they do this on April 30th? 
 
 - [SJP take](https://www.instagram.com/p/C8GD2LXSLM9/?hl=en&img_index=3), is interesting, because in the police press release they didn't explicitly say they gave dispersal orders near the law school.
 
@@ -50,6 +60,24 @@ Thesis2: The biased handling of protesters by the administration continues in th
 - [Police grabbed an unsuspecting protester](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
 
 	- [SJP post](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1)
+
+- [Compilation video showing the days events](https://www.youtube.com/watch?v=ggNHGKvpA2I&ab_channel=danieljbmitchell)
+
+	- Midway through the security guard gets hit on the head by a protester. Incident that Braziel was referring to. 
+
+	- The entire video is relevant (excessive use of force throughout, especially with the two individuals near the end)
+
+	- At 2:30 the press person is told to leave the bushes Dodd area and is met with the line of police that the CBS video below shows from bird's eye view (they are kettling them)
+
+- [CBS article coverage](https://www.cbsnews.com/losangeles/news/protesters-carrying-fake-corpses-march-across-ucla-campus/), with photo and sky coverage video 
+	
+	- "They've kind of pinned them in this area..." CBS reporter in a helicopter observes at 4:20 min
+
+	- At 4:30 look closely at the 3rd quadrant you can see the line of police behind them, **they are kettling them**
+
+	- "We've never seen what Desmond was just talking about, such close corridors like this? With the protesters and police. Which is a little concerning to be honest." 6:20 min
+
+	- Image in image file of Dodd area bird's eye view
 
 - June 11th, no statement made by Gene Block
 
