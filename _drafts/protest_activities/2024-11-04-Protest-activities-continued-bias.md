@@ -34,7 +34,11 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 
 	- "UC Berkeley spokesperson Dan Mogulof said UCPD will enforce campus policy banning people from setting up tents on campus property but only if and when they can do so “safely and effectively.” “We don’t want a repeat of the conflicts that marred last semester’s events,” Mogulof said. When tents were erected on campus during the Nov. 9 Occupy Cal protest, police officers physically confronted hundreds of protesters, making arrests, taking down the tents and injuring several people. In response to the Albany occupation, the university turned off the water supply that provides irrigation to the land. “This land is"
 
+	- "24 students and community members filed a federal civil rights lawsuit against UC Berkeley administrators and police, alleging excessive force and violations of free speech rights. In 2018, the U.S. Court of Appeals for the Ninth Circuit dismissed the police brutality claims, stating that the officers' use of force was minimal and that university officials were not liable."
+
 	- [Court Dismisses 2011 Police Brutality Claims By Occupy Cal Protesters](https://www.cbsnews.com/sanfrancisco/news/occupy-call-police-brutality-claims-dropped/), this is Berkeley 
+
+	- [BAMN Files Lawsuit Against UC-Berkeley for Police Brutality at “Occupy Cal” Protest](https://www.bamn.com/2011/11/29/bamn-sues-uc-berkeley-police-brutality-occupy-cal-protest/)
 
 - [University of California to pay nearly $1M to pepper-sprayed Occupy protesters](https://www.cbsnews.com/news/university-of-california-to-pay-nearly-1m-to-pepper-sprayed-occupy-protesters/)
 
