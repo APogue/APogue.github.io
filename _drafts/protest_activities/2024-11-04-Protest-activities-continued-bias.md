@@ -4,10 +4,12 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-11-07 5:48 PM
+updated_date: 2024-11-08 11:12 AM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
+
+List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers, Graeir, Asil, Kupsh
 
 ### Policy 
 
@@ -18,13 +20,27 @@ Thesis2: The biased handling of protesters by the administration continues in th
 	- Is in direct contention with---[UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md)
 
 
-- [TPM policy at the time, Jan 2024](https://ucla.app.box.com/s/saxl0zf54hel7l7848mk323ldas1oohk)
-
 - [UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md), May 16, 2024
 
 	- "Any member of the university community who is arrested for unlawful behavior or cited for a violation of university policy must go through the applicable review process, such as student code of conduct or employee disciplinary process.
 
 		The Regents further affirmed that amnesty for students, faculty and staff is inconsistent with this guideline."
+
+- [TPM policy at the time, Jan 2024](https://ucla.app.box.com/s/saxl0zf54hel7l7848mk323ldas1oohk)
+
+	- [UCLA Procedure 850.1 : Placement of Temporary Structures on the UCLA Campus](https://www.adminpolicies.ucla.edu/APP/Number/850.1)
+
+- [Protesters continue occupation of UC-owned land](https://www.dailycal.org/archives/protesters-continue-occupation-of-uc-owned-land/article_00b0f2b0-7c47-567b-a49b-c38be017f209.html)
+
+	- "UC Berkeley spokesperson Dan Mogulof said UCPD will enforce campus policy banning people from setting up tents on campus property but only if and when they can do so “safely and effectively.” “We don’t want a repeat of the conflicts that marred last semester’s events,” Mogulof said. When tents were erected on campus during the Nov. 9 Occupy Cal protest, police officers physically confronted hundreds of protesters, making arrests, taking down the tents and injuring several people. In response to the Albany occupation, the university turned off the water supply that provides irrigation to the land. “This land is"
+
+	- [Court Dismisses 2011 Police Brutality Claims By Occupy Cal Protesters](https://www.cbsnews.com/sanfrancisco/news/occupy-call-police-brutality-claims-dropped/), this is Berkeley 
+
+- [University of California to pay nearly $1M to pepper-sprayed Occupy protesters](https://www.cbsnews.com/news/university-of-california-to-pay-nearly-1m-to-pepper-sprayed-occupy-protesters/)
+
+	- "The settlement should be a wake-up call for other universities and police departments," said Michael Risher, staff attorney with the ACLU of Northern California. "If the First Amendment means anything, it's that you should be able to demonstrate without being afraid of police violence."
+
+	- This is the incident that led to the Robinson/Edley report, it occurred at Davis
 
 
 ### June 10th protest
@@ -95,6 +111,9 @@ Thesis2: The biased handling of protesters by the administration continues in th
 		the group were arrested for **California Penal Code section 626.4(d) – Willful Disruption of University
 		Operations.** The individuals are in the process of being cited, issued 14-day stay away orders from UCLA
 		property, and released. Approximately 150 protesters remain in the area as of the latest update."
+
+			"In addition, as the first encampment was setting up, one individual was arrested at Royce Quad for **California
+			Penal Code section 148(a)(1) PC** for interfering with a police officer. That individual was cited and released."
 
 	- [Rick Braziel statement](https://newsroom.ucla.edu/condemning-mondays-violence-on-campus)
 
