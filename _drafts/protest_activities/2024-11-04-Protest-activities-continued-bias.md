@@ -46,6 +46,14 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 
 	- This is the incident that led to the Robinson/Edley report, it occurred at Davis
 
+- [UNIVERSITY OF CALIFORNIA COMPLIANCE WITH STATE ASSEMBLY BILL 481](https://regents.universityofcalifornia.edu/regmeet/sept24/c1.pdf)
+
+	- "The equipment that falls within the scope of AB 481’s definition of military equipment provides
+	UCPD with less lethal alternatives to standard-issue firearms, for use in extraordinary public
+	circumstances."
+
+	- [Annual report](https://regents.universityofcalifornia.edu/regmeet/sept24/c1attach2.pdf)
+
 
 ### June 10th protest
 
@@ -136,6 +144,12 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 - Injuries 
 
 	- 1 student hospitalized 
+
+	- [UC police seek approval for more pepper balls, sponge rounds, launchers, drones](https://www.latimes.com/california/story/2024-09-19/pepper-balls-sponge-rounds-launchers-drones-uc-police-ask-for-these-weapons)
+
+		- "Robin D.G. Kelley, a UCLA professor of American history, spent the night in the hospital with his student who was shot in the chest with a projectile during the June 10 protest. The student, hospitalized for two days, suffered a contusion to the heart and a bruised lung and remains so traumatized that they have postponed law school studies, Kelley said."
+
+		- "“The obvious burning question is this: Why does UCLA or any university campus need this kind of weaponry?” Kelley said. “Clearly the weapons are not to keep mobs off campus; they are to be used against our students and us.”"
 
 - Arrests 
 

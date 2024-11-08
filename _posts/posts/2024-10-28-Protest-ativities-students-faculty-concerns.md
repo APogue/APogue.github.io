@@ -71,4 +71,8 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 - [Op-ed: Admin’s actions toward pro-Palestine protesters proves UCLA wants us dead](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead), published Oct. 3, 2024, talks about April 30th and June 10th incidents
 
-	
+
+- [Intense UCLA policing draws scrutiny as security chief speaks out on handling protests](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
+
+	- "Students also have complained. One third-year student, who declined to give his full name because of retaliation, said the heavy security presence was “complete overkill” and did not make him feel safe. “I don’t feel they are on campus to protect me and my peers,” he said. “I didn’t see them step in when the encampment was being attacked. They had a chance to do something and they procrastinated.”"
+

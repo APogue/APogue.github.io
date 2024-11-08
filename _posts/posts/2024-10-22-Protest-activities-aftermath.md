@@ -4,7 +4,7 @@ title: "Protest activities-aftermath w/policy"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-10-25 1:45 PM
+updated_date: 2024-11-08 6:13 PM
 ---
 
 
@@ -52,6 +52,10 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 ### Mayor Bass said
 
+### Block messages in the days after 
+
+- [Chancellor Block shared the following message with the UCLA campus community](https://chancellor.ucla.edu/messages/changes-to-campus-security-operations/), May 5, 2024
+
 ### Rick Braziel said in the Daily Bruin 
 
 - [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), July 24th
@@ -60,7 +64,40 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 ### Rick Braziel LA Times interview
 
-- No office of campus safety
+- [Intense UCLA policing draws scrutiny as security chief speaks out on handling protests](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
+
+- The truth about his "role" at UCLA
+
+	- “In an interview with The Times, Braziel laid out his strategy for overhauling UCLA security operations — and responded to questions and criticism from faculty and others about his role, which is actually a $52,000-a-month short-term position.”
+
+	- "Ariela Gross, a UCLA law professor, was one of several who expressed concern about accountability as Braziel was hired so quickly into such a senior position to start a new administrative office without faculty input — as is generally required under UC’s system of shared governance."
+
+	- "But Braziel’s terms of employment are significantly different from public assumptions, based on Block’s announcement. He is not a permanent employee with multiple responsibilities related to campus safety. Braziel’s original contract, obtained by The Times, ended Aug. 31 and has been extended until the end of the year."
+
+	- "He said he hoped to have key changes in place with a plan to move forward to hand off to the incoming chancellor, Julio Frenk, who will take the reins Jan. 1."
+
+	- "He said he agreed to a short-term contract to review UCLA’s protest management and suggest institutional changes to improve safety practices after first being contacted by the UC Office of the President and then Block."
+
+	- "He said he understood his other job duties as helping UCLA through a peaceful commencement, and providing updates on security operations to Block, who testified before a congressional committee in May about campus efforts to combat antisemitism and manage protests. Block stepped down July 31."
+
+	- "“I’m the person coming in for just a few months, hopefully fix things, get them moving down the road and then somebody else takes over when I’m gone,” he said."
+
+	- "Braziel said he never agreed to set up the new Office of Campus Safety or prepare a campus response plan for potential fall protests — tasks that each amount to full-time jobs themselves but that many expected him to take on. Creating the safety office, he said, would take several employees many months to create a website, complaint intake process, training curriculum, policies and procedures, compliance auditing, staffing and planning for such future events as the 2028 Summer Olympics in Los Angeles."
+
+		- What about the investigation on April 30th? Where is it? 
+
+	- "Braziel said he was given no staff or funding for either job but agreed to extend his contract after receiving approval to hire consultants to do them."
+
+	- "The violence of the melee and encampment takedown was predictable, he said, looking at what was happening at Columbia University and other protest hot spots at the time — but UCLA was operating in reactive mode."
+
+	- "“We have to stop playing checkers where you’re waiting for something to happen and respond,” he said. “With chess, you’re constantly looking four, five moves down the board to anticipate what will happen so you can either avoid it or better respond to it.”"
+
+
+
+
+
+
+
 
 - He was hired temporarily 
 
