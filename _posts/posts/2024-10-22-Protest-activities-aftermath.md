@@ -56,6 +56,16 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 - [Chancellor Block shared the following message with the UCLA campus community](https://chancellor.ucla.edu/messages/changes-to-campus-security-operations/), May 5, 2024
 
+	- "Protecting the safety of our community underpins everything we do at UCLA. Our students, faculty and staff can only learn, work and thrive in an environment where they feel secure.
+
+		In the past week, our campus has been shaken by events that have disturbed this sense of safety and strained trust within our community. In light of this, both UCLA and the UC Office of the President have committed to a thorough investigation of our security processes. But one thing is already clear: To best protect our community moving forward, urgent changes are needed in how we administer safety operations."
+
+	- "Effective immediately, I am moving oversight and management of UCLA PD and the Office of Emergency Management from the Office of the Administrative Vice Chancellor to a newly created Office of Campus Safety, whose leader reports directly to me. It is clear that UCLA needs a unit and leader whose sole responsibility is campus safety to guide us through tense times. This organizational structure, which elevates our safety and emergency management operations, has proven to be an effective one at other major universities across the country.
+
+		Leading the Office of Campus Safety as its inaugural associate vice chancellor is Rick Braziel, who brings to the position more than 30 years of public safety service, including five years as chief of police for the City of Sacramento. Braziel has also served as an instructor in community policing and has led reviews of law enforcement agencies and police responses."
+
+	- "The well-being of our students, faculty and staff is paramount. These actions are essential for creating a secure environment where everyone at UCLA can confidently pursue their studies and careers."
+
 ### Rick Braziel said in the Daily Bruin 
 
 - [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), July 24th
@@ -91,28 +101,6 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 	- "The violence of the melee and encampment takedown was predictable, he said, looking at what was happening at Columbia University and other protest hot spots at the time — but UCLA was operating in reactive mode."
 
 	- "“We have to stop playing checkers where you’re waiting for something to happen and respond,” he said. “With chess, you’re constantly looking four, five moves down the board to anticipate what will happen so you can either avoid it or better respond to it.”"
-
-
-
-
-
-
-
-
-- He was hired temporarily 
-
-- Still no report on April 30th
-
-- His position was just extended
-
-	- Paid a huge bloated salary
-
-- More militarization, more security
-
-- DB on Oct 7th? Did counter-protesters show up?
-
-
-
 
 
 ### Arrests
