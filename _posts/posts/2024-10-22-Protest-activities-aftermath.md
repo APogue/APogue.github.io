@@ -16,36 +16,6 @@ Thesis4: The Office of Campus Safety has served to "maintain order."
 Thesis5: Administrative actions meant to safeguard free speech---no interference or oversight, heavy policing targeting students---looks like their strategic plan. This plan is inconsistent with existing policy and data, and only serves to chill free speech---UCLA is cannabalizing its own mission. 
 
 
-
-### Robinson/Edley report
-
-- Brought up in the 2024 UC toolkit
-
-- Statistics from DB and policy reports on UCLA protests being largely peaceful 
-
-- What's the point of this beautifully thought out policy that administrators signed their commitment to, if when push comes to shove they take the path of least resistance and all of a sudden it's Texas in California. 
-
-- Administrators *need* to back up everything they do with policy. Not "we are heartbroken," again giving 2004 kind of response to events and incidents that can affect hundreds of students. Everything must come from study, data, and training on the subject. Nothing of large magnitude affecting hundreds of students can be dealt with by administrative "parenting" or instinct. 
-
-### Directly relevant UC policies 
-
-- No masking
-
-- No encampments 
-
-- LA Times article on spending 
-
-- What the Regents Chair said about "safety"
-
-- Regents resolution on distancing from polemic messaging (did that get approved?)
-
-- Heavy policing is a UC standard 
-
-	- UC Divest Protest to Regents meeting
-
-		- Many officers present
-
-
 ### UCLA graduation 
 
 - dates of commencement 
@@ -136,8 +106,6 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 	- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
 
 
-
-
 ### Irvine chancellor
 
 - He reaches out directly to the encampment
@@ -145,21 +113,5 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 - It seemed with UCLA they were communicating through the Daily Bruin, the People's Council or some other 3rd party channel
 
 - That is incredibly unsafe not to try to interact with them directly 
-
-
-### Effects of imbalanced handling (thought notes)
-
-- The conflating of protected and unprotected activity is always in service of the negative handling of pro-Palestinian students
-
-- There is a pattern showing a lack of siding with pro-Palestinian protesters via punishment, statement omissions, or a negative administrative tone
-
-- Ignoring instances of clear discrimination as part of a broader construct set up in the disservice of this group of students
-
-- It is fueling the flames of divide between student groups
-
-- Not truly committed to content-neutral student management
-
-- Not truly committed to a legal, free speech environment
-
 
 

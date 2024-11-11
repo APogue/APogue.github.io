@@ -11,49 +11,6 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers, Graeir, Asil, Kupsh
 
-### Policy 
-
-- [UC policy on student rights](https://policy.ucop.edu/doc/2710537/PACAOS-170)
-
-	- "171.11 To the extent appropriate to the circumstances, to be free from University discipline for actions committed involuntarily or under duress."
-
-	- Is in direct contention with---[UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md)
-
-
-- [UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md), May 16, 2024
-
-	- "Any member of the university community who is arrested for unlawful behavior or cited for a violation of university policy must go through the applicable review process, such as student code of conduct or employee disciplinary process.
-
-		The Regents further affirmed that amnesty for students, faculty and staff is inconsistent with this guideline."
-
-- [TPM policy at the time, Jan 2024](https://ucla.app.box.com/s/saxl0zf54hel7l7848mk323ldas1oohk)
-
-	- [UCLA Procedure 850.1 : Placement of Temporary Structures on the UCLA Campus](https://www.adminpolicies.ucla.edu/APP/Number/850.1)
-
-- [Protesters continue occupation of UC-owned land](https://www.dailycal.org/archives/protesters-continue-occupation-of-uc-owned-land/article_00b0f2b0-7c47-567b-a49b-c38be017f209.html)
-
-	- "UC Berkeley spokesperson Dan Mogulof said UCPD will enforce campus policy banning people from setting up tents on campus property but only if and when they can do so “safely and effectively.” “We don’t want a repeat of the conflicts that marred last semester’s events,” Mogulof said. When tents were erected on campus during the Nov. 9 Occupy Cal protest, police officers physically confronted hundreds of protesters, making arrests, taking down the tents and injuring several people. In response to the Albany occupation, the university turned off the water supply that provides irrigation to the land. “This land is"
-
-	- "24 students and community members filed a federal civil rights lawsuit against UC Berkeley administrators and police, alleging excessive force and violations of free speech rights. In 2018, the U.S. Court of Appeals for the Ninth Circuit dismissed the police brutality claims, stating that the officers' use of force was minimal and that university officials were not liable."
-
-	- [Court Dismisses 2011 Police Brutality Claims By Occupy Cal Protesters](https://www.cbsnews.com/sanfrancisco/news/occupy-call-police-brutality-claims-dropped/), this is Berkeley 
-
-	- [BAMN Files Lawsuit Against UC-Berkeley for Police Brutality at “Occupy Cal” Protest](https://www.bamn.com/2011/11/29/bamn-sues-uc-berkeley-police-brutality-occupy-cal-protest/)
-
-- [University of California to pay nearly $1M to pepper-sprayed Occupy protesters](https://www.cbsnews.com/news/university-of-california-to-pay-nearly-1m-to-pepper-sprayed-occupy-protesters/)
-
-	- "The settlement should be a wake-up call for other universities and police departments," said Michael Risher, staff attorney with the ACLU of Northern California. "If the First Amendment means anything, it's that you should be able to demonstrate without being afraid of police violence."
-
-	- This is the incident that led to the Robinson/Edley report, it occurred at Davis
-
-- [UNIVERSITY OF CALIFORNIA COMPLIANCE WITH STATE ASSEMBLY BILL 481](https://regents.universityofcalifornia.edu/regmeet/sept24/c1.pdf)
-
-	- "The equipment that falls within the scope of AB 481’s definition of military equipment provides
-	UCPD with less lethal alternatives to standard-issue firearms, for use in extraordinary public
-	circumstances."
-
-	- [Annual report](https://regents.universityofcalifornia.edu/regmeet/sept24/c1attach2.pdf)
-
 
 ### June 10th protest
 
