@@ -72,6 +72,38 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 	- "“We have to stop playing checkers where you’re waiting for something to happen and respond,” he said. “With chess, you’re constantly looking four, five moves down the board to anticipate what will happen so you can either avoid it or better respond to it.”"
 
+- [21st century policing independent solutions June 7th](https://www.instagram.com/p/C77S9I_SNHs/?img_index=1)
+
+### Interim Chancellor Hunt
+
+- [Interim Chancellor Hunt Four-Point Plan](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
+
+	- "Braziel also initiated a review of UCLA’s safety protocols and police response to the events of last spring — which I will share with you when it is available. "
+
+	- [Daily Bruin Op-Ed 4 point plan](https://dailybruin.com/2024/10/01/the-uc-must-revise-its-handling-of-free-speech-student-protests-to-promote-trust)
+
+- [Announcing the Office of Inclusive Excellence](https://chancellor.ucla.edu/messages/announcing-the-office-of-inclusive-excellence/)
+
+
+### UC Regents 
+
+- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
+
+President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
+
+- The UC's mainly concerned with enforcing rules to mitigate costs associated with protests
+
+- This includes notification about rules around free speech activities and consequences for violating them 
+
+- Also talks of extra security costs around Board of Regents meetings at UCLA 
+
+- Yet they seem in support of costs "to keep campuses safe"
+
+	- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety.
+
+		“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
+
+
 
 ### Arrests
 
