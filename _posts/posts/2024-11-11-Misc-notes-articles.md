@@ -156,43 +156,10 @@ Cases are not necessarily investigated in the order that complaints are received
 
 ### June 10th protest
 
-- [UCLA faculty FJP daily bruin respond to June 10th](https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety)
-
-- [Daily Bruin Op-Ed Account of April 30th/June 10th protests](https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead)
-
-- Police are cornering them in some cases, picking at random to arrest, using physicality
-
-	- When was the dispersal order given?
-
-	- Where did some of these incidents occur? 
-
-- The above has [twitter link](https://x.com/ACatWithNews/status/1800405549689024949) to video of June 10th
-
-- [June 10th footage](https://x.com/ACatWithNews/status/1800366924792053815)
 
 - [UCLA attacker Rony is on a megaphone, in an non-public expression designated area](https://x.com/ACatWithNews/status/1800327459029897328)
 
 - [counter protesters loiter as security watches on](https://x.com/ACatWithNews/status/1800401292516614339)
-
-- [kid beaten with a baton](https://x.com/ACatWithNews/status/1800371874356158598)
-
-- [yanked out of crowd](https://x.com/ACatWithNews/status/1800405549689024949)
-
-- [security guard head gets bumped](https://www.youtube.com/watch?v=ggNHGKvpA2I&ab_channel=danieljbmitchell)
-
-	- other arrest footage in the above
-
-	- the entire video is relevant (connect the individuals with the signs from kettling to arrest, excessive use of force throughout, especially with the two individuals near the end)
-
-- [disperse orders at 9 pm (end of video)](https://www.youtube.com/watch?v=Vs8lLjQ68qk&ab_channel=FOX5WashingtonDC)
-
-
-- [Police misconduct](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1) and [clearer video](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
-
-
-
-
-
 
 
 
@@ -208,7 +175,6 @@ Cases are not necessarily investigated in the order that complaints are received
 	- "Each campus shall provide notification of the following to students before the start of each academic year: (3) The systemwide Nondiscrimination Policy, which ensures compliance with Title VI and Title VII of the Civil Rights Act of 1964."
 
 
-- [UC App Updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) show focus on events policies
 
 
 

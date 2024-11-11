@@ -44,6 +44,8 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 
 - [Police grabbed an unsuspecting protester](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
 
+	- [X post](https://x.com/ACatWithNews/status/1800405549689024949)
+
 	- [SJP post](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1)
 
 - [Compilation video showing the days events](https://www.youtube.com/watch?v=ggNHGKvpA2I&ab_channel=danieljbmitchell)

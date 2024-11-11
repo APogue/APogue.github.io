@@ -297,6 +297,9 @@ date: 2024-11-11 12:42 PM
 
 ### UCLA Policy
 
+
+- [UC administrative policies and procedures updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) shows policies that are new or being revised 
+
 - UCLA campus safety report 
 
 - UCLA 4 point plan
