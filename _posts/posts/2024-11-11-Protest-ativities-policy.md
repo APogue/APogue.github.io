@@ -19,126 +19,50 @@ date: 2024-11-11 12:42 PM
 
 ### Predated policy
 
-
-
-
-
-### Reactive policy
-
-
-
-
-
-### UC Regents policy
-
-
-
-
-
-
-
-### UC/CSU state requirements
-
-
-
-
-
-
-
-
-### CA state laws 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Policy 
+- [UC Policy on Academic Freedom](https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-010.pdf)
 
 - [UC policy on student rights](https://policy.ucop.edu/doc/2710537/PACAOS-170)
 
 	- "171.11 To the extent appropriate to the circumstances, to be free from University discipline for actions committed involuntarily or under duress."
 
-	- Is in direct contention with---[UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md)
-
-
-- [UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md), May 16, 2024
-
-	- "Any member of the university community who is arrested for unlawful behavior or cited for a violation of university policy must go through the applicable review process, such as student code of conduct or employee disciplinary process.
-
-		The Regents further affirmed that amnesty for students, faculty and staff is inconsistent with this guideline."
-
-- [TPM policy at the time, Jan 2024](https://ucla.app.box.com/s/saxl0zf54hel7l7848mk323ldas1oohk)
+- [Time, place, manner policy at the time, Jan 2024](https://ucla.app.box.com/s/saxl0zf54hel7l7848mk323ldas1oohk)
 
 	- [UCLA Procedure 850.1 : Placement of Temporary Structures on the UCLA Campus](https://www.adminpolicies.ucla.edu/APP/Number/850.1)
 
-- [Protesters continue occupation of UC-owned land](https://www.dailycal.org/archives/protesters-continue-occupation-of-uc-owned-land/article_00b0f2b0-7c47-567b-a49b-c38be017f209.html)
+- [Regulations Governing Conduct of Non-Affiliates in the Buildings and on the Grounds of the University of California](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs)
 
-	- "UC Berkeley spokesperson Dan Mogulof said UCPD will enforce campus policy banning people from setting up tents on campus property but only if and when they can do so “safely and effectively.” “We don’t want a repeat of the conflicts that marred last semester’s events,” Mogulof said. When tents were erected on campus during the Nov. 9 Occupy Cal protest, police officers physically confronted hundreds of protesters, making arrests, taking down the tents and injuring several people. In response to the Albany occupation, the university turned off the water supply that provides irrigation to the land. “This land is"
+	- "SECTION 100013. PROHIBITED CONDUCT.
+	No non-affiliate on University property shall:
+	G. Knowingly and willfully interfere with the peaceful conduct of the activities of the
+	campus or facility by intimidating, harassing or obstructing any University
+	employee, student, or any other person." Authority cited: Section 924405, Education Code. Reference: Section 92440.5, Education Code. 
 
-	- "24 students and community members filed a federal civil rights lawsuit against UC Berkeley administrators and police, alleging excessive force and violations of free speech rights. In 2018, the U.S. Court of Appeals for the Ninth Circuit dismissed the police brutality claims, stating that the officers' use of force was minimal and that university officials were not liable."
+- [Acknowledge by enrollment to adhere to student conduct code](https://deanofstudents.ucla.edu/individual-student-code), sparse wrt discrimination
 
-	- [Court Dismisses 2011 Police Brutality Claims By Occupy Cal Protesters](https://www.cbsnews.com/sanfrancisco/news/occupy-call-police-brutality-claims-dropped/), this is Berkeley 
+### Policing policy 
 
-	- [BAMN Files Lawsuit Against UC-Berkeley for Police Brutality at “Occupy Cal” Protest](https://www.bamn.com/2011/11/29/bamn-sues-uc-berkeley-police-brutality-occupy-cal-protest/)
+- [UCLA Police Department Policies](https://police.ucla.edu/about-ucla-pd/department-information/policies)
 
-- [University of California to pay nearly $1M to pepper-sprayed Occupy protesters](https://www.cbsnews.com/news/university-of-california-to-pay-nearly-1m-to-pepper-sprayed-occupy-protesters/)
+- [Mapping Yesterday's Police Activity at UCLA](https://escholarship.org/content/qt4jm4t63k/qt4jm4t63k.pdf), April 2021, Lewis Center for Regional Policy Studies
 
-	- "The settlement should be a wake-up call for other universities and police departments," said Michael Risher, staff attorney with the ACLU of Northern California. "If the First Amendment means anything, it's that you should be able to demonstrate without being afraid of police violence."
+- [Proposed changes to Universitywide Police Policies and Administrative Procedures](https://senate.universityofcalifornia.edu/_files/underreview/gold-book-systemwide-review.pdf)
 
-	- This is the incident that led to the Robinson/Edley report, it occurred at Davis
+	- "The “Systemwide Response Teams” policy was drafted based on recommendation by the Robinson/Edley report
+	to create specialized response teams to respond to crown management situations. A proposed Systemwide
+	Response Team policy underwent Management Consultation in 2017, as well as review by the
+	UCFW. However, it was put on hold pending the recommendations of the President’s Police Task Force"
 
-- [UNIVERSITY OF CALIFORNIA COMPLIANCE WITH STATE ASSEMBLY BILL 481](https://regents.universityofcalifornia.edu/regmeet/sept24/c1.pdf)
+	- [Universitywide Police Policies And Administrative Procedures](https://policy.ucop.edu/doc/4000382/PoliceProceduresManual)
 
-	- "The equipment that falls within the scope of AB 481’s definition of military equipment provides
-	UCPD with less lethal alternatives to standard-issue firearms, for use in extraordinary public
-	circumstances."
+### Public safety policy 
 
-	- [Annual report](https://regents.universityofcalifornia.edu/regmeet/sept24/c1attach2.pdf)
+- [UC Community Safety Plan](https://www.ucop.edu/uc-operations/systemwide-community-safety/policies-and-guidance/community-safety-plan/uc-community-safety-plan.pdf)
 
+	- Introduction has 4 overarching guidelines, includes "bias/hate response"
 
-### Robinson/Edley report
+	- Office of Systemwide Community Safety established in July 2022 to ensure the plan's implementation
+
+- [Charting a new course for public safety at UCLA: Report of the UCLA Co-Chairs](https://ucla.app.box.com/v/Public-Safety-Report), May 10th 2022
 
 - [Robinson/Edley Report](https://campusprotestreport.universityofcalifornia.edu/documents/implementation-report.pdf)
 
@@ -209,18 +133,105 @@ date: 2024-11-11 12:42 PM
 	broadly to the group as a whole (through social media and otherwise) until
 	relationships form."
 
-- [UC Community Safety Plan](https://www.ucop.edu/uc-operations/systemwide-community-safety/policies-and-guidance/community-safety-plan/uc-community-safety-plan.pdf)
 
-	- Introduction has 4 overarching guidelines, includes "bias/hate response"
 
-	- Office of Systemwide Community Safety established in July 2022 to ensure the plan's implementation
+
+### Time, Place, and Manner policy
+
+- [UCLA announces new Time, Place and Manner policies, limits public expression areas](https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas)
+
+- [UCLA time, place, and manner policies](https://adminvc.ucla.edu/tpm-policies)
+
+- [UCLA SOLE policies---new tpm policies](https://sole.ucla.edu/policies)
+
+- [Drake letter regarding new TPM policies](https://www.documentcloud.org/documents/25051187-letter-from-president-drake-chancellors-policies-impacting-expressive-activity-003)
+
+- [Map areas public expression](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression)
+
+
+
+### UC policy
+
+- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
+
+	- "This Policy prohibits Prohibited Conduct as defined in Section II.A. Individuals may
+	engage in Prohibited Conduct in person or through other means. This includes, but is
+	not limited to, **conduct involving physical actions** and/or any form of communication,
+	including, but not limited to, spoken, written, and non-verbal communication through any
+	means including, but not limited to, electronic media, such as the internet, social
+	networks, cell phones, texts, and other devices or forms of contact."
+
+		- "Training and Education for the Respondent:
+
+			•	If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure.
+			•	The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards."
+
+
+
+
+
+### UC Regents policy
+
+
+- [UC Board of Regents statement on conduct guidelines issued by UC President Michael V. Drake, M.D.](https://www.universityofcalifornia.edu/press-room/uc-board-regents-statement-conduct-guidelines-issued-uc-president-michael-v-drake-md), May 16, 2024
+
+	- "Any member of the university community who is arrested for unlawful behavior or cited for a violation of university policy must go through the applicable review process, such as student code of conduct or employee disciplinary process.
+
+		The Regents further affirmed that amnesty for students, faculty and staff is inconsistent with this guideline."
+
+
+
+
+
+### UC/CSU state requirements
+
+
+
+
+
+
+
+
+### CA state laws 
+
+
+
+
+
+### Policy 
+
+
+- [Protesters continue occupation of UC-owned land](https://www.dailycal.org/archives/protesters-continue-occupation-of-uc-owned-land/article_00b0f2b0-7c47-567b-a49b-c38be017f209.html)
+
+	- "UC Berkeley spokesperson Dan Mogulof said UCPD will enforce campus policy banning people from setting up tents on campus property but only if and when they can do so “safely and effectively.” “We don’t want a repeat of the conflicts that marred last semester’s events,” Mogulof said. When tents were erected on campus during the Nov. 9 Occupy Cal protest, police officers physically confronted hundreds of protesters, making arrests, taking down the tents and injuring several people. In response to the Albany occupation, the university turned off the water supply that provides irrigation to the land. “This land is"
+
+	- "24 students and community members filed a federal civil rights lawsuit against UC Berkeley administrators and police, alleging excessive force and violations of free speech rights. In 2018, the U.S. Court of Appeals for the Ninth Circuit dismissed the police brutality claims, stating that the officers' use of force was minimal and that university officials were not liable."
+
+	- [Court Dismisses 2011 Police Brutality Claims By Occupy Cal Protesters](https://www.cbsnews.com/sanfrancisco/news/occupy-call-police-brutality-claims-dropped/), this is Berkeley 
+
+	- [BAMN Files Lawsuit Against UC-Berkeley for Police Brutality at “Occupy Cal” Protest](https://www.bamn.com/2011/11/29/bamn-sues-uc-berkeley-police-brutality-occupy-cal-protest/)
+
+- [University of California to pay nearly $1M to pepper-sprayed Occupy protesters](https://www.cbsnews.com/news/university-of-california-to-pay-nearly-1m-to-pepper-sprayed-occupy-protesters/)
+
+	- "The settlement should be a wake-up call for other universities and police departments," said Michael Risher, staff attorney with the ACLU of Northern California. "If the First Amendment means anything, it's that you should be able to demonstrate without being afraid of police violence."
+
+	- This is the incident that led to the Robinson/Edley report, it occurred at Davis
+
+- [UNIVERSITY OF CALIFORNIA COMPLIANCE WITH STATE ASSEMBLY BILL 481](https://regents.universityofcalifornia.edu/regmeet/sept24/c1.pdf)
+
+	- "The equipment that falls within the scope of AB 481’s definition of military equipment provides
+	UCPD with less lethal alternatives to standard-issue firearms, for use in extraordinary public
+	circumstances."
+
+	- [Annual report](https://regents.universityofcalifornia.edu/regmeet/sept24/c1attach2.pdf)
+
+
+### Free speech policy 
  
 - [Free Speech on Campus: The Basics, The Myths, The Challenges](https://ucla.app.box.com/v/free-speech-on-campus)
 
 	-  Defamation (false statements of fact published with a particularly reckless state of
 	mind that harms reputation) and harassment (sexual, racial, etc) are categorical exceptions to free speech
-
-		- [Regulations Governing Conduct of Non-Affiliates in the Buildings and on the Grounds of the University of California](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs), no mention of harassment in this doc
 
 	- "The following pages offer a point of departure for this journey. This isn’t legal advice. It’s not even meant as official University policy. It’s instead the start of a public conversation. Our analysis is incomplete, a work-in-progress, consistent with the Office of Equity, Diversity and Inclusion’s ethos that embraces reflection, revision, and reiteration."
 
@@ -325,21 +336,6 @@ date: 2024-11-11 12:42 PM
 	- Is it balanced
 
 	- [SJP take, anti-Muslim education is optional (is it?)](https://www.instagram.com/p/DAwUcHky-MM/?hl=en&img_index=3)
-
-### Title VI 
-
-- Where is the line? UCLA has made no effort to define it
-
-	- What is pervasive? What is severe? Who is tallying the totality of the circumstances so that when the line is crossed, it can be stopped before students are denied equal access to education?
-
-- Chilling of free speech
-
-	- Due to imbalanced discipline and policing
-
-- Denial of benefits---access to education 
-
-	- due to injury, fear and intimidation
-
 
 ### Town hall 
 

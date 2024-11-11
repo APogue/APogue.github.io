@@ -1,10 +1,9 @@
 ---
 layout: outline
-title: "Rebalance the Outlines with Added Research"
+title: "Misc. notes and articles"
 published: true
 author: Alexie Pogue
-date: 2024-10-01 7:05 PM
-updated_date: 2024-10-15 12:48 AM
+date: 2024-11-11 4:28 PM
 ---
 
 ### Notes and Links
@@ -21,8 +20,6 @@ updated_date: 2024-10-15 12:48 AM
 
 - [OCR recent resolution search](https://ocrcas.ed.gov/ocr-search?f%5B0%5D=field_ocr_statutes%3A527&sort_order=DESC&sort_by=field_resolved) database can be found here
 
-
-- [Case Processing Manual](https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocrcpm.pdf)
 
 - [Case resolutions regarding race, color, or national origin discrimination](https://www.ed.gov/about/ed-offices/ocr/race-discrimination)
 
@@ -137,17 +134,15 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
 
-- UCLA announces new Time, Place and Manner policies, limits public expression areas [article](https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas)
+
 
 - UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
 
-- [UCLA time, place, and manner policies](https://adminvc.ucla.edu/tpm-policies)
 
-- [UCLA SOLE policies---new tpm policies](https://sole.ucla.edu/policies)
 
 - [Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
 
-- [Drake letter regarding new TPM policies](https://www.documentcloud.org/documents/25051187-letter-from-president-drake-chancellors-policies-impacting-expressive-activity-003)
+
 
 - [police at uc santa cruz](https://mondoweiss.net/2024/06/we-are-going-to-hurt-you-uc-santa-cruz-chancellor-unleashes-police-mayhem-against-student-protesters/)
 
@@ -155,84 +150,51 @@ Cases are not necessarily investigated in the order that complaints are received
 
 ### Updates to protest events and activities at UCLA
 
-- [Police arrested hundreds of pro-Palestinian students in L.A. The fallout continues, Aug. 2, 2024](https://www.latimes.com/california/story/2024-08-02/ucla-usc-pomona-palestinian-protests)
 
-	- "Since police arrested her twice this spring at UCLA — accusing her of failing to obey orders to leave pro-Palestinian encampments — Asil Yassine has spent the summer navigating court dates and uncertainties. No criminal charges have been filed in one case, although it has not been dropped. In the other, an arraignment is coming up in late August. The consequences of her arrests are piling up."
 
-	- "Yassine was temporarily banned from campus and could not attend her graduation, where she would have received a doctorate in human development and psychology. The university placed holds on her records and she still has not received her diploma. Without proof of her degree, her work this summer at a psychology office won’t count toward her license. “I’m not surprised by the oppression but I’m shocked by the extent and aggression of it and how punitive it was,” said Yassine, who is of Palestinian and Lebanese heritage."
+- [21st century policing independent solutions June 7th](https://www.instagram.com/p/C77S9I_SNHs/?img_index=1)
 
-	- "About three months since 231 UCLA protesters were arrested, most on misdemeanor charges, the Los Angeles city attorney’s office has not received referrals involving those cases, a spokesman said. The city attorney typically handles misdemeanor charges. There is a one-year period in which charges can be filed in misdemeanor cases."
+- June 10th protest
 
-	- "Citing student privacy, a UCLA spokesman said the university could not discuss its internal student conduct proceedings."
 
-	- "Law enforcement authorities are still investigating those who instigated violence at the encampment on April 30 and May 1. One arrest was made in the attack."
+- [Police misconduct](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1) and [clearer video](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
 
-    - [21st century policing independent solutions June 7th](https://www.instagram.com/p/C77S9I_SNHs/?img_index=1)
 
-	- June 10th protest
+- What about the man with the megaphone or the huge screen at UCLA? see r/reddit clippings
+or [May 6th](https://www.instagram.com/p/C6ouFj1Pa6m/?hl=en) use of amplified sound
 
-		- [Large police presence](https://www.instagram.com/p/C8D0QunNw6t/)
+- The response was disproportionate 
 
-		- [Police misconduct](https://www.instagram.com/p/C8EbfWuOdum/?img_index=1) and [clearer video](https://www.instagram.com/p/C8IlcjTSf5R/?hl=en)
+	- Use of amplified sound, check the TPM policies, are you subject to physical handling by police for inappropriate use of amplified sound? 
 
-		- No statement made by Gene Block 
+		- There was no verbal warning that she would be physically handled if she did not cease and desist, she turned her back and they grabbed her. 
 
-		- [UCPD statement regarding June 10, 2024 unlawful encampment incidents and arrests](https://ucla.app.box.com/v/Arrests-241105-06102024)
+		- UCLA Interim Policy 852: Public Expression Activities---"Public Expression Activities may be directed to cease subject to the review and approval by the Chancellor or a Designated University Official based on the UCLA Interim Policy 852 Safety and Security Criteria and/or the Interference Criteria that will be evaluated in a content-neutral and viewpoint-neutral manner"
 
-		- Mary Osako---Newsroom statements
+		- See "guidelines for amplified sound," was she in an Area for Public Expression? Does it matter? If you break UC policy are you breaking the law? Are you subject to arrest?
 
-			- [June 10th](https://newsroom.ucla.edu/statement-on-royce-quad-disruption)
+	- The response by the school would serve to discourage pro-Palestinian demonstrations and was therefor not content neutral. Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel's numbers don't match the UCPD statement. This is out of approximately 175 total protesters. 
 
-			- [June 11th Rick Braziel statement](https://newsroom.ucla.edu/condemning-mondays-violence-on-campus)
+	- According to the DB, the individual arrested for interfering with police was USAC president Adam Tfayli (who is within his rights to be present at an open protest and would not have been violent) - [Pro-Palestine protesters set up 3rd solidarity encampment in Dickson Plaza](https://dailybruin.com/2024/06/10/pro-palestine-protesters-set-up-3rd-solidarity-encampment-in-dickson-plaza)
 
-		- What about the man with the megaphone or the huge screen at UCLA? see r/reddit clippings
-		or [May 6th](https://www.instagram.com/p/C6ouFj1Pa6m/?hl=en) use of amplified sound
+- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
 
-		- The response was disproportionate 
+President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
 
-			- Use of amplified sound, check the TPM policies, are you subject to physical handling by police for inappropriate use of amplified sound? 
+- The UC's mainly concerned with enforcing rules to mitigate costs associated with protests
 
-				- There was no verbal warning that she would be physically handled if she did not cease and desist, she turned her back and they grabbed her. 
+- This includes notification about rules around free speech activities and consequences for violating them 
 
-				- UCLA Interim Policy 852: Public Expression Activities---"Public Expression Activities may be directed to cease subject to the review and approval by the Chancellor or a Designated University Official based on the UCLA Interim Policy 852 Safety and Security Criteria and/or the Interference Criteria that will be evaluated in a content-neutral and viewpoint-neutral manner"
+- Also talks of extra security costs around Board of Regents meetings at UCLA 
 
-				- See "guidelines for amplified sound," was she in an Area for Public Expression? Does it matter? If you break UC policy are you breaking the law? Are you subject to arrest?
+- Yet they seem in support of costs "to keep campuses safe"
 
-			- The response by the school would serve to discourage pro-Palestinian demonstrations and was therefor not content neutral. Of the 27 arrested, 25 were arrested for disruption of university operations and 1 arrested for interfering with a police officer, and 1 unknown because Braziel's numbers don't match the UCPD statement. This is out of approximately 175 total protesters. 
+	- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety.
 
-			- According to the DB, the individual arrested for interfering with police was USAC president Adam Tfayli (who is within his rights to be present at an open protest and would not have been violent) - [Pro-Palestine protesters set up 3rd solidarity encampment in Dickson Plaza](https://dailybruin.com/2024/06/10/pro-palestine-protesters-set-up-3rd-solidarity-encampment-in-dickson-plaza)
-
-	- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
-
-		President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
-
-		- The UC's mainly concerned with enforcing rules to mitigate costs associated with protests
-
-		- This includes notification about rules around free speech activities and consequences for violating them 
-
-		- Also talks of extra security costs around Board of Regents meetings at UCLA 
-
-		- Yet they seem in support of costs "to keep campuses safe"
-
-			- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety.
-
-				“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
+		“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
 
 
 
-
-
-- Does UCLA care about its students? Why are they trying to get away with the riots of April 30th? 
-
-	- No signaling by the administration---UCOP, Regents, or UCLA---that they care about what happened, that ultimately they are an ally of the students
-
-	- They pitted themselves *against* these students, because the manner in which they are managing them *is not* content neutral 
-
-	- They refuse to acknowledge mistakes were made, they refuse to acknowledge that UCLA is unique in its circumstances
-
-	- Content neutral buffer zones
-
-	- Mandatory ID scans if non-affiliates 
 
 	- [Interim Chancellor Hunt Four-Point Plan](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
 
@@ -247,24 +209,14 @@ Cases are not necessarily investigated in the order that complaints are received
 
 ### Demonstrate a need for publication of notification
 
-- [CFR 100.6d Compliance information](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-100/section-100.6)
 
-	- "Information to beneficiaries and participants.  Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation."
 
-- [UC non-affiliate policy](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as)
 
-- [Acknowledge by enrollment to adhere to student conduct code](https://deanofstudents.ucla.edu/individual-student-code), very sparse wrt discrimination
 
-- [UC Anti-discrimination Policy](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
 
-	- "This Policy prohibits Prohibited Conduct as defined in Section II.A. Individuals may
-	engage in Prohibited Conduct in person or through other means. This includes, but is
-	not limited to, conduct involving physical actions and/or any form of communication,
-	including, but not limited to, spoken, written, and non-verbal communication through any
-	means including, but not limited to, electronic media, such as the internet, social
-	networks, cell phones, texts, and other devices or forms of contact."
 
-	- This is as important for recipients as anyone else; they themselves may not know the difference between protected and unprotected speech
+
+
 
 
 - [AB-107 Budget Act of 2024](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB107) "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans." Also applies to CSU (25 and 25)
@@ -282,35 +234,6 @@ Cases are not necessarily investigated in the order that complaints are received
 
 ### Notes
 
-- Institutional bias
-
-- The conflating of protected and unprotected activity is always in service of the negative handling of pro-Palestinian students
-
-- There is a pattern showing a lack of siding with pro-Palestinian protesters via punishment, statement omissions, or a negative administrative tone
-
-- Shows they are not *truly* committed to content-neutral student management
-
-- Ex. the pig effigy, they didn't remove it right away even though it breaks Title VI and UC anti-discrimination policy. This and other messaging by the administration signals that *it is okay* to discriminate; resulting in organizational bias. 
-
-- There was a lack of swift response, conduct evaluations, appropriate acknowledgment, and anti-discrimination training during the last academic year. They are making scapegoats of these students thereby fueling the flames of divide between these groups. 
-
-- Yet they had constructive notice either via the DB, organization posts, or submitted complaints.
-
-- They had constructive notice via the Daily Bruin of the hate speech and discrimination occurring from counter-protesters as well---I don't believe there was any administrative response. 
-
-	- There needs to be *specific* recourse for what happened. If they can't close campus to non-affiliates like Columbia, then UCLA needs to become a surveillance campus. Scan an ID to come on campus. 
-
-- The UC non-discrimination policy 
-
-	- "Training and Education for the Respondent:
-	•	If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure.
-	•	The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards."
-
-	- By the UC anti-discrimination policy, respondents are subject to anti-discrimination training and education. By failing to hold the discriminating persons accountable, they are effectively denying them access to a Title VI education. 
-
-	- Denying them this education means they really do not care about these individuals and they do not care about campus climate. They continue with symbolic gestures tossed to the abyss. 
-
-- All in all, (Gene Block and) UCLA have washed their hands of these students, they don't want to deal with them. 
 
 - [UCLA faculty FJP daily bruin respond to June 10th](https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety)
 
@@ -350,6 +273,6 @@ Cases are not necessarily investigated in the order that complaints are received
 
 - [Daily Bruin Op-Ed 4 point plan](https://dailybruin.com/2024/10/01/the-uc-must-revise-its-handling-of-free-speech-student-protests-to-promote-trust)
 
-- [map areas public expression](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression)
+
 
 

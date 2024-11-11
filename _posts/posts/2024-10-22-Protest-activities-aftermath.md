@@ -1,10 +1,10 @@
 ---
 layout: outline
-title: "Protest activities-aftermath w/policy"
+title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-08 6:13 PM
+updated_date: 2024-11-11 3:19 PM
 ---
 
 
