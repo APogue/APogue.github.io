@@ -15,6 +15,8 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 - Less militarization of campus 
 
+- [Editorial: Actions of law enforcement, UCLA admin reveal unwillingness to protect students](https://dailybruin.com/2024/05/17/editorial-actions-of-law-enforcement-ucla-admin-reveal-unwillingness-to-protect-students)
+
 - [Editorial: UCLA administration’s response to protests fails to repair ties with community](https://dailybruin.com/2024/10/20/editorial-ucla-administrations-response-to-protests-fail-to-repair-ties-with-community)
 
 	- "But if any kind of reconciliation is at all possible, the administration must lay a new foundation for the future. In our view, the process has to begin with this first step.

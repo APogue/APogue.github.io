@@ -22,6 +22,13 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 ### Mayor Bass said
 
+
+### Newsom said
+
+- [Local and state officials condemn late response from law enforcement at encampment](https://dailybruin.com/2024/05/01/local-and-state-officials-condemn-late-response-from-law-enforcement-at-encampment)
+
+- [Newsom statements](https://www.nbclosangeles.com/news/local/delayed-police-response-at-ucla-unacceptable-newsom-says/3402121/)
+
 ### Block messages in the days after 
 
 - [Chancellor Block shared the following message with the UCLA campus community](https://chancellor.ucla.edu/messages/changes-to-campus-security-operations/), May 5, 2024

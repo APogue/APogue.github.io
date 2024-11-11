@@ -297,38 +297,12 @@ date: 2024-11-11 12:42 PM
 
 ### UCLA Policy
 
-
 - [UC administrative policies and procedures updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) shows policies that are new or being revised 
 
-- UCLA campus safety report 
 
-- UCLA 4 point plan
 
-	- Myers appointed to address campus climate
 
-- What is the point of any of the above if the university doesn't even enforce its own policy on remedial anti-discrimination training
 
-- The UC non-discrimination policy
-
-	- “Training and Education for the Respondent: • If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure. • The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards.”
-
-	- By the UC anti-discrimination policy, respondents are subject to anti-discrimination training and education. By failing to hold the discriminating persons accountable, they are effectively denying them access to a Title VI education.
-
-- Discrimination that crosses the line opens the door for teachable moments 
-
-	- Forces students to communicate using legal free speech
-
-	- This will aid in becoming more effective communicators after college
-
-	- It also opens the forum for civil discourse---a more meaningful use of time and resources 
-
-	- Denying them anti-discrimination education means they do not care about these individuals and they do not care about campus climate. 
-
-- [Editorial: Actions of law enforcement, UCLA admin reveal unwillingness to protect students](https://dailybruin.com/2024/05/17/editorial-actions-of-law-enforcement-ucla-admin-reveal-unwillingness-to-protect-students)
-
-- [Local and state officials condemn late response from law enforcement at encampment](https://dailybruin.com/2024/05/01/local-and-state-officials-condemn-late-response-from-law-enforcement-at-encampment)
-
-	- [Newsom statements](https://www.nbclosangeles.com/news/local/delayed-police-response-at-ucla-unacceptable-newsom-says/3402121/)
 
 ### State policy 
 
