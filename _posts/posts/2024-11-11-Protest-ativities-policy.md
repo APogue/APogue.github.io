@@ -6,10 +6,15 @@ author: Alexie Pogue
 date: 2024-11-11 12:42 PM
 ---
 
+### Notes
 
-Thesis1: Policy that works requires *balance*. Anti-discrimination education that serves everyone. Policing that targets the actual problems that are occurring using the appropriate amount of resources. Free speech that acknowledges anti-discrimination laws.
+- Policy that works requires *balance*. Anti-discrimination education that serves everyone. Policing that targets actual problems using the appropriate amount of resources. Free speech that acknowledges anti-discrimination laws.
 
-Thesis2: Umbrella responses unfairly target certain groups, chill free speech, and leave certain members of the community vulnerable to continual harm. 
+- Umbrella responses unfairly target certain groups, chill free speech, and leave certain members of the community vulnerable to continual harm. 
+
+- It is very convenient for the school to support 1st amendment rights in the manner that it is---by doing nothing. The school can uphold the 1st amendment in a way that is legal, which would take significantly more involvement and oversight. They would need to be more than "just a bank that holds classes sometimes" or whatever that students said
+
+	- It is clear this is happening because even when they were tasked with implementing policy, they failed to do so and simply threw money at the problem after disaster struck
 
 
 ### Predated policy
@@ -135,13 +140,120 @@ Thesis2: Umbrella responses unfairly target certain groups, chill free speech, a
 
 ### Robinson/Edley report
 
-- Brought up in the 2024 UC toolkit
+- [Robinson/Edley Report](https://campusprotestreport.universityofcalifornia.edu/documents/implementation-report.pdf)
 
-- Statistics from DB and policy reports on UCLA protests being largely peaceful 
+- [Robinson-Edley Report](https://campusprotestreport.universityofcalifornia.edu/), implementation report above is the promise to use the policy
 
-- What's the point of this beautifully thought out policy that administrators signed their commitment to, if when push comes to shove they take the path of least resistance and all of a sudden it's Texas in California. 
+	- Unlike the other schools, UCLA gave the impression they had all necessary systems in place. There was mention of training and an "Incident Command System" they were pursuing at the time. Can't find any "Incident Command System" associated with UCLA. 
 
-- Administrators *need* to back up everything they do with policy. Not "we are heartbroken," again giving 2004 kind of response to events and incidents that can affect hundreds of students. Everything must come from study, data, and training on the subject. Nothing of large magnitude affecting hundreds of students can be dealt with by administrative "parenting" or instinct. 
+- [Principles, Policies, and Practices: A toolkit to prepare for and manage major campus events or incidents](https://diversity.universityofcalifornia.edu/files/uc-major-events-toolkit-2024-update-003.pdf)
+
+	- "A campus can have the most expertly crafted rules and regulations but, if they are not
+	implemented with uniformity, they are rendered ineffective and the university’s credibility
+	is compromised. This can be something as small as allowing one student group to use a
+	loudspeaker and prohibiting another student group from doing the same."
+
+	- "Regardless of whether one has a legal right to speak in a manner that reflects bias,
+	stereotypes, prejudice and intolerance, each member of the University community is
+	expected to consider his or her responsibilities as well as his or her rights.
+	Intellectual and creative expression that is intended to shock has a place in our
+	community. Nevertheless, mutual respect and civility within debate and dialogue
+	advance the mission of the University, advance each of us as learners and teachers,
+	and advance a democratic society"
+
+	- "In August 2021, UC President Michael V. Drake, M.D., issued the UC Community Safety
+	Plan to provide a systemwide framework for improving safety on UC campuses and
+	ensuring that all members of the UC community feel welcome, respected, and protected
+	from harm. Building on the work of prior UC safety initiatives, the Community Safety
+	Plan broadly defines safety. It establishes mechanisms for empowering the UC
+	community, developing a structure for continuous improvement, and ensuring that the
+	University's safety policies and practices reflect the needs and values of our diverse
+	community, including wellness, mental health, basic needs, and social services."
+
+	- "There is no exception from the First Amendment on the basis of the hateful
+	nature of a speaker’s statements. On its own, the fact that speech may cause
+	emotional harm to others cannot provide the basis for UC to prohibit it"
+
+	- "**The Robinson/Edley Report** continues to guide responses to protests and civil disobedience,
+	while the **Community Safety Plan** establishes a structure for the University to achieve a
+	more holistic approach to campus safety. "
+
+		- "Of particular interest in the current era are the “Recommendations as Implemented” on pages 14–17 of the Robinson Edley Report - 12 Month Implementation Report, which refined the original recommendations based on input from university stakeholders."
+
+	- " Regulations Governing Conduct of Non-Affiliates in the Buildings and
+	on the Grounds of the University of California (100013.L) state that no
+	non-affiliate shall wear a mask, personal disguise or otherwise conceal
+	their identity with the intent of intimidation or for the purpose of
+	vading identification."
+
+	- "Regulations Governing Conduct of Non-Affiliates in the Buildings and
+	on the Grounds of the University of California (100008 and 100015)
+	indicate that no non-affiliate shall bring any explosive, flammable or
+	hazardous materials onto university property. No non-affiliate shall
+	carry or possess any Dangerous Weapon — see Section 100015 for the
+	definition of “Dangerous Weapon.”"
+
+	- "PUBLIC SAFETY AND PROTEST MANAGEMENT"---lists things campus should be doing. Has UCLA been doing any of it?
+
+		- "Has the campus established a clear process for consulting with the Chancellor
+	or a designate on the use of policing tactics, including use of force, removal
+	of protestors, citation or arrest of protestors? (response continuum - do you
+	have one, who is in charge of it?)"
+
+	- "COMMUNICATIONS REGARDING PROTESTS AND MAJOR EVENTS"
+
+		- "Have campus officials made every reasonable attempt to identify and contact
+	members of the demonstration group — preferably one or more group leaders
+	— in advance of the demonstration, to establish lines of communication? For
+	leaderless groups, campus authorities should consider communicating
+	broadly to the group as a whole (through social media and otherwise) until
+	relationships form."
+
+- [UC Community Safety Plan](https://www.ucop.edu/uc-operations/systemwide-community-safety/policies-and-guidance/community-safety-plan/uc-community-safety-plan.pdf)
+
+	- Introduction has 4 overarching guidelines, includes "bias/hate response"
+
+	- Office of Systemwide Community Safety established in July 2022 to ensure the plan's implementation
+ 
+- [Free Speech on Campus: The Basics, The Myths, The Challenges](https://ucla.app.box.com/v/free-speech-on-campus)
+
+	-  Defamation (false statements of fact published with a particularly reckless state of
+	mind that harms reputation) and harassment (sexual, racial, etc) are categorical exceptions to free speech
+
+		- [Regulations Governing Conduct of Non-Affiliates in the Buildings and on the Grounds of the University of California](https://policy.ucop.edu/doc/3000127/NonAffiliateRegs), no mention of harassment in this doc
+
+	- "The following pages offer a point of departure for this journey. This isn’t legal advice. It’s not even meant as official University policy. It’s instead the start of a public conversation. Our analysis is incomplete, a work-in-progress, consistent with the Office of Equity, Diversity and Inclusion’s ethos that embraces reflection, revision, and reiteration."
+
+	- "Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, **UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most definitely applies.**"
+
+	- "Of course, UCLA should do everything possible to ensure that those disagreements are debated on-the-merits, with clarifications, concessions, persuasion, and respect. But the bottom line is that we want that diversity of viewpoints to be aired, debated, and considered, not trapped inside single-minded echo chambers."
+
+	- "The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to the university’s fundamental mission, “which is to discover knowledge and to disseminate it to its students and to society at large.”"
+
+	- "But as a descriptive statement of law, **the assertion “hate speech is not free speech” is just plain wrong.** The Supreme Court has repeatedly struck down laws—including university “speech codes”— that penalize or otherwise regulate “hate speech.”"
+
+	- "Those who seek to create a whole new exception or increase the scope of recognized exceptions face an uphill battle. For good or bad, the Supreme Court has interpreted what counts as “unprotected speech” and “less protected speech” narrowly and is likely to continue doing so in the foreseeable future."
+
+	- They understand and acknowledge that truth does not always prevail in the marketplace of ideas
+
+	- "Equal Protection Clause of the Fourteenth Amendment...**But this means freedom of speech can sometimes be constrained to further the right to equality. The reality—and challenge—is that sometimes equality gives way to freedom of speech, and vice versa.**"
+
+	- "And most important, what counts as “harassment?” Those who seek to create a whole new exception or increase the scope of recognized exceptions face an uphill battle. For good or bad, the Supreme Court has interpreted what counts as “unprotected speech” and “less protected speech” narrowly and is likely to continue doing so in the foreseeable future."
+
+	- "Remember that certain forms of speech, such as **true threats and defamation**, are unprotected under the First Amendment. There’s a reason why these forms of speech are unprotected (or less protected); as a general rule, it’s understood that they cause concrete harm and provide little if any social value. **UCLA is largely free to regulate those forms of speech and it should attempt to do so.**"
+
+	- "UCLA Student Conduct Code (Section 102.11) defines harassment as **“conduct that is so severe and/or pervasive, and objectively offensive, and that so substantially impairs a person’s access to University programs or activities that the person is effectively denied equal access to the University’s resources and opportunities.**”"
+
+	- "That amounts to a **“Heckler’s Veto,” which the University frowns upon and First Amendment law does not protect.**"
+
+	- "Even though UCLA as “sovereign” cannot suppress speech simply because it disagrees with its message, UCLA as “speaker” may pick a side and share its beliefs. UCLA can, and should, exercise the full power of its bully pulpit to speak our values...This includes publicly denouncing hate speech, whether that speech is expressed by members of the UCLA community or by those invited into our fold."
+
+	- "**Geat ideas, great art, and great teaching should often make us uncomfortable.**"
+
+	- "In addition, UCLA should continue its efforts to diversify the university; to facilitate the development of programmatic and curricular initiatives that advance and reflect its commitment to equity, diversity, and inclusion; and proactively work to ensure that no student feels barred from participating in the multiple dimensions of campus life because of their social group membership."
+
+
+
 
 ### Directly relevant UC policies 
 
