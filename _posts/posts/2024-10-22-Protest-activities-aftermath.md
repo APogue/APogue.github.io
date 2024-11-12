@@ -29,6 +29,42 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 - [Newsom statements](https://www.nbclosangeles.com/news/local/delayed-police-response-at-ucla-unacceptable-newsom-says/3402121/)
 
+
+### Los Angeles City Council
+
+- [Los Angeles City Council requests report on LAPD action at UCLA, USC encampments](https://dailybruin.com/2024/06/04/los-angeles-city-council-requests-reports-on-lapd-action-at-ucla-usc-encampments)
+
+	- "Councilmembers Nithya Raman, Katy Yaroslavsky, Marqueece Harris-Dawson and Curren Price introduced the motion May 7. The motion requests an after action report from the interim and eventual chief of LAPD on the department’s actions leading up to and during protests at both universities between April 24 and May 6, including at what time intervention from LAPD was requested."
+
+	- "The motion also requested that LAPD and the Office of Inspector General provide a report on decisions surrounding the size, timing and methodology of LAPD’s deployments at the encampments at UCLA and USC, as well as providing information about any future protocol changes to improve departmental policy."
+
+	- "Raman referred to the April arrests of nonviolent protesters at USC in comparison to the lack of police presence at UCLA during the violent counter-protester attacks April 30 and the morning of May 1
+
+		“I’m concerned that these divergent responses leave our communities with questions and particularly leave our communities wondering whether the response protesters may get from law enforcement depends on their politics rather than on their actions,” Raman said during the meeting. “I would like us as a city to answer some of those questions for the public.”"
+
+- [Motion](https://clkrep.lacity.org/onlinedocs/2024/24-0537_misc_05-07-24.pdf)
+
+	- "At UCLA, a campus that is under the state’s
+	jurisdiction, a group of counter-protestors attacked the protest encampment, leading to several
+	hours of violence during which law enforcement did not intervene and which resulted in no
+	arrests. The following night, approximately 300 officers led by the California Highway Patrol
+	and the University of California Police Department with support from the Los Angeles County
+	Sheriffs Department and LAPD, were deployed to dismantle the encampment, using less-lethal
+	force including stun grenades and rubber bullets.
+
+		At present the protocol for how decisions were made about the number of officers deployed, how
+		they were deployed, and when they were deployed has not been made clear to the public.
+		Recognizing the complexity of a multi-agency response on state property, it is nevertheless
+		incumbent upon the City to be transparent and accountable to Angelenos about how their safety
+		and civil rights are being protected, and for that protection to be equally provided regardless of
+		one’s politics, identity and protected free speech."
+
+- "As of November 12, 2024, there is no publicly available information indicating that the Los Angeles Police Department (LAPD) or the Office of the Inspector General have released the after-action reports requested by the Los Angeles City Council regarding the department's response to the protests at UCLA and USC between April 24 and May 6, 2024. The motion, introduced on May 7, 2024, called for detailed reports on the LAPD's actions, including the timing, size, and methodology of deployments during the campus encampments. 
+
+	Despite the council's directive, there have been no official releases or public statements confirming the completion or publication of these reports. The absence of these documents has left community members and stakeholders without comprehensive insights into the LAPD's decision-making processes and actions during the specified period."
+
+
+
 ### Block messages in the days after 
 
 - [Chancellor Block shared the following message with the UCLA campus community](https://chancellor.ucla.edu/messages/changes-to-campus-security-operations/), May 5, 2024

@@ -167,7 +167,26 @@ updated_date: 2024-11-12 1:10 PM
 			•	If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure.
 			•	The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards."
 
+- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
 
+
+### Directly relevant UC policies 
+
+- No masking
+
+- No encampments 
+
+- LA Times article on spending 
+
+- What the Regents Chair said about "safety"
+
+- Regents resolution on distancing from polemic messaging (did that get approved?)
+
+- Heavy policing is a UC standard 
+
+	- UC Divest Protest to Regents meeting
+
+		- Many officers present
 
 
 
@@ -181,7 +200,11 @@ updated_date: 2024-11-12 1:10 PM
 		The Regents further affirmed that amnesty for students, faculty and staff is inconsistent with this guideline."
 
 
+- [Passed measure J2](https://dailybruin.com/2024/07/17/uc-regents-votes-to-pass-item-j2-following-months-of-revision-and-deferred-voting)
 
+- [UCSA says that they can add a disclaimer](https://www.instagram.com/p/C90ZaFDSty9/?img_index=1), not sure that is the case
+
+- [SJP take](https://www.instagram.com/p/C-BXNiNiNKt/?hl=en&img_index=1)
 
 
 ### UC/CSU state requirements
@@ -265,42 +288,6 @@ updated_date: 2024-11-12 1:10 PM
 	- "In addition, UCLA should continue its efforts to diversify the university; to facilitate the development of programmatic and curricular initiatives that advance and reflect its commitment to equity, diversity, and inclusion; and proactively work to ensure that no student feels barred from participating in the multiple dimensions of campus life because of their social group membership."
 
 
-### Directly relevant UC policies 
-
-- No masking
-
-- No encampments 
-
-- LA Times article on spending 
-
-- What the Regents Chair said about "safety"
-
-- Regents resolution on distancing from polemic messaging (did that get approved?)
-
-- Heavy policing is a UC standard 
-
-	- UC Divest Protest to Regents meeting
-
-		- Many officers present
-
-### UC policy 
-
-
-
-- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
-
-
-- Drake's policing with safety policy
-
-- [Passed measure J2](https://dailybruin.com/2024/07/17/uc-regents-votes-to-pass-item-j2-following-months-of-revision-and-deferred-voting)
-
-- [UCSA says that they can add a disclaimer](https://www.instagram.com/p/C90ZaFDSty9/?img_index=1), not sure that is the case
-
-- [SJP take](https://www.instagram.com/p/C-BXNiNiNKt/?hl=en&img_index=1)
-
-
-
-
 
 
 ### UCLA Policy
@@ -334,7 +321,7 @@ updated_date: 2024-11-12 1:10 PM
 
 			(6)	How the campus may respond to activities that threaten the safety of students, faculty, or staff, and disrupt their ability to access the campus or buildings, the educational process, or activities on campus. The notification will include strategies consistent with current law for how the university intends to ensure students can safely access buildings and activities on campus."
 
-- [Governor Newsom Signs All Four Jewish Caucus Priority Bills Into Law]
+- [Governor Newsom Signs All Four Jewish Caucus Priority Bills Into Law](https://jewishcaucus.legislature.ca.gov/news/governor-newsom-signs-all-four-jewish-caucus-priority-bills-law)
 
 	- "SB 1287 (Glazer): Protecting Free Speech at Institutions of Higher Education
 
