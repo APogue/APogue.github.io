@@ -164,17 +164,5 @@ Cases are not necessarily investigated in the order that complaints are received
 
 
 
-### Demonstrate a need for publication of notification
-
-- [AB-107 Budget Act of 2024](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB107) "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans." Also applies to CSU (25 and 25)
-
--  [UCOP, Campuses Must Provide Free Speech, Climate Report](https://bifi.us/2024/08/09/ucop-campuses-must-provide-free-speech-climate-report/)
-
-- The above is from Senate Bill No. 108 Ch 35 SEC. 219. Item 6440-001-0001 of Section 2.00 of the Budget Act of 2024 is amended to read: 6440-001-0001—For support of University of California 34. 
-
-	- "Each campus shall provide notification of the following to students before the start of each academic year: (3) The systemwide Nondiscrimination Policy, which ensures compliance with Title VI and Title VII of the Civil Rights Act of 1964."
-
-
-
 
 

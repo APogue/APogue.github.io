@@ -4,6 +4,7 @@ title: "Protest activities-policy"
 published: true
 author: Alexie Pogue
 date: 2024-11-11 12:42 PM
+updated_date: 2024-11-12 12:28 PM
 ---
 
 ### Notes
@@ -306,9 +307,37 @@ date: 2024-11-11 12:42 PM
 
 ### State policy 
 
-- CA witholding funds
+- CA Budget Act 2024
 
-- Laws put in place (Scott Wiener)
+	- AB 107 (assembly bill)
+
+		- [approved by the Governor and filed with the Secretary of State on June 26, 2024](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB107)
+
+		- Gabriel
+
+		- "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies, while also protecting student, staff, and faculty safety and access to campus spaces and educational opportunities. As a condition of receiving $50,000,000 of state financial assistance, campuses shall develop campus climate action plans by the beginning of the Fall 2024 term and prominently post and distribute the plan to students upon arrival on campus each academic year. These plans shall include information such as the institution’s time, place, and manner restrictions for protests or activities, policies regarding campus safety, and how campuses will foster healthy discourse in a manner that promotes the educational mission of the University. The Office of the President of the University of California shall submit a report to the Legislature by Oct. 1, 2024, describing the campus climate action plans."
+
+	- SB 108 (senate bill) 
+
+		- [approved by the Governor and filed with the Secretary of State on June 29, 2024](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB108)
+
+		- Wiener
+
+		- "It is the intent of the Legislature that the University of California foster freedom of expression and the free exchange of ideas that comply with state and federal law and campus policies while also protecting student, staff, and faculty safety and access to educational opportunities. Each campus of the university shall prepare a campus climate notification by the beginning of the Fall 2024 term. The University of California Office of the President will develop a systemwide framework to provide for consistency with campus implementation and enforcement.
+
+			(6)	How the campus may respond to activities that threaten the safety of students, faculty, or staff, and disrupt their ability to access the campus or buildings, the educational process, or activities on campus. The notification will include strategies consistent with current law for how the university intends to ensure students can safely access buildings and activities on campus."
+
+
+
+
+
+
+
+
+
+
+
+- Other laws put in place (Scott Wiener)
 
 	- Is it balanced
 
