@@ -134,13 +134,6 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 		
 
 
-
-
-
-
-
-
-
 ### Protest 
 
 - Hate speech at the protest 
@@ -153,6 +146,39 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- reddit, daily bruin, tiktok
 
+
+- [Unmasking counterprotesters who attacked UCLA’s pro-Palestine encampment](https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html)
+
+	- "‘You guys are about to get f—ed up’
+		In one of the more dramatic videos of the night, a protester wearing the colors of the Palestinian flag underneath an LA Kings jersey was knocked to the ground and beaten by multiple counterprotesters as he guarded the encampment."
+
+- [Dueling Gaza protests at UCLA draw hundreds as USC sees peaceful demonstration](https://www.latimes.com/california/story/2024-04-28/gaza-ucla-usc-protests), April 28, 2024 Updated 3:52 PM PT
+
+	- "A young woman sat shaded by an Israeli flag, blood visible on her scalp, awaiting medical attention after she said she was shoved to the ground by another demonstrator while attempting to retrieve her fallen flag."
+
+	- "In one case witnessed by The Times, a demonstrator entered the pro-Palestinian encampment and shoved a woman to the ground."
+
+
+- [At USC, arrests. At UCLA, hands off. Why pro-Palestinian protests have not blown up on UC campuses](https://www.latimes.com/california/story/2024-04-26/at-usc-arrests-at-ucla-hands-off-why-pro-palestinian-protests-have-not-blown-up-on-uc-campuses), April 26, 2024 Updated 7:44 PM PT
+
+	- "Private security guards with bikes separated the pro-Palestinian group from Israel supporters, and UCLA eventually added metal barricades after counter-protesters repeatedly tried to breach the encampment and in at least one case witnessed by The Times entered and shoved a woman to the ground."
+
+
+- [Mace, green lasers, screeching soundtracks: Inside the UCLA encampment on a night of violence](https://www.latimes.com/california/story/2024-05-01/inside-ucla-pro-palestinian-encampment-on-night-of-violence), May 1, 2024 7:14 PM PT
+
+	- Heckler's veto
+
+		- "Soon after protesters, most of them students at the Westwood campus, pitched tents on Dickson Court on April 25, pro-Israel counterdemonstrators showed up with megaphones. Some shouted racist, homophobic and anti-Islamic slurs, according to campers interviewed."
+
+		- "...They returned night after night."
+
+		- "On Tuesday night, Dickson Court exploded into savagery and chaos. A large, mostly male crowd of masked counterdemonstrators tried to break into the encampment, ripping down wood and metal barriers, spraying bear mace, igniting stink bombs and tossing fireworks near the camp perimeter — and in at least one case inside the camp.
+
+			They aimed their green lasers at camper’s faces, prompting shouts of, “Shield your eyes!”"
+
+		- "Tajima-Peña was on campus Sunday when campers tussled with pro-Israel counterdemonstrators, who, she said, spit at students and shouted racial slurs.
+
+			“I was shoved by a guy a foot taller than me,” she said. “Another woman, a colleague of mine, also got shoved by some guy."
 
 
 
