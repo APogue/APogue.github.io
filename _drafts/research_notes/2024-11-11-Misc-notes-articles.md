@@ -132,26 +132,12 @@ Cases are not necessarily investigated in the order that complaints are received
 
 	- [jj.aviier March Regents Meeting with Pig effigy](https://www.instagram.com/p/C4wYcR4PRzn/?img_index=1)
 
-- UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
-
-
-
-- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
-
-
-
-- [Newsom signed bills](https://x.com/Scott_Wiener/status/1840409838742040728)
-
-
 
 - [police at uc santa cruz](https://mondoweiss.net/2024/06/we-are-going-to-hurt-you-uc-santa-cruz-chancellor-unleashes-police-mayhem-against-student-protesters/)
 
 - [At Michigan, Activists Take Over and Shut Down Student Government](https://www.nytimes.com/2024/08/27/us/umich-gaza-protests-student-government.html)---this looks policy related, not relevant 
 
 ### Updates to protest events and activities at UCLA
-
-
-
 
 
 ### June 10th protest

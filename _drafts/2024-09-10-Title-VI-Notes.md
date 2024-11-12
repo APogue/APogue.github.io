@@ -4,7 +4,7 @@ title: "Title VI Notes"
 published: true
 author: Alexie Pogue
 date: 2024-09-10 04:10 PM
-updated_date: 2024-09-23 3:46 PM
+updated_date: 2024-11-12 12:36 PM
 ---
 
 ### Factual vs. Legal Dispute

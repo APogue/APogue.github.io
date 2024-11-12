@@ -4,7 +4,7 @@ title: "Protest activities-policy"
 published: true
 author: Alexie Pogue
 date: 2024-11-11 12:42 PM
-updated_date: 2024-11-12 12:28 PM
+updated_date: 2024-11-12 1:10 PM
 ---
 
 ### Notes
@@ -265,8 +265,6 @@ updated_date: 2024-11-12 12:28 PM
 	- "In addition, UCLA should continue its efforts to diversify the university; to facilitate the development of programmatic and curricular initiatives that advance and reflect its commitment to equity, diversity, and inclusion; and proactively work to ensure that no student feels barred from participating in the multiple dimensions of campus life because of their social group membership."
 
 
-
-
 ### Directly relevant UC policies 
 
 - No masking
@@ -285,8 +283,12 @@ updated_date: 2024-11-12 12:28 PM
 
 		- Many officers present
 
-
 ### UC policy 
+
+
+
+- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
+
 
 - Drake's policing with safety policy
 
@@ -296,14 +298,19 @@ updated_date: 2024-11-12 12:28 PM
 
 - [SJP take](https://www.instagram.com/p/C-BXNiNiNKt/?hl=en&img_index=1)
 
+
+
+
+
+
 ### UCLA Policy
 
 - [UC administrative policies and procedures updates](https://www.adminpolicies.ucla.edu/APP/ListChangesToApps?columnName=EffectiveDate&direction=desc) shows policies that are new or being revised 
 
 
+### Town hall 
 
-
-
+- LA Times mentioned a town hall
 
 ### State policy 
 
@@ -327,22 +334,38 @@ updated_date: 2024-11-12 12:28 PM
 
 			(6)	How the campus may respond to activities that threaten the safety of students, faculty, or staff, and disrupt their ability to access the campus or buildings, the educational process, or activities on campus. The notification will include strategies consistent with current law for how the university intends to ensure students can safely access buildings and activities on campus."
 
+- [Governor Newsom Signs All Four Jewish Caucus Priority Bills Into Law]
 
+	- "SB 1287 (Glazer): Protecting Free Speech at Institutions of Higher Education
 
+		This bill requires colleges and universities to update and enforce student codes of conduct to better prevent violence, harassment, intimidation, and discrimination that is intended to interfere with free speech and other constitutionally-protected rights.
 
+		AB 2925 (Friedman): Including Jews and Antisemitism in DEI Training
 
+		This bill requires that any campus that chooses to provide DEI training must include training about discrimination against the groups most likely to be targets of hate – which includes the Jewish community. 
 
+		 
+		AB 3024 (Ward): Stop Hate Littering Act
 
+		This bill seeks to prevent the distribution of hateful flyers, posters, or symbols that are intended to terrorize vulnerable communities. Hate littering is a tactic of harassment and intimidation that has been targeting Jewish communities and neighborhoods with large Jewish populations around California.  Reporting from Jewish community media organizations have found the practice to have proliferated in almost all regions of California as well as spreading nationally.  As recently as last month, disturbing antisemitic flyers were found on driveways of Jewish families throughout the East Bay and in neighborhoods of San Diego.
 
+		 
+		SB 1277 (Stern): Teachers Collaborative for Holocaust and Genocide Education
 
+		This bill codifies the California Teachers Collaborative for Holocaust and Genocide Education as a statewide professional development program for teachers under the Department of Education. The Collaborative will focus on the Holocaust and other genocides, as well as identifying and confronting hate and antisemitism in modern society."
 
-
-- Other laws put in place (Scott Wiener)
-
-	- Is it balanced
+	- [Senator Scott Wiener X post](https://x.com/Scott_Wiener/status/1840409838742040728)
 
 	- [SJP take, anti-Muslim education is optional (is it?)](https://www.instagram.com/p/DAwUcHky-MM/?hl=en&img_index=3)
 
-### Town hall 
 
-- LA Times mentioned a town hall
+
+
+
+
+
+
+
+
+
+

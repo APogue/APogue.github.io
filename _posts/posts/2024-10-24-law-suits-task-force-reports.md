@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-10-30 4:09 PM
+updated_date: 2024-11-12 12:53 PM
 ---
 
 ### Recently added articles 10-24
@@ -29,6 +29,8 @@ updated_date: 2024-10-30 4:09 PM
 ### Lawsuits
 
 - [Lawsuit 1](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf) 
+
+	- UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
 
 - [Lawsuit 2](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
 
