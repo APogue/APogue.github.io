@@ -4,7 +4,7 @@ title: "Protest activities-policy"
 published: true
 author: Alexie Pogue
 date: 2024-11-11 12:42 PM
-updated_date: 2024-11-12 1:10 PM
+updated_date: 2024-11-12 5:48 PM
 ---
 
 ### Notes
@@ -54,6 +54,34 @@ updated_date: 2024-11-12 1:10 PM
 	UCFW. However, it was put on hold pending the recommendations of the President’s Police Task Force"
 
 	- [Universitywide Police Policies And Administrative Procedures](https://policy.ucop.edu/doc/4000382/PoliceProceduresManual)
+
+- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
+
+	- Teresa Watanabe, education reporter for the LA Times: "And in fact, UCLA has upped up its request. I mean, their request for 3000 pepper balls was doubling their inventory of 1600. They also doubled their request for sponge projectiles, which can be very, very harmful. I know of one UCLA student who was shot in the chest with one of these, and spent two days in the hospital. So they're not saying it's for the protests upcoming, but everyone is concerned that they will be."
+
+- [UC police seek approval for more pepper balls, sponge rounds, launchers, drones](https://www.latimes.com/california/story/2024-09-19/pepper-balls-sponge-rounds-launchers-drones-uc-police-ask-for-these-weapons)
+
+	- "UCLA police are requesting up to 3,000 more pepper balls to add to their inventory of 1,600; up to 400 more sponge and foam rounds, double the current stockpile of 200; eight more projectile launchers and three new drones."
+
+- [UNIVERSITY OF CALIFORNIA COMPLIANCE WITH STATE ASSEMBLY BILL 481](https://regents.universityofcalifornia.edu/regmeet/sept24/c1.pdf), For Meeting of September 19, 2024
+
+	- [Regents approve allocation of tear gas, drones, less-than-lethal weapons to UCPD](https://dailybruin.com/2024/09/19/regents-approve-allocation-of-tear-gas-drones-less-than-lethal-weapons-to-ucpd)
+
+		- "The UC Board of Regents’ Compliance and Audit Committee approved the allocation of drones, tear gas and less-than-lethal weapons to UCPD on Thursday.
+
+		The board authorized the allocation of three drones, 3,000 rounds of pepper bullets and eight munition launchers to the UCLA police department...
+
+		Under California Assembly Bill 481, UCPD must receive approval of a Military Equipment Use Policy by the UC Board of Regents prior to the “funding, acquisition, or use of military equipment.”"
+
+		- "**UCLA police requested the most equipment out of all UC campuses and a larger amount than it did the previous year.** In 2023, UCLA solely requested sponge bullets, in comparison to its **2024 request of sponge bullets, pepper bullets, launchers, drones and tear gas.**"
+
+		- UC Office of the President spokesperson Stett Holbrook: "“In spite of the nomenclature in AB 481, UCPD’s equipment is not military surplus, nor is it military-grade or designed for military use,” Holbrook said in the statement. “The University’s use of this equipment provides UC police officers with non-lethal alternatives to standard-issue firearms, enabling them to de-escalate situations and respond without the use of deadly force.”"
+
+	- "The equipment that falls within the scope of AB 481’s definition of military equipment provides
+	UCPD with less lethal alternatives to standard-issue firearms, for use in extraordinary public
+	circumstances."
+
+	- [Annual report](https://regents.universityofcalifornia.edu/regmeet/sept24/c1attach2.pdf)
 
 ### Public safety policy 
 
@@ -145,8 +173,6 @@ updated_date: 2024-11-12 1:10 PM
 
 - [UCLA SOLE policies---new tpm policies](https://sole.ucla.edu/policies)
 
-- [Drake letter regarding new TPM policies](https://www.documentcloud.org/documents/25051187-letter-from-president-drake-chancellors-policies-impacting-expressive-activity-003)
-
 - [Map areas public expression](https://ucla.app.box.com/s/f96iffe5u6p2azrr54gug0zlt85a24zf?&utm_source=1486242611&utm_medium=email&utm_campaign=BruinPost&utm_content=public-expression)
 
 
@@ -167,14 +193,18 @@ updated_date: 2024-11-12 1:10 PM
 			•	If an individual is found to have engaged in Prohibited Conduct under the policy, the respondent may be required to undergo training as a corrective or remedial measure.
 			•	The respondent may also need to participate in periodic refresher classes to reinforce appropriate behavior and compliance with anti-discrimination standards."
 
-- UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)
+- [Drake letter regarding new TPM policies](https://www.documentcloud.org/documents/25051187-letter-from-president-drake-chancellors-policies-impacting-expressive-activity-003), August 19, 2024
+
+	- No encampments 
+
+	- No unauthorized structures
+
+	- No restrictions on free movement
+
+	- No masking to conceal identity, no refusal to reveal identity
 
 
 ### Directly relevant UC policies 
-
-- No masking
-
-- No encampments 
 
 - LA Times article on spending 
 
@@ -241,13 +271,7 @@ updated_date: 2024-11-12 1:10 PM
 
 	- This is the incident that led to the Robinson/Edley report, it occurred at Davis
 
-- [UNIVERSITY OF CALIFORNIA COMPLIANCE WITH STATE ASSEMBLY BILL 481](https://regents.universityofcalifornia.edu/regmeet/sept24/c1.pdf)
 
-	- "The equipment that falls within the scope of AB 481’s definition of military equipment provides
-	UCPD with less lethal alternatives to standard-issue firearms, for use in extraordinary public
-	circumstances."
-
-	- [Annual report](https://regents.universityofcalifornia.edu/regmeet/sept24/c1attach2.pdf)
 
 
 ### Free speech policy 
