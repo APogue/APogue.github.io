@@ -8,9 +8,6 @@ updated_date: 2024-11-14 1:54 PM
 ---
 
 
-
-
-
 - [David Myers LA Times Opinion](https://www.latimes.com/opinion/story/2024-09-16/israel-gaza-hamas-protest-antisemitism-ucla-usc-college)
 
 	- [Nexus Project](https://nexusproject.us/)
