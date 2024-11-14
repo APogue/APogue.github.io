@@ -4,7 +4,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-11 3:19 PM
+updated_date: 2024-11-13 7:03 PM
 ---
 
 
@@ -148,6 +148,7 @@ President Michael V. Drake is working with chancellors to draw up a plan to brin
 
 
 
+
 ### Arrests
 
 - [USAC officers announce additional arrests, warrants related to encampment attack](https://dailybruin.com/2024/10/18/usac-officers-announce-additional-arrests-warrants-related-to-encampment-attack)
@@ -181,12 +182,35 @@ President Michael V. Drake is working with chancellors to draw up a plan to brin
 	- [DB disciplinary process](https://dailybruin.com/2024/06/10/students-face-conduct-hearings-graduation-uncertainty-after-encampment-arrests)
 
 
-### Irvine chancellor
+### At other UC campuses, encampments went on undisturbed
 
-- He reaches out directly to the encampment
+- UC Irvine chancellor
 
-- It seemed with UCLA they were communicating through the Daily Bruin, the People's Council or some other 3rd party channel
+	- He reaches out directly to the encampment
 
-- That is incredibly unsafe not to try to interact with them directly 
+	- It seemed with UCLA they were communicating through the Daily Bruin, the People's Council or some other 3rd party channel
+
+	- That is incredibly unsafe not to try to interact with them directly 
+
+- [UC regents: Protests yes, encampments no. Campus rules must be consistently enforced](https://www.latimes.com/california/story/2024-07-15/uc-regents-say-no-to-encampments-and-codes-must-be-enforced#:~:text=%E2%80%9CEncampments%20are%20not%20allowed%2C%E2%80%9D,been%20in%20place%20since%202017.%E2%80%9D)
+
+	- "Chancellors at Irvine, San Diego, Santa Cruz and Santa Barbara also called in law enforcement to dismantle the tents following the UCLA debacle. Students ended their encampments voluntarily without police action at UC Riverside, UC Davis, UC Merced and UC San Francisco."
+
+	- "UC Berkeley was the first UC campus to allow an encampment on April 22 — and then-Chancellor Carol Christ resisted pressure from regents and others to dismantle it, saying she knew what was best for her university. Three weeks later, the protesters voluntarily dismantled the encampment without police action after Christ forged an agreement to review university investments and academic exchange programs while making clear that targeting Israel was off the table."
+
+	- "Leib said he never directed any campus to remove an encampment but “strongly encouraged” it. He said he repeatedly asked UC Santa Barbara leaders, for instance, what their plan was to end the encampment, which lasted 54 days until police dismantled it June 23 and arrested six people. He also monitored negotiations between campus administrators and protesters at Berkeley and UC Davis to make sure they crossed no red lines — including targeting Israel or violating state laws."
+
+	- "Students vow to continue protests, said Rebecca Hurtado Fairweather, who participated in the UC Santa Barbara “Liberated Zone Encampment” before graduating last month.
+
+	“Tents don’t make a movement, people make a movement,” Fairweather said. “People will find a way to show up in the way they want. If the system is not willing to work with us, then we have to work outside the system.”"
 
 
+### Equal enforcement of encampments 
+
+- [UC regents: Protests yes, encampments no. Campus rules must be consistently enforced](https://www.latimes.com/california/story/2024-07-15/uc-regents-say-no-to-encampments-and-codes-must-be-enforced#:~:text=%E2%80%9CEncampments%20are%20not%20allowed%2C%E2%80%9D,been%20in%20place%20since%202017.%E2%80%9D)
+
+	- "Although many UC leaders are now calling for more consistent enforcement of campus rules, it’s not as easy as it sounds."
+
+	- "For example, how should prohibited camping be defined? UCLA students routinely line up overnight with sleeping bags to nab coveted tickets to sports events. UC Berkeley students last year protested plans to close the anthropology library by camping there for nearly three months before ending the sleep-in due to a campus compromise to keep it open as a reading room. UC Riverside academic workers occupied a building for a week during the 2022 strike. Should they all have been swept out by police?"
+
+		"“How can we have a one size fits all? UC has never done that,” said one senior UC administrator, who spoke on condition of anonymity to discuss the sensitive topic."
