@@ -4,7 +4,7 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-11-08 11:12 AM
+updated_date: 2024-11-14 5:57 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
@@ -160,6 +160,26 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 	- “About three months since 231 UCLA protesters were arrested, most on misdemeanor charges, the Los Angeles city attorney’s office has not received referrals involving those cases, a spokesman said. The city attorney typically handles misdemeanor charges. There is a one-year period in which charges can be filed in misdemeanor cases.”
 
 
+### Oct 7th 
+
+- [Intense UCLA policing draws scrutiny as security chief speaks out on handling protests](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
+
+- "Braziel led a large behind-the-scenes operation that culminated in peaceful Oct. 7 protests"
+
+- "A tense moment came when pro-Palestinian supporters marched into a campus area off-limits to protest activities and initially refused to leave after student affairs staff told them they were violating campus rules.
+
+		Police were called in. They determined protesters were not breaking any laws. The protesters moved on and the night ended with no arrests, no significant confrontations — and, in an intentional UCLA effort to create a calmer environment, no visible massive mobilization of police in riot gear wielding batons."
+
+- "“My vision is a beautiful campus where people feel safe and comfortable with each other and police are seen as part of the family, not an invading army,” Braziel said. “It’s not a one-person fix. It’s going to take a whole team of experts from inside and outside the UCLA organization to create positive change.”"
+
+- On Oct. 7, he said, he and his team had fully staffed up — deploying all 51 campus police officers available that day, tripling normal private security staffing to 158 officers, bringing some UC San Francisco officers to UCLA and requesting LAPD forces to stand by on campus.”
+
+	“But he kept most of the officers out of sight inside buildings, close enough to intervene if needed but without presenting a negative “visual impact,” he said. Police had their riot gear ready but did not wear it, an intentional decision.”
+
+	““If you dress for a riot, you’re going to get a riot,” Braziel said. “The visual is super important to the response you’re going to get.””
+
+	“He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave."
+
 
 ### Protests around the time that Ben Shapiro came to speak for Young Americans for Freedom and or aligning with Sukkot 
 
@@ -210,6 +230,7 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 - [Braziel's handling of Oct 7](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
 
 	- “He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave.”
+
 
 
 ### True disruptions to campus operations 

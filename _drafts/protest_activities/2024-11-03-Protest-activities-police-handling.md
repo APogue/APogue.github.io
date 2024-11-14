@@ -90,6 +90,8 @@ updated_date: 2024-11-15 3:18 PM
 
 ### Notes (don't delete these ones)
 
+- UCLA is engaging in wasteful spending using police and security forces to formulate a robust rather than targeted response to violent counter-protesters 
+
 - Ultimately the chief of police was blamed here
 
 	- The impending or possible danger wasn't made clear to the chief of police by the administration, we know this because it wasn't made clear to the students. 

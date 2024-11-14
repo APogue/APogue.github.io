@@ -4,7 +4,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-14 10:55 AM
+updated_date: 2024-11-14 5:57 PM
 ---
 
 ### Notes
@@ -79,6 +79,10 @@ updated_date: 2024-11-14 10:55 AM
 
 	- "The well-being of our students, faculty and staff is paramount. These actions are essential for creating a secure environment where everyone at UCLA can confidently pursue their studies and careers."
 
+### Block does damage control
+
+- Block congressional hearing 
+
 ### Rick Braziel said in the Daily Bruin 
 
 - [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), July 24th
@@ -93,19 +97,21 @@ updated_date: 2024-11-14 10:55 AM
 
 	- “In an interview with The Times, Braziel laid out his strategy for overhauling UCLA security operations — and responded to questions and criticism from faculty and others about his role, which is actually a $52,000-a-month short-term position.”
 
-	- "Ariela Gross, a UCLA law professor, was one of several who expressed concern about accountability as Braziel was hired so quickly into such a senior position to start a new administrative office without faculty input — as is generally required under UC’s system of shared governance."
+	- "Ariela Gross, a UCLA law professor, was one of several who expressed concern about accountability as Braziel was hired so quickly into such a senior position to start a new administrative office without faculty input — as is generally required under UC’s system of shared governance.
+
+		“When you see something thrown together in a couple of days that hasn’t been vetted but has enormous power, I have concerns,” Gross said. “There’s potential for abuse.”"
 
 	- "But Braziel’s terms of employment are significantly different from public assumptions, based on Block’s announcement. He is not a permanent employee with multiple responsibilities related to campus safety. Braziel’s original contract, obtained by The Times, ended Aug. 31 and has been extended until the end of the year."
 
 	- "He said he hoped to have key changes in place with a plan to move forward to hand off to the incoming chancellor, Julio Frenk, who will take the reins Jan. 1."
 
-	- "He said he agreed to a short-term contract to review UCLA’s protest management and suggest institutional changes to improve safety practices after first being contacted by the UC Office of the President and then Block."
+	- "Braziel, 64, who lives in Sacramento, said he never had a desire or intention to move to Los Angeles for a long-term job. He said he agreed to a short-term contract to review UCLA’s protest management and suggest institutional changes to improve safety practices after first being contacted by the UC Office of the President and then Block."
 
 	- "He said he understood his other job duties as helping UCLA through a peaceful commencement, and providing updates on security operations to Block, who testified before a congressional committee in May about campus efforts to combat antisemitism and manage protests. Block stepped down July 31."
 
 	- "“I’m the person coming in for just a few months, hopefully fix things, get them moving down the road and then somebody else takes over when I’m gone,” he said."
 
-	- "Braziel said he never agreed to set up the new Office of Campus Safety or prepare a campus response plan for potential fall protests — tasks that each amount to full-time jobs themselves but that many expected him to take on. Creating the safety office, he said, would take several employees many months to create a website, complaint intake process, training curriculum, policies and procedures, compliance auditing, staffing and planning for such future events as the 2028 Summer Olympics in Los Angeles."
+	- "Braziel said he never agreed to set up the new Office of Campus Safety or **prepare a campus response plan for potential fall protests — tasks that each amount to full-time jobs themselves but that many expected him to take on.** Creating the safety office, he said, would take several employees many months to create a website, complaint intake process, training curriculum, policies and procedures, compliance auditing, staffing and planning for such future events as the 2028 Summer Olympics in Los Angeles."
 
 		- What about the investigation on April 30th? Where is it? 
 
@@ -122,9 +128,11 @@ updated_date: 2024-11-14 10:55 AM
 
 - [UCLA administrators ignored UC policies and now engage in blame-shifting](UCLA administrators ignored UC policies and now engage in blame-shifting)
 
+	- It is not a question of who did what right and who did what wrong, Wade argues this is a matter of whose responsibility this was. Thomas failed to go above and beyond, yes. It doesn't matter, this situation was not his responsibility. 
+
 	- "Ten years ago, the UC system created a comprehensive guide of roles, responsibilities, and planning for the UC system and individual campuses to follow in responding to civil disobedience on campuses. These guidelines remain in effect to this day. As detailed below, this guide calls into question the ongoing attempt by UCLA administrators to **shift blame to law enforcement for the response/lack of response to protests at UCLA.**"
 
-	- "Moreover, recognizing the pivotal role of campus administrators in protest response, the guidelines demanded that those administrators be well-trained in protest response. Specifically, the guidelines required UCLA to **“implement formal training of administrators . . . in the areas of crowd management, mediation, de-escalation techniques, the Incident Command System and police force options.”**  This mandatory training was directed to be **conducted annually**, ensuring that current and best practices in protest response would be employed."
+	- "Moreover, **recognizing the pivotal role of campus administrators in protest response**, the guidelines demanded that those administrators be well-trained in protest response. Specifically, the guidelines required UCLA to **“implement formal training of administrators . . . in the areas of crowd management, mediation, de-escalation techniques, the Incident Command System and police force options.”**  This mandatory training was directed to be **conducted annually**, ensuring that current and best practices in protest response would be employed."
 
 	- "However, what unfolded at UCLA calls into question whether **UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies. The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.**"
 
@@ -158,6 +166,15 @@ updated_date: 2024-11-14 10:55 AM
 
 		- This is part of the state budget bills and is located in the policy doc
 
+### Police union said
+
+- [UCLA sought extra police but canceled requests in days before protest camp was attacked](https://www.latimes.com/california/story/2024-05-02/ucla-canceled-campus-police-requests-for-outside-help)
+	
+	- "Stern’s union put out a statement Wednesday noting that the police departments across the UC system take their orders from the chancellors of the schools."
+
+	- "“When protests erupt on campus, the decisions regarding the response of the UC Police rest firmly in the hands of campus leadership,” the union said in a statement."
+
+	- "The union noted the difference between “operational execution,” which was under the departments, compared to “strategic direction,” which was controlled by the school administrators, according to the statement."
 
 ### Arrests
 

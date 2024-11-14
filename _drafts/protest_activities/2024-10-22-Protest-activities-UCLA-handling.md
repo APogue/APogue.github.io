@@ -130,15 +130,19 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 - [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
 
+	- The article begins with, "The account of Thomas’ actions leading up to the attack was provided by three sources who were not authorized to speak publicly." Then Thomas gives his rebuttal. 
+
+	- "Days earlier, campus leadership had directed Thomas to create a safety plan that would protect the UCLA community after the encampment was put up last week and began drawing agitators, the sources said. **The chief was told to spare no expense to bring in other UC police officers, offer overtime and hire as many private security officers needed to keep the peace.**"
+
 	- “But university leadership, he said, decided to allow the tents “as an expression of students’ 1st Amendment rights” and directed that police not be included in any security plan. Under UC’s systemwide community safety plan, police are deployed as a last resort — guidance developed after UC Davis police pepper-sprayed peaceful protesters in 2011, setting off a firestorm of controversy and an internal review that changed campus practices.”
 
 		“As a result, Thomas said he developed a plan that relied on private security and made sure to alert the Los Angeles Police Department of the need to respond immediately should problems arise. The private security guards, who were not authorized to make arrests, were instructed to contact UCLA police if needed.”
 
 		“However, sources said he was directed to provide a written safety strategy outlining the response and preparation for various scenarios, such as a rally, skirmishes or violence — with the direction to do what was needed to keep the community safe — and he failed to deliver.”
 
-	- "“He acknowledged that he did tell leadership that it would take just minutes to deploy police forces, but he was referring to a general response — not a force large enough to handle the size of the crowds that clashed that night. But three sources confirmed he was directly asked how long it would take for outside law enforcement to quell any violence.”"
+	- "“He acknowledged that he did tell leadership that it would take just minutes to deploy police forces, but he was referring to a **general response** — not a force large enough to handle the size of the crowds that clashed that night. But three sources confirmed he was directly asked how long it would take for outside law enforcement to quell any violence.”"
 
-	- "“As altercations at the encampment began to increase, Thomas acknowledged that campus leadership changed direction and authorized him to supplement UCLA police and private security with increased external law enforcement, saying overtime would be paid. He could not recall exactly when that occurred, but he said he immediately contacted the LAPD and L.A. County Sheriff’s Department to secure their assistance.”
+	- "“As altercations at the encampment began to increase, Thomas acknowledged that campus leadership changed direction and authorized him to supplement UCLA police and private security with increased external law enforcement, saying overtime would be paid. **He could not recall exactly when that occurred**, but he said he immediately contacted the LAPD and L.A. County Sheriff’s Department to secure their assistance.”
 
 		“But he said the LAPD told him there was a problem with the payment system between the city and state, so the arrangements “couldn’t be done by the time of the attack.””
 
@@ -152,9 +156,6 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 
 
-### UCLA does damage control
-
-- Block congressional hearing 
 
 ### Post-protest finger pointing 
 

@@ -306,7 +306,13 @@ updated_date: 2024-11-12 5:48 PM
 
 ### Town hall 
 
-- LA Times mentioned a town hall
+- [Intense UCLA policing draws scrutiny as security chief speaks out on handling protests](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
+
+- "Anna Markowitz, an associate professor of education, said the heavy presence of officers standing around “in little packs” made the campus less comfortable, ramping up tensions and the potential for racial profiling. Another faculty member said he was shocked to count 14 officers in a half-mile walk through campus."
+
+		- "“What’s the plan to get rid of this?” Markowitz said she asked at recent Academic Senate town hall with Braziel and Interim Chancellor Darnell Hunt. “Is there a plan?”"
+
+		- "Braziel’s response during the town hall — putting security officers in friendlier blue-and-gold UCLA polo shirts instead of the black shirts that many currently wear — did not play well among faculty, who said he missed their larger concerns of the tense campus climate created by the stepped-up patrols."
 
 ### State policy 
 
