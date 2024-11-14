@@ -4,7 +4,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-13 7:03 PM
+updated_date: 2024-11-14 10:55 AM
 ---
 
 
@@ -130,23 +130,17 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 
 ### UC Regents 
 
-- "[The university is under pressure](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them.
+- "[UC unveils steep price tag for handling campus protests: $29 million, most for policing](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) 
 
-President Michael V. Drake is working with chancellors to draw up a plan to bring all campuses into greater conformity on enforcing rules around free speech activities. The guidelines “will assume the immediate removal of any encampment,” according to a UC senior administrator who spoke on condition of anonymity to discuss the sensitive topic."
+	- "UCLA topped all 10 campuses in costs, spending $10 million on safety and security and $400,000 for building repairs, graffiti removal and other cleanup between March 1 and June 25."
 
-- The UC's mainly concerned with enforcing rules to mitigate costs associated with protests
+	- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety."
 
-- This includes notification about rules around free speech activities and consequences for violating them 
+		"“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
 
-- Also talks of extra security costs around Board of Regents meetings at UCLA 
+	- "The university is under pressure from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them."
 
-- Yet they seem in support of costs "to keep campuses safe"
-
-	- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety.
-
-		“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
-
-
+		- This is part of the state budget bills and is located in the policy doc
 
 
 ### Arrests
@@ -202,7 +196,7 @@ President Michael V. Drake is working with chancellors to draw up a plan to brin
 
 	- "Students vow to continue protests, said Rebecca Hurtado Fairweather, who participated in the UC Santa Barbara “Liberated Zone Encampment” before graduating last month.
 
-	“Tents don’t make a movement, people make a movement,” Fairweather said. “People will find a way to show up in the way they want. If the system is not willing to work with us, then we have to work outside the system.”"
+		“Tents don’t make a movement, people make a movement,” Fairweather said. “People will find a way to show up in the way they want. If the system is not willing to work with us, then we have to work outside the system.”"
 
 
 ### Equal enforcement of encampments 
