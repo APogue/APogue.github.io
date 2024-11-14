@@ -4,72 +4,11 @@ title: "Accountability in the Aftermath of the April 30th Riot"
 published: true
 author: Alexie Pogue
 date: 2024-10-17 6:29 PM
-updated_date: 2024-10-24 2:07 PM
+updated_date: 2024-11-14 1:54 PM
 ---
 
-- [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
 
-	- Looks like the authors are university professors, [Gaye Theresa Johnson](https://afam.ucla.edu/person/gaye-theresa-johnson/)
 
-	- The letter goes through the students' intentions wrt the protest on June 10th
-
-	- "Chancellor Block created the office unilaterally, without a search, a vetting process, faculty or 
-	staff input—and not even a consideration that Braziel’s appointment might be temporary or 
-	interim. "
-
-	- Pp. 6 costs of policing 
-
-	- Pp. 11 laws around aiming projectiles to disperse crowds
-
-	- Based on video footage the description of police brutality is exaggerated 
-
-	- "Then at one point a UCPD officer shot a student in the chest with a rubber bullet from a distance of 
-	about five feet away, surely a violation of the rules for the use of such armaments, which can be 
-	lethal at such ranges. The force of the bullet knocked them down and two fellow students assisted 
-	them to safety through the bushes. The student suffered a contusion to the heart and a bruised 
-	lung and was taken by car to the ER at Ronald Reagan Hospital. They remained there for two 
-	days given the severity of the injury, which caused elevated cardiac enzymes. This situation could 
-	have ended with a permanent disability or death and is a stark reminder of why it is so dangerous 
-	to simply transfer control of campus to a militarized police force. Other students were injured as 
-	well, one suffering from a concussion, others from bruises and lacerations.3"
-
-	- [Gaza war protesters clash with police at new UCLA encampment](https://thehill.com/homenews/education/4715568-gaza-war-student-protesters-police-ucla-encampment/)
-
-		- "UCLA Associate professor Graeme Blair, a member of Faculty for Justice in Palestine, said one student had to go to the hospital after they were hit with a rubber bullet. 
-
-			“They were shot in the chest from 10-15 feet range,” Blair told The Hill."
-
-	- [What Rubber Bullets Can Do to the Human Body](https://slate.com/technology/2024/05/rubber-bullets-blind-kill-trama-ucla-protest.html)
-
-	- [Op-ed: The instructors, staff of Dodd Hall demand that our workplace be restored](https://dailybruin.com/2024/06/12/op-ed-the-instructors-staff-of-dodd-hall-demand-that-our-workplace-be-restored), this is the original [letter](https://docs.google.com/forms/d/e/1FAIpQLScG5AT6nsLoTVo8Ereqj5Oz2pde77Z5m0BNqE9wt_CjEb5ncA/viewform) signed by staff
-
-		- "Many eyewitness reports, including the experiences of several Dodd Hall occupants, as well as documentary video and photographic evidence, support the claim that the violence was incited by police and security, rather than the protesting students."
-
-	- [Footage here shows the kettling](https://x.com/brethamilton/status/1800640869869228490?s=46&t=fKh9XATL-WMti11DkcbvEg) on June 10th
-
-	- The above doc said they were given a dispersal order then kettled. The police press release does say they essentially moved the students around the campus. 
-
-	- Braziel mentioned the best way to conceal security forces would be to put them in blue in gold polo shirts and hide them in buildings, this would effectively make campus feel more like campus. Clearly professors find that disruptive. 
-
-- [Op-ed: Rick Braziel’s messaging belies disregard for police accountability, student safety](https://dailybruin.com/2024/06/18/op-ed-rick-braziels-messaging-belies-disregard-for-police-accountability-student-safety)
-
-	- "It’s not clear if he understands the function and nature of life on a university campus: He seems to regard student protest as inherently illegitimate and illegal by default; his reactive impulse to any sign of student activism is to police violence as a first response."
-
-	- "Since the university has contracted several different security companies – some with murky reputations – and there were several different law enforcement agencies on campus, it was difficult to tell who was actually in charge, or whether, having washed its hands of its duty of care to its own students, the upper administration was content to have handed over campus to a loose confederation of police officers acting more or less on their own volition."
-
-	- In claiming that protestors “prevented students from completing their final exams” or “entering classrooms,” he again ignores the fact that there would have been no disruptions to campus activities if the students had not been forced to relocate from one site to another by the police – and that the police themselves, not the students, were the ones blocking access to buildings and facilities and evicting students and instructors while exams were underway.
-
-		- It can't be proven whether their encampments were blocking free access to campus, so the above may be only partially true
-
-	- "What stands out above all in Braziel’s message, in fact, is his total disregard for our students, his contempt for their right to express themselves and his inability to recognize that UCLA is a university, not an armed camp run by militarized police."
-
-	- "If June 10’s protest was “not peaceful,” as Braziel states, it was because of the police. And if “the campus community belongs to all of us and we must model the respect we expect to receive from others,” then Braziel and his junta should expect nothing less than continued escalation unless they try to adapt themselves to the norms of our community, rather than trying to compress us into theirs."
-
-	- "In any case, although Braziel has supplanted the recognized authorities on our campus – above all the now silent and invisible chancellor and provost – his reckless disregard for our students and our values is ultimately their responsibility."
-
-	- "We demand that they bring their policemen back under their control, that they restore cultural, political and intellectual order to our campus community by protecting rather than punishing expression and protest, and that they take steps to allow this community to breathe freely once more by reducing or eliminating – rather than enhancing – the police presence on campus."
-
-- The main issue with the arrests is, while the encampments were illegal, and looked like they were building barricades, the arrests and disruptions came from the "kettling" incident. 
 
 - [UCLA police chief reassigned after security failures over pro-Palestinian protests](https://www.latimes.com/california/story/2024-05-22/ucla-police-chief-reassigned-after-security-failures-over-pro-palestinian-protests)
 

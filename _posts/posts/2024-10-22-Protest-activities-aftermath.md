@@ -7,13 +7,13 @@ date: 2024-10-22 8:10 PM
 updated_date: 2024-11-14 10:55 AM
 ---
 
+### Notes
 
+- It was implied that the Office of Campus Safety was put in place out of concern for student safety, and as an "olive branch" to those believing UCLA put students in danger during the April protest.
 
-Thesis3: It was implied that the Office of Campus Safety was put in place out of concern for student safety, and as an "olive branch" to those who thought UCLA put students in danger during the April protest.
+- The Office of Campus Safety has served to "maintain order." 
 
-Thesis4: The Office of Campus Safety has served to "maintain order." 
-
-Thesis5: Administrative actions meant to safeguard free speech---no interference or oversight, heavy policing targeting students---looks like their strategic plan. This plan is inconsistent with existing policy and data, and only serves to chill free speech---UCLA is cannabalizing its own mission. 
+- Administrative actions meant to safeguard free speech---no interference or oversight, heavy policing targeting students---looks like their strategic plan. This plan is inconsistent with existing policy and data, only serving to chill free speech---UCLA is cannabalizing its own mission. 
 
 
 ### UCLA graduation 
@@ -116,6 +116,20 @@ Thesis5: Administrative actions meant to safeguard free speech---no interference
 	- "“We have to stop playing checkers where you’re waiting for something to happen and respond,” he said. “With chess, you’re constantly looking four, five moves down the board to anticipate what will happen so you can either avoid it or better respond to it.”"
 
 - [21st century policing independent solutions June 7th](https://www.instagram.com/p/C77S9I_SNHs/?img_index=1)
+
+
+### Wade Stern says
+
+- [UCLA administrators ignored UC policies and now engage in blame-shifting](UCLA administrators ignored UC policies and now engage in blame-shifting)
+
+	- "Ten years ago, the UC system created a comprehensive guide of roles, responsibilities, and planning for the UC system and individual campuses to follow in responding to civil disobedience on campuses. These guidelines remain in effect to this day. As detailed below, this guide calls into question the ongoing attempt by UCLA administrators to **shift blame to law enforcement for the response/lack of response to protests at UCLA.**"
+
+	- "Moreover, recognizing the pivotal role of campus administrators in protest response, the guidelines demanded that those administrators be well-trained in protest response. Specifically, the guidelines required UCLA to **“implement formal training of administrators . . . in the areas of crowd management, mediation, de-escalation techniques, the Incident Command System and police force options.”**  This mandatory training was directed to be **conducted annually**, ensuring that current and best practices in protest response would be employed."
+
+	- "However, what unfolded at UCLA calls into question whether **UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies. The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.**"
+
+	- "If this is not the case, then it should be easy for the **UCLA administration to identify those administrators who undertook the required annual training in crowd management and response.** UCLA can simply produce the plans developed before these protests, which guided their response, and demonstrate how the response dovetailed with those plans. Finally, the **UCLA administration can also show how it met the required training, briefing, and scenario planning that it was ordered to undertake both with its own police department and outside agencies prior to these protests.**
+
 
 ### Interim Chancellor Hunt
 
