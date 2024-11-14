@@ -204,21 +204,6 @@ updated_date: 2024-11-12 5:48 PM
 	- No masking to conceal identity, no refusal to reveal identity
 
 
-### Directly relevant UC policies 
-
-- LA Times article on spending 
-
-- What the Regents Chair said about "safety"
-
-- Regents resolution on distancing from polemic messaging (did that get approved?)
-
-- Heavy policing is a UC standard 
-
-	- UC Divest Protest to Regents meeting
-
-		- Many officers present
-
-
 
 ### UC Regents policy
 

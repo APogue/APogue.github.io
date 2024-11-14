@@ -7,9 +7,6 @@ date: 2024-10-17 6:29 PM
 updated_date: 2024-11-14 1:54 PM
 ---
 
-
-
-
 - [UCLA police chief reassigned after security failures over pro-Palestinian protests](https://www.latimes.com/california/story/2024-05-22/ucla-police-chief-reassigned-after-security-failures-over-pro-palestinian-protests)
 
 	- There are several sources "not authorized to speak publicly" that are doing UCLA's damage control 
@@ -316,113 +313,9 @@ updated_date: 2024-11-14 1:54 PM
 	- "Rick Braziel, associate vice chancellor for the Office of Campus Safety, said an issue the university ran into with its law enforcement for the spring protests is that they did not anticipate every scenario that could happen and plan the appropriate responses. He added that the hasty response time required for the protests made it so the university was “scrambling” to find law enforcement, hiring people at a rate that could have been lower with ample preparation."
 
 
-### Notes
-
-- WRT June 10th arrests
-
-	- These were in an effort to get campus under control before graduation
-
-	- Braziel said more recently, that dispersal orders are given and arrests are made when they are ignored
-
-	- It is clear that the students would not be able to disperse given the circumstances 
-
-	- It is also the case that encampment barricades were put up in April by CSC 
-
-	- What about Drake's original intent? With his campus security and safety plan meant to instill trust in the campus community? 
-
-- New laws and rules in place
-
-	- Encampments banned, facemasks banned
-
-	- New time, place, manner policies
-
-	- Posting requirements for anti-discrimination 
-
-	- 4 point plan, with the above, to get funding from CA
-
-	- There a couple more bills directed anti-discrimination training coming from CA gov't
-
-	- Office of Campus Safety 
-
-		- integration and ingratiation of UCPD, beefed up campus security, putting them in polos, hiding them in buildings
-
-		- better communication system and efforts to take friendlier positions 
-
-- Ultimately the chief of police was blamed here
-
-	- The impending or possible danger wasn't made clear to the chief of police by the administration, we know this because it wasn't made clear to the students. 
-
-	- If administrative moves were truly being made for riot preparedness, why wasn't there any transparency with respect to this process? In real time? 
-
-	- The reason the chief said "general response", is because *he didn't know* how out of hand things were going to get and he was not made aware that this was a possibility.
-
-	- If it were the case that he needed to come up with a strategic plan for several scenarios, he clearly did not have the training to do so (nor was there redundancy in the event of failure either by a single individual or an interdepartmental logjam).
-
-	- Evidence shows huge police responses at Regents meetings, etc. A last minute call for a task no one could have been prepared for without prior training or protocol was an exercise in passing the buck when the state of campus safety was completely unknown. 
-
-	- And to hire Braziel (there is no Office of Campus Safety, and there is no Accountability Report and Braziel's term is over, just got extended) and point an abundance of force at encampments is treating UCLA like every other campus, and it is not (cite UCLA statistics for violence at protests which is low).
-
-	- This is not a case of citations and rough handling of students to clear encampments, and this is not a case of resolving safety issues by making them "unlawful." The issue here is the environment in which this campus exists can be unsafe for protesting students. And you can point as many police at congregating students as you wish, or clear encampments as much as you wish, but that does not solve the problem. 
-
-	- This is a case of tensions flaring, embroiling both sides in conflict due to administrative negligence.
-
-	- The more downstream force they use to smother the symptoms of problems now deeply rooted in these factions the worse the situation will become. It is a pressure cooker that will require more and more force hold back, indefinitely. 
-
-- Show the video of CHP on June 10th, was this what Thomas was supposed to have mobilized, standing at the ready, in the event of a riot? 
-
-- Because that was the number of officers necessary to quell the "violence" that evening
-
-- That is what Braziel did on June 10th, and according to his most recent LA Times interview, he considers his job thus far a success 
-
-- Based on their inability to address the elephant in the room at UCLA presently, treating students as an outlandish, violent mob, shows they would never have been ready for the April 30th riots. Because the UCLA students are not an outlandish, violent mob. So neither Thomas or anyone else would assume that an army would be necessary to control them. And neither Thomas or anyone else should be expected to prepare an army for a phantom militia---
-
-- What they wanted Thomas to address was an elephant in the room. His failure to pick up what they were implying and direct resources at it is now what is being called "a failure" on his part. 
-
-- When January 6th occurred at our nation's capital did we blame Capitol Police? Did we blame [Nancy Pelosi](https://cha.house.gov/2024/8/new-obtained-hbo-footage-shows-pelosi-again-taking-responsibility-for-capitol-security-on-january-6) for not beefing up security beyond that of any other congressional count and certification? No, Trump incited a violent mob to prevent the peaceful transfer of power. That mob was thereafter held accountable, not Congress. Even if Congress has members some would consider despicable, that is irrelevant. That mob was years in the making. The result of systemic issues that run deep in the various factions that make up this country. 
-
-- What the police did do on June 10th, is serve as a deterrent for counter-protesters. A few showed up, but nothing came of it. But there is no telling whether June 10th could have ended like April 30th (or the days before) had the police not been there. Will they be mobilizing these forces preemptively every time? Spending this money every time? Directing the forces at students and creating collateral damage every time? The collateral damage is exactly that, collateral damage that UCLA is dragging out for the public to view as justice served. 
-
-- The non-affiliates need to be addressed, explicitly. 
-
-- The barricades that continually go up, even for small encampments, are likely meant for agitators and counter-protesters, not police or students. Or is it to keep "Zionists" out? Or are the Zionists counter-protesters? While actions in April were broader than a move simply for the sake of safety, if the students have to protect themselves from bodily harm either way, then any attempt to protest without the barricades and exclusion, as many students may be willing to do, would put their safety at risk. Because no one will address the safety to students as its own separate issue, these broad, umbrella policies meant to keep the peace are really serving to chill free speech activities on campus. The reason UCLA decided to allow the encampment in the first place was because they wanted to be part of the national conversation. They wanted the spotlight partially on them. As policing and policy continue to be layered on, without addressing the real issues, UCLA will never again be part of this conversation, or potentially any other. Meanwhile Columbia shut their campus down to non-affiliates in a move that directly addresses an issue causing chaos and unsafe conditions on campus. That acknowledgement, in whatever form appropriate for UCLA, is vitally important. 
-
-
-- What happened between the administration and Thomas on April 30th? Did they alert him to the fact that campers were told to vacate? 
-
-	- It is odd that he called for mutual aid on the 25th and 26th, because the administration was planning to "tentatively" clear the encampment.
-
-	- Why then didn't he call for mutual aid on the days before the 30th? Is it because the decision to clear the encampment came on the 30th?
-
-	- Why was he watching a Dodgers game on the night of the 30th? Was he aware of the vacate notification at all? Was he made aware of the mounting tension? Did he call mutual aid on the 30th expecting to clear the encampment days later? Did he call mutual aid at all? 
-
-	- One possible scenario: Sunday and Monday tensions mounted, they decided *on Tuesday* to clear the encampment, thereby giving Thomas no prior notification, and relied on his "general response" forces in the event anything went wrong
-
-	- They did not say *if you stay it could be unsafe*
-
-		- They were relying on Thomas despite having no confirmed game plan 
-
-		- They didn't want to demonize the counter-protesters, and were willing to risk the safety of the students 
-
-		- They didn't want to admit that they miscalculated and were miscalculating the state of campus safety
 
 
 
-
-
-
-- They have to stop vandalizing campus, that vandalization is very expensive. This is a give a little take a little situation. 
-
-- The three temporally parallel but spatially sequential threads 
-
-	- Administrative negligence---
-
-		- Safety is an issue
-
-		- Students cannot govern themselves
-
-		- The conversation around the issues 
-
-			- follow the etymology of "Zionist"
 
 
 

@@ -4,6 +4,7 @@ title: "Protest activities-Police handling"
 published: true
 author: Alexie Pogue
 date: 2024-11-3 6:50 PM
+updated_date: 2024-11-15 3:18 PM 
 ---
 
 
@@ -86,6 +87,46 @@ date: 2024-11-3 6:50 PM
 
 	- This puts "sufficient forces" arrival time at approximately 1:30 a.m. 
 
+
+### Notes (don't delete these ones)
+
+- Ultimately the chief of police was blamed here
+
+	- The impending or possible danger wasn't made clear to the chief of police by the administration, we know this because it wasn't made clear to the students. 
+
+	- If administrative moves were truly being made for riot preparedness, why wasn't there any transparency with respect to this process? In real time? 
+
+	- The reason the chief said "general response", is because *he didn't know* how out of hand things were going to get and he was not made aware that this was a possibility.
+
+	- If it were the case that he needed to come up with a strategic plan for several scenarios, he clearly did not have the training to do so (nor was there redundancy in the event of failure either by a single individual or an interdepartmental logjam).
+
+	- Evidence shows huge police responses at Regents meetings, etc. A last minute call for a task no one could have been prepared for without prior training or protocol was an exercise in passing the buck when the state of campus safety was completely unknown. 
+
+- Based on their inability to address the elephant in the room at UCLA presently, treating students as an outlandish, violent mob, shows they would never have been ready for the April 30th riots. Because the UCLA students are not an outlandish, violent mob. So neither Thomas or anyone else would assume that an army would be necessary to control them. And neither Thomas or anyone else should be expected to prepare an army for a phantom militia---
+
+- What they wanted Thomas to address was an elephant in the room. His failure to pick up what they were implying and direct resources at it is now what is being called "a failure" on his part. 
+
+- When January 6th occurred at our nation's capital did we blame Capitol Police? Did we blame [Nancy Pelosi](https://cha.house.gov/2024/8/new-obtained-hbo-footage-shows-pelosi-again-taking-responsibility-for-capitol-security-on-january-6) for not beefing up security beyond that of any other congressional count and certification? No, Trump incited a violent mob to prevent the peaceful transfer of power. That mob was thereafter held accountable, not Congress. Even if Congress has members some would consider despicable, that is irrelevant. That mob was years in the making. The result of systemic issues that run deep in the various factions that make up this country. 
+
+- What the police did do on June 10th, is serve as a deterrent for counter-protesters. A few showed up, but nothing came of it. But there is no telling whether June 10th could have ended like April 30th (or the days before) had the police not been there. 
+
+	Will they be mobilizing these forces preemptively every time? Spending this money every time? Directing the forces at students and creating collateral damage every time? The collateral damage is exactly that, collateral damage that UCLA is dragging out for the public to view as justice served. 
+
+- The non-affiliates need to be addressed, explicitly. 
+
+- The barricades that continually go up, even for small encampments, are likely meant for agitators and counter-protesters, not police or students. Or is it to keep "Zionists" out? Or are the Zionists counter-protesters? While actions in April were broader than a move simply for the sake of safety, if the students have to protect themselves from bodily harm either way, then any attempt to protest without the barricades and exclusion, as many students may be willing to do, would put their safety at risk. Because no one will address the safety to students as its own separate issue, these broad, umbrella policies meant to keep the peace are really serving to chill free speech activities on campus. 
+
+	The reason UCLA decided to allow the encampment in the first place was because they wanted to be part of the national conversation. They wanted the spotlight partially on them. As policing and policy continue to be layered on, without addressing the real issues, UCLA will never again be part of this conversation, or potentially any other. Meanwhile Columbia shut their campus down to non-affiliates in a move that directly addresses an issue causing chaos and unsafe conditions on campus. That acknowledgement, in whatever form appropriate for UCLA, is vitally important. 
+
+- One possible scenario: Sunday and Monday tensions mounted, they decided *on Tuesday* to clear the encampment, thereby giving Thomas no prior notification, and relied on his "general response" forces in the event anything went wrong
+
+- They did not say *if you stay it could be unsafe*
+
+	- They were relying on Thomas despite having no confirmed game plan 
+
+	- They didn't want to demonize the counter-protesters, and were willing to risk the safety of the students 
+
+	- They didn't want to admit that they miscalculated and were miscalculating the state of campus safety
 
 
 

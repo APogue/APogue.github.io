@@ -135,6 +135,8 @@ updated_date: 2024-11-14 10:55 AM
 
 - [Interim Chancellor Hunt Four-Point Plan](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
 
+	- This plan is part of the response to the terms of CA state funding (report by Oct 1st)
+
 	- "Braziel also initiated a review of UCLA’s safety protocols and police response to the events of last spring — which I will share with you when it is available. "
 
 	- [Daily Bruin Op-Ed 4 point plan](https://dailybruin.com/2024/10/01/the-uc-must-revise-its-handling-of-free-speech-student-protests-to-promote-trust)
