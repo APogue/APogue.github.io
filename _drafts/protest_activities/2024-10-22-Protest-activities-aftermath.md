@@ -163,7 +163,15 @@ updated_date: 2024-11-14 5:57 PM
 
 - [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), updated July 29 at 10:19 a.m.
 
+	- "UCLA spent over $12 million in relation to spring pro-Palestine protests, according to estimates obtained by the Daily Bruin.
 
+		The university **spent $11,781,917 on security and law enforcement, including mutual aid with outside law enforcement agencies, private security and overtime payment for UC employees during the spring quarter**, according to a preliminary estimate from the UCLA Compliance Office. Another $471,760 was spent on cleanup – including the repair of items damaged by vandalism, for a total of nearly $12.3 million in protest-related costs.
+
+		The university is considering collecting the money – the highest figure across the UC – from protest participants.
+
+		This $12.3 million disclosure by UCLA is higher than UC Office of the President estimates previously reported by the Los Angeles Times. Jorge Silva, the UC’s associate vice president for communications, **said the numbers from UCOP were from June 25 and that the estimate from the UCLA Compliance Office would be more accurate as of July 18.**"
+
+		- The cost difference is likely from June 10th
 
 - "[UC unveils steep price tag for handling campus protests: $29 million, most for policing](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest), July 18th
 
