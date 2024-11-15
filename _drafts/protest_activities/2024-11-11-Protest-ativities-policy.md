@@ -53,6 +53,11 @@ updated_date: 2024-11-15 10:11 AM
 	Response Team policy underwent Management Consultation in 2017, as well as review by the
 	UCFW. However, it was put on hold pending the recommendations of the President’s Police Task Force"
 
+	- [2021: Editorial: UC runs counter to student, faculty preferences with systemwide special police force](https://dailybruin.com/2021/05/14/editorial-uc-runs-counter-to-student-faculty-preferences-with-systemwide-special-police-force)
+		- “The most concerning changes come in the form of the university’s new crowd management, or Systemwide Response Team, which has been likened to a form of UC national guard by prominent abolitionist groups such as the Divest/Invest UCLA Faculty Collective. According to the proposal, the SRT will be issued riot gear, arrest kits, chemical agents and kinetic energy projectiles. The team would be a UC-wide group of police officers exceeding the size of a police force on any single campus.”
+
+		- "Just last month, the UCLA Lewis Center for Regional Policy Studies released research showing that less than 10% of police calls at UCLA involve force, violence or even threats of violence. And even if UCLA did have more calls involving violence or crime, data has shown that increased police presence is not correlated with decreased crime."
+
 	- [Universitywide Police Policies And Administrative Procedures](https://policy.ucop.edu/doc/4000382/PoliceProceduresManual)
 
 - UC President bans facemasks and encampments, allows more non-lethal weapons for campus police [article](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/gaza-trump-harris-hair-metal/uc-protests-police-weapons)

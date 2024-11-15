@@ -126,7 +126,7 @@ updated_date: 2024-11-14 5:57 PM
 
 ### Wade Stern says
 
-- [UCLA administrators ignored UC policies and now engage in blame-shifting](UCLA administrators ignored UC policies and now engage in blame-shifting)
+- [UCLA administrators ignored UC policies and now engage in blame-shifting](https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and-now-engage-in-blame-shifting/)
 
 	- It is not a question of who did what right and who did what wrong, Wade argues this is a matter of whose responsibility this was. Thomas failed to go above and beyond, yes. It doesn't matter, this situation was not his responsibility. 
 
@@ -161,13 +161,17 @@ updated_date: 2024-11-14 5:57 PM
 
 ### UC Regents 
 
-- "[UC unveils steep price tag for handling campus protests: $29 million, most for policing](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest) 
+- [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), updated July 29 at 10:19 a.m.
 
-	- "UCLA topped all 10 campuses in costs, spending $10 million on safety and security and $400,000 for building repairs, graffiti removal and other cleanup between March 1 and June 25."
 
-	- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they backed efforts to do what was needed to restore campus safety."
 
-		"“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. Our top priority is, and always will be, the safety of our community.”"
+- "[UC unveils steep price tag for handling campus protests: $29 million, most for policing](https://www.latimes.com/california/story/2024-07-18/uc-unveils-price-tag-for-this-springs-campus-unrest), July 18th
+
+	- "**UCLA topped all 10 campuses in costs, spending $10 million on safety and security** and $400,000 for building repairs, graffiti removal and other cleanup between March 1 and June 25."
+
+	- "UC Board of Regents Chair Janet Reilly said regents were aware that the costs of handling protests could be high but they **backed efforts to do what was needed to restore campus safety.**"
+
+		"“In several instances over the past several months, UC campus leaders were put in extraordinarily challenging situations,” Reilly said in a statement to The Times. “We supported our chancellors’ decisions to do what they needed to protect our campus communities and enable students, faculty, staff, patients, and visitors to attend and teach classes, access medical care, get to work, continue research activities, and safely access public facilities. **Our top priority is, and always will be, the safety of our community.**”"
 
 	- "The university is under pressure from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them."
 
