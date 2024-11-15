@@ -4,7 +4,7 @@ title: "Protest activities-students and faculty voice concerns"
 published: true
 author: Alexie Pogue
 date: 2024-10-28 3:18 PM
-updated_date: 2024-11-14 1:54 PM
+updated_date: 2024-11-15 10:07 AM
 ---
 
 Thesis: UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
@@ -24,7 +24,7 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 	Apologize."
 
-
+- [UCSA message](https://www.instagram.com/p/C6XChA5SiDk/?utm_source=ig_web_copy_link&img_index=1)
 
 ### Hillel response 
 
@@ -64,9 +64,11 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 - [‘I thought I was going to die’: UCLA encampment protesters recall April 30 attack](https://dailybruin.com/2024/05/07/i-thought-i-was-going-to-die-ucla-encampment-protesters-recall-april-30-attack)
 
 
-- 1 student hospitalized June 10th 
+- [UC police seek approval for more pepper balls, sponge rounds, launchers, drones](https://www.latimes.com/california/story/2024-09-19/pepper-balls-sponge-rounds-launchers-drones-uc-police-ask-for-these-weapons)
 
+	- "Robin D.G. Kelley, a UCLA professor of American history, spent the night in the hospital with his student who was shot in the chest with a projectile during the June 10 protest. The student, hospitalized for two days, suffered a contusion to the heart and a bruised lung and remains so traumatized that they have postponed law school studies, Kelley said."
 
+		- "“The obvious burning question is this: Why does UCLA or any university campus need this kind of weaponry?” Kelley said. “Clearly the weapons are not to keep mobs off campus; they are to be used against our students and us.”"
 
 
 
@@ -100,3 +102,46 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 	- "We demand that they bring their policemen back under their control, that they restore cultural, political and intellectual order to our campus community by protecting rather than punishing expression and protest, and that they take steps to allow this community to breathe freely once more by reducing or eliminating – rather than enhancing – the police presence on campus."
 
 - The main issue with the arrests is, while the encampments were illegal, and looked like they were building barricades, the arrests and disruptions came from the "kettling" incident. 
+
+### David Myers 
+
+- [David Myers LA Times Opinion](https://www.latimes.com/opinion/story/2024-09-16/israel-gaza-hamas-protest-antisemitism-ucla-usc-college)
+
+	- [Nexus Project](https://nexusproject.us/)
+
+	- [A Campus Guide To Identifying Antisemitism In A Time Of Perplexity](https://nexusproject.us/wp-content/uploads/2024/09/A-Campus-Guide-To-Identifying-Antisemitism-In-A-Time-Of-Perplexity.pdf)
+
+	- "The guide assumes both that antisemitism is a real problem in our society and that not all harsh criticism of Israel is antisemitic. Indeed, political speech may be painful or offensive to people who identify strongly with Israel without being antisemitic."
+
+		- When something is defined as subjectively offensive, they are no longer discriminating
+
+	- "Just as Jewish students have felt attacked for supporting Israel, so too have students who support the pro-Palestine movement felt attacked for their views. They faced hostility from right-wing, pro-Israel counter-demonstrators, a deaf ear from university leaders and often violent responses from law enforcement. Moreover, they were frequently accused of being antisemitic because of their support for Palestinians and criticism of Israel even though a noticeable contingent of Jews participated in the protests."
+
+	- His questions regarding antisemitism are narrower than the Title VI guidelines on discrimination 
+
+	- "For example, the guide maintains that the phrase “From the river to the sea” is not antisemitic if it’s proposing a single state in which all citizens, Jewish and Palestinian, have equal rights. By contrast, if the phrase is a call to eliminate Jews from the land between the Jordan and the Mediterranean or to relegate them to second-class status, it is antisemitic."
+
+
+### Student demands
+
+- [Dueling Gaza protests at UCLA draw hundreds as USC sees peaceful demonstration](https://www.latimes.com/california/story/2024-04-28/gaza-ucla-usc-protests)
+
+	- "The director of UCLA’s Nazarian Center, a nexus for both social and political Israeli studies, took to X on Saturday to voice support for those who oppose Israel’s blockade and destruction of Gaza. But Dov Waxman drew the line at a demand for UCLA to sever connections to Israeli universities and foreign study programs."
+
+	- "“The Center is devoted to the academic study of Israel and has no ties to the Israeli government,” Waxman wrote. Further, Waxman singled out one of the groups he said is organizing campus protests, Students for Justice in Palestine. Waxman said the group has voiced support for Hamas."
+
+### Boycott demands 
+
+
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
+
+	- “The University of California has consistently opposed calls for boycotts against and divestment from Israel,” the statement said. “While the University affirms the right of our community members to express diverse viewpoints, a boycott of this sort impinges on the academic freedom of our students and faculty and the unfettered exchange of ideas on our campuses.”
+
+
+### Faculty reactions
+
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
+
+	- "UC lecturers were quick to call for Block’s resignation on Wednesday, citing the mismanagement of police and security response to the overnight violence. He had already planned to step down on July 31.
+
+		“Chancellor Block has refused to meet with protesters to discuss their interests; instead, he has created an environment that has escalated tensions and failed to take meaningful action to prevent the violence that occurred last night,” the UC lecturers’ statement read."

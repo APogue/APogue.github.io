@@ -4,7 +4,7 @@ title: "Protest activities-the tale of the phantom militia"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
-updated_date: 2024-11-12 5:57 PM
+updated_date: 2024-11-15 11:11 AM
 ---
 
 Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
@@ -185,10 +185,20 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 - "Green fireworks shoot up in front of Royce Hall as counter-protesters look on. Fireworks were released from outside the encampment toward the inside of it. [(Nicolas Greamo/Daily Bruin senior staff)](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)"
 
 
+- [Dueling Gaza protests at UCLA draw hundreds as USC sees peaceful demonstration](https://www.latimes.com/california/story/2024-04-28/gaza-ucla-usc-protests)
+
+	- "USC’s campus has been closed to the general public since Friday, with access restricted to residents and registered visitors. Further steps were hinted at with the approach of commencement ceremonies starting May 8. The traditional central ceremony has been canceled but separate events for individual schools are still planned."
+
+	- "Across the lawn, demonstrators carried signs that ranged from a handmade “Free Hugs Jewish Students” to pre-printed “I go bananas for Israel” — a taunt aimed at reports of someone with a banana allergy in the pro-Palestinian encampment, now encircled by a protective wall of plywood. Through gaps in the wood, a person waved a large Palestinian flag."
 
 
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
 
+- "At about 4 a.m. Wednesday, a small group of student journalists for the Daily Bruin, including Christopher Buchanan, a student fellow for the CalMatters College Journalism Network, were confronted by a group of counterprotesters who began berating them. They targeted the staff’s news editor, calling her names, and blocked the journalists’ route to the Daily Bruin office. One shined a strobe light into Buchanan’s face while others attacked him as he fell to the ground.
 
+	“After I was struck and debilitated, I was surrounded by four to seven counterprotesters who proceeded to punch and kick my head and torso for thirty seconds to a minute,” Buchanan said. “I didn’t sustain any internal injuries, but I was badly bruised on the body and face.”
+
+	Buchanan said this all happened within earshot of CHP officials, who did nothing to intervene."
 
 
 

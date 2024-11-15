@@ -4,7 +4,7 @@ title: "Protest activities-policy"
 published: true
 author: Alexie Pogue
 date: 2024-11-11 12:42 PM
-updated_date: 2024-11-12 5:48 PM
+updated_date: 2024-11-15 10:11 AM
 ---
 
 ### Notes
@@ -91,6 +91,18 @@ updated_date: 2024-11-12 5:48 PM
 
 	- Office of Systemwide Community Safety established in July 2022 to ensure the plan's implementation
 
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
+
+	- "The reason for such a mixed response from law enforcement is haphazard adherence to UC President Michael Drake’s 2021 UC Campus Safety Plan.
+
+		Encampments at a growing number of universities across the state and nation are sparking battles between students’ free speech and campus policies against trespassing and obstructing operations. For the University of California system, the encampments at five campuses have been a test of newly implemented campus policing reforms meant to address systemic racism post-2020.
+
+		Drake’s safety plan states: “The University will reinforce existing guidelines that minimize police presence at protests, follow de-escalation methods in the event of violence and seek non-urgent mutual aid first from UC campuses before calling outside law enforcement agencies.”"
+
+	- "The 2021 safety plan instituted data dashboards, police advisory boards, mental health responders and professional accreditation for individual police departments. According to the UC’s director of community safety, Jody Stiger, all 10 campuses are expected to put the plan into action — with the final, delayed step being professional accreditation for campus law enforcement agencies — by the end of this year."
+
+		- Says this plan instituted as a reaction to 2011 Occupy Wall Street and 2020 activism over George Floyd
+
 - [Charting a new course for public safety at UCLA: Report of the UCLA Co-Chairs](https://ucla.app.box.com/v/Public-Safety-Report), May 10th 2022
 
 - [Robinson/Edley Report](https://campusprotestreport.universityofcalifornia.edu/documents/implementation-report.pdf)
@@ -155,9 +167,9 @@ updated_date: 2024-11-12 5:48 PM
 
 	- "COMMUNICATIONS REGARDING PROTESTS AND MAJOR EVENTS"
 
-		- "Have campus officials made every reasonable attempt to identify and contact
+		- "**Have campus officials made every reasonable attempt to identify and contact
 	members of the demonstration group — preferably one or more group leaders
-	— in advance of the demonstration, to establish lines of communication? For
+	— in advance of the demonstration, to establish lines of communication?** For
 	leaderless groups, campus authorities should consider communicating
 	broadly to the group as a whole (through social media and otherwise) until
 	relationships form."
@@ -310,9 +322,9 @@ updated_date: 2024-11-12 5:48 PM
 
 - "Anna Markowitz, an associate professor of education, said the heavy presence of officers standing around “in little packs” made the campus less comfortable, ramping up tensions and the potential for racial profiling. Another faculty member said he was shocked to count 14 officers in a half-mile walk through campus."
 
-		- "“What’s the plan to get rid of this?” Markowitz said she asked at recent Academic Senate town hall with Braziel and Interim Chancellor Darnell Hunt. “Is there a plan?”"
+	- "“What’s the plan to get rid of this?” Markowitz said she asked at recent Academic Senate town hall with Braziel and Interim Chancellor Darnell Hunt. “Is there a plan?”"
 
-		- "Braziel’s response during the town hall — putting security officers in friendlier blue-and-gold UCLA polo shirts instead of the black shirts that many currently wear — did not play well among faculty, who said he missed their larger concerns of the tense campus climate created by the stepped-up patrols."
+	- "Braziel’s response during the town hall — putting security officers in friendlier blue-and-gold UCLA polo shirts instead of the black shirts that many currently wear — did not play well among faculty, who said he missed their larger concerns of the tense campus climate created by the stepped-up patrols."
 
 ### State policy 
 

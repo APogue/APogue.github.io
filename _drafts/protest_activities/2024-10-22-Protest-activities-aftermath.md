@@ -151,6 +151,13 @@ updated_date: 2024-11-14 5:57 PM
 
 - [Announcing the Office of Inclusive Excellence](https://chancellor.ucla.edu/messages/announcing-the-office-of-inclusive-excellence/)
 
+### UCOP Drake said
+
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
+
+	- "“My office has requested a detailed accounting from the campus about what transpired in the early morning hours today,” Drake said on Tuesday. “But some confusion remains. Therefore, we are also ordering an independent external review of both UCLA’s planning and actions, and the effectiveness of the mutual aid response.”"
+
+
 
 ### UC Regents 
 
@@ -218,6 +225,20 @@ updated_date: 2024-11-14 5:57 PM
 	- It seemed with UCLA they were communicating through the Daily Bruin, the People's Council or some other 3rd party channel
 
 	- That is incredibly unsafe not to try to interact with them directly 
+
+- [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)	
+
+	- "UC Irvine spokesperson Tom Vasich described the decision to involve five law enforcement departments as “a standard response” for situations where the campus needs support while simultaneously describing the protest as a “very peaceful environment.” He attributed the police response to potential trespassing violations from people not affiliated with the university.
+
+		“This isn’t a free speech issue, this is a trespassing issue,” Vasich said."
+
+	- [This Chancellor Update](https://chancellor.uci.edu/communications/campus/2024/240429-campus-activity-update.php) from UC Irvine is enlightening 
+
+	- I believe in this case, "non-affiliates are pro-Palestinian protesters"
+
+	- The non-affiliates at UCLA were carrying weapons, harassing and spewing hate speech, getting aggressive and physical---none of this qualifies as trespassing? 
+
+	- He negotiated with the encampment, at least
 
 - [UC regents: Protests yes, encampments no. Campus rules must be consistently enforced](https://www.latimes.com/california/story/2024-07-15/uc-regents-say-no-to-encampments-and-codes-must-be-enforced#:~:text=%E2%80%9CEncampments%20are%20not%20allowed%2C%E2%80%9D,been%20in%20place%20since%202017.%E2%80%9D)
 
