@@ -4,7 +4,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-14 5:57 PM
+updated_date: 2024-11-16 5:16 PM
 ---
 
 ### Notes
@@ -22,6 +22,21 @@ updated_date: 2024-11-14 5:57 PM
 
 ### Mayor Bass said
 
+- Karen Bass "shocked and horrified" [statement](https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles)
+
+	- Questions to be answered:
+
+		- Not considered "LAPD" territory---UCPD and CHP respond to calls on UC campuses 
+
+		- Notify law enforcement in advance, can't call backup while events unfolding, when was *mutual aid* called for? 
+
+		- The appropriate "decision makers, where were they?"
+
+		- "Why frankly was the counter-protest happening right next door to the encampment?"
+
+			- Groups can be separated based on content-neutral concerns such as safety and security
+
+		- People need to be held accountable, this might mean someone gets fired, or improvements and recommendations 
 
 ### Newsom said
 
@@ -67,6 +82,10 @@ updated_date: 2024-11-14 5:57 PM
 
 ### Block messages in the days after 
 
+- Gene Block reflects on the evening before [statement](https://chancellor.ucla.edu/messages/condemning-violence-in-our-community/), May 1, 2024
+
+	- "However one feels about the encampment, this attack on our students, faculty and community members was utterly unacceptable. It has shaken our campus to its core and — adding to other abhorrent incidents that we have witnessed and that have circulated on social media over the past several days — further damaged our community’s sense of security."
+
 - [Chancellor Block shared the following message with the UCLA campus community](https://chancellor.ucla.edu/messages/changes-to-campus-security-operations/), May 5, 2024
 
 	- "Protecting the safety of our community underpins everything we do at UCLA. Our students, faculty and staff can only learn, work and thrive in an environment where they feel secure.
@@ -81,7 +100,15 @@ updated_date: 2024-11-14 5:57 PM
 
 ### Block does damage control
 
-- Block congressional hearing 
+- Gene Block testimony [UCLA Policy---Should](https://alexiepogue.com/2024/05/30/In-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table/)
+
+	- It was **never stated that the encampment posed a safety risk to students,** although Block cited safety concerns as the reason for removal at the Committee hearing (Figure 56 @ 44:14). 
+
+		- If Block *was aware of the security risks*, and there was no indication students would leave, why weren’t police reinforcements on standby to **head off** any mounting tension? 
+
+		- He was clearly *ignorant of the security risks*, if he didn't know, how could Thomas know?
+
+		- **The administration did not convey the urgency of the matter, to anyone. Safety is why the encampment needed to be cleared right away.**
 
 ### Rick Braziel said in the Daily Bruin 
 
@@ -184,6 +211,8 @@ updated_date: 2024-11-14 5:57 PM
 	- "The university is under pressure from state lawmakers to better control protests and develop a systemwide framework to provide consistent enforcement of rules. The state is withholding $25 million in funding until UC submits a report to the Legislature by Oct. 1 on university efforts to consistently enforce policies and laws “that protect safety and access to educational opportunities and campus spaces and buildings.” The report must also include information about how UC carries out a state directive to notify all students by the beginning of fall term about rules around free speech activities and consequences for violating them."
 
 		- This is part of the state budget bills and is located in the policy doc
+
+
 
 ### Police union said
 

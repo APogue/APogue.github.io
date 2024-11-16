@@ -4,7 +4,7 @@ title: "Protest activities-students and faculty voice concerns"
 published: true
 author: Alexie Pogue
 date: 2024-10-28 3:18 PM
-updated_date: 2024-11-15 10:07 AM
+updated_date: 2024-11-16 5:46 PM
 ---
 
 Thesis: UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
@@ -70,7 +70,9 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 		- "“The obvious burning question is this: Why does UCLA or any university campus need this kind of weaponry?” Kelley said. “Clearly the weapons are not to keep mobs off campus; they are to be used against our students and us.”"
 
+- DB points to police mishandling [article](https://dailybruin.com/2024/05/14/how-law-enforcement-mishandled-encampment-sweep-at-ucla-according-to-experts), updated May 14 at 11:41 p.m.
 
+	- Less-than-lethal rounds still have the potential to cause serious injury, Sierra-Arévalo said. At a Faculty for Justice in Palestine at UCLA press conference Thursday outside of Charles E. Young Research Library, a medic who treated patients the night of the sweep said they evaluated over a dozen students for rubber bullet injuries, such as **bone fractures, golf-ball sized contusions, and eye, scalp, face and body lacerations.**
 
 ### Student reactions 
 
@@ -144,4 +146,4 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 	- "UC lecturers were quick to call for Block’s resignation on Wednesday, citing the mismanagement of police and security response to the overnight violence. He had already planned to step down on July 31.
 
-		“Chancellor Block has refused to meet with protesters to discuss their interests; instead, he has created an environment that has escalated tensions and failed to take meaningful action to prevent the violence that occurred last night,” the UC lecturers’ statement read."
+		“**Chancellor Block has refused to meet with protesters to discuss their interests;** instead, he has created an environment that has escalated tensions and failed to take meaningful action to prevent the violence that occurred last night,” the UC lecturers’ statement read."

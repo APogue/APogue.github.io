@@ -131,5 +131,18 @@ updated_date: 2024-11-15 3:18 PM
 	- They didn't want to admit that they miscalculated and were miscalculating the state of campus safety
 
 
+### play by play 
 
+- Delayed police response
 
+	- CSC and UCPD present on the scene did little to quell violence [article](https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence)
+
+		- CSC called LAPD sometime before 10:55 p.m. "when the first firework was released"
+
+		- CSC Security: Hired by UCLA, retreated into Kaplan Hall and did not engage with the protesters or counter-protesters
+
+		- Two UCPD cars and one UCLA EMT arrived at 11:13 p.m. but left by 11:21 p.m.
+
+		- UCPD Chief John Thomas mentioned only five to six officers on duty and that officers retreated after coming under attack
+
+		- Around 70 police officers were on the scene by 3 a.m.
