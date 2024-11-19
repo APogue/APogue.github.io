@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-11-19 4:43 PM
+updated_date: 2024-11-19 5:04 PM
 ---
 
 ### Recently added articles 10-24
