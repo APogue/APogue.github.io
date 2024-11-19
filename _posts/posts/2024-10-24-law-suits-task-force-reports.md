@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-11-14 1:48 PM
+updated_date: 2024-11-18 5:47 PM
 ---
 
 ### Recently added articles 10-24
@@ -30,9 +30,33 @@ updated_date: 2024-11-14 1:48 PM
 
 	- [Announcement](https://www.instagram.com/p/DBb7iDJy7PT/?hl=en)
 
-	- "The ACLU’s argument here likely hinges on distinguishing between policy-based disruptions that affect university operations and those that impact free speech rights. They might argue that while the university can regulate based on time, place, and manner to address genuine operational disruptions, declaring an unlawful assembly solely based on “suspicion” of a policy violation—without imminent or actual disruption—risks suppressing lawful protest.
+	- "The ACLU’s argument here likely hinges on distinguishing between **policy-based disruptions that affect university operations and those that impact free speech rights.** They might argue that while the university can regulate based on time, place, and manner to address genuine operational disruptions, **declaring an unlawful assembly solely based on “suspicion” of a policy violation—without imminent or actual disruption—risks suppressing lawful protest.**
 
-		In essence, the ACLU would be pushing for stricter standards (probable cause and the presence of imminent violence or disruption) to prevent the university from prematurely declaring assemblies “unlawful,” emphasizing that not all policy violations justify breaking up a protest if it doesn't clearly interfere with essential university functions."
+		In essence, the ACLU would be pushing for stricter standards (probable cause and the presence of imminent violence or disruption) to prevent the university from prematurely declaring assemblies “unlawful,” emphasizing that **not all policy violations justify breaking up a protest if it doesn't clearly interfere with essential university functions.**"
+
+	- Notes on this lawsuit---------------------------------------
+
+		- Whether the school opts to divest or not, and whatever the reason for why there was divestment in the past versus now are irrelevant to what I care about
+
+		- Looks like the counter-protesters were only there to harass students (see 87.)
+
+			- "88. As the harassers turned violent on the evening of April 28, UCLA administrators did not
+			intervene and offered no support to the students inside the otherwise nonviolent encampment. 89. As a result, increasingly larger numbers of individuals harassed, attacked, and attempted to
+			dismantle the encampment at UCLA on the evenings of April 29 and April 30."
+
+		- "100. One demonstrator asked a UCLA-hired security guard why they were not assisting the victims of the violence. The guard responded that what those in the encampment were facing was their own fault."
+
+		- "I heard some screaming, and I turned around, and one of my really good friends was on the floor rolling in agony,’ they said. ‘I’ve never heard any of my friends scream like that before. … It’s still traumatizing until now, that I saw him go through that kind of pain.’”"
+
+		- "102. The same report described another student who was hit in the head twice while trying to protect both the encampment’s barricade and their fellow students. This student “said they were taken to the hospital by their classmates, where they ultimately received medical treatment, including stitches and staples. ‘I thought I was going to die. I thought I’d never see my family again,’ the student recalled.”
+
+		- "103. Later reports confirmed that twenty-five pro-Palestine protesters were hospitalized because of injuries inflicted by mob violence."
+
+		- "111. When pushed, he said it was because of “the people that attacked you last night,” saying “[t]he point is to shut down an unsafe situation because we think the people [referring to the mob] are going to come back and we don’t know how many may come back.” 
+
+		- 
+
+
 
 - [Legal precedent explained](https://freespeech.stanford.edu/policies-and-guidance/core-policies/protected-speech-discrimination-and-harassment#:~:text=Otherwise%20known%20as%20the%20%E2%80%9CFighting,Mason%20Univ.%2C%201991)
 
