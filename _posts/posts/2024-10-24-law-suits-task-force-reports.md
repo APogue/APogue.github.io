@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-11-19 12:11 PM
+updated_date: 2024-11-19 4:43 PM
 ---
 
 ### Recently added articles 10-24
@@ -112,6 +112,33 @@ updated_date: 2024-11-19 12:11 PM
 
 		If the policy to block pathways was not clearly communicated or was ambiguous, participants might contest their liability.
 
+- The argument with respect to disciplinary action by the university, Pp. 25
+
+	- This is inconsistent with how the Title IX office would arrive upon a resolution, and presumably it's the same for a violation of the UCLA Student Conduct Code. Offices receiving reports must conduct their own investigation---students have a right to due process. 
+
+	- "179. The notice stated that Ms. Washington must schedule a meeting with Mr. Murotake “to
+	discuss the above allegations,” and that “no degree may be conferred until any pending allegations
+	and any assigned sanctions and conditions have been completed.”"
+
+	- "according to UCPD, “[o]n May 2, 2024, you refused to leave an area of Royce Quad between Powell Library and Royce Hall, despite multiple dispersal orders issued by UCPD.” It alleged that this conduct violated three provisions of the UCLA Student Conduct Code, including the provisions against disorderly behavior, disturbing the peace, and failure to comply. "
+
+	- "183. Mr. Murotake informed Ms. Washington that the Office does not have any individualized suspicion of wrongdoing against her and maintains no information about her arrest."
+
+	- "184. He admitted that he was not empowered to decide on Ms. Washington’s case because there
+	was “lots going on behind the scenes with the administration.”"
+
+	- "185. During the meeting, Ms. Washington did not admit wrongdoing, complained that the Office
+	had no facts to support any charges against her, and requested the proceeding be dropped. 186. Mr. Murotake ended the meeting stating that when a student denies the conduct, he must continue the investigation. He conceded, however, that the Office “does not have much to go off of” or any potential witnesses, and that he has to “wait to hear from the administration” about what it wants to do."
+
+	- "188. The next day, Ms. Washington received an “Agreement of Resolution” for the disciplinary charge. It again wrongly accused Ms. Washington of violating the Student Code of Conduct, specifically the sections prohibiting disorderly conduct, disturbing the peace, and failure to comply. It requested that, in exchange for Ms. Washington not to be subjected to any additional sanction (other than the opening of the disciplinary file itself and its continued allegations of the misconduct), that Ms. Washington agree for the remainder of her time as a student to:" (see doc for conditions)
+
+	- "189. The Agreement also stated that the university is continuing to investigate what occurred on
+	May 1 and May 2, and that Ms. Washington could still be subjected to further proceedings if it finds
+	any additional evidence of misconduct. 190. “Additional” evidence is, however, misleading, because the university never presented Ms. Washington with any evidence of her alleged misconduct. 191. The Agreement also stated that any violation of the Agreement’s terms in the future would entitle the university not only to discipline her for that future violation, but also to re-open the original charges against Ms. Washington arising out of May 1 and May 2 and to further sanction her for those past incidents."
+
+	- "193. The Agreement is now part of Ms. Washington’s student record and will be maintained by the Office of Student Conduct for five years from the date of the letter. 194. Ms. Washington now also faces the possibility that her disciplinary file could be reopened at any time. 195. Ms. Washington signed the Agreement of Resolution on July 25, 2024. She did so without admitting to any wrongdoing or violation of the Student Code of Conduct."
+
+
 - The argument with respect to their arrest in the first place,
 
 	- "227. Defendants unlawfully and without legal justification caused the arrest of Plaintiffs Graeme
@@ -134,10 +161,6 @@ updated_date: 2024-11-19 12:11 PM
 	between the participants in any unlawful activity and innocent bystanders, as required to carry out a
 	lawful arrest for failure to disperse under Penal Code section 409. See Dubner v. City & Cnty. of San
 	Francisco, 266 F.3d 959, 967 (9th Cir. 2001)."
-
-- The argument with respect to disciplinary action by the university,
-
-
 
 - Events surrounding April 30th
 
