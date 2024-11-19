@@ -186,6 +186,48 @@ updated_date: 2024-11-19 4:43 PM
 	individuals inside from future mob activity. They enjoyed ample resources, time, and wherewithal to develop a plan to discourage harassment and violent attacks against the encampment through a
 	combination of physical barriers, security, and de-escalation tactics."
 
+- UCLA community response
+
+	- "142. A group of 86 UCLA School of Law faculty and staff members issued a statement “strongly
+	condemn[ing] the violent attack on UCLA students by a mob of outsiders unaffiliated with UCLA”
+	along with “the university’s failure to take the steps necessary to protect our students’ peaceful
+	protest, despite the administration’s being on notice well before April 30 of the imminent risk of
+	serious violence against the students in the encampment.” The faculty and staff issued a list of
+	requests of the administration, including a complete investigation into its handling of the events,
+	assistance to the victims of the mob violence, and to work with faculty “to develop strategies that
+	allow protests and counter-protests to occur safely in the future.” "
+
+	- "143. a cohort of 76 UCLA Jewish faculty and staff released a statement calling for,
+	among other things, “the university to ensure that all students, faculty, and staff who were arrested
+	for being part of or in solidarity with the encampment are provided with full amnesty and are assured
+	that they will not be targeted again by UCLA or any UC administrators for engaging in peaceful
+	protest.”"
+
+	- "144. Faculty from the Department of Comparative Literature issued a statement stating that “[t]he
+	university has not only failed to protect those rights of free expression; it has actively hindered them,
+	 our students and colleagues vulnerable to assault and arrest, and breached the trust of the
+	campus community.”"
+
+	- "145. A group of 46 UCLA library staff echoed these statements, describing how “[t]he
+	University’s inaction for hours while students in the encampment were attacked by a violent mob of
+	counter protesters is especially horrifying given the overwhelming police force that was summoned
+	the following day” to clear the encampment. They noted that “[r]egardless of your views on the
+	encampment, this response [to forcibly clear the encampment] is abhorrent and at odds with principles—such as freedom of expression and student safety—that should be fundamental to any university campus. It sends a message that future protests are vulnerable to campus-approved suppression by either a mob or law enforcement.”"
+
+	- "146. In another statement, members of the UCLA Mathematics Department wrote that they
+	“condemn the conduct of our university administration to the student-led demonstrations protesting
+	violence against Palestinians in Gaza,” noting that “[i]ndependent of our political views, we find the
+	administration’s response shameful in its failure to protect our students and their freedom of
+	expression.” The statement describes how “the administration used [the mob] violence against the
+	protestors to justify clearing the protestors by force,” and demanded that the administration release
+	an explanation for why it took its speech-suppressive actions."
+
+	- "147. A larger petition signed by 906 UCLA faculty members decried the “violent and aggressive
+	police sweep” of the encampment and the arrest of “more than 200 students, faculty, and staff
+	arrested while peacefully protesting.” The petition asked that then-Chancellor Block resign, that
+	UCLA recommend charges against those arrested be dropped, and that UCLA disclose and divest
+	from investments in “military weapons production companies and supporting systems, in dialogue
+	with the demands of the student protestors."
 
 
 ### Free speech precedent 
@@ -214,7 +256,12 @@ updated_date: 2024-11-19 4:43 PM
 
 		- "it's giving the ADL changing their inclusion of what antisemitism is"
 
-- [REPORT OF TASK FORCE ON ANTI PALESTINIAN, ANTI MUSLIM AND ANTI ARAB RACISM](https://www.dropbox.com/scl/fi/k6qkx97jdfrg61i6vlnxq/CORRECTED-MAY-15-REPORT-OF-TASK-FORCE-ON-ANTI.pdf?rlkey=j82r8gn89i03yclzn6hcxgz3u&e=1&st=6s3n3uvu&dl=0)
+- [REPORT OF TASK FORCE ON ANTI PALESTINIAN, ANTI MUSLIM AND ANTI ARAB RACISM](https://www.dropbox.com/scl/fi/k6qkx97jdfrg61i6vlnxq/CORRECTED-MAY-15-REPORT-OF-TASK-FORCE-ON-ANTI.pdf?rlkey=j82r8gn89i03yclzn6hcxgz3u&e=1&st=6s3n3uvu&dl=0), May 13th
+
+	- "We called on the Chancellor to take responsibility for this failure and take steps immediately against the counter protesters. We stated to the Chancellor, who wrote about Jewish students existing in a state of anxiety and fear
+	despite the considerable violence directed at anyone speaking out against the genocide, that his
+	emphasis on Jewish students feelings about Palestinian solidarity on the campus was serving to
+	inflame the situation and embolden attacks on the Palestinian Solidarity Encampment. When we met with Chancellor Block on May 1, ostensibly to discuss with EVCP Hunt the considerable violence against the students, and to inform the chancellor that his remarks about Jewish students’ fear and discomfort serve to authorize counter protesters and to frame the students as violent, UCLA had already decided to clear the encampment. In the ensuing police response, many students were physically hurt by police and over 200 students, staff, and faculty were arrested and charged (see below). We have documented multiple injuries from rubber bullets and police batons"
 
 - [SECOND REPORT OF THE UCLA TASK FORCE ON ANTI-PALESTINIAN, ANTIMUSLIM AND ANTI-ARAB RACISM: THE MILITARIZATION OF CAMPUS](https://racialviolencehub.com/wp-content/uploads/2024/06/June-28-Task-Force-Report-on-AntiPalestinian-Racism.pdf)
 
