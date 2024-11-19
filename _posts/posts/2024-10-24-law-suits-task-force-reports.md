@@ -54,7 +54,9 @@ updated_date: 2024-11-18 5:47 PM
 
 		- "111. When pushed, he said it was because of “the people that attacked you last night,” saying “[t]he point is to shut down an unsafe situation because we think the people [referring to the mob] are going to come back and we don’t know how many may come back.” 
 
-		- 
+		- "115. UC and UCLA administrators did not need to shut down the encampment to protect
+		individuals inside from future mob activity. They enjoyed ample resources, time, and wherewithal to develop a plan to discourage harassment and violent attacks against the encampment through a
+		combination of physical barriers, security, and de-escalation tactics."
 
 
 
