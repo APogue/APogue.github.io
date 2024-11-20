@@ -119,33 +119,16 @@ Cases are not necessarily investigated in the order that complaints are received
 
 	- [President Ono Post on JVP non-affiliate post](https://publicaffairs.vpcomm.umich.edu/key-issues/instagrams-decision-to-delete-jvp-post/)
 
-- [UCLA external VP becomes involved with "death to Israel" post](https://www.instagram.com/sababasisters/p/DAhOEGaStSJ/), this post looks fake in which case someone tried to set them up. The underline under the name is not normal. This is a case of targeting of pro-palestinian advocates at the university. 
-
-	- "I do not believe this is real (the _ which appears partially under his name looks fake), BUT if it is he would immediately be relieved of his duties @UCLA"
-
-	- [Statements made by EVP are more balanced in rhetoric---Eva Jussim](https://www.instagram.com/p/CzxE9LbPZm2/)
-
-
-	- [University of California Students Association](https://www.instagram.com/p/C90ZaFDSty9/?img_index=1) policy on public discretionary statements
-
-	- [EVP meets with stakeholders regarding April 30th---Eva Jussim and Javier Verdugo](https://www.instagram.com/p/C7hdjjAPJWe/)
-
-	- [jj.aviier March Regents Meeting with Pig effigy](https://www.instagram.com/p/C4wYcR4PRzn/?img_index=1)
 
 
 - [police at uc santa cruz](https://mondoweiss.net/2024/06/we-are-going-to-hurt-you-uc-santa-cruz-chancellor-unleashes-police-mayhem-against-student-protesters/)
 
 - [At Michigan, Activists Take Over and Shut Down Student Government](https://www.nytimes.com/2024/08/27/us/umich-gaza-protests-student-government.html)---this looks policy related, not relevant 
 
-### Updates to protest events and activities at UCLA
 
 
-### June 10th protest
 
 
-- [UCLA attacker Rony is on a megaphone, in an non-public expression designated area](https://x.com/ACatWithNews/status/1800327459029897328)
-
-- [counter protesters loiter as security watches on](https://x.com/ACatWithNews/status/1800401292516614339)
 
 
 

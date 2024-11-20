@@ -78,7 +78,17 @@ updated_date: 2024-11-16 5:16 PM
 
 	Despite the council's directive, there have been no official releases or public statements confirming the completion or publication of these reports. The absence of these documents has left community members and stakeholders without comprehensive insights into the LAPD's decision-making processes and actions during the specified period."
 
+### Rasha Gerges Shields said
 
+- [Earlier this week,](https://www.cbsnews.com/losangeles/news/ucla-police-makes-first-arrest-in-connection-with-april-30-attack-on-encampment/), May 25th 
+
+	- "Rasha Gerges Shields, vice president for the Los Angeles Board of Police Commissioners, asked LAPD investigators what they were doing to find assailants involved in violence at UCLA on the night of April 30. She said she had heard concerns from some in the Palestinian and Muslim American communities who were calling for justice.
+
+		"There's a concern that law enforcement's not doing enough to catch the perpetrators," Shields said. "I want to understand what role the department is taking in identifying and bringing to justice to those who were attacking the protesters.""
+
+	- Article also says Eden On was on video assaulting someone with a wooden pole, yet Gascon didn't find enough evidence to bring charges?
+
+		- "Investigators identified him from a video that allegedly shows him assaulting people staying inside the encampment with a wooden pole, leaving a least one person with serious injuries, according to UCLA police. "
 
 ### Block messages in the days after 
 

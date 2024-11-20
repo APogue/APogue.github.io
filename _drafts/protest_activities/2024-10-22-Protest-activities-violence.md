@@ -67,6 +67,8 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 			"Under Davis, determining whether harassment is actionable ‘‘depends on a constellation of surrounding circumstances, expectations, and relationships’’"
 
+	- [UC SJP response](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=3), Oct 17th
+
 - [Off campus protests](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)
 
 	- Assault, intimidation
@@ -200,7 +202,5 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	Buchanan said this all happened within earshot of CHP officials, who did nothing to intervene."
 
-
-
-
+- [Four UCLA student journalists attacked by pro-Israel counterprotesters on campus](https://www.latimes.com/california/story/2024-05-01/four-student-journalists-attacked-by-counterprotesters-at-ucla)
 

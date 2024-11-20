@@ -43,6 +43,14 @@ Thesis3: USAC was present at a protest that was 1. discriminating and 2. excludi
 
 		- Heckling 
 
+
+### UCAC lack of condemnation of student orgs and members
+
+- UC Divest "shut it down" (police footage) [IG post](https://www.instagram.com/p/C51p_t2SMCH/?hl=en)
+
+	- UC Divest in the above claims that UCPD, LAPD, Culver City PD, and Santa Monica PD were all on the scene
+
+	- 100 plus cops were there
 	
 
 ### Illustrate free speech, unprotected---treated as a gray area

@@ -59,6 +59,8 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 	The barriers that demonstrators used to block access to buildings have been removed, and we have staff located around Royce Quad to help ensure that they will not go up again. With regard to these incidents, our student conduct process has been initiated, and could lead to disciplinary action including suspension or expulsion."
 
+	- **The administration did not understand or convey the urgency of the matter---this is the main point, the safety issue is why the encampment needed to be cleared right away**
+
 - [April 30th Message for Those in UCLA Encampment](https://drive.google.com/file/d/1dmqAjbGiet8_PGS5cG632mjvPVt3geq5/view)
 
 	"The established encampment is unlawful and violates university policy.
@@ -71,7 +73,7 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 	"Students, staff and faculty who have joined the encampment should identify themselves, if requested...We are asking students, staff and faculty to leave the area. Those who choose to remain---including both students and employees---could face sanctions...[that] could lead to dismissal."
 
-	- This is a clear case of biased handling, there was no notification given to counter-protesters partaking in the harassment of other protesters, or other unlawful behavior like masking and carrying weapons
+	- See lawsuits and task force reports doc for info (notes) on above
 
 
 ### Protest events 
@@ -112,7 +114,15 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 - [Tuesday 4/30](https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression)
 
-	“UC Divest Coalition at UCLA said in a written press release that it believes violence on campus was caused primarily by counter-protesters supporting Israel, some of whom the protesters allege threatened them with weapons. They added that they believe the administration has failed to protect students on campus.”
+	- "The univerisity has not previously called the encampment unlawful or unauthorized"
+
+	- Block sent an email at 5:04 p.m. on April 30th
+
+	- “UC Divest Coalition at UCLA said in a written press release that it believes violence on campus was caused primarily by counter-protesters supporting Israel, some of whom the protesters allege threatened them with weapons. They added that they believe the administration has failed to protect students on campus.”
+
+	- "We will not leave" 
+
+	- IG [statement](https://www.instagram.com/p/C6aTBAhLoOl/?hl=en&img_index=1)
 
 
 - [Block indicates potential consequences for protesters, condemns campus aggression](https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression)
