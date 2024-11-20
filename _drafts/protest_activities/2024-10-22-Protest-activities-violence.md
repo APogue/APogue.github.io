@@ -4,7 +4,7 @@ title: "Protest activities-the tale of the phantom militia"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
-updated_date: 2024-11-15 11:11 AM
+updated_date: 2024-11-20 4:31 PM
 ---
 
 Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
