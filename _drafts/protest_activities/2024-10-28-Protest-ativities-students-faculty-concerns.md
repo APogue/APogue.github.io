@@ -123,6 +123,9 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 	- "For example, the guide maintains that the phrase “From the river to the sea” is not antisemitic if it’s proposing a single state in which all citizens, Jewish and Palestinian, have equal rights. By contrast, if the phrase is a call to eliminate Jews from the land between the Jordan and the Mediterranean or to relegate them to second-class status, it is antisemitic."
 
+- [‘Unacceptable’: Why it took hours for police to quell attack at UCLA pro-Palestinian camp](https://www.latimes.com/california/story/2024-05-01/why-did-it-take-police-so-long-to-end-the-violent-clashes-at-ucla)
+
+	- "“Sunday seemed in some ways to be a dress rehearsal for what happened Tuesday,” he said."
 
 ### Student demands
 

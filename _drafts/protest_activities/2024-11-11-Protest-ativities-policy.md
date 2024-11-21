@@ -180,8 +180,6 @@ updated_date: 2024-11-15 10:11 AM
 	relationships form."
 
 
-
-
 ### Time, Place, and Manner policy
 
 - [UCLA announces new Time, Place and Manner policies, limits public expression areas](https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas)

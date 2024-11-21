@@ -4,7 +4,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-16 5:16 PM
+updated_date: 2024-11-21 1:16 PM
 ---
 
 ### Notes
@@ -21,6 +21,20 @@ updated_date: 2024-11-16 5:16 PM
 - dates of commencement 
 
 ### Mayor Bass said
+
+- [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
+
+	- "The police chief’s remarks offered the first responses to key questions, including when officials decided to bring in help from other agencies and whether help could have arrived sooner. Outside police forces generally do not enter the campus without the university’s approval, since it functions as an independent municipal entity although it is on state land."
+
+- [‘Unacceptable’: Why it took hours for police to quell attack at UCLA pro-Palestinian camp](https://www.latimes.com/california/story/2024-05-01/why-did-it-take-police-so-long-to-end-the-violent-clashes-at-ucla)
+
+	- "Part of the complication in handling the situation is the fact that UCLA is on state land and also functions as an independent municipal entity, meaning outside police forces generally do not enter the campus without the university’s approval.
+
+		“This is essentially a private matter. It’s UCLA’s campus. It’s the school’s decision to call in LAPD,” said Ed Obayashi, a deputy sheriff in Modoc County and a law enforcement advisor to agencies throughout California.
+
+		Three sources familiar with the discussions, but not authorized to speak publicly, said L.A. Mayor Karen Bass called UCLA Chancellor Gene Block and told him the university should agree to deploy the LAPD.
+
+		One source familiar with the discussions, but was not authorized to speak publicly, said Bass strongly encouraged UCLA to deploy the LAPD."
 
 - Karen Bass "shocked and horrified" [statement](https://www.youtube.com/watch?v=pn9hZ9vbmtI&ab_channel=FOX11LosAngeles)
 
@@ -194,7 +208,11 @@ updated_date: 2024-11-16 5:16 PM
 
 	- "“My office has requested a detailed accounting from the campus about what transpired in the early morning hours today,” Drake said on Tuesday. “But some confusion remains. Therefore, we are also ordering an independent external review of both UCLA’s planning and actions, and the effectiveness of the mutual aid response.”"
 
+- [‘Unacceptable’: Why it took hours for police to quell attack at UCLA pro-Palestinian camp](https://www.latimes.com/california/story/2024-05-01/why-did-it-take-police-so-long-to-end-the-violent-clashes-at-ucla)
 
+	- "UC President Michael V. Drake, in a letter to the University of California Board of Regents obtained by The Times, said the way the incident was handled requires an outside inquiry.
+
+		“There is sufficient confusion that I am ordering an independent external review of UCLA’s planning and its actions and of the mutual aid response” by law enforcement, he wrote in the letter. “I believe such a review can address many of my immediate questions but also help guide us for possible future events.”"
 
 ### UC Regents 
 

@@ -4,12 +4,10 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-11-14 5:57 PM
+updated_date: 2024-11-21 1:20 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
-
-List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers, Graeir, Asil, Kupsh
 
 
 ### June 10th protest
@@ -230,6 +228,15 @@ List of people to talk to: Sergio, JVP, Hillel (Bella), Thomas, Mohammed, Myers,
 - [Braziel's handling of Oct 7](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
 
 	- “He declined to comment on why no university action was taken against pro-Palestinian students who refused to comply with protest rules on approved free speech zones and amplified-sound restrictions. He said police did not arrest anyone because protesters were not significantly disrupting campus operations, the trigger to declare an unlawful assembly and cite them if they refuse to leave.”
+
+
+
+### Nov 19th 2024
+
+- [4 people arrested](https://www.instagram.com/p/DCm9ICnTAce/?hl=en&img_index=1)
+
+	- This is nearly equal to the number of people who have been arrested on April 30th
+
 
 
 

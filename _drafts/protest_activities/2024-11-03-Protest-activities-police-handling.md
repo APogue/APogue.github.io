@@ -64,6 +64,12 @@ updated_date: 2024-11-15 3:18 PM
 
 		Law enforcement leaders are in contact this evening and resources are being mobilized."
 
+- [Zach Seidl tweet](https://x.com/ZachSeidlLA/status/1785577683264385384), 1:51 a.m. 
+
+	- "Statement regarding this evening’s incident at UCLA:
+
+		“The Mayor has spoken to Chancellor Block and Chief Choi. LAPD is responding immediately to Chancellor Block’s request for support on campus.”"
+
 - [Karen Bass tweet](https://x.com/MayorOfLA/status/1785591832321151196), 1:47 a.m.
 
 	- "The violence unfolding this evening at UCLA is absolutely abhorrent and inexcusable. 

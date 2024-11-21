@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-11-19 5:04 PM
+updated_date: 2024-11-21 11:42 AM
 ---
 
 ### Recently added articles 10-24
@@ -306,3 +306,16 @@ updated_date: 2024-11-19 5:04 PM
 	- The above doc said they were given a dispersal order then kettled. The police press release does say they essentially moved the students around the campus. 
 
 	- Braziel mentioned the best way to conceal security forces would be to put them in blue in gold polo shirts and hide them in buildings, this would effectively make campus feel more like campus. Clearly professors find that disruptive. 
+
+
+### Independent reviews
+
+- [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
+
+	- [UCLA slammed for ‘chaotic’ response to protest melee in UC independent review](https://www.latimes.com/california/story/2024-11-14/ucla-slammed-for-chaotic-response-to-violent-protest-melee-in-uc-independent-review)
+
+- [University of California Los Angeles Campus Protest After-Action Report](https://www.lapdpolicecom.lacity.org/110524/BPC_24-285.pdf)
+
+	- [Two major reports slam UCLA over policing, violence at pro-Palestinian protest](https://www.latimes.com/california/story/2024-11-01/ucla-usc-encampments-police-commission-reports)
+
+	- [Antisemitism on college campuses exposed](https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf)
