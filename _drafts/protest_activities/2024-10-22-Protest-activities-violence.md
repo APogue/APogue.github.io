@@ -4,7 +4,7 @@ title: "Protest activities-the tale of the phantom militia"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
-updated_date: 2024-11-20 4:31 PM
+updated_date: 2024-11-21 11:04 AM
 ---
 
 Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
@@ -204,3 +204,12 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 - [Four UCLA student journalists attacked by pro-Israel counterprotesters on campus](https://www.latimes.com/california/story/2024-05-01/four-student-journalists-attacked-by-counterprotesters-at-ucla)
 
+	- Daily Bruin news editor Catherine Hamilton, 21, told The Times she recognized one of the counterprotesters as someone who had previously verbally harassed her and taken pictures of her press badge. The individual instructed the group to encircle the student journalists, she said, before they sprayed the four with Mace or pepper spray, flashed lights in their faces and chanted Hamilton’s name.
+
+		As she tried to break free, Hamilton said, she was punched repeatedly in the chest and upper abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute. The attack was first reported in the Daily Bruin.
+
+	- "“We expected to be harassed by counterprotesters,” Hamilton said in an interview Wednesday, adding that every Daily Bruin reporter was instructed to use a buddy system, to report from outside the encampment and to leave the area if it became unsafe. “I truly did not expect to be directly assaulted.”"
+
+		"The incident lasted about five minutes. The group of four made their way to the Daily Bruin newsroom before Hamilton went to the hospital, accompanied by her editor in chief, when the bruising made it difficult for her to stand and breathe. She has since been released."
+
+	- "The attack is one of several recent incidents involving journalists. It also is one of the first known attacks involving student reporters covering the ongoing unrest on campuses over the Israel-Hamas war, often when outside news media have been prevented from entering universities."
