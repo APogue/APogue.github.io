@@ -107,6 +107,8 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 ### David Myers 
 
+- [Petition claims AMCHA’s efforts limit academic freedom](https://dailybruin.com/2014/10/08/petition-claims-amchas-efforts-limit-academic-freedom)
+
 - [David Myers LA Times Opinion](https://www.latimes.com/opinion/story/2024-09-16/israel-gaza-hamas-protest-antisemitism-ucla-usc-college)
 
 	- [Nexus Project](https://nexusproject.us/)
@@ -135,13 +137,31 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 
 	- "“The Center is devoted to the academic study of Israel and has no ties to the Israeli government,” Waxman wrote. Further, Waxman singled out one of the groups he said is organizing campus protests, Students for Justice in Palestine. Waxman said the group has voiced support for Hamas."
 
+
 ### Boycott demands 
 
+- [University of California statement on divestment](https://www.universityofcalifornia.edu/press-room/university-california-statement-divestment) 
+
+- [UCLA statement on resolutions by student government associations](https://newsroom.ucla.edu/ucla-statement-on-resolutions-by-student-government-associations)
 
 - [UC’s President had a Plan to De-Escalate Protests. How did a Night of Violence Happen at UCLA?](https://www.kqed.org/news/11984762/ucs-campus-safety-plan-under-fire-as-violence-breaks-out-at-ucla-protest)
 
 	- “The University of California has consistently opposed calls for boycotts against and divestment from Israel,” the statement said. “While the University affirms the right of our community members to express diverse viewpoints, a boycott of this sort impinges on the academic freedom of our students and faculty and the unfettered exchange of ideas on our campuses.”
 
+- [Some of USAC's demands are ridiculous (reddit)](https://www.reddit.com/r/ucla/comments/1cn9fy0/some_of_usacs_demands_are_ridiculous/)
+
+- [USAC passes resolution calling for Gene Block's resignation](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation)
+
+	- [Resolution Calling for the Immediate Resignation of Chancellor Gene Block](https://docs.google.com/document/u/0/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic?pli%3D1)
+
+	- [A Resolution In Solidarity with UCLA and all Universities exercising Pro-Palestinian
+	Encampents and Actions, and Their Right to Peaceful Protest](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f42b7380772091524e7ab/1715421879898/resolution.2024-04-29.A+Resolution+In+Solidarity+with+UCLA+and+all+Universities+exercising+Pro-Palestinian+Encampents+and+Actions,+and+Their+Right+to+Peaceful+Protespdf.pdf)
+
+- [USAC passes resolution endorsing Boycott, Divestment and Sanctions movement](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+
+	- "Cultural Affairs Commissioner Alicia Verdugo, the resolution’s sponsor, who is facing calls for impeachment due to allegations of antisemitism from pro-Israel groups and Jewish students."
+
+	- [A Resolution to Boycott and Divest from Apartheid, Ethnic Cleansing, and Genocide](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
 
 ### Faculty reactions
 
@@ -150,3 +170,8 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 	- "UC lecturers were quick to call for Block’s resignation on Wednesday, citing the mismanagement of police and security response to the overnight violence. He had already planned to step down on July 31.
 
 		“**Chancellor Block has refused to meet with protesters to discuss their interests;** instead, he has created an environment that has escalated tensions and failed to take meaningful action to prevent the violence that occurred last night,” the UC lecturers’ statement read."
+
+
+### Free speech considerations 
+
+- [Legal scholars host panel discussing freedom of speech since Oct. 7](https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism)
