@@ -4,7 +4,7 @@ title: "Introduction/Background and Context"
 published: true
 author: Alexie Pogue
 date: 2024-08-05 02:00 PM
-updated_date: 2024-09-25 2:53 PM
+updated_date: 2024-11-24 5:42 PM
 ---
 
 ## Introduction
@@ -237,7 +237,19 @@ updated_date: 2024-09-25 2:53 PM
 			- An unsafe campus environment for pro-Palestinian students
 
 ---------------------------------------------------------------------------------------------------------------------------
-### Refresher Notes
+### Refresher Notes 
+
+- (separate out the takes relating to Title VI for a dedicated doc?)
+
+- There was next to no guidance on time, place, and manner restrictions and UCLA demonstration policies 
+
+	- UCLA seemed deliberately vague (in the name of "freedoms protection?") with respect to appropriate protest conduct
+
+		- This lead to students blockading other students, including Jewish and handicapped students
+
+		- By the time UCLA told the students, the encampment became a serious security issue and had to be cleared 
+
+- UCLA wants to address the symptoms---violence and safety or condemning discrimination---but they continue to ignore the deeper issues
 
 - USAC can take political positions
 
@@ -257,7 +269,7 @@ updated_date: 2024-09-25 2:53 PM
 
 - The encampment would not allow "Zionists" through. What is the definition? They were deliberately vague. There was no evidence to suggest that "Zionist" did not mean an individual who believes in Israel's statehood. 
 
-	- Is this a Title VI violation? Technically, no. Discrimination based on national origin by its "purest" definition would be hating someone of Israeli origin whether or not the state exists. They did not exclude anyone based purely on their national origin. 
+	- Is this a Title VI violation? Technically, no. Discrimination based on national origin by its "purest" definition would be hating someone of Israeli origin whether or not they believe the state should exist. They did not exclude anyone based purely on their national origin. 
 
 	- This clearly is a violation of UC policy, more specifically---
 
@@ -271,11 +283,15 @@ updated_date: 2024-09-25 2:53 PM
 
 			- The student gov't and associated organizations will side against them, i.e *exclude* them
 
+				- Go through every resolution, count the frequency that Jewish students are mentioned
+
+				- Compare this with years past
+
 		- Discrimination was occurring inside the encampment (red triangles)
 
 		- UC, like Michigan, willfully conflates Title VI protected and unprotected activity
 
-		- Where unprotected activity exists, *there must be a coordinator in place* to receive constructive notice and to determine whether a hostile environment exists based on totality of circumstances 
+		- Where unprotected activity exists, *there must be a coordinator in place* to receive constructive notice and to determine whether a hostile environment exists based on totality of circumstances (this doesn't need to be pushed, this should be a retelling through a facts lens only)
 
 - Where did USAC mess up
 
@@ -285,7 +301,7 @@ updated_date: 2024-09-25 2:53 PM
 
 	- When they would not condemn discriminating behavior 
 	
-		- CAC, UC Divest, general campus climate activity, etc. 
+		- CAC, UC Divest, general campus climate activity (evidence coming out of task force reports) etc. 
 
 		- Encampment exclusion activities 
 
@@ -301,6 +317,6 @@ updated_date: 2024-09-25 2:53 PM
 
 		- They took no measures to hold CAC accountable via impeachment hearings---corruption
 
-- They're treating student gov't like a club that a group of friends belong to. How can anyone take them seriously? 
+- They're treating student gov't like a club that a group of friends belong to (cronyism). How can anyone take them seriously? 
 
 - This is related to UC philosophy cultivating a microcosm of corruption. 
