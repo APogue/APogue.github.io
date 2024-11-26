@@ -120,7 +120,7 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 	- Student orgs resigned to handle matters themselves
 
-- "Reporting" of grievances with administration posted to social media or Daily Bruin without any follow up or acknowledgment 
+	- grievances posted to social media or Daily Bruin were not acknowledged 
 
 - Without any support or condemnation with respect to organizational rhetoric, a vacuum is created
 

@@ -13,23 +13,6 @@ updated: true
 
 ## Attempts at Reform
 
-- Office of Campus Safety
-
-- https://www.universityofcalifornia.edu/press-room/uc-announces-nationally-recognized-firm-will-review-actions-led-violent-events-ucla
-
-- Chancellor Block's congressional hearing (the story was UCLA was afraid for student safety? Was that how it really played out?)
-
-- Is there any explanation for why protesters were not better regulated based on the time, place and manner restrictions that Block repeated so many times at the hearing? 
-
-- Training and education don't go far enough
-
-	- Existing Title VI education and policy/support infrastructure at UCLA
-
-	- Proposed changes to education and policy/support infrastructure at UCLA
-
-	- Title IX is mandatory
-
-		- Some Title IX should be be grouped in with Title VI
 
 ## Reform Doesn't Address Systemic Issues
 
