@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Campus identity and Zionism"
+title: "Protest activities-campus identity and Zionism"
 published: true
 author: Alexie Pogue
 date: 2024-11-26 3:52 PM
