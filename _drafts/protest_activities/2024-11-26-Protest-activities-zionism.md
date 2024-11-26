@@ -39,9 +39,7 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 	- The question of Israel's statehood is "political" and protected
 	
-	- Harassment based on this speech, however, is not protected
-
-- How this relates to "Zionist," to say "anti-Zionism" is anti-Semitic is overbroad
+- How this relates to "Zionist," to say "anti-Zionism" is antisemitic is overbroad
 
 - [ADL definition anti-Zionism](https://www.adl.org/resources/backgrounder/anti-zionism?gad_source=1&gclsrc=aw.ds) 
 
