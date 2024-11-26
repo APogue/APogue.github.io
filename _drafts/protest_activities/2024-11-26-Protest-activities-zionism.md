@@ -1,11 +1,27 @@
 ---
 layout: outline
-title: "Cultural identity and Zionism"
+title: "Campus identity and Zionism"
 published: true
 author: Alexie Pogue
-date: 2024-11-26 02:58 PM
+date: 2024-11-26 3:52 PM
 ---
 
+Across all topics, begin with a real-life scenario, then discuss it with research 
+
+### Encampment exclusions were based on "ideology"
+
+- Evidence shows that "Zionist" was the basis for exclusion by encampment members (what do I do with Eli Tsives)
+
+- [‘Are you a Zionist?’ Checkpoints at UCLA encampment provoked fear, debate among Jews](https://www.latimes.com/california/story/2024-05-09/are-you-a-zionist-checkpoints-at-ucla-encampment-provoked-debate-among-jewish-students)
+
+	- [Here’s another one from @ucla. Protestors took over access to area near school library:](https://x.com/iambrianbj/status/1785215261529850007?s=61)
+
+		- "“So you won’t let me in because I’m Jewish?” 
+		“Ummm no…  we have a couple Jewish students here … are you a Zionist?”
+		“Yes of course I am”
+		“Well yeah, we’re not gonna  let Zionists in.”"
+
+	- [Milagro Jones](https://www.tiktok.com/t/ZTNVnADbJ/)
 
 ### Background 
 
@@ -15,9 +31,23 @@ date: 2024-11-26 02:58 PM
 
 	- "Zionists advocate for Jewish sovereignty in the region contested by Israelis and Palestinians, while anti-Zionists oppose this viewpoint." Definition is always changing.
 
+### Beyond UCLA, defining antisemitism has been a subject of debate
+
+- [ACLU weighs in](https://www.aclu.org/documents/aclu-urges-congress-to-oppose-anti-semitism-awareness-act) 
+
+	- (Not passed the senate, [H.R. 6090](https://www.congress.gov/118/bills/hr6090/BILLS-118hr6090eh.pdf), [criticized](https://raskin.house.gov/2024/5/rep-raskin-statement-on-h-r-6090) for being symbolic, too vague)
+
+	- The question of Israel's statehood is "political" and protected
+	
+	- Harassment based on this speech, however, is not protected
+
+- How this relates to "Zionist," to say "anti-Zionism" is anti-Semitic is overbroad
+
+- [ADL definition anti-Zionism](https://www.adl.org/resources/backgrounder/anti-zionism?gad_source=1&gclsrc=aw.ds) 
+
 ### Hillel
 
-- What is the Hillel definition of Zionist?
+- Hillel's take on anti-Israeli positions 
 
 - [Hillel Israel Guidelines](https://www.hillel.org/israel-guidelines/#:~:text=Hillel%20views%20Israel%20as%20a,to%20Jewish%20identification%20for%20students)
 
@@ -25,88 +55,44 @@ date: 2024-11-26 02:58 PM
 
 - [Swarthmore Hillel votes to disaffiliate with Hillel Int’l](https://jewishchronicle.timesofisrael.com/swarthmore-hillel-votes-to-disaffiliate-with-hillel-intl/)
 
+
 ### The pro-Palestinian movement is vague about its definition
-
-
-
-
-### Encampment exclusions were based on "ideology"
-
-- There is evidence that "Zionist" was the basis for exclusion from areas of campus
-
-- [‘Are you a Zionist?’ Checkpoints at UCLA encampment provoked fear, debate among Jews](https://www.latimes.com/california/story/2024-05-09/are-you-a-zionist-checkpoints-at-ucla-encampment-provoked-debate-among-jewish-students)
-
-
-## Student and Faculty Opinions
-
-- ADL definition 
-
-	- https://www.latimes.com/california/story/2024-05-09/are-you-a-zionist-checkpoints-at-ucla-encampment-provoked-debate-among-jewish-students
-
-	- https://www.adl.org/resources/backgrounder/anti-zionism?gad_source=1&gclsrc=aw.ds
-
-- videos
-
-	- https://x.com/iambrianbj/status/1785215261529850007?s=61
-
-	- https://www.tiktok.com/t/ZTNVnADbJ/
-
-- Reddit
-
-	- https://www.reddit.com/r/ucla/comments/1cnol2u/powell_library_wristband_policy_during_ecampment/
-
-- JVP
 
 - Hamas doctrine and evidence of anti-Israeli rhetoric 
 
+
+### Protesting student ideological demographics
+
 - Students felt they didn't have an "American viewpoint" when it came to the pro-Palestinian protests
 
-- Without any support or condemnation with respect to organizational rhetoric, a vacuum is created
+- How many were "centrist"
 
-- SJP was the "authority" on encampment conduct leading to civil rights infringements of Jewish students
-
-- Created an extremely polarized protest environment 
-
-	- Created more division between students
-
-	- Created more animosity between students and non-affiliates
-
-	- The general UCLA student body may become indoctrinated by chants, symbolism, and extreme rhetoric 
+- How many were extreme? 
 
 
 ### Exclusion faced confusion and backlash
 
 - Exclusion from areas of campus faced enormous confusion and backlash
 
-	- https://www.reddit.com/r/ucla/comments/1ch82s8/its_affecting_students_now/
+- [Powell Library Wristband Policy During Ecampment: True or False](https://www.reddit.com/r/ucla/comments/1cnol2u/powell_library_wristband_policy_during_ecampment/)
+
+- [it’s affecting students now](https://www.reddit.com/r/ucla/comments/1ch82s8/its_affecting_students_now/)
 
 	- disabled students
 
 	- students completely confused by exclusion tactics, began using identity to prove or disprove assumed motives
 
-- Student and faculty positions are often identity-driven
+### Where does JVP stand?
 
-- Without positional guidance (UCLA as a voice itself)
+- National JVP has been clear (I believe)
 
-	- Campus culture becomes extremely polarized
-
-- UCLA weak follow ups on incidents or no interaction with orgs at all 
-
-	- Student orgs resigned to handle matters themselves
-
-- What involvement they do have, the rhetoric lacked "balance"
-
-	- Polarizes campus culture
-
-- "Reporting" of grievances with administration posted to social media or Daily Bruin without any follow up or acknowledgment 
-
-Bottom line: There is a difference between eliminating voices (which would go against higher learning philosophy and constitutional freedoms), and adding to the conversation, UCLA should understand the difference 
-
+- UCLA JVP has been unclear
 
 ### Zionism's ties with cultural identity 
 
+- Student and faculty positions are often identity-driven
 
-
+	- Find the 3rd lawsuit
 
 ### True disruptions to campus operations 
 
@@ -125,3 +111,25 @@ Bottom line: There is a difference between eliminating voices (which would go ag
 	- [Hillel comments](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view), "There is a screen placed by community members at UCLA playing the horrors of October 7th on repeat--and we
 	can’t learn over the constant noise of Jews being slaughtered. The wider community is prioritizing their own idea of
 	activism over what Jewish students want. We want peace and a diplomatic resolution."
+
+### The administrative role
+
+- Without positional guidance (UCLA as a voice itself)
+
+	- Campus culture becomes extremely polarized
+
+- UCLA weak follow ups on incidents or no interaction with orgs at all 
+
+	- Student orgs resigned to handle matters themselves
+
+- "Reporting" of grievances with administration posted to social media or Daily Bruin without any follow up or acknowledgment 
+
+- Without any support or condemnation with respect to organizational rhetoric, a vacuum is created
+
+	- Created an extremely polarized campus environment 
+
+		- More division between students
+
+		- More animosity between students and non-affiliates
+
+		- The student body were forced to pick a side

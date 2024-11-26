@@ -45,14 +45,6 @@ updated_date: 2024-11-24 5:42 PM
 
 		- Block's House Opening Remarks - constitutional freedoms above everything
 
-		- [ACLU weighs in](https://www.aclu.org/documents/aclu-urges-congress-to-oppose-anti-semitism-awareness-act) 
-
-			- (Not passed the senate, [H.R. 6090](https://www.congress.gov/118/bills/hr6090/BILLS-118hr6090eh.pdf), [criticized](https://raskin.house.gov/2024/5/rep-raskin-statement-on-h-r-6090) for being symbolic, too vague)
-
-			- The question of Israel's statehood is "political" and protected
-			
-			- Harassment based on this speech, however, is not protected
-
 	2. Self-governance
 
 		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
