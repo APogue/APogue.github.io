@@ -50,4 +50,12 @@ date: 2024-11-11 4:05 PM
 
 ### A case for Title VI education
 
+- Title VI education in general is still optional 
+
+	- UCLA does it at orientation which is a huge cognitive burden for students
+
+- The new laws for educating put in place by CA make Muslim education "optional"
+
+- Block's promise to congress focused on time, place, manner
+
 - Longevity: these issues will persist indefinitely---due to geopolitical conflict, the vitriolic political climate, foreign students, unfettered access to bias and discriminatory views via social media, and bullying and harassment via social media---and will serve to fill the void in the absence of administrative guidance and Title VI education and enforcement
