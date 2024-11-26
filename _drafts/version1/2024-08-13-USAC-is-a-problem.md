@@ -210,9 +210,16 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - The position and other evidence against the state of Israel together with attack on a certain group of students at UCLA---by discrimination, exclusion and abuse of power---proves an attack on a particular group of students based on Israeli national origin or association with Israel (against Title VI)
 
-	- Increased likelihood that *correlation is causation* with respect USAC alignment with Hamas
-
 	- The Israeli community (or the entire Jewish community inclusive of the Israeli community)  is too small a voting bloc, theoretically or practically to change USAC election outcomes (by "Article Draft", *USAC represents an abuse of power*)
+
+		- [UCLA numbers for undergraduate and graduate students](https://www.ucla.edu/about/facts-and-figures) are most accurate
+
+		- [Hillel at UCLA (numbers of Jewish students)](https://www.jewishfoundationla.org/grant-org/hillel-at-ucla/#:~:text=It%20is%20the%20center%20of,and%20empowers%20110%20student%20leaders)
+
+			- [Hillel-dot-org estimate](https://www.hillel.org/college/university-of-california-los-angeles/)
+
+		- [Daily Bruin gives election participation numbers](https://dailybruin.com/2024/05/17/bruins-elect-1st-international-student-as-usac-president-in-2024-elections)
+
 
 	- If by the claims made in the lawsuit, and the evidence above, USAC has shown consistent bias against a certain student group, then they are seeking to "institutionalize" this bias
 
@@ -227,9 +234,12 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 
 ---------------------------------------------------------------------------------------------------------
-### Refresher Notes
+### Notes
 
 ****Verdugo was on the council during 2021-2022 year when the last Resolution condemning antisemitism was passed 
 
-Jewish students seek court order against UCLA’s antisemitic encampments before fall semester https://www.thecentersquare.com/national/article_8bf5303c-33c5-11ef-b5b7-7370c3907658.html https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-antisemitic-encampments-before-fall-semester/ https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/ https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf
+- The issue is broader than protests and encampments, UCLA itself is a "Jew Exclusion Zone" if the student government is permitted to continue with impunity
 
+- If the basis for exclusion goes beyond encampment conduct and has somehow "bled" into USAC rhetoric, conduct, and policy; if this activity goes deeper than just the encampments themselves, this is the systemic problem that may persist. 
+
+- It should be made clear what the issue is---there is no "citizenship of UCLA" oath that a student is given when extended an offer to attend the university

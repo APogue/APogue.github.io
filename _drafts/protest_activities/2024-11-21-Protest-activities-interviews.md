@@ -4,6 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
+updated_date: 2024-11-26 4:57 PM 
 ---
 
 
@@ -14,7 +15,7 @@ date: 2024-11-21 12:42 PM
 
 ### JVP (Benjamin Kersten)
 
-
+- Why doesn't JVP interact with CAC? 
 
 ### Hillel (Bella)
 

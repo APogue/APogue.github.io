@@ -80,6 +80,8 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 	- students completely confused by exclusion tactics, began using identity to prove or disprove assumed motives
 
+- [UCLA ordered by judge to craft plan in support of Jewish students](https://www.reddit.com/r/LosAngeles/comments/1efhxn3/ucla_ordered_by_judge_to_craft_plan_in_support_of/)
+
 ### Where does JVP stand?
 
 - National JVP has been clear (I believe)

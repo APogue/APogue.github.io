@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-11-21 11:42 AM
+updated_date: 2024-11-26 5:40 PM
 ---
 
 ### Recently added articles 10-24
@@ -17,16 +17,23 @@ updated_date: 2024-11-21 11:42 AM
 
 	- "It also calls for an injunction that would bar UCLA from giving orders to disperse based solely on suspected breaches of university policies, which the lawsuit says unfairly target pro-Palestinian voices."
 
+### Lawsuit 1 
 
-### Lawsuit 1
+- student sued professor over identity-driven curriculum that was anti-Israel
 
-- [Lawsuit 1](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf) 
-
-	- UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
 
 ### Lawsuit 2
 
-- [Lawsuit 2](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
+- [Jewish students seek court order against UCLA’s antisemitic encampments before fall semester](https://www.thecentersquare.com/national/article_8bf5303c-33c5-11ef-b5b7-7370c3907658.html https://www.becketlaw.org/media/jewish-students-seek-court-order-against-uclas-antisemitic-encampments-before-fall-semester/ https://www.becketlaw.org/case/frankel-v-regents-of-the-university-of-california/ https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf)
+
+
+- [Lawsuit 2](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf) 
+
+	- UCLA files a [stay against the injunction](https://www.instagram.com/noyleyb/reel/C-tY35btumB/) "District courts ruling would improperly hamstring our ability to"  [another post](https://www.instagram.com/jewishunpacked/p/C-tJDWkS205/?img_index=1), legal pursuits getting tied up in appeals 
+
+### Lawsuit 3
+
+- [Lawsuit 3](https://www.aclusocal.org/en/news/ucla-suppressed-student-and-faculty-freedom-speech-so-we-sued-them)
 
 - [Actual filing](https://www.aclusocal.org/sites/default/files/blair_v_regents_complaint.pdf)
 

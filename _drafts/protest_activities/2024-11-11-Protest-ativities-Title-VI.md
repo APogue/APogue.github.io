@@ -4,6 +4,7 @@ title: "Protest activities-Title VI"
 published: true
 author: Alexie Pogue
 date: 2024-11-11 4:05 PM
+updated_date: 2024-11-26 5:24 PM
 ---
 
 
@@ -59,3 +60,58 @@ date: 2024-11-11 4:05 PM
 - Block's promise to congress focused on time, place, manner
 
 - Longevity: these issues will persist indefinitely---due to geopolitical conflict, the vitriolic political climate, foreign students, unfettered access to bias and discriminatory views via social media, and bullying and harassment via social media---and will serve to fill the void in the absence of administrative guidance and Title VI education and enforcement
+
+
+
+## Broader Impact and Data
+
+- Task force report indicates
+
+	- While this information would be helpful it does not survey enough students across identities 
+
+- UCUES indicates 
+
+	- Surveys (Title VI and Title IX) should be separate, and mandatory
+
+		- UCUES is too long and covers too much at once
+
+	- 2014 https://sairo.ucla.edu/file/2563a13b-6aff-4e3a-9510-846758f78edc
+
+	- https://freespeechcenter.universityofcalifornia.edu/wp-content/uploads/2023/12/Saugher-Nojan-2019-2020-Fellowship-Research-Infographic-1.pdf
+
+	- Student surveys are a weak representation of the student body
+
+		- They are voluntary
+
+- Where the UC's have not seen data improvement, they sought to change the way data was gathered rather than reform the Title VI feedback cycle
+
+	- Important questions have been made optional
+
+	- Prior to being optional UCUES indicates
+
+		- Discrimination issues persist
+
+		- Students don't know how to report
+
+			- Students post grievances on social media because they are accustomed to being "ignored" and they don't understand the accountability systems
+
+			- A reason why constructive notice exists
+
+### Call to Action: 
+
+- Highlight the need for stronger independent oversight and policy changes to ensure accountability
+
+	- The OCR office continues to shrink and is little more than a complaint box 
+
+		- House committee hearing 
+
+	- The OCR tolerance thresholds need to be re-examined
+
+		- Dear colleague letters 
+
+	- Open OCR cases against UCLA
+
+		- Several cases have been pending while incidents keep happening
+
+	- Like Title IX, Title VI should be expanded, and mandatory
+

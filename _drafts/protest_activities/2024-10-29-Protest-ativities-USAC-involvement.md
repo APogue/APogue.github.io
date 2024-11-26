@@ -134,6 +134,17 @@ Thesis3: USAC was present at a protest that was 1. discriminating and 2. excludi
 
 	- In this framework, to be Israeli is equated with being a Zionist inherently. The logic is that any Israeli presence in the land, regardless of location or borders, represents Zionism or “settler colonialism.” This view rejects the idea that someone can be Israeli without being a Zionist, meaning it dismisses the possibility of Israelis who might be critical of Zionist policies, supportive of Palestinian rights, or against the occupation. Essentially, it equates national identity with ideology, with no room for variation.
 
+### X posts (not categorized yet)
+
+- https://x.com/culturalaffairs
+
+- reposts
+
+	- https://x.com/jawn/status/1812257991045111925
+
+	- https://x.com/mxmsworld/status/1816579036560158872
+
+	- https://x.com/itranslate123/status/1292459086257295360
 
 ### Quotes 
 
