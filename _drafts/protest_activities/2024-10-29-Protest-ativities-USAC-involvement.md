@@ -4,6 +4,7 @@ title: "Protest activities-USAC involvement"
 published: true
 author: Alexie Pogue
 date: 2024-10-31 1:11 PM
+updated_date: 2024-11-26 6:31 PM
 ---
 
 
@@ -134,17 +135,23 @@ Thesis3: USAC was present at a protest that was 1. discriminating and 2. excludi
 
 	- In this framework, to be Israeli is equated with being a Zionist inherently. The logic is that any Israeli presence in the land, regardless of location or borders, represents Zionism or “settler colonialism.” This view rejects the idea that someone can be Israeli without being a Zionist, meaning it dismisses the possibility of Israelis who might be critical of Zionist policies, supportive of Palestinian rights, or against the occupation. Essentially, it equates national identity with ideology, with no room for variation.
 
-### X posts (not categorized yet)
+### CAC spreads harmful misinformation 
 
-- https://x.com/culturalaffairs
+- [Fuck Israel!](https://x.com/culturalaffairs/status/1845673414079693258)
 
-- reposts
+- reposts (Israel)
 
-	- https://x.com/jawn/status/1812257991045111925
+	- [Israel is a...](https://x.com/Fx1Jonny/status/1845435414628237758)
 
-	- https://x.com/mxmsworld/status/1816579036560158872
+	- [Once Israel falls...](https://x.com/mxmsworld/status/1816579036560158872)
 
-	- https://x.com/itranslate123/status/1292459086257295360
+	- [The problem is not Netanyahu...](https://x.com/itranslate123/status/1292459086257295360)
+
+- reposts (other)
+
+	- [White people forgetting...](https://x.com/oodhamboi/status/1845526318445916559)
+
+	- [This is the most staged shit...](https://x.com/jawn/status/1812257991045111925)
 
 ### Quotes 
 
