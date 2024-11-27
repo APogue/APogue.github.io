@@ -7,15 +7,6 @@ date: 2024-10-31 1:11 PM
 updated_date: 2024-11-26 6:31 PM
 ---
 
-
-Thesis1: Change the entire doc: two veins only---USAC and hostile environment for students, with Block's help
-
-Thesis2: Jewish and pro-Israel students faced with discrimination are ignored by Block and USAC 
-
-Thesis3: USAC was present at a protest that was 1. discriminating and 2. excluding students
-
-
-
 ### A hostile environment by totality of circumstances 
 
 - This is where the symbology and random antisemitic incidents should go towards the total
