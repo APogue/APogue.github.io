@@ -52,17 +52,13 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- USAC February Resolution
 
-		- [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+		- [USAC passes resolution endorsing Boycott, Divestment and Sanctions movement](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
 
 		- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
 
-			- The points listed 
-
-				- "Addresses longstanding issues related to Israel's...treatment of Palestinian's more generally"
-
-				- "Given this broader critique...it is likely that the "list" of entities to be boycotted would extend beyond the Gaza conflict...encompassing entities across Israel and its broader economic and political structures."
-
 			- Resolution was sponsored by Verdugo, 10-3 vote to pass on 2-20
+
+			- Evidence of connection with UCLA BDS
 
 ## The Protests
 
@@ -70,21 +66,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- [Demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) 
 
-- Discrimination 
-
-	- Student testimonials
-
-		- [Lavie Levi](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
-
-	- Symbology 
-
-		- Red triangles were there for two days and were removed without condemnation 
-
-	- Blockading students 
-
-		- Student barred entry because he is a ["Zionist"](https://x.com/iambrianbj/status/1785215261529850007?s=61)
-
-		- [Frankel v. Regents of the University of California](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf)
+	- JVP doesn't interact with CAC, despite the fact that they were also present at the encampment
 
 - USAC presence
 
@@ -110,7 +92,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 			- [Block](https://www.instagram.com/p/C6sht0ROgJk/?hl=en)
 
-		- X 
+		- X (more in the other USAC document)
 
 			- [July 25th](https://x.com/mxmsworld/status/1816579036560158872)
 
@@ -144,8 +126,6 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in "unlawful behavior", ie being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
 
-		- Blocking "Zionists" or students in general is not a Title VI violation, it is likely a public safety and access law violation 
-
 - USAC is also compromised by the above 
 
 	- USAC constitution II.B.3.a. 
@@ -154,7 +134,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- rights of students to a fair hearing of grievances 
 
-- There has not even been a symbolic move made to address the uptick in antisemitism that's been happening *on campus* 
+- There hasn't been a symbolic move made to address the uptick in antisemitism that's been happening *on campus* 
 
 	- Case, case, case
 
@@ -172,7 +152,7 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - Given Verdugo has been [*reelected*](https://dailybruin.com/2024/05/17/bruins-elect-1st-international-student-as-usac-president-in-2024-elections) to office, USAC corruption is likely to continue (abuse of power)
 
-- The position and other evidence against the state of Israel together with attack on a certain group of students at UCLA---by discrimination, exclusion and abuse of power---proves an attack on a particular group of students based on Israeli national origin or association with Israel (against Title VI)
+- The position and other evidence against the state of Israel together with attack on a certain group of students at UCLA---by discrimination, exclusion and abuse of power---proves an attack on a particular group of students based on Israeli national origin or association with Israel 
 
 	- The Israeli community (or the entire Jewish community inclusive of the Israeli community)  is too small a voting bloc, theoretically or practically to change USAC election outcomes (by "Article Draft", *USAC represents an abuse of power*)
 

@@ -24,6 +24,25 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 	- [Milagro Jones](https://www.tiktok.com/t/ZTNVnADbJ/)
 
+### Discrimination was occurring at the encampment
+
+- Discrimination 
+
+	- Student testimonials
+
+		- [Lavie Levi](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
+
+	- Symbology 
+
+		- Red triangles were there for two days and were removed without condemnation 
+
+	- Blockading students 
+
+		- Student barred entry because he is a ["Zionist"](https://x.com/iambrianbj/status/1785215261529850007?s=61)
+
+		- [Frankel v. Regents of the University of California](https://becketnewsite.s3.amazonaws.com/20240605222051/Complaint-in-Frankel-v.-Regents-of-UCLA.pdf)
+
+
 ### Background 
 
 - [Capital ‘Z’ versus lower-case ‘z’ zionism](https://blogs.timesofisrael.com/capital-z-versus-lower-case-z-zionism/)
@@ -84,13 +103,15 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 - JVP 
 
-	- JVP is interesting because they are mysterious in a way. In a way that only talking with them directly will solve. Building that mystery into the story may make it more compelling. 
+	- National JVP has a position, and from there it's possible that positions range depending on individual orgs. Michigan JVP for example, takes a very extreme position. 
+
+	- JVP is interesting because they are mysterious in a way that only talking with them directly will solve. Building that mystery into the story may make it more compelling. 
 
 	- [Mission](https://community.ucla.edu/studentorg/3992)
 
 		- How do they define "Zionism?"
 
-		- They do not interact with CAC
+		- They do not interact with CAC (this is in the USAC doc)
 
 		- They do not partake in any discrimination or hate speech
 
@@ -100,6 +121,18 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 	- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
 
+
+### USAC needs to define it 
+
+- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
+
+	- "UCLA administrators have refused to condemn Zionist settler colonialism,
+	genocide, and apartheid; have refused to acknowledge our own complicity in settler-colonial
+	genocide and apartheid through UC contracts, pensions, and investments in companies
+	profiting from Israeli violations of international law; and have refused to condemn the US’s
+	arming and funding of Israel’s genocide of Palestinians;"
+
+	- Given CAC rhetoric, etc, what is "Zionist settler colonialism?"
 
 ### Protesting student ideological demographics
 

@@ -19,6 +19,7 @@ updated_date: 2024-11-26 4:57 PM
 
 ### Hillel (Bella)
 
+- Have USAC members ignored calls for diplomacy with Hillel? 
 
 ### The Daily Bruin (Catherine Hamilton)
 
