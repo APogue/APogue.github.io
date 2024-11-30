@@ -70,6 +70,13 @@ date: 2024-11-30 3:54 PM
 	- [Los Angeles Magazine article](https://lamag.com/news/ucla-condemns-pro-palestinian-student-protesters-antisemitic-behavior), dated Nov 12, that states students “went viral online Friday for screaming ‘beat that fucking Jew’ through a megaphone while bashing a piñata bearing an image of Israeli Prime Minister Benjamin Netanyahu.”"
 
 
+- The Nov 8th incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th, although the previous incident was not explicitly condemned. 
+
+	- "Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
+
+		 "At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
+
+
 ### Illustrate free speech, treated as protected 
 
 - Extreme political positions

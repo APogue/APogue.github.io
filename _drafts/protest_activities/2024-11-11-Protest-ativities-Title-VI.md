@@ -7,8 +7,11 @@ date: 2024-11-11 4:05 PM
 updated_date: 2024-11-26 5:24 PM
 ---
 
+- “To establish a violation of Title VI under the hostile environment theory, OCR must find that: (1) a hostile environment based on race, color, or national origin existed; (2) the recipient had actual or constructive notice of the hostile environment; and (3) the recipient failed to take prompt and effective action to end the harassment, eliminate any hostile environment and its effects, and prevent the harassment from recurring.” (from UMich Resolution Letter doc)
 
+- By "[constellation of circumstances](https://www.govinfo.gov/content/pkg/FR-2000-11-02/pdf/00-27910.pdf)" 
 
+	"Under Davis, determining whether harassment is actionable ‘‘depends on a constellation of surrounding circumstances, expectations, and relationships’’"
 
 ### Title VI 
 

@@ -4,14 +4,12 @@ title: "Protest activities-the phantom militia"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
-updated_date: 2024-11-21 11:04 AM
+updated_date: 2024-11-30 4:58 PM
 ---
 
-Thesis1: When a serious incident occurred in October, the university did not find it merited a response. 
+Thesis1: When a **serious incident** occurred in October, the university did not find it merited a direct response. 
 
-Thesis2: This incident does show, however, that when students seek to further the academic mission of the university, the university will show them no protection. 
-
-Thesis3: There have been many instances of harassment of pro-Palestinian students on campus while the administration turned a blind eye
+The October incident was serious, it needs to be relayed as such. And information needs to be collected on the outcome of that incident.
 
 ### Counter-protesters---the tale of the phantom militia 
 
@@ -21,9 +19,7 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 - Oct 11, [Kaplan gathering](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) on "The Crisis in Palestine"
 
-- Oct 12, [video recording posted](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1)
-
-	- The students were furthering "the mission of the university" 
+- Oct 12, [video recording posted](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1) 
 
 	- [Hillel condemned it](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) 
 
@@ -45,11 +41,7 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 
 	- "This week, the growing war has prompted lectures, rallies, protests, counter-protests and many intense debates on our campus. This will surely continue in the days to come, and we will stand firmly in support of our community members’ First Amendment rights to free expression. I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911."
 
-		- Harassment based on a "perceived Protected Category?"
-
-		- This statement is an admission of knowledge. This statement is requiring "actual notice," a higher standard than currently exists (DeVos messed with this standard in the Title IX rollback). This statement looks like willful indifference. 
-
-		- “To establish a violation of Title VI under the hostile environment theory, OCR must find that: (1) a hostile environment based on race, color, or national origin existed; (2) the recipient had actual or constructive notice of the hostile environment; and (3) the recipient failed to take prompt and effective action to end the harassment, eliminate any hostile environment and its effects, and prevent the harassment from recurring.” (from UMich Resolution Letter doc)
+		- This statement is an admission of knowledge. This statement is requiring "actual notice," a higher standard than currently exists (DeVos messed with this standard in the Title IX rollback). 
 
 	- Backlash from some students
 
@@ -60,12 +52,6 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 		- Also see Muslim Issues and Islamophobia in r/UCLA 1st article 
 
 	- Backlash from SJP, [Oct 16th](https://www.instagram.com/p/CyevGH1p3fw/?hl=en&img_index=3)
-
-		- Can be considered a [political](https://www.aljazeera.com/opinions/2023/10/8/there-is-nothing-surprising-about-hamass-operation) statement equivalent to the [Israeli position that Palestinian civilians deaths are necessary](https://www.washingtonpost.com/world/2024/06/12/hamas-death-toll-gaza-sinwar-messages/) to eradicate Hamas ([source 2](https://www.washingtonpost.com/world/2024/05/21/gaza-hospitals-attacks-bombed-israel-war/))
-
-		- By "[constellation of circumstances](https://www.govinfo.gov/content/pkg/FR-2000-11-02/pdf/00-27910.pdf)" 
-
-			"Under Davis, determining whether harassment is actionable ‘‘depends on a constellation of surrounding circumstances, expectations, and relationships’’"
 
 	- [UC SJP response](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=3), Oct 17th
 
@@ -92,13 +78,6 @@ Thesis3: There have been many instances of harassment of pro-Palestinian student
 	- "Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams---including UCPD. More than ever, it is clear that there is no safety for...students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years. 
 
 		We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence."
-
-- The Nov 8th incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th, although the previous incident was not explicitly condemned. 
-
-	- "Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
-
-		 "At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
-
 
 - [Students voice worries over Islamophobia on UCLA campus](https://dailybruin.com/2023/11/19/students-voice-worries-over-islamophobia-on-ucla-campus), Nov. 19, 2023 
 
