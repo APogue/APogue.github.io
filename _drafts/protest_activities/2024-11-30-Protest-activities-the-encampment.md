@@ -29,6 +29,13 @@ date: 2024-11-30 3:54 PM
 
 				- non-affiliates
 
+### Main players
+
+- SJP and JVP worked together on the protest
+
+	- [Demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) 
+
+	- JVP doesn't interact with CAC, despite the fact that they were also present at the encampment
 
 ### True disruptions to campus operations 
 
@@ -100,7 +107,9 @@ date: 2024-11-30 3:54 PM
 	- 100 plus cops were there
 	
 
-### Illustrate free speech, unprotected---treated as a gray area
+### Illustrate discrimination---treated as a gray area
+
+- March pig effigy incident
 
 - When "equal rights give way to free speech"---UCLA permits more extreme cases of discrimination
 
@@ -114,6 +123,9 @@ date: 2024-11-30 3:54 PM
 
 		- Made it into social media posts, Op-eds, news articles (which news articles?)
 
+
+### The encampment 
+
 - The April 30th protest was a hotbed for hate speech and discrimination 
 
 	- Instances of discrimination quietly removed
@@ -123,8 +135,6 @@ date: 2024-11-30 3:54 PM
 		- Triangles made it into several articles as the "face of the protest"
 	
 		- No acknowledgment
-
-### The encampment 
 
 - “Lavie Levi, a fourth-year mathematics of computation student who is Jewish, said he felt uncomfortable and threatened by 	the encampment, adding that he believes some of the imagery used by the protesters – such as the red triangle and 			Chancellor Gene Block with horns on his head – is antisemitic. ‘I feel very uncomfortable,’ he said. ‘I might skip my 		classes today and go home because of the clear signs of antisemitism that I see that are not being reprimanded on 			campus.’” [Student onlookers express differing opinions on pro-Palestine encampment](https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment)
 

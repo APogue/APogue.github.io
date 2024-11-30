@@ -3,17 +3,13 @@ layout: outline
 title: "Protest activities-USAC is a Problem"
 published: true
 author: Alexie Pogue
-date: 2024-11-30 03:40 PM
+date: 2024-11-30 6:07 PM
 ---
 
-Thesis: Correlation with the conflict in Gaza is not necessarily causation. 
-
-""While many of the demands of pro-Palestinian groups may coincide with the ongoing conflict in Gaza, this correlation does not imply that the war directly causes these demands. Instead, the rhetoric among these groups often aligns more closely with the longstanding anti-Israel doctrine promoted by Hamas, suggesting that these demands are rooted in broader ideological beliefs rather than being solely a reaction to the current conflict."
-
-This way, you clearly separate the timing of events from the underlying ideological consistency that might be driving the rhetoric."
+The red triangle symbol first began with CAC
 
 
-## Background and context
+### Background and context
 
 - The situation in Palestine has been on the Council's radar for a while 
 
@@ -27,13 +23,16 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- Find the video on this 
 
-- [Resolutions](https://www.usac.ucla.edu/documents/resolutions) in the past have condemned antisemitism 
+- [Efforts](https://dailybruin.com/2018/11/18/national-students-for-justice-in-palestine-conference-goes-on-despite-on-campus-protest) to suppress speech in the past have been answered by USAC
+
+	- [Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093f0232032a4edc39b4f9/1695104770978/A+Resolution+In+Favor+of+Equalized+Access+to+UCLA+for+Non-Commerical+Speech+Events%3B+Specifically+in+Regards+to+SJP.pdf) for equal access 
+
+- [Resolutions](https://www.usac.ucla.edu/documents/resolutions) in the past have condemned antisemitism (****Verdugo was on the council during 2021-2022 year when the last Resolution condemning antisemitism was passed) 
 
 	- "[A Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093b574272311736b89fac/1695103831148/A+Resolution+In+Support+of+Jewish+Students+Amidst+Rising+Antisemitism.pdf) in Support of Jewish Students Amidst Rising Antisemitism"
 
-	- [Efforts](https://dailybruin.com/2018/11/18/national-students-for-justice-in-palestine-conference-goes-on-despite-on-campus-protest) to suppress speech in the past have been answered by USAC
 
-		- [Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093f0232032a4edc39b4f9/1695104770978/A+Resolution+In+Favor+of+Equalized+Access+to+UCLA+for+Non-Commerical+Speech+Events%3B+Specifically+in+Regards+to+SJP.pdf) for equal access 
+### CAC is the core of the problem 
 
 - Shortly after Oct 7th 
 
@@ -41,31 +40,50 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 		- [Mission](https://prod.community.ucla.systems/studentorg/623)
 
-			- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
-
 		- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
 
 			- "River to the Sea"
 
 			- "Honoring Palestinians on the front lines"
 
-	- USAC February Resolution
+		- Red triangles emerge in a post that they share (evidence in the lawsuit doc)
 
-		- [USAC passes resolution endorsing Boycott, Divestment and Sanctions movement](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+		- [Facebook and Insta restrict red triangle usage](https://www.instagram.com/muslim/p/DA55NaXOU0x/?img_index=1)
 
-		- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
+			- Association with Hamas, the red triangle is a "military target"
 
-			- Resolution was sponsored by Verdugo, 10-3 vote to pass on 2-20
+			- Association with concentration camps
 
-			- Evidence of connection with UCLA BDS
+			- Trump's ads were pulled 
 
-## The Protests
+			- The original material CAC shared was pulled and replaced without triangles
 
-- SJP and JVP worked together on the protest
+	- As CAC Commissioner she is regularly involved with gov't resolutions involving Israel
 
-	- [Demands](https://www.instagram.com/p/C6MHxXNx3Bb/?hl=en&img_index=3) 
+		- USAC February Resolution
 
-	- JVP doesn't interact with CAC, despite the fact that they were also present at the encampment
+			- [USAC passes resolution endorsing Boycott, Divestment and Sanctions movement](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement)
+
+			- [USAC Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/663f458d5f90ea7b2468c313/1715422605926/resolution.2024-02-20.A+Resolution+to+Boycott+and+Divest+from+Apartheid,+Ethnic+Cleansing,+and+Genocide.pdf)
+
+				- Broad with respect to Israel
+
+				- Resolution was sponsored by Verdugo, 10-3 vote to pass on 2-20
+
+				- Evidence of connection with UCLA BDS
+
+	- [UCLABIPAC IG message](https://www.instagram.com/p/C3a68r6uAHC/?igsh=ZWMyNDBlOTQyNg%3D%3D&img_index=1) 
+
+		- Labeled as "calls for impeachment" and published in the [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement) (who did not endorse her for the 24-25 year) on 2-21
+
+		- Shows examples of discriminatory behavior on the part of Verdugo
+
+	- There is no social media evidence* that CAC will work with JVP or vice versa
+
+		- Beyond political positions, the lack of a relationship shows that either CAC does not want to work with JVP based on Jewish identity or JVP agrees they are involved in discriminatory behavior
+
+
+### The Protests
 
 - USAC presence
 
@@ -91,39 +109,84 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 			- [Block](https://www.instagram.com/p/C6sht0ROgJk/?hl=en)
 
-		- X (more in the other USAC document)
 
+### Beyond the protests
+
+- (Go into the details of BIPAC here)
+
+- In total, evidence that CAC has shown a pattern of 
+			
+	- Framing violent acts against Israelis as justified “resistance”
+
+		- Al-Aqsa flood mentioned on Oct 7th anniversary 
+
+	- Promoting unverified, negative claims about Israel 
+
+		- X 
 			- [July 25th](https://x.com/mxmsworld/status/1816579036560158872)
 
 			- [Sometime after Nov 7th, 2023](https://x.com/itranslate123/status/1292459086257295360)
 
-- Is Tsives, who is widely criticized for being "attention hungry" and a right-wing media device, the only one who feels this way? 
+			- [Fuck Israel!](https://x.com/culturalaffairs/status/1845673414079693258)
 
-	- [Dec 18th](https://www.instagram.com/p/C1BN9tHr054/?hl=en) post by Hillel says they have been dismissed by student government and EDI
+		- reposts (Israel)
 
-	- [UCLABIPAC IG message](https://www.instagram.com/p/C3a68r6uAHC/?igsh=ZWMyNDBlOTQyNg%3D%3D&img_index=1) 
+			- [Israel is a...](https://x.com/Fx1Jonny/status/1845435414628237758)
 
-		- Labeled as "calls for impeachment" and published in the [Daily Bruin](https://dailybruin.com/2024/02/21/usac-passes-resolution-endorsing-boycott-divest-and-sanctions-movement) on 2-21
+			- [Once Israel falls...](https://x.com/mxmsworld/status/1816579036560158872)
 
-		- Shows examples of discriminatory behavior on the part of Verdugo
+			- [The problem is not Netanyahu...](https://x.com/itranslate123/status/1292459086257295360)
+	
+- Perpetuates narratives that cast students as complicit in perceived injustices,
 
-	- Despite seemingly misaligned political positions, JVP works with SJP and vice versa
+	- [UCLABIPAC](http://127.0.0.1:4000/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
 
-		- There is no social media evidence* that CAC will work with JVP or vice versa
+		- "There is so much propaganda that those are quote-unquote Israelis, those are settlers."
 
-			- Beyond political positions, the lack of a relationship shows that either CAC does not want to work with JVP based on Jewish identity or JVP agrees they are involved in discriminatory behavior
+			- "Exactly. By making Israeli = Settler and Settler = Zionist, the logic becomes transitive: Israeli = Zionist. This framing effectively removes any distinction between national identity and political ideology, equating simply being Israeli with adherence to a specific political stance (Zionism) and even further, with the idea of being a “settler.”"
+
+			- This approach collapses nationality into ideology, treating anyone who is Israeli as inherently supportive of Zionist policies, regardless of their personal beliefs or political stance. It ignores the diversity of thought within Israel, where there is a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians. It also misrepresents the reality of Jewish and Israeli identities, which can’t be neatly categorized by political ideology, as Zionism itself has multiple interpretations.
+
+			- This view rejects the idea that someone can be Israeli without being a Zionist, meaning it dismisses the possibility of Israelis who might be critical of Zionist policies, supportive of Palestinian rights, or against the occupation. Essentially, it equates national identity with ideology, with no room for variation.
+
+			- By conflating Israeli identity with Zionism and settler-colonialism, it labels all Israelis as participants in a colonial project, regardless of their individual beliefs, actions, or even ethnic background.
+
+			- American = Settler = Deserving of harm at the hands of the original inhabitants of this land. Then by the same logic this individual also deserves to die. 
+
+		- The parents are white comment
+
+- They spread harmful misinformation, (e.g., accusations of atrocities without evidence),
+
+	- [Atrocities of Oct 7th](https://www.factcheck.org/2023/10/what-we-know-about-three-widespread-israel-hamas-war-claims/)
+
+	- [Bisan Owda](https://www.thewrap.com/bisan-owda-emmy-israel-gaza-idf-executions-claim/), unsubstantiated 
+
+	- [Propaganda on the number of Palestinians killed](https://www.instagram.com/p/DA2Um1qR26B/?hl=en&img_index=2)
+
+		- Versus Congressional Research Service, updated Oct 4th, "**Conflict, humanitarian situation, and international action.** In the conflict to date, more than 41,000 Palestinians in Gaza have been killed, according to the Hamas-controlled health ministry there. Additionally, about 90% of Gaza’s some 2.1 million residents have been displaced, with most facing unsanitary, overcrowded conditions alongside acute shortages of food, water, medical care, and other essential supplies and services. Obstacles to transporting aid through crossings and Israeli checkpoints and then safely delivering it have contributed to high levels of food insecurity. According to the Famine Early Warning Systems Network (FEWS NET) as of August 2024, humanitarian aid was probably preventing famine, but “hunger and malnutrition remain dire, and hunger-related mortality is likely still occurring.”"
+
+	- [IDF X on terrorist arrests](https://x.com/AvichayAdraee/status/1847644148355993827)
+		
+- Disinformation (other)
+
+	- [White people forgetting...](https://x.com/oodhamboi/status/1845526318445916559)
+
+	- [This is the most staged shit...](https://x.com/jawn/status/1812257991045111925)
+
 
 - Verdugo is compromised and unfit to work within USAC
 
 	- All of the above represents a "conflict of interest," as defined by bylaws, with respect to any political position on Israel
 
-- Does the issue with USAC go beyond Verdugo? 
+### Does the issue with USAC go beyond Verdugo? 
 
-	- They will not work with Hillel 
+- [Dec 18th](https://www.instagram.com/p/C1BN9tHr054/?hl=en) post by Hillel says they have been dismissed by student government and EDI
 
-	- They will not hear BIPAC calls for impeachment
+- They will not work with Hillel 
 
-	- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in "unlawful behavior", ie being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
+- They will not hear BIPAC calls for impeachment
+
+- Regardless of what they "should" be doing, they messed up based on a technicality by engaging in "unlawful behavior", ie being an official part of the encampment and therefor complicit in blocking students from accessing areas of campus
 
 - USAC is also compromised by the above 
 
@@ -145,9 +208,11 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - All of the above indicates their behavior is *exclusive*, USAC is *excluding* members of the campus community 
 
-- Their more recent [resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation) possibly targets Israeli and Jewish culture rather than Israel's policies
+- Resolutions become more extreme
 
-	- [It](https://docs.google.com/document/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic) is questionably far reaching, and calls for the abolishment of the UCLA Nazarian Center
+	- Their more recent [resolution](https://dailybruin.com/2024/05/07/usac-passes-resolution-calling-for-ucla-chancellor-gene-blocks-resignation) possibly targets Israeli and Jewish culture rather than Israel's policies
+
+		- [It](https://docs.google.com/document/d/19g5EXnKlBeZt3oCtgEqLHCfjg4fN7Gi4EqtPz_nlESs/mobilebasic) is questionably far reaching, and calls for the abolishment of the UCLA Nazarian Center
 
 - Given Verdugo has been [*reelected*](https://dailybruin.com/2024/05/17/bruins-elect-1st-international-student-as-usac-president-in-2024-elections) to office, USAC corruption is likely to continue (abuse of power)
 
@@ -176,93 +241,22 @@ This way, you clearly separate the timing of events from the underlying ideologi
 	community."
 
 
----------------------------------------------------------------------------------------------------------
-### Notes
-
-****Verdugo was on the council during 2021-2022 year when the last Resolution condemning antisemitism was passed 
-
-- The issue is broader than protests and encampments, UCLA itself is a "Jew Exclusion Zone" if the student government is permitted to continue with impunity
-
-- If the basis for exclusion goes beyond encampment conduct and has somehow "bled" into USAC rhetoric, conduct, and policy; if this activity goes deeper than just the encampments themselves, this is the systemic problem that may persist. 
-
-- It should be made clear what the issue is---there is no "citizenship of UCLA" oath that a student is given when extended an offer to attend the university
 
 
-### Fact checks
 
-- [Atrocities of Oct 7th](https://www.factcheck.org/2023/10/what-we-know-about-three-widespread-israel-hamas-war-claims/)
 
-- [Bisan Owda](https://www.thewrap.com/bisan-owda-emmy-israel-gaza-idf-executions-claim/), unsubstantiated 
 
-- [Propaganda on the number of Palestinians killed](https://www.instagram.com/p/DA2Um1qR26B/?hl=en&img_index=2)
 
-	- Versus Congressional Research Service, updated Oct 4th, "**Conflict, humanitarian situation, and international action.** In the conflict to date, more than 41,000 Palestinians in Gaza have been killed, according to the Hamas-controlled health ministry there. Additionally, about 90% of Gaza’s some 2.1 million residents have been displaced, with most facing unsanitary, overcrowded conditions alongside acute shortages of food, water, medical care, and other essential supplies and services. Obstacles to transporting aid through crossings and Israeli checkpoints and then safely delivering it have contributed to high levels of food insecurity. According to the Famine Early Warning Systems Network (FEWS NET) as of August 2024, humanitarian aid was probably preventing famine, but “hunger and malnutrition remain dire, and hunger-related mortality is likely still occurring.”"
 
-- [IDF X on terrorist arrests](https://x.com/AvichayAdraee/status/1847644148355993827)
 
-- [Facebook and Insta restrict red triangle usage](https://www.instagram.com/muslim/p/DA55NaXOU0x/?img_index=1)
 
-	- Association with Hamas, the red triangle is a "military target"
 
-	- Association with concentration camps
 
-	- Trump's ads were pulled 
 
-- Has CAC created an observable pattern of messaging that, 
 
-	- Promotes unverified, negative claims about Israel (e.g., accusations of atrocities without evidence),
 
-	- Frames violent acts against Israelis as justified “resistance,” and
 
-	- Perpetuates narratives that cast Israelis or Jewish students as complicit in perceived injustices,
 
-		- This also applies to white supremacy, not "benefited from" but if she calls someone who is white a white supremacist 
-
-- [UCLABIPAC](http://127.0.0.1:4000/2024/06/20/Why-do-major-protest-related-incidents-keep-happening-at-UCLA/)
-
-	- "There is so much propaganda that those are quote-unquote Israelis, those are settlers."
-
-	- Denial of benefits
-
-- "Exactly. By making Israeli = Settler and Settler = Zionist, the logic becomes transitive: Israeli = Zionist. This framing effectively removes any distinction between national identity and political ideology, equating simply being Israeli with adherence to a specific political stance (Zionism) and even further, with the idea of being a “settler.”"
-
-- Blurring of Identity and Ideology:
-
-	- This approach collapses nationality into ideology, treating anyone who is Israeli as inherently supportive of Zionist policies, regardless of their personal beliefs or political stance. It ignores the diversity of thought within Israel, where there is a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians. It also misrepresents the reality of Jewish and Israeli identities, which can’t be neatly categorized by political ideology, as Zionism itself has multiple interpretations.
-
-	- By labeling all Israelis as “settlers,” proponents of this view essentially reject Zionism in any form---not just the presence of Israelis in the West Bank or Gaza, but the idea of the state of Israel.
-
-	- This view, while critical of Zionism, extends beyond policy disagreements and touches on identity. By conflating Israeli identity with Zionism and settler-colonialism, it labels all Israelis as participants in a colonial project, regardless of their individual beliefs, actions, or even ethnic background.
-
-		- It is theoretically possible that there exists Israelis who believe in the dissolution of the Israeli state 
-
-- Equate it to American:
-
-	- American = Settler = Deserving of harm at the hands of the original inhabitants of this land. Then by the same logic this individual also deserves to die. 
-
-- Defined logical implication that all Israelis are Zionists:
-
-	- In this framework, to be Israeli is equated with being a Zionist inherently. The logic is that any Israeli presence in the land, regardless of location or borders, represents Zionism or “settler colonialism.” This view rejects the idea that someone can be Israeli without being a Zionist, meaning it dismisses the possibility of Israelis who might be critical of Zionist policies, supportive of Palestinian rights, or against the occupation. Essentially, it equates national identity with ideology, with no room for variation.
-
-### CAC spreads harmful misinformation 
-
-- Screenshots in phone plus images in images file
-
-- [Fuck Israel!](https://x.com/culturalaffairs/status/1845673414079693258)
-
-- reposts (Israel)
-
-	- [Israel is a...](https://x.com/Fx1Jonny/status/1845435414628237758)
-
-	- [Once Israel falls...](https://x.com/mxmsworld/status/1816579036560158872)
-
-	- [The problem is not Netanyahu...](https://x.com/itranslate123/status/1292459086257295360)
-
-- reposts (other)
-
-	- [White people forgetting...](https://x.com/oodhamboi/status/1845526318445916559)
-
-	- [This is the most staged shit...](https://x.com/jawn/status/1812257991045111925)
 
 
 

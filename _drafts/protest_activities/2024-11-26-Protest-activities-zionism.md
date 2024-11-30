@@ -138,6 +138,12 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 	- Given CAC rhetoric, etc, what is "Zionist settler colonialism?"
 
+- Based on Verdugo rhetoric (see the USAC-is-a-problem)
+
+	- Blurring of Identity and Ideology:
+
+	- By labeling all Israelis as “settlers,” proponents of this view essentially reject Zionism in any form---not just the presence of Israelis in the West Bank or Gaza, but the idea of the state of Israel.
+
 ### Protesting student ideological demographics
 
 - Students felt they didn't have an "American viewpoint" when it came to the pro-Palestinian protests
