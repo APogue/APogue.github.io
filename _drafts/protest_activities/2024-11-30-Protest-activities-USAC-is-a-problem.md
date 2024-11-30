@@ -1,10 +1,9 @@
 ---
 layout: outline
-title: "USAC is a Problem"
+title: "Protest activities-USAC is a Problem"
 published: true
 author: Alexie Pogue
-date: 2024-08-13 02:00 PM
-updated_date: 2024-11-27 11:19 AM
+date: 2024-11-30 03:40 PM
 ---
 
 Thesis: Correlation with the conflict in Gaza is not necessarily causation. 
