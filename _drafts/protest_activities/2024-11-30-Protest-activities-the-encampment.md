@@ -7,6 +7,29 @@ date: 2024-11-30 3:54 PM
 ---
 
 
+### Tell a story
+
+- How did it start
+
+- What were its goals 
+
+- Who main players
+
+- Daily life, the pros 
+
+- Its dark secrets 
+
+		- By day
+
+				- Right off the bat discrimination
+
+		- Blockading 
+
+		- By night 
+
+				- non-affiliates
+
+
 ### True disruptions to campus operations 
 
 - Encampment blockading 
@@ -101,7 +124,7 @@ date: 2024-11-30 3:54 PM
 
 
 
-### Pro-Palestinian Protest 
+### Pro-Palestinian Protest
 
 - Hate speech at the protest 
 
@@ -178,3 +201,5 @@ date: 2024-11-30 3:54 PM
 		"The incident lasted about five minutes. The group of four made their way to the Daily Bruin newsroom before Hamilton went to the hospital, accompanied by her editor in chief, when the bruising made it difficult for her to stand and breathe. She has since been released."
 
 	- "The attack is one of several recent incidents involving journalists. It also is one of the first known attacks involving student reporters covering the ongoing unrest on campuses over the Israel-Hamas war, often when outside news media have been prevented from entering universities."
+
+

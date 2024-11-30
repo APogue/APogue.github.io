@@ -103,6 +103,10 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 - JVP 
 
+	- Example: al-aqsa flood, or other symbolic forms of discrimination or questionable chants---which have they been involved in? 
+
+	- Find examples where Jewish students were used as evidence that the encampment wasn't discriminating
+
 	- National JVP has a position, and from there it's possible that positions range depending on individual orgs. Michigan JVP for example, takes a very extreme position. 
 
 	- JVP is interesting because they are mysterious in a way that only talking with them directly will solve. Building that mystery into the story may make it more compelling. 

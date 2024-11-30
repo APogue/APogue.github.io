@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Protest activities-the tale of the phantom militia"
+title: "Protest activities-the phantom militia"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
