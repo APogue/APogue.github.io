@@ -128,6 +128,8 @@ updated_date: 2024-11-26 6:31 PM
 
 ### CAC spreads harmful misinformation 
 
+- Screenshots in phone plus images in images file
+
 - [Fuck Israel!](https://x.com/culturalaffairs/status/1845673414079693258)
 
 - reposts (Israel)

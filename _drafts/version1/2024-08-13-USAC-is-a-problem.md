@@ -20,9 +20,13 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 	- [Myers opposes](https://dailybruin.com/2014/05/23/submission-usac-ethics-statement-exacerbates-israeli-palestinian-situation) a proposed pledge (2014) that would ban students from taking trips to Israel sponsored by certain groups 
 
+		- "But like Chancellor Gene Block, I don’t think that the Undergraduate Students Association Council should legislate who can or cannot travel abroad – or where."
+
 - Case of antisemitism 
 
 	- Reemergence of what the author believes is the "Jewish Question", [TDB](https://dailybruin.com/2015/03/09/submission-ucla-campus-must-take-action-to-address-anti-semitism)
+
+		- Find the video on this 
 
 - [Resolutions](https://www.usac.ucla.edu/documents/resolutions) in the past have condemned antisemitism 
 
@@ -34,39 +38,17 @@ This way, you clearly separate the timing of events from the underlying ideologi
 
 - Shortly after Oct 7th 
 
-	- Protected speech by non-USAC affiliated student groups 
+	- CAC
 
-		- SJP
+		- [Mission](https://prod.community.ucla.systems/studentorg/623)
 
-			- [Mission](https://community.ucla.edu/studentorg/90)
+			- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
 
-			- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
+		- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
 
-			- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
+			- "River to the Sea"
 
-
-		- JVP 
-
-			- [Mission](https://community.ucla.edu/studentorg/3992)
-
-				- How do they define "Zionism?"
-
-			- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
-
-
-	- Protected speech by USAC affiliated student groups 
-
-		- CAC
-
-			- [Mission](https://prod.community.ucla.systems/studentorg/623)
-
-				- Add their mission of "accessibility to all students?", this may just be fluff that will overburden the point with thoughts of what they "should" be doing rather than what they "must" do
-
-			- [Position](https://www.instagram.com/p/CyMSRCuSlAR/?hl=en&img_index=1) on Oct 7th
-
-				- "River to the Sea"
-
-				- "Honoring Palestinians on the front lines"
+			- "Honoring Palestinians on the front lines"
 
 	- USAC February Resolution
 
@@ -81,24 +63,6 @@ This way, you clearly separate the timing of events from the underlying ideologi
 				- "Given this broader critique...it is likely that the "list" of entities to be boycotted would extend beyond the Gaza conflict...encompassing entities across Israel and its broader economic and political structures."
 
 			- Resolution was sponsored by Verdugo, 10-3 vote to pass on 2-20
-
-- The political climate at this point, given the rhetorical positions of SJP and CAC, and the desire to target Israel more broadly, resembles the political positions of Hamas 
-
-	- This is still "okay," if they want to side with Hamas this is protected 
-
-	- Define the political position of Hamas
-
-		- The state of Israel is a "Zionist Project"
-
-		- [Propaganda document](https://www.palestinechronicle.com/wp-content/uploads/2024/01/PDF.pdf)
-
-		- [General Principles and Policies](https://irp.fas.org/world/para/docs/hamas-2017.pdf)
-
-		- [Core Policies](https://www.wilsoncenter.org/article/doctrine-hamas)
-
-			- Position 18
-
-			- Position 20
 
 ## The Protests
 

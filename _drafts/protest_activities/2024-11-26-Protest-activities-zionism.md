@@ -4,6 +4,7 @@ title: "Protest activities-campus identity and Zionism"
 published: true
 author: Alexie Pogue
 date: 2024-11-26 3:52 PM
+updated_date: 2024-11-30 11:51 AM
 ---
 
 Across all topics, begin with a real-life scenario, then discuss it with research 
@@ -56,7 +57,48 @@ Across all topics, begin with a real-life scenario, then discuss it with researc
 
 ### The pro-Palestinian movement is vague about its definition
 
-- Hamas doctrine and evidence of anti-Israeli rhetoric 
+- Define the political position of Hamas
+
+	- The state of Israel is a "Zionist Project"
+
+	- [Propaganda document](https://www.palestinechronicle.com/wp-content/uploads/2024/01/PDF.pdf)
+
+	- [General Principles and Policies](https://irp.fas.org/world/para/docs/hamas-2017.pdf)
+
+	- [Core Policies](https://www.wilsoncenter.org/article/doctrine-hamas)
+
+		- Position 18
+
+		- Position 20
+
+- SJP
+
+	- [Mission](https://community.ucla.edu/studentorg/90)
+
+	- [Letter](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=1) to the regents 
+
+	- [Al-Aqsa Flood](https://www.reddit.com/r/ucla/comments/17bwsih/when_did_it_become_acceptable_to_openly/)
+
+		- (this is also located in "protest activities-violence")
+
+
+- JVP 
+
+	- JVP is interesting because they are mysterious in a way. In a way that only talking with them directly will solve. Building that mystery into the story may make it more compelling. 
+
+	- [Mission](https://community.ucla.edu/studentorg/3992)
+
+		- How do they define "Zionism?"
+
+		- They do not interact with CAC
+
+		- They do not partake in any discrimination or hate speech
+
+		- But when those who do use them as "evidence" to defend against accusations of antisemitism, they don't get involved
+
+		- They are true peacekeepers, freedom fighters, they are the definition of "collective strength," they function for the cause only 
+
+	- [Reaction](https://www.instagram.com/p/CyZwV-dO3Ue/?img_index=1) to Oct 7th 
 
 
 ### Protesting student ideological demographics
