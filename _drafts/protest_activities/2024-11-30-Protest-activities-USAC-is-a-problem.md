@@ -3,13 +3,66 @@ layout: outline
 title: "Protest activities-USAC is a Problem"
 published: true
 author: Alexie Pogue
-date: 2024-11-30 6:07 PM
+date: 2024-11-30 6:00 PM
+updated_date: 2024-12-1 2:07 PM
 ---
 
 The red triangle symbol first began with CAC
 
+The rules and policy can be integrated into the story 
 
-### Background and context
+### Background 
+
+2. Self-governance
+
+		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
+
+			- Positions on issues taken by student governments are not positions taken by the university (by PACAOS-63.00)
+
+		- USAC has a set of [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1) 
+
+			- I.D. Conflict of Interest
+
+				- Discrimination represents a conflict of interest when involved in political activity 
+
+			- II.E. Removal Process
+
+				- The process for initiating a hearing solely based on the identification of cause
+
+				- Removal from Council requires 2/3 vote
+
+		- UC student government has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
+
+			- UCLA USAC's own constitution is more specific in limiting powers
+
+		- USAC [constitution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6509389145a9b930a19e0401/1695103121405/USA+Constitution.pdf)
+
+			- Preamble
+
+			- I.D. USAC shall not participate in discrimination 
+
+			- II.B.3.a. 
+
+				- rights of students to participate in all activities 
+
+				- rights of students to a fair hearing of grievances
+
+		- USAC charges [mandatory fees](https://sole.ucla.edu/file/cfdd57d7-15e0-4d9d-a6bf-e5ce5e91e385) from student tuition in order to run a large portion of undergraduate life
+
+			- [not all fees are at USAC discretion](https://www.reddit.com/r/ucla/comments/mtr3ns/what_is_usac_a_sort_of_brief_guide/)
+
+				- [fee breakdown](https://www.usac.ucla.edu/funding/student-fee)
+
+				- [more recent fees paid number](https://sa.ucla.edu/RO/Fees/Public/public-fees?year=2023-2024&term=Annual&degree=Undergraduate%20cohort%202023-24)
+
+				- [86.11 *Conditions for Support*](https://policy.ucop.edu/doc/2710528/PACAOS-80) "Particular
+				programs and activities of a Registered Campus Organization funded from compulsory
+				campus-based student fees shall be open to participation by the entire campus
+				community."
+
+
+
+### Context 
 
 - The situation in Palestine has been on the Council's radar for a while 
 

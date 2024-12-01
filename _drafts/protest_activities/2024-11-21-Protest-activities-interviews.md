@@ -48,3 +48,8 @@ updated_date: 2024-11-26 4:57 PM
 - Asil Yassine
 
 - Thistle Boosinger
+
+
+### Myers
+
+- Based on these lawsuits, has antisemitism in the last year been different than other years? Has it been more prevalent? 

@@ -4,34 +4,9 @@ title: "Introduction/Background and Context"
 published: true
 author: Alexie Pogue
 date: 2024-08-05 02:00 PM
-updated_date: 2024-11-24 5:42 PM
+updated_date: 2024-12-1 4:27 PM
 ---
 
-## Introduction
-
-- Draw a connection between what is happening on the national level and UCLA: the antisemitic activity that occurred in D.C. during Netanyahu visit 
-	
-	- Graffiti at UCLA
-
-	- Similar symbolism at the UCLA protest 
-
-	- Lavie Levi's statement
-
-- Opening incident: The protest itself---the intention was to bring UCLA to the table but nothing productive came of the week-long encampment, rallies and protests. The only lasting result---serious incidents involving discrimination and violence 
-
-	- Eli Tsives blocked from entering an area of campus (taken on video)
-
-		- He made a point to emphasize "that he pays tuition"
-
-	- Physical barriers were also in place to keep so-called "Zionists" out
-
-		- Masked non-affiliates with weapons attacked the encampment
-
-- Transitional statement
-
-	- There was clear rule breaking on both sides, so why did UCLA allow it to continue for days until things got completely out of hand? 
-
-- Thesis statement: A lack of oversight by UCLA administration has led to problematic incidents involving discrimination and violence
 
 ## Background and Context
 
@@ -45,53 +20,7 @@ updated_date: 2024-11-24 5:42 PM
 
 		- Block's House Opening Remarks - constitutional freedoms above everything
 
-	2. Self-governance
-
-		- UCLA takes a very hands-off approach to guidance and oversight based on these principles 
-
-			- Positions on issues taken by student governments are not positions taken by the university (by PACAOS-63.00)
-
-		- USAC has a set of [bylaws](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6641d05eb7443b3f12156677/1715994667939/bylaws.2023-05-09.pdf#page=1) 
-
-			- I.D. Conflict of Interest
-
-				- Discrimination represents a conflict of interest when involved in political activity 
-
-			- II.E. Removal Process
-
-				- The process for initiating a hearing solely based on the identification of cause
-
-				- Removal from Council requires 2/3 vote
-
-		- UC student government has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
-
-			- UCLA USAC's own constitution is more specific in limiting powers
-
-		- USAC [constitution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/6509389145a9b930a19e0401/1695103121405/USA+Constitution.pdf)
-
-			- Preamble
-
-			- I.D. USAC shall not participate in discrimination 
-
-			- II.B.3.a. 
-
-				- rights of students to participate in all activities 
-
-				- rights of students to a fair hearing of grievances
-
-		- USAC charges [mandatory fees](https://sole.ucla.edu/file/cfdd57d7-15e0-4d9d-a6bf-e5ce5e91e385) from student tuition in order to run a large portion of undergraduate life
-
-			- [not all fees are at USAC discretion](https://www.reddit.com/r/ucla/comments/mtr3ns/what_is_usac_a_sort_of_brief_guide/)
-
-				- [fee breakdown](https://www.usac.ucla.edu/funding/student-fee)
-
-				- [more recent fees paid number](https://sa.ucla.edu/RO/Fees/Public/public-fees?year=2023-2024&term=Annual&degree=Undergraduate%20cohort%202023-24)
-
-				- [86.11 *Conditions for Support*](https://policy.ucop.edu/doc/2710528/PACAOS-80) "Particular
-				programs and activities of a Registered Campus Organization funded from compulsory
-				campus-based student fees shall be open to participation by the entire campus
-				community."
-
+	
 	3. UCLA "expects" students to function autonomously using value systems in place
 
 		- photo of the statue 
@@ -104,11 +33,6 @@ updated_date: 2024-11-24 5:42 PM
 
 			- Principles of community
 
-	4. "Student safety" is a concern because the campus is open to the public
-
-		- [UCLA is a land-grant institution](https://www.nifa.usda.gov/about-nifa/how-we-work/partnerships/land-grant-colleges-universities)
-
-		- [This makes UCLA open-access](https://dailybruin.com/2024/01/29/uclas-open-campus-raises-questions-around-student-safety)
 
 - How does UCLA policy and enforcement support the above? Where there is a lack of systems, what patterns have emerged? 
 

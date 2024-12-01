@@ -8,17 +8,17 @@ date: 2024-10-22 7:50 PM
 
 Thesis: What is UC and UCLA philosophy? (insert the quote about even the smallest thing mattering from the 2024 toolkit)
 
-Thesis1: The philosophy of the school is handling that is content-neutral
+Thesis1: The philosophy of the school is handling that is **content-neutral**
 
-Thesis2: The philosophy of the schools is the support of academic freedom
+Thesis2: The philosophy of the schools is the support of **academic freedom**
 
-Thesis3: The philosophy of the school is freedom of speech
+Thesis3: The philosophy of the school is **freedom of speech**
 
 Thesis4: Free speech is not an unconditional constitutional right
 
-Thesis5: Free speech activities are subject to time, place, and manner restrictions 
+Thesis5: Free speech activities are subject to **time, place, and manner restrictions**
 
-Thesis6: Free speech activities will be forcibly disrupted if they interfere with university operations 
+Thesis6: Free speech activities will be **forcibly disrupted** if they interfere with university operations 
 
 
 ### Administrative position on free speech activities 
