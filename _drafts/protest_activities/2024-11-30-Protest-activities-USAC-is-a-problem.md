@@ -4,7 +4,7 @@ title: "Protest activities-USAC is a Problem"
 published: true
 author: Alexie Pogue
 date: 2024-11-30 6:00 PM
-updated_date: 2024-12-1 2:07 PM
+updated_date: 2024-12-2 11:47 AM
 ---
 
 The red triangle symbol first began with CAC
@@ -46,6 +46,22 @@ The rules and policy can be integrated into the story
 				- rights of students to participate in all activities 
 
 				- rights of students to a fair hearing of grievances
+
+		- [Group misconduct](https://deanofstudents.ucla.edu/group-student-code)
+
+			- Section II. Definitions, Section K, *Student Group*
+
+				- *USAC* 
+
+					- Section III.B, *Types of Misconduct* includes 202.11, *Discrimination and Harassment*
+
+						- 202.11a *Discrimination*
+
+							- "Discrimination means the exclusion of a person, on the basis of race, color, national origin, religion,...from participation in any academic, research or other University service, program or activity."
+
+						- 202.11b *Harassment*
+
+							- "Harassment means conduct that is sufficiently severe, pervasive or persistent so as to interfere with or limit an individual’s ability to participate in or benefit from the services, activities or opportunities offered by the University, or creates a work environment that is intimidating, hostile or abusive."
 
 		- USAC charges [mandatory fees](https://sole.ucla.edu/file/cfdd57d7-15e0-4d9d-a6bf-e5ce5e91e385) from student tuition in order to run a large portion of undergraduate life
 
