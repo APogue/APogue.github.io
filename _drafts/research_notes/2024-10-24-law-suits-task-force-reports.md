@@ -119,7 +119,16 @@ updated_date: 2024-11-26 5:40 PM
 
 		If the policy to block pathways was not clearly communicated or was ambiguous, participants might contest their liability.
 
-- The argument with respect to disciplinary action by the university, Pp. 25
+- The argument with respect to **disciplinary action by the university, Pp. 25**
+
+	- This relates to Asil Yassin (LA Times)
+
+		- [Police arrested hundreds of pro-Palestinian students in L.A. The fallout continues, Aug. 2, 2024](https://www.latimes.com/california/story/2024-08-02/ucla-usc-pomona-palestinian-protests)
+
+		- "Yassine signed an agreement with UCLA to not violate its policies again, which lifted the hold on her records. But she still has not received her diploma or transcript.
+
+		“I don’t think the arrests will lead to charges against me but the cases are still in limbo over my head,” Yassine said. “But the degree issue will set back my license by at least six months.”"
+
 
 	- This is inconsistent with how the Title IX office would arrive upon a resolution, and presumably it's the same for a violation of the UCLA Student Conduct Code. Offices receiving reports must conduct their own investigation---students have a right to due process. 
 

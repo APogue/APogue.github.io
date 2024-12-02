@@ -1,24 +1,151 @@
 ---
 layout: outline
-title: "Protest activities-UCLA position/background"
+title: "Protest activities-freedom of speech"
 published: true
 author: Alexie Pogue
-date: 2024-10-22 7:50 PM
+date: 2024-12-2 3:02 PM
 ---
 
-Thesis: What is UC and UCLA philosophy? (insert the quote about even the smallest thing mattering from the 2024 toolkit)
 
-Thesis1: The philosophy of the school is handling that is **content-neutral**
 
-Thesis2: The philosophy of the schools is the support of **academic freedom**
+When neutrality protects no one, whose voices are truly being heard?"
 
-Thesis3: The philosophy of the school is **freedom of speech**
 
-Thesis4: Free speech is not an unconditional constitutional right
+### Hook 
 
-Thesis5: Free speech activities are subject to **time, place, and manner restrictions**
+"I'm going to rip your fucking head off
 
-Thesis6: Free speech activities will be **forcibly disrupted** if they interfere with university operations 
+You motherfucker
+
+You better fucking run from me terrorist"
+
+
+These were the words students were met with while on their way to a classroom. The students immediately left. Luckily campus officials were there to prevent further escalation. Had they not been, this incident could have ended far worse. But what is far worse? 
+
+
+It seems then the aggressors succeeded in getting what they wanted---to hurl insults, physically take belongings and throw them in the trash, and stop the students from accessing the classroom.
+
+
+
+
+
+
+
+(I can't tell if it's CSC or Student Affairs or some other private security)
+
+
+
+
+
+
+
+
+- Oct 11, [Kaplan gathering](https://www.instagram.com/p/CyMXtjEy11s/?hl=en) on "The Crisis in Palestine"
+
+- Oct 12, [video recording posted](https://www.instagram.com/p/CyTYyrwrue7/?hl=en&img_index=1) 
+
+	- [Hillel condemned it](https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2) 
+
+	- Non-affiliates clearly broke the law, UCLA conduct policy and UCLA non-affiliate conduct policy, should have been
+
+		- Arrested for intimidation, property damage, attempted assault characterized by bias 
+
+		- Cited for harassment and disruption of university operations
+
+		- No-contact order 
+
+		- They were permitted to leave the premises 
+
+
+
+
+
+
+- The story of Asil Yassine 
+
+- [Police arrested hundreds of pro-Palestinian students in L.A. The fallout continues, Aug. 2, 2024](https://www.latimes.com/california/story/2024-08-02/ucla-usc-pomona-palestinian-protests)
+
+"Since police arrested her twice this spring at UCLA...The university placed holds on her records and she still has not received her diploma. Without proof of her degree, her work this summer at a psychology office won’t count toward her license.
+
+Yassine signed an agreement with UCLA to not violate its policies again, which lifted the hold on her records. But she still has not received her diploma or transcript.
+
+“I don’t think the arrests will lead to charges against me but the cases are still in limbo over my head,” Yassine said. “But the degree issue will set back my license by at least six months.”"
+
+
+
+
+
+### An event to illustrate freedom of speech
+
+
+
+
+
+
+
+### An event to illustrate discrimination 
+
+- March pig effigy incident
+
+- UC Divest "shut it down" (police footage) [IG post](https://www.instagram.com/p/C51p_t2SMCH/?hl=en)
+
+	- UC Divest in the above claims that UCPD, LAPD, Culver City PD, and Santa Monica PD were all on the scene
+
+	- 100 plus cops were there
+
+- Impactful discriminatory art at a larger-scale protest
+
+	- Made it into social media posts, Op-eds, news articles (which news articles?)
+
+- photo of the statue 
+
+	- considered discrimination based on the above definition
+
+- [Mary Osako statement](https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting)
+
+	- True Bruin Values
+
+	- Principles of community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Administrative position on free speech activities 
@@ -99,15 +226,7 @@ Thesis6: Free speech activities will be **forcibly disrupted** if they interfere
 	
 	3. UCLA "expects" students to function autonomously using value systems in place
 
-		- photo of the statue 
 
-			- considered discrimination based on the above definition
-
-		- [Mary Osako statement](https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting)
-
-			- True Bruin Values
-
-			- Principles of community
 
 
 - How does UCLA policy and enforcement support the above? Where there is a lack of systems, what patterns have emerged? 
@@ -282,3 +401,19 @@ Thesis6: Free speech activities will be **forcibly disrupted** if they interfere
 - They're treating student gov't like a club that a group of friends belong to (cronyism). How can anyone take them seriously? 
 
 - This is related to UC philosophy cultivating a microcosm of corruption. 
+
+
+
+Thesis: What is UC and UCLA philosophy? (insert the quote about even the smallest thing mattering from the 2024 toolkit)
+
+Thesis1: The philosophy of the school is handling that is **content-neutral**
+
+Thesis2: The philosophy of the schools is the support of **academic freedom**
+
+Thesis3: The philosophy of the school is **freedom of speech**
+
+Thesis4: Free speech is not an unconditional constitutional right
+
+Thesis5: Free speech activities are subject to **time, place, and manner restrictions**
+
+Thesis6: Free speech activities will be **forcibly disrupted** if they interfere with university operations 

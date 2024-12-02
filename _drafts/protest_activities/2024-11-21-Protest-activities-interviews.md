@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2024-11-26 4:57 PM 
+updated_date: 2024-12-2 4:42 PM
 ---
 
 
@@ -45,7 +45,7 @@ updated_date: 2024-11-26 4:57 PM
 
 - Catherine Washington 
 
-- Asil Yassine
+
 
 - Thistle Boosinger
 
@@ -53,3 +53,10 @@ updated_date: 2024-11-26 4:57 PM
 ### Myers
 
 - Based on these lawsuits, has antisemitism in the last year been different than other years? Has it been more prevalent? 
+
+
+### Asil Yassine
+
+“I don’t think the arrests will lead to charges against me but the cases are still in limbo over my head,” Yassine said. “But the degree issue will set back my license by at least six months.”---What does this mean, she was not conferred in June, 2024? In other words even if the degree is delayed, if she is retroactively conferred in June then her license shouldn't be delayed. 
+
+What are the outcomes of the two arrests? 

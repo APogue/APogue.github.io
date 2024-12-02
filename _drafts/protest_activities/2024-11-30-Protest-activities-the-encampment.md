@@ -98,30 +98,7 @@ date: 2024-11-30 3:54 PM
 
 		- Heckling 
 
-### UCAC lack of condemnation of student orgs and members
 
-- UC Divest "shut it down" (police footage) [IG post](https://www.instagram.com/p/C51p_t2SMCH/?hl=en)
-
-	- UC Divest in the above claims that UCPD, LAPD, Culver City PD, and Santa Monica PD were all on the scene
-
-	- 100 plus cops were there
-	
-
-### Illustrate discrimination---treated as a gray area
-
-- March pig effigy incident
-
-- When "equal rights give way to free speech"---UCLA permits more extreme cases of discrimination
-
-	- Given the state of campus climate, by totality of circumstances, removal was appropriate 
-
-		- Did not remove it, waited to condemn it 
-
-		- Did not hold anyone accountable (UC Divest)
-
-	- Impactful discriminatory art at a larger-scale protest
-
-		- Made it into social media posts, Op-eds, news articles (which news articles?)
 
 
 ### The encampment 
