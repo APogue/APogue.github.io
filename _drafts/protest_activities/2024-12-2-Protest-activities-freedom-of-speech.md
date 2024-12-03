@@ -11,28 +11,6 @@ date: 2024-12-2 3:02 PM
 When neutrality protects no one, whose voices are truly being heard?"
 
 
-### Hook 
-
-"I'm going to rip your fucking head off
-
-You motherfucker
-
-You better fucking run from me terrorist"
-
-
-These were the words students were met with while on their way to a classroom. The students immediately left. Luckily campus officials were there to prevent further escalation. Had they not been, this incident could have ended far worse. But what is far worse? 
-
-
-It seems then the aggressors succeeded in getting what they wanted---to hurl insults, physically take belongings and throw them in the trash, and stop the students from accessing the classroom.
-
-
-
-
-
-
-
-(I can't tell if it's CSC or Student Affairs or some other private security)
-
 
 
 

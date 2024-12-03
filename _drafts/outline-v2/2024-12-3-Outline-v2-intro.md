@@ -1,0 +1,105 @@
+---
+layout: outline
+title: "Outline-v2-intro"
+published: true
+author: Alexie Pogue
+date: 2024-12-3 3:53 PM
+---
+
+
+When neutrality protects no one, whose voices are truly being heard?"
+
+
+## Hook 1
+
+Days after Oct 7th massacre, ...
+
+Oct 9th 
+
+"In a council meeting two days after the horrific October 7th terrorist attack, Jewish students shared how they had been affected, including students sharing that their loved ones were murdered."
+
+"there is so much propaganda that those are quote-unquote Israelis, those are settlers."
+
+## Pro-Palestinian groups
+
+### CAC
+
+On the same day as the council meeting, the Cultural Affairs Commission of UCLA posted on their official Instagram profile. The first line of the post read, "The Cultural Affairs Commission of UCLA stands in solidarity with Palestinians in their struggle for liberation from Israel." It also stated, "We also stand on the grounds that decolonization is not a metaphor. **Thus, we honor the Palestinians on the frontlines taking their land and sovereignty back!**"
+
+### SJP
+
+On that same day, Students for Justice in Palestine at UCLA posted on Instagram, "Emergency Teach-In On The Crisis in Palestine." "UCLA Professors Makdisi and Razack will be convening a teach-in Wednesday, October 11th both online and in person. **If you are a student seeking more clarity, information, and perspectives on recent escalations in Palestine, we highly encourage you to attend.**"
+
+## Hook 2
+
+Oct 11
+
+"If you are a student seeking more clarity, information, and perspectives on recent escalations in Palestine, we highly encourage you to attend."
+
+ "I'm going to rip your fucking head off
+
+You motherfucker
+
+You better fucking run from me terrorist"
+
+
+(I can't tell if it's CSC or Student Affairs or some other private security)
+
+This was the campus environment seen through the eyes of some students in the days following Oct 7th. Groups of students reacted to the events and to each other, and clashed with other non-affiliated parties traveling to campus. 
+
+
+## Chancellor Block
+
+Oct 13th 
+
+“Only six days ago, a heinous assault was perpetrated upon Israeli civilians by the terror organization Hamas, a despicable attack that included the killing of children and the elderly as well as the taking of innocent hostages. Earlier this week, I joined UC leadership in condemning this attack, and as new details have emerged, I can only denounce it further: This was a grievous act of malice and hate. It was, I am pained to say, the largest one-day killing of Jews since the end of the Holocaust.
+
+Since then, Israel has responded to the assault, leading to a significant loss of Palestinian lives and the troubling displacement of large numbers of innocent individuals.”
+
+“This week, the growing war has prompted lectures, rallies, protests, counter-protests and many intense debates on our campus. This will surely continue in the days to come, and we will stand firmly in support of our community members’ First Amendment rights to free expression. I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. **We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911.**”
+
+### r/UCLA
+
+Oct 13th
+
+"**How can we believe that the UC cares about both Palestinian lives and Israeli lives**, if the chancellor puts out this statement. "Grievous" "malice" "despicable" vs. "troubling". Are you joking?"
+
+"They do care about all lives. However not denouncing Hamas when it's a well known terrorist group and a religious extremist group would be disgusting."
+
+"You're directing attention away from the point. They denounced Hamas. I never said they shouldn't do so. However, they DID NOT denounce the ethnic cleansing that's been ensuing since. That's the point. I'm convinced you're choosing to be dense rn."
+
+### Response SJP
+
+Oct 16
+
+"In Chancellor Gene Block's recent statement via mass email, the UC perpetuates Zionist rhetoric by justifying the brutal occupation and ethnic cleansing of the Palestinian people, naming the Zionist regime's genocidal attacks on Gaza as simply a response to "terrorist" attacks. **However, we know that Al-Aqsa Flood is not unprovoked.** It is a response to over 75 years of brutal Zionist colonization, occupation, ethnic cleansing, the denial of Palestinian refugees' right to return to their ancestral homeland, relentless attacks on Al-Aqsa Mosque, and indiscriminate bombardment."
+
+
+## UCLA policy
+
+## Hook 3
+
+ Nov 8th incident, [Jewish students express concern over antisemitism on UCLA campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
+
+[Los Angeles Magazine article](https://lamag.com/news/ucla-condemns-pro-palestinian-student-protesters-antisemitic-behavior), dated Nov 12, that states students “went viral online Friday for screaming ‘beat that fucking Jew’ through a megaphone while bashing a piñata bearing an image of Israeli Prime Minister Benjamin Netanyahu.”"
+
+
+## Chancellor Block
+
+The Nov 8th incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th, although the previous incident was not explicitly condemned. 
+
+Nov 10th
+
+"Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
+
+"At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
+
+### Response by a student in the Daily Bruin dated Nov 19
+
+"“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. 
+
+They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than Palestinian students.”" 
+
+
+
+## Comparison 
