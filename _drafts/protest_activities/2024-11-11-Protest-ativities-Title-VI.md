@@ -118,3 +118,14 @@ updated_date: 2024-11-26 5:24 PM
 
 	- Like Title IX, Title VI should be expanded, and mandatory
 
+
+
+### Civil liability standards
+
+- [CRS Davis application to Title VI](https://crsreports.congress.gov/product/pdf/LSB/LSB11087)
+
+    - deliberate indifference standard
+
+- [Justice.gov intentional discrimination](https://www.justice.gov/crt/fcs/T6Manual6#:~:text=Courts%20have%20developed%20a%20number,2011)
+
+    - "Yes, Title VI generally requires proof of intentional discrimination to establish liability in court, and this standard is based on the Fourteenth Amendment's Equal Protection Clause, meaning that the legal analysis for proving a Title VI claim is largely aligned with how intentional discrimination is assessed under the Constitution;"

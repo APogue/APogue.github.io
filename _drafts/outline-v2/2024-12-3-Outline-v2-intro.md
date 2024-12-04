@@ -103,7 +103,7 @@ From an academic lens, there is no what they "are," based on societal qualificat
 
 ### The Reddit exchange
 
-We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellors word choice because it is unclear if on any level he is "factoring in" Israel's close alliance with the United States. 
+We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellors word choice because it is unclear if on any level he or she is "factoring in" Israel's close alliance with the United States. 
 
 Americans, including myself, who have factored Israel in, might looks at the statement and not even notice the disparate language. Even acknowledging the loss of Palestinian lives less than a week after Oct 7th shows more balance than one might ever see from the mainstream media or certain government officials. 
 
@@ -111,13 +111,6 @@ This "factoring in" is also a societal construct. At universities, when we clash
 
 ### CAC 
 
-- [CRS Davis application to Title VI](https://crsreports.congress.gov/product/pdf/LSB/LSB11087)
-
-    - deliberate indifference standard
-
-- [Justice.gov intentional discrimination](https://www.justice.gov/crt/fcs/T6Manual6#:~:text=Courts%20have%20developed%20a%20number,2011)
-
-    - "Yes, Title VI generally requires proof of intentional discrimination to establish liability in court, and this standard is based on the Fourteenth Amendment's Equal Protection Clause, meaning that the legal analysis for proving a Title VI claim is largely aligned with how intentional discrimination is assessed under the Constitution;"
 
 If it's clear that the First Amendment applies, how might UCLA view the CAC Commissioner's conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
 
