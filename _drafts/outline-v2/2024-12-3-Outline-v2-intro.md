@@ -111,8 +111,17 @@ This "factoring in" is also a societal construct. At universities, when we clash
 
 ### CAC 
 
+In the Oct 9th statement, the CAC also states, "Palestinians should be recognized for their care for the oppressed, and not levied with accusations that conflate the political ideology of zionism with Judaism." It is unclear here how they are defining zionism. But, based on the statement "Israel is a colonial power that oppresses Palestinians...We oppose this oppressive settler power," it is assumed that Israel is considered a Zionist entity and its statehood is illegitimate in the eyes of CAC. This is a political opinion, and it is protected by the First Amendment. 
 
-If it's clear that the First Amendment applies, how might UCLA view the CAC Commissioner's conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
+In the exchange at the council meeting, however, **the CAC Commissioner participated in discrimination based on national origin**.
+
+Her statement collapsed nationality into ideology, and assumed anyone who is Israeli is inherently supportive of Zionist policies, regardless of their personal beliefs or political positions. It ignored the diversity of thought within Israel, where there is a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians.  
+
+Her words **implied that Israelis "deserved to die"** by virtue of being Israeli alone. 
+
+The discrimination is clearer if we again use UCLA's two way street principle. Using the commissioner's logic, we as Americans are deserving of harm at the hands of the original inhabitants of this land. Moreover, the commissioner, who is avidly against settler-colonialism in any form, also deserves to die. It is clear here that I would be discriminating because she is American and for no other reason. 
+
+If it's clear that the commissioner discriminated, how might UCLA view her conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
 
 Student speech is protected under the First Amendment, even if it is offensive or controversial.
 
