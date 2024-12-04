@@ -3,12 +3,13 @@ layout: outline
 title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
-date: 2024-12-3 3:53 PM
+date: 2024-12-3 7:01 PM
 ---
 
 
-When neutrality protects no one, whose voices are truly being heard?"
+When neutrality protects no one, whose voices are truly being heard?
 
+This was the campus environment seen through the eyes of some students in the days following Oct 7th. Groups of students reacted to the events and to each other, and clashed with other non-affiliated parties traveling to campus.
 
 ## Hook 1
 
@@ -34,8 +35,6 @@ On that same day, Students for Justice in Palestine at UCLA posted on Instagram,
 
 Oct 11
 
-"If you are a student seeking more clarity, information, and perspectives on recent escalations in Palestine, we highly encourage you to attend."
-
  "I'm going to rip your fucking head off
 
 You motherfucker
@@ -44,8 +43,6 @@ You better fucking run from me terrorist"
 
 
 (I can't tell if it's CSC or Student Affairs or some other private security)
-
-This was the campus environment seen through the eyes of some students in the days following Oct 7th. Groups of students reacted to the events and to each other, and clashed with other non-affiliated parties traveling to campus. 
 
 
 ## Chancellor Block
@@ -77,6 +74,52 @@ Oct 16
 
 ## UCLA policy
 
+### The orthodoxy 
+
+### UCLA philosophy and policy 
+
+UCLA core mission is to protect academic freedom. 
+
+Academic freedom is the **unfettered, free exchange of ideas between any two entities**---the lifeblood of human evolution. While in "everyday" exchanges knowledge may be qualified for the sake of orthodoxy, conformity or propriety, this is a societal construct. **Truth is absolute.** This means it may be shocking, it may come with hate, and on our quest to protect it, it may not be present at all.
+
+In the United States, free speech and academic freedom go hand in hand, they protect and facilitate one another, they are inextricably linked.
+
+“The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to the university’s fundamental mission, “which is to discover knowledge and to disseminate it to its students and to society at large.””
+
+
+“Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most definitely applies.”
+
+### SJP 
+
+Their viewpoint is extreme but useful in understanding academic freedom. Why is a political position that sides with a known "terrorist" organization protected by the 1st Amendment? We use UCLA's "two way street" principle. The United States does not recognize Palestine as a sovereign nation, and any military group involved in the killing of innocent civilians are terrorists. Then what of the same activity that was sanctioned by the United States or its forefathers? If we define "terrorist" as the killing of innocent people over contested land, have we not also been "terrorists" at one time or another in our history? (For thousands of years) academic freedom reserves the right to study these ideas, free from oppression or persecution, free from what the government tells us. 
+
+Therefore, if through the American lens Hamas are terrorists, but through a Palestinian lens Americans have been terrorists, or Israelis for that matter, then the word terrorist for moral purposes has lost all meaning. 
+
+From an academic lens, there is no what they "are," based on societal qualification. There is only what they do and do not do. We understand any entity by the first principles of their actions based only in factual evidence. That is truth. 
+
+### CAC and the non-affiliates
+
+
+**“But as a descriptive statement of law, the assertion “hate speech is not free speech” is just plain wrong.** The Supreme Court has repeatedly struck down laws—including university “speech codes”— that penalize or otherwise regulate “hate speech.””
+
+However, the
+
+“Equal Protection Clause of the Fourteenth Amendment…But this **means freedom of speech can sometimes be constrained to further the right to equality.** The reality—and challenge—is that sometimes equality gives way to freedom of speech, and vice versa.”
+
+“**What counts as “harassment?”** 
+
+
+“While there is some uncertainty in the law with respect to what counts as harassment, UCLA Student Conduct Code (Section 102.11) defines harassment as “conduct that **is so severe and/or pervasive, and objectively offensive, and that so substantially impairs a person’s access to University programs or activities that the person is effectively denied equal access to the University’s resources and opportunities.**””
+
+But, 
+
+Those who seek to create a whole new exception or increase the scope of recognized exceptions face an uphill battle. For good or bad, **the Supreme Court has interpreted what counts as “unprotected speech” and “less protected speech” narrowly and is likely to continue doing so in the foreseeable future.**” (This is the civil liability standard not the Title VI standard)
+
+
+It remains true that,
+
+“Remember that **certain forms of speech, such as true threats and defamation**, are unprotected under the First Amendment. There’s a reason why these forms of speech are unprotected (or less protected); as a general rule, it’s understood that they cause concrete harm and provide little if any social value. **UCLA is largely free to regulate those forms of speech** and it should attempt to do so.”
+
 ## Hook 3
 
  Nov 8th incident, [Jewish students express concern over antisemitism on UCLA campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
@@ -92,13 +135,13 @@ Nov 10th
 
 "Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
 
-"At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
+"At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. **While this may be protected speech under the First Amendment**, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
 
 ### Response by a student in the Daily Bruin dated Nov 19
 
 "“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. 
 
-They added that they feel the administration is at least in part to blame for inciting violence on campus because it has seemed to support Jewish students in its statements more than Palestinian students.”" 
+They added that they feel **the administration is at least in part to blame for inciting violence on campus** because it has seemed to support Jewish students in its statements more than Palestinian students.”" 
 
 
 

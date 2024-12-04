@@ -201,10 +201,6 @@ Yassine signed an agreement with UCLA to not violate its policies again, which l
 
 		- Pop culture is also at war with intellectualism right now (including Musk and Shapiro)
 
-	
-	3. UCLA "expects" students to function autonomously using value systems in place
-
-
 
 
 - How does UCLA policy and enforcement support the above? Where there is a lack of systems, what patterns have emerged? 

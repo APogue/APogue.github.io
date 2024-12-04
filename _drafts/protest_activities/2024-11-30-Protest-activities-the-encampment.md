@@ -19,15 +19,15 @@ date: 2024-11-30 3:54 PM
 
 - Its dark secrets 
 
-		- By day
+	- By day
 
-				- Right off the bat discrimination
+		- Right off the bat discrimination
 
-		- Blockading 
+	- Blockading 
 
-		- By night 
+	- By night 
 
-				- non-affiliates
+		- non-affiliates
 
 ### Main players
 
