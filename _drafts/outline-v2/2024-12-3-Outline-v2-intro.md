@@ -99,7 +99,6 @@ From an academic lens, there is no what they "are," based on societal qualificat
 
 ### CAC and the non-affiliates
 
-
 **“But as a descriptive statement of law, the assertion “hate speech is not free speech” is just plain wrong.** The Supreme Court has repeatedly struck down laws—including university “speech codes”— that penalize or otherwise regulate “hate speech.””
 
 However, the
