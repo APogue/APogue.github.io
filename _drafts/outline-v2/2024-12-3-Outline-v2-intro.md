@@ -4,6 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
+updated_date: 2024-12-4 4:00 PM
 ---
 
 
@@ -42,10 +43,12 @@ You motherfucker
 You better fucking run from me terrorist"
 
 
-(I can't tell if it's CSC or Student Affairs or some other private security)
+(Student Affairs)
 
 
 ## Chancellor Block
+
+Chancellor Block responded to the Oct 7th attack on Oct 13th.
 
 Oct 13th 
 
@@ -74,19 +77,19 @@ Oct 16
 
 ## UCLA policy
 
-### The orthodoxy 
-
 ### UCLA philosophy and policy 
 
 UCLA core mission is to protect academic freedom. 
 
-Academic freedom is the **unfettered, free exchange of ideas between any two entities**---the lifeblood of human evolution. While in "everyday" exchanges knowledge may be qualified for the sake of orthodoxy, conformity or propriety, this is a societal construct. **Truth is absolute.** This means it may be shocking, it may come with hate, and on our quest to protect it, it may not be present at all.
+Academic freedom is the **unfettered, free exchange of ideas between any two entities**---the lifeblood of human evolution. 
 
-In the United States, free speech and academic freedom go hand in hand, they protect and facilitate one another, they are inextricably linked.
+While in "everyday" exchanges knowledge may be qualified for the sake of orthodoxy, conformity or propriety, this is a societal construct. Truth is absolute. This means it may be shocking, it may come with hate, and on our quest to protect it, it may not be present at all.
+
+In the United States, free speech and academic freedom go hand in hand, they protect and facilitate one another.
 
 “The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to the university’s fundamental mission, “which is to discover knowledge and to disseminate it to its students and to society at large.””
 
-To be on the cutting edge of new ideas.
+Discovering knowledge puts the University on the cutting edge of new ideas.
 
 “Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most definitely applies.”
 
@@ -98,6 +101,14 @@ Therefore, if through the American lens Hamas are terrorists, but through a Pale
 
 From an academic lens, there is no what they "are," based on societal qualification. There is only what they do and do not do. We understand any entity by the first principles of their actions based only in factual evidence. That is truth. 
 
+### The Reddit exchange
+
+We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellors word choice because it is unclear if on any level he is "factoring in" Israel's close alliance with the United States. 
+
+Americans, including myself, who have factored Israel in, might looks at the statement and not even notice the disparate language. Even acknowledging the loss of Palestinian lives less than a week after Oct 7th shows more balance than one might ever see from the mainstream media or certain government officials. 
+
+This "factoring in" is also a societal construct. At universities, when we clash and these constructs break away, the truth lies somewhere within. 
+
 ### CAC 
 
 - [CRS Davis application to Title VI](https://crsreports.congress.gov/product/pdf/LSB/LSB11087)
@@ -108,7 +119,7 @@ From an academic lens, there is no what they "are," based on societal qualificat
 
     - "Yes, Title VI generally requires proof of intentional discrimination to establish liability in court, and this standard is based on the Fourteenth Amendment's Equal Protection Clause, meaning that the legal analysis for proving a Title VI claim is largely aligned with how intentional discrimination is assessed under the Constitution;"
 
-If it's clear that the 1st Amendment applies, how might UCLA view the CAC Commissioner's conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
+If it's clear that the First Amendment applies, how might UCLA view the CAC Commissioner's conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
 
 Student speech is protected under the First Amendment, even if it is offensive or controversial.
 
