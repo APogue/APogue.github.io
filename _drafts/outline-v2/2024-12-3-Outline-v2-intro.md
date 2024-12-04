@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-4 4:00 PM
+updated_date: 2024-12-4 6:00 PM
 ---
 
 
@@ -111,17 +111,17 @@ This "factoring in" is also a societal construct. At universities, when we clash
 
 ### CAC 
 
-In the Oct 9th statement, the CAC also states, "Palestinians should be recognized for their care for the oppressed, and not levied with accusations that conflate the political ideology of zionism with Judaism." It is unclear here how they are defining zionism. But, based on the statement "Israel is a colonial power that oppresses Palestinians...We oppose this oppressive settler power," it is assumed that Israel is considered a Zionist entity and its statehood is illegitimate in the eyes of CAC. This is a political opinion, and it is protected by the First Amendment. 
+In the Oct 9th statement, CAC also states, "Palestinians should be recognized for their care for the oppressed, and not levied with accusations that conflate the political ideology of zionism with Judaism." It is unclear here how they are defining zionism. But, based on the statement "Israel is a colonial power that oppresses Palestinians...We oppose this oppressive settler power," it is assumed that Israel is considered a Zionist entity and its statehood is illegitimate in the eyes of CAC. This is a political opinion, and it is protected by the First Amendment. 
 
 In the exchange at the council meeting, however, **the CAC Commissioner participated in discrimination based on national origin**.
 
-Her statement collapsed nationality into ideology, and assumed anyone who is Israeli is inherently supportive of Zionist policies, regardless of their personal beliefs or political positions. It ignored the diversity of thought within Israel, where there is a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians.  
+Her statement collapsed nationality into ideology, and assumed anyone who is Israeli is inherently supportive of Zionist policies, regardless of their personal beliefs or political positions. It ignored any possibility for diversity of thought within Israel, where a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians may exist.  
 
-Her words **implied that Israelis "deserved to die"** by virtue of being Israeli alone. 
+Her words **implied that Israelis "deserve to die"** by virtue of being Israeli alone. 
 
-The discrimination is clearer if we again use UCLA's two way street principle. Using the commissioner's logic, we as Americans are deserving of harm at the hands of the original inhabitants of this land. Moreover, the commissioner, who is avidly against settler-colonialism in any form, also deserves to die. It is clear here that I would be discriminating because she is American and for no other reason. 
+The discrimination becomes clearer when applying UCLA’s two-way street principle. Following the commissioner's logic, Americans—including those strongly opposed to settler-colonialism—would also be deserving of harm solely due to their nationality and its historical context.
 
-If it's clear that the commissioner discriminated, how might UCLA view her conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
+If the commissioner discriminated, how might UCLA view her conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
 
 Student speech is protected under the First Amendment, even if it is offensive or controversial.
 
@@ -152,7 +152,7 @@ Mild or isolated offensive speech, even if discriminatory, is unlikely to overri
 
 What about students who were confronted by non-affiliated visitors at the teach-in?
 
-While student speech is protected under the First Amendment, even if offensive or controversial, it cannot cross the line into true harassment or violence.
+While speech is protected under the First Amendment, even if offensive or controversial, it cannot cross the line into true harassment or violence.
 
 “Remember that **certain forms of speech, such as true threats...**, are unprotected under the First Amendment. There’s a reason why these forms of speech are unprotected (or less protected); as a general rule, it’s understood that they cause concrete harm and provide little if any social value. **UCLA is largely free to regulate those forms of speech** and it should attempt to do so.”
 
