@@ -235,11 +235,7 @@ It doesn't help when far-Right news outlets, who regularly engage in hyperbole, 
 
 Or when the ADL claims that anti-Zionism is antisemitism but the ACLU and other legislature have pushed back calling its definition too broad. 
 
-Where is the truth?
-
-
-
-
+Where is the truth? At this point we risk tuning out any claims of antisemitism for any of the above reasons. 
 
 The same article brought up an incident that occurred days before,
 
