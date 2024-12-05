@@ -142,7 +142,7 @@ It is the case that innocent civilians have been murdered as part of Israel's de
 
 If, at its core, land and sovereignty are underlying issues in the this conflict, then America's history also harbors sordid acts---the murder and displacement of innocent civilians---over contested land. 
   
-Accordingly, if any party may deem another "terrorist," depending on the lens used in judgement then the word for moral purposes has lost all meaning. 
+Accordingly, if any party may deem another "terrorist" depending on the lens used in judgement, then the word for moral purposes has lost all meaning. 
 
 From an academic lens, we need not know what they "are" based on a societal qualification. We understand an
 entity by the first principles of their actions based only in factual evidence. 
@@ -160,7 +160,7 @@ This "factoring in" is also a societal construct. At universities, when we clash
 
 ### CAC 
 
-In the Oct 9th statement, CAC also states, "Palestinians should be recognized for their care for the oppressed, and not levied with accusations that conflate the political ideology of zionism with Judaism." It is unclear here how they are defining zionism. But, based on the statement "Israel is a colonial power that oppresses Palestinians...We oppose this oppressive settler power," it is assumed that Israel is considered a Zionist entity and its statehood is illegitimate in the eyes of CAC. This is a political opinion, and it is protected by the First Amendment. 
+In the Oct 9th statement, CAC also states, "Palestinians should be recognized for their care for the oppressed, and not levied with accusations that conflate the political ideology of zionism with Judaism." It is unclear here how they are defining "zionism." But, based on the statement "Israel is a colonial power that oppresses Palestinians...We oppose this oppressive settler power," it is assumed that Israel is considered a Zionist entity and its statehood is illegitimate in the eyes of CAC. This is a political opinion, and it is protected by the First Amendment. 
 
 In the exchange at the council meeting, however, **the CAC Commissioner participated in discrimination based on national origin**.
 
