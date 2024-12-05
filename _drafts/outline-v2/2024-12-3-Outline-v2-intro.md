@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-4 11:00 PM
+updated_date: 2024-12-5 3:54 PM
 ---
 
 
@@ -109,11 +109,10 @@ To fulfill this mission, UCLA is committed to academic freedom in its fullest te
 to information, free and lively debate conducted with mutual respect for individuals, and freedom from 
 intolerance."
 
-Academic freedom relies on the unfettered, free exchange of ideas in the search for truth. 
+This is a bit sugarcoated. In its search for truth, academia permits an unfettered exchange of ideas. 
 
-While "everyday" exchanges may be qualified for the sake of orthodoxy or 
-propriety, this is a societal construct. Truth is absolute. This means it may be shocking or come 
-with hate, and in our search to find it, it may not be present at all.
+This is in contrast to "everyday" exchanges which may be qualified for the sake of orthodoxy or 
+propriety---a societal construct. Truth is absolute. This means it may be shocking or come with hate, and in our search to find it, it may not be present at all.
 
 Naturally then, academic freedom and free speech go hand in hand, they protect and 
 facilitate one another.
@@ -123,7 +122,7 @@ the university’s fundamental mission, “which is to discover knowledge and to
 to its students and to society at large.””
 
 Discovering knowledge puts the university on the cutting edge of new ideas. The edge is not a place where 
-everyone may be "comfortable" and so it relies on the First Amendment to function. 
+everyone may be "comfortable;" consequently UCLA relies on the First Amendment to function. 
 
 “Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, 
 UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 
@@ -131,25 +130,29 @@ definitely applies.”
 
 ### SJP 
 
-Their viewpoint is useful in understanding academic freedom. To understand why a political 
+To understand why a political 
 position that sides with a known terrorist organization is protected by the First Amendment
 we use UCLA's "two way street" principle. 
+
+Israel and the United States do not recognize Hamas. They are a de facto government in Gaza. Hamas in turn does not recognize Israel.  
+
+While Gaza has not been directly occupied since 2005, the combination of Israel’s military operations, the perimeter blockade’s humanitarian toll, and border violence has led to significant Palestinian deaths, which groups like Hamas cite as part of their grievances.
+
+It is the case that innocent civilians have been murdered as part of Israel's de facto occupation of Gaza, and it is also the case that innocent civilians were murdered in the Hamas attack within Israel's border. 
+
+If, at its core, land and sovereignty are underlying issues in the this conflict, then America's history also harbors sordid acts---the murder and displacement of innocent civilians---over contested land. 
   
-While land and sovereignty are underlying issues in the Israeli-Palestinian conflict, the specific operation’s narrative emphasized religious and humanitarian grievances rather than purely territorial disputes.
+Accordingly, if any party may deem another "terrorist," depending on the lens used in judgement then the word for moral purposes has lost all meaning. 
 
-Academic freedom reserves the right to study these 
-ideas, free from oppression or persecution, free from what the government tells us. 
+From an academic lens, we need not know what they "are" based on a societal qualification. We understand an
+entity by the first principles of their actions based only in factual evidence. 
 
-Therefore, if through the American lens Hamas are terrorists, but through a Palestinian lens Americans, 
-or Israelis for that matter, have been terrorists, then the word terrorist for moral purposes has lost 
-all meaning. 
-
-From an academic lens, there is no what they "are," based on a societal qualification. We understand any 
-entity by the first principles of their actions based only in factual evidence. It is how we seek truth.  
+Since the beginning of time, academics reserved the right to study such ideas, free from oppression or persecution, free from what the government or society tells us. 
+ 
 
 ### The Reddit exchange
 
-We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellors word choice because it is unclear if on any level he or she is "factoring in" Israel's close alliance with the United States. 
+We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellor's word choice based on their own experience. It is unclear if on any level they're "factoring in" Israel's close alliance with the United States. 
 
 Americans, including myself, who have factored Israel in, might looks at the statement and not even notice the disparate language. Even acknowledging the loss of Palestinian lives less than a week after Oct 7th shows more balance than one might ever see from the mainstream media or certain government officials. 
 
@@ -172,6 +175,8 @@ If the commissioner discriminated, how might UCLA view her conduct? Isn't she al
 Student speech is protected under the First Amendment, even if it is offensive or controversial.
 
 **“But as a descriptive statement of law, the assertion “hate speech is not free speech” is just plain wrong.** The Supreme Court has repeatedly struck down laws—including university “speech codes”— that penalize or otherwise regulate “hate speech.””
+
+“There is no exception from the First Amendment on the basis of the hateful nature of a speaker’s statements. On its own, the fact that speech may cause emotional harm to others cannot provide the basis for UC to prohibit it”
 
 There are exceptions,
 
