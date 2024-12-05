@@ -231,13 +231,13 @@ The question becomes whether the entire truth can get lost within prevailing the
 
 Anyone not deeply involved may only hear, "people are claiming antisemitism when it's only criticism of Israel."
 
-It doesn't help when far-Right news outlets, who regularly engage in hyperbole, co-opt the story in a fight against the "radical Left." "The radical left is being antisemitic, they hate all white oppressors."
+It doesn't help when far-Right news outlets, who regularly engage in hyperbole, co-opt the story in a fight against the "radical Left." "The radical Left is being antisemitic, they hate all white oppressors."
 
 Or when the ADL claims that anti-Zionism is antisemitism but the ACLU and other legislature have pushed back calling its definition too broad. 
 
 Where is the truth? At this point we risk tuning out any claims of antisemitism for any of the above reasons. 
 
-The same article brought up an incident that occurred days before,
+The same article brought up an incident that occurred 10 days before,
 
 "At a Nov. 8 rally in support of Palestine, which was hosted by Students for Justice in Palestine and UC Divest Coalition at UCLA, participants were invited to destroy piñatas with pictures of United States President Joe Biden and Israeli Prime Minister Benjamin Netanyahu on them."
 
