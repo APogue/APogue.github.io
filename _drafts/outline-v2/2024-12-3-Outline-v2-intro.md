@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-5 5:22 PM
+updated_date: 2024-12-5 5:54 PM
 ---
 
 
@@ -213,11 +213,33 @@ Discriminatory actions or speech that escalate to threats, intimidation, or phys
 
 In a Daily Bruin article,'Jewish students express concern over antisemitism on UCLA campus', published on Nov 19th, 
 
-"Benjamin Kersten, a member of Jewish Voice for Peace at UCLA – a coalition of Jewish students who support Palestinian liberation – said he thinks it is important to distinguish between antisemitism and anti-Zionism. However, they added that they and their organization believe that Jewish grief is being used as a justification for oppression in the Gaza Strip.
+"**Benjamin Kersten, a member of Jewish Voice for Peace at UCLA** – a coalition of Jewish students who support Palestinian liberation – said he thinks it is important to distinguish between antisemitism and anti-Zionism. However, they added that they and their organization believe that **Jewish grief is being used as a justification for oppression in the Gaza Strip.**
 
-“There’s been a lot of repression on campus and a lot of claims that criticism of the state of Israel or that anti-Zionism is antisemitic,” Kersten said. “We’re here to very soundly say that that’s not the case. We’re loud and proud anti-Zionist Jews who feel very rooted in our Jewishness and in our values of equality and justice.”"
+“There’s been a lot of repression on campus and a lot of claims that criticism of the state of Israel or that anti-Zionism is antisemitic,” Kersten said. “We’re here to very soundly say that that’s not the case. **We’re loud and proud anti-Zionist Jews** who feel very rooted in our Jewishness and in our values of equality and justice.”"
 
 ## Hook 4
+
+The statement by Kersten demonstrates the diversity of thought within the student body at UCLA. His point about Jewish grief, the repression of criticism of Israel and its conflation with antisemitism may be valid. This could have been happening. 
+
+"Often people emphasize that the antidote to (bad, including hateful) speech is more (good)
+speech. They reassure us that in the “marketplace of ideas,” truth will always win out. But
+that’s an empirical claim, and if inspected carefully, seems naive. In the marketplace of
+music, fashion, and food, winners are often determined by popularity, not by what’s best,
+the highest quality, or the most truthful."
+
+The question becomes whether the entire truth can get lost within prevailing theories, or whether the theories themselves can change the way we see the truth. 
+
+Anyone not deeply involved may only hear, "people are claiming antisemitism when it's only criticism of Israel."
+
+It doesn't help when far-Right news outlets, who regularly engage in hyperbole, co-opt the story in a fight against the "radical Left." "The radical left is being antisemitic, they hate all white oppressors."
+
+Or when the ADL claims that anti-Zionism is antisemitism but the ACLU and other legislature have pushed back calling its definition too broad. 
+
+Where is the truth?
+
+
+
+
 
 The same article brought up an incident that occurred days before,
 
