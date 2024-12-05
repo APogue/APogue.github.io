@@ -48,7 +48,7 @@ You better fucking run from me terrorist"
 
 ## Chancellor Block
 
-Chancellor Block responded to the Oct 7th attack on Oct 13th.
+Chancellor Block responded to the Oct 7th attack a few days later.
 
 Oct 13th 
 
@@ -61,6 +61,8 @@ Since then, Israel has responded to the assault, **leading to a significant loss
 ### r/UCLA
 
 Oct 13th
+
+Within hours discussions began in response. 
 
 "**How can we believe that the UC cares about both Palestinian lives and Israeli lives**, if the chancellor puts out this statement. "Grievous" "malice" "despicable" vs. "troubling". Are you joking?"
 
@@ -79,23 +81,46 @@ Oct 16
 
 ### UCLA philosophy and policy 
 
-UCLA core mission is to protect academic freedom. 
+The incidents that occurred and reactions from students can be better understood within the
+context of UCLA's mission.
 
-Academic freedom is the **unfettered, free exchange of ideas between any two entities**---the lifeblood of human evolution. 
+"UCLA’s primary purpose as a public research university is the creation, dissemination, preservation and 
+application of knowledge for the betterment of our global society.
 
-While in "everyday" exchanges knowledge may be qualified for the sake of orthodoxy, conformity or propriety, this is a societal construct. Truth is absolute. This means it may be shocking, it may come with hate, and on our quest to protect it, it may not be present at all.
+To fulfill this mission, UCLA is committed to academic freedom in its fullest terms: We value open access 
+to information, free and lively debate conducted with mutual respect for individuals, and freedom from 
+intolerance."
 
-In the United States, free speech and academic freedom go hand in hand, they protect and facilitate one another.
+Academic freedom relies on the unfettered, free exchange of ideas in the search for truth. 
 
-“The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to the university’s fundamental mission, “which is to discover knowledge and to disseminate it to its students and to society at large.””
+While in "everyday" exchanges knowledge may be qualified for the sake of orthodoxy or 
+propriety, this is a societal construct. Truth is absolute. This means it may be shocking, it may come 
+with hate, and in our search to find it, it may not be present at all.
 
-Discovering knowledge puts the University on the cutting edge of new ideas.
+Naturally then, academic freedom and free speech go hand in hand, they protect and 
+facilitate one another.
 
-“Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most definitely applies.”
+“The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to 
+the university’s fundamental mission, “which is to discover knowledge and to disseminate it 
+to its students and to society at large.””
+
+Discovering knowledge puts the university on the cutting edge of new ideas. The edge is not a place where 
+everyone may be "comfortable" and so it relies on the First Amendment to function. 
+
+“Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, 
+UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 
+definitely applies.”
 
 ### SJP 
 
-Their viewpoint is extreme but useful in understanding academic freedom. Why is a political position that sides with a known "terrorist" organization protected by the First Amendment? We use UCLA's "two way street" principle. The United States does not recognize Palestine as a sovereign nation, and any military group involved in the killing of innocent civilians are terrorists. Then what of the same activity that was sanctioned by the United States or its forefathers? If we define "terrorist" as the killing of innocent people over contested land, have we not also been "terrorists" at one time or another in our history? (For thousands of years) academic freedom reserves the right to study these ideas, free from oppression or persecution, free from what the government tells us. 
+Their viewpoint is extreme but useful in understanding academic freedom. Why is a political position 
+that sides with a known "terrorist" organization protected by the First Amendment? We use UCLA's 
+"two way street" principle. The United States does not recognize Palestine as a sovereign nation, 
+and any military group involved in the killing of innocent civilians are terrorists. Then what of 
+the same activity that was sanctioned by the United States or its forefathers? If we define "terrorist" 
+as the killing of innocent people over contested land, have we not also been "terrorists" at one time 
+or another in our history? (For thousands of years) academic freedom reserves the right to study these 
+ideas, free from oppression or persecution, free from what the government tells us. 
 
 Therefore, if through the American lens Hamas are terrorists, but through a Palestinian lens Americans have been terrorists, or Israelis for that matter, then the word terrorist for moral purposes has lost all meaning. 
 
