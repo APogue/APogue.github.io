@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-5 3:54 PM
+updated_date: 2024-12-5 5:22 PM
 ---
 
 
@@ -154,7 +154,7 @@ Since the beginning of time, academics reserved the right to study such ideas, f
 
 We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellor's word choice based on their own experience. It is unclear if on any level they're "factoring in" Israel's close alliance with the United States. 
 
-Americans, including myself, who have factored Israel in, might looks at the statement and not even notice the disparate language. Even acknowledging the loss of Palestinian lives less than a week after Oct 7th shows more balance than one might ever see from the mainstream media or certain government officials. 
+Americans, including myself, who have factored Israel in, might looks at the statement and not notice the disparate language. Even acknowledging the loss of Palestinian lives less than a week after Oct 7th shows more balance than one might ever see from the mainstream media or certain government officials. 
 
 This "factoring in" is also a societal construct. At universities, when we clash and these constructs break away, the truth lies somewhere within. 
 
@@ -209,8 +209,23 @@ While speech is protected under the First Amendment, even if offensive or contro
 
 Discriminatory actions or speech that escalate to threats, intimidation, or physical violence are extremely serious. This incident was no exception. 
 
+## Hook 3 
 
-## Hook 3
+In a Daily Bruin article,'Jewish students express concern over antisemitism on UCLA campus', published on Nov 19th, 
+
+"Benjamin Kersten, a member of Jewish Voice for Peace at UCLA – a coalition of Jewish students who support Palestinian liberation – said he thinks it is important to distinguish between antisemitism and anti-Zionism. However, they added that they and their organization believe that Jewish grief is being used as a justification for oppression in the Gaza Strip.
+
+“There’s been a lot of repression on campus and a lot of claims that criticism of the state of Israel or that anti-Zionism is antisemitic,” Kersten said. “We’re here to very soundly say that that’s not the case. We’re loud and proud anti-Zionist Jews who feel very rooted in our Jewishness and in our values of equality and justice.”"
+
+## Hook 4
+
+The same article brought up an incident that occurred days before,
+
+"At a Nov. 8 rally in support of Palestine, which was hosted by Students for Justice in Palestine and UC Divest Coalition at UCLA, participants were invited to destroy piñatas with pictures of United States President Joe Biden and Israeli Prime Minister Benjamin Netanyahu on them."
+
+As participants crowded around a pinata of Netanyahu an individual holding a megaphone yelled,
+
+"Beat that fucking Jew!"
 
  Nov 8th incident, [Jewish students express concern over antisemitism on UCLA campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
 
@@ -219,7 +234,7 @@ Discriminatory actions or speech that escalate to threats, intimidation, or phys
 
 ## Chancellor Block
 
-The Nov 8th incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th, although the previous incident was not explicitly condemned. 
+The incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th, although the previous incident was not explicitly condemned. 
 
 Nov 10th
 
@@ -229,9 +244,12 @@ Nov 10th
 
 ### Response by a student in the Daily Bruin dated Nov 19
 
+In a Daily Bruin article,'Students voice worries over Islamophobia on UCLA campus', also published on Nov 19th, a Palestinian student referenced Block's Oct 13th statement,
+
 "“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. 
 
 They added that they feel **the administration is at least in part to blame for inciting violence on campus** because it has seemed to support Jewish students in its statements more than Palestinian students.”" 
 
 ## Comparison 
 
+Is there any weight to this student's claim?
