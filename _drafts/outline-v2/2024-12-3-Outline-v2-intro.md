@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-6 11:50 AM
+updated_date: 2024-12-6 1:29 PM
 ---
 
 
@@ -236,7 +236,7 @@ The question becomes whether the entire truth can get lost within prevailing the
 
 Anyone not deeply involved may only hear, "people are claiming antisemitism when it's only criticism of Israel."
 
-It doesn't help when far-Right news outlets, who regularly engage in hyperbole, co-opt the story in a fight against the "radical Left." "The radical Left is being antisemitic, they hate all White oppressors"
+It doesn't help when far-Right news outlets, who regularly engage in hyperbole, co-opt the story in a fight against the "radical Left." "The radical Left is being antisemitic, they hate all White oppressors."
 
 Or when the ADL claims that anti-Zionism is antisemitism but the ACLU and other legislature have pushed back calling its definition too broad. 
 
@@ -254,20 +254,10 @@ As participants crowded around a pinata of Netanyahu an individual holding a meg
 
 [Los Angeles Magazine article](https://lamag.com/news/ucla-condemns-pro-palestinian-student-protesters-antisemitic-behavior), dated Nov 12, that states students “went viral online Friday for screaming ‘beat that fucking Jew’ through a megaphone while bashing a piñata bearing an image of Israeli Prime Minister Benjamin Netanyahu.”"
 
-## Hook 5
-
-Another Bruin article, 'UCLA faces scrutiny for safety issues at protests for Israel, Palestine,' dated Dec 5th, references events that occurred the day before on Nov 7th,
-
-"After a protest held in support of Israel on Nov. 7, the Undergraduate Students Association Council’s Cultural Affairs Commission – which has previously expressed support for Palestine and condemned the United States’ and UC’s financial and military support of Israel – alleged in an Instagram post" 
-
-“Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams—including UCPD. More than ever, it is clear that there is no safety for…students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years.
-
-We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence.”
-
 
 ## Chancellor Block
 
-The Nov 8th incident warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th. Rightly so, while the words shouted may have been few, the impact was magnified by the fact that the incident occurred at a large rally. 
+The Nov 8th incident was clearly antisemitic hate speech and warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th. Rightly so, while the words shouted may have been few, the impact was magnified by the fact that the incident occurred at a large rally. 
 
 Nov 10th
 
@@ -275,19 +265,66 @@ Nov 10th
 
 "At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. **While this may be protected speech under the First Amendment**, it is nonetheless abhorrent and completely unacceptable. **Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable.**"
 
+
 ### Response by a student in the Daily Bruin dated Nov 19
 
-In a Daily Bruin article,'Students voice worries over Islamophobia on UCLA campus', published on Nov 19th, a Palestinian student referenced Block's Oct 13th statement,
+In a Daily Bruin article,'Students voice worries over Islamophobia on UCLA campus', also published on Nov 19th, a Palestinian student stated
 
-"“The Palestinian student said they were disappointed that an Oct. 13 statement by the chancellor described the Oct. 7 attack as a “grievous act of malice and hate” against Israelis but Palestinian deaths as “loss of life,” as the tonal shift emphasizes the violence against Israelis over Palestinians. 
+"that they feel **the administration is at least in part to blame for inciting violence on campus** because it has seemed to support Jewish students in its statements more than Palestinian students.”" 
 
-They added that they feel **the administration is at least in part to blame for inciting violence on campus** because it has seemed to support Jewish students in its statements more than Palestinian students.”" 
+
+### CAC 
+
+Another Bruin article, 'UCLA faces scrutiny for safety issues at protests for Israel, Palestine,' dated Dec 5th, brought attention to allegations made by CAC after a rally in support of Israel on Nov. 7th in an Instagram post.
+
+The post echoed the student's sentiment from the earlier article. 
+
+“Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams—including UCPD. More than ever, it is clear that there is no safety for…students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years.
+
+We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence.”
 
 ## Comparison 
 
-Aside from the claim about Block's Oct 13th statement, is there weight to their claim that the administration is inciting violence on campus due to its "greater support" of Jewish students?
+Is there weight to their claims that the security of pro-Palestine students are at risk due to unequal handling of incidents by the administration?
 
-We see in both statements Block made, there is no explicit condemnation of unlawful acts towards students that occurred on either Oct 11th or Nov 7th. 
+In both statements Block made, there is no explicit condemnation of unlawful acts towards students that occurred on either Oct 11th or Nov 7th. 
+
+Without proof the severity of the Nov 7th incident is unclear. The incident occurring on Oct 11th, however, was captured on video. At a walkout march on Oct 25th, 
+
+“Several speakers brought attention to recent allegations of attacks against pro-Palestinian students on campus."
+
+When the Daily Bruin inquired about the allegations, in an emailed statement a UCLA spokesperson,
+
+"said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
+
+“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect,” they said in the statement.”"
+
+(Inquire with UCPD, the result of this)
+
+The individuals involved in the incident should have been
+
+Arrested for intimidation, property damage, attempted assault characterized by bias. Cited for harassment and disruption of university operations. Given a no-contact order.
+
+But instead the perpetrators were permitted to leave the premises by student affairs personnel without so much as a warning. 
+
+Block also did not find it necessary to get directly involved but found it acceptable to leave the task to others within the administration. 
+
+### Hillel 
+
+On Oct 12, Hillel at UCLA posted on their Instagram account, 
+
+"There are reports of some incidents in the last few days where students of different backgrounds and views have been harassed or intimidated. This is not acceptable and Hillel believes there is NO justification for any type of aggression towards any students.  
+
+We also call on agitators in the outside communities to stay away from campus. Your acts of aggression---no matter what your views are---are not welcome at UCLA. We know that many of the reported incidents were caused by non-students and we condemn them in the strongest terms. 
+
+The conflict between Israel and Hamas does not need to spill over and poison our campus. We all mourn. Hate at UCLA will never be the answer."
+
+
+
+
+
+---------------------------------
+
 
 Brian Gnandt, Regional Program Manager at the Office of Civil Rights illuminates the concept of constructive notice, 
 
@@ -304,33 +341,3 @@ Vs
 "While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. **Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable.**"
 
 With clarity from Gnandt, in addition to no explicit condemnation of harassment and violence, we see that the first statement requires "actual notice," leaving it incumbent upon the victim to seek aid. This is higher than the lawful standard mandated by Title VI federal law. 
-
-Without proof the severity of other incidents are unclear, but the incident that occurred on Oct 11th was captured on video. At a walkout march on Oct 25th, 
-
-“Several speakers brought attention to recent allegations of attacks against pro-Palestinian students on campus."
-
-When the Daily Bruin inquired about the allegations, in an emailed statement a UCLA spokesperson 
-
-"said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
-
-“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect,” they said in the statement.”"
-
-(Inquire with UCPD, the result of this)
-
-The individuals involved in the incident should have been
-
-Arrested for intimidation, property damage, attempted assault characterized by bias. Cited for harassment and disruption of university operations. Given a no-contact order.
-
-But instead the perpetrators were permitted to leave the premises after the incident by student affairs personnel without so much as a warning. 
-
-Block also did not find it necessary to get directly involved but found it acceptable to leave the task to others within the administration. 
-
-### Hillel 
-
-On Oct 12, Hillel at UCLA posted on their Instagram account, 
-
-"There are reports of some incidents in the last few days where students of different backgrounds and views have been harassed or intimidated. This is not acceptable and Hillel believes there is NO justification for any type of aggression towards any students.  
-
-We also call on agitators in the outside communities to stay away from campus. Your acts of aggression---no matter what your views are---are not welcome at UCLA. We know that many of the reported incidents were caused by non-students and we condemn them in the strongest terms. 
-
-The conflict between Israel and Hamas does not need to spill over and poison our campus. We all mourn. Hate at UCLA will never be the answer."
