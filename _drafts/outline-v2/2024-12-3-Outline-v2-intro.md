@@ -287,7 +287,13 @@ We call on UCLA, the UC, and other entities of this institution to protect stude
 
 Is there weight to their claims that the security of pro-Palestine students are at risk due to unequal handling of incidents by the administration?
 
-In both statements Block made, there is no explicit condemnation of unlawful acts towards students that occurred on either Oct 11th or Nov 7th. 
+"I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911.”
+
+Vs
+
+"At an event just this week on our campus, individuals exhibited extremely hateful behavior and used despicable Antisemitic language, which was captured on video and shared widely, frightening many within our community. While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable."
+
+In both statements Block made, there is no explicit condemnation of unlawful acts towards students occurring on either Oct 11th or Nov 7th. 
 
 Without proof the severity of the Nov 7th incident is unclear. The incident occurring on Oct 11th, however, was captured on video. At a walkout march on Oct 25th, 
 
@@ -301,17 +307,34 @@ When the Daily Bruin inquired about the allegations, in an emailed statement a U
 
 (Inquire with UCPD, the result of this)
 
-The individuals involved in the incident should have been
 
-Arrested for intimidation, property damage, attempted assault characterized by bias. Cited for harassment and disruption of university operations. Given a no-contact order.
+### OCR 
 
-But instead the perpetrators were permitted to leave the premises by student affairs personnel without so much as a warning. 
+How might an independent agency tracking accountability factor in thus far? Brian Gnandt, Regional Program Manager at the Office of Civil Rights illuminates the concept of constructive notice, 
+
+“A recipient is charged with constructive notice of a hostile environment if, upon reasonably diligent inquiry in the exercise of reasonable care, it should have known of the discrimination.”
+
+“In other words, if the recipient could have found out about the harassment had it made a proper inquiry, and if the recipient should have made such an inquiry, knowledge of the harassment will be imputed to the recipient.”
+
+“Once a recipient has actual or constructive notice of a hostile environment, the recipient has a legal duty to take reasonable steps to eliminate it. OCR evaluates the appropriateness of the responsive action by assessing whether it was reasonable, timely, and effective.”
+
+The above statement by the UCLA spokesperson acknowledges "notice," they are aware the incident took place. The university's efforts to track down the perpetrators and their official statements are effectively their measures, or "reasonable steps" taken to eliminate a hostile environment. 
+
+It becomes questionable whether these steps were the "appropriate responsive action" taken in order to mitigate any future harassment that might occur. For example,
+
+Individuals involved in the incident should have been arrested for intimidation, property damage, attempted assault characterized by bias. Cited for harassment and disruption of university operations. Given a no-contact order.
+
+But instead the perpetrators were permitted to leave the premises by student affairs personnel without a warning. 
 
 Block also did not find it necessary to get directly involved but found it acceptable to leave the task to others within the administration. 
 
+In both the statement made by Block and the university spokesperson, vague words promoting "harmony" within the UCLA community were chosen in response. 
+
 ### Hillel 
 
-On Oct 12, Hillel at UCLA posted on their Instagram account, 
+What might have been a better deterrent from the highest authority at UCLA for an objectively dangerous act against its students? 
+
+On Oct 12, Hillel at UCLA, the largest Jewish campus organization at UCLA, posted a statement on their Instagram account.
 
 "There are reports of some incidents in the last few days where students of different backgrounds and views have been harassed or intimidated. This is not acceptable and Hillel believes there is NO justification for any type of aggression towards any students.  
 
@@ -322,22 +345,3 @@ The conflict between Israel and Hamas does not need to spill over and poison our
 
 
 
-
----------------------------------
-
-
-Brian Gnandt, Regional Program Manager at the Office of Civil Rights illuminates the concept of constructive notice, 
-
-“A recipient is charged with constructive notice of a hostile environment if, upon reasonably diligent inquiry in the exercise of reasonable care, it should have known of the discrimination.”
-
-“In other words, if the recipient could have found out about the harassment had it made a proper inquiry, and if the recipient should have made such an inquiry, knowledge of the harassment will be imputed to the recipient.”
-
-“Once a recipient has actual or constructive notice of a hostile environment, the recipient has a legal duty to take reasonable steps to eliminate it. OCR evaluates the appropriateness of the responsive action by assessing whether it was reasonable, timely, and effective.”
-
-"We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. **If you feel unsafe or threatened, immediately contact UCPD or call 911.**”
-
-Vs
-
-"While this may be protected speech under the First Amendment, it is nonetheless abhorrent and completely unacceptable. **Campus officials are reviewing the actions at the event and anyone found to be in violation of the law or the UCLA code of conduct will be held accountable.**"
-
-With clarity from Gnandt, in addition to no explicit condemnation of harassment and violence, we see that the first statement requires "actual notice," leaving it incumbent upon the victim to seek aid. This is higher than the lawful standard mandated by Title VI federal law. 
