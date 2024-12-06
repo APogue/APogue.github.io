@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-5 5:54 PM
+updated_date: 2024-12-6 11:50 AM
 ---
 
 
@@ -130,11 +130,14 @@ definitely applies.”
 
 ### SJP 
 
-To understand why a political 
-position that sides with a known terrorist organization is protected by the First Amendment
+To understand why a political position that sides with a known terrorist organization is protected by the First Amendment
 we use UCLA's "two way street" principle. 
 
-Israel and the United States do not recognize Hamas. They are a de facto government in Gaza. Hamas in turn does not recognize Israel.  
+Neither the United states, nor the countries bordering Gaza, Israel and Egypt, recognize Hamas. The reasons are numerous, with insurgency and smuggling, militant alliances, border security issues, and political and ideological tensions chief among them. 
+
+For the sake of the "Palestinian perspective" we focus on Israel. 
+
+Israel does not recognize Hamas. They are a de facto government in Gaza. Hamas in turn does not recognize Israel.  
 
 While Gaza has not been directly occupied since 2005, the combination of Israel’s military operations, the perimeter blockade’s humanitarian toll, and border violence has led to significant Palestinian deaths, which groups like Hamas cite as part of their grievances.
 
@@ -144,10 +147,12 @@ If, at its core, land and sovereignty are underlying issues in the this conflict
   
 Accordingly, if any party may deem another "terrorist" depending on the lens used in judgement, then the word for moral purposes has lost all meaning. 
 
-From an academic lens, we need not know what they "are" based on a societal qualification. We understand an
+From an academic lens, who they "are" based on a societal qualification is irrelevant. We understand an
 entity by the first principles of their actions based only in factual evidence. 
 
-Since the beginning of time, academics reserved the right to study such ideas, free from oppression or persecution, free from what the government or society tells us. 
+Dismissing the words of our "enemies" risks overlooking a measure of truth they may hold. Without prejudice, we look at the evidence to validate or reject each claim. 
+
+Since the beginning of time academics have reserved the right to to this, free from oppression or persecution, free from what the government or society tells us. 
  
 
 ### The Reddit exchange
@@ -219,7 +224,7 @@ In a Daily Bruin article,'Jewish students express concern over antisemitism on U
 
 ## Hook 4
 
-The statement by Kersten demonstrates the diversity of thought within the student body at UCLA. His point about Jewish grief, the repression of criticism of Israel and its conflation with antisemitism may be valid. This could have been happening. 
+The statement by Kersten demonstrates the diversity of thought at UCLA. His point about Jewish grief, the repression of criticism of Israel and its conflation with antisemitism may be valid. This could have been happening. 
 
 "Often people emphasize that the antidote to (bad, including hateful) speech is more (good)
 speech. They reassure us that in the “marketplace of ideas,” truth will always win out. But
