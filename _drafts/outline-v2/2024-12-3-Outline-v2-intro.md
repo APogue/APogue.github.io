@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-6 2:11 PM
+updated_date: 2024-12-6 2:16 PM
 ---
 
 
@@ -316,9 +316,11 @@ How might an independent agency tracking accountability factor in thus far? Bria
 
 “In other words, if the recipient could have found out about the harassment had it made a proper inquiry, and if the recipient should have made such an inquiry, knowledge of the harassment will be imputed to the recipient.”
 
+The above statement by the UCLA spokesperson acknowledges "notice," they are aware the incident took place. Gnandt goes on to say,
+
 “Once a recipient has actual or constructive notice of a hostile environment, the recipient has a legal duty to take reasonable steps to eliminate it. OCR evaluates the appropriateness of the responsive action by assessing whether it was reasonable, timely, and effective.”
 
-The above statement by the UCLA spokesperson acknowledges "notice," they are aware the incident took place. The university's efforts to track down the perpetrators and their official statements are effectively their measures, or "reasonable steps" taken to eliminate a hostile environment. 
+The university's efforts to track down the perpetrators and their official statements are effectively their measures, or "reasonable steps" taken to eliminate a hostile environment. 
 
 It becomes questionable whether these steps were the "appropriate responsive action" taken in order to mitigate any future harassment that might occur. For example,
 
@@ -328,7 +330,7 @@ But instead the perpetrators were permitted to leave the premises by student aff
 
 Block also did not find it necessary to get directly involved but found it acceptable to leave the task to others within the administration. 
 
-In both the statement made by Block and the university spokesperson, vague words promoting "harmony" within the UCLA community were chosen in response. 
+In both the statements made by Block and the university spokesperson, vague words promoting "harmony" within the UCLA community were chosen in response. 
 
 ### Hillel 
 
