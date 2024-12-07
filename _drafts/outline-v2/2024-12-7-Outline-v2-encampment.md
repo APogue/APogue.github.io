@@ -16,6 +16,14 @@ https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_inv
 
 "He's now considered a public figure given his recent decision to become a right wing media influencer."
 
+
+
+
+
+
+
+
+
 ## Hook 1 
 
 

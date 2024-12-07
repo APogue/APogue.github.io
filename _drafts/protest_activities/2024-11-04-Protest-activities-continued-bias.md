@@ -4,7 +4,7 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-11-21 1:20 PM
+updated_date: 2024-12-07 2:46 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
@@ -214,6 +214,10 @@ Thesis2: The biased handling of protesters by the administration continues in th
 		- There have been no comments from Braziel, the Chancellor, or Osako
 
 - [Daily Bruin up-to-min coverage](https://dailybruin.com/2024/10/21/live-graduate-students-for-justice-in-palestine-demonstration)
+
+	- "9:18 p.m. – In a statement emailed at 8:04 p.m., Betar – a self-described national Zionist organization – had called for police to take action against the pro-Palestine protesters.
+
+	“We demand police remove these thugs now and if not we will be forced to organize groups of Jews to do so,” it said in the statement"
 
 	- "8:12 p.m.---Around 30 counter-protesters arrived in Dickson Court North and began to heckle pro-Palestine protesters. In response, pro-Palestine protesters attempted to form a line to prevent them from accessing the sukkah."
 
