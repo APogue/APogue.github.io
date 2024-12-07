@@ -346,6 +346,6 @@ In the weeks following Oct 7th, the "marketplace of emotion" was flooded with gr
 
 Would the statement made by Hillel such a short time after Oct 7th, recognizing Palestinian grief be considered popular? In the "marketplace of ideas" we know truth can be denied because it is unpopular. 
 
-The question must be raised, were matters between student groups being managed in a content-neutral fashion, or did the administration also subscribe to this marketplace? In other words, did some students "have what was coming to them" based on who they are? 
+The question must be raised, were matters between student groups being managed in a content-neutral fashion, or did the administration also subscribe to this marketplace? In other words, did some students "have what was coming to them" based on who they were or what they believed? 
 
 
