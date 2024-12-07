@@ -120,6 +120,10 @@ date: 2024-11-30 3:54 PM
 
 ### Pro-Palestinian Protest
 
+- [Reddit](https://www.reddit.com/r/ucla/comments/1chnn5l/these_counterprotestors_are_absolutely_unhinged/)
+
+	- "You wanna block Jewish kids!? We're fighting back, bitch!", post dated May 1st.
+
 - Hate speech at the protest 
 
 	- hate speech coming from counter-protesters
