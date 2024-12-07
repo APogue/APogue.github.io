@@ -4,7 +4,7 @@ title: "Outline-v2-intro"
 published: true
 author: Alexie Pogue
 date: 2024-12-3 10:38 PM
-updated_date: 2024-12-6 2:16 PM
+updated_date: 2024-12-7 12:20 PM
 ---
 
 
@@ -257,7 +257,7 @@ As participants crowded around a pinata of Netanyahu an individual holding a meg
 
 ## Chancellor Block
 
-The Nov 8th incident was clearly antisemitic hate speech and warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th. Rightly so, while the words shouted may have been few, the impact was magnified by the fact that the incident occurred at a large rally. 
+The Nov 8th incident was antisemitic hate speech and warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th. Rightly so, while the words shouted may have been few, the impact was magnified by the fact that the incident occurred at a large rally. 
 
 Nov 10th
 
@@ -285,7 +285,7 @@ We call on UCLA, the UC, and other entities of this institution to protect stude
 
 ## Comparison 
 
-Is there weight to their claims that the security of pro-Palestine students are at risk due to unequal handling of incidents by the administration?
+Is there weight to the claims that the security of pro-Palestine students are at risk due to unequal handling of incidents by the administration?
 
 "I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, but we must never attack one another’s fundamental humanity. We must not devolve into violating one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or threatened, immediately contact UCPD or call 911.”
 
@@ -299,7 +299,7 @@ Without proof the severity of the Nov 7th incident is unclear. The incident occu
 
 “Several speakers brought attention to recent allegations of attacks against pro-Palestinian students on campus."
 
-When the Daily Bruin inquired about the allegations, in an emailed statement a UCLA spokesperson,
+When the Daily Bruin inquired about the allegations, in an emailed statement a UCLA spokesperson
 
 "said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
 
@@ -320,21 +320,19 @@ The above statement by the UCLA spokesperson acknowledges "notice," they are awa
 
 “Once a recipient has actual or constructive notice of a hostile environment, the recipient has a legal duty to take reasonable steps to eliminate it. OCR evaluates the appropriateness of the responsive action by assessing whether it was reasonable, timely, and effective.”
 
-The university's efforts to track down the perpetrators and their official statements are effectively their measures, or "reasonable steps" taken to eliminate a hostile environment. 
+The university's efforts to track down the perpetrators and the statements made were effectively their measures, or "reasonable steps" taken to eliminate a hostile environment. 
 
-It becomes questionable whether these steps were the "appropriate responsive action" taken in order to mitigate any future harassment that might occur. For example,
+It becomes questionable whether the steps taken were the "appropriate responsive action" to mitigate any future harassment that might occur. For example, given the circumstances,
 
-Individuals involved in the incident should have been arrested for intimidation, property damage, attempted assault characterized by bias. Cited for harassment and disruption of university operations. Given a no-contact order.
+Charges brought for intimidation, property damage, attempted assault characterized by bias. Cited for harassment and disruption of university operations. Given a no-contact order. would have been appropriate. 
 
 But instead the perpetrators were permitted to leave the premises by student affairs personnel without a warning. 
 
 Block also did not find it necessary to get directly involved but found it acceptable to leave the task to others within the administration. 
 
-In both the statements made by Block and the university spokesperson, vague words promoting "harmony" within the UCLA community were chosen in response. 
+Additionally, both statements made by Block and the university spokesperson used vague words promoting "harmony" within the UCLA community rather than serious warnings against further harassment. 
 
 ### Hillel 
-
-What might have been a better deterrent from the highest authority at UCLA for an objectively dangerous act against its students? 
 
 On Oct 12, Hillel at UCLA, the largest Jewish campus organization at UCLA, posted a statement on their Instagram account.
 
@@ -344,6 +342,10 @@ We also call on agitators in the outside communities to stay away from campus. Y
 
 The conflict between Israel and Hamas does not need to spill over and poison our campus. We all mourn. Hate at UCLA will never be the answer."
 
+In the weeks following Oct 7th, the "marketplace of emotion" was flooded with grief, understandably so.
 
+Would the statement made by Hillel such a short time after Oct 7th, recognizing Palestinian grief be considered popular? In the "marketplace of ideas" we know truth can be denied because it is unpopular. 
+
+The question must be raised, were matters between student groups being managed in a content-neutral fashion, or did the administration also subscribe to this marketplace? In other words, did some students "have what was coming to them" based on who they are? 
 
 
