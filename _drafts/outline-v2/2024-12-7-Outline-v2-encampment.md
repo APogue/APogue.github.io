@@ -6,6 +6,49 @@ author: Alexie Pogue
 date: 2024-12-7 1:57 PM
 ---
 
+## hook 1
+
+When the administration came to the decision to remove the encampment on May 1st after a week long protest turned violent the evening before, Darnell "Hunt told students that the reason for the decision was to protect student safety in the wake of the mob violence: "These police officers to my understanding were given the mandate to to clear out the encampment because of security risks."
+
+When pushed, he said it was because of "the people that attacked you last night," saying "[t]he point is to shut down an unsafe situation because we think the people [referring to the mob] are going to come back and we don't know how many may come back"
+
+Mr. Hunt conceded that the university initially supported student' rights to be at and maintain the encampment until the mob violence broke out, saying, "when this encampment set up, we did not move to dismantle it. In fact, we were working with you to keep it going until what happened last night." [source](https://www.aclusocal.org/sites/default/files/blair_v_regents_complaint.pdf)
+
+
+## The encampment (administrative and Thomas)
+
+Why the university prepared for the mob that attacked the encampment on the evening of April 30th? 
+
+In the prevailing narrative, Chief of UCPD John Thomas failed in his role to keep the campus community safe. 
+
+“Days earlier, campus leadership had directed Thomas to create a safety plan that would protect the UCLA community after the encampment was put up last week and began drawing agitators, the sources said. The chief was told to spare no expense to bring in other UC police officers, offer overtime and hire as many private security officers needed to keep the peace.”
+
+“But university leadership, he said, decided to allow the tents “as an expression of students’ 1st Amendment rights” and directed that police not be included in any security plan. Under UC’s systemwide community safety plan, police are deployed as a last resort — guidance developed after UC Davis police pepper-sprayed peaceful protesters in 2011, setting off a firestorm of controversy and an internal review that changed campus practices.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 While responses to requests for passage varied, the question "are you a Zionist" was captured on film on several occasions. 
 
 https://www.reddit.com/r/ucla/comments/1cjck8s/lets_talk_about_student_influencer_eli_tsives/

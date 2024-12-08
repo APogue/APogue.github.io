@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2024-12-2 4:42 PM
+updated_date: 2024-12-8 2:23 PM
 ---
 
 
@@ -26,7 +26,9 @@ updated_date: 2024-12-2 4:42 PM
 
 
 ### UCPD (Chief John Thomas)
+““As altercations at the encampment began to increase, Thomas acknowledged that campus leadership changed direction and authorized him to supplement UCLA police and private security with increased external law enforcement, saying overtime would be paid. He could not recall exactly when that occurred, but he said he immediately contacted the LAPD and L.A. County Sheriff’s Department to secure their assistance.”
 
+Tracking Newsroom updates this sounds like April 30th?
 
 
 ### SJP (Mohammed) 
