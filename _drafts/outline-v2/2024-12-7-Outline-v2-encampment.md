@@ -4,10 +4,70 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-8 4:23 PM
+updated_date: 2024-12-8 5:17 PM
 ---
 
-## hook 1
+
+
+
+
+## hook 2
+
+‘You guys are about to get f—ed up’
+
+
+
+“In one of the more dramatic videos of the night, a protester wearing the colors of the Palestinian flag underneath an LA Kings jersey was knocked to the ground and beaten by multiple counterprotesters as he guarded the encampment.”
+
+
+
+https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/index.html
+
+
+
+
+
+
+
+
+
+
+
+## journalist testimonials
+
+"Daily Bruin news editor Catherine Hamilton, 21, told The Times she recognized one of the counterprotesters as someone who had previously verbally harassed her and taken pictures of her press badge. The individual instructed the group to encircle the student journalists, she said, before they sprayed the four with Mace or pepper spray, flashed lights in their faces and chanted Hamilton’s name.
+
+As she tried to break free, Hamilton said, she was punched repeatedly in the chest and upper abdomen; another student journalist was pushed to the ground and beaten and kicked for nearly a minute. The attack was first reported in the Daily Bruin."
+
+This can be connected with the arrest
+
+
+Student B, who was also in the encampment that night, said they felt Dickson Plaza had turned into a war zone as they watched the number of injured students increase.
+
+
+“I heard some screaming, and I turned around, and one of my really good friends was on the floor rolling in agony,” they said. “I’ve never heard any of my friends scream like that before. … It’s still traumatizing until now, that I saw him go through that kind of pain.”
+
+
+
+https://dailybruin.com/2024/05/07/i-thought-i-was-going-to-die-ucla-encampment-protesters-recall-april-30-attack
+
+
+
+
+
+Student C said they were hit in the head twice while trying to protect both the encampment’s barricade and their fellow students. They said they were taken to the hospital by their classmates, where they ultimately received medical treatment, including stitches and staples.
+
+“I thought I was going to die. I thought I’d never see my family again,” they said. “The only thing that kept me moving forward was my … classmates who were brave enough to protect the encampment from these terrorists. The same classmates that courageously brought me back inside the encampment after my attack. The same classmates who I relied on to save my life.”
+
+
+
+
+
+
+
+
+
+## hook 2
 
 When the administration came to the decision to remove the encampment on May 1st after a week long protest turned violent the evening before, Darnell "Hunt told students that the reason for the decision was to protect student safety in the wake of the mob violence: "These police officers to my understanding were given the mandate to to clear out the encampment because of security risks."
 
@@ -16,7 +76,10 @@ When pushed, he said it was because of "the people that attacked you last night,
 Mr. Hunt conceded that the university initially supported student' rights to be at and maintain the encampment until the mob violence broke out, saying, "when this encampment set up, we did not move to dismantle it. In fact, we were working with you to keep it going until what happened last night." [source](https://www.aclusocal.org/sites/default/files/blair_v_regents_complaint.pdf)
 
 
-## The encampment (administrative and Thomas)
+
+
+
+## Thomas
 
 Why the university prepared for the mob that attacked the encampment on the evening of April 30th? 
 
@@ -33,9 +96,9 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 ## Hate speech constitutes harassment 
 
+- no deterrence to hate speech and physicality constituting harassment and a hostile environment
 
-
-
+- blockades went up because people were harassing 
 
 ## Why did take so long for block to get LAPD onto campus
 
@@ -54,10 +117,6 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 	- really just pointing the guns at students with answers of more, more, more security and police personnel for any event (polo shirts, hide people in buildings)
 
-- no deterrence to hate speech and physicality constituting harassment and a hostile environment
-
-- blockades went up because people were harassing 
-
 - tons of money is being spent on policing activity on campus rather than using deterrence rhetoric
 
 - tons of money is being spent on policing peaceful students
@@ -67,7 +126,17 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 
 
+## policy
 
+what weapons were used, what is the list of banned items in ucla policy
+
+Bear spray?
+
+Bear spray is formulated to have a longer range (Counter Assault Bear Spray can reach up to 40 feet) than pepper spray (designed to only reach about 10 feet). 
+
+SECTION 100015. WEAPONS. 
+
+https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as
 
 
 
