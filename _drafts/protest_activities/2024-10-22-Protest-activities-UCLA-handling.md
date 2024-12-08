@@ -183,6 +183,8 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 		- The above is especially true because UCPD and LAPD are armed with less-than-lethal munitions, they should have made the dispersal order and started utilizing these munitions right away, the same way they did with the encampment days later. Who determines what protocol is used *after* police arrive? 
 
+		- Are the munitions they buy only meant for one kind of assailant? 
+
 	- “Wade Stern, president of the Federated University Peace Officers Assn., in a statement.”
 
 		““What unfolded at UCLA calls into question whether UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies,” said Stern, who is also an officer at UC Riverside. “The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.””

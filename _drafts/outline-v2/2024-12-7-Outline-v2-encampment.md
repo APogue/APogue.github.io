@@ -4,6 +4,7 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
+updated_date: 2024-12-8 4:23 PM
 ---
 
 ## hook 1
@@ -25,15 +26,43 @@ In the prevailing narrative, Chief of UCPD John Thomas failed in his role to kee
 
 “But university leadership, he said, decided to allow the tents “as an expression of students’ 1st Amendment rights” and directed that police not be included in any security plan. Under UC’s systemwide community safety plan, police are deployed as a last resort — guidance developed after UC Davis police pepper-sprayed peaceful protesters in 2011, setting off a firestorm of controversy and an internal review that changed campus practices.”
 
+https://www.latimes.com/california/story/2024-05-01/four-student-journalists-attacked-by-counterprotesters-at-ucla
+
+
+
+
+## Hate speech constitutes harassment 
 
 
 
 
 
+## Why did take so long for block to get LAPD onto campus
 
 
 
 
+### Wasteful wasteful spending on speech absent of deterrence rhetoric, ie the cost of these protests, the costs of policing peaceful students 
+
+- Rick Braziel 
+
+	- what is his actual role
+
+	- tons of spending going in to complete tasks he was brought on for through independent contractors 
+
+	- feels like installing him so quickly without due diligence process was damage control 
+
+	- really just pointing the guns at students with answers of more, more, more security and police personnel for any event (polo shirts, hide people in buildings)
+
+- no deterrence to hate speech and physicality constituting harassment and a hostile environment
+
+- blockades went up because people were harassing 
+
+- tons of money is being spent on policing activity on campus rather than using deterrence rhetoric
+
+- tons of money is being spent on policing peaceful students
+
+- all the money spent on munitions is being used on students only, why? 
 
 
 
