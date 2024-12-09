@@ -356,6 +356,6 @@ updated_date: 2024-12-9 12:23 PM
 
 			- “This report clearly delineates numerous and frequent instances of faculty who violated the rules and joined the encampments or made comments in their classrooms that were not consistent with rules ... yet the report indicates that not one faculty member was disciplined by the Academic Senate. That seems intolerable to me and has to change,” he said.
 
-			In response, Academic Senate Chair Steven W. Cheung told regents that faculty disciplinary processes were meant to “protect our due diligence rights, our rights to a hearing, and to make sure we are deliberative in our decision-making.” He said the Senate was not interested in “fossilized” processes and would welcome reviewing them with the regents.
+				In response, Academic Senate Chair Steven W. Cheung told regents that faculty disciplinary processes were meant to “protect our due diligence rights, our rights to a hearing, and to make sure we are deliberative in our decision-making.” He said the Senate was not interested in “fossilized” processes and would welcome reviewing them with the regents.
 
-			- "Regent Jay Sures grilled UCLA Interim Chancellor Darnell Hunt on the campus administration’s progress in **investigating allegations of antisemitic, anti-Arab, anti-Palestinian and anti-Muslim incidents since Oct. 7**, 2023, which Hunt said were in the “hundreds” on “both sides.”"
+			- "Regent Jay Sures grilled UCLA Interim Chancellor Darnell Hunt on the campus administration’s progress in **investigating allegations of antisemitic, anti-Arab, anti-Palestinian and anti-Muslim incidents since Oct. 7**, 2023, which Hunt said were in the **“hundreds” on “both sides.”**"
