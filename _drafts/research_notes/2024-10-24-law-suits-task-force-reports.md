@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-11-26 5:40 PM
+updated_date: 2024-12-9 12:23 PM
 ---
 
 ### Recently added articles 10-24
@@ -326,12 +326,36 @@ updated_date: 2024-11-26 5:40 PM
 
 ### Independent reviews
 
+
+- [Two major reports slam UCLA over policing, violence at pro-Palestinian protest](https://www.latimes.com/california/story/2024-11-01/ucla-usc-encampments-police-commission-reports)
+
+	- [Antisemitism on college campuses exposed](https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf)
+
+	- [University of California Los Angeles Campus Protest After-Action Report](https://www.lapdpolicecom.lacity.org/110524/BPC_24-285.pdf)
+
+
 - [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
 
 	- [UCLA slammed for ‘chaotic’ response to protest melee in UC independent review](https://www.latimes.com/california/story/2024-11-14/ucla-slammed-for-chaotic-response-to-violent-protest-melee-in-uc-independent-review)
 
-- [University of California Los Angeles Campus Protest After-Action Report](https://www.lapdpolicecom.lacity.org/110524/BPC_24-285.pdf)
+		- "The review found that UCLA had no detailed plan for handling major protests, even as problems were “reasonably foreseeable” as encampments springing up at other campuses were drawing at times violent conflict. UCLA leaders had not identified who should control decision-making and at times shut out campus police from meetings."
 
-	- [Two major reports slam UCLA over policing, violence at pro-Palestinian protest](https://www.latimes.com/california/story/2024-11-01/ucla-usc-encampments-police-commission-reports)
+		- "“Because no codified plans existed, UCLA administrators engaged in a chaotic process in which they needed to make difficult decisions ... in the midst of ongoing disruption, without clarity on who maintained final decision-making authority, lacking a commonly understood process for reaching decisions, and largely lacking the ability to react quickly to fast-changing events and dynamic circumstances on campus,” the report by 21st Century Policing Solutions concluded."
 
-	- [Antisemitism on college campuses exposed](https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf)
+		- "UC President Michael V. Drake said in a statement Thursday that the goal of the UCLA review was to learn what reforms were needed to prevent a recurrence of the shortcomings, while safeguarding campus health and safety, **equal access to educational facilities and 1st Amendment rights to free speech**."
+
+		- “This central tension — whether and how police provide public safety, and for whom — is part of a national conversation about the role of police and the meaning of public safety,” the review said. “UCLA has thus far responded to this tension ineffectively, by functionally excluding police from planning and engagement but then asking law enforcement to engage once tensions have escalated to violence.”
+
+		- " One group of senior administrators excluded UCLA police and sowed frustration by the ”free-flowing debate, internecine conflict, and a notable lack of decision-making.”"
+
+		- The UC systemwide community safety plan calls for “tiered responses” to protests, with law enforcement brought in as a last resort, but police were “almost entirely uninvolved” in decision-making.
+
+		- Campus police, for instance, were not consulted when UCLA approved a permit for a pro-Israel rally to be set up next to the encampment two days before the melee. Police might have been able to warn about the potential danger of dueling protest groups next to each other; physical skirmishes did break out between them.
+
+		- The article also goes into the antisemitism and anti-muslim,etc reports
+
+			- “This report clearly delineates numerous and frequent instances of faculty who violated the rules and joined the encampments or made comments in their classrooms that were not consistent with rules ... yet the report indicates that not one faculty member was disciplined by the Academic Senate. That seems intolerable to me and has to change,” he said.
+
+			In response, Academic Senate Chair Steven W. Cheung told regents that faculty disciplinary processes were meant to “protect our due diligence rights, our rights to a hearing, and to make sure we are deliberative in our decision-making.” He said the Senate was not interested in “fossilized” processes and would welcome reviewing them with the regents.
+
+			- "Regent Jay Sures grilled UCLA Interim Chancellor Darnell Hunt on the campus administration’s progress in **investigating allegations of antisemitic, anti-Arab, anti-Palestinian and anti-Muslim incidents since Oct. 7**, 2023, which Hunt said were in the “hundreds” on “both sides.”"
