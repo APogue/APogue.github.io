@@ -364,7 +364,17 @@ updated_date: 2024-12-11 1:55 PM
 
 - [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
 
-- Even under circumstances where no plans were in place, there were no efforts at hostile environment mitigation, they blamed the UCPD Chief, and they made up the Rick Braziel role without proper due diligence, his role is also not what they originally stated
+- Notes
+
+	- Even under circumstances where no plans were in place, there were no efforts at hostile environment mitigation, they blamed the UCPD Chief, and they made up the Rick Braziel role without proper due diligence, his role is also not what they originally stated
+
+	- hired and controlled scolding 
+
+	- no identities revealed, vague references to "senior administrators"
+
+	- short window of policy coverage, end of May to beginning of April 
+
+	- when they make references to improper conduct, they are not always specific with regards to which events
 
 - Administrative failures
 
@@ -381,14 +391,29 @@ updated_date: 2024-12-11 1:55 PM
 		- "Beyond this high-level Matrix document, UCLA did not, at the time of the encampment, have any plans for how to respond to campus disruptions and how decisions about University responses would be made.4 Because no codified plans existed, UCLA administrators engaged in a chaotic process in which they needed to make difficult decisions – 
 		some appearing to be matter of first impression for many involved – "
 
-		- "During the encampment period, two groups of stakeholders mobilized and met regularly to respond to the encampment and related protests and counter-protests. However, the role of each group was not well-established or commonly understood; there were not clear processes for decision-making; and it was not clear who had authority for final decision-making. Combined with the lack of prior planning for such an event, even when an encampment of this sort was reasonably foreseeable based on events at other campuses both nationally and locally, this resulted in some institutional paralysis, a highly chaotic decision making environment, and ultimately, an inability to effectively respond and protect students from violence."
+		- "During the encampment period, two groups of stakeholders mobilized and met regularly to respond to the encampment and related protests and counter-protests. However, the role of each group was not well-established or commonly understood; there were not clear processes for decision-making; and it was not clear who had authority for final decision-making. Combined with the lack of prior planning for such an event, **even when an encampment of this sort was reasonably foreseeable based on events at other campuses both nationally and locally**, this resulted in some institutional paralysis, a highly chaotic decision making environment, and ultimately, an inability to effectively respond and protect students from violence."
 
+		- Columbia arrested 100 on April 30th to clear their encampment, supposedly flash bangs but no tear gas or rubber bullets. [NYT article about Columbia protests](https://www.nytimes.com/2024/05/04/nyregion/columbia-protests-arrest-agitators-israel.html)
 
-	- internal communication
+		- Suggests the Incident Command System (ICS), cross-check this with Wade, Community Safety Plan, and Robinson-Edely (Policy Doc)---checked Robinson-Edely and Wade and both mention it by name
 
-	- external communication 
+		- The report introduces the **ICS as if no one has heard of it before**. Wade and UCLA policy referred to it by name. 
+
+		- "**UCLA should formally use ICS in its response to emergencies and disruptions on campus, and its plans for response should be based on the ICS system**. While UCLA’s comprehensive adoption of ICS within the context of all campus incidents that implicate safety will take time,8 UCLA should immediately develop plans for response to reasonably foreseeable campus disruptions and situations that incorporate some of the key components of the Incident Command System. Critically, the plans and response should clearly identify, and ensure, an Incident Commander who has overall authority for managing the entire incident, including responsibility over the overall incident safety and providing information to internal and external stakeholders"
+
+	- communication 
+
+		- "Recommendation 1.6: UCLA should maintain, in the short- and intermediate-term, clearer  mechanisms for ensuring that information is appropriately shared during an incident to those who need it. "
+
+		- "Beyond the IRT and EMPG meetings, information was dispersed through informal means, such as through text messages and ad hoc meetings of varying groups of senior administrators. In some instances, it appears that key information may not have been clearly provided to decision-makers. "
+
+		- Suggest having a "situation room" they're calling the Emergency Operations Center (EOC) in order to centralize internal comms with all stakeholders. 
+
+		- "Although UCLA has technically maintained structures and physical space allocated to an EOC, the emergency management function at UCLA, which is responsible for the EOC, has tended to be **under-resourced and marginalized**. During the encampment period, a true Emergency Center was not, as noted previously, established until May. Even when that EOC was finally activated, it was [not] utilized to its full potential, in part **because key leaders tend to send other personnel as proxies – minimizing the value of the EOC because central authorities were not present.**"
 
 - Command structures 
+
+	- Two groups principally involved, the **IRT and the EMPG**
 
 	- "One group that was convened to respond to the encampment was the Incident Response Team (“IRT”). The IRT meetings, held virtually, included a large number of campus stakeholders, including many who did not have formal decision-making roles. Although the IRT included police leadership, **key administrative leaders did not routinely attend the IRT’s meetings**."
 
@@ -419,6 +444,29 @@ updated_date: 2024-12-11 1:55 PM
 
 - Security failures
 
+	- "Our review concluded that the UCLA Police Department lacked sufciently detailed plans for responding to oncampus emergencies requiring mutual aid, resulting in an ad hoc and inefective response when administrators asked the Police Department to engage. Indeed, the absence of advance tactical planning made the law enforcement response, when it was necessary on both April 28 and April 30, slower and more chaotic than it should have been. "
+
+	- "When UCLA’s mutual aid partners responded to assist UCLA PD in response to the eruption of violence on the night of April 30, there were no plans to refer them to; UCLA PD did not exercise command and control over the law enforcement response; and there was not even an identified staging area to coordinate incoming support. Although UCLA PD personnel were present, no one from UCLA PD took command of the scene, and ofcials from the responding agencies described that it appeared no one was in charge."
+
+	- Side note: Thomas said the LAPD were answering to their own Lieutenant 
+
+	- "Within this context, as this report has described, the two main responding agencies, LAPD and CHP, were left to devise an ad hoc plan without guidance from UCLA PD."
+
+	- "However, ofcers and leadership from these agencies were unfamiliar with the geography of the campus; had no information about who the protesters were or about the type of resistance officers might meet; and were not familiar with UCLA’s policies for **responding to campus disruptions or the values that guided them**. " ---this seems like they do not have a content-neutral approach. In any case, what were the values that guided them? 
+
+	- The below statement is unclear, is this referring to the riot or the sweep? Because the coverage dates of this report are so narrow, it ignores evidence that mutual agencies mishandled protesters over *several* incidents, in other words, even when protests were not chaotic and out of hand requiring in the moment decision making, protesters were mishandled
+
+	- "The lack of a clear plan and direction from UCLA PD also meant that the responding mutual aid agencies were not briefed on or otherwise familiar with UCLA policies regarding preferred techniques and tools for gaining compliance with police directives. Because UCLA PD did not provide this critical information, these outside law enforcement agencies *decided amongst themselves how to engage*. "
+
+
+
+
+
+
+
+
+
+
 - Wasting money
 
-	- This was supposed to be Braziel's report, they outsourced it 
+	- This was supposed to be Braziel's report, they outsourced it (see Darnell Hunt's 4 point plan in "aftermath")
