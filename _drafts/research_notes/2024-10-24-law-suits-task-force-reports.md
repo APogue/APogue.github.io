@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-12-9 12:23 PM
+updated_date: 2024-12-10 5:46 PM
 ---
 
 ### Recently added articles 10-24
@@ -359,3 +359,35 @@ updated_date: 2024-12-9 12:23 PM
 				In response, Academic Senate Chair Steven W. Cheung told regents that faculty disciplinary processes were meant to “protect our due diligence rights, our rights to a hearing, and to make sure we are deliberative in our decision-making.” He said the Senate was not interested in “fossilized” processes and would welcome reviewing them with the regents.
 
 			- "Regent Jay Sures grilled UCLA Interim Chancellor Darnell Hunt on the campus administration’s progress in **investigating allegations of antisemitic, anti-Arab, anti-Palestinian and anti-Muslim incidents since Oct. 7**, 2023, which Hunt said were in the **“hundreds” on “both sides.”**"
+
+
+- [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
+
+- Even under circumstances where no plans were in place, there were no efforts at hostile environment mitigation, they blamed the UCPD Chief, and they made up the Rick Braziel role without proper due diligence 
+
+- Administrative failures
+
+	- Policy
+
+		- "2012’s Robinson-Edley report sets forth substantial research and specific recommendations for UC campuses."
+
+		- "UCLA has not effectively formalized or operationalized these recommendations, leading the University and administrators to repeat mistakes in April and May 2024 that the 2012 Robinson-Edley recommendations were designed to reduce."
+
+		- Tiered Response Matrix "November 8, 2023 version of the plan set forth high-level principles to guide decision-making, for example that law enforcement would only be actively engaged when the activity in question “presents an imminent danger” – including an event “that is posing imminent risk to safety and health and significant risk to safety and health and significant disruption to university functions.”""
+
+		- "However, it is not clear whether this Matrix was formally adopted, and our review indicated that it was not readily available to decision-makers."
+
+
+	- internal communication
+
+	- external communication 
+
+- UCPD 
+
+	- other security positions
+
+- Security failures
+
+- Wasting money
+
+	- This was supposed to be Braziel's report, they outsourced it 
