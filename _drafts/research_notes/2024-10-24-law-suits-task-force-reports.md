@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-12-10 5:46 PM
+updated_date: 2024-12-11 1:55 PM
 ---
 
 ### Recently added articles 10-24
@@ -45,11 +45,11 @@ updated_date: 2024-12-10 5:46 PM
 
 - [California Penal Code Sec. 407](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=407#:~:text=Whenever%20two%20or%20more%20persons,assembly%20is%20an%20unlawful%20assembly.)
 
-	- "Whenever two or more persons assemble together to do an unlawful act, or do a lawful act in a violent, boisterous, or tumultuous manner, such assembly is an unlawful assembly."
+	- "**Whenever two or more persons assemble together to do an unlawful act, or do a lawful act in a violent, boisterous, or tumultuous manner, such assembly is an unlawful assembly.**"
 
 - [California Penal Code Sec. 409](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=409.#:~:text=Every%20person%20remaining%20present%20at,is%20guilty%20of%20a%20misdemeanor.)
 
-	- "Every person remaining present at the place of any riot, rout, or unlawful assembly, after the same has been lawfully warned to disperse, except public officers and persons assisting them in attempting to disperse the same, is guilty of a misdemeanor."
+	- "**Every person remaining present at the place of any riot, rout, or unlawful assembly, after the same has been lawfully warned to disperse, except public officers and persons assisting them in attempting to disperse the same, is guilty of a misdemeanor**."
 
 - Key points regarding the above
 
@@ -184,11 +184,11 @@ updated_date: 2024-12-10 5:46 PM
 
 	- Looks like the counter-protesters were only there to harass students (see 87.)
 
-		- "88. As the harassers turned violent on the evening of April 28, UCLA administrators did not
+		- "88. **As the harassers turned violent on the evening of April 28, UCLA administrators did not
 		intervene and offered no support to the students inside the otherwise nonviolent encampment. 89. As a result, increasingly larger numbers of individuals harassed, attacked, and attempted to
-		dismantle the encampment at UCLA on the evenings of April 29 and April 30."
+		dismantle the encampment at UCLA on the evenings of April 29 and April 30.**"
 
-	- "100. One demonstrator asked a UCLA-hired security guard why they were not assisting the victims of the violence. The guard responded that what those in the encampment were facing was their own fault."
+	- "100. **One demonstrator asked a UCLA-hired security guard why they were not assisting the victims of the violence. The guard responded that what those in the encampment were facing was their own fault**."
 
 	- "I heard some screaming, and I turned around, and one of my really good friends was on the floor rolling in agony,’ they said. ‘I’ve never heard any of my friends scream like that before. … It’s still traumatizing until now, that I saw him go through that kind of pain.’”"
 
@@ -333,10 +333,11 @@ updated_date: 2024-12-10 5:46 PM
 
 	- [University of California Los Angeles Campus Protest After-Action Report](https://www.lapdpolicecom.lacity.org/110524/BPC_24-285.pdf)
 
-
 - [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
 
 	- [UCLA slammed for ‘chaotic’ response to protest melee in UC independent review](https://www.latimes.com/california/story/2024-11-14/ucla-slammed-for-chaotic-response-to-violent-protest-melee-in-uc-independent-review)
+
+		- **UCLA failed to protect students from protest fallout in spring because of “chaotic” decision making and other shortcomings, an independent review found.**
 
 		- "The review found that UCLA had no detailed plan for handling major protests, even as problems were “reasonably foreseeable” as encampments springing up at other campuses were drawing at times violent conflict. UCLA leaders had not identified who should control decision-making and at times shut out campus police from meetings."
 
@@ -346,7 +347,7 @@ updated_date: 2024-12-10 5:46 PM
 
 		- “This central tension — whether and how police provide public safety, and for whom — is part of a national conversation about the role of police and the meaning of public safety,” the review said. “UCLA has thus far responded to this tension ineffectively, by functionally excluding police from planning and engagement but then asking law enforcement to engage once tensions have escalated to violence.”
 
-		- " One group of senior administrators excluded UCLA police and sowed frustration by the ”free-flowing debate, internecine conflict, and a notable lack of decision-making.”"
+		- "One group of senior administrators excluded UCLA police and sowed frustration by the ”free-flowing debate, internecine conflict, and a notable lack of decision-making.”"
 
 		- The UC systemwide community safety plan calls for “tiered responses” to protests, with law enforcement brought in as a last resort, but police were “almost entirely uninvolved” in decision-making.
 
@@ -363,7 +364,7 @@ updated_date: 2024-12-10 5:46 PM
 
 - [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
 
-- Even under circumstances where no plans were in place, there were no efforts at hostile environment mitigation, they blamed the UCPD Chief, and they made up the Rick Braziel role without proper due diligence 
+- Even under circumstances where no plans were in place, there were no efforts at hostile environment mitigation, they blamed the UCPD Chief, and they made up the Rick Braziel role without proper due diligence, his role is also not what they originally stated
 
 - Administrative failures
 
@@ -377,13 +378,43 @@ updated_date: 2024-12-10 5:46 PM
 
 		- "However, it is not clear whether this Matrix was formally adopted, and our review indicated that it was not readily available to decision-makers."
 
+		- "Beyond this high-level Matrix document, UCLA did not, at the time of the encampment, have any plans for how to respond to campus disruptions and how decisions about University responses would be made.4 Because no codified plans existed, UCLA administrators engaged in a chaotic process in which they needed to make difficult decisions – 
+		some appearing to be matter of first impression for many involved – "
+
+		- "During the encampment period, two groups of stakeholders mobilized and met regularly to respond to the encampment and related protests and counter-protests. However, the role of each group was not well-established or commonly understood; there were not clear processes for decision-making; and it was not clear who had authority for final decision-making. Combined with the lack of prior planning for such an event, even when an encampment of this sort was reasonably foreseeable based on events at other campuses both nationally and locally, this resulted in some institutional paralysis, a highly chaotic decision making environment, and ultimately, an inability to effectively respond and protect students from violence."
+
 
 	- internal communication
 
 	- external communication 
 
+- Command structures 
+
+	- "One group that was convened to respond to the encampment was the Incident Response Team (“IRT”). The IRT meetings, held virtually, included a large number of campus stakeholders, including many who did not have formal decision-making roles. Although the IRT included police leadership, **key administrative leaders did not routinely attend the IRT’s meetings**."
+
+	- "However, several senior administrators indicated to the investigative team that the **IRT was not a decision-making body** and that, instead, the purpose of IRT meetings was largely to disseminate information."
+
+	- Side note: Office of Emergency Management was under Administrative Vice Chancellor Michael Beck, both this office and UCPD then moved to the Office of Campus Safety (a day before Block's congressional hearing-he reassigned Beck and UCPD Chief John Thomas)
+
+	- "They reported that the decision-making was done by the Emergency Management Planning Group."
+
+	- "The Emergency Management Planning Group (“EMPG”) was a smaller group of senior administrators – primarily Vice Chancellors and a limited number of additional, senior personnel –"
+
+	- "Like the IRT, it lacked clear leadership and decision-making processes. Meetings of the EMPG were characterized by free-flowing debate, internecine conflict, and a notable lack of decision-making"
+
+	- "The meetings **did not include representation from the UCLA Police Department** – which was coordinating the response of police and civilian, private security – and lacked an efective mechanism to ensure the EMPG had key information from the Police Department"
+
+
+
+
+
+
 - UCPD 
 
+	- "Crucially, the purpose of the IRT meetings was not clear to all members. UCLA PD personnel appeared to understand that the IRT was a decision-making body and were **frustrated by lack of clear leadership and direction** in the 			meetings."
+
+	- "At least one IRT meeting was led by Vice Chancellor for Strategic Communications, leaving some other UCLA personnel and **police leadership to conclude, whether true or not, that public safety decisions were being made by the communications team** rather than leaders with law enforcement experience and expertise."
+ 
 	- other security positions
 
 - Security failures

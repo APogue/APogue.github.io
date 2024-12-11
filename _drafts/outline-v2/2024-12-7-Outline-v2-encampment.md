@@ -26,7 +26,11 @@ https://www.cnn.com/2024/05/16/us/ucla-student-protests-counterprotesters-invs/i
 
 
 
+A lot of confusion around the blockading, the students thought it was no big deal, the protesters thought it was political, and the general public thought it was antisemitic
 
+Not sure the below are credible at all, but the author is a former mayor
+
+https://californiaglobe.com/tag/administrative-vice-chancellor-michael-beck/
 
 
 

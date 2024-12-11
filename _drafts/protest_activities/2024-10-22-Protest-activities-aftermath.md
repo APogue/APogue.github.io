@@ -158,7 +158,7 @@ updated_date: 2024-11-21 1:16 PM
 
 	- "Braziel, 64, who lives in Sacramento, said he never had a desire or intention to move to Los Angeles for a long-term job. He said he agreed to a short-term contract to review UCLA’s protest management and suggest institutional changes to improve safety practices after first being contacted by the UC Office of the President and then Block."
 
-	- "He said he understood his other job duties as helping UCLA through a peaceful commencement, and providing updates on security operations to Block, who testified before a congressional committee in May about campus efforts to combat antisemitism and manage protests. Block stepped down July 31."
+	- "He said he understood his other job duties **as helping UCLA through a peaceful commencement**, and providing updates on security operations to Block, who testified before a congressional committee in May about campus efforts to combat antisemitism and manage protests. Block stepped down July 31."
 
 	- "“I’m the person coming in for just a few months, hopefully fix things, get them moving down the road and then somebody else takes over when I’m gone,” he said."
 
@@ -191,6 +191,14 @@ updated_date: 2024-11-21 1:16 PM
 
 
 ### Interim Chancellor Hunt
+
+- [Q&A: Darnell Hunt discusses campus protests, challenges facing students](https://dailybruin.com/2024/09/25/qa-darnell-hunt-discusses-campus-protests-challenges-facing-students)
+
+	- "We can always do better, and certainly what happened last spring is not anything any of us wanted to see. We’ve been spending the summer trying to gain understanding step-by-step what occurred. I think the 21CP (21st Century Policing Solutions) report … is going to give a very detailed timeline of exactly what happened with facts and statistics. They’re going to make a series of recommendations. Then, our own internal investigation by Rick Braziel, who is our new associate **vice chancellor for campus safety, is going to then offer a report on implementation**. How do we actually respond to those recommendations? Some of the recommendations we’ve been anticipating and already made changes, and so he’ll be tracking our progress towards those."
+
+- [Our Four-Point Plan for a Safer, Stronger UCLA](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
+
+	- "I am grateful to Rick Braziel who, with just a few days’ notice, stepped into the newly established leadership role to help address several immediate needs: managing UCLA’s response to major demonstrations in the final weeks of the spring quarter and **ensuring that we could hold the commencement ceremonies our students and their families deserved**. **Braziel also initiated a review of UCLA’s safety protocols and police response to the events of last spring — which I will share with you when it is available**. "
 
 - [Interim Chancellor Hunt Four-Point Plan](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
 
