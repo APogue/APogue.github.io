@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-12-11 1:55 PM
+updated_date: 2024-12-12 5:57 PM
 ---
 
 ### Recently added articles 10-24
@@ -376,6 +376,10 @@ updated_date: 2024-12-11 1:55 PM
 
 	- when they make references to improper conduct, they are not always specific with regards to which events
 
+	- Multiple references to the Robinson-Edley Report 
+
+	- Basically Wade was correct 
+
 - Administrative failures
 
 	- Policy
@@ -411,6 +415,26 @@ updated_date: 2024-12-11 1:55 PM
 
 		- "Although UCLA has technically maintained structures and physical space allocated to an EOC, the emergency management function at UCLA, which is responsible for the EOC, has tended to be **under-resourced and marginalized**. During the encampment period, a true Emergency Center was not, as noted previously, established until May. Even when that EOC was finally activated, it was [not] utilized to its full potential, in part **because key leaders tend to send other personnel as proxies – minimizing the value of the EOC because central authorities were not present.**"
 
+	- UCPD 
+
+		- "At the same time, administrators lacked knowledge of basic police techniques and technology, the resources and personnel available to the Police Department, and the Incident command System that should have been operationalized during an emergency. Again, this created a frenzied decision-making process and left University leaders ill-equipped to guide and gauge the level of police intervention, **including by influencing the techniques used, timing the intervention to reduce the need for force and arrest**, and ensuring sufficient police were available to stop violence and protect public safety."
+
+			- Influencing the techniques used (why are munitions only used on students?) timing the intervention to reduce the risk of violence as well 
+
+		- "... ensure that plans align with the **University’s values**, and can increase the likelihood of an effective response consistent with **University objectives**."
+
+		- "The goal is for administrators and safety personnel in a crisis to be able to focus on implementing previously codified plans and decision-making processes rather than **thinking through issues as a matter of first impression during a time of crisis**" --this is a means to reflexively implement safety protocols irrespective of the assumed level of threat. This way they can always ensure safety and security. This is perhaps meant to safeguard against negligent behavior, or worse, reckless behavior (inciting violence)---not only were their **first instincts terrible with respect to the perceived level of threat, they defaulted to a state where they did not care about how things were being managed, and they acted irresponsibly from a rhetorical standpoint effectively putting students in harms way**--- all boils down to a total failure of leadership. 
+
+			- really there were several opportunities to mitigate risk---take the perceived level of threat seriously, arbitrarily step up security, or change messaging to the greater community. The administration failed on all three fronts. How can that be an accident? 
+
+			- hugely irresponsible given the size of these protests; there was a lack of authority taken from the people with the true intel with respect to ensuring the safety of these protesters. To put it plainly, if you want something done right you do it yourself esp. if there's any ambiguity in the situation. Any real leader would takeover at the risk of overstepping their boundaries. In unknown territory to delegate during chaos, knowing full well that people cannot do their jobs due to lack of intel etc, comes at the the peril of the leader and those they are trying to protect. 
+
+			- they didn't reprimand growing tension from counter-protesters
+
+			- when it came time to reprimand anyone, in the same fashion as before, they reprimanded the pro-Palestinian protesters only---effectively inciting violence
+
+			- violence which they were then unprepared for because no one stepped up in a time of crisis. 
+
 - Command structures 
 
 	- Two groups principally involved, the **IRT and the EMPG**
@@ -439,6 +463,10 @@ updated_date: 2024-12-11 1:55 PM
 	- "Crucially, the purpose of the IRT meetings was not clear to all members. UCLA PD personnel appeared to understand that the IRT was a decision-making body and were **frustrated by lack of clear leadership and direction** in the 			meetings."
 
 	- "At least one IRT meeting was led by Vice Chancellor for Strategic Communications, leaving some other UCLA personnel and **police leadership to conclude, whether true or not, that public safety decisions were being made by the communications team** rather than leaders with law enforcement experience and expertise."
+
+	- "The police were almost entirely uninvolved in decision-making – no one with extensive law enforcement management experience was present in the EMPG meetings to raise issues, provide feedback on proposed strategies, and gauge when and how police may be asked to intervene. This left law enforcement without a clear understanding of the University’s objectives, the principles upon which University leaders were making decisions, and University leadership’s balancing of implicated risks."
+
+
  
 	- other security positions
 
