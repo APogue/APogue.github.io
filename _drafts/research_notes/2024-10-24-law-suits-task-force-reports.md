@@ -380,11 +380,11 @@ updated_date: 2024-12-13 7:52 PM
 
 	- Basically Wade was correct 
 
-	- They blamed literally all parties involved but senior administration---Eli Tsives, parents and the greater community, protesters, chaos of the situation, bad or nonexistent policy, literally everyone. It looks like a carefully constructed document for vague accountability measures and policy suggestions with targeted explanations using blame shifting for serious security failures sprinkled in. Aka they are using accountability and policy suggestions as a vehicle for serious failures with carefully chosen parties to burden the blame. 
+	- They blamed literally all parties involved but senior administration---Eli Tsives, parents and the greater community, protesters, chaos of the situation, bad or nonexistent policy, literally everyone. It looks like a carefully constructed document for vague accountability measures and policy suggestions with targeted explanations using blame shifting for serious security failures sprinkled in. Aka they are using accountability and policy suggestions as a vehicle for the explanation of serious failures with carefully chosen parties to burden the blame. 
 
-	- The police were largely blamed for a failure in following proper mutual aid protocols 
+	- The police were largely blamed for a failure in following proper mutual aid protocols. Otherwise the document seeks to largely exonerate them.
 
-	- Otherwise the document seeks to largely exonerate them 
+	- The end of the article uses vague policy platitudes to direct blame at "UCLA," (who is UCLA?) but it is clear what they are implying. 
 
 - **Administrative failures**
 
