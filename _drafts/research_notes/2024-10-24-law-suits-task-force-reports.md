@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-12-13 7:52 PM
+updated_date: 2024-12-13 8:01 PM
 ---
 
 ### Recently added articles 10-24
@@ -541,10 +541,9 @@ updated_date: 2024-12-13 7:52 PM
 
 	- "The failure to do so will continue to place **UCLA PD and other response resources in the nearly impossible situation of being excluded from campus safety conversations, responses, and planning until there are no other options – while being expected to perform flawlessly with less involvement, information, and community relationships than necessary to ensure successful outcomes.**"
 
-	- "**UCLA may need to re-examine longstanding assumptions about policing and consider fundamental, significant changes to how communities ensure the well-being and safety of their members.**" ---Nail on the head here. 
+	- "**UCLA may need to re-examine longstanding assumptions about policing and consider fundamental, significant changes to how communities ensure the well-being and safety of their members.**" ---Nail on the head here. This is saying, do you even know how a community works? Let alone being a manager or carrying out policy. 
 
 	- "Whatever the result, UCLA must ensure clarity – **both within the administration and in outward communication** – regarding the role of the police to establish a responsive, equitable, and effective campus safety system for the future."
-
 
 
 - **Security failures**
