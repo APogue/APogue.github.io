@@ -4,13 +4,15 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2024-12-8 2:23 PM
+updated_date: 2024-12-14 10:33 PM
 ---
 
 
 
 
 ### Sergio Olmos
+
+LAPD reported that they did not have sufficient personnel on hand to intervene until 2:45 am on May 1st. Would you agree with this statement? 
 
 
 ### JVP (Benjamin Kersten)
