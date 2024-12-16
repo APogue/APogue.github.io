@@ -4,8 +4,65 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-8 5:17 PM
+updated_date: 2024-12-16 10:56 AM
 ---
+
+Blame the administration all the way through... 
+
+## Continue thought flow from 'intro'
+
+After large-scale protests occurring last Spring turned violent, the administration made immediate changes to resolve gaps in security it reasoned were the cause of out-of-control rioting that took place on April 30th.
+
+These moves were made while the "marketplace" was flooded with ideas and opinions of what went wrong that evening.
+
+To ameliorate any confusion and restore faith in accountability, UCOP Drake hired an independent consulting agency to review all procedures immediately leading up to and following the major protest and subsequent encampment removal by police. 
+
+"UC President Michael V. Drake, in a letter to the University of California Board of Regents obtained by The Times, said the way the incident was handled requires an outside inquiry.
+ 
+“There is sufficient confusion that I am ordering an independent external review of UCLA’s planning and its actions and of the mutual aid response” by law enforcement, he wrote in the letter. “I believe such a review can address many of my immediate questions but also help guide us for possible future events.”"
+
+[source](https://www.latimes.com/california/story/2024-05-01/why-did-it-take-police-so-long-to-end-the-violent-clashes-at-ucla)
+
+
+## Eli Tsives
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -71,15 +128,6 @@ Student C said they were hit in the head twice while trying to protect both the 
 
 
 
-## hook 2
-
-When the administration came to the decision to remove the encampment on May 1st after a week long protest turned violent the evening before, Darnell "Hunt told students that the reason for the decision was to protect student safety in the wake of the mob violence: "These police officers to my understanding were given the mandate to to clear out the encampment because of security risks."
-
-When pushed, he said it was because of "the people that attacked you last night," saying "[t]he point is to shut down an unsafe situation because we think the people [referring to the mob] are going to come back and we don't know how many may come back"
-
-Mr. Hunt conceded that the university initially supported student' rights to be at and maintain the encampment until the mob violence broke out, saying, "when this encampment set up, we did not move to dismantle it. In fact, we were working with you to keep it going until what happened last night." [source](https://www.aclusocal.org/sites/default/files/blair_v_regents_complaint.pdf)
-
-
 
 
 
@@ -100,6 +148,8 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 ## Hate speech constitutes harassment 
 
+- the issue with the mitigators is they are not addressing a systemic issue 
+
 - no deterrence to hate speech and physicality constituting harassment and a hostile environment
 
 - blockades went up because people were harassing 
@@ -108,39 +158,6 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 
 
-
-### Wasteful wasteful spending on speech absent of deterrence rhetoric, ie the cost of these protests, the costs of policing peaceful students 
-
-- Rick Braziel 
-
-	- what is his actual role
-
-	- tons of spending going in to complete tasks he was brought on for through independent contractors 
-
-	- feels like installing him so quickly without due diligence process was damage control 
-
-	- really just pointing the guns at students with answers of more, more, more security and police personnel for any event (polo shirts, hide people in buildings)
-
-- tons of money is being spent on policing activity on campus rather than using deterrence rhetoric
-
-- tons of money is being spent on policing peaceful students
-
-- all the money spent on munitions is being used on students only, why? 
-
-
-
-
-## policy
-
-what weapons were used, what is the list of banned items in ucla policy
-
-Bear spray?
-
-Bear spray is formulated to have a longer range (Counter Assault Bear Spray can reach up to 40 feet) than pepper spray (designed to only reach about 10 feet). 
-
-SECTION 100015. WEAPONS. 
-
-https://policy.ucop.edu/doc/3000127/NonAffiliateRegs#:~:text=No%20non%2Daffiliate%20shall%20solicit,profit%20or%20otherwise%2C%20except%20as
 
 
 
@@ -173,14 +190,6 @@ The reason these counter-demonstrators are drawn to protests over the war in the
 
 
 
-## Title VI
-
-Swastikas and the contemporary workaround 
-
-
-
-
-
 ## Hook 1 
 
 "Interrupted an interview of a guy calling the encampment antisemitic to say free Palestine, and the guy (interviewee) or one of the cameramen or one of the interviewee’s friends turned around and called me a faggot straight up. So much for those LGBTQ+ rights in Israel amirite
@@ -205,12 +214,4 @@ Can't say out loud but---
 Is this all part of a greater scheme to turn students against each other
 
 In doing so, they are emulating the current zeitgeist, contemporary society's worst traits 
-
-## Outline
-
-Hatespeech to far-right groups to Tsives and Milagro to USAC to shit talking on Verdugo
-
-JVP and SJP setup the (without CAC, why?) encampment to physical barriers were the solution 
-
-to encampment violence
 

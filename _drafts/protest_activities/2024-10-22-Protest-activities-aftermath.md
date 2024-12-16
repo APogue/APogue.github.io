@@ -266,6 +266,12 @@ updated_date: 2024-12-16 10:48 AM
 
 		“There is sufficient confusion that I am ordering an independent external review of UCLA’s planning and its actions and of the mutual aid response” by law enforcement, he wrote in the letter. “I believe such a review can address many of my immediate questions but also help guide us for possible future events.”"
 
+- [UC announces nationally-recognized firm will review actions that led to violent events at the UCLA campus last week](https://www.universityofcalifornia.edu/press-room/uc-announces-nationally-recognized-firm-will-review-actions-led-violent-events-ucla)
+
+	- "The firm is led by national experts on policing and civil rights, including Charles H. Ramsey, former Police Commissioner of the Philadelphia Police Department, former chief of the Washington, D.C., Metropolitan Police Department, and former co-chair of President Barack Obama’s Task Force on 21st Century Policing.
+
+		Higher education institutions that have hired 21CP to advise on their public safety services include Harvard University, the University of Oregon, and the University of Michigan. The 21CP team conducting our investigation will include (all bios available here):"
+
 ### UC Regents 
 
 - [UCLA spends millions on pro-Palestine protests, considers attendants to fund costs](https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs), updated July 29 at 10:19 a.m.

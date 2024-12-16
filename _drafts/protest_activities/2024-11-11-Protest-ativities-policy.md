@@ -377,6 +377,10 @@ updated_date: 2024-11-15 10:11 AM
 
 
 
+### UCOP independent review findings 
+
+- [UC releases statement regarding independent review of UCLA spring protests; commits to implementing recommendations and reforms](https://www.universityofcalifornia.edu/press-room/uc-releases-statement-regarding-independent-review-ucla-spring-protests-commits)
+
 
 
 
