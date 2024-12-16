@@ -4,7 +4,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: true
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-11-21 1:16 PM
+updated_date: 2024-12-16 10:48 AM
 ---
 
 ### Notes
@@ -126,6 +126,8 @@ updated_date: 2024-11-21 1:16 PM
 
 - Gene Block testimony [UCLA Policy---Should](https://alexiepogue.com/2024/05/30/In-the-Aftermath-of-the-Protest-Events-People-Should-be-Talking-and-UCLA-Needs-to-Come-to-the-Table/)
 
+	- Block reassigned John Thomas and the other guy the day before his congressional hearing
+
 	- It was **never stated that the encampment posed a safety risk to students,** although Block cited safety concerns as the reason for removal at the Committee hearing (Figure 56 @ 44:14). 
 
 		- If Block *was aware of the security risks*, and there was no indication students would leave, why weren’t police reinforcements on standby to **head off** any mounting tension? 
@@ -174,8 +176,27 @@ updated_date: 2024-11-21 1:16 PM
 
 - [21st century policing independent solutions June 7th](https://www.instagram.com/p/C77S9I_SNHs/?img_index=1)
 
+### UCPD (Chief John Thomas)
+
+- [Thomas left UCLA PD on Dec 10th](https://youtu.be/_hj6B2MpVaM?si=Xg84wlIRqA1LNxqr)
+
+    - No news on whether he was fired or he quit (judging from the 21 report that just came out I could see why he might have quit)
+
+    - All headlines (including the DB) are critical of Thomas. Only Wade Stern has stood up for him. 
+
+    - This video has clear footage from April 30th, the row of police doing "nothing" from one source
+
+    - It also has footage from another source of what looks like bear spray being used (did UCLA even update its policy?)
 
 ### Wade Stern says
+
+- [On campus protests](https://capitolweekly.net/ucla-protests-the-campus-police-perspective/)
+
+- On John Thomas and the aftermath at UCLA
+
+- [May, 2024](https://www.foxla.com/news/uc-police-union-blames-ucla-administration-for-lack-of-response-to-campus-violence)
+
+    "LOS ANGELES - The union that represents police officers at University of California schools has blamed UCLA administrators for the "lack of response" to violence that broke out at pro-Palestine student protests on campus this week, and said that any investigation into the issue should be independent."
 
 - [UCLA administrators ignored UC policies and now engage in blame-shifting](https://www.dailynews.com/2024/05/08/ucla-administrators-ignored-uc-policies-and-now-engage-in-blame-shifting/)
 
@@ -189,6 +210,29 @@ updated_date: 2024-11-21 1:16 PM
 
 	- "If this is not the case, then it should be easy for the **UCLA administration to identify those administrators who undertook the required annual training in crowd management and response.** UCLA can simply produce the plans developed before these protests, which guided their response, and demonstrate how the response dovetailed with those plans. Finally, the **UCLA administration can also show how it met the required training, briefing, and scenario planning that it was ordered to undertake both with its own police department and outside agencies prior to these protests.**
 
+
+- [UCLA police chief, blasted for security lapses that led to protest violence, is out](https://www.latimes.com/california/story/2024-12-11/ucla-police-chief-blasted-for-security-lapses-that-led-to-protest-violence-is-out)
+
+    I think she's off in terms of the weighting of fault wrt police compared to administration, I think they largely faulted the administration in the 21 report.
+
+    "In a statement of support for Thomas, the UC police union president said Thursday the university showed a “**glaring lack of accountability among UCLA administrators** for the disorganized and ineffective response to last spring’s campus protests.”
+
+    “The UCLA administration owns the failure of any protest response, and the public should reject their attempts to shift blame to law enforcement,” said Wade Stern, president of the Federated University Peace Officers Assn., which represents more than 250 police officers at the University of California’s 10 campuses.
+
+    “**Shockingly, only former UCLA PD Chief John Thomas faced consequences, while Chancellor Gene Block retired without accountability, and others remain in leadership**,” the statement said. “Chief Thomas, a dedicated leader, deserves far better than to be scapegoated for the administration’s repeated failures and poor decision-making.”
+
+    Stern noted that a UC independent review found that UCLA administrators had excluded campus police from some meetings and ordered officers to remain out of sight and to refrain from preventing students from bringing in barriers and equipment for their pro-Palestinian encampment."
+
+    - The "UC independent review," is of course not "independent."
+
+- [UCLA former police chief John Thomas leaves the department](https://www.nbclosangeles.com/news/local/ucla-former-police-chief-john-thomas-leaves/3581337/)
+
+	"Wade Stern, president of the Federated University Peace Officers Association (FUPOA), issued a statement on Thomas' departure. The organization represents more than 250 police officers at ten campuses within the University of California Police Department System.
+
+	"The departure of former UCLA Police Chief John Thomas underscores the **glaring lack of accountability among UCLA administrators** for the disorganized and ineffective response to last spring’s campus protests," Stern said. "Despite a detailed investigation revealing that UCLA PD was deliberately excluded from critical meetings and 'almost entirely uninvolved in decision-making,' no administrators have faced consequences for their failures.
+
+	"Law enforcement was left in the dark about the University’s objectives and decision-making processes, while administrators actively obstructed UCLA PD by ordering them to remain out of sight and blocking efforts to prevent students from bringing in barriers and equipment. **Shockingly, only former UCLA PD Chief John Thomas faced consequences, while Chancellor Gene Block retired without accountability, and others remain in leadership**.""
+	
 
 ### Interim Chancellor Hunt
 
