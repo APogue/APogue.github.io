@@ -28,9 +28,14 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 
 
 ### UCPD (Chief John Thomas)
-““As altercations at the encampment began to increase, Thomas acknowledged that campus leadership changed direction and authorized him to supplement UCLA police and private security with increased external law enforcement, saying overtime would be paid. He could not recall exactly when that occurred, but he said he immediately contacted the LAPD and L.A. County Sheriff’s Department to secure their assistance.”
 
-Tracking Newsroom updates this sounds like April 30th?
+1. ““As altercations at the encampment began to increase, Thomas acknowledged that campus leadership changed direction and authorized him to supplement UCLA police and private security with increased external law enforcement, saying overtime would be paid. He could not recall exactly when that occurred, but he said he immediately contacted the LAPD and L.A. County Sheriff’s Department to secure their assistance.”
+
+    Tracking Newsroom updates this sounds like April 30th?
+
+2. The report from 21 solutions indicates that UCPD were made aware of the April 28th permit. 
+
+    The LAPD report states that UCPD and mutual aid partners were able to clear clashing counter-protesters that day. Was deescalation possible due to more advanced notice? 
 
 
 ### SJP (Mohammed) 

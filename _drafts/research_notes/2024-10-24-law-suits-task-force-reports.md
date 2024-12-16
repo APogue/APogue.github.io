@@ -323,15 +323,48 @@ updated_date: 2024-12-13 8:01 PM
 
 	- Braziel mentioned the best way to conceal security forces would be to put them in blue in gold polo shirts and hide them in buildings, this would effectively make campus feel more like campus. Clearly professors find that disruptive. 
 
-
 ### Independent reviews
-
 
 - [Two major reports slam UCLA over policing, violence at pro-Palestinian protest](https://www.latimes.com/california/story/2024-11-01/ucla-usc-encampments-police-commission-reports)
 
 	- [Antisemitism on college campuses exposed](https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf)
 
 	- [University of California Los Angeles Campus Protest After-Action Report](https://www.lapdpolicecom.lacity.org/110524/BPC_24-285.pdf)
+
+		- "The investigation into LAPD's response revealed LAPD had a limited role in the events on campus. Although there were minor uses of force by LAPD personnel, in general the LAPD's role was to support UCLA Police Department (UCLAPD) and provide for the personal safety and security of the UCLAPD and California Highway Patrol (CHP) around the perimeter of the protests."
+
+		- The first part of the document goes into a Memorandum of agreement, which sounds a lot like LAPD is holding a grudge because UCLA "distanced themselves from the LAPD" and would not permit them to use UCLA property for any protest-related activity. Feels like they are insinuating UCLA "brought this upon themselves" through 1. No LAPD allowed to use UCLA property 2. UCLA doesn't want "police presence" at protests 3. UCLA has a separate set of values they promote with regard to the treatment of peaceful protesters 4. There was a predetermined way that UCLA could ask LAPD for assistance. 
+
+		- April 28. 2024
+
+			"The encampment grows to approximately 150 tents and 400 to 500 protesters.
+
+			By 10:41 a.m. calls for service from community members begin to come in regarding the protestors and counter-protestors clashing. Approximately 10 calls from community members are generated during the day related to the protest. While a small group of LAPD personnel are on campus and available to assist UCLAPD if needed, LAPD remains uninvolved in the protest. **By 3:13 p.m., UCLAPD, Beverly Hills Police Department, Culver City Police Department, and Santa Monica Police Department clear the counter-protestors from the other areas on campus and the Zone encampment remains**." ---The below report from 21 solutions indicates that UCPD were made aware of the April 28th permit, looks like they were prepared.  
+
+		- April 29. 2024
+
+			"The encampment remains on campus and no issues arise until close to midnight. **At 11:49 p.m.,UCLAPD requests assistance from LAPD**. Units from LAPD are dispatched and begin to arrive at UCLA at 12:11 a.m. However, at 12:16 a.m., UCLAPD cancels the request for LAPD personnel. Shortly after that, all LAPD units leave the campus."
+
+		- April 30, 2024
+
+			"At 6:27 p.m., the first community member calls LAPD Communications Division to report violence on the campus and the information is given to UCLAPD to handle. At approximately 11:00 p.m., 911 calls from the community related to the protest begin to pick up. At 11:07 p.m., Commander Lurie receives information from Chief Thomas and Lieutenant Chobanian about UCLAPD being overwhelmed by the crowd; however, it is not until 11:31 p.m. that UCLAPD requests mutual aid through Communications Division.
+
+			Between 6:27 p.m. and midnight, 19 community member 911 calls were received by LAPD
+			Communications Division related to violence or fireworks on campus; however, some of those
+			were placed by community members that were watching the events on television or social media."
+
+		- May 1, 2024
+
+			"By 12:11 a.m. the first mutual aid units arrive on campus. At 1:14 a.m., Commander Lurie arrives on campus and begins coordinating with CHP and UCLAPD on a plan to break up the clashing protestors. **By 1:41 a.m., three Mobile Field Force (MFF) squads were assembled with officers from CHP and LAPD**." ---This was Newsom and Karen Bass.
+			
+			"By 1:44 a.m., the MFF squads meet the protestors and begin to separate the pro-Palestinian and pro-Israeli crowds near the flagpole; however, **they take no further action to clear the crowds because they are coordinating a plan and waiting for more resources to arrive. The squads remain at the flagpole for approximately one-hour.** 
+			
+			Basic crowd control tactics dictate that entering a crowd without enough resources to make arrests, properly secure critical points, and avoid being overwhelmed by the crowd is dangerous for the public and officers. Therefore, it was imperative that sufficient personnel were assembled prior to further entry into the crowd. ---The journalists didn't have a problem with crowd density at all. 
+
+			By 1:51 a.m., an additional 21 calls from community members were received by LAPD Communications Division (at least seven of which were placed by community members who were watching the events on television or social media).
+
+			At 2:43 a.m., the CHP began to clear the rest of the Royce Hall courtyard near the encampment **since more officers continued to arrive**. By 3:48 a.m., the courtyard was cleared of protestors, but the encampment was allowed to remain."
+
 
 - [Independent Investigation & After-Action Review of Encampment-Related Events at the University of California, Los Angeles, April 2024 through May 6, 2024: Recommendations](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
 
