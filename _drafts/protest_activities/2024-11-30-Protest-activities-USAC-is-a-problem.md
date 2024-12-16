@@ -4,7 +4,7 @@ title: "Protest activities-USAC is a Problem"
 published: true
 author: Alexie Pogue
 date: 2024-11-30 6:00 PM
-updated_date: 2024-12-2 11:47 AM
+updated_date: 2024-12-16 5:02 PM
 ---
 
 The red triangle symbol first began with CAC
@@ -25,11 +25,13 @@ The rules and policy can be integrated into the story
 
 			- Discrimination represents a conflict of interest when involved in political activity 
 
-		- II.E. Removal Process
+		- I.E. Discrimination
 
-			- The process for initiating a hearing solely based on the identification of cause
+			- "All grievances shall be handled with the following procedure: First, an appeal to the office or commissioner shall be made. If the plaintiff is dissatisfied, then an appeal can be made to the Judicial Board.The Council shall by three-fourths(3/4) vote of its entire voting membership be able to override the Judicial Board decision."
 
-			- Removal from Council requires 2/3 vote
+		- III.B.4 Guidelines for Council Student Group Sponsorship
+
+			- "No Council sponsored group shall at any time promote discrimination with regard to race, gender, sexual orientation, disability, or religion. It should be understood that if a group commits an act that violates this guideline, then that group shall be subject to sanctions imposed by the Council which may lead to de-sponsorship."
 
 	- UC student government has the [right to take positions on public issues](https://policy.ucop.edu/doc/2710526/PACAOS-60)
 

@@ -23,6 +23,18 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 
 - Have USAC members ignored calls for diplomacy with Hillel? 
 
+- [USAC Cultural Affairs Commissioner faces allegation of antisemitic discrimination](https://dailybruin.com/2024/11/29/usac-cultural-affairs-commissioner-faces-allegation-of-antisemitic-discrimination)
+
+    “I have every reason to believe, based on these numbers – as well as the quotes we have from Verdugo – that our perceived associations with Zionism were attached to our Jewish faith, and we were rejected,” Brannon said.
+
+- [Evidence Suggests Jewish Students Denied from Cultural Affairs, Judicial Board Petition Claims](https://haam.org/evidence-suggests-jewish-students-denied-from-cultural-affairs-judicial-board-petition-claims/)
+
+- [USAC Judicial Board](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/674fef1a6bb1423092cf8e48/1733291803166/Bella+Brannon+Memorandum+.pdf)
+
+- [USA Judicial Board to hear antisemitism case against Cultural Affairs commissioner](https://dailybruin.com/2024/12/03/usa-judicial-board-to-hear-antisemitism-case-against-cultural-affairs-commissioner)
+
+    "In the memorandum granting the petition, Venkatesh said the board will formally consider whether Verdugo violated Article I, Section E of the USA Bylaws, which prevents USAC from supporting or being affiliated with “any organization which legally discriminates on the basis of: race, creed, sex (except as exempt from Title IX), age, national origin, religion, physical handicap, or sexual orientation.”"
+
 ### The Daily Bruin (Catherine Hamilton)
 
 

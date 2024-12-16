@@ -11,7 +11,7 @@ Blame the administration all the way through...
 
 ## Continue thought flow from 'intro'
 
-After large-scale protests occurring last Spring turned violent, the administration made immediate changes to resolve gaps in security it reasoned were the cause of out-of-control rioting that took place on April 30th.
+After a large-scale pro-Palestine protest turned violent last Spring, the administration made immediate changes to resolve gaps in security it reasoned were the cause of out-of-control rioting that took place on April 30th.
 
 These moves were made while the "marketplace" was flooded with ideas and opinions of what went wrong that evening.
 
@@ -38,7 +38,6 @@ https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_inv
 
 "He's now considered a public figure given his recent decision to become a right wing media influencer."
 
-https://www.theguardian.com/us-news/article/2024/may/10/college-campus-protests-far-right
 
 
 
@@ -187,6 +186,7 @@ Milagro Jones
 
 The reason these counter-demonstrators are drawn to protests over the war in the Middle East, he said, was that they see them through the prism of a broader rightwing view that “traditional” societies and families are under threat. “Their animosity towards the campus demonstrations are part of this Christian far-right perspective that LGBTQ folks are threats to Christianity, and so are Palestinians or Muslims,” Cravens said."
 
+https://www.theguardian.com/us-news/article/2024/may/10/college-campus-protests-far-right
 
 
 
