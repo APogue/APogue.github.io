@@ -30,6 +30,15 @@ To ameliorate any confusion and restore faith in accountability, UCOP Drake hire
 
 
 
+https://www.reddit.com/r/ucla/comments/1cjck8s/lets_talk_about_student_influencer_eli_tsives/
+
+https://www.reddit.com/r/ucla/comments/1chfs45/more_lies/
+
+https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_investigate_whether/
+
+"He's now considered a public figure given his recent decision to become a right wing media influencer."
+
+https://www.theguardian.com/us-news/article/2024/may/10/college-campus-protests-far-right
 
 
 
@@ -170,15 +179,6 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 While responses to requests for passage varied, the question "are you a Zionist" was captured on film on several occasions. 
 
-https://www.reddit.com/r/ucla/comments/1cjck8s/lets_talk_about_student_influencer_eli_tsives/
-
-https://www.reddit.com/r/ucla/comments/1chfs45/more_lies/
-
-https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_investigate_whether/
-
-"He's now considered a public figure given his recent decision to become a right wing media influencer."
-
-https://www.theguardian.com/us-news/article/2024/may/10/college-campus-protests-far-right
 
 Milagro Jones
 
