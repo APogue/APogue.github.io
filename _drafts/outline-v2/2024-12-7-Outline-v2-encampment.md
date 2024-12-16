@@ -26,6 +26,14 @@ To ameliorate any confusion and restore faith in accountability, UCOP Drake hire
 
 ## Eli Tsives
 
+Instagram 
+
+https://www.instagram.com/p/C6RcJdWrTXq/
+
+https://www.instagram.com/p/C6VJ9rYLTj4/
+
+https://www.instagram.com/p/C6WseJ2Jp3x/
+
 https://www.reddit.com/r/ucla/comments/1cg8l6e/protesters_blocking_students_from_moving_through/
 
 https://www.reddit.com/r/ucla/comments/1cgyqoy/jewish_ucla_student_blocked_from_entering_his_own/

@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2024-12-15 9:24 PM
+updated_date: 2024-12-16 5:43 PM
 ---
 
 
@@ -22,6 +22,12 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 ### Hillel (Bella)
 
 - Have USAC members ignored calls for diplomacy with Hillel? 
+
+- [Fox News: UCLA students allege discrimination on campus](https://noticias.foxnews.com/video/6365452331112)
+
+    - Has she or any other Jewish members of UCLA filed a Judicial Board petition before? Specifically referring to the [UCLA BIPAC message](https://www.instagram.com/p/C3a68r6uAHC/?igsh=ZWMyNDBlOTQyNg%3D%3D&img_index=3)
+
+    - There was a recall petition, but did they go through any of the appropriate channels? 
 
 - [USAC Cultural Affairs Commissioner faces allegation of antisemitic discrimination](https://dailybruin.com/2024/11/29/usac-cultural-affairs-commissioner-faces-allegation-of-antisemitic-discrimination)
 
