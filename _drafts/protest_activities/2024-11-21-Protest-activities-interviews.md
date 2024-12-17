@@ -29,6 +29,8 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 
     - There was a recall petition, but did they go through any of the appropriate channels? 
 
+    - She mentioned "the university doing nothing," had they submitted reports about CAC to the university before? 
+
 - [USAC Cultural Affairs Commissioner faces allegation of antisemitic discrimination](https://dailybruin.com/2024/11/29/usac-cultural-affairs-commissioner-faces-allegation-of-antisemitic-discrimination)
 
     “I have every reason to believe, based on these numbers – as well as the quotes we have from Verdugo – that our perceived associations with Zionism were attached to our Jewish faith, and we were rejected,” Brannon said.

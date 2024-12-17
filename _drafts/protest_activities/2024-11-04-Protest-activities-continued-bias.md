@@ -4,7 +4,7 @@ title: "Protest activities-continued bias after April 30th"
 published: true
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-12-07 2:46 PM
+updated_date: 2024-12-17 1:31 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
@@ -227,7 +227,23 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 		- Bruin Plaza is an approved area for public expression, not sure how that relates to fire code, but the Sukkahs were on the wrong side of Dickson Court
 
-	- [Chabad House at UCLA Sukkah post](https://www.instagram.com/p/DBdM7GFxygf/?img_index=12)
+- [UCPD sweeps Gaza solidarity sukkah in Dickson Court, one protester arrested](https://dailybruin.com/2024/10/23/ucpd-sweeps-gaza-solidarity-sukkah-in-dickson-court-one-protester-arrested)
+
+	- "At 8:04 p.m., Betar – a self-described national Zionist organization – emailed a statement to the Daily Bruin calling for police to take action against the pro-Palestine protesters and criticizing UCLA’s approach to policing. They added in the statement that they were willing to pay legal fees for pro-Israel counter-protesters who “make it uncomfortable” for those inside the sukkah encampment.
+
+		“We demand police remove these thugs now and if not we will be forced to organize groups of Jews to do so,” they said in the statement. “We urge all Jews to go directly to this area and do not appease those who say stay away.”
+
+		Minutes later, around 30 pro-Israel protesters arrived outside the sukkah, attempting to enter the temporary structure that had been set up. Many of the pro-Israel protesters also heckled sukkah participants, including by calling them “terrorists.”
+
+		At 8:22 p.m., around 50 UCPD officers wearing riot gear arrived in Dickson Court North, surrounding the sukkah encampment and instructing protesters to disperse. According to a post from UCPD on the social platform X, officers announced a dispersal order just after 8:30 p.m., after which most pro-Palestine protesters left the area.
+
+		In response, pro-Israel protesters cheered and shouted, “We love you, LAPD.” The Daily Bruin was unable to confirm the presence of any LAPD officers on campus Monday.
+
+		“One person was arrested tonight for failure to disperse at Dickson Court North following a dispersal order for an unauthorized demonstration involving about 40 people,” UCPD said in a statement posted on X at 9:58 p.m. Monday. “The area is now clear.”"
+
+	
+
+- [Chabad House at UCLA Sukkah post](https://www.instagram.com/p/DBdM7GFxygf/?img_index=12)
 
 - [Braziel's handling of Oct 7](https://www.latimes.com/california/story/2024-10-11/intense-ucla-policing-draws-scrutiny-as-security-chief-speaks-out-on-protests)
 

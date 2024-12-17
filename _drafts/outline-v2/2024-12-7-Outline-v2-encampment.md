@@ -9,6 +9,12 @@ updated_date: 2024-12-16 7:13 PM
 
 Blame the administration all the way through... 
 
+was this caused by Eli and the surrounding community, pushing UCLA into quick decision making in chaotic circumstances? 
+
+attempted to explain away any wrongdoing. 
+
+ignored a greater and greater divide and when they did address anything, it was always in service of the pro-Israel cause. 
+
 ## Continue thought flow from 'intro'
 
 Following a large-scale pro-Palestine protest that escalated into rioting last spring, the administration took immediate measures to address security gaps it reasoned were the cause.
