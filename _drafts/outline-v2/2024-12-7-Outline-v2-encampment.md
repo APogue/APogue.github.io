@@ -36,6 +36,8 @@ It also refrained from placing blame on individual actors, broadly referring to 
 
 "Administrators, including communications professionals, scrambled to respond. As with other aspects of the University’s response, it was often unclear who the final decision-makers were, leading to conflict between administrators and communications professionals. Simultaneously, the absence of clear response objectives and plans resulted in **a muddled communication strategy that, at times, prioritized optics over other interests**."
 
+[source](https://www.universityofcalifornia.edu/sites/default/files/2024-11/UCLA-independent-investigation-and-after-action-review-recommendations-21CP-solutions.pdf)
+
 Instagram 
 
 https://www.instagram.com/p/C6RcJdWrTXq/
