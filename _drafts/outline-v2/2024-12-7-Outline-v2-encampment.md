@@ -4,16 +4,16 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-16 10:56 AM
+updated_date: 2024-12-16 7:13 PM
 ---
 
 Blame the administration all the way through... 
 
 ## Continue thought flow from 'intro'
 
-After a large-scale pro-Palestine protest turned violent last Spring, the administration made immediate changes to resolve gaps in security it reasoned were the cause of out-of-control rioting that took place on April 30th.
+Following a large-scale pro-Palestine protest that escalated into rioting last spring, the administration took immediate measures to address security gaps it reasoned were the cause.
 
-These moves were made while the "marketplace" was flooded with ideas and opinions of what went wrong that evening.
+These moves were made while the "marketplace" was flooded with opinions of what went wrong.
 
 To ameliorate any confusion and restore faith in accountability, UCOP Drake hired an independent consulting agency to review all procedures immediately leading up to and following the major protest and subsequent encampment removal by police. 
 
@@ -25,6 +25,16 @@ To ameliorate any confusion and restore faith in accountability, UCOP Drake hire
 
 
 ## Eli Tsives
+
+The report made use of empirical evidence in an attempt to identify the root cause of certain actions taken by the administration. 
+
+Seemingly aware of the flawed logic, the report was sufficiently vague, effectively putting into words what "could have been the cause of this" or "what might have been the reasoning" for that. 
+
+It also refrained from placing blame on individual actors, broadly referring to agencies or groups of administrators, and made use of euphemisms to avoid language that might be construed as "problematic" for UCLA's reputation. 
+
+"Our review of emails and other electronic communications revealed that, once the encampment was established, administrators were bombarded with questions from within and outside the UCLA community about how it planned to respond. **Particularly after social media posts about Jewish students being excluded from portions of campus went viral**, administrators were inundated with complaints and concerns from parents, politicians, and community members about why the University was allowing it to continue."
+
+"Administrators, including communications professionals, scrambled to respond. As with other aspects of the University’s response, it was often unclear who the final decision-makers were, leading to conflict between administrators and communications professionals. Simultaneously, the absence of clear response objectives and plans resulted in **a muddled communication strategy that, at times, prioritized optics over other interests**."
 
 Instagram 
 
