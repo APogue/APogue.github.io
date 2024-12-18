@@ -264,7 +264,9 @@ updated_date: 2024-12-15 9:24 PM
 - [Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress](https://crsreports.congress.gov/product/pdf/R/R47828)
 
 
-### Task force reports
+### Task force reports and surveys
+
+- [New CAIR survey reveals 1 in 2 Muslim students reported harassment at California colleges](https://www.ocregister.com/2024/11/19/new-cair-survey-reveals-1-in-2-muslim-students-reported-harassment-at-california-colleges/)
 
 - [ANTISEMITISM AND ANTI-ISRAELI BIAS AT UCLA](https://antisemitismreport.org/) 
 

@@ -64,6 +64,7 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 
 ### UCLA Faculty 
 
+- Robin D.G. Kelley
 
 - Myers 
 

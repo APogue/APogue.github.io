@@ -144,6 +144,8 @@ date: 2024-11-30 3:54 PM
 
 	- "A young woman sat shaded by an Israeli flag, blood visible on her scalp, awaiting medical attention after she said she was shoved to the ground by another demonstrator while attempting to retrieve her fallen flag."
 
+		- looks like "other demonstrator" (above) was pro-Israel (?) That's what Robin D.G. Kelley says, looks like the LA Times wasn't clear about it though. 
+
 	- "In one case witnessed by The Times, a demonstrator entered the pro-Palestinian encampment and shoved a woman to the ground."
 
 

@@ -65,23 +65,59 @@ https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_inv
 "He's now considered a public figure given his recent decision to become a right wing media influencer."
 
 
+## Gene Block 
+
+- [Victory: California Court Rules for Pro-Palestinian Activists in Doxing Case](https://palestinelegal.org/news/2021/3/11/victory-california-court-rules-for-pro-palestinian-activists-in-doxing-case)
+
+- [National Students for Justice in Palestine conference goes on despite on-campus protest](https://dailybruin.com/2018/11/18/national-students-for-justice-in-palestine-conference-goes-on-despite-on-campus-protest)
+
+- [LA City Council calls on UCLA to cancel Students for Justice in Palestine event](https://dailybruin.com/2018/11/08/la-city-council-calls-on-ucla-to-cancel-students-for-justice-in-palestine-event)
+
+- [Op-Ed: The controversial Students for Justice in Palestine conference will go on at UCLA. Here’s why](https://www.latimes.com/opinion/op-ed/la-oe-block-ucla-students-for-justice-in-palestine-conference-20181112-story.html)
+
+
+"The Israeli-Palestinian conflict has been among the most volatile issues at UCLA, but that volatility cannot prevent us from addressing it."
+
+"Some students, community members and even the Los Angeles City Council, concerned by anti-Semitic statements made by some SJP members around the country, have demanded that UCLA cancel the event."
+
+"On both routine academic matters and controversial issues, the overwhelming majority of university leaders — and that includes me — strive to preserve the rights of all sides to speak and be heard. At the same time, we recognize the often existential impact of emotionally charged debates about issues like the Mideast conflict, immigration, affirmative action and abortion. Preserving the right to speak about such issues does not validate the content of that speech. All too often affording a group their constitutional rights is falsely perceived as an institutional endorsement of their message."
+
+"It remains an awkward reality that our constitutional system, and democracy’s commitment to open debate, demand that Americans allow speech we may oppose."
+
+"When SJP announced its intention to hold its national conference at UCLA, the university recognized its legal right to do so. Much of what will be said at that conference may be deeply objectionable — even personally hurtful — to those who believe that a complex conflict is being reduced to a one-sided caricature, or see a double standard that demonizes the world’s only Jewish state while other countries receive less condemnation for dreadful behavior. Indeed, there is fear among some that the conference will be infused with anti-Semitic rhetoric."
+
+
+- [Letter from concerned students and faculty on allegations of anti-Semitism against NSJP](https://docs.google.com/forms/d/e/1FAIpQLSddXPrcK8TkWHyxKQ444_gdyneNtXiyabRNmWALgJ_7oYblBg/viewform?fbclid=IwAR0cVKvUXAGLPryaCR7udcwLkWEekf6zUwUyNuaW9CoNY41QsZRsFocqUsg)
+
+
+In light of the resolution passed by the Los Angeles City Council as well as the verbal and physical attacks on undergraduate Muslim students on campus this week, we — as both Jewish and non-Jewish students and faculty of UCLA — are writing to firmly advise UCLA to refrain from intervening against the planned NSJP conference at UCLA.
+
+Additionally, in light of the Yad Yamin protest on November 6, we seriously urge the University to take extraordinary measures to protect the safety of conference attendees. The safety of students must be prioritized over dangerous political stunts. We must agree with City Councilman Paul Koretz (https://bit.ly/2RCES1Y)) that “our campuses should never become an environment where students of any origin are harassed, bullied, or prohibited from learning.” Given the ongoing harassment of Muslim students on our campus by outside groups and individuals, the safety of Muslim students attending the conference is a grave and critical concern. 
 
 
 
+- [UCLA’s Unholy Alliance](https://www.bostonreview.net/articles/uclas-unholy-alliance/)
+
+This was written by Robin D.G. Kelley
 
 
 
+- [‘Shut it down!’ How group chats, rumors and fear sparked a night of violence at UCLA](https://www.latimes.com/california/story/2024-05-10/how-social-media-rumors-sparked-a-night-of-mayhem-at-ucla)
+
+This article considers social media the issue 
 
 
+- [Resolution](https://static1.squarespace.com/static/6508fc8793db9d26ceab8952/t/65093f0232032a4edc39b4f9/1695104770978/A+Resolution+In+Favor+of+Equalized+Access+to+UCLA+for+Non-Commerical+Speech+Events%3B+Specifically+in+Regards+to+SJP.pdf), Resolution passed 11/13/18
 
+		- "WHEREAS, Muslim women were verbally harassed and physically assaulted on November 6th by individuals protesting the NJSP conference and have received minimal support from the university regarding the instance;"
 
+		- "WHEREAS, UCLA students and faculty members wrote to Chancellor Block to “firmly advise
+		UCLA to refrain from intervening against the planned NSJP conference and to take
+		extraordinary measure to protect attendees.”11;"
 
+		- "LET IT BE RESOLVED, The Undergraduate Student Association council of UCLA recognizes and condemns the threats and harm that students have faced from external forces for expressing their protected constitutional rights."
 
-
-
-
-
-
+		- "LET IT BE FURTHER RESOLVED That the USAC commends the pre-existence of a Jewish Caucus within NSJP but recognizes that inclusion of the Jewish community and condemnation of anti-Semitism amongst registered conference attendees must be ongoing; "
 
 
 

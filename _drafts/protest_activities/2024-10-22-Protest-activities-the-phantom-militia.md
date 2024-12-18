@@ -112,6 +112,6 @@ The October incident was serious, it needs to be relayed as such. And informatio
 
 	- "“At on-campus events, UCPD and Student Affairs Monitors — who are trained on de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions while protecting participants’ right to speak,” he said in the statement."
 
-		
+- [‘I’ve been terrified.’ Student fears triggered by Israeli-Palestinian conflict skyrocket](https://www.latimes.com/california/story/2024-05-02/student-fears-triggered-by-israel-palestinian-tensions-skyrocket)
 
 
