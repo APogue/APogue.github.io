@@ -4,7 +4,7 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-18 4:47 PM
+updated_date: 2024-12-18 6:01 PM
 ---
 
 Blame the administration all the way through... 
@@ -144,9 +144,22 @@ The encampment
 
 - [‘Shut it down!’ How group chats, rumors and fear sparked a night of violence at UCLA](https://www.latimes.com/california/story/2024-05-10/how-social-media-rumors-sparked-a-night-of-mayhem-at-ucla)
 
+https://www.reddit.com/r/ucla/comments/1ct6cnu/various_counterprotestor_assailants_have_been/
+
+https://www.reddit.com/user/Kahzgul/
+
+CNN didn't run a news story announcing their investigation either; they investigated, and then they ran a news story. As part of that investigation, they reached out to people who were collecting information, and then they corroborated that information. I was one of those people. No one from any law enforcement agency has reached out to me or any of my contacts. Which is to say that law enforcement is not investigating as rigorously as CNN did.
+
+https://www.reddit.com/r/ucla/comments/1ci7qrf/this_guy_needs_to_go_to_jail/
 
 
+https://knockla.org/ucla-pro-palestine-encampment-attack/
 
+"Earlier in the day on April 30th, Nouri Mehdizadeh would be photographed with a message on his phone that read “enjoy tonight.”"
+
+Current
+
+https://nypost.com/2024/11/23/us-news/zionist-org-preps-list-of-foreign-pro-hamas-students-hoping-trump-will-deport-them/
 
 
 
