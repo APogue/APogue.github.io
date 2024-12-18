@@ -4,7 +4,7 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-16 7:13 PM
+updated_date: 2024-12-18 4:47 PM
 ---
 
 Blame the administration all the way through... 
@@ -101,9 +101,6 @@ Additionally, in light of the Yad Yamin protest on November 6, we seriously urge
 This was written by Robin D.G. Kelley
 
 
-
-- [‘Shut it down!’ How group chats, rumors and fear sparked a night of violence at UCLA](https://www.latimes.com/california/story/2024-05-10/how-social-media-rumors-sparked-a-night-of-mayhem-at-ucla)
-
 This article considers social media the issue 
 
 
@@ -119,14 +116,33 @@ This article considers social media the issue
 
 		- "LET IT BE FURTHER RESOLVED That the USAC commends the pre-existence of a Jewish Caucus within NSJP but recognizes that inclusion of the Jewish community and condemnation of anti-Semitism amongst registered conference attendees must be ongoing; "
 
+The teach-in 
 
+https://nypost.com/2024/11/23/us-news/zionist-org-preps-list-of-foreign-pro-hamas-students-hoping-trump-will-deport-them/
 
+https://www.reddit.com/r/IsraelPalestine/comments/17etpj0/ucla_propalestine_emergency_teachin/
 
+https://newsroom.ucla.edu/correcting-misinformation-related-to-campus-events
 
+https://newsroom.ucla.edu/maintaining-a-safe-learning-and-working-environment-for-all
 
+https://newsroom.ucla.edu/resources-to-support-safety-respect-and-well-being
 
+https://nypost.com/2023/10/13/ucla-professors-lead-controversial-pro-palestine-panel/
 
+https://www.thecollegefix.com/ucla-students-offered-extra-credit-to-attend-anti-israel-teach-in/
 
+https://x.com/AYM_Higher_/status/1712229707893105035
+
+https://x.com/Jfish28/status/1712276613293904253
+
+https://x.com/UCLAchancellor/status/1785460236440252890
+
+https://www.meforum.org/campus-watch/confronting-masked-antisemitism-at-ucla-emergency
+
+The encampment 
+
+- [‘Shut it down!’ How group chats, rumors and fear sparked a night of violence at UCLA](https://www.latimes.com/california/story/2024-05-10/how-social-media-rumors-sparked-a-night-of-mayhem-at-ucla)
 
 
 
