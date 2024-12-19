@@ -111,7 +111,7 @@ https://www.latimes.com/california/story/2024-05-01/four-student-journalists-att
 
 "Interrupted an interview of a guy calling the encampment antisemitic to say free Palestine, and the guy (interviewee) or one of the cameramen or one of the interviewee’s friends turned around and called me a faggot straight up. So much for those LGBTQ+ rights in Israel amirite
 
-Also the reporter laughed no kidding the camera men too this was KTLA btw...just trash as fuck like u live in socal bro.” ￼
+Also the reporter laughed no kidding the camera men too this was KTLA btw...just trash as fuck like u live in socal bro.”
 
 ## Hillel
 
