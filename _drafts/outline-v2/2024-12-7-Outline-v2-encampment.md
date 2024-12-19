@@ -4,7 +4,7 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-18 6:01 PM
+updated_date: 2024-12-18 7:06 PM
 ---
 
 Blame the administration all the way through... 
@@ -152,10 +152,45 @@ CNN didn't run a news story announcing their investigation either; they investig
 
 https://www.reddit.com/r/ucla/comments/1ci7qrf/this_guy_needs_to_go_to_jail/
 
+activist pages
+
+https://scheerpost.com/2024/05/16/ucla-attackers-exposed-meet-the-violent-zionist-agitators-la-police-havent-arrested/
 
 https://knockla.org/ucla-pro-palestine-encampment-attack/
 
 "Earlier in the day on April 30th, Nouri Mehdizadeh would be photographed with a message on his phone that read “enjoy tonight.”"
+
+https://x.com/ACatWithNews/status/1791005400374165863
+
+Sean Beckner-Carmitchel & Kate Burns are the authors... I think I have some of Beckner-Carmitchel's stuff from June 10th.
+
+**Encampment-related viral videos**
+
+Native American visits encampment to support Israel
+
+https://x.com/visegrad24/status/1784218502129225794?ref=knockla.org
+
+Israeli Woman falls to the ground
+
+https://x.com/visegrad24/status/1785453442883797276
+
+https://x.com/thegaywhostrayd/status/1785812654528872517
+
+Eli Tsives
+
+https://www.reddit.com/r/Destiny/comments/1cg9xol/jewish_ucla_student_denied_access/
+
+https://www.instagram.com/p/C6WseJ2Jp3x/
+
+audio from a mother to UCPD
+
+https://www.reddit.com/r/Jewish/comments/1cgtc2m/audio_from_a_phone_call_from_a_concerned_ucla/
+
+https://www.instagram.com/reel/C6XzVi5rVVk/
+
+https://www.instagram.com/reel/C6X_1_irQOC/
+
+https://www.instagram.com/mandanadayani/reel/C6Z5vBFv9iG/
 
 Current
 
