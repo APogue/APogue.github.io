@@ -20,7 +20,7 @@ date: 2024-12-19 3:44 PM
 	- Emails, memos, or correspondence between UCLA administrators (Gene Block, Mary Osako, Darnell Hunt, Michael Beck, John Thomas, and the Student Affairs Dept) regarding the Oct 11th teach-in at Kaplan Hall, and any preparation coordinating Student Affairs Mitigators as well as any ongoing investigation and/or police reports filed.
 
 
-## April 25 - May 2nd (requested)
+## April 25 - May 2nd (received)
 
 - Acknowledgment letter received 
 
@@ -41,3 +41,10 @@ date: 2024-12-19 3:44 PM
 1. Internal communications 
 
 	- Emails, memos, or correspondence between UCLA administrators (Gene Block, Mary Osako, Darnell Hunt, Michael Beck, John Thomas, or acting police chief at the time, and Rick Braziel) regarding the protests and policing and graduation.
+
+
+## Notes 
+
+### April 25 - May 2nd
+
+- Overwhelmingly Jewish parents and professors condemning the encampment 
