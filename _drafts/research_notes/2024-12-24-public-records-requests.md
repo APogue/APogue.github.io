@@ -4,11 +4,11 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-1-25 8:57 PM
+updated_date: 2025-1-27 6:17 PM
 ---
 
 
-## Oct 9th - Nov 9th (not requested)
+## Oct 9th - Nov 9th (requested)
 
 - Contacted Student Affairs with an informal request, no response
 
@@ -48,4 +48,9 @@ updated_date: 2025-1-25 8:57 PM
 
 ### April 25 - May 2nd
 
-- Overwhelmingly Jewish parents and professors condemning the encampment 
+- From Responsive Records Redacted Part 2
+
+	- Overwhelmingly Jewish parents and professors condemning the encampment 
+
+	- UCLAPR_0000316, "Refers to statements made at the May 2, 2024 Alumni Association webinar that there were no injuries sustained during the May 1, 2024 protest at the pro-Palestinian encampment. Provides photos of a student hospitalized with an injury received from police. Recommends that this student and others affected by police violence receive a
+	public apology from the administration."
