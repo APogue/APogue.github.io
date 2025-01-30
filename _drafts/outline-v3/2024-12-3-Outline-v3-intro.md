@@ -1,10 +1,9 @@
 ---
 layout: outline
-title: "Outline-v2-intro"
+title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
-date: 2024-12-3 10:38 PM
-updated_date: 2025-1-29 1:44 PM
+date: 2025-1-29 7:10 PM
 ---
 
 
@@ -58,7 +57,9 @@ and the troubling displacement of large numbers of innocent individuals.**”
 intense debates on our campus. This will surely continue in the days to come, and we will stand 
 firmly in support of our community members’ First Amendment rights to free expression. 
 I only urge Bruins to remember that passion must coexist with compassion. We should debate ideas, 
-but we must never attack one another’s fundamental humanity. **We must not devolve into violating 
+but we must never attack one another’s fundamental humanity. 
+
+**We must not devolve into violating 
 one another’s rights or jeopardizing one another’s physical safety. Anyone experiencing harassment 
 should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or 
 threatened, immediately contact UCPD or call 911.**”
@@ -108,17 +109,16 @@ intolerance."
 This is a bit sugarcoated. In its search for truth, academia permits an unfettered exchange of ideas. 
 
 This is in contrast to "everyday" exchanges which may be qualified for the sake of orthodoxy or 
-propriety---a societal construct. Truth is absolute. This means it may be shocking or come with hate, and in our search to find it, it may not be present at all.
+propriety---societal constructs. Truth is absolute. This means that in our search for it, it may be shocking, come with hate, or not even be present at all.
 
-Naturally then, academic freedom and free speech go hand in hand, they protect and 
-facilitate one another.
+Naturally then, academic freedom and free speech go hand in hand,
 
 “The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to 
 the university’s fundamental mission, “which is to discover knowledge and to disseminate it 
 to its students and to society at large.””
 
-Discovering knowledge puts the university on the cutting edge of new ideas. The edge is not a place where 
-everyone may be "comfortable;" consequently UCLA relies on the First Amendment to function. 
+Discovering knowledge puts the university on the cutting edge of new ideas. This isn't a place where
+everyone may be "comfortable;" consequently UCLA relies on the First Amendment to function,
 
 “Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, 
 UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 
@@ -128,12 +128,6 @@ definitely applies.”
 
 To understand why a political position that sides with a known terrorist organization is protected by the First Amendment
 we use UCLA's "two way street" principle. 
-
-Neither the United states, nor the countries bordering Gaza, Israel and Egypt, recognize Hamas. The reasons are numerous, with insurgency and smuggling, militant alliances, border security issues, and political and ideological tensions chief among them. 
-
-For the sake of the "Palestinian perspective" we focus on Israel. 
-
-Israel does not recognize Hamas. They are a de facto government in Gaza. Hamas in turn does not recognize Israel.  
 
 While Gaza has not been directly occupied since 2005, the combination of Israel’s military operations, the perimeter blockade’s humanitarian toll, and border violence has led to significant Palestinian deaths, which groups like Hamas cite as part of their grievances.
 
