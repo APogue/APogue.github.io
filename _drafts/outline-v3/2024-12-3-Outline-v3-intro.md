@@ -3,7 +3,7 @@ layout: outline
 title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
-date: 2025-1-29 7:10 PM
+date: 2025-1-31 2:30 PM
 ---
 
 
@@ -96,8 +96,7 @@ to their ancestral homeland, relentless attacks on Al-Aqsa Mosque, and indiscrim
 
 ### UCLA philosophy and policy 
 
-The incidents that occurred and reactions from students can be better understood within the
-context of UCLA's mission.
+The previous interactions can be better understood within the context of UCLA's mission.
 
 "UCLA’s primary purpose as a public research university is the creation, dissemination, preservation and 
 application of knowledge for the betterment of our global society.
@@ -124,38 +123,15 @@ everyone may be "comfortable;" consequently UCLA relies on the First Amendment t
 UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 
 definitely applies.”
 
-### SJP 
+### Application of UCLA policy 
 
-To understand why a political position that sides with a known terrorist organization is protected by the First Amendment
-we use UCLA's "two way street" principle. 
+### CAC
 
-While Gaza has not been directly occupied since 2005, the combination of Israel’s military operations, the perimeter blockade’s humanitarian toll, and border violence has led to significant Palestinian deaths, which groups like Hamas cite as part of their grievances.
+How might UCLA view the above scenarios with respect to freedom of speech? 
 
-It is the case that innocent civilians have been murdered as part of Israel's de facto occupation of Gaza, and it is also the case that innocent civilians were murdered in the Hamas attack within Israel's border. 
+The statement made by CAC in their Instagram post was an opinion and therefor protected by the First Amendment. 
 
-If, at its core, land and sovereignty are underlying issues in the this conflict, then America's history also harbors sordid acts---the murder and displacement of innocent civilians---over contested land. 
-  
-Accordingly, if any party may deem another "terrorist" depending on the lens used in judgement, then the word for moral purposes has lost all meaning. 
 
-From an academic lens, who they "are" based on a societal qualification is irrelevant. We understand an
-entity by the first principles of their actions based only in factual evidence. 
-
-Dismissing the words of our "enemies" risks overlooking a measure of truth they may hold. Without prejudice, we look at the evidence to validate or reject each claim. 
-
-Since the beginning of time academics have reserved the right to to this, free from oppression or persecution, free from what the government or society tells us. 
- 
-
-### The Reddit exchange
-
-We don't know who the two anonymous users are in this exchange. They may both be American, or not. OP was sensitive to the Chancellor's word choice based on their own experience. It is unclear if on any level they're "factoring in" Israel's close alliance with the United States. 
-
-Americans, including myself, who have factored Israel in, might looks at the statement and not notice the disparate language. Even acknowledging the loss of Palestinian lives less than a week after Oct 7th shows more balance than one might ever see from the mainstream media or certain government officials. 
-
-This "factoring in" is also a societal construct. At universities, when we clash and these constructs break away, the truth lies somewhere within. 
-
-### CAC 
-
-In the Oct 9th statement, CAC also states, "Palestinians should be recognized for their care for the oppressed, and not levied with accusations that conflate the political ideology of zionism with Judaism." It is unclear here how they are defining "zionism." But, based on the statement "Israel is a colonial power that oppresses Palestinians...We oppose this oppressive settler power," it is assumed that Israel is considered a Zionist entity and its statehood is illegitimate in the eyes of CAC. This is a political opinion, and it is protected by the First Amendment. 
 
 In the exchange at the council meeting, however, **the CAC Commissioner participated in discrimination based on national origin**.
 
@@ -193,7 +169,6 @@ Mild or isolated offensive speech, even if discriminatory, is unlikely to overri
 
 "Those who seek to create a whole new exception or increase the scope of recognized exceptions face an uphill battle. For good or bad, **the Supreme Court has interpreted what counts as “unprotected speech” and “less protected speech” narrowly and is likely to continue doing so in the foreseeable future.**” 
 
-
 ### The non-affiliates
 
 What about students who were confronted by non-affiliated visitors at the teach-in?
@@ -203,6 +178,53 @@ While speech is protected under the First Amendment, even if offensive or contro
 “Remember that **certain forms of speech, such as true threats...**, are unprotected under the First Amendment. There’s a reason why these forms of speech are unprotected (or less protected); as a general rule, it’s understood that they cause concrete harm and provide little if any social value. **UCLA is largely free to regulate those forms of speech** and it should attempt to do so.”
 
 Discriminatory actions or speech that escalate to threats, intimidation, or physical violence are extremely serious. This incident was no exception. 
+
+### SJP 
+
+Whether they are truths or lies about a state does not matter: protected
+
+"While speech protections produce real benefits, we should be honest that these protections
+entail real costs and consequences. Words and expression can do awful things. They can
+insult and mock. They can grievously wound. They can gossip and betray. They can lie.
+They can intimidate and threaten. They can fake the news and be weaponized to deceive,
+manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill,
+nations to war."
+
+"Emphasizing the need to protect speech and counter-speech from violence and complete
+disruption presents the University as little more than crowd control. This might sound a
+bit unambitious. Can UCLA do anything more? Absolutely.
+
+Even though UCLA as “sovereign” cannot suppress speech simply because it disagrees
+with its message, UCLA as “speaker” may pick a side and share its beliefs. UCLA can, and
+should, exercise the full power of its bully pulpit to speak our values."
+
+"Lots of people say “Hate Speech is NOT Free Speech.” But this inaccurately describes
+the law: there is no categorical exception for “hate speech.” Notwithstanding the harm it
+causes, “hate speech” is protected speech."
+
+"As you might have guessed, legal debates about free speech often target whether someone’s
+speech falls into one of the previously identified categorical exceptions. After all, what
+counts as a “true threat”? What’s “obscenity”? And most important, what counts as
+“harassment?” Those who seek to create a whole new exception or increase the scope of
+recognized exceptions face an uphill battle. For good or bad, the Supreme Court has
+interpreted what counts as “unprotected speech” and “less protected speech” narrowly
+and is likely to continue doing so in the foreseeable future."
+
+Contrast with non-affiliates because its not violent speech
+
+It's opinions like CAC, but it feels more more factual, that doesn't mean its defamation 
+
+Certain forms of speech, such as true threats and defamation, are not protected by the First Amendment---they can be censored. This post however, does not qualify for censorship because 1. there is no language indicating a desire for imminent violence against any particular group; 2. courts are generally reluctant to treat statements about governments as defamatory, as defamation law is meant to protect individuals or specific organizations, not states or ideologies.
+
+Phrases like "genocidal attacks" and "brutal Zionist colonization" are considered political rhetoric. Political speech becomes defamation when a specific, provable false statement is made about an individual or entity (e.g., “X committed a crime” when they didn’t). Generalized criticisms are not defamatory because they are opinion-based.
+
+
+"Myth #4: Censorship is a One-Way Street" or, conversely, truth: freedom of speech is a two-way street. 
+
+"Relatedly, whenever the government comes after us, it’s natural to be outraged and to
+assert our free speech rights. How dare you constrain my rights? But if the government goes
+after them—especially when they’re saying things we find stupid or wicked—it’s natural to
+start cheering. But therein lies the rub. Us and them are just flip-sides of each other. If the government can easily go after them, a different government could just as easily come after us."
 
 ## Hook 3 
 
