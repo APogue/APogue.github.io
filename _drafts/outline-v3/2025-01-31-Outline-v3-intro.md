@@ -3,7 +3,8 @@ layout: outline
 title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
-date: 2025-1-31 2:30 PM
+date: 2025-01-31 2:30 PM
+updated_date: 2025-2-1 3:03 PM
 ---
 
 
@@ -175,7 +176,8 @@ What about students who were confronted by non-affiliated visitors at the teach-
 
 While speech is protected under the First Amendment, even if offensive or controversial, it cannot cross the line into true harassment or violence.
 
-“Remember that **certain forms of speech, such as true threats...**, are unprotected under the First Amendment. There’s a reason why these forms of speech are unprotected (or less protected); as a general rule, it’s understood that they cause concrete harm and provide little if any social value. **UCLA is largely free to regulate those forms of speech** and it should attempt to do so.”
+“Remember that **certain forms of speech, such as true threats and defamation**, are unprotected under the First Amendment. There’s a reason why these forms of speech are unprotected (or less protected); as a general rule, it’s understood that they cause concrete harm and provide little if any social value. **UCLA is largely free to regulate those forms of speech** and it should attempt to do so.”
+
 
 Discriminatory actions or speech that escalate to threats, intimidation, or physical violence are extremely serious. This incident was no exception. 
 
