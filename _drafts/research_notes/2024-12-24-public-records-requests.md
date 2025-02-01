@@ -4,7 +4,7 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-1-27 9:06 PM
+updated_date: 2025-2-1 2:16 PM
 ---
 
 
@@ -36,7 +36,7 @@ updated_date: 2025-1-27 9:06 PM
 
 	- Emails, memos, or correspondence between UCLA administrators (Gene Block, Mary Osako, Darnell Hunt, Michael Beck, John Thomas, and other relevant staff or offices) regarding the protest, encampment, or any related events.
 
-3. Sent me a [box link](https://ucla.app.box.com/s/wjgkdinnbj2ckx61n2wb086i6oz0o0ug)
+3. Sent me a [box link1](https://ucla.app.box.com/s/wjgkdinnbj2ckx61n2wb086i6oz0o0ug) and [box link2](https://ucla.app.box.com/s/xbjzy7mjaux74yp24qnzjvwqlj8x4bas/file/1761971639554)
 
 
 ## May 2nd - June 16th (not requested)
