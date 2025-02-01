@@ -4,7 +4,7 @@ title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
 date: 2025-01-31 2:30 PM
-updated_date: 2025-2-1 3:03 PM
+updated_date: 2025-2-1 6:00 PM
 ---
 
 
@@ -128,19 +128,24 @@ definitely applies.”
 
 ### CAC
 
-How might UCLA view the above scenarios with respect to freedom of speech? 
+How might UCLA view the above scenarios with respect to freedom of speech? The First Amendment affords vast protections and for the most part people are free to say anything. 
 
-The statement made by CAC in their Instagram post was an opinion and therefor protected by the First Amendment. 
+2 way street goes here...
 
+"While speech protections produce real benefits, we should be honest that these protections
+entail real costs and consequences. 
 
+Words and expression can do awful things. They can
+insult and mock. They can grievously wound. They can gossip and betray. They can lie.
+They can intimidate and threaten. They can fake the news and be weaponized to deceive,
+manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill,
+nations to war."
 
-In the exchange at the council meeting, however, **the CAC Commissioner participated in discrimination based on national origin**.
+As an example, in the exchange at the council meeting, **the CAC Commissioner participated in discrimination based on national origin**.
 
 Her statement collapsed nationality into ideology, and assumed anyone who is Israeli is inherently supportive of Zionist policies, regardless of their personal beliefs or political positions. It ignored any possibility for diversity of thought within Israel, where a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians may exist.  
 
 Her words **implied that Israelis "deserve to die"** by virtue of being Israeli alone. 
-
-The discrimination becomes clearer when applying UCLA’s two-way street principle. Following the commissioner's logic, Americans—including those strongly opposed to settler-colonialism—would also be deserving of harm solely due to their nationality and its historical context.
 
 If the commissioner discriminated, how might UCLA view her conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
 
@@ -148,9 +153,9 @@ Student speech is protected under the First Amendment, even if it is offensive o
 
 **“But as a descriptive statement of law, the assertion “hate speech is not free speech” is just plain wrong.** The Supreme Court has repeatedly struck down laws—including university “speech codes”— that penalize or otherwise regulate “hate speech.””
 
-“There is no exception from the First Amendment on the basis of the hateful nature of a speaker’s statements. On its own, the fact that speech may cause emotional harm to others cannot provide the basis for UC to prohibit it”
+“On its own, the fact that speech may cause emotional harm to others cannot provide the basis for UC to prohibit it.”
 
-There are exceptions,
+There are exceptions in situations where speech causes undue harm,
 
 “Equal Protection Clause of the Fourteenth Amendment…**means freedom of speech can sometimes be constrained to further the right to equality.** The reality—and challenge—is that sometimes equality gives way to freedom of speech, and vice versa.”
 
@@ -164,11 +169,11 @@ Harassment---"conduct that is **sufficiently severe, pervasive, or persistent so
 
 Sanctions may be enhanced where an individual was selected for harassment because of the individual’s race, color, national or ethnic origin," etc.
 
-We see in both cases, discrimination or harassment must be so severe so as to deprive victims of access to education. 
+In both cases, discrimination or harassment must be so severe so as to deprive victims of access to education. 
 
 Mild or isolated offensive speech, even if discriminatory, is unlikely to override First Amendment protections.
 
-"Those who seek to create a whole new exception or increase the scope of recognized exceptions face an uphill battle. For good or bad, **the Supreme Court has interpreted what counts as “unprotected speech” and “less protected speech” narrowly and is likely to continue doing so in the foreseeable future.**” 
+
 
 ### The non-affiliates
 
@@ -185,24 +190,7 @@ Discriminatory actions or speech that escalate to threats, intimidation, or phys
 
 Whether they are truths or lies about a state does not matter: protected
 
-"While speech protections produce real benefits, we should be honest that these protections
-entail real costs and consequences. Words and expression can do awful things. They can
-insult and mock. They can grievously wound. They can gossip and betray. They can lie.
-They can intimidate and threaten. They can fake the news and be weaponized to deceive,
-manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill,
-nations to war."
 
-"Emphasizing the need to protect speech and counter-speech from violence and complete
-disruption presents the University as little more than crowd control. This might sound a
-bit unambitious. Can UCLA do anything more? Absolutely.
-
-Even though UCLA as “sovereign” cannot suppress speech simply because it disagrees
-with its message, UCLA as “speaker” may pick a side and share its beliefs. UCLA can, and
-should, exercise the full power of its bully pulpit to speak our values."
-
-"Lots of people say “Hate Speech is NOT Free Speech.” But this inaccurately describes
-the law: there is no categorical exception for “hate speech.” Notwithstanding the harm it
-causes, “hate speech” is protected speech."
 
 "As you might have guessed, legal debates about free speech often target whether someone’s
 speech falls into one of the previously identified categorical exceptions. After all, what
@@ -221,12 +209,22 @@ Certain forms of speech, such as true threats and defamation, are not protected 
 Phrases like "genocidal attacks" and "brutal Zionist colonization" are considered political rhetoric. Political speech becomes defamation when a specific, provable false statement is made about an individual or entity (e.g., “X committed a crime” when they didn’t). Generalized criticisms are not defamatory because they are opinion-based.
 
 
-"Myth #4: Censorship is a One-Way Street" or, conversely, truth: freedom of speech is a two-way street. 
 
-"Relatedly, whenever the government comes after us, it’s natural to be outraged and to
-assert our free speech rights. How dare you constrain my rights? But if the government goes
-after them—especially when they’re saying things we find stupid or wicked—it’s natural to
-start cheering. But therein lies the rub. Us and them are just flip-sides of each other. If the government can easily go after them, a different government could just as easily come after us."
+"As you might have guessed, legal debates about free speech often target whether someone’s
+speech falls into one of the previously identified categorical exceptions. After all, what
+counts as a “true threat”? What’s “obscenity”? And most important, what counts as
+“harassment?” Those who seek to create a whole new exception or increase the scope of
+recognized exceptions face an uphill battle. For good or bad, the Supreme Court has
+interpreted what counts as “unprotected speech” and “less protected speech” narrowly
+and is likely to continue doing so in the foreseeable future."
+
+"Emphasizing the need to protect speech and counter-speech from violence and complete
+disruption presents the University as little more than crowd control. This might sound a
+bit unambitious. Can UCLA do anything more? Absolutely.
+
+Even though UCLA as “sovereign” cannot suppress speech simply because it disagrees
+with its message, UCLA as “speaker” may pick a side and share its beliefs. UCLA can, and
+should, exercise the full power of its bully pulpit to speak our values."
 
 ## Hook 3 
 
