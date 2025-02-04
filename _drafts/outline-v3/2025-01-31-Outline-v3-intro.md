@@ -4,7 +4,7 @@ title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
 date: 2025-01-31 2:30 PM
-updated_date: 2025-2-4 9:43 AM
+updated_date: 2025-2-4 11:09 AM
 ---
 
 
@@ -138,7 +138,15 @@ For intents and purposes, the First Amendment permits most speech. This allows a
 
 4. Speech may be used to manipulate.
 
-To reiterate, speech lies on a spectrum from completely untrue to entirely true, and a statement may contain any combination of categories.
+In the effort to protect speech made in good faith, which itself may be perceived as untrue, free speech protections are vast---speech containing any combination of the above are permitted, speech made in bad faith, and lies are all permitted. 
+
+
+
+
+
+
+
+
 
 
 
