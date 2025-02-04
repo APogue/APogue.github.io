@@ -4,7 +4,7 @@ title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
 date: 2025-01-31 2:30 PM
-updated_date: 2025-2-4 12:29 AM
+updated_date: 2025-2-4 9:43 AM
 ---
 
 
@@ -110,7 +110,7 @@ This is a bit sugarcoated. In its search for truth, academia permits an unfetter
 
 This is in contrast to "everyday" exchanges which may be qualified for the sake of propriety---a societal construct---or contain truths we are conditioned to accept. In reality, these "truths" are a set of beliefs born from orthodoxy. The truth is, the scale by which truth is measured is not absolute. 
 
-The academic forum thus permits all ideas, even ideas that go against accepted doctrine; because who are we, as one society among many, to judge prematurely before assessing its value.
+The academic forum thus permits all ideas, even those that go against accepted doctrine; because who are we, as one society among many, to judge an idea before assessing its value.
 
 Naturally then, academic freedom and free speech go hand in hand,
 
@@ -118,7 +118,7 @@ Naturally then, academic freedom and free speech go hand in hand,
 the university’s fundamental mission, “which is to discover knowledge and to disseminate it 
 to its students and to society at large.””
 
-Discovering knowledge puts the university on the cutting edge of new ideas. Intuitively, as discussed, not everyone may be comfortable on the edge. Individuals, groups or the institution itself may be "reflexively" inclined to censor speech.  Consequently UCLA relies on the First Amendment for its protection, 
+Discovering knowledge puts the university on the cutting edge of new ideas. As discussed, it is natural for new ideas to be in contention with accepted knowledge. Even individuals within academia, who may in large part come from a single society (i.e. American society), may feel inclined to censor these ideas. Consequently UCLA relies on the First Amendment to function, 
 
 “Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, 
 UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 
