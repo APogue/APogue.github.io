@@ -4,7 +4,7 @@ title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
 date: 2025-01-31 2:30 PM
-updated_date: 2025-2-1 6:00 PM
+updated_date: 2025-2-4 12:29 AM
 ---
 
 
@@ -108,8 +108,9 @@ intolerance."
 
 This is a bit sugarcoated. In its search for truth, academia permits an unfettered exchange of ideas. 
 
-This is in contrast to "everyday" exchanges which may be qualified for the sake of orthodoxy or 
-propriety---societal constructs. Truth is absolute. This means that in our search for it, it may be shocking, come with hate, or not even be present at all.
+This is in contrast to "everyday" exchanges which may be qualified for the sake of propriety---a societal construct---or contain truths we are conditioned to accept. In reality, these "truths" are a set of beliefs born from orthodoxy. The truth is, the scale by which truth is measured is not absolute. 
+
+The academic forum thus permits all ideas, even ideas that go against accepted doctrine; because who are we, as one society among many, to judge prematurely before assessing its value.
 
 Naturally then, academic freedom and free speech go hand in hand,
 
@@ -117,8 +118,7 @@ Naturally then, academic freedom and free speech go hand in hand,
 the university’s fundamental mission, “which is to discover knowledge and to disseminate it 
 to its students and to society at large.””
 
-Discovering knowledge puts the university on the cutting edge of new ideas. This isn't a place where
-everyone may be "comfortable;" consequently UCLA relies on the First Amendment to function,
+Discovering knowledge puts the university on the cutting edge of new ideas. Intuitively, as discussed, not everyone may be comfortable on the edge. Individuals, groups or the institution itself may be "reflexively" inclined to censor speech.  Consequently UCLA relies on the First Amendment for its protection, 
 
 “Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, 
 UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 
@@ -127,19 +127,36 @@ definitely applies.”
 ### Application of UCLA policy 
 
 ### CAC
+ 
+For intents and purposes, the First Amendment permits most speech. This allows an individual to be their truest self, and in doing so may articulate their ideas in ways that can be broken down into roughly four categories, 
 
-How might UCLA view the above scenarios with respect to freedom of speech? The First Amendment affords vast protections and for the most part people are free to say anything. 
+1. Speech may be inconvenient,
 
-2 way street goes here...
+2. Speech may be emotional,
 
-"While speech protections produce real benefits, we should be honest that these protections
-entail real costs and consequences. 
+3. Speech may cause pain,
 
-Words and expression can do awful things. They can
-insult and mock. They can grievously wound. They can gossip and betray. They can lie.
-They can intimidate and threaten. They can fake the news and be weaponized to deceive,
-manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill,
-nations to war."
+4. Speech may be used to manipulate.
+
+To reiterate, speech lies on a spectrum from completely untrue to entirely true, and a statement may contain any combination of categories.
+
+
+
+
+"If the government goes after them—especially when they’re saying things we find stupid or wicked—it’s natural to
+start cheering. But therein lies the rub..If the government can easily go after them, a different government could just as easily come after us."
+
+Fighting on our behalf is conditioned on the understanding that this country was founded by the downtrodden---what is best for the collective is the freedom to criticize established thought if it to longer serves us or becomes unjust. 
+
+This freedom enables vitriolic, abusive speech that hurts people, often unnecessarily. 
+
+"Words and expression can do awful things. They can insult and mock. They can grievously wound. They can gossip and betray. They can lie. They can intimidate and threaten. They can fake the news and be weaponized to deceive, manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill, nations to war."
+
+They key is to understanding 
+
+
+
+
 
 As an example, in the exchange at the council meeting, **the CAC Commissioner participated in discrimination based on national origin**.
 
