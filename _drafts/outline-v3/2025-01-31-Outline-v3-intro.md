@@ -4,9 +4,10 @@ title: "Outline-v3-intro"
 published: true
 author: Alexie Pogue
 date: 2025-01-31 2:30 PM
-updated_date: 2025-2-4 11:09 AM
+updated_date: 2025-2-5 4:55 PM
 ---
 
+## Stuff that happened 
 
 ## Hook 1
 
@@ -93,6 +94,8 @@ colonization, occupation, ethnic cleansing, the denial of Palestinian refugees' 
 to their ancestral homeland, relentless attacks on Al-Aqsa Mosque, and indiscriminate bombardment."
 
 
+## Analysis
+
 ## UCLA policy
 
 ### UCLA philosophy and policy 
@@ -126,8 +129,6 @@ definitely applies.”
 
 ### Application of UCLA policy 
 
-### CAC
- 
 For intents and purposes, the First Amendment permits most speech. This allows an individual to be their truest self, and in doing so may articulate their ideas in ways that can be broken down into roughly four categories, 
 
 1. Speech may be inconvenient,
@@ -140,37 +141,21 @@ For intents and purposes, the First Amendment permits most speech. This allows a
 
 In the effort to protect speech made in good faith, which itself may be perceived as untrue, free speech protections are vast---speech containing any combination of the above are permitted, speech made in bad faith, and lies are all permitted. 
 
-
-
-
-
-
-
-
-
-
-
-
-"If the government goes after them—especially when they’re saying things we find stupid or wicked—it’s natural to
-start cheering. But therein lies the rub..If the government can easily go after them, a different government could just as easily come after us."
-
-Fighting on our behalf is conditioned on the understanding that this country was founded by the downtrodden---what is best for the collective is the freedom to criticize established thought if it to longer serves us or becomes unjust. 
-
-This freedom enables vitriolic, abusive speech that hurts people, often unnecessarily. 
-
 "Words and expression can do awful things. They can insult and mock. They can grievously wound. They can gossip and betray. They can lie. They can intimidate and threaten. They can fake the news and be weaponized to deceive, manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill, nations to war."
 
-They key is to understanding 
-
-
-
-
+### CAC
 
 As an example, in the exchange at the council meeting, **the CAC Commissioner participated in discrimination based on national origin**.
 
-Her statement collapsed nationality into ideology, and assumed anyone who is Israeli is inherently supportive of Zionist policies, regardless of their personal beliefs or political positions. It ignored any possibility for diversity of thought within Israel, where a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians may exist.  
 
-Her words **implied that Israelis "deserve to die"** by virtue of being Israeli alone. 
+
+
+
+
+
+
+
+Her statement collapsed nationality into ideology, regardless of personal belief or political position. It ignored any possibility for diversity of thought within Israel, where a wide spectrum of perspectives on issues like the occupation, settlements, and peace with Palestinians may exist. Her words **implied that Israelis "deserve to die"** by virtue of being Israeli alone. 
 
 If the commissioner discriminated, how might UCLA view her conduct? Isn't she allowed to exercise her right to free speech? Yes she is. 
 
@@ -251,6 +236,8 @@ Even though UCLA as “sovereign” cannot suppress speech simply because it dis
 with its message, UCLA as “speaker” may pick a side and share its beliefs. UCLA can, and
 should, exercise the full power of its bully pulpit to speak our values."
 
+## Things students said, dealing with campus climate
+
 ## Hook 3 
 
 In a Daily Bruin article,'Jewish students express concern over antisemitism on UCLA campus', published on Nov 19th, 
@@ -261,7 +248,27 @@ In a Daily Bruin article,'Jewish students express concern over antisemitism on U
 
 ## Hook 4
 
-The statement by Kersten demonstrates the diversity of thought at UCLA. His point about Jewish grief, the repression of criticism of Israel and its conflation with antisemitism may be valid. This could have been happening. 
+Kersten's point about Jewish grief, the repression of criticism of Israel, and its conflation with antisemitism may be valid. This could have been happening. 
+
+Kersten's remarks joined a bevy of theories about what was going on at college campuses. 
+
+On social media platforms like TikTok, similar theories were popular. 
+
+Meanwhile far-Right news outlets ran the story, "The radical Left is being antisemitic, they hate all White oppressors."
+
+And the ADL was calling "anti-Zionism," antisemitism.
+
+In the "marketplace of ideas," Kersten's idea gained more traction among younger generations who may be lacking first hand knowledge of the conflict. Why? 
+
+If speech is used to manipulate, or made in bad faith, it undermines the truth it holds. 
+
+Popular, Right leaning news outlets regularly engage in hyperbole. It was perceived that the story was over-dramatized and co-opted antisemitism in the fight against the "radical Left."
+
+Otherwise pushback from reputable groups like the ACLU or other legislature called the ADL definition of antisemitism too broad, giving the impression the ADL was trying to control free speech as part of a pro-war agenda. 
+
+These ideas actually served to strengthen Kersten's argument by causing people to think, "people are falsely claiming antisemitism to achieve their own agenda."
+
+Then what happens to legitimate, good faith claims of antisemitism in the marketplace of ideas?
 
 "Often people emphasize that the antidote to (bad, including hateful) speech is more (good)
 speech. They reassure us that in the “marketplace of ideas,” truth will always win out. But
@@ -269,17 +276,11 @@ that’s an empirical claim, and if inspected carefully, seems naive. In the mar
 music, fashion, and food, winners are often determined by popularity, not by what’s best,
 the highest quality, or the most truthful."
 
-The question becomes whether the entire truth can get lost within prevailing theories, or whether the theories themselves can change the way we see the truth. 
+Good faith claims of antisemitism were diminished by the more popular pro-Israel and pro-Palestinian theories.  
 
-Anyone not deeply involved may only hear, "people are claiming antisemitism when it's only criticism of Israel."
+## Hook 5
 
-It doesn't help when far-Right news outlets, who regularly engage in hyperbole, co-opt the story in a fight against the "radical Left." "The radical Left is being antisemitic, they hate all White oppressors."
-
-Or when the ADL claims that anti-Zionism is antisemitism but the ACLU and other legislature have pushed back calling its definition too broad. 
-
-Where is the truth? At this point we risk tuning out any claims of antisemitism for any of the above reasons. 
-
-The same article brought up an incident that occurred 10 days before,
+The same Bruin article featuring Benjamin's theory brought up an incident that occurred 10 days before,
 
 "At a Nov. 8 rally in support of Palestine, which was hosted by Students for Justice in Palestine and UC Divest Coalition at UCLA, participants were invited to destroy piñatas with pictures of United States President Joe Biden and Israeli Prime Minister Benjamin Netanyahu on them."
 
@@ -287,14 +288,14 @@ As participants crowded around a pinata of Netanyahu an individual holding a meg
 
 "Beat that fucking Jew!"
 
- Nov 8th incident, [Jewish students express concern over antisemitism on UCLA campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
+Nov 8th incident, [Jewish students express concern over antisemitism on UCLA campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
 
 [Los Angeles Magazine article](https://lamag.com/news/ucla-condemns-pro-palestinian-student-protesters-antisemitic-behavior), dated Nov 12, that states students “went viral online Friday for screaming ‘beat that fucking Jew’ through a megaphone while bashing a piñata bearing an image of Israeli Prime Minister Benjamin Netanyahu.”"
 
 
 ## Chancellor Block
 
-The Nov 8th incident was antisemitic hate speech and warranted [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th. Rightly so, while the words shouted may have been few, the impact was magnified by the fact that the incident occurred at a large rally. 
+The Nov 8th incident was antisemitic hate speech resulted in [condemnation by Block and Drake](https://newsroom.ucla.edu/standing-against-bigotry-at-the-university-of-california) on Nov 10th. This was warranted, as the words shouted may have been few, the impact was magnified by the fact that the incident occurred at a large rally. 
 
 Nov 10th
 
@@ -316,9 +317,11 @@ Another Bruin article, 'UCLA faces scrutiny for safety issues at protests for Is
 
 The post echoed the student's sentiment from the earlier article. 
 
-“Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams—including UCPD. More than ever, it is clear that there is no safety for…students supporting Palestine on campus. UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years.
+“Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams—including UCPD. More than ever, it is clear that there is no safety for…students supporting Palestine on campus. **UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years.**
 
 We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence.”
+
+## Analysis 
 
 ## Comparison 
 
@@ -386,3 +389,7 @@ Would the statement made by Hillel such a short time after Oct 7th, recognizing 
 The question must be raised, were matters between student groups being managed in a content-neutral fashion, or did the administration also subscribe to this marketplace? In other words, did some students "have what was coming to them" based on who they were or what they believed? 
 
 
+-------------------------------------
+
+
+When a Campus Report on Anti-Semitism at UCLA was released, a student comment said, "it's giving the ADL changing their inclusion of what antisemitism is." [source](https://www.reddit.com/r/ucla/comments/1gafzp8/campus_report_on_antisemitism_at_ucla_released/)

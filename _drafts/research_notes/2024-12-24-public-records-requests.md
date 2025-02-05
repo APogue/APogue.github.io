@@ -4,7 +4,7 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-2-1 2:16 PM
+updated_date: 2025-2-5 4:55 PM
 ---
 
 
@@ -21,6 +21,10 @@ updated_date: 2025-2-1 2:16 PM
 2. Internal communications 
 
 	- Emails, memos, or correspondence between UCLA administrators (Gene Block, Mary Osako, Darnell Hunt, Michael Beck, John Thomas, and the Student Affairs Dept) regarding the Oct 11th teach-in at Kaplan Hall, and any preparation coordinating Student Affairs Mitigators as well as any ongoing investigation and/or police reports filed.
+
+## Nov 10th (need to request)
+
+- Was the response to the pinata incident that was "caught on video and shared widely" something that caused Block to respond in the way that he did? 
 
 
 ## April 25 - May 2nd (received)
