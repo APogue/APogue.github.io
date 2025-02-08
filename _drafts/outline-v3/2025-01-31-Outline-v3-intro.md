@@ -70,7 +70,7 @@ threatened, immediately contact UCPD or call 911.**”
 
 Oct 13th
 
-Within hours discussions began in response. 
+Within hours discussions began.
 
 "**How can we believe that the UC cares about both Palestinian lives and Israeli lives**, if the 
 chancellor puts out this statement. "Grievous" "malice" "despicable" vs. "troubling". Are you joking?"
