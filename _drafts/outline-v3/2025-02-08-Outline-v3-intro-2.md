@@ -86,10 +86,6 @@ As participants crowded around a pinata of Netanyahu an individual holding a meg
 
 "Beat that fucking Jew!"
 
-Nov 8th incident, [Jewish students express concern over antisemitism on UCLA campus](https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus)
-
-[Los Angeles Magazine article](https://lamag.com/news/ucla-condemns-pro-palestinian-student-protesters-antisemitic-behavior), dated Nov 12, that states students “went viral online Friday for screaming ‘beat that fucking Jew’ through a megaphone while bashing a piñata bearing an image of Israeli Prime Minister Benjamin Netanyahu.”"
-
 Nov 10th 
 
 "Today, I joined University of California President Michael V. Drake and the UC chancellors in issuing a forceful condemnation of incidents of bigotry, intolerance and intimidation that have taken place on UC campuses — including UCLA — over the past several weeks. We must be crystal clear: discrimination, threats, violence and hate have absolutely no place in a university community dedicated to open-mindedness, respect and mutual understanding."
@@ -104,13 +100,13 @@ In a Daily Bruin article,'Students voice worries over Islamophobia on UCLA campu
 
 Dec 5th
 
-Another Bruin article, 'UCLA faces scrutiny for safety issues at protests for Israel, Palestine,' dated Dec 5th, brought attention to allegations made by CAC after a rally in support of Israel on Nov. 7th in an Instagram post.
+Another Bruin article, **'UCLA faces scrutiny for safety issues at protests for Israel, Palestine,'** dated Dec 5th, brought attention to allegations made by CAC after a rally in support of Israel on Nov. 7th in an Instagram post.
 
 The post echoed the student's sentiment from the earlier article. 
 
 “Just today, students were selling Kuffiyas on campus on Bruinwalk when older non-students started shoving them. Throughout the day, non-students harassed, threatened, and assaulted BIPOC students, and nothing was done by campus security teams—including UCPD. More than ever, it is clear that there is no safety for…students supporting Palestine on campus. **UCLA has still not released even a statement to acknowledge, let alone condemn the hate crimes, harassment, and violence students have faced for years.**
 
-We call on UCLA, the UC, and other entities of this institution to protect students from the violence that is waged by both students and non-students on you own campuses. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence.”
+We call on UCLA, the UC, and other entities of this institution to protect students from **the violence that is waged by both students and non-students on your own campuses**. We call on campus resources to be more accessible to students facing imminent and indirect danger from Islamophobic, Zionist, and anti-Palestinian violence.”
 
 Oct 25th
 
@@ -122,4 +118,20 @@ When the Daily Bruin inquired about the allegations, in an emailed statement a U
 
 "said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
 
-“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect,” they said in the statement.”"
+“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, **we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect**,” they said in the statement.”"
+
+Oct 12
+
+Hillel at UCLA, the largest Jewish campus organization at UCLA, posted a statement on their Instagram account.
+
+"There are reports of some incidents in the last few days where students of different backgrounds and views have been harassed or intimidated. This is not acceptable and Hillel believes there is NO justification for any type of aggression towards any students.  
+
+We also call on agitators in the outside communities to stay away from campus. **Your acts of aggression---no matter what your views are---are not welcome at UCLA. We know that many of the reported incidents were caused by non-students and we condemn them in the strongest terms**. 
+
+The conflict between Israel and Hamas does not need to spill over and poison our campus. We all mourn. Hate at UCLA will never be the answer."
+
+In the weeks following Oct 7th, the "marketplace of emotion" was flooded with grief, understandably so.
+
+Would the statement made by Hillel such a short time after Oct 7th, recognizing Palestinian grief be considered popular? In the "marketplace of ideas" we know truth can be denied because it is unpopular. 
+
+The question must be raised, were matters between student groups being managed in a content-neutral fashion, or did the administration also subscribe to this marketplace? In other words, did some students "have what was coming to them" based on who they were or what they believed? 
