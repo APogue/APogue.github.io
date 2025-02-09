@@ -33,7 +33,7 @@ On that same day, Students for Justice in Palestine at UCLA posted on Instagram,
 
 Oct 11
 
- "I'm going to rip your fucking head off
+"I'm going to rip your fucking head off
 
 You motherfucker
 
