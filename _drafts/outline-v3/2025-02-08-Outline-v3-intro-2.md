@@ -3,7 +3,7 @@ layout: outline
 title: "Outline-v3-intro-2"
 published: true
 author: Alexie Pogue
-date: 2025-2-8 1:19 PM
+date: 2025-2-10 10:44 AM
 ---
 
 Oct 9th 
@@ -130,8 +130,3 @@ We also call on agitators in the outside communities to stay away from campus. *
 
 The conflict between Israel and Hamas does not need to spill over and poison our campus. We all mourn. Hate at UCLA will never be the answer."
 
-In the weeks following Oct 7th, the "marketplace of emotion" was flooded with grief, understandably so.
-
-Would the statement made by Hillel such a short time after Oct 7th, recognizing Palestinian grief be considered popular? In the "marketplace of ideas" we know truth can be denied because it is unpopular. 
-
-The question must be raised, were matters between student groups being managed in a content-neutral fashion, or did the administration also subscribe to this marketplace? In other words, did some students "have what was coming to them" based on who they were or what they believed? 
