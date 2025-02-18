@@ -4,16 +4,49 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2024-12-18 7:06 PM
+updated_date: 2025-2-18 5:06 PM
 ---
 
-Blame the administration all the way through... 
+## Notes
 
-was this caused by Eli and the surrounding community, pushing UCLA into quick decision making in chaotic circumstances? 
+Start with Hillel 
 
-attempted to explain away any wrongdoing. 
+Established that discrimination is okay 
 
-ignored a greater and greater divide and when they did address anything, it was always in service of the pro-Israel cause. 
+- by 1st amendment protections, it has to be harassment essentially to trigger the law
+
+Discrimination seems to be handled inconsistently, on a case by case basis 
+
+- student conduct initiation, condemning it, or they're removing it without acknowledgment 
+
+“Our review of emails and other electronic communications revealed that, once the encampment was established, administrators were bombarded with questions from within and outside the UCLA community about how it planned to respond. **Particularly after social media posts about Jewish students being excluded from portions of campus went viral**, administrators were inundated with complaints and concerns from parents, politicians, and community members about why the University was allowing it to continue.”
+
+Sunday, April 28, 2024 10:40 AM 
+
+They began throwing blankets and scarves over my face. They began pushing me with open palms and
+body shoves. They linked arms and attempted to physically push me out of the space. | sat down to
+prevent them from continuing to push me. When my older brother was two blocks away and | let the
+FJP leaders know he was arriving they let me free. When my brother arrived they apologized and
+claimed they did it because they thought | was an "Israeli agitator." 
+
+- Sent: Sunday, April 28, 2024 1:44 AM 
+
+- He didn't get this email until the afternoon of the 29th
+
+I’ve emailed you previously with respect to UCLA and rampant antisemitism on
+campus. **I am
+forwarding a viral video demanding the Regents investigate and suspend and expel
+these students**.
+There is no privacy rights to encampments on public property. UCLA is a public
+university funded by the
+taxpayer. The video highlights the Regents ongoing failure to protect the safety
+and security of Jewish
+students.
+I expect a reply and a letter to all students and members of the UCLA community
+discussing this
+incident, denouncing it, and reiterating UCLA commitment to the safety of its
+student body.
+
 
 ## Continue thought flow from 'intro'
 
@@ -133,3 +166,138 @@ Is this all part of a greater scheme to turn students against each other
 
 In doing so, they are emulating the current zeitgeist, contemporary society's worst traits 
 
+## The Davis Standard
+
+ "This Wasn't a Failure of Resources, It Was a Failure of Judgment."
+
+The Davis Standard & UCLA’s Duty to Provide a Safe Learning Environment
+The Davis v. Monroe County Board of Education (1999) standard establishes that public institutions, including universities, can be held liable for deliberate indifference to harassment, violence, or threats that deprive students of access to education. While the case was about Title IX and peer-on-peer harassment, the core principle—an institution’s duty to protect students from known harm—applies broadly, including under Title VI.
+
+1. The Core Duty: Ensuring a Safe Learning Environment
+Public universities like UCLA do not just have a general obligation to promote safety—they have a legally recognized duty to prevent students from being subjected to an environment so hostile that it interferes with their education.
+
+This duty does not require the university to prevent all violence—but it does require them to take reasonable steps to stop foreseeable and escalating harm.
+If a school knows about a dangerous situation and fails to take meaningful action, they are complicit in the harm that follows.
+📌 Davis sets the threshold for liability at:
+✔ Severe, pervasive, and objectively offensive harassment or violence
+✔ Actual knowledge by the institution
+✔ Deliberate indifference (they had the power to act but failed to do so)
+✔ Denial of access to educational opportunities
+
+2. How This Applies to UCLA
+UCLA had clear, documented knowledge that tensions between protest groups were escalating into violence. They acknowledged it, yet took no preventative action.
+
+Severe, pervasive, and objectively offensive harm → ✔
+
+The violence didn’t happen in a vacuum—it built over time.
+The university admitted that fights were breaking out, SWAT was called, and threats were being made.
+Actual knowledge → ✔
+
+Public statements, internal emails, and student complaints show that UCLA’s administration knew about the rising violence well before the major attack.
+Deliberate indifference → ✔
+
+They could have acted, but they didn’t.
+UCLA had options: increased security, dispersal orders, mediation, controlled protest zones—but they waited until violence exploded before stepping in.
+This wasn't a lack of awareness—it was a conscious decision to delay intervention.
+Denial of access to education → ✔
+
+Students—on both sides—were physically attacked and unable to safely participate in campus life.
+The climate was so hostile that UCLA had to completely shut down the protests, showing they failed to maintain control.
+
+3. Why This is So Damning for UCLA
+UCLA cannot claim this was unforeseeable when they had weeks of warning signs.
+By allowing violence to escalate to a breaking point before intervening, they let outside forces dictate campus policy.
+Their failure to act did not just affect free speech—it endangered students' physical safety.
+
+4. Making This a Public Narrative
+✔ Frame this as a Student Safety Failure, Not Just a Speech Issue
+
+While legal arguments focus on Title VI, the bigger scandal is that UCLA administrators knowingly let students get hurt.
+If they had enforced campus policies earlier, no students—pro-Israel, pro-Palestine, or neutral—would have been put at risk.
+✔ Use UCLA’s Own Statements & Internal Reports Against Them
+
+Compare their “calls for civil discourse” to their actual failure to intervene.
+Highlight when they acted (only after chaos) vs. when they should have acted.
+✔ Show the Pattern: Deliberate Indifference is a Recurring Institutional Failure
+
+If UCLA failed here, what else are they failing to address?
+Is this a broader issue of administrative neglect when it comes to campus safety?
+
+1. Why Kettling is a Student Safety Issue (Not Just a Free Speech Issue)
+🔴 Kettling is a controversial police tactic where officers trap a group of protesters in a confined space, restricting their ability to leave.
+🔴 This has been criticized because it creates severe safety risks, including:
+
+Trampling and crowd crush risks
+Heat exhaustion/dehydration (if held for long periods without water)
+Medical emergencies being ignored (as people are physically prevented from leaving)
+Exposure to tear gas or baton strikes with no escape route
+📌 If UCLA allowed police to kettle students, the strongest argument is that this was a failure of duty of care—especially if it led to injuries, panic, or medical crises.
+
+2. UCLA’s Contradictory Handling of Protest Safety
+By focusing on danger, you can expose UCLA’s inconsistency in handling protests:
+
+They allowed unchecked violence between protest groups for days (leading to actual physical harm).
+Then, for a later protest, they responded with a highly aggressive, unsafe crowd-control tactic that put students at risk.
+👉 This creates a damning contradiction:
+
+When students were actually at risk of being attacked by counterprotesters, UCLA delayed action.
+But when students were peacefully protesting, they used excessive force that created a new safety hazard.
+This suggests UCLA wasn’t enforcing policies based on safety concerns, but rather in an arbitrary or politically motivated way.
+
+3. Why This is a Stronger Argument Than a Free Speech Claim
+If you argue this is about student rights, UCLA can justify it by saying, “We were just enforcing protest rules.”
+If you argue this is about safety, UCLA has no easy defense. They have to explain:
+Why they allowed actual violence to escalate in the first protest but
+Chose to use dangerous tactics against students who weren’t engaging in violence later.
+This forces UCLA into an indefensible position—either they were negligent in preventing violence earlier, or they acted recklessly in kettling students later.
+
+4. Key Evidence to Strengthen the Argument
+✅ Video footage showing how the kettling put students at risk (panic, medical needs being ignored, police escalation, etc.).
+✅ Statements from students who experienced it (Were they scared? Did they feel physically endangered?).
+✅ Comparing UCLA’s statements about protest response—did they say they were prioritizing safety, yet allowed unsafe conditions in both cases?
+✅ Any internal security documents explaining why kettling was used—did UCLA officials approve of it or push for it?
+
+Would you want to cross-reference who made the decisions in these two protests to see if the same officials were involved in both the negligence and the later overreach? That could help expose institutional inconsistency.
+
+
+
+
+📌 Fear alone does not make something unlawful.
+
+If the blockade was the issue, why did UCLA cite "Jewish students feeling threatened and afraid" instead of just saying, "this was an unlawful obstruction"?
+This suggests UCLA was justifying their actions based on public perception, rather than clear, consistent enforcement of university policy.
+
+
+
+
+
+2. The Contradiction in UCLA’s Approach
+If UCLA says “We shut down the encampment because the acts making students feel unsafe were unlawful (blocking walkways)”, then ask:
+
+🔍 Why did UCLA allow known unlawful acts (blockading walkways) to continue for days before acting?
+🔍 Why did UCLA ignore student safety concerns about antisemitism when no laws were broken, but suddenly take those concerns seriously when laws were technically violated?
+🔍 Why did UCLA fail to issue a clear, immediate dispersal order as soon as the encampment became unlawful?
+
+📌 Key Argument: If UCLA was truly concerned with student safety, it would have addressed threats consistently, not selectively waited until it had a legal justification to shut the protest down.
+
+
+✔ Shift away from "why UCLA acted" to "how UCLA acted."
+1. The Stronger, Provable Argument
+Instead of speculating about intent, the argument should be:
+
+🔴 UCLA selectively enforced safety concerns.
+
+They ignored antisemitism and Jewish student complaints for months.
+Then they cited Jewish students’ safety as a primary reason to shut down the encampment—despite not acting on the same concerns earlier.
+🔴 UCLA’s responses were inconsistent and reactive.
+
+They let blockades continue for days before acting.
+They failed to act on violence between groups until it escalated.
+They were slow to act when pro-Palestinian students were at risk, but fast to act when shutting them down.
+📌 Key Argument (That Doesn’t Require Speculation): UCLA’s approach to campus safety was arbitrary and inconsistent. That’s a provable failure, regardless of political stance.
+
+3. The Big Takeaway: UCLA’s Institutional Failure Goes Beyond One Protest
+UCLA allowed exclusion to become normalized in student government and campus life.
+UCLA failed to address it when it was directed at Jewish students for months.
+When that same exclusionary logic escalated into the protest blockade, UCLA suddenly acted—too little, too late.
+They weren’t just negligent in the moment—they were complicit in fostering an environment where exclusion was allowed to thrive.
