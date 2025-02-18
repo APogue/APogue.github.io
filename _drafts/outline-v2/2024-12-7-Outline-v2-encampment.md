@@ -4,7 +4,7 @@ title: "Outline-v2-encampment"
 published: true
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2025-2-18 5:06 PM
+updated_date: 2025-2-18 5:24 PM
 ---
 
 ## Notes
@@ -166,7 +166,7 @@ Is this all part of a greater scheme to turn students against each other
 
 In doing so, they are emulating the current zeitgeist, contemporary society's worst traits 
 
-## The Davis Standard
+## The Davis Standard ------------------------------------------------------------------
 
  "This Wasn't a Failure of Resources, It Was a Failure of Judgment."
 
@@ -222,6 +222,44 @@ Highlight when they acted (only after chaos) vs. when they should have acted.
 
 If UCLA failed here, what else are they failing to address?
 Is this a broader issue of administrative neglect when it comes to campus safety?
+
+
+
+| **Legal Standard**                              | **Title IX (Davis Standard - Education)**                                        | **Title VI (Race/National Origin Discrimination)**                        |
+|------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **Can the school be liable for failing to stop harassment or violence?** | Yes, if they were deliberately indifferent to severe, pervasive, and objectively offensive harassment that deprived a student of educational access. | Yes, but usually only if there is evidence of intentional discrimination (e.g., policies, actions, or failures to act that show a pattern of bias). |
+| **Does the school have to take direct action to discriminate?** | No. Liability exists if they know about harassment and fail to take reasonable steps. | Usually, yes. Liability often requires proof that the institution acted (or failed to act) with discriminatory intent. |
+| **Does administrative neglect count?** | Yes—deliberate indifference applies. | Only if it suggests an intent to discriminate. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. How This Affects a Public Argument
+If this were a lawsuit, proving a Title VI violation would be difficult unless you had strong evidence of intentional discrimination. But in terms of public accountability, UCLA’s failure to protect students from foreseeable violence can still be framed as a major failure of duty.
+
+Instead of focusing on the legal standard of "intent," a public report could highlight:
+✔ Pattern of neglect that disproportionately harmed certain student groups.
+✔ Inconsistent policy enforcement that suggests UCLA favored one side over the other.
+✔ Emails and statements showing that UCLA had actual knowledge of escalating violence but still did nothing.
+
+📌 Key takeaway: While Davis applies more directly to Title IX, a strong public argument can be made that UCLA failed to uphold the spirit of both Title VI and Title IX by knowingly allowing students to be put in danger.
+
+Would you want to cross-analyze UCLA’s responses to different incidents to show clear bias or disparate treatment? That could help make the strongest case for deliberate inaction.
+
+
 
 1. Why Kettling is a Student Safety Issue (Not Just a Free Speech Issue)
 🔴 Kettling is a controversial police tactic where officers trap a group of protesters in a confined space, restricting their ability to leave.
