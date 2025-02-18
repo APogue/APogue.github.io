@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2024-12-16 5:43 PM
+updated_date: 2025-2-17 8:16 PM
 ---
 
 
@@ -60,7 +60,9 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 
 ### SJP (Mohammed) 
 
+- [UC Policy on prohibited conduct](https://policy.ucop.edu/doc/1001004/Anti-Discrimination)
 
+    ask about d. Other Inquiry 
 
 ### UCLA Faculty 
 

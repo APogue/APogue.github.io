@@ -38,6 +38,8 @@ Seemingly aware of the flawed logic, the report was sufficiently vague, effectiv
 
 It also refrained from placing blame on individual actors, broadly referring to agencies or groups of administrators, and made use of euphemisms to avoid language that might be construed as "problematic" for UCLA's reputation. 
 
+The above looks like plausible deniability 
+
 "Our review of emails and other electronic communications revealed that, once the encampment was established, administrators were bombarded with questions from within and outside the UCLA community about how it planned to respond. **Particularly after social media posts about Jewish students being excluded from portions of campus went viral**, administrators were inundated with complaints and concerns from parents, politicians, and community members about why the University was allowing it to continue."
 
 "Administrators, including communications professionals, scrambled to respond. As with other aspects of the University’s response, it was often unclear who the final decision-makers were, leading to conflict between administrators and communications professionals. Simultaneously, the absence of clear response objectives and plans resulted in **a muddled communication strategy that, at times, prioritized optics over other interests**."
