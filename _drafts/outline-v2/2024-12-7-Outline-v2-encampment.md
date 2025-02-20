@@ -54,7 +54,7 @@ Following a large-scale pro-Palestine protest that escalated into rioting last s
 
 These moves were made while the "marketplace" was flooded with opinions of what went wrong.
 
-To ameliorate any confusion and restore faith in accountability, UCOP Drake hired an independent consulting agency to review all procedures immediately leading up to and following the major protest and subsequent encampment removal by police. 
+To ameliorate any confusion and restore faith in accountability  , UCOP Drake hired an independent consulting agency to review all procedures immediately leading up to and following the major protest and subsequent encampment removal by police. 
 
 "UC President Michael V. Drake, in a letter to the University of California Board of Regents obtained by The Times, said the way the incident was handled requires an outside inquiry.
  
