@@ -21,6 +21,8 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 
 ### Hillel (Bella)
 
+- Was the petition to have Verdugo impeached acknowledged by anyone on campus
+
 - Have USAC members ignored calls for diplomacy with Hillel? 
 
 - [Fox News: UCLA students allege discrimination on campus](https://noticias.foxnews.com/video/6365452331112)
