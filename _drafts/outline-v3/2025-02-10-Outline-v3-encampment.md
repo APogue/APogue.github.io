@@ -84,4 +84,4 @@ If there are certain things that are exclusionary, then they need to be addresse
 
 - The violent riots occur nonetheless, with police response questionable 
 
-- This leads to a forceful takedown of the encampment and classes having to go remote, which was a major problem for parents and students alike  
+- This leads to a forceful takedown of the encampment and classes having to go remote, which was a major problem for parents and students alike        
