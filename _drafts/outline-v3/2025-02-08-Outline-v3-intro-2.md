@@ -4,6 +4,7 @@ title: "Outline-v3-intro-2"
 published: true
 author: Alexie Pogue
 date: 2025-2-10 10:44 AM
+updated_date: 2025-2-22 1:26 PM 
 ---
 
 Oct 9th 
@@ -25,6 +26,25 @@ Oct 11
 You motherfucker
 
 You better fucking run from me terrorist"
+
+Oct 12th 
+
+"The students have filed reports with the UCLA PD and the EDI office, but the reason I’m writing
+is due to the email message sent by UC President Drake and reinforced by Chancellor Block’s
+own message. While the attack on and taking hostage of Israeli civilians is to be condemned, the
+email's language licenses the shut-down of the teach-in we witnessed yesterday. By calling the
+attack "an act of terrorism” and “unspeakable terror” in the absence of mentioning the millions of
+Palestinians living under Israeli Occupation who did not participate in the violence and who are
+now being collectively punished by the Israeli military as indeed they have always been, the
+email perpetrates the stereotype of Palestinians and indeed, all Arab, as terrorists—as is evident
+by the racist language hurled at our students yesterday.
+
+I urge the EDI and Chancellor’s office to write a follow-up message to the Bruin community to
+ensure that the rights and safety of Arab and Palestinian students are equally acknowledged and
+recognized and that the Chancellor's call for mutual respect extends to both our Jewish and Arab
+community. A peaceful teach-in about the Occupied Territories of Palestine should be able to
+take place without attacks on and threats to UCLA staff and student, parent, and faculty
+participants."
 
 Oct 13th 
 

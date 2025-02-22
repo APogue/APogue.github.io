@@ -54,14 +54,46 @@ updated_date: 2025-2-22 10:52 AM
 
 ## Notes 
 
+### Oct 12
+
+- Dhunt using the wrong approach to address the harassment incident 
+
+	- "I'm reaching out to see how the terrorist attacks will figure into Dialogue Across Difference
+	programming this year? We're receiving reports, like the one below, of students being
+	accosted for attending a Palestine panel and other teach-ins presumed to be Anti-Semitic."
+
+	- "Thank you, David! I just handed this off to Michael Beck. He and his team are going to run with
+	it."
+
+	- "Yes, please confer with David to see what he has in mind. Gene and I discussed this today and we
+	believe there will be more activity related to this crisis in the coming weeks and months and we
+	need to be as prepared as possible."
+
+- Email to Makdisi (a Kaplan teach-in organizer) reporting the incident from a student who was there
+
+	- "I think the guards let the men go because I saw some of them standing at Bruin Plaza at around 7:00 pm at the vigil for Israel."
+
+- David Myers 
+
+	- "Just a thought. Might it sense to convene an emergency working group on this that
+	includes representatives from admin, faculty, and staff, especially student affairs?"
+
+- Michael Beck 
+
+	- "Yes. I will have Student Affairs reach out to her. Sorry she had to endure that."
+
+- Jenny Sharpe letter (the day before Block put out another message)
+
+	- "I urge the EDI and Chancellor’s office to write a follow-up message to the Bruin community to
+	ensure that the rights and safety of Arab and Palestinian students are equally acknowledged and
+	recognized and that the Chancellor's call for mutual respect extends to both our Jewish and Arab
+	community. A peaceful teach-in about the Occupied Territories of Palestine should be able to
+	take place without attacks on and threats to UCLA staff and student, parent, and faculty
+	participants."
+
+
 ### April 25 - May 2nd
 
-- From Responsive Records Redacted Part 2
-
-	- Overwhelmingly Jewish parents and professors condemning the encampment 
-
-	- UCLAPR_0000316, "Refers to statements made at the May 2, 2024 Alumni Association webinar that there were no injuries sustained during the May 1, 2024 protest at the pro-Palestinian encampment. Provides photos of a student hospitalized with an injury received from police. Recommends that this student and others affected by police violence receive a
-	public apology from the administration."
 
 - From Responsive Records Redacted Part 1
 
@@ -73,3 +105,12 @@ updated_date: 2025-2-22 10:52 AM
 
 		"I’ve emailed you previously with respect to UCLA and rampant antisemitism on
 		campus. I am forwarding a viral video demanding the Regents investigate and suspend and expel these students. There is no privacy rights to encampments on public property. UCLA is a public university funded by the taxpayer. The video highlights the Regents ongoing failure to protect the safety and security of Jewish students. I expect a reply and a letter to all students and members of the UCLA community discussing this incident, denouncing it, and reiterating UCLA commitment to the safety of its student body."
+
+- From Responsive Records Redacted Part 2
+
+	- Overwhelmingly Jewish parents and professors condemning the encampment 
+
+	- UCLAPR_0000316, "Refers to statements made at the May 2, 2024 Alumni Association webinar that there were no injuries sustained during the May 1, 2024 protest at the pro-Palestinian encampment. Provides photos of a student hospitalized with an injury received from police. Recommends that this student and others affected by police violence receive a
+	public apology from the administration."
+
+
