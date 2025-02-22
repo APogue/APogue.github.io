@@ -10,8 +10,6 @@ updated_date: 2025-2-22 10:52 AM
 
 ## Oct 9th - Nov 9th (requested)
 
-- Contacted Student Affairs with an informal request, no response
-
 - Records department sent confirmation of receipt 
 
 1. External communications 
