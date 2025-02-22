@@ -85,3 +85,9 @@ If there are certain things that are exclusionary, then they need to be addresse
 - The violent riots occur nonetheless, with police response questionable 
 
 - This leads to a forceful takedown of the encampment and classes having to go remote, which was a major problem for parents and students alike        
+
+
+
+- Kaplan Hall 
+
+	- So they didn't catch the perps. They should have taken measures to mitigate risk moving forward, i.e. opened an investigation using video footage, reassed SAM's effectiveness in these scenarios, and put out an explicit message to the students and greater LA community that this behavior is not welcome. 

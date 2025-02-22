@@ -4,8 +4,10 @@ title: "Outline-v3-intro-2"
 published: true
 author: Alexie Pogue
 date: 2025-2-10 10:44 AM
-updated_date: 2025-2-22 1:26 PM 
+updated_date: 2025-2-22 2:03 PM 
 ---
+
+relevant links - [newsroom](https://newsroom.ucla.edu/campus-statements), [chancellor](https://chancellor.ucla.edu/messages)
 
 Oct 9th 
 

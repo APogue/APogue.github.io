@@ -84,12 +84,18 @@ updated_date: 2025-2-22 10:52 AM
 
 - Jenny Sharpe letter (the day before Block put out another message)
 
+	- "Despite the event not being promoted as sponsored by any university department, the English
+	front desk received so many harassing calls that the office manager requested to go home for her
+	own safety. The teach-in was subsequently moved to Zoom."
+
 	- "I urge the EDI and Chancellor’s office to write a follow-up message to the Bruin community to
 	ensure that the rights and safety of Arab and Palestinian students are equally acknowledged and
 	recognized and that the Chancellor's call for mutual respect extends to both our Jewish and Arab
 	community. A peaceful teach-in about the Occupied Territories of Palestine should be able to
 	take place without attacks on and threats to UCLA staff and student, parent, and faculty
 	participants."
+
+- SAM report
 
 
 ### April 25 - May 2nd
