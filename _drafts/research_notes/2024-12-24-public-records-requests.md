@@ -4,7 +4,7 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-2-22 10:52 AM
+updated_date: 2025-2-22 5:28 PM
 ---
 
 
@@ -96,6 +96,52 @@ updated_date: 2025-2-22 10:52 AM
 	participants."
 
 - SAM report
+
+	- "One man of Middle Eastern descent in his mid to late 20s with black hair and a beard walked down the hallway and appeared to get a drink of water. Shortly a�er, two more men approached Miller and Price and asked where the men’s room was. A�er asking the ques�on they began to rush down the hallway, pulling masks up and yelling at the students."
+
+	- "The students stood up as the three men ran at them. The men yelled and called the students “Terrorists,
+	rapists, and baby murderers. Price and Miller were able to get in between the students and the men.
+	Two more men joined the three who were yelling. Price was able to block them as they tried to get at
+	the students. Miller helped the students get out the door at the end of the hall to get outside."
+
+	- "One of the men flipped the trash can and then began to try to flip
+	the table but instead just slammed that down three or four �mes. Another two of the men were able to
+	get in between the father and the first-year undergraduate student. The father kept saying we only want
+	peace; we only want peace. One of the men pulled out a cell phone and screamed if you only want
+	peace, then go on record denouncing Iran. The man was very close to the father with his phone
+	recording; the father then said into the phone that he denounces Iran."
+
+	- "A�er the female student le� with her items, Miller atempted to de-escalate by communica�ng with the
+	men. They kept yelling how can you let baby killers and terrorists do this on campus? Miller responded
+	that UCLA is commited to free speech and will always atempt to create environments where people
+	have a space to express themselves. At this point, one of the men wearing a green jacket and green mask
+	began to try and rip off Miller’s name tag. Price then pushed the man to create more space."
+
+	- "Three people were remaining in addi�on to Miller and Price and
+	the five men who were disrup�ng the event; one girl, who was later iden�fied as a graduate student,
+	was protes�ng the speech was si�ng on the east side of the hallway at a table A first-year
+	undergraduate student and her father...One of the men then accidentally slapped the female graduate student standing near the table. She yelled that she was on their side, and another man apologized and hugged her, saying, “Sister, we are so sorry.” Once the apologized, the female graduate student stopped yelling." - accidental seems to be referring to the political "side" the girl was on. Did he accidentally slap someone or accidentally slap the wrong person?
+
+	- "Once there was space, Miller said he understood their pain; he is Jewish, but their atempt to shut down
+	speech and harass students is doing more damage than good. At this point, the men were beginning to calm down, and they sprinted and le� out the Northeast door."
+
+	- "Kaupalolo shared that the first-year student, if she would like to report this incident, can file that report with the Dean of Students. Miller shared addi�onal resources, like CAPS, that she should reach out to if she was feeling anxious or overwhelmed."
+
+	- "Two UCPD officers arrived on the scene, Price and Miller gave their descrip�ons, an the officers went to look for the men."
+
+	- Looking at the text messages there seems to be a discrepancy about whether there were 4 or 5 individuals 
+
+- EDI report was filed
+
+- Monroe Gorden Jr. Vice Chancellor, UCLA Student Affairs 
+
+	- "Michael, do we know whether PD has opened an investigation into the assault (there is a video
+	circulating that can be sent to JT if they do not already have it)?"
+
+	- "Thanks Michael, perhaps you and I can meet on Monday to discuss. I’m concerned about the fact
+	that these individuals engaged in violence toward a staff member, and feel that we need to work to
+	hold them accountable, otherwise it these types of events may get worse."
+
 
 
 ### April 25 - May 2nd
