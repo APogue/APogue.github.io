@@ -4,7 +4,7 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-2-22 5:28 PM
+updated_date: 2025-2-22 5:29 PM
 ---
 
 
@@ -141,6 +141,8 @@ updated_date: 2025-2-22 5:28 PM
 	- "Thanks Michael, perhaps you and I can meet on Monday to discuss. I’m concerned about the fact
 	that these individuals engaged in violence toward a staff member, and feel that we need to work to
 	hold them accountable, otherwise it these types of events may get worse."
+
+	- **THIS NEEDS FOLLOW UP**
 
 
 
