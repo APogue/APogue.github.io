@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2025-2-22 12:02 PM
+updated_date: 2025-2-27 6:35 PM
 ---
 
 
@@ -18,6 +18,10 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 ### JVP (Benjamin Kersten)
 
 - Why doesn't JVP interact with CAC? 
+
+- Do you know what the conditions were for access to the encampment, like when someon "vouched" for someone to enter? 
+
+- How do you define Zionism? 
 
 ### Hillel (Bella)
 

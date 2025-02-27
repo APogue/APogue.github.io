@@ -4,7 +4,7 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-2-24 12:01 PM
+updated_date: 2025-2-27 6:36 PM
 ---
 
 
@@ -172,3 +172,35 @@ public apology from the administration."
 - Unfortunately, the declaration of unlawfulness was not followed with a firm ultimatum, time table and Police presence, and that led to the UCLAPR_0000260 horrible and condemnable riots the night of May 1st. I've joined the Jewish Faculty Resilience Group in condemning those riots, regardless of who the perpetrators were. I have emphasized however that the violence would have been avoided had UCLA taken stronger and timely action against the unlawful and racist encampment. 
 
 - These latest events should not divert us from demanding (1) investigation into the Medical School antisemitism, (2)transparency of the “antisemitism task force" fig leaf and (3) the root cause of it all: anti-Zionist faculty using university websites for political propaganda. (I call them “Hamas intellectual tunnels dug under our campus’). 
+
+- There is an epidemic of antisemitism across the UC system, including at UCLA. It began long
+before October 7, 2023 and has worsened dramatically since then. The UC Chancellors have had
+six months to deal with the surge of antisemitism and have failed. Not one student or faculty
+member has been disciplined on any UC campus for antisemitic conduct since October 7. The
+knife-wielding UCLA students were not disciplined. The violent rioters at UC Berkeley are
+supposedly "under investigation," but no discipline has resulted thus far. Nor were those who
+threatened the Jewish student government president at UC Santa Barbara subjected to any form
+of discipline. None of the Professors at UC Davis, UC Merced, UCLA, UC Berkeley, UC Santa
+Barbara and elsewhere who made vile antisemitic comments and threatening statements have
+faced any discipline. No UC Chancellor would ever have allowed this to happen if it were aimed at
+black students/faculty. The double-standard is obvious. The unequal treatment of Jewish students
+and facuity is morally reprehensible and a violation of the university's legal obligations under Title
+Vl and the Equal Protection Clause. 
+
+- Finally, there seems to be a great deal of confusion inside the UCLA administration regarding
+the nature and extent of First Amendment free speech and free assembly rights. Freedom of
+Assembly and the right to protest are sacrosanct, as long as they are conducted "peaceably." Not
+"mostly" peaceably, but "peaceably." The Administration has every right to ask the UCPD to arrest
+or forcibly remove/relocate non-peaceful protestors, including from public property and/or from
+public events. The Administration also has every right to enforce reasonable time, place and
+manner restrictions to ensure protestors do not block or disrupt campus events and activities,
+including speakers with whom the protestors disagree. Freedom of Speech protects vile and
+hateful speech, but it does not confer any rights to block or prevent others from exercising their
+own free speech rights. Nor do the first amendment rights of those propagating hate preclude the
+UCLA administration from condemning such hate speech in the strongest possible terms.
+Therefore, all UC Chancellors (including Chancellor Block and whoever succeeds him at UCLA)
+should receive first amendment training as soon as possible, so they understand the exact nature
+and extent of freedom of speech and assembly, including their power to enforce reasonable time,
+place and manner restrictions. The training should be conducted by a retired federal judge, not by
+any current UC faculty. 
+
