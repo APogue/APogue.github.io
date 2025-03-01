@@ -4,7 +4,7 @@ title: "Public records requests"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-2-27 6:53 PM
+updated_date: 2025-2-28 8:29 PM
 ---
 
 
@@ -204,3 +204,82 @@ and extent of freedom of speech and assembly, including their power to enforce r
 place and manner restrictions. The training should be conducted by a retired federal judge, not by
 any current UC faculty. 
 
+- Refers to statements made at the May 2, 2024 Alumni Association webinar that there were no injuries sustained
+during the May 1, 2024 protest at the pro-Palestinian encampment. Provides photos of a student hospitalized with
+an injury received from police. Recommends that this student and others affected by police violence receive a
+public apology from the administration. 
+
+
+- Teddy Schwarzman refers in his May 1st letter to the incident where a pro-Israeli protester was hit in the head. Some online writing says it was another pro-Israel, I don't believe the LA times committed to who they believe hit the woman, they said "another demonstrator." People in the community emailing the university think it was a pro-Palestinian demonstrator.
+
+- As a university dedicated to learning and the search for truth, we hold the exchange of ideas and the
+diversity of viewpoints to be fundamental. To claim control of a shared physical space and to impose
+an intellectual and ideological litmus test are not in keeping with our bedrock principles and values. 
+
+### pgs 108 ++ 
+
+- people are angry about students blocking areas of campus --- they put a lot of trust in Block --- as if he is involved at all in what's going on 
+
+- people are also very aware about what is going on either through their children or social media. UCLA essentially allowed this to go on so long it was all over social media
+
+	- April 30th - I have had TWO Hollywood Industry
+colleagues reach out to me today over this video....who have regularly come in to class over the years
+as guests to speak with my students now tell me that they no longer feel comfortable coming to
+UCLA's campus and speaking with my students because of UCLA administration's lack of action
+supporting Jewish students. 
+
+	- April 29th - How much more violence do you need an Campus to shut it down?
+| was threatened yesterday to have My house burnt down, called a pedophile, and threatened to
+break my jaw.
+Jewish students are being blocked from entering building to their classes.
+The protestors are aggressive and antisemitic.
+Are you simply waiting for someone to get seriously injured or worse?
+Please do something positive. 
+
+	- April 29th - As a UCLA Law alum (go Bruins!), I am shocked to see videos of Jewish UCLA
+students being prevented by masked protesters from entering UCLA classrooms and
+buildings, while UCLA campus security slands by without interfering. T love UCLA
+and its tradition of academic excellence & free speech....but there’s a big difference
+between a protest and deliberately preventing members of a minority group from being
+able to attend class. If UCLA allows this to continue, either by action or inaction, then
+it appears that UCLA has now decided there’s one minority group that it is OK to
+discriminate against. And THAT is not UCLA’s way. 
+
+	- April 29th - Debora Southern - As a leader of University of California, Los Angeles during a time marked by violence, you have the capability to use your role and power within our institution to either bring police violence to
+our campus and violate the human rights of our students as they peacefully protest, or choose to
+use your power to protect our students and their freedom. I urge you to continue to protect our
+students as they peacefully protest. 
+
+	- April 30th - from a parent - I am all for free speech, protesting and demonstrating (even when I disagree with
+the messages), however the encampment on campus is violating students’ rights to pass freely, enter
+buildings and attend classes. On top of this, the intimidation the protestors are using is
+unacceptable, not to mention the vandalism they are causing by painting on buildings and the walkways. 
+
+- incidents of violence
+
+	- April 29th - Who assaulted a Jewish man on campus. Regrettably, this altercation
+unfolded in full view of UCLA security personnel...which included striking the individual and employing a taser,
+not only contravene university regulations by introducing a weapon onto campus
+but also constitute a grave physical assault. It is imperative that swift and decisive
+action be taken in response to such egregious behavior. 
+
+	- April 29th - My son is a first-year student at UCLA in the Math Department. He was accosted coming of the east entrance of the Powell Library today while making his way to class. He was forced to put his hands on a protester to
+push him off after the protested held him back from going to class. My son went for help at the campus police
+station and was told the campus police are under the directive not to protect the students from the protesters.
+Mr. Chancellor, Sir, If you cannot protect your students such as my son at UCLA perhaps you should designate
+the responsibility to an administrator who will oversee how to protect them.
+My son is traumatized by the protestors. He is having difficulty going to class and studying for mid-terms, which
+are tomorrow. 
+
+	- April 28th - Surely it's gone on long enough? I've seen videos of pepper spray, intimidation, outsiders coming onto
+campus to inflame matters even further. This is blatant anti-semitism being allowed to erupt and it
+would never be tolerated if any other group were being targeted. Why no consequences? Enough is
+enough! My son called me. Jewish or not. He's scared. Those are his words. I'm paying tuition for him to
+receive an unfettered education, and that means he can walk to class safely, be treated fairly by
+professors that deal in facts and not personal vendettas and propaganda and surely not watch UCLA
+become a national lightning rod because our administration won't do anything. How is this even
+remotely ok? The pro-Hamas protestors, most of whom are ignorant of history, have had their jollies.
+It's time to clean up and return to class. What this means for the UCLA community and any sense of
+cohesion, I don't know. It's very sad. 
+
+- also letters from parents after May 5th who were upset about remote learning and concerned about graduation
