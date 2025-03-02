@@ -339,3 +339,140 @@ UCLA allowed exclusion to become normalized in student government and campus lif
 UCLA failed to address it when it was directed at Jewish students for months.
 When that same exclusionary logic escalated into the protest blockade, UCLA suddenly acted—too little, too late.
 They weren’t just negligent in the moment—they were complicit in fostering an environment where exclusion was allowed to thrive.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Deliberate Indifference is a Recurring Institutional Failure
+
+
+This Wasn’t a Failure of Resources, It Was a Failure of Judgment
+
+
+They were complicit in fostering an environment where exclusion was allowed to thrive
+
+
+Truth can be to divide as much as for anything else. If the university saw CAC's messaging as the truth about Palestinian sentiment against Jews, then they might be politically motivated to allow it to continue 
+
+
+CAC's rhetoric, while protected, garnered a lot of attention and should have been a warning about potentially exclusive practices that may likely occur. 
+
+
+instance of free speech protections 
+
+
+instance free speech protections 
+
+
+when exclusion began, ignored 
+
+
+
+By totality of circumstances it was becoming that the environment was becoming hostile 
+
+
+again free speech allows for certain events to occur 
+
+
+but they need to be on the ready for the moment exclusion begins 
+
+
+and they weren't 
+
+
+they allowed exclusion to go on for days when it came to the encampment 
+
+
+
+if the encampment is in essence a jew exclusion zone, or an Israeli exclusion zone, and there's symbology within the encampment promoting antisemitic hate, then that's a real problem 
+
+If there are certain things that are exclusionary, then they need to be addressed 
+
+
+
+
+---------------------
+
+- Rift all along between pro-p and Jewish students, school didn't do anything about that
+
+	- the school was also aware that the greater community tracks and targets pro-p students, and even admits their knowledge by social media posts addressing the community 
+
+- Not a surprise to anyone when they begin blockading students from accessing areas of campus, school doesn't do anything about that
+
+	- this was a problem for working students, disabled students, jewish students, people completely uninvolved in this situation politically were dragged into conflict and denied access to areas of campus 
+
+- Then aggravators become increasingly more aggravated, school doesn't do anything about that
+
+	- the school should very much be aware the greater community knows the blockading is happening 
+
+	- the school should be very much aware that counterprotester present a serious security threat, if not from the November or other calls by students for the administration's attention, then by the fights that broke out in the days before
+
+	- yet still the school chooses inflammatory rhetoric, and to never point out who the culprits are who are causing the security threat 
+
+- Pro-p attempts to further protect the encampment from aggravators, only increases the issue for students and increases tensions with aggravators, school doesn't do anything about that
+
+	- in fact it assists in some cases with reinforcing barricades 
+
+- Then when it comes time to shut the encampment down, administration is vague and cryptic, and very late, and does nothing to explain that the law is being broken and that security is now a major issue
+
+	- really they only add fuel to the flames with more inflammatory language 
+
+- The violent riots occur nonetheless, with police response questionable 
+
+- This leads to a forceful takedown of the encampment and classes having to go remote, which was a major problem for parents and students alike        
+
+
+Davis sets the threshold for liability at: ✔ Severe, pervasive, and objectively offensive harassment or violence ✔ Actual knowledge by the institution ✔ Deliberate indifference (they had the power to act but failed to do so) ✔ Denial of access to educational opportunities
+
+Severe, pervasive, and objectively offensive harm → ✔
+
+The violence didn’t happen in a vacuum—it built over time. The university admitted that fights were breaking out, SWAT was called, and threats were being made. Actual knowledge → ✔
+
+Public statements, internal emails, and student complaints show that UCLA’s administration knew about the rising violence well before the major attack. Deliberate indifference → ✔
+
+They could have acted, but they didn’t. UCLA had options: increased security, dispersal orders, mediation, controlled protest zones—but they waited until violence exploded before stepping in. This wasn’t a lack of awareness—it was a conscious decision to delay intervention. Denial of access to education → ✔
+
+
+Students—on both sides—were physically attacked and unable to safely participate in campus life. The climate was so hostile that UCLA had to completely shut down the protests, showing they failed to maintain control.
+
+Why This is So Damning for UCLA UCLA cannot claim this was unforeseeable when they had weeks of warning signs. By allowing violence to escalate to a breaking point before intervening, they let outside forces dictate campus policy. Their failure to act did not just affect free speech—it endangered students’ physical safety.
+
+Making This a Public Narrative ✔ Frame this as a Student Safety Failure, Not Just a Speech Issue
+
+While legal arguments focus on Title VI, the bigger scandal is that UCLA administrators knowingly let students get hurt. If they had enforced campus policies earlier, no students—pro-Israel, pro-Palestine, or neutral—would have been put at risk. ✔ Use UCLA’s Own Statements & Internal Reports Against Them
+
+
+They allowed unchecked violence between protest groups for days (leading to actual physical harm). Then, for a later protest, they responded with a highly aggressive, unsafe crowd-control tactic that put students at risk. 👉 This creates a damning contradiction:
+
+
+they have a legally recognized duty to prevent students from being subjected to an environment so hostile that it interferes with their education
+
+
+This duty does not require the university to prevent all violence—but it does require them to take reasonable steps to stop foreseeable and escalating harm. If a school knows about a dangerous situation and fails to take meaningful action, they are complicit in the harm that follows. 
+
+
+📌 Fear alone does not make something unlawful.
+
+If the blockade was the issue, why did UCLA cite “Jewish students feeling threatened and afraid” instead of just saying, “this was an unlawful obstruction”? This suggests UCLA was justifying their actions based on public perception, rather than clear, consistent enforcement of university policy.
+
+ If UCLA says “We shut down the encampment because the acts making students feel unsafe were unlawful (blocking walkways)”, then ask:
+
+Why did UCLA allow known unlawful acts (blockading walkways) to continue for days before acting? 
+
+Why did UCLA ignore student safety concerns about antisemitism when no laws were broken, but suddenly take those concerns seriously when laws were technically violated? 
+
+Why did UCLA fail to issue a clear, immediate dispersal order as soon as the encampment became unlawful?
+
+📌 Key Argument: If UCLA was truly concerned with student safety, it would have addressed threats consistently, not selectively waited until it had a legal justification to shut the protest down.
+
+🔴 UCLA selectively enforced safety concerns.
+
+They ignored antisemitism and Jewish student complaints for months. Then they cited Jewish students’ safety as a primary reason to shut down the encampment—despite not acting on the same concerns earlier.
+
+UCLA’s responses were inconsistent and reactive.
+
+
+The Big Takeaway: UCLA’s Institutional Failure Goes Beyond One Protest UCLA allowed exclusion to become normalized in student government and campus life. UCLA failed to address it when it was directed at Jewish students for months. When that same exclusionary logic escalated into the protest blockade, UCLA suddenly acted—too little, too late. They weren’t just negligent in the moment—they were complicit in fostering an environment where exclusion was allowed to thrive.
+
+- Kaplan Hall 
+
+	- So they didn't catch the perps. They should have taken measures to mitigate risk moving forward, i.e. opened an investigation using video footage, reassed SAM's effectiveness in these scenarios, and put out an explicit message to the students and greater LA community that this behavior is not welcome. 

@@ -7,9 +7,6 @@ date: 2024-11-21 12:42 PM
 updated_date: 2025-2-27 6:35 PM
 ---
 
-
-
-
 ### Sergio Olmos
 
 LAPD reported that they did not have sufficient personnel on hand to intervene until 2:45 am on May 1st. Would you agree with this statement? 
