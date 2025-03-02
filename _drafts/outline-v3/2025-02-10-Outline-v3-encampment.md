@@ -4,6 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
+updated_date: 2025-03-02 12:55 PM
 ---
 
 
@@ -49,7 +50,7 @@ When it came time to shut the encampment down on May 1st, there was no clear mes
 
 What does it mean to "feel unsafe?"
 
-- are we defining "feeling unsafe" as bodily harm? or as exclusion? If it is the latter, then there were many instances where students would rightfully have felt unsafe
+- are we defining "feeling unsafe" as bodily harm? or as exclusion? If it is the latter, then there were many instances where students would have rightfully  felt unsafe
 
 - in fact there were many instances when students said explicitly that they felt unsafe 
 
