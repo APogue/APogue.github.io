@@ -3,7 +3,7 @@ layout: outline
 title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
-date: 2025-03-01 9:02 PM
+date: 2025-03-01 9:04 PM
 ---
 
 
@@ -42,6 +42,8 @@ UCLA cited Jewish students’ safety as a primary reason to shut down the encamp
 When it came time to shut the encampment down on May 1st, there was no clear message to the university or the greater community as to why 
 
 - do they believe the greater community only cares about Jewish students?
+
+- regardless of how this group of students felt, they were unsafe 
 
 	- find the info snippet on the backstory of how they were notified 
 
