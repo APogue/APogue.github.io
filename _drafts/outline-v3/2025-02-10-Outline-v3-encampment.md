@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-02 12:55 PM
+updated_date: 2025-03-03 2:15 PM
 ---
 
 
@@ -14,7 +14,7 @@ The key theme is deliberate indifference
 
 	- willful ignorance became its own problem and endangered students
 
-- Willful ignorance" refers to the act of deliberately choosing to avoid information or facts that could potentially be important or damaging, essentially deciding to remain uninformed on a subject despite having the ability to learn about it; it's often used when someone actively avoids knowledge to protect themselves from facing uncomfortable truths or potential consequences. 
+- "Willful ignorance" refers to the act of deliberately choosing to avoid information or facts that could potentially be important or damaging, essentially deciding to remain uninformed on a subject despite having the ability to learn about it; it's often used when someone actively avoids knowledge to protect themselves from facing uncomfortable truths or potential consequences. 
 
 If the blockade was the issue, why did UCLA cite “Jewish students feeling threatened and afraid” instead of just saying, “this was an unlawful obstruction”? 
 
@@ -54,7 +54,95 @@ What does it mean to "feel unsafe?"
 
 - in fact there were many instances when students said explicitly that they felt unsafe 
 
+---------------------------------------------------------------------------------------------------------------------------
+
+This wasn't a failure of resources it was a failure in judgement 
 
 
+evidence 
 
+- evidence of violence 
 
+- evidence of blockading 
+
+- evidence of community involvement 
+
+	- comms directly with the university 
+
+	- social media 
+
+testimony 
+
+- students feeling unsafe pro-p
+
+- students feeling unsafe pro-I
+
+- SAMs
+
+communications 
+
+- students
+
+- newsroom (mary osako)
+
+- Gene Block
+
+- Rick Braziel 
+
+- politicians 
+
+- Irvine chancellor
+
+- internal professor 
+
+- LAPD
+
+accountability and policy
+
+- blame game and firings
+
+- Jewish task force
+
+- Muslim/Arab task force 
+
+- encampment accountability 
+
+- congressional hearing 
+
+- DEI training data
+
+---------------------------------------------------------------------------------------------------------------------------
+
+I need to develop and build to some kind of crescendo when it comes to 
+
+- safety and policy need to be compared as a function of time
+
+safety or lack thereof presents itself as 
+
+- USAC policy 
+
+- discrimination 
+
+- violence 
+
+- exclusion 
+
+UCLA maintains a policy of 
+
+- willful ignorance 
+
+- heavy policing 
+
+- communications to the Jewish community 
+
+timeline 
+
+- start at the start of the encampment 
+
+- backwards in time to the first half of the school year 
+
+- crescendo at the violence at encampment 
+
+- policing after encampment 
+
+- forwards in time to June 10th protests and policing 
