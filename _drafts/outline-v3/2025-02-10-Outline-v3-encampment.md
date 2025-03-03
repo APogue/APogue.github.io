@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-03 3:15 PM
+updated_date: 2025-03-03 3:20 PM
 ---
 
 
@@ -143,15 +143,9 @@ UCLA maintains a policy of
 
 		- whether assistance is in the form of ideological promotion (the cover)
 
+		- or assisting in stopping the nuisance that protests created 
+
 		- or protection of student safety 
-
-	- absent rhetoric exacerbating problems and leads to an unsafe environment 
-
-		- violence
-
-		- the rift between students
-
-		- the nuisance that the protests were to other students/faculty/staff/parents
 
 timeline 
 
@@ -166,7 +160,7 @@ timeline
 - forwards in time to June 10th protests and policing 
 
 
-That makes sense—you don’t want to start with the night that already got the most media coverage. Instead, you want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.
+I don’t want to start with the night that already got the most media coverage. Instead, I want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.
 
 
 1. Heavy policing is already a policy of the university - Open with an Arresting Scene (Encampment Violence)
