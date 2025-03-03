@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-03 2:15 PM
+updated_date: 2025-03-03 3:15 PM
 ---
 
 
@@ -135,6 +135,24 @@ UCLA maintains a policy of
 
 - communications to the Jewish community 
 
+- blame
+
+- absent rhetoric 
+
+	- they don't want to be seen as assisting any cause in any way
+
+		- whether assistance is in the form of ideological promotion (the cover)
+
+		- or protection of student safety 
+
+	- absent rhetoric exacerbating problems and leads to an unsafe environment 
+
+		- violence
+
+		- the rift between students
+
+		- the nuisance that the protests were to other students/faculty/staff/parents
+
 timeline 
 
 - start at the start of the encampment 
@@ -146,3 +164,16 @@ timeline
 - policing after encampment 
 
 - forwards in time to June 10th protests and policing 
+
+
+That makes sense—you don’t want to start with the night that already got the most media coverage. Instead, you want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.
+
+
+1. Heavy policing is already a policy of the university - Open with an Arresting Scene (Encampment Violence)
+
+- Drop the reader into the moment of peak chaos—the violence at the encampment. Use vivid descriptions, eyewitness accounts, and specific details to establish the stakes.
+
+2. Frame the Core Themes (Safety vs. Policy Over Time)
+- Introduce the core tensions: UCLA's approach to safety vs. its policies on speech, discrimination, and policing.
+
+- Pose the central question: Did UCLA create a safe environment, or did its policies exacerbate danger?
