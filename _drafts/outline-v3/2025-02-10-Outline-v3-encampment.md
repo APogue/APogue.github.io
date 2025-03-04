@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-03 3:20 PM
+updated_date: 2025-03-03 7:18 PM
 ---
 
 
@@ -95,9 +95,17 @@ communications
 
 - internal professor 
 
+- external professor
+
 - LAPD
 
 accountability and policy
+
+- arrests
+
+- student conduct hearings 
+
+- change in policies 
 
 - blame game and firings
 
@@ -105,19 +113,15 @@ accountability and policy
 
 - Muslim/Arab task force 
 
-- encampment accountability 
-
 - congressional hearing 
 
 - DEI training data
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-I need to develop and build to some kind of crescendo when it comes to 
+I need to develop and build to some kind of crescendo when it comes to the comparison of safety and policy as a function of time
 
-- safety and policy need to be compared as a function of time
-
-safety or lack thereof presents itself as 
+"safety," or lack thereof presents itself as 
 
 - USAC policy 
 
@@ -127,11 +131,29 @@ safety or lack thereof presents itself as
 
 - exclusion 
 
+14th amendment and title VI protections state that you can't deny access to education 
+
+- by blockading walkways large swaths of people were denied access to areas of campus and had to take detours to get to their classes
+
+	- that's enough to say if it wasn't breaking Title VI or 14th amendment, that at the least they were breaking the time, place and manner laws 
+
+	- they were not literally denying anyone access to an education 
+
+- if people are violently harassed and/or sent to the hospital as a result of failures of UCLA policy
+
+	- they are literally being denied access to their education 
+
 UCLA maintains a policy of 
 
 - willful ignorance 
 
 - heavy policing 
+
+	- policing has always been a "point and shoot" tool
+
+	- they never expected UCPD to handle policy 
+
+	- they did when riots broke out 
 
 - communications to the Jewish community 
 
@@ -149,9 +171,9 @@ UCLA maintains a policy of
 
 timeline 
 
-- start at the start of the encampment 
+- start at the encampment arrests
 
-- backwards in time to the first half of the school year 
+- backwards in time to the first half of the school year up to the start of the encampment
 
 - crescendo at the violence at encampment 
 
@@ -159,15 +181,101 @@ timeline
 
 - forwards in time to June 10th protests and policing 
 
+---------------------------------------------------------------------------------------------------------------------------
 
 I don’t want to start with the night that already got the most media coverage. Instead, I want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.
 
 
-1. Heavy policing is already a policy of the university - Open with an Arresting Scene (Encampment Violence)
+1. Heavy policing is already a policy of the university 
 
-- Drop the reader into the moment of peak chaos—the violence at the encampment. Use vivid descriptions, eyewitness accounts, and specific details to establish the stakes.
+- Open with an arresting scene - drop the reader into the moment of peak chaos. Use vivid descriptions, eyewitness accounts, and specific details to establish the stakes.
 
 2. Frame the Core Themes (Safety vs. Policy Over Time)
-- Introduce the core tensions: UCLA's approach to safety vs. its policies on speech, discrimination, and policing.
 
-- Pose the central question: Did UCLA create a safe environment, or did its policies exacerbate danger?
+Events leading up to the encampment clearing - students were clearly denying students access to education by blockading pathways thereby breaking laws corresponding to time, place and manner rules, but Block framed it as a safety issue. 
+
+Block made it clear in that moment his priority was to make the campus environment "safe" for all students
+
+Did UCLA’s policies and decision-making create a safer campus?
+
+What were the policies 
+
+- formal policies on speech, protest and discrimination
+
+What were the decisions
+
+- enacted in a reactive, selective, and deliberately vague way 
+
+The result 
+
+- campus was not equally safe for all students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+3. The Policy Arc: UCLA’s Playbook of Willful Ignorance and Heavy Policing
+
+- This section shifts the lens to how UCLA responds to protests:
+
+	- Pre-Encampment (Fall–Winter 2023-24): Establish a pattern of UCLA's selective enforcement, showing early administrative indifference.
+
+	- During the Encampment: Policies in action—delayed response, selective protections, and eventual over-policing.
+
+	- Post-Encampment (June 10 Protests & Beyond): How policies hardened or shifted, revealing lasting effects.
+
+4. The Safety Arc: The Lived Experience of Violence, Discrimination, and Exclusion
+
+- This section presents safety as experienced by students:
+
+	- Jewish Students: UCLA's efforts to communicate and address concerns (or not).
+
+	- Protesters & Counter-Protesters: The university’s selective policing.
+
+	- The Fallout: Who was punished, who was protected, and the broader impact on campus life.
+
+5. Timeline as a Comparative Tool (Not a Linear Device)
+
+- Rather than a strict chronological timeline, intersperse moments in time to show cause and effect.
+
+- Example: Compare how UCLA handled a winter protest vs. the encampment vs. June 10, layering in admin responses each time.
+
+6. Crescendo: Safety as a Function of UCLA’s Policy Failures
+
+- Bring all threads together to show that policy choices—not just external tensions—determined the level of danger.
+
+- Highlight key contradictions: why certain communities received different responses.
+
+- End with a forward-looking question: What does UCLA’s handling of protests signal about its future approach to student safety and free expression?
+
+
+This approach allows the crescendo to build dynamically—not just through events, but through policy failures compounding over time. It avoids clumping around specific moments while maintaining narrative momentum.
