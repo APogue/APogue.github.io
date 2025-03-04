@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-03 9:11 PM
+updated_date: 2025-03-03 9:13 PM
 ---
 
 
@@ -221,13 +221,15 @@ demonstrate a clear cause and effect, ucla was a catalyst for the ultimate fires
 
 - UCLA policy and decisions led to unsafe results 
 
-- unsafe results left unattended lead to unsafe results 
+- unsafe results left unattended led to unsafe results 
 
 - unsafe results lead to violence 
 
 - violence lead to blame, denial, and tone deaf policy
 
 - blame, denial and tone deaf policy led to unsafe results 
+
+- unsafe results led to denial of education 
 
 - and round and round it goes 
 
