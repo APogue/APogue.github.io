@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-03 9:13 PM
+updated_date: 2025-03-04 8:57 PM
 ---
 
 
@@ -229,9 +229,122 @@ demonstrate a clear cause and effect, ucla was a catalyst for the ultimate fires
 
 - blame, denial and tone deaf policy led to unsafe results 
 
-- unsafe results led to denial of education 
+- unsafe results led to denial of education  
 
 - and round and round it goes 
+
+---------------------------------------------------------------------------------------------------------------------------
+outside/inside 
+
+before a scenario and after
+
+scenario and similar flashback 
+
+cause and effect map 
+
+## Big incidents
+
+
+### The Kaplan incident violence arc 
+
+- they're aware of misinformation spreading through the community and they are aware of a vast Jewish and pro-Israel connection with UCLA social media channels -> 
+
+- they've posted to try to combat misinformation -> they saw the repercussions -> death threats to the English dept/moving the meeting out of an abundance of caution->
+
+- they still witnessed the effect -> students were violently harassed -> their response was essentially to do nothing 
+
+### The encampment violence arc
+
+- they were aware of the blockading 
+
+	- this became a big deal within the community (NY Times)
+
+- they were aware of the violence 
+
+- they did nothing for days 
+
+- emboldened (the guy with the message on his phone), that was on April 30th, he was clearly not deterred because of the days of chaos that they allowed to continue the days before 
+
+- they sent a message to the community about the harm it was causing, choosing to say Jewish students were "afraid."
+
+- they did not choose to publicly address the encampment, however the encampment did publicly respond 
+
+- Gene claimed it was due to security issues (congressional hearing), that's why he wanted to shut it down that day, but he never stated that to the students, and never bothered to warn them when they released the statement that they would stay
+
+- there's also a video capture of someone saying "this is for blocking students and making them afraid" (reddit)
+
+### The Sukkah for Gaza arc 
+
+
+## Policing 
+
+### police response regents meeting 
+
+### police response April 28th 
+
+### police response April 29th 
+
+### police response encampment 
+
+### police response June 10th 
+
+## SAMs
+
+### Kaplan incident 
+
+### The encampment
+
+### the 3rd party investigation 
+
+
+## Student calls for administrative attention 
+
+### calls for administrative attention before the encampment 
+
+### calls for administrative attention during the encampment 
+
+
+## Communication is a one-sided 
+
+### there was never a notice addressing protesting students directly (with regard to directives that the school expected to be carried out)
+
+### student responses to administrative mandates during the encampment went unnoticed  
+
+
+## Communication only made directly to one group 
+
+### reactions to encampment conduct made publicly, and directed at students
+
+### reaction to pinata incident made publicly and directed at students 
+
+### reaction to pig effigy made publicly and directed at students 
+
+### at no point was there ever an explicit reaction to counterprotesters 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
