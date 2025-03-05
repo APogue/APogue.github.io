@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-04 8:57 PM
+updated_date: 2025-02-05 6:27 PM
 ---
 
 
@@ -247,11 +247,17 @@ cause and effect map
 
 ### The Kaplan incident violence arc 
 
-- they're aware of misinformation spreading through the community and they are aware of a vast Jewish and pro-Israel connection with UCLA social media channels -> 
+- They're aware of misinformation spreading through the community -> posts on Twitter and death threats to English Dept. 
 
-- they've posted to try to combat misinformation -> they saw the repercussions -> death threats to the English dept/moving the meeting out of an abundance of caution->
+	- They're aware of the vast Jewish and pro-Israel connection with UCLA social media channels -> UCLA even posted ahead of the meeting to try to dispel rumors
 
-- they still witnessed the effect -> students were violently harassed -> their response was essentially to do nothing 
+- Even despite their best efforts to address "rumors" that did not change the violent outcome
+
+	- It was the English Dept that opted to use an abundance of caution and move the teach in. 
+
+- They witnessed the effect -> violence shown to students, and one parent
+
+- Their solution had nothing to do with holding perpetrators accountable      
 
 ### The encampment violence arc
 
@@ -263,7 +269,7 @@ cause and effect map
 
 - they did nothing for days 
 
-- emboldened (the guy with the message on his phone), that was on April 30th, he was clearly not deterred because of the days of chaos that they allowed to continue the days before 
+- emboldened (the guy with the message on his phone), that was on April 30th, he was clearly not deterred because of days of chaos were allowed to continue the days before 
 
 - they sent a message to the community about the harm it was causing, choosing to say Jewish students were "afraid."
 
@@ -276,25 +282,33 @@ cause and effect map
 ### The Sukkah for Gaza arc 
 
 
-## Policing 
 
-### police response regents meeting 
 
-### police response April 28th 
+## Communication to the students and greater community about events that got a lot of attention 
 
-### police response April 29th 
+- Should I assume that media attention is driving the responses? 
 
-### police response encampment 
+### reactions to encampment conduct made publicly, and directed at students
 
-### police response June 10th 
+### reaction to pinata incident made publicly and directed at students 
 
-## SAMs
+### reaction to pig effigy made publicly and directed at students 
 
-### Kaplan incident 
+### reaction to June 10th protest
 
-### The encampment
+### at no point was there ever an explicit reaction to counterprotesters 
 
-### the 3rd party investigation 
+- after the kaplan event
+
+- or during the April protest
+
+
+
+
+
+
+
+
 
 
 ## Student calls for administrative attention 
@@ -311,27 +325,32 @@ cause and effect map
 ### student responses to administrative mandates during the encampment went unnoticed  
 
 
-## Communication only made directly to one group 
-
-### reactions to encampment conduct made publicly, and directed at students
-
-### reaction to pinata incident made publicly and directed at students 
-
-### reaction to pig effigy made publicly and directed at students 
-
-### at no point was there ever an explicit reaction to counterprotesters 
 
 
+---------------------------------------------------------------------------------------------------------------------------
 
 
+## Policing 
 
+### police response regents meeting 
 
+### police response April 28th 
 
+### police response April 29th 
 
+### police response encampment 
 
+### Office of campus safety created
 
+### police response June 10th 
 
+## SAMs
 
+### Kaplan incident 
+
+### The encampment
+
+### the 3rd party investigation 
 
 
 
