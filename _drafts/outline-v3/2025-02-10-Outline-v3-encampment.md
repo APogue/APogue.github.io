@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 2:40 PM
+updated_date: 2025-02-06 4:16 PM
 ---
 
 
@@ -16,13 +16,13 @@ The key theme is deliberate indifference
 
 - "Willful ignorance" refers to the act of deliberately choosing to avoid information or facts that could potentially be important or damaging, essentially deciding to remain uninformed on a subject despite having the ability to learn about it; it's often used when someone actively avoids knowledge to protect themselves from facing uncomfortable truths or potential consequences. 
 
-If the blockade was the issue, why did UCLA cite “Jewish students feeling threatened and afraid” instead of just saying, “this was an unlawful obstruction”? 
+**If the blockade was the issue, why did UCLA cite “Jewish students feeling threatened and afraid” instead of just saying, “this was an unlawful obstruction”?**
 
 - dog whistle? 
 
 - they wanted to shut the encampment down 
 
-Why did UCLA allow known unlawful acts (blockading walkways and violence) to continue for days before acting? Why did UCLA fail to issue a clear, immediate dispersal order as soon as the encampment became unlawful?
+**Why did UCLA allow known unlawful acts (blockading walkways and violence) to continue for days before acting? Why did UCLA fail to issue a clear, immediate dispersal order as soon as the encampment became unlawful?**
 
 - public perception, Irvine worked with students to make the encampments functional, it would look too hasty to shut them down immediately without trying to educate them on time, place, and manner
 
@@ -30,13 +30,13 @@ Why did UCLA allow known unlawful acts (blockading walkways and violence) to con
 
 - they didn't want to shut it down too soon, they were feigning free speech protections and following suit with other big universities 
 
-Why did UCLA ignore student safety concerns about antisemitism when no laws were broken, but suddenly take those concerns seriously when laws were technically violated?
+**Why did UCLA ignore student safety concerns about antisemitism when no laws were broken, but suddenly take those concerns seriously when laws were technically violated?**
 
 - because they did not want to address the unlawfulness 
 
 - they did not want to assist in any way in making the encampment lawful 
 
-UCLA cited Jewish students’ safety as a primary reason to shut down the encampment—despite not acting on the same concerns earlier.
+**UCLA cited Jewish students’ safety as a primary reason to shut down the encampment—despite not acting on the same concerns earlier.**
 
 - they used Jewish safety as the Trojan horse to infiltrate the encampment and shut it down 
 
@@ -48,11 +48,19 @@ When it came time to shut the encampment down on May 1st, there was no clear mes
 
 	- find the info snippet on the backstory of how they were notified 
 
-What does it mean to "feel unsafe?"
+**What does it mean to "feel unsafe?"**
 
 - are we defining "feeling unsafe" as bodily harm? or as exclusion? If it is the latter, then there were many instances where students would have rightfully  felt unsafe
 
 - in fact there were many instances when students said explicitly that they felt unsafe 
+
+Messaging to the UCLA community matters
+
+- There are tens of thousands of undergraduate students and hundreds of thousands in the greater community
+
+- Decisions cannot be ad hoc, especially in this day and age, when we have valuable policy and data-driven information 
+
+- These are not trivial matters relating to a local high school pep rally 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -145,6 +153,8 @@ I need to develop and build to some kind of crescendo when it comes to the compa
 
 - look at it in a purely content neutral way, rhetoric meant to make some number of students feel "safe" led to a larger number of students being made physically unsafe 
 
+	- were the students made unsafe deserving of this fate? 
+
 UCLA maintains a policy of 
 
 - willful ignorance 
@@ -203,7 +213,7 @@ antisemitism
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-I don’t want to start with the night that already got the most media coverage. Instead, I want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.
+**I don’t want to start with the night that already got the most media coverage. Instead, I want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.**
 
 Frame the Core Themes (Safety vs. Policy Over Time)
 
@@ -215,19 +225,19 @@ Did UCLA’s policies and decision-making create a safer campus?
 
 Tell a story, from start to finish there should be three developing arcs:
 
-The Policy Arc: when was policy clearly applied or not clearly applied when it should have been 
+**The Policy Arc: when was policy clearly applied or not clearly applied when it should have been**
 
-- formal policies on speech, protest and discrimination
+**- formal policies on speech, protest and discrimination**
 
-The decision Arc: What were the decisions
+**The decision Arc: What were the decisions**
 
-- enacted in a reactive, selective, and deliberately vague way 
+**- enacted in a reactive, selective, and deliberately vague way** 
 
-The results: what actually happened 
+**The results: what actually happened**
 
-- campus safety was never a first priority for any student
+**- campus safety was never a first priority for any student**
 
-- campus was not equally safe for all students
+**- campus was not equally safe for all students**
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -247,7 +257,7 @@ demonstrate a clear cause and effect, ucla was a catalyst for the ultimate fires
 
 - blame, denial and tone deaf policy led to unsafe results 
 
-- unsafe results led to denial of education  
+- **unsafe results led to denial of education**  
 
 - and round and round it goes 
 
@@ -271,7 +281,7 @@ cause and effect map
 
 - Even despite their best efforts to address "rumors" that did not change the violent outcome
 
-	- It was the English Dept that opted to use an abundance of caution and move the teach in. 
+	- It was the English Dept that opted to use an abundance of caution and move the teach in
 
 - They witnessed the effect -> violence shown to students, and one parent
 
@@ -281,23 +291,35 @@ cause and effect map
 
 - they were aware of the blockading 
 
-	- this became a big deal within the community (NY Times)
+	- this became a big deal within the community (LA Times)
 
 - they were aware of the violence 
 
 - they did nothing for days 
 
-- emboldened (the guy with the message on his phone), that was on April 30th, he was clearly not deterred because of days of chaos were allowed to continue the days before 
+- emboldened (the guy with the message on his phone), that was on April 30th, he was clearly not deterred because days of chaos were permitted to continue
 
 - they sent a message to the community about the harm it was causing, choosing to say Jewish students were "afraid."
 
 - they did not choose to publicly address the encampment, however the encampment did publicly respond 
 
-- Gene claimed it was due to security issues (congressional hearing), that's why he wanted to shut it down that day, but he never stated that to the students, and never bothered to warn them when they released the statement that they would stay
+- Block claimed it was due to security issues (congressional hearing), that's why he wanted to shut it down that day, but he never stated that to the students, and never bothered to warn them when they released the statement that they would stay
 
 - there's also a video capture of someone saying "this is for blocking students and making them afraid" (reddit)
 
 ### The Sukkah for Gaza arc 
+
+- So based on the above two incidents, there is a clear link between UCLA rhetoric and the greater community reaction, yet UCLA refuses to address such link 
+
+- They have deployed a massive police force to ensure safety is maintained (cooling free speech)
+
+- Maybe they have changed policy on rhetoric
+
+- Or maybe they haven't, how will we ever know if they don't address it? Threats were already made in multiple forms to the Sukkah encampment
+
+	- People coming to destroy the Sukkahs
+
+	- A warning that counterprotesters would be depolyed if the protest was not shut down 
 
 
 ## UCLA upholds a "policy" of one-way communication 
@@ -312,18 +334,13 @@ cause and effect map
 
 - reaction to pig effigy made publicly and directed at students 
 
-- reaction to June 10th protest
-
 - at no point was there ever an explicit reaction to counterprotesters 
 
 	- after the kaplan event
 
 	- or during the April protest
 
-
-
-
-
+	- one-sided coverage of incidents serves to shape the perception that only antisemitic incidents are happening 
 
 
 ### UCLA is allowing students to violate policy under the guise of free speech protections
@@ -342,7 +359,7 @@ cause and effect map
 
 	- Survey - no one trusts the administration 
 
-- How can students feel safe if they don't feel the university is monitoring incidents or listening to them?
+- How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
 
 ### Jewish Students Call for Administrative Help from UCLA - the Call Goes Unanswered 
 
@@ -386,11 +403,11 @@ cause and effect map
 
 	- Block sent a campus-wide statement saying that the encampment made students feel threatened and afraid
 
-	- Gene Block told the House Committee that security issues were why they cleared the encampment 
+	- Block told the House Committee that security issues were why they cleared the encampment 
 
 	- At no point was there a public, campus-wide notice addressing protesting students for the sake of danger mitigation
 
-		- Title IX addresses posting and notification requirements, as opposed to Title VI where information need only be "made available," a lower standard for safety, communication of the law, and protection of rights. UCLA opted to make information available to protesting students without concern that only a subset of protesting students may be getting this information  
+		- Title IX addresses broad-reaching notification requirements, as opposed to Title VI where information need only be "made available," a lower standard for safety, communication of the law, and protection of rights. UCLA opted to make information available to protesting students without concern that only a subset of protesting students may be getting this information  
 
 		- There was an unclear message in the form of a flyer that students needed to leave 
 
@@ -443,6 +460,8 @@ cause and effect map
 ### Office of campus safety created
 
 ### police response June 10th 
+
+- reaction to June 10th protest, consistent with UCLA comms pattern 
 
 ## SAMs
 
