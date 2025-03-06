@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-05 7:08 PM
+updated_date: 2025-02-06 11:36 AM
 ---
 
 
@@ -183,6 +183,24 @@ timeline
 
 - forwards in time to June 10th protests and policing 
 
+antisemitism
+
+- Whose fault is it that antisemitism is happening on campus?
+
+- It becomes a question of how much antisemitism is happening because the school is not enforcing policy
+
+	- Forget whether its incumbent upon the students to initiate impeachment hearings
+
+	- These students pay student fees to the school 
+
+	- Are we throwing out the baby with the bathwater because honestly no one wants the baby either?
+
+- JVP never interacted with CAC
+
+	- JVP has been bullied and harassed 
+
+	- This JVP is very different from Michigan, they are not radical, they do not push violent or hateful rhetoric
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 I don’t want to start with the night that already got the most media coverage. Instead, I want to frame the reader’s mindset so that by the time they reach the riot, they fully grasp the institutional failures that led to it.
@@ -306,47 +324,51 @@ cause and effect map
 
 
 
-
-
-
-
 ## Communication is a one-sided 
+
+- UCLA is allowing students to violate policy under the guise of free speech protections
+
+- Students, and the community want to see measures taken to indicate the administration is listening and not just acting when the spotlight is on them 
+
+	- the school is not taking positive voices from within the community and promoting them 
+
+		- Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
+
+	- survey - no one trusts the administration 
+
+- How can students feel safe if they don't feel the university is monitoring incidents or listening to them?
+
+- If the university doesn't weed out the bad apples, this will certainly serve to inflame tensions between student factions 
 
 ### calls for administrative attention before the encampment 
 
 ### calls for administrative attention during the encampment 
 
-- Whose fault is it that antisemitism is happening on campus?
-
-	- Is the university allowing the conflation of protest rhetoric and antisemitic behavior?
-
-	- Are they attempting to eradicate antisemitism by shutting protests down?
-
-- JVP never interacted with CAC
-
-	- JVP has been bullied and harassed 
-
-	- This JVP is very different from Michigan, they are not radical, they do not push violent or hateful rhetoric
-
-- when usac began excluding it was clear they were compromised 
+- When usac began excluding it was clear they were compromised 
 
 	- Jewish students called out the exclusion (winter)
 
-	- it goes against school policy to exclude
+	- It goes against school policy to exclude
 
-	- Jewish students pay student fees 
+	- Jewish students pay student fees, USAC uses these fees 
 
-- evidence against (CAC) continued to pile up, how much needed to accumulate? (flashback?)
+- Evidence against (CAC) continued to pile up, how much needed to accumulate? (flashback to post-Oct 7th incident)
 
-- Jewish students had to take it upon themselves and it was clear that CAC was compromised when verdugo stepped down
+	- X posts
 
-	- but they had called to impeach her earlier (petition)
+	- Hostile environment by totality of circumstances 
 
-	- it was an impeachable offense to be in that encampment
+- Jewish students had to take it upon themselves; it was clear that CAC was compromised when verdugo stepped down
 
-	- based on no condemnations by USAC for any antisemitic behavior on campus, or for blockading or any behavior breaking the rules, their bias was clear
+	- But they called for her impeachment earlier (petition)
 
-	- but they didn't manage to begin the hearing process until the following academic year, after she had been voted in again by the student body 
+	- It was an impeachable offense to be in the encampment
+
+	- Based on no condemnations by USAC for any antisemitic behavior on campus, or for blockading or any behavior breaking the rules, it was clear they weren't going to address issues 
+
+	- Yet Jewish students didn't manage to begin the hearing process until the following academic year, after Verdugo had been voted in again by the student body 
+
+		- Why are such extreme measures necessary when behavior is clearly violating policy? 
 
 		- Jewish students don't even have the representation necessary to change voting outcomes
 
