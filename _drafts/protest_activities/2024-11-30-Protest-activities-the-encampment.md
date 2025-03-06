@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-the encampment"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-11-30 3:54 PM
 ---

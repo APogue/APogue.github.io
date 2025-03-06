@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-policy"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-11-11 12:42 PM
 updated_date: 2024-11-15 10:11 AM

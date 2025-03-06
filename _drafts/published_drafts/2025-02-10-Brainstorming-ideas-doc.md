@@ -1,6 +1,6 @@
 ---
 layout: outline
-title: "Outline-v3-encampment"
+title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM

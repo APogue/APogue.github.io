@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Outline-v2-encampment-sweep"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-12-16 11:04 AM
 ---

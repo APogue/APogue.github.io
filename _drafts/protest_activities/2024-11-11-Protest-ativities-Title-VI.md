@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-Title VI"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-11-11 4:05 PM
 updated_date: 2024-11-26 5:24 PM

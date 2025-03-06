@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-UCLA handling"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-10-22 8:05 PM
 ---

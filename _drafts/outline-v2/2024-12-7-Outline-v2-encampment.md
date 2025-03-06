@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Outline-v2-encampment"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
 updated_date: 2025-2-18 5:24 PM

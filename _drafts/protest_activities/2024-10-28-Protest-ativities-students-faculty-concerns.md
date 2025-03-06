@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-students and faculty voice concerns"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-10-28 3:18 PM
 updated_date: 2024-11-16 5:46 PM

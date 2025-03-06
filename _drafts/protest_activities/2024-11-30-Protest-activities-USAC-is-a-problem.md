@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-USAC is a Problem"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-11-30 6:00 PM
 updated_date: 2024-12-16 5:02 PM

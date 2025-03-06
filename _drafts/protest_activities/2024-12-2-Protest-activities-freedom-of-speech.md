@@ -1,7 +1,7 @@
 ---
 layout: outline
 title: "Protest activities-freedom of speech"
-published: true
+published: false
 author: Alexie Pogue
 date: 2024-12-2 3:02 PM
 ---
