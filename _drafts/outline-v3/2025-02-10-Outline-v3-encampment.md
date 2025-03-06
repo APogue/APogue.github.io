@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 1:21 PM
+updated_date: 2025-02-06 2:05 PM
 ---
 
 
@@ -378,11 +378,41 @@ cause and effect map
 
 	- While at the same time, counterprotesters were not addressed, putting ALL protesting students in serious danger 
 
-		- If not incumbent on the university to uphold policy, then it was at least incumbent on them to warn students of the danger that they were in (like some sort of disclaimer)
-
 		- The person's quote saying that the encampment "had it coming"
 
-### there was never a notice addressing protesting students directly (with regard to directives that the school expected to be carried out)
+- If not incumbent on the university to uphold policy, then it was at least incumbent on them to warn students of the danger that they were in (like some sort of disclaimer)
+
+	- Block sent a campus-wide statement saying that the encampment made students feel threatened and afraid
+
+	- Gene Block told the House Committee that security issues were why they cleared the encampment 
+
+		- We will assume it was unlawful activity and safety, because safety alone constitutes a heckler's veto and is illegal
+
+	- At no point was there a public, campus-wide notice addressing protesting student for the sake of danger mitigation
+
+		- Title IX addresses posting and notification requirements, as opposed to Title VI where information only need be "made available," a lower standard for safety, communication of the law, and protection of rights. UCLA opted to make information available to protesting students without concern that only a subset of protesting students may be getting this information  
+
+		- There was an unclear message in the form of a flyer that students needed to leave 
+
+			- There was no clear message that students were engaging in unlawful obstruction or were in immediate danger
+
+			- Because the message was not campus-wide, only a subset of students were guaranteed to have received it
+
+		- Students groups responded by saying "we will not leave"
+
+		- There was no clear message that continuing to camp on university grounds would result in arrest
+
+			- Students within the encampment were told in-person 
+
+			- The encampment was ambushed in the middle of the night 
+
+				- This may have been to mitigate risk and chaos, but there is no guarantee that all encampment students had adequate warning to leave or be arrested 
+
+				- Police conduct was no lawful and put students in danger 
+
+
+
+
 
 ### student responses to administrative mandates during the encampment went unnoticed  
 
