@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-05 6:27 PM
+updated_date: 2025-02-05 6:46 PM
 ---
 
 
@@ -310,15 +310,45 @@ cause and effect map
 
 
 
-
-## Student calls for administrative attention 
+## Communication is a one-sided 
 
 ### calls for administrative attention before the encampment 
 
 ### calls for administrative attention during the encampment 
 
+- Whose fault is it that antisemitism is happening on campus?
 
-## Communication is a one-sided 
+	- Is the university allowing the conflation of protest rhetoric and antisemitic behavior?
+
+	- Are they attempting to eradicate antisemitism by shutting protests down?
+
+- JVP never interacted with CAC
+
+	- JVP has been bullied and harassed 
+
+	- This JVP is very different from Michigan, they are not radical, they do not push violent or hateful rhetoric
+
+- when usac began excluding it was clear they were compromised 
+
+	- Jewish students called out the exclusion (winter)
+
+	- it goes against school policy to exclude
+
+	- Jewish students pay student fees 
+
+- evidence against (CAC) continued to pile up, how much needed to accumulate? (flashback?)
+
+- Jewish students had to take it upon themselves and it was clear that CAC was compromised when verdugo stepped down
+
+	- but they had called to impeach her earlier (petition)
+
+	- it was an impeachable offense to be in that encampment
+
+	- based on no condemnations by USAC for any antisemitic behavior on campus, or for blockading or any behavior breaking the rules, their bias was clear
+
+	- but they didn't manage to begin the hearing process until the following academic year, after she had been voted in again by the student body 
+
+		- Jewish students don't even have the representation necessary to change voting outcomes
 
 ### there was never a notice addressing protesting students directly (with regard to directives that the school expected to be carried out)
 
@@ -351,18 +381,6 @@ cause and effect map
 ### The encampment
 
 ### the 3rd party investigation 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---------------------------------------------------------------------------------------------------------------------------
