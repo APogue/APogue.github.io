@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 2:05 PM
+updated_date: 2025-02-06 2:21 PM
 ---
 
 
@@ -380,13 +380,13 @@ cause and effect map
 
 		- The person's quote saying that the encampment "had it coming"
 
+### Encampment notifications by UCLA 
+
 - If not incumbent on the university to uphold policy, then it was at least incumbent on them to warn students of the danger that they were in (like some sort of disclaimer)
 
 	- Block sent a campus-wide statement saying that the encampment made students feel threatened and afraid
 
 	- Gene Block told the House Committee that security issues were why they cleared the encampment 
-
-		- We will assume it was unlawful activity and safety, because safety alone constitutes a heckler's veto and is illegal
 
 	- At no point was there a public, campus-wide notice addressing protesting student for the sake of danger mitigation
 
@@ -400,15 +400,27 @@ cause and effect map
 
 		- Students groups responded by saying "we will not leave"
 
-		- There was no clear message that continuing to camp on university grounds would result in arrest
+			- It should have been clear to UCLA (via constructive notice) that the encampment would not be vacated that evening
 
-			- Students within the encampment were told in-person 
+			- If they had really intended on having the encampment cleared, and they new that it would not be, why not take further administrative or security steps to address the encampment? 
 
-			- The encampment was ambushed in the middle of the night 
+				- Because they chose deliberate indifference to the situation 
 
-				- This may have been to mitigate risk and chaos, but there is no guarantee that all encampment students had adequate warning to leave or be arrested 
+					- They chose to be deliberately indifferent to the status of their own students
 
-				- Police conduct was no lawful and put students in danger 
+					- They chose to be deliberately indifferent to the lack of police presence and backup that would be available to them 
+
+- It was incumbent on the university to notify students of the laws they were breaking, and that they would be facing arrest
+
+	- There was no clear message that continuing to camp on university grounds would result in arrest
+
+		- Students within the encampment were told the afternoon before, in-person 
+
+		- The encampment was ambushed in the middle of the night 
+
+			- There is no guarantee that all encampment students had adequate warning to leave or be arrested 
+
+			- Police conduct was not lawful and put students in danger 
 
 
 
@@ -450,6 +462,8 @@ cause and effect map
 ### Heavy policing is already a policy of the university 
 
 - Open with an arresting scene - drop the reader into the moment of peak chaos. Use vivid descriptions, eyewitness accounts, and specific details to establish the stakes.
+
+- Did they arrest indiscriminately, or was there a fair dispersal order? 
 
 
 
