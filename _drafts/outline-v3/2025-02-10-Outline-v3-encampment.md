@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 12:58 PM
+updated_date: 2025-02-06 1:21 PM
 ---
 
 
@@ -328,22 +328,21 @@ cause and effect map
 
 ### UCLA is allowing students to violate policy under the guise of free speech protections
 
+- Some free speech and academic freedom policy here? 
+
+- Factor that in against Title VI and 14th Amendment 
+
 - Students, and the community want to see measures taken to indicate the administration is listening and not just acting when the spotlight is on them 
 
 	- The school is not taking positive voices from within the community and promoting them 
+
+		- Why didn't they stand with Hillel in condemning the Kaplan incident? 
 
 		- Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
 
 	- Survey - no one trusts the administration 
 
 - How can students feel safe if they don't feel the university is monitoring incidents or listening to them?
-
-- If the university doesn't weed out the bad apples, this will certainly serve to inflame tensions between student factions 
-
-	- AND if counterprotesters are not addressed, ALL protesting students are put in serious danger 
-
-		- The person's quote saying that the encampment "had it coming"
-
 
 ### calls for administrative attention 
 
@@ -375,7 +374,13 @@ cause and effect map
 
 		- Why are such extreme measures necessary when behavior is clearly violating policy? 
 
+- The university didn't bother to weed out bad apples, which served to inflame tensions between student factions (Eli Tsives, who mentioned Verdugo by name) 
 
+	- While at the same time, counterprotesters were not addressed, putting ALL protesting students in serious danger 
+
+		- If not incumbent on the university to uphold policy, then it was at least incumbent on them to warn students of the danger that they were in (like some sort of disclaimer)
+
+		- The person's quote saying that the encampment "had it coming"
 
 ### there was never a notice addressing protesting students directly (with regard to directives that the school expected to be carried out)
 
