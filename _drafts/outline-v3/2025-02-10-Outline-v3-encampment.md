@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 2:21 PM
+updated_date: 2025-02-06 2:40 PM
 ---
 
 
@@ -344,7 +344,7 @@ cause and effect map
 
 - How can students feel safe if they don't feel the university is monitoring incidents or listening to them?
 
-### calls for administrative attention 
+### Jewish Students Call for Administrative Help from UCLA - the Call Goes Unanswered 
 
 - When USAC began excluding it was clear they were compromised 
 
@@ -388,9 +388,9 @@ cause and effect map
 
 	- Gene Block told the House Committee that security issues were why they cleared the encampment 
 
-	- At no point was there a public, campus-wide notice addressing protesting student for the sake of danger mitigation
+	- At no point was there a public, campus-wide notice addressing protesting students for the sake of danger mitigation
 
-		- Title IX addresses posting and notification requirements, as opposed to Title VI where information only need be "made available," a lower standard for safety, communication of the law, and protection of rights. UCLA opted to make information available to protesting students without concern that only a subset of protesting students may be getting this information  
+		- Title IX addresses posting and notification requirements, as opposed to Title VI where information need only be "made available," a lower standard for safety, communication of the law, and protection of rights. UCLA opted to make information available to protesting students without concern that only a subset of protesting students may be getting this information  
 
 		- There was an unclear message in the form of a flyer that students needed to leave 
 
@@ -402,7 +402,7 @@ cause and effect map
 
 			- It should have been clear to UCLA (via constructive notice) that the encampment would not be vacated that evening
 
-			- If they had really intended on having the encampment cleared, and they new that it would not be, why not take further administrative or security steps to address the encampment? 
+			- If they had really intended on having the encampment cleared, and they knew that it would not be, why not take further administrative or security steps to address the encampment? 
 
 				- Because they chose deliberate indifference to the situation 
 
@@ -410,7 +410,7 @@ cause and effect map
 
 					- They chose to be deliberately indifferent to the lack of police presence and backup that would be available to them 
 
-- It was incumbent on the university to notify students of the laws they were breaking, and that they would be facing arrest
+- It was incumbent on the university to notify students that they would be facing arrest
 
 	- There was no clear message that continuing to camp on university grounds would result in arrest
 
@@ -422,13 +422,9 @@ cause and effect map
 
 			- Police conduct was not lawful and put students in danger 
 
+			- I do not know if arrests were indiscriminate, I have to check that 
 
-
-
-
-### student responses to administrative mandates during the encampment went unnoticed  
-
-
+				- Because it has been the case before that students were kettled without an appropriate dispersal order
 
 
 ---------------------------------------------------------------------------------------------------------------------------
