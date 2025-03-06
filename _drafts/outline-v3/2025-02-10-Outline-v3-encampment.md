@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 11:36 AM
+updated_date: 2025-02-06 12:37 PM
 ---
 
 
@@ -300,51 +300,54 @@ cause and effect map
 ### The Sukkah for Gaza arc 
 
 
+## UCLA upholds a "policy" of one-way communication 
+
+- Media attention is driving responses
+
+	- The independent report confirmed this 
+
+- reactions to encampment conduct made publicly, and directed at students
+
+- reaction to pinata incident made publicly and directed at students 
+
+- reaction to pig effigy made publicly and directed at students 
+
+- reaction to June 10th protest
+
+- at no point was there ever an explicit reaction to counterprotesters 
+
+	- after the kaplan event
+
+	- or during the April protest
 
 
-## Communication to the students and greater community about events that got a lot of attention 
-
-- Should I assume that media attention is driving the responses? 
-
-### reactions to encampment conduct made publicly, and directed at students
-
-### reaction to pinata incident made publicly and directed at students 
-
-### reaction to pig effigy made publicly and directed at students 
-
-### reaction to June 10th protest
-
-### at no point was there ever an explicit reaction to counterprotesters 
-
-- after the kaplan event
-
-- or during the April protest
 
 
 
 
 
-## Communication is a one-sided 
-
-- UCLA is allowing students to violate policy under the guise of free speech protections
+### UCLA is allowing students to violate policy under the guise of free speech protections
 
 - Students, and the community want to see measures taken to indicate the administration is listening and not just acting when the spotlight is on them 
 
-	- the school is not taking positive voices from within the community and promoting them 
+	- The school is not taking positive voices from within the community and promoting them 
 
 		- Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
 
-	- survey - no one trusts the administration 
+	- Survey - no one trusts the administration 
 
 - How can students feel safe if they don't feel the university is monitoring incidents or listening to them?
 
 - If the university doesn't weed out the bad apples, this will certainly serve to inflame tensions between student factions 
 
-### calls for administrative attention before the encampment 
+	- AND if counterprotesters are not addressed, all protesting students are put in serious danger 
 
-### calls for administrative attention during the encampment 
+		- The person's quote saying that the encampment "had it coming"
 
-- When usac began excluding it was clear they were compromised 
+
+### calls for administrative attention 
+
+- When USAC began excluding it was clear they were compromised 
 
 	- Jewish students called out the exclusion (winter)
 
@@ -368,9 +371,11 @@ cause and effect map
 
 	- Yet Jewish students didn't manage to begin the hearing process until the following academic year, after Verdugo had been voted in again by the student body 
 
+		- Jewish students don't even have the representation necessary to change voting outcomes
+
 		- Why are such extreme measures necessary when behavior is clearly violating policy? 
 
-		- Jewish students don't even have the representation necessary to change voting outcomes
+
 
 ### there was never a notice addressing protesting students directly (with regard to directives that the school expected to be carried out)
 
