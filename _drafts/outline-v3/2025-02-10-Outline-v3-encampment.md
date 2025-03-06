@@ -4,7 +4,7 @@ title: "Outline-v3-encampment"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-02-06 12:37 PM
+updated_date: 2025-02-06 12:58 PM
 ---
 
 
@@ -306,7 +306,7 @@ cause and effect map
 
 	- The independent report confirmed this 
 
-- reactions to encampment conduct made publicly, and directed at students
+- reaction to encampment conduct made publicly, and directed at students
 
 - reaction to pinata incident made publicly and directed at students 
 
@@ -340,7 +340,7 @@ cause and effect map
 
 - If the university doesn't weed out the bad apples, this will certainly serve to inflame tensions between student factions 
 
-	- AND if counterprotesters are not addressed, all protesting students are put in serious danger 
+	- AND if counterprotesters are not addressed, ALL protesting students are put in serious danger 
 
 		- The person's quote saying that the encampment "had it coming"
 
