@@ -380,7 +380,7 @@ cause and effect map
 
 		- The person's quote saying that the encampment "had it coming"
 
-### Encampment notifications by UCLA 
+### Encampment Notifications by UCLA 
 
 - If not incumbent on the university to uphold policy, then it was at least incumbent on them to warn students of the danger that they were in (like some sort of disclaimer)
 
