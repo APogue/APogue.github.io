@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 4:00 PM
+updated_date: 2025-03-07 4:08 PM
 ---
 
 
@@ -455,9 +455,15 @@ it becomes a question of how to lay the safety issues out
 
 	- Jewish and Arab/Muslim students feeling unsafe 
 
-- Because there was no public announcement about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
+- Because there were no public announcements about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
 
 - The Bruin also had to inquire directly about the Kaplan incident to UCLA and received a short emailed response by some low-level official
+
+	- It said that they are currently pursuing the perps
+
+	- The student said herself she saw one of them at a pro-Israel vigil at around 7 pm 
+
+	- There has been no evidence that UCLA attempted to track down the individuals responsible (you need to check that with SJP)
 
 - Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
 
