@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 11:35 AM
+updated_date: 2025-03-07 11:52 AM
 ---
 
 
@@ -442,6 +442,8 @@ cause and effect map
 							- That the protesting students responded by saying they will not leave? 
 
 					- Did they bother to check what kind of police presence was available that evening, in the event tensions escalated beyond the days before? (this is a question for Thomas directly)
+
+### Post-encampment notifications by UCLA
 
 - It was incumbent on the university to notify students that they would be facing arrest
 
