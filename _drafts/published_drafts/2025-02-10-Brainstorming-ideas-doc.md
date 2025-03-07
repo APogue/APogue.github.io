@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 4:08 PM
+updated_date: 2025-03-07 5:56 PM
 ---
 
 
@@ -342,7 +342,7 @@ it becomes a question of how to lay the safety issues out
 
 ### Media attention is driving responses
 
-- Encampment communication's influence by media was confirmed by the independent report
+- Encampment communication's influence by media and the community was confirmed by the independent report
 
 - reaction to encampment conduct made publicly, and directed at students
 
@@ -409,17 +409,92 @@ it becomes a question of how to lay the safety issues out
 
 			- There is no guarantee that all encampment students had adequate warning to leave or be arrested 
 
-			
+### The university was ignoring student safety 
+
+- Block said that the blockading and exclusionary behavior was making students feel threatened and afraid
+
+- How was it that he was unaware of the continuing harassment of the encampment, and that this harassment might make students feel threatened and afraid?
+
+- Was it the case that these students "deserved" to feel threatened and afraid, was it the case that harassment of this nature could be expected and even understandable? 
+
+	- If free speech was the problem, is free speech allowed on campus or not? 
+
+	- If conduct was the problem, is the school going to enforce policy or not? 
+
+- Block needed to take a position and choose rhetoric that would be **sure to ensure the safety of the largest number of students**
+
+	- A very large number of students were feeling threatened and afraid at that point, including protesters that may or may not have been partaking in the blockading (or may or may not have been in support of the blockading)
+
+	- **The only way** to ensure the safety of the largest number of students, would have been not to address only Jewish students feeling threatened and afraid, but to issue a clear and immediate dispersal order to the encampment. That would have been the only "content-neutral" way to handling messaging 
+
+- Why didn't they assist in ensuring areas of campus were not blocked? 
+
+	- Did they care about clearing walkways for Jewish students and subjecting blockading students to student conduct hearings? 
+
+	- If no, then did they care to notify the encampment of its unlawful obstruction?
+
+	- If no, then did they care to issue a clear, immediate dispersal order as soon as the encampment became unlawful?
+
+	- The university was content with allowing the blockading to go on for days, with no response 
+
+		- During which time harassment by counter-protesters was becoming increasingly worse
+
+		- Which could have contributed to the encampment's exclusionary behavior 
+
+			- The university assisted in setting up barricades, officially 
+
+	- The university's only official response was to shut the protest down, not with a clear dispersal order, but with a confusing flyer and rhetoric that was sure to inflame already increasing tensions 
+
+		- The Bruin stated that the Block had never called the encampment unlawful before 
+
+		- Even if he were abundantly clear, the school waited so long to address encampment conduct, they had essentially trapped students and put them in harms way
+
+		- (Need to ask Darnell Hunt and the students how their interactions went, it's possible he tried to communicate with them on the subject)
+
+
 ### Indications the university was ignoring student anxiety 
-
-- Students, and the community want to see measures taken to indicate the administration is listening [and not just acting when the spotlight is on them]
-
-
-### UCLA is attempting to mediate the campus climate using symbolic gestures 
 
 - How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
 
 	- Is the school just a bank that holds classes? 
+
+	- Students, and the community want to see the school is not just acting when the spotlight is on them
+
+- Why don't they react to anything said in the Bruin?
+
+	- Bella Brannon, while she appreciates the effort, she doesn't think it's enough 
+
+	- Issues on campus safety 
+
+	- Jewish and Arab/Muslim students feeling unsafe 
+
+	- The triangles at the encampment
+
+	- USAC at the encampment 
+
+	- The organization that said if UCLA doesn't do something then they will (Sukkah)
+
+
+
+- Because there were no public announcements about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
+
+- The Bruin also had to inquire directly about the Kaplan incident to UCLA and received a short emailed response by some low-level official
+
+	- It said that they are currently pursuing the perps
+
+	- The student said herself she saw one of them at a pro-Israel vigil at around 7 pm 
+
+	- There has been no evidence that UCLA attempted to track down the individuals responsible (you need to check that with SJP)
+
+- Title VI and that policy doc encourage UCLA's input to the marketplace of ideas
+
+- Survey - no one trusts the administration 
+
+- Why didn't they stand with Hillel in condemning counterprotesters after Kaplan? 
+
+	- The school is not taking positive voices from within the community and promoting them 
+
+### UCLA is attempting to mediate the campus climate using symbolic gestures 
 
 - After the pig effigy incident, the school and Dan Gold (Hillel director) spoke publicly about an antisemitism on campus initiative 
 
@@ -433,56 +508,9 @@ it becomes a question of how to lay the safety issues out
 
 - All engagement is reactionary, after the fact, and only for the media's sake 
 
-- Why didn't they stand with Hillel in condemning counterprotesters after Kaplan? 
+- Block said he would educate on TPM policies "during orientation"
 
-	- The school is not taking positive voices from within the community and promoting them 
-
-- Why don't they assist in ensuring rules are protest rules are followed? 
-
-	- Block said he would educate on TPM policies "during orientation"
-
-	- Orientation happens once, and during an optional and expensive orientation weekend 
-
-- Why don't they react to anything said in the Bruin?
-
-	- The triangles at the encampment
-
-	- USAC at the encampment 
-
-	- The organization that said if UCLA doesn't do something then they will (Sukkah)
-
-	- Issues on campus safety 
-
-	- Jewish and Arab/Muslim students feeling unsafe 
-
-- Because there were no public announcements about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
-
-- The Bruin also had to inquire directly about the Kaplan incident to UCLA and received a short emailed response by some low-level official
-
-	- It said that they are currently pursuing the perps
-
-	- The student said herself she saw one of them at a pro-Israel vigil at around 7 pm 
-
-	- There has been no evidence that UCLA attempted to track down the individuals responsible (you need to check that with SJP)
-
-- Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
-
-- Survey - no one trusts the administration 
-
-- How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Orientation happens once, and during an optional and expensive orientation weekend 
 
 
 
