@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 11:15 AM
+updated_date: 2025-03-07 11:35 AM
 ---
 
 
@@ -393,11 +393,11 @@ cause and effect map
 
 - The university didn't bother to weed out bad apples, which served to inflame tensions between student factions (Eli Tsives, who mentioned Verdugo by name) 
 
-	- While at the same time, before the riots, counterprotesters were not addressed, putting ALL protesting students in serious danger 
+	- While at the same time, before the riots, no counterprotesters were addressed, putting ALL protesting students in serious danger 
 
 - After the riots, the university chose to single out and pursue charges against specific rioters (who social media and CNN made the effort to ID)
 
-	- Even then, perpetrators charges against the hoodie guy, could not be proven beyond a reasonable doubt (his charges were lowered to misdemeanor I think, need to follow up on that)
+	- Even then, charges against the hoodie guy, could not be proven beyond a reasonable doubt (his charges were lowered to misdemeanor I think, need to follow up on that)
 
 	- That amounts to approximately five people, out of hundreds who showed up with weapons, fireworks, and contributed to violence and harassment 
 
@@ -434,6 +434,14 @@ cause and effect map
 					- They chose to be deliberately indifferent to the status of their own students
 
 					- They chose to be deliberately indifferent to the lack of police presence and backup that would be available to them 
+
+						- Did they indicate to John Thomas, who was watching a Dodgers game that evening, 
+
+							- That they'd sent a message to the greater community saying Jewish students were feeling threatened and afraid?
+
+							- That the protesting students responded by saying they will not leave? 
+
+					- Did they bother to check what kind of police presence was available that evening, in the event tensions escalated beyond the days before? (this is a question for Thomas directly)
 
 - It was incumbent on the university to notify students that they would be facing arrest
 
