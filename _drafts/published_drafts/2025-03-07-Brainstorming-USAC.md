@@ -6,7 +6,7 @@ author: Alexie Pogue
 date: 2025-03-07 12:42 PM
 ---
 
-This file is under administrative calls for attention 
+This file is under administrative calls for attention, a lack of administrative attention can make students feel unsafe.  
 
 ### Jewish Students Call for Administrative Help from UCLA - the Call Goes Unanswered 
 

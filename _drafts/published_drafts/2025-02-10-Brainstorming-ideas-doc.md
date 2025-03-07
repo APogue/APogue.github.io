@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 12:44 PM
+updated_date: 2025-03-07 4:00 PM
 ---
 
 
@@ -141,6 +141,8 @@ I need to develop and build to some kind of crescendo when it comes to the compa
 
 14th amendment and title VI protections state that you can't deny access to education 
 
+- UCLA was allowing students to violate policy under the guise of free speech protections 
+
 - by blockading walkways large swaths of people were denied access to areas of campus and had to take detours to get to their classes
 
 	- that's enough to say if it wasn't breaking Title VI or 14th amendment, that at the least they were breaking the time, place and manner laws 
@@ -270,8 +272,21 @@ scenario and similar flashback
 
 cause and effect map 
 
-## Big incidents
+## The document design
 
+the safety issues need to be the subject matter that structures the document 
+
+- whatever details are important, can add depth or enrich the topic
+
+it becomes a question of how to lay the safety issues out
+
+- temporally 
+
+- or via the crescendo 
+
+- perhaps both 
+
+## Big incidents
 
 ### The Kaplan incident violence arc 
 
@@ -321,12 +336,13 @@ cause and effect map
 
 	- A warning that counterprotesters would be depolyed if the protest was not shut down 
 
+---------------------------------------------------------------------------------------------------------------------------
 
 ## UCLA upholds a "policy" of one-way communication 
 
-- Media attention is driving responses
+### Media attention is driving responses
 
-	- The independent report confirmed this 
+- Encampment communication's influence by media was confirmed by the independent report
 
 - reaction to encampment conduct made publicly, and directed at students
 
@@ -340,30 +356,10 @@ cause and effect map
 
 	- or during the April protest
 
-	- one-sided coverage of incidents serves to shape the perception that only antisemitic incidents are happening 
+- one-sided coverage serves to shape the public perception that only antisemitic incidents are happening 
 
 
-### UCLA is allowing students to violate policy under the guise of free speech protections
-
-- Some free speech and academic freedom policy here? 
-
-- Factor that in against Title VI and 14th Amendment 
-
-- Students, and the community want to see measures taken to indicate the administration is listening and not just acting when the spotlight is on them 
-
-	- The school is not taking positive voices from within the community and promoting them 
-
-		- Why didn't they stand with Hillel in condemning the Kaplan incident? 
-
-		- Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
-
-	- Survey - no one trusts the administration 
-
-- How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
-
-
-
-### Encampment Notifications by UCLA 
+### Administrative communication regarding encampment directives 
 
 - If not incumbent on the university to uphold policy, then it was at least incumbent on them to warn students of the danger that they were in (like some sort of disclaimer)
 
@@ -413,17 +409,99 @@ cause and effect map
 
 			- There is no guarantee that all encampment students had adequate warning to leave or be arrested 
 
-			- Police conduct was not lawful and put students in danger 
+			
+### Indications the university was ignoring student anxiety 
 
-			- I do not know if arrests were indiscriminate, I have to check that 
+- Students, and the community want to see measures taken to indicate the administration is listening [and not just acting when the spotlight is on them]
 
-				- Because it has been the case before that students were kettled without an appropriate dispersal order
+
+### UCLA is attempting to mediate the campus climate using symbolic gestures 
+
+- How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
+
+	- Is the school just a bank that holds classes? 
+
+- After the pig effigy incident, the school and Dan Gold (Hillel director) spoke publicly about an antisemitism on campus initiative 
+
+- After the Kaplan incident, the school inquired to Dan Myers about involving current events into the "differences across borders" initiative 
+
+- There are several more opt-in style initiatives that UCOP Drake and Block have also mentioned 
+
+- They aren't listening to the students 
+
+- Broad, vague responses do nothing to say to students "we see you"
+
+- All engagement is reactionary, after the fact, and only for the media's sake 
+
+- Why didn't they stand with Hillel in condemning counterprotesters after Kaplan? 
+
+	- The school is not taking positive voices from within the community and promoting them 
+
+- Why don't they assist in ensuring rules are protest rules are followed? 
+
+	- Block said he would educate on TPM policies "during orientation"
+
+	- Orientation happens once, and during an optional and expensive orientation weekend 
+
+- Why don't they react to anything said in the Bruin?
+
+	- The triangles at the encampment
+
+	- USAC at the encampment 
+
+	- The organization that said if UCLA doesn't do something then they will (Sukkah)
+
+	- Issues on campus safety 
+
+	- Jewish and Arab/Muslim students feeling unsafe 
+
+- Because there was no public announcement about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
+
+- The Bruin also had to inquire directly about the Kaplan incident to UCLA and received a short emailed response by some low-level official
+
+- Title VI and that policy doc encourages UCLA's input to the marketplace of ideas
+
+- Survey - no one trusts the administration 
+
+- How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 
 ## Policing 
+
+### Post-encampment policing 
+
+- Police conduct was not lawful and put students in danger 
+
+	- I do not know if arrests were indiscriminate, I have to check that 
+
+		- Because it has been the case before that students were kettled without an appropriate dispersal order
+
+
+
+
+
+
+
+
 
 ### police response regents meeting 
 
