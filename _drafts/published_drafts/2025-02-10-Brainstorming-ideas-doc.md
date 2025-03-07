@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-06 4:35 PM
+updated_date: 2025-03-07 11:13 AM
 ---
 
 
@@ -393,9 +393,17 @@ cause and effect map
 
 - The university didn't bother to weed out bad apples, which served to inflame tensions between student factions (Eli Tsives, who mentioned Verdugo by name) 
 
-	- While at the same time, counterprotesters were not addressed, putting ALL protesting students in serious danger 
+	- While at the same time, before the riots, counterprotesters were not addressed, putting ALL protesting students in serious danger 
 
-		- The person's quote saying that the encampment "had it coming"
+- After the riots, the university chose to single out and pursue charges against specific rioters (who social media and CNN made the effort to ID)
+
+	- Even then, perpetrators charges against the hoodie guy, could not be proven beyond a reasonable doubt (his charges were lowered to misdemeanor I think, need to follow up on that)
+
+	- That amounts to approximately five people, out of hundreds who showed up with weapons, fireworks, and contributed to violence and harassment 
+
+- Did all protesting students have this coming? 
+
+	- The person's quote saying that the encampment "had it coming"
 
 ### Encampment Notifications by UCLA 
 
