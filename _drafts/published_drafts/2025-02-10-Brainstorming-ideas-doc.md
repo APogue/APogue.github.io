@@ -4,7 +4,7 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 5:56 PM
+updated_date: 2025-03-07 7:07 PM
 ---
 
 
@@ -124,6 +124,8 @@ accountability and policy
 - congressional hearing 
 
 - DEI training data
+
+- they have yet to issue an apology of any kind
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -417,6 +419,10 @@ it becomes a question of how to lay the safety issues out
 
 - Was it the case that these students "deserved" to feel threatened and afraid, was it the case that harassment of this nature could be expected and even understandable? 
 
+	- What proportion of this harassment was deemed legal by the administration, all of it? 
+
+		- True threats are not legal but will not necessarily result in police involvement 
+
 	- If free speech was the problem, is free speech allowed on campus or not? 
 
 	- If conduct was the problem, is the school going to enforce policy or not? 
@@ -425,7 +431,7 @@ it becomes a question of how to lay the safety issues out
 
 	- A very large number of students were feeling threatened and afraid at that point, including protesters that may or may not have been partaking in the blockading (or may or may not have been in support of the blockading)
 
-	- **The only way** to ensure the safety of the largest number of students, would have been not to address only Jewish students feeling threatened and afraid, but to issue a clear and immediate dispersal order to the encampment. That would have been the only "content-neutral" way to handling messaging 
+	- **The only way** to ensure the safety of the largest number of students, would have been to issue a clear and immediate dispersal order to the encampment. That would have been the only "content-neutral" way to handle messaging 
 
 - Why didn't they assist in ensuring areas of campus were not blocked? 
 
@@ -443,7 +449,7 @@ it becomes a question of how to lay the safety issues out
 
 			- The university assisted in setting up barricades, officially 
 
-	- The university's only official response was to shut the protest down, not with a clear dispersal order, but with a confusing flyer and rhetoric that was sure to inflame already increasing tensions 
+	- The university's only official response was to shut the protest down using a confusing flyer and rhetoric that was sure to inflame already increasing tensions 
 
 		- The Bruin stated that the Block had never called the encampment unlawful before 
 
@@ -473,8 +479,6 @@ it becomes a question of how to lay the safety issues out
 	- USAC at the encampment 
 
 	- The organization that said if UCLA doesn't do something then they will (Sukkah)
-
-
 
 - Because there were no public announcements about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
 
