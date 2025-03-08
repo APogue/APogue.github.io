@@ -4,9 +4,8 @@ title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
 date: 2025-03-01 9:04 PM
-updated_date: 2025-03-07 7:07 PM
+updated_date: 2025-03-08 5:33 PM
 ---
-
 
 The key theme is deliberate indifference 
 
@@ -360,6 +359,12 @@ it becomes a question of how to lay the safety issues out
 
 - one-sided coverage serves to shape the public perception that only antisemitic incidents are happening 
 
+- condemnation of only major incidents means
+
+	- the school doesn't actually care about student welfare
+
+	- the school and not the students is at fault for antisemitism on campus because they are not even trying to hold people accountable
+
 
 ### Administrative communication regarding encampment directives 
 
@@ -369,7 +374,7 @@ it becomes a question of how to lay the safety issues out
 
 	- Block told the House Committee that security issues were why they cleared the encampment 
 
-	- At no point was there a public, campus-wide notice addressing protesting students for the sake of danger mitigation
+	- At no point was there a public, campus-wide notice addressing protesting students for the purposes of danger mitigation
 
 		- Title IX addresses broad-reaching notification requirements, as opposed to Title VI where information need only be "made available," a lower standard for safety, communication of the law, and protection of rights. UCLA opted to make information available to protesting students without concern that only a subset of protesting students may be getting this information  
 
@@ -399,19 +404,25 @@ it becomes a question of how to lay the safety issues out
 
 					- Did they bother to check what kind of police presence was available that evening, in the event tensions escalated beyond the days before? (this is a question for Thomas directly)
 
+### After the attack of April 30th 
+
+- Block's message was, "however one feels about the encampment"
+
+	- how is this a content-neutral approach? 
+
 ### Post-encampment notifications by UCLA
 
 - It was incumbent on the university to notify students that they would be facing arrest
 
 	- There was no clear message that continuing to camp on university grounds would result in arrest
 
-		- Students within the encampment were told the afternoon before, in-person 
+		- Students within the encampment were told the afternoon before, in-person (by Hunt?)
 
 		- The encampment was ambushed in the middle of the night 
 
 			- There is no guarantee that all encampment students had adequate warning to leave or be arrested 
 
-### The university was ignoring student safety 
+### The university ignored the safety of student protesters
 
 - Block said that the blockading and exclusionary behavior was making students feel threatened and afraid
 
@@ -458,45 +469,77 @@ it becomes a question of how to lay the safety issues out
 		- (Need to ask Darnell Hunt and the students how their interactions went, it's possible he tried to communicate with them on the subject)
 
 
-### Indications the university was ignoring student anxiety 
+### UCLA cited Jewish students’ safety as a primary reason to shut down the encampment—despite not acting on the same concerns earlier.
 
-- How can students feel safe if (nominally) they don't feel the university is monitoring incidents or listening to them?
+- This might just have to be student safety
 
-	- Is the school just a bank that holds classes? 
+- Students, and the community want to see the school is not just acting when the spotlight is on them
 
-	- Students, and the community want to see the school is not just acting when the spotlight is on them
+- It might not be up to the administration to "sane wash" the movement, but if they genuinely care about the welfare of targeted students (on both sides), they would address issues as they arise (on both sides)
 
-- Why don't they react to anything said in the Bruin?
+	- Title VI and that policy doc encourage UCLA's input to the marketplace of ideas
 
-	- Bella Brannon, while she appreciates the effort, she doesn't think it's enough 
+- Need a different way to address Jewish anxiety without making it about every little thing
 
-	- Issues on campus safety 
+	- Bella Brannon, while she appreciates the effort, she doesn't think it's enough (the Bruin)
 
-	- Jewish and Arab/Muslim students feeling unsafe 
+	- The triangle thing might just be too trivial, especially because they were removed right away
 
-	- The triangles at the encampment
+		- Maybe by pointing out that students were beginning to feel anxiety on Day 1, that antisemitism was happening on Day 1
 
-	- USAC at the encampment 
+		- CAC's encouragement of the red triangle and pig imagery and associating it to Block
+	
+		- The details of the Alicia Verdugo impeachment call 
 
-	- The organization that said if UCLA doesn't do something then they will (Sukkah)
+			- CAC had been a major problem all year, potentially a major contributor to tensions between students, yet the school did nothing to stop them or address student concerns
 
-- Because there were no public announcements about the Kaplan incident, students had to inquire directly at a walk-out weeks later and spoke in-person to some low-level official 
+			- This kind of imagery was only supported by a subset of groups
 
-- The Bruin also had to inquire directly about the Kaplan incident to UCLA and received a short emailed response by some low-level official
+- Task force report on antisemitism 
 
-	- It said that they are currently pursuing the perps
-
-	- The student said herself she saw one of them at a pro-Israel vigil at around 7 pm 
-
-	- There has been no evidence that UCLA attempted to track down the individuals responsible (you need to check that with SJP)
-
-- Title VI and that policy doc encourage UCLA's input to the marketplace of ideas
+- Task force on anti-Muslim/Arab hate
 
 - Survey - no one trusts the administration 
 
-- Why didn't they stand with Hillel in condemning counterprotesters after Kaplan? 
+	- They made certain parts of the survey optional 
 
-	- The school is not taking positive voices from within the community and promoting them 
+		- Run the numbers, but the issue is not how low the score was before, but more the fact that they seemed to have deliberately made questions that weren't performing optional (in the case of reporting discrimination and harassment it was a 6% increase)
+
+		- Check most recent UCUES data
+
+- The bruin article 
+
+	- on antisemitism
+
+	- on campus safety
+
+	- on anti-muslim/arab hate
+
+- Talk to students?  
+
+	- Did UCLA ever try to address CAC (probably not)
+
+- The organization that said if UCLA doesn't do something then they will (Sukkah)
+
+- Along with zero statements made about Kaplan the incident, there were also no statements made about tracking down the perpetrators 
+
+	- When the Bruin inquired directly, a low-level administrator answered 
+
+	- The student said herself she saw one of them at a pro-Israel vigil at around 7 pm 
+
+		- How would it feel to know that masked assailants who may have ID'd a student were now free to attend campus events and be on campus at any time
+	
+	- There has been no evidence that UCLA attempted to track down the individuals responsible (you need to check that with SJP)
+
+- The administration never kept students abreast of the status of criminal investigations regarding any non-student criminal activity
+
+	- It has always been incumbent on students to keep track of the status of ID'd individuals (that CNN and social media largely ID'd) who may be dangerous
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Delete
+
 
 ### UCLA is attempting to mediate the campus climate using symbolic gestures 
 
@@ -516,6 +559,11 @@ it becomes a question of how to lay the safety issues out
 
 - Orientation happens once, and during an optional and expensive orientation weekend 
 
+- Why didn't they stand with Hillel in condemning counterprotesters after Kaplan? 
+
+	- The school is not taking positive voices from within the community and promoting them 
+
+- The school never apologized to students 
 
 
 
@@ -533,14 +581,6 @@ it becomes a question of how to lay the safety issues out
 
 		- Because it has been the case before that students were kettled without an appropriate dispersal order
 
-
-
-
-
-
-
-
-
 ### police response regents meeting 
 
 ### police response April 28th 
@@ -550,6 +590,10 @@ it becomes a question of how to lay the safety issues out
 ### police response encampment 
 
 ### Office of campus safety created
+
+- They basically put bodyguards on protesting students
+
+- The heavy policing is disproportionately affecting protesting students
 
 ### police response June 10th 
 
