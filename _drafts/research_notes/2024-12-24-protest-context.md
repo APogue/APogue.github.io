@@ -4,6 +4,7 @@ title: "Protest context past and present"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 6:48 PM
+updated_date: 2025-3-10 6:47 PM 
 ---
 
 ## Doxxing
@@ -127,9 +128,13 @@ The teach-in
 
 	- "Earlier in the day on April 30th, Nouri Mehdizadeh would be photographed with a message on his phone that read “enjoy tonight.”"
 
+	- "According to the email from student activists, Mehdizadeh “was involved in planning violence continuously” and UCLA officials were likewise “warned about him continuously.”" This needs verification. 
+
 	- [X post by Sean Beckner-Carmitchel](https://x.com/ACatWithNews/status/1791005400374165863)
 
 		Sean Beckner-Carmitchel & Kate Burns are the authors... I think I have some of Beckner-Carmitchel's stuff from June 10th.
+
+	- [People's city council post](https://x.com/PplsCityCouncil/status/1791269071993909634)
 
 - [Why far-right groups are disrupting US campus protests: ‘When there’s so much attention, they show up’](https://www.theguardian.com/us-news/article/2024/may/10/college-campus-protests-far-right)
 
@@ -142,6 +147,10 @@ The teach-in
 	- ‘You guys are about to get f—ed up’
 
 		“In one of the more dramatic videos of the night, a protester wearing the colors of the Palestinian flag underneath an LA Kings jersey was knocked to the ground and beaten by multiple counterprotesters as he guarded the encampment.”
+
+- [Timeline: UCLA Students and Faculty Seek Justice After Zionist Mob Attack on Spring Encampment](https://www.palestine-studies.org/en/node/1656625)
+
+	- This doc links to an X post pushing a woman 
 
 ## Encampment-related viral videos
 
