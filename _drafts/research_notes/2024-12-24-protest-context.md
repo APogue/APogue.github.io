@@ -4,7 +4,7 @@ title: "Protest context past and present"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 6:48 PM
-updated_date: 2025-3-10 6:47 PM 
+updated_date: 2025-3-10 7:08 PM 
 ---
 
 ## Doxxing
@@ -13,7 +13,19 @@ updated_date: 2025-3-10 6:47 PM
 
 - [Zionist org preps list of foreign pro-Hamas students, hoping Trump will deport them](https://nypost.com/2024/11/23/us-news/zionist-org-preps-list-of-foreign-pro-hamas-students-hoping-trump-will-deport-them/)
 
-## Neighboring and/or involved groups 
+	- this list is from Betar
+
+	- [ADL classification of Betar](https://extremismterms.adl.org/glossary/betar-usa)
+
+	- [Trump wants to deport some foreign students. These activists want to help](https://www.reuters.com/world/us/trump-wants-deport-some-foreign-students-these-activists-want-help-2025-02-28/)
+
+		- "Betar, labelled an extremist group by the Anti-Defamation League Jewish advocacy group, went further, saying it provided names of international students and faculty to the Trump administration for deportation."
+
+	- [Jewish groups targeted Columbia grad Mahmoud Khalil — then ICE arrested him](https://forward.com/news/703018/mahmoud-khalil-columbia-cuad-ice/)
+
+		- "Glick, the activist who discussed the Khalil case with Senate staffers, was until recently connected to a far-right Jewish group called Betar, which began compiling a list last fall of international students involved in the protests, and shared the database with the Trump administration."
+
+## Neighboring and/or involved groups - Betar 
 
 - [UCPD sweeps Gaza solidarity sukkah in Dickson Court, one protester arrested](https://dailybruin.com/2024/10/23/ucpd-sweeps-gaza-solidarity-sukkah-in-dickson-court-one-protester-arrested)
 
