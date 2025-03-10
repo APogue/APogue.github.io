@@ -162,6 +162,12 @@ UCLA maintains a policy of
 
 - willful ignorance 
 
+	- separate factions became so inflamed, that a sequence of events set off a premeditated act of domestic terrorism 
+
+		- the counter-protesters planned the ambush on the encampment on the evening of April 30th in advance 
+
+	- there is proof from words spoken by counter-protesters that evening that they were reacting directly to Chancellor Block's statement 
+
 - heavy policing 
 
 	- policing has always been a "point and shoot" tool
@@ -534,7 +540,6 @@ it becomes a question of how to lay the safety issues out
 - The administration never kept students abreast of the status of criminal investigations regarding any non-student criminal activity
 
 	- It has always been incumbent on students to keep track of the status of ID'd individuals (that CNN and social media largely ID'd) who may be dangerous
-
 
 ---------------------------------------------------------------------------------------------------------------------------
 
