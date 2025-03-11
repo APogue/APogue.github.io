@@ -4,7 +4,7 @@ title: "Outline-v2-encampment"
 published: false
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2025-2-18 5:24 PM
+updated_date: 2025-3-10 8:39 PM
 ---
 
 ## Notes
@@ -87,6 +87,8 @@ https://www.instagram.com/p/C6VJ9rYLTj4/
 
 https://www.instagram.com/p/C6WseJ2Jp3x/
 
+reddit eli tsives
+
 https://www.reddit.com/r/ucla/comments/1cg8l6e/protesters_blocking_students_from_moving_through/
 
 https://www.reddit.com/r/ucla/comments/1cgyqoy/jewish_ucla_student_blocked_from_entering_his_own/
@@ -98,6 +100,14 @@ https://www.reddit.com/r/ucla/comments/1chfs45/more_lies/
 https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_investigate_whether/
 
 "He's now considered a public figure given his recent decision to become a right wing media influencer."
+
+reddit CNN investigation 
+
+https://www.reddit.com/r/ucla/comments/1ctfz8f/cnn_engages_in_actual_journalism_and_identifies/
+
+reddit police response
+
+https://www.reddit.com/r/ucla/comments/1d3or3m/gene_block_in_action_ucla_pd_inaction_on_430_a/
 
 
 ## journalist testimonials

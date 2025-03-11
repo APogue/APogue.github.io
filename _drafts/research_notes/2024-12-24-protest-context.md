@@ -4,7 +4,7 @@ title: "Protest context past and present"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 6:48 PM
-updated_date: 2025-3-10 7:08 PM 
+updated_date: 2025-3-10 8:09 PM 
 ---
 
 ## Doxxing
@@ -121,6 +121,8 @@ The teach-in
 		- CNN didn't run a news story announcing their investigation either; they investigated, and then they ran a news story. As part of that investigation, they reached out to people who were collecting information, and then they corroborated that information. I was one of those people. No one from any law enforcement agency has reached out to me or any of my contacts. Which is to say that law enforcement is not investigating as rigorously as CNN did.
 
 	- [This guy needs to go to jail](https://www.reddit.com/r/ucla/comments/1ci7qrf/this_guy_needs_to_go_to_jail/)
+
+	- Outline-v2-encampment has a couple more reddit links related to CNN and policing that I recently added but have not read really
 
 - [Gene Block May 6th statement](https://chancellor.ucla.edu/messages/investigation-into-tuesday-april-30-attack-on-our-campus/)
 

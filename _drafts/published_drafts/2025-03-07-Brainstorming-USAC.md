@@ -4,9 +4,12 @@ title: "Brainstorming - Administrative calls - USAC"
 published: true
 author: Alexie Pogue
 date: 2025-03-07 12:42 PM
+updated_date: 2025-3-10 8:40 PM
 ---
 
-This file is under administrative calls for attention, a lack of administrative attention can make students feel unsafe.  
+This file is under administrative calls for attention, a lack of administrative attention can make students feel unsafe. 
+
+ NSJP Conference in 2018 to CAC and USAC shift to Eli Tsives to social media to backlash
 
 ### Jewish Students Call for Administrative Help from UCLA - the Call Goes Unanswered 
 
