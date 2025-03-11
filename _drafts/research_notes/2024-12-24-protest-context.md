@@ -4,7 +4,7 @@ title: "Protest context past and present"
 published: true
 author: Alexie Pogue
 date: 2024-12-19 6:48 PM
-updated_date: 2025-3-10 8:09 PM 
+updated_date: 2025-3-11 3:27 PM 
 ---
 
 ## Doxxing
@@ -47,9 +47,55 @@ updated_date: 2025-3-10 8:09 PM
 
 This was written by Robin D.G. Kelley
 
+"Immediately after the story began circulating on social media, the Los Angeles Times interviewed the woman in question who explained that she had been accidentally shoved by a fellow counterprotester “while attempting to retrieve her fallen [Israeli] flag.”" This is not what the LA Times was doing. 
+
+"The woman told The Times she had been shoved to the ground by another demonstrator while attempting to retrieve her fallen flag."
+
+By using neutral language ("another demonstrator"), they distance themselves from confirming the Instagram account’s claim that a group of pro-Palestinian protesters committed a targeted assault.
+
+Soft Correction? The LA Times may be subtly pushing back against the Instagram post’s framing but without outright calling it misinformation.
+
 Other articles written by David Myers located in Protest activities- UCLA handling and Protest activities- students and faculty voice concerns.
 
+"The problem is, it wasn’t true. All buildings and classrooms remained accessible. Campus security closed off particular entrances to buildings facing the quad, but that decision was authorized by the administration. Student-appointed security leads asked passers-by to go around the encampment in order to limit congestion and the risk of Covid infection (masks were required).” 
+
+This is corroborated by Reddit. Obviously they can't blockade any areas of campus. But they weren't literally denied access to any buildings. 
+
+"Our suspicions were confirmed when, shortly after issuing his statement, he announced plans to clear the encampment by 6:00 p.m. that day. The timing is important: UC Divest and SJP were scheduled to begin negotiations with Hunt at 4:00 p.m. The meeting was doomed to fail, in part because the administration did not try to negotiate in good faith and gave students no time to recover from the horrific violence they had suffered just hours before."
+
+**How was the clearing of the encampment announced?** Check the lawsuit but also ask. 
+
+He goes on to say that nonlethal force was used to clear the encampment. Why so much money spent for nonlethal force, and it is never used on anyone but students? 
+
+"That night Zionist agitators, alongside neo-Nazis, came armed with bear mace and other chemical irritants, hammers, knives, stink bombs, high-grade fireworks, metal and wooden rods, and, according to some reports, a gun. The attack began with loud recordings of screaming babies, followed by a fusillade of fireworks shot directly into the encampment. Men in full-faced white masks broke down the barriers and began attacking students with metal rods, chunks of wood, stink bombs, bear mace and tear gas. One student recalled seeing “planks of wood come sailing into the camp and strike some girl in the back of the head and she just fell to the ground.” Another student was struck in the back of the head by fireworks and had to be hospitalized. The medics were simply overwhelmed, forcing students with little experience to attend to wounds. “People were crying and being like, ‘Can you call my mom, I need to call my mom, please help me’. . . . We were trying to do the best that we could but we ran out of saline needed to flush the chemicals out of people’s eyes,” one told me."
+
+This proves it was a coordinated attack, it was premeditated, planned, and executed. 
+
+"One student was rushed to the hospital by his classmates after being struck twice in the head. His injuries were serious enough to require stitches and staples. “I thought I was going to die. I thought I’d never see my family again,” the student recalled. “The only thing that kept me moving forward was my . . . classmates who were brave enough to protect the encampment from these terrorists.”"
+
+"UCLA alumnus Ismael Sindha, who was later treated for chemical burns, heard attackers shout, “I’ll kill you,” “I’ll rape your sister,” and “What Israel does to Gaza, we’ll do to you.”"
+
+"in the wee hours of May 1, four student journalists with the Daily Bruin were tracked down, maced, and severely beaten by members of the mob —sending one, Catherine Hamilton, to the hospital."
+
+"One inebriated agitator harassed several Black women and femmes working security, calling them “slaves” and threatening rape. Later that night, several agitators broke through the encampment barriers and attacked students and pepper sprayed one of the security guards hired by UCLA."
+
+"On April 25 a man walked through the encampment carrying a sign that read “Israel is not apartheid. Come talk,” and proceeded to steal a student’s keffiyeh, pour water over chalk art, and assault a Black woman who tried to take his sign."
+
+"They were pushed, punched, spat upon, called “dogs,” “whores” (sharmuta in Hebrew), “bitch-ass n—,” and told to “listen to your master” and that “Hamas would rape and murder you for what you’re wearing, sweetheart.” One agitator shouted, “We’re not American Jews! We’re Israelis! You stand up against us, we’ll fucking slit your throat.” The attacks continued well into the night. At around 1:30 a.m. someone emptied a backpack full of mice injected with an unknown substance into the encampment."
+
+"In yet another statement, issued on May 1, Block condemned the attacks, acknowledged the trauma our students experienced, and expressed “sympathy” for those injured. He called for an investigation, urging “those who have experienced violence to report what they encountered to UCPD, and those who have faced discrimination to contact the Civil Rights Office.”"
+
+There were never preventative measures. The office of campus safety is an expensive and a disproportionately one-sided deterrent.
+
+The scale for measuring student distress and anxiety must be absolute---one group felt "threatened and afraid" by the actions of the encampment, another dealt with threats and fear in many possible ways. The threatening actions must be dealt with, equally. 
+
 ## NSJP Conference in 2018
+
+"Student council remained a contested terrain over Israel and divestment. In 2015 three students unaffiliated with SJP questioned Rachel Beyda, a nominee for USAC’s Judicial Board, about her ability to remain objective on the “Israeli-Palestinian conflict” because of her Jewish identity. Foxx resurrects this incident as evidence of USAC’s “deeply concerning history of retribution against students who speak against anti-Jewish bigotry on campus.” What she omits from the story is that the students who opened the line of questioning were swiftly censured and offered apologies, and that Beyda was unanimously appointed to the committee. SJP also condemned “the questioning of Beyda or anyone else based on their identity,” adding that its members “believe in the inherent equality and right to freedom for all people, a stance that inspires us to both support the Palestinian call for BDS as well as to oppose incidents like that which befell Beyda.”"
+
+Was anything CAC or USAC did, or refused to censure, a egregious? (not rhetorical research that)
+
+- [A message from Chancellor Block on the importance of civil discourse (USAC)](https://newsroom.ucla.edu/a-message-from-chancellor-block-on-the-importance-of-civil-discourse)
 
 - [National Students for Justice in Palestine conference goes on despite on-campus protest](https://dailybruin.com/2018/11/18/national-students-for-justice-in-palestine-conference-goes-on-despite-on-campus-protest)
 
@@ -121,6 +167,12 @@ The teach-in
 		- CNN didn't run a news story announcing their investigation either; they investigated, and then they ran a news story. As part of that investigation, they reached out to people who were collecting information, and then they corroborated that information. I was one of those people. No one from any law enforcement agency has reached out to me or any of my contacts. Which is to say that law enforcement is not investigating as rigorously as CNN did.
 
 	- [This guy needs to go to jail](https://www.reddit.com/r/ucla/comments/1ci7qrf/this_guy_needs_to_go_to_jail/)
+
+	- [Related YouTube video](https://www.youtube.com/watch?v=tsNf863Vc74&ab_channel=OnDemandNews)
+
+		- The timestamp (check again for exact) is around 1:30 AM
+
+		- Can see when more police arrive around 2:10 AM and all the police cars there
 
 	- Outline-v2-encampment has a couple more reddit links related to CNN and policing that I recently added but have not read really
 
