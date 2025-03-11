@@ -4,7 +4,7 @@ title: "Outline-v2-encampment"
 published: false
 author: Alexie Pogue
 date: 2024-12-7 1:57 PM
-updated_date: 2025-3-10 8:39 PM
+updated_date: 2025-3-11 3:39 PM
 ---
 
 ## Notes
@@ -104,6 +104,8 @@ https://www.reddit.com/r/ucla/comments/1cjb3uy/education_department_asked_to_inv
 reddit CNN investigation 
 
 https://www.reddit.com/r/ucla/comments/1ctfz8f/cnn_engages_in_actual_journalism_and_identifies/
+
+"Doesn't matter your stance on the issue. Just seeing your fellow students being attacked by outside forces on campus is not acceptable. There has to be consequences."
 
 reddit police response
 

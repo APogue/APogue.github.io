@@ -174,6 +174,8 @@ The teach-in
 
 		- Can see when more police arrive around 2:10 AM and all the police cars there
 
+		- The reporter even says, the barricades were put up by UCLA
+
 	- Outline-v2-encampment has a couple more reddit links related to CNN and policing that I recently added but have not read really
 
 - [Gene Block May 6th statement](https://chancellor.ucla.edu/messages/investigation-into-tuesday-april-30-attack-on-our-campus/)
