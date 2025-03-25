@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2024-12-15 9:24 PM
+updated_date: 2025-3-25 7:15 PM
 ---
 
 ### Recently added articles 10-24
@@ -244,6 +244,14 @@ updated_date: 2024-12-15 9:24 PM
 	UCLA recommend charges against those arrested be dropped, and that UCLA disclose and divest
 	from investments in “military weapons production companies and supporting systems, in dialogue
 	with the demands of the student protestors."
+
+### Lawsuit 4
+
+- [Lawsuit 4](https://laist.com/brief/news/education/students-and-faculty-sue-administrators-over-last-springs-ucla-pro-palestinian-protests)
+
+- [Actual filing](https://calmatters.org/wp-content/uploads/2025/03/OMNIBUS-COMPLAINT-final-2-1.pdf)
+
+- [Announcement](https://peoplevucla.com/statements-20-03-2025)
 
 
 ### Free speech precedent 
