@@ -4,7 +4,7 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2025-3-25 7:15 PM
+updated_date: 2025-3-27 7:14 PM
 ---
 
 ### Recently added articles 10-24
@@ -273,6 +273,10 @@ updated_date: 2025-3-25 7:15 PM
 
 
 ### Task force reports and surveys
+
+- [Understanding Campus Fears After October 7 and How to Reduce Them](https://cpost.uchicago.edu/publications/cpost_understanding_campus_fears_after_october_7_and_how_to_reduce_them/)
+
+	- This report presents a non-partisan analysis of Antisemitism and Islamophobia among College Students and American Adults based on National Surveys Fielded December 14, 2023 to January 16, 2024.
 
 - [New CAIR survey reveals 1 in 2 Muslim students reported harassment at California colleges](https://www.ocregister.com/2024/11/19/new-cair-survey-reveals-1-in-2-muslim-students-reported-harassment-at-california-colleges/)
 
