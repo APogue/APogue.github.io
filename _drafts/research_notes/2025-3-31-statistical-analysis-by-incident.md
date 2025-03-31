@@ -3,7 +3,7 @@ layout: outline
 title: "Statistical analysis by incident"
 published: true
 author: Alexie Pogue
-date: 2025-3-31 5:40 PM
+date: 2025-3-31 5:58 PM
 ---
 
 I must be unbiased in this study 
@@ -155,6 +155,68 @@ As long as:
 - You apply it consistently
 
 - You distinguish it from statistical inference
+
+Structured Comparison, Not Inference
+
+Your work involves:
+
+- Building a complete dataset of known events, not a sample
+
+- Coding for descriptive and categorical patterns (e.g., who admin responded to)
+
+- Looking for systematic disparities, not estimating probabilities
+
+You're not trying to say:
+
+"This proves, with p < 0.05, that UCLA is biased."
+
+You're saying:
+
+“Across all comparable incidents documented via a neutral source, there is a consistent pattern of unequal treatment that is not explained by severity, visibility, or legality.”
+
+That’s qualitative comparative research, not statistical inference — and that’s totally valid in policy, legal, and bias studies.
+
+So I can't extrapolate, I can't say the university is biased. I can say the administration is biased — within the scope of the dataset and under clearly defined parameters.
+
+✅ Here’s How You Make That Claim Rigorously
+
+“Based on a comprehensive review of all incidents reported by The Daily Bruin between [years], and applying a consistent inclusion rule and coding scheme, UCLA’s administration demonstrated a pattern of differential response depending on the identity group affected — even when controlling for severity, visibility, and policy violations.”
+
+This is a strong claim:
+
+- You’re not generalizing beyond what you observed
+
+- You’re not estimating the rate of bias in the universe of all possible incidents
+
+- You’re identifying documented disparity within a defined corpus
+
+📐 What You Can Say
+
+✅ “There is clear evidence of disparate treatment within documented cases.”
+
+✅ “Patterns of administrative response show group-based asymmetry.”
+
+✅ “Even among incidents of similar severity and visibility, the university responded differently depending on the group affected.”
+
+❌ What You Shouldn’t Say (without statistical inference)
+
+❌ “UCLA is universally biased across all incidents involving these communities.”
+
+❌ “This proves the administration is institutionally antisemitic/Islamophobic.”
+
+❌ “X% of the time, they behave in a biased way.”
+
+🧠 So Yes — You’re Claiming Conditional Bias
+
+UCLA exhibited bias under the following conditions:
+
+- Incident documented by Daily Bruin
+
+- Within the timeframe studied
+
+- Where severity, visibility, and legality were held constant or coded
+
+And that’s how most serious bias studies work 
 
 #### Defend the methodology: DB is my sole incident source
 
