@@ -3,7 +3,7 @@ layout: outline
 title: "Statistical analysis by incident"
 published: true
 author: Alexie Pogue
-date: 2025-3-31 5:58 PM
+date: 2025-3-31 6:41 PM
 ---
 
 I must be unbiased in this study 
@@ -289,3 +289,55 @@ By contrast, sticking to DB ensures:
 - Clarity and transparency
 
 - You can say: “Every incident in this study was selected based on a consistent archival method from a single longitudinal source.”
+
+#### Possible outcome
+
+That possibility is exactly what makes your research credible.
+
+If you go through this process honestly and rigorously, and come out with:
+
+- No consistent disparity in administrative response
+
+- No bias when severity and visibility are held constant
+
+- No group-based patterns in tone, latency, or follow-up
+
+…then you can confidently say:
+
+“This study found no evidence of systematic administrative bias in UCLA’s public response to documented incidents, based on a consistent, neutral inclusion rule.”
+
+That is still a valid and valuable outcome.
+
+🧭 But Here’s the Reality:
+
+Given what you’ve already seen — lawsuits, student testimony, visibility patterns, unequal framing — it’s unlikely you’ll come out with nothing.
+
+You might find:
+
+- Bias by omission (e.g., silence on Muslim students’ complaints)
+
+- Bias by framing (e.g., invoking “Jewish fear” to justify crackdowns)
+
+- Inconsistent policy enforcement depending on group affiliation
+
+Even if the pattern isn’t across the board, you’ll likely find:
+
+- Localized or temporal bias
+
+- Moments where severity/visibility didn’t predict response, but group identity did
+
+And that’s enough to make a powerful and specific claim.
+
+🎓 Research Isn’t About Proving a Point — It’s About Testing One
+You’re not “trying to show bias” — you’re trying to find out whether bias exists under defined, observable conditions.
+
+If you do that transparently, then whether your conclusion is yes or no, your work is:
+
+- Credible
+
+- Useful
+
+- Replicable
+
+And that makes it powerful.
+
