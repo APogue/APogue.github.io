@@ -329,6 +329,7 @@ Even if the pattern isn’t across the board, you’ll likely find:
 And that’s enough to make a powerful and specific claim.
 
 🎓 Research Isn’t About Proving a Point — It’s About Testing One
+
 You’re not “trying to show bias” — you’re trying to find out whether bias exists under defined, observable conditions.
 
 If you do that transparently, then whether your conclusion is yes or no, your work is:
