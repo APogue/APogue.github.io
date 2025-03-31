@@ -3,12 +3,12 @@ layout: outline
 title: "Statistical analysis by incident"
 published: true
 author: Alexie Pogue
-date: 2025-3-31 4:23 PM
+date: 2025-3-31 5:40 PM
 ---
 
 I must be unbiased in this study 
 
-### material of interest
+### Material of interest
 
 - lawsuits
 
@@ -66,9 +66,7 @@ I might still find incidents via lawsuits, surveys, etc., but I won't use those 
 
 Instead:
 
-- If lawsuit mentions incident → tag Named_in_Lawsuit = Y
-
-- If admin responded → tag that later
+- If lawsuit mentions incident, admin responded → tag that later
 
 - But even if they didn't → it still goes in
 
@@ -84,9 +82,79 @@ I don’t have to have an equal number of Jewish and Palestinian incidents — r
 
 - Your analysis accounts for coverage/severity gaps (e.g., via controls like Media_Coverage_Level)
 
+	- to "account for gaps," adjust for confounding variables like Severity_Score, Media_Coverage_Level, Policy_Broken
 
+“Do incidents involving Palestinian students receive less administrative response than those involving Jewish students even when the severity and visibility are the same?”
+
+“Among incidents with equal media coverage and equal severity, does the administration still respond differently depending on which group is affected?”
+
+If I find a consistent disparity after controlling for those other factors → that’s evidence of bias.
+
+“Account for” = don’t ignore the fact that Jewish incidents might look different on paper — control for that so your findings reflect bias, not circumstance.
+
+But,“If both the media and the administration are biased — how can I isolate administrative bias without just proving they respond to media pressure?”
+
+If admin responses correlate with media coverage, it could mean:
+
+- Admins are just responding to what’s visible (neutral media-following behavior), or
+
+- Admins are biased like the media (shared worldview), or
+
+- Admins are biased independent of the media (selective attention within similarly covered events)
+
+You’re testing whether the pattern of behavior is systematically unequal even after accounting for neutral factors like visibility or severity.
+
+🧱 Use Media Coverage as a Covariate, Not a Shield
+
+You’re not saying media coverage justifies admin action. You’re testing whether media coverage explains the action — and whether it explains all of it.
+
+- If it does: the admin is reactive.
+
+- If it doesn’t: the admin is selectively reactive — that’s bias.
+
+🔐 Lean Into Transparency
+
+You’ll strengthen your work by saying:
+
+“Media coverage does influence administrative behavior — but we tested whether that explains all the disparity, and it doesn’t.”
+
+- You’re not denying correlation.
+
+- You’re saying correlation alone doesn’t account for the patterned disparity.
+
+- Be clear that you’re not proving causation — you’re showing systematic disparities in treatment that can’t be explained by neutral factors alone
 
 ### Methodology 
+
+#### What is this research
+
+In research terms, you’re working in the realm of:
+
+- Qualitative Comparative Analysis (QCA)
+
+- Case-based bias detection
+
+- Institutional behavior analysis
+
+- Policy response comparison
+
+Given your project is:
+
+- Investigating bias using incident-level comparison
+
+- With controlled coding of metadata
+
+- And qualitative variables like tone, latency, and severity
+
+Using categories like Yes/Strong for bias detection patterns is a well-established approach in policy analysis, institutional review, and legal-impact studies.
+
+As long as:
+
+- You define your coding scheme explicitly
+
+- You apply it consistently
+
+- You distinguish it from statistical inference
 
 #### Defend the methodology: DB is my sole incident source
 
