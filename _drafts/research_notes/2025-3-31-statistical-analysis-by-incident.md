@@ -4,7 +4,7 @@ title: "Statistical analysis by incident"
 published: true
 author: Alexie Pogue
 date: 2025-3-31 6:41 PM
-updated_date: 2025-4-1 11:05 PM
+updated_date: 2025-4-1 11:13 PM
 ---
 
 I must be unbiased in this study 
@@ -544,6 +544,15 @@ Do **one full test incident** first, end-to-end (cherry-picked is fine):
   - File and folder structure
   - ID formatting (`Incident_ID`, `Source_ID`)
   - Whether field definitions and coding logic are practical
+
+ Example---Field: Severity_Score
+
+- Possible values and definitions:
+
+	- Low: Verbal exchange, minimal disruption, no formal complaint
+	- Moderate: Property damage, threats, formal report, but no injuries
+	- High: Physical altercation, hospitalization, police involvement, or major disruption to campus operations
+
 
 ---
 
