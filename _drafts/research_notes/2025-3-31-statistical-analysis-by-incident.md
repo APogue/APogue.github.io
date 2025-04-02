@@ -4,6 +4,7 @@ title: "Statistical analysis by incident"
 published: true
 author: Alexie Pogue
 date: 2025-3-31 6:41 PM
+updated_date: 2025-4-1 11:05 PM
 ---
 
 I must be unbiased in this study 
@@ -35,8 +36,6 @@ I must be unbiased in this study
 	- from student organizations 
 
 ### Create a grounded, source-agnostic incident index 
-
-I need to build the incident list from the most neutral, time-ordered sources available
 
 Rather than starting with lawsuits or admin comms, I'll build my incident list from the most neutral, time-ordered source available:
 
@@ -342,3 +341,230 @@ If you do that transparently, then whether your conclusion is yes or no, your wo
 
 And that makes it powerful.
 
+### 🧩 Table 1: Incident Evaluation Pipeline
+
+**Inclusion Rule**  
+*Defines what counts as an incident*  
+→ Neutral, identity-agnostic
+
+**Keyword Search**  
+*Retrieves a superset of candidate articles*  
+→ Designed to surface events likely to match rule
+
+**Screening by Rule**  
+*Filters keyword results using defined criteria in the inclusion rule*  
+→ Apply consistently — group/outcome blind
+
+**Logging**  
+*Track both included and excluded articles with reasons for transparency*  
+→ Maintain transparency and repeatability
+
+**Structured Coding**  
+*Assign rule-based fields (e.g., group, severity, policy, response)*  
+→ Enables categorical comparison across incidents
+
+**Qualitative Coding**  
+*Apply interpretive rubrics to capture tone, framing, or narrative position*  
+→ Adds context and nuance beyond numeric fields
+
+**Consistency Checks**  
+*Test and refine coding for replicability across all incidents*  
+→ Apply to both structured and qualitative variables
+
+**Controlled Comparison**  
+*Analyze disparities while holding severity, visibility, and legality constant*  
+→ Reveals potential group-based bias in admin behavior
+
+### 🧬 Table 2: Variable Types
+
+| Type                   | Description                                               | Examples                                                              |
+|------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------|
+| **Structured Attributes** | Rule-based, consistent, and quantifiable. These variables are coded using explicit criteria, allowing categorical comparison. | `Target_Group`, `Severity_Score`, `Policy_Broken`, `Media_Coverage_Level`, `Admin_Response` |
+| **Qualitative Variables** | Interpretive but systematic. These capture nuance (e.g., tone or framing) using defined rubrics with consistent categories. | `Tone_of_Response`, `Framing_Language`, `Narrative_Positioning`, `Latency_Tone`, `Follow_Up_Action` |
+
+### ⏱️ Table 3: Temporal Analysis Integration
+
+| Tool                          | Use                                                         |
+|-------------------------------|--------------------------------------------------------------|
+| `Date_of_Incident`, `Date_of_Response` | Calculate latency, map timelines                             |
+| `Academic_Term`, `Policy_Epoch`       | Compare behavior pre-/post-major events (design choice, maybe)                     |
+| Time-windowed analysis                | Detect episodic or event-specific bias                       |
+| Visual tools                          | Reveal clusters, escalation patterns, or administrative silences |
+
+### 🗂️ Table 4: Data Organization Structure
+
+**✅ Master Incident List**  
+*One row per incident*  
+→ Includes date, location, structured and qualitative fields  
+→ References source(s) used via `Source_IDs`  
+→ Chronologically ordered and searchable  
+
+**✅ Source Appendix**  
+*One row per unique source*  
+→ Includes `Source_ID`, title, date, type (e.g., Daily Bruin, admin email)  
+→ Describes how the source was used  
+→ Linked to incidents via shared IDs  
+
+**Why This Works:**  
+- **Full auditability** — Every data point is traceable to source  
+- **Traceable logic** — Clear chain from event → coding → source  
+- **Separation of concerns** — Incidents are cleanly separated from interpretations
+
+### Getting started 
+#### ✅ Core Fields to Code From the Start
+These are foundational — you need them early to build structured comparisons:
+
+- `Incident_ID`
+- `Date_of_Incident`
+- `Target_Group`
+- `Severity_Score`
+- `Admin_Response` (Y/N)
+- `Media_Coverage_Level`
+- `Source_ID(s)`
+
+#### 🆔 Incident ID (Incident_ID)
+
+- Unique identifier for each incident
+
+- One row per incident in the **Master Incident List**
+
+- Format: INC-001, INC-002, etc.
+
+#### 📎 Source ID (Source_ID)
+
+- Unique identifier for each source document (article, email, post, etc.)
+
+- One row per source in the **Source Appendix**
+
+- Format: DB-001 (Daily Bruin), ADM-003 (Admin comm), SOC-005 (Social media)
+
+#### ✅ Add-On Fields You Can Layer In Later
+
+You don’t need to lock these in up front — just keep them in mind:
+
+- `Tone_of_Response` (once you've collected admin statements)
+- `Latency` (once you have both date fields)
+- `Policy_Epoch` or `Proximity_to_Event` (if needed after early patterns emerge)
+- `Follow_Up_Action`, `Framing_Language` (after you see enough variation)
+
+
+### 🧱 Staying Grounded: Avoiding Outside Inference and Project Creep
+
+#### ✅ What “no outside inference required” means:
+- Stick to **what your sources say**, not assumptions or extrapolations.
+- Use only your **pre-defined source set** (e.g., Daily Bruin, admin statements, lawsuits).
+- Apply your **inclusion rule and coding rubrics** strictly — no subjective reinterpretation.
+
+
+#### ⚠️ Project Creep Risks:
+- Letting in **new or inconsistent source types** mid-way (e.g., random social media or niche blogs).
+- Expanding beyond your **defined time frame, incident criteria, or coding structure**.
+- Rewriting your rubrics to fit difficult edge cases instead of flagging them.
+- Gradually shifting from **testing a hypothesis** to **arguing a conclusion**.
+
+#### 🛡️ Guardrails to Prevent Drift
+
+- Maintain a **locked source list** — document any additions as exceptions.
+- If new source types are introduced for coding (e.g., admin Slack messages), **log them** in the Source Appendix and **flag as non-primary**.
+- If you admit a new source type, **apply it retroactively to all relevant incidents**, not just one.
+- Record any scope expansion as an **explicit methodological note** — never as a silent change.
+
+
+### 🧾 Source vs. Source Type
+
+**🧾 Source = A specific document or artifact**  
+An individual item you cite or use to code an incident.  
+**Examples:**
+- A single Daily Bruin article  
+- A specific admin email sent on Oct 10  
+- One Instagram post by SJP  
+- A particular lawsuit filing
+
+
+**🗂️ Source Type = A category of source**  
+A class of materials that you allow into your dataset.  
+**Examples:**
+- Daily Bruin article  
+- Admin public statement  
+- Lawsuit filing  
+- Social media post by student orgs  
+- UCOP systemwide memos
+
+
+### ✅ Why This Matters for Your Methodology
+
+- You can admit **new sources** all the time (e.g., new DB articles).
+- But admitting a **new source type** (e.g., Reddit threads, leaked Slack messages) is a **methodological shift**:
+  - → It expands the range of what you allow into your coding process.
+  - → So it requires **scope control**: logging, flagging as non-primary, and applying retroactively to all relevant incidents.
+
+### 🧭 Choosing Your Next Step
+
+The best next step depends on your immediate goal: refining your process vs. scaling your dataset.
+
+---
+
+### ✅ Option 1: Start with a Few Candidate Incidents
+*Best if your goal is to test and refine your pipeline*
+
+Walk 2–3 candidate incidents through the **entire evaluation pipeline**:
+
+- Helps you get familiar with:
+  - File and folder structure
+  - `Incident_ID` and `Source_ID` formatting
+  - Field-by-field coding (structured + qualitative)
+  - Logging excluded sources or edge cases
+- Reveals ambiguities in:
+  - Your inclusion rule
+  - Severity or tone coding
+  - Source tagging conventions
+
+🔁 This approach reduces rework later and ensures your system holds up under real examples.
+
+---
+
+### ✅ Option 2: Design Your Inclusion Rule and Scrape Keywords
+*Best if your goal is to begin scaling up the dataset*
+
+- Finalize your **inclusion criteria** in plain language
+- Design your **keyword search** to reliably surface relevant incidents from the Daily Bruin
+- Begin your **master incident list** using this structured discovery process
+
+🧱 This sets the foundation for consistent data gathering and prevents selection bias.
+
+---
+
+### 🧠 Suggested Hybrid Approach
+
+Do **one full test incident** first, end-to-end (cherry-picked is fine):
+- Apply your draft **inclusion rule**
+- Apply initial **structured coding rules** and **qualitative rubrics**
+- Link and log all relevant sources
+- Use this to test:
+  - File and folder structure
+  - ID formatting (`Incident_ID`, `Source_ID`)
+  - Whether field definitions and coding logic are practical
+
+---
+
+Then, run your **inclusion rule** and draft **keyword search** on a small batch (5–10 real Daily Bruin articles):
+
+- Refine your **inclusion rule**, **structured coding rules**, and **qualitative rubrics** as needed
+- Adjust keyword logic based on what’s over- or under-included
+- Apply the same rules/rubrics across all incidents in the batch
+
+---
+
+### ✅ When to Consider Your System Finalized
+
+You can consider your:
+- `Inclusion rule`
+- `Structured coding rules`
+- `Qualitative rubrics`
+
+**Finalized** when they all hold steady across the batch — meaning:
+- You no longer need to revise definitions mid-way
+- You’re applying labels consistently and confidently
+- Edge cases are being handled smoothly within your existing framework
+
+At that point, your system is **stable**, and you’re ready to scale up full incident discovery and coding with confidence.
