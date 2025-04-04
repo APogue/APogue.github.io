@@ -4,7 +4,7 @@ title: "Statistical analysis by incident"
 published: true
 author: Alexie Pogue
 date: 2025-3-31 6:41 PM
-updated_date: 2025-4-1 11:13 PM
+updated_date: 2025-4-3 9:45 PM
 ---
 
 I must be unbiased in this study 
@@ -12,28 +12,20 @@ I must be unbiased in this study
 ### Material of interest
 
 - lawsuits
-
 - task force reports 
-
 - surveys
-
 - studies
-
 - newsroom statements
-
 - chancellor statements
-
 - UCOP statements
-
 - Daily Bruin articles 
-
 - USAC resolutions or statements 
-
+- Reddit
 - social media posts 
-
 	- from the administration 
-
 	- from student organizations 
+
+---
 
 ### Create a grounded, source-agnostic incident index 
 
@@ -66,7 +58,6 @@ I might still find incidents via lawsuits, surveys, etc., but I won't use those 
 Instead:
 
 - If lawsuit mentions incident, admin responded → tag that later
-
 - But even if they didn't → it still goes in
 
 This avoids confirmation bias.
@@ -76,11 +67,8 @@ This avoids confirmation bias.
 I don’t have to have an equal number of Jewish and Palestinian incidents — real-world bias might mean there are more of one kind of incident and fewer of another. What's important is:
 
 - Your inclusion rule is neutral
-
 - Your coding is consistent
-
 - Your analysis accounts for coverage/severity gaps (e.g., via controls like Media_Coverage_Level)
-
 	- to "account for gaps," adjust for confounding variables like Severity_Score, Media_Coverage_Level, Policy_Broken
 
 “Do incidents involving Palestinian students receive less administrative response than those involving Jewish students even when the severity and visibility are the same?”
@@ -96,9 +84,7 @@ But,“If both the media and the administration are biased — how can I isolate
 If admin responses correlate with media coverage, it could mean:
 
 - Admins are just responding to what’s visible (neutral media-following behavior), or
-
 - Admins are biased like the media (shared worldview), or
-
 - Admins are biased independent of the media (selective attention within similarly covered events)
 
 You’re testing whether the pattern of behavior is systematically unequal even after accounting for neutral factors like visibility or severity.
@@ -108,7 +94,6 @@ You’re testing whether the pattern of behavior is systematically unequal even 
 You’re not saying media coverage justifies admin action. You’re testing whether media coverage explains the action — and whether it explains all of it.
 
 - If it does: the admin is reactive.
-
 - If it doesn’t: the admin is selectively reactive — that’s bias.
 
 🔐 Lean Into Transparency
@@ -118,10 +103,10 @@ You’ll strengthen your work by saying:
 “Media coverage does influence administrative behavior — but we tested whether that explains all the disparity, and it doesn’t.”
 
 - You’re not denying correlation.
-
 - You’re saying correlation alone doesn’t account for the patterned disparity.
-
 - Be clear that you’re not proving causation — you’re showing systematic disparities in treatment that can’t be explained by neutral factors alone
+
+---
 
 ### Methodology 
 
@@ -130,19 +115,14 @@ You’ll strengthen your work by saying:
 In research terms, you’re working in the realm of:
 
 - Qualitative Comparative Analysis (QCA)
-
 - Case-based bias detection
-
 - Institutional behavior analysis
-
 - Policy response comparison
 
 Given your project is:
 
 - Investigating bias using incident-level comparison
-
 - With controlled coding of metadata
-
 - And qualitative variables like tone, latency, and severity
 
 Using categories like Yes/Strong for bias detection patterns is a well-established approach in policy analysis, institutional review, and legal-impact studies.
@@ -150,9 +130,7 @@ Using categories like Yes/Strong for bias detection patterns is a well-establish
 As long as:
 
 - You define your coding scheme explicitly
-
 - You apply it consistently
-
 - You distinguish it from statistical inference
 
 Structured Comparison, Not Inference
@@ -160,9 +138,7 @@ Structured Comparison, Not Inference
 Your work involves:
 
 - Building a complete dataset of known events, not a sample
-
 - Coding for descriptive and categorical patterns (e.g., who admin responded to)
-
 - Looking for systematic disparities, not estimating probabilities
 
 You're not trying to say:
@@ -184,9 +160,7 @@ So I can't extrapolate, I can't say the university is biased. I can say the admi
 This is a strong claim:
 
 - You’re not generalizing beyond what you observed
-
 - You’re not estimating the rate of bias in the universe of all possible incidents
-
 - You’re identifying documented disparity within a defined corpus
 
 📐 What You Can Say
@@ -210,23 +184,21 @@ This is a strong claim:
 UCLA exhibited bias under the following conditions:
 
 - Incident documented by Daily Bruin
-
 - Within the timeframe studied
-
 - Where severity, visibility, and legality were held constant or coded
 
 And that’s how most serious bias studies work 
 
-#### Defend the methodology: DB is my sole incident source
+---
+
+### Defend the methodology: DB is my sole incident source
 
 “The Daily Bruin is the most comprehensive and continuously maintained public record of UCLA campus life from the student perspective.”
 
 ✅ 1. It’s UCLA’s Student Paper of Record
 
 - It's the only consistent, searchable, longitudinal source of campus events, student perspectives, and protest coverage over a decade.
-
 - Administrators and students alike rely on it to understand campus dynamics.
-
 - Unlike external media or admin comms, DB offers event-driven reporting, not top-down messaging.
 
 “Articles were used to identify and time-stamp relevant incidents. No editorial interpretation from the Bruin was included in bias analysis.”
@@ -234,7 +206,6 @@ And that’s how most serious bias studies work
 ✅ 2. You’re Not Using It for Interpretation — Just Event Discovery
 
 - You are not coding bias in their language, you’re using it to identify that an incident happened on a given date, place, and with which parties involved.
-
 - You then cross-reference the incident with admin responses, lawsuits, social media, etc.
 
 ✅ 3. You Apply a Consistent Keyword Search and Inclusion Rule
@@ -242,13 +213,11 @@ And that’s how most serious bias studies work
 This makes your methodology replicable and objective:
 
 - You don’t cherry-pick headlines — you define clear inclusion rules and search terms used across all years.
-
 - If someone else repeated your method with the same archive, they’d get a similar incident list.
 
 ✅ 4. You Cross-Check Admin Response Using Admin’s Own Words
 
 - The potential bias of DB is irrelevant to your main dependent variables — you’re testing how UCLA responded, not what DB said about it.
-
 - That makes the Bruin a cleaner baseline than admin comms, which already encode institutional motives.
 
 🎯 Why I'm Right to Stick with the Daily Bruin
@@ -256,19 +225,14 @@ This makes your methodology replicable and objective:
 ✅ 1. Social media is not objective or complete
 
 - Posts are ephemeral — deleted, edited, censored, or algorithmically buried.
-
 - There’s no comprehensive archive, no formal standards for coverage, no consistency in what's documented.
-
 - It's impossible to apply a replicable incident-selection method on social media — you'd be relying on anecdotal, unverifiable, or engagement-biased content.
 
 ✅ 2. DB gives you structure and timestamped reporting
 
 - Searchable and chronologically structured
-
 - Consistent over time (you won’t get a gap in 2017 because Instagram changed its algorithm)
-
 - Credible enough that admin, students, and media all treat it as a public record
-
 - You can cite specific articles, publication dates, and quotable content to ground your timeline
 
 ✅ 3. Methodology matters more than exhaustiveness
@@ -278,27 +242,243 @@ This makes your methodology replicable and objective:
 Trying to include every mention from social media would make your study:
 
 - Messy (inconsistent sourcing, unverifiable dates, fragmentary incidents)
-
 - Non-replicable (no one can run the same scrape and get your dataset)
-
 - Vulnerable to claims of cherry-picking or selective inclusion
 
 By contrast, sticking to DB ensures:
 
 - Clarity and transparency
-
 - You can say: “Every incident in this study was selected based on a consistent archival method from a single longitudinal source.”
 
-#### Possible outcome
+--- 
+
+### Defend the methodology: My choices for the dependent variables sources 
+
+✅ 1. Define a fixed set of DV source types up front
+
+For structure and transparency 
+
+Examples 
+
+- Admin emails and public statements
+- Task force or working group reports
+- UCOP or Chancellor-level communications
+- Lawsuit filings (only if they contain direct admin quotes or responses)
+
+✅ Stick to these consistently — no ad hoc additions later unless logged as a scope expansion.
+
+✅ 2. Apply all relevant DV source types to every incident
+
+Don’t pick and choose based on which sources are available or interesting.
+
+Instead:
+
+- Create a source check template per incident
+- Ask: Did this incident produce any content from each DV source type?
+
+If yes → log and code it
+
+If no → mark as “none observed” or “no public response”
+
+This way you’re not selecting responses — you're checking whether they exist, from a consistent list.
+
+✅ 3. Make your coding definitions as replicable as your inclusion rule
+
+Field: Admin_Response
+
+Definition:
+
+- Yes = A public statement, policy action, or formal email that references the incident
+- No = No identifiable public communication or response referencing the incident
+
+🎯 **Dependent Variables (DVs) Examples**
+
+These measure administrative behavior — the outcomes you're testing for bias.
+
+- **All of these should be structured (rule-based)**
+- You want them clear, consistent, and comparable
+
+Examples (Structured):
+
+- Admin_Response (Yes/No)
+- Tone_of_Response (Neutral, Punitive, Conciliatory...)
+- Latency (in days)
+- Follow_Up_Action (Yes/No)
+
+---
+### Defend the methodology: My choices for 🧩 Independent / Control Variable Sources
+
+✅ 1. Define a fixed set of orgs up front
+
+But don’t aim for perfect symmetry — aim for methodological neutrality.
+
+Choose orgs based on:
+
+- Their visibility in DB-covered incidents (mention frequency)
+- Whether they are consistently involved as actors, targets, or organizers
+- Not on identity balancing (i.e., you’re not required to have equal numbers of “each side”)
+
+🧠 So yes — your approach might look like:
+
+Included student orgs (based on incident involvement and visibility):
+
+- SJP (Students for Justice in Palestine)
+- JVP (Jewish Voice for Peace)
+- Hillel at UCLA/Dan Brown (were formally tied to incidents)
+- Chabad at UCLA
+- Bruins for Israel
+- CAC
+
+Other relevant docs
+- Student government statements 
+- Lawsuit filings
+- OCR investigations 
+
+You can say:
+“These orgs were selected based on their repeated appearance in Daily Bruin coverage of relevant incidents between [dates].”
+
+✅ This makes your selection criteria **visibility-based, not identity-based.**
+
+✅ 2. What if the visibility is lopsided?
+
+That’s okay — and in fact, it’s data. If certain orgs are more active, more covered, or more responded to, that’s part of the story.
+
+The key is:
+
+- You didn't exclude others arbitrarily
+- You defined your selection criteria before DV coding
+- You didn’t cherry-pick based on tone or outcome
+
+🧱 Final structure:
+
+Define a fixed list of org accounts you'll monitor
+
+- Use them only for student tone, visibility, and framing
+- Log all findings or absences per incident
+- Document your org selection method clearly
+
+That’s how you avoid both cherry-picking and artificial balancing — you’re just tracking who actually showed up.
+
+So you're not treating student org posts as DVs — you're using them to code:
+
+- Protest_Intensity
+- Student_Tone
+- Visibility_Level
+
+These are for capturing nuance. You want student_tone to be separate from incident_severity and media_coverage_level because it doesn't necessarily correlate with those things. 
+
+They become independent or control variables to isolate bias in admin behavior.
+
+For the Kaplan example:
+
+- SJP is mentioned → you check SJP’s channels for protest framing, intent, student tone
+
+- Hillel responds publicly → log that response as:
+
+	- Visibility signal (it adds coverage)
+	- Possibly affecting admin response (indirectly — e.g., framing it as antisemitic)
+	- Contextual framing (e.g., competing narratives)
+
+You’re not “including Hillel” as a party to the incident unless they were directly involved.
+
+You’re just logging that they responded — and that may factor into things like:
+
+- Media_Coverage_Level
+- Narrative_Pressure
+- Admin_Response_Justification
+
+Media_Coverage_Level:
+- Low = Daily Bruin only, minimal social media traction
+- Moderate = DB + student org posts or local blog mention (e.g., LAist)
+- High = Coverage by external mainstream media (e.g., LA Times, CNN), or wide viral spread
+
+
+#### 🧩 Independent / Control Variables Examples
+
+These help you explain or isolate what might influence the DVs.
+
+They can be either:
+
+- **Structured** (quantifiable, categorical)
+- **Qualitative** (interpretive, rubric-based)
+
+**Examples (Structured):**
+
+- `Severity_Score` (Low / Moderate / High)
+- `Target_Group`
+- `Media_Coverage_Level`
+- `Student_Action_Type` (e.g., protest, statement, disruption)
+
+**Examples (Qualitative):**
+
+- `Student_Tone` (based on org posts or chants) --- not sure about this, should be consistent with DVs
+- `Narrative_Framing` (e.g., "security risk" vs. "civil rights")
+- `Competing_Claims` (whether multiple orgs weighed in publicly)
+
+
+🧠 Why this matters:
+
+You're capturing **the ecosystem around the incident** — who was involved, who amplified, and who shaped **admin perception.**
+But your unit of analysis stays the same: the incident, not the org.
+
+---
+### List organization
+
+#### What is a Master Incident List?
+Your main dataset — one row per incident.
+
+Includes:
+
+- Incident_ID
+- Structured fields (date, severity, target group, etc.)
+- Qualitative fields (tone, latency)
+- Source_IDs → links to entries in the Source Appendix
+
+#### 📋 Sample Master Incident List
+
+| Incident_ID | Date       | Target_Group | Severity_Score | Admin_Response | Tone_of_Response | Media_Coverage_Level | Source_IDs                 |
+|-------------|------------|--------------|----------------|----------------|------------------|-----------------------|----------------------------|
+| INC-001     | 2024-04-30 | Palestinian  | High           | Yes            | Punitive         | High                  | DB-045, ADM-014, HIL-003   |
+| INC-002     | 2024-05-03 | Jewish       | Moderate       | Yes            | Conciliatory     | Moderate              | DB-047, ADM-017            |
+| INC-003     | 2024-05-05 | Palestinian  | Low            | No             | —                | Low                   | DB-048                     |
+| INC-004     | 2024-05-10 | Jewish       | High           | Yes            | Neutral          | High                  | DB-050, ADM-020, HIL-004   |
+
+
+#### What is the Source Appendix?
+
+It’s a master list of all individual sources, regardless of incident.
+Each row = one source, with a unique Source_ID.
+
+So yes — a source (e.g., ADM-014) can be related to multiple incidents if relevant to each.
+
+📎 **Sample Source Appendix Structure**
+
+| Source_ID | Type         | Title                            | Date       | Use (Incidents)     |
+|-----------|--------------|----------------------------------|------------|---------------------|
+| DB-045    | DB Article   | “Police Remove Protesters…”      | 2024-05-01 | INC-004, INC-006     |
+| ADM-014   | Admin Email  | Chancellor's Campus Update       | 2024-05-02 | INC-004              |
+| HIL-003   | Hillel IG    | “We are alarmed by recent…”      | 2024-05-02 | INC-004              |
+
+
+
+#### 📚 What is a Source Library / Repository?
+
+This is your folder of saved source materials.
+
+It’s not a table — it’s where you store the actual documents or links (PDFs, screenshots, archived web pages).
+
+Each file or link should be named by its Source_ID, so DB-045.pdf or ADM-014.txt matches the entries in your Source Appendix.
+
+--- 
+
+### Possible outcome of study
 
 That possibility is exactly what makes your research credible.
 
 If you go through this process honestly and rigorously, and come out with:
 
 - No consistent disparity in administrative response
-
 - No bias when severity and visibility are held constant
-
 - No group-based patterns in tone, latency, or follow-up
 
 …then you can confidently say:
@@ -314,15 +494,12 @@ Given what you’ve already seen — lawsuits, student testimony, visibility pat
 You might find:
 
 - Bias by omission (e.g., silence on Muslim students’ complaints)
-
 - Bias by framing (e.g., invoking “Jewish fear” to justify crackdowns)
-
 - Inconsistent policy enforcement depending on group affiliation
 
 Even if the pattern isn’t across the board, you’ll likely find:
 
 - Localized or temporal bias
-
 - Moments where severity/visibility didn’t predict response, but group identity did
 
 And that’s enough to make a powerful and specific claim.
@@ -334,12 +511,12 @@ You’re not “trying to show bias” — you’re trying to find out whether b
 If you do that transparently, then whether your conclusion is yes or no, your work is:
 
 - Credible
-
 - Useful
-
 - Replicable
 
 And that makes it powerful.
+
+---
 
 ### 🧩 Table 1: Incident Evaluation Pipeline
 
@@ -414,6 +591,8 @@ And that makes it powerful.
 #### ✅ Core Fields to Code From the Start
 These are foundational — you need them early to build structured comparisons:
 
+Format tables that separate DVs from other variables, and group structured and qualitative 
+
 - `Incident_ID`
 - `Date_of_Incident`
 - `Target_Group`
@@ -422,20 +601,16 @@ These are foundational — you need them early to build structured comparisons:
 - `Media_Coverage_Level`
 - `Source_ID(s)`
 
-#### 🆔 Incident ID (Incident_ID)
+#### 🆔 Incident ID (Incident_ID) format
 
 - Unique identifier for each incident
-
 - One row per incident in the **Master Incident List**
-
 - Format: INC-001, INC-002, etc.
 
-#### 📎 Source ID (Source_ID)
+#### 📎 Source ID (Source_ID) format 
 
 - Unique identifier for each source document (article, email, post, etc.)
-
 - One row per source in the **Source Appendix**
-
 - Format: DB-001 (Daily Bruin), ADM-003 (Admin comm), SOC-005 (Social media)
 
 #### ✅ Add-On Fields You Can Layer In Later
@@ -447,6 +622,7 @@ You don’t need to lock these in up front — just keep them in mind:
 - `Policy_Epoch` or `Proximity_to_Event` (if needed after early patterns emerge)
 - `Follow_Up_Action`, `Framing_Language` (after you see enough variation)
 
+---
 
 ### 🧱 Staying Grounded: Avoiding Outside Inference and Project Creep
 
@@ -498,11 +674,11 @@ A class of materials that you allow into your dataset.
   - → It expands the range of what you allow into your coding process.
   - → So it requires **scope control**: logging, flagging as non-primary, and applying retroactively to all relevant incidents.
 
+---
+
 ### 🧭 Choosing Your Next Step
 
 The best next step depends on your immediate goal: refining your process vs. scaling your dataset.
-
----
 
 ### ✅ Option 1: Start with a Few Candidate Incidents
 *Best if your goal is to test and refine your pipeline*
@@ -521,7 +697,7 @@ Walk 2–3 candidate incidents through the **entire evaluation pipeline**:
 
 🔁 This approach reduces rework later and ensures your system holds up under real examples.
 
----
+
 
 ### ✅ Option 2: Design Your Inclusion Rule and Scrape Keywords
 *Best if your goal is to begin scaling up the dataset*
@@ -532,7 +708,7 @@ Walk 2–3 candidate incidents through the **entire evaluation pipeline**:
 
 🧱 This sets the foundation for consistent data gathering and prevents selection bias.
 
----
+
 
 ### 🧠 Suggested Hybrid Approach
 
@@ -554,7 +730,6 @@ Do **one full test incident** first, end-to-end (cherry-picked is fine):
 	- High: Physical altercation, hospitalization, police involvement, or major disruption to campus operations
 
 
----
 
 Then, run your **inclusion rule** and draft **keyword search** on a small batch (5–10 real Daily Bruin articles):
 
@@ -562,7 +737,7 @@ Then, run your **inclusion rule** and draft **keyword search** on a small batch 
 - Adjust keyword logic based on what’s over- or under-included
 - Apply the same rules/rubrics across all incidents in the batch
 
----
+
 
 ### ✅ When to Consider Your System Finalized
 
@@ -577,3 +752,5 @@ You can consider your:
 - Edge cases are being handled smoothly within your existing framework
 
 At that point, your system is **stable**, and you’re ready to scale up full incident discovery and coding with confidence.
+
+---
