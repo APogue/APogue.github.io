@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+<p><strong>Date:</strong> {{ page.date }}</p>
+<p><strong>Target Group:</strong> {{ page.target_group }}</p>
+<p><strong>Severity:</strong> {{ page.severity_score }}</p>
+<p><strong>Admin Response:</strong> {{ page.admin_response_level }}</p>
+<p><strong>Latency:</strong> {{ page.latency_days }} days</p>
+<p><strong>Media Coverage:</strong> {{ page.media_coverage_level }}</p>
+
+<h3>Summary</h3>
+{{ content }}
+
+<h3>Sources</h3>
+<ul>
+  {% for src in page.source_ids %}
+    <li>{{ src }}</li>
+  {% endfor %}
+</ul>
