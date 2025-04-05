@@ -1,9 +1,8 @@
-url: "https://alexiepogue.com" # the base hostname & protocol for your site, e.g. https://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+url: "https://alexiepogue.com"      # Your domain
+baseurl: ""                         # Blank = root-level site
+title: "Alexie Pogue"               # ✅ Shows up in tab titles (if layout uses it)
 
-permalink: pretty
-
+permalink: pretty                   # Clean URLs like /about/, /projects/
 
 collections:
   incidents:

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog Posts
+permalink: /blog/
 ---
 
 <div class="blog-list">
