@@ -18,6 +18,8 @@ This project documents and analyzes university administrative response to identi
 
 │ └── sources.yml 
 
+│ └── field_definitions.yml 
+
 ├── sources/ # Actual source documents (PDFs, screenshots, admin emails) 
 
 │ └── DB-045.txt 
@@ -28,7 +30,9 @@ This project documents and analyzes university administrative response to identi
 
 ├── projects/ # Project-facing pages (e.g., index of all incidents) 
 
-│ └── statistical-analysis.md 
+│ └── incident-analysis.md 
+
+│ └── project-definitions.md 
 
 ├── _layouts/ # Custom layout for incident rendering 
 
@@ -52,7 +56,7 @@ This project documents and analyzes university administrative response to identi
 ## 📘 Content Types
 
 - **Incident pages** → Generated from `_incidents/*.md` using `layout: incident`  
-- **Incident index** → Rendered via Liquid loop in `projects/statistical-analysis.md`  
+- **Incident index** → Rendered via Liquid loop in `projects/incident-analysis.md`  
 - **Sources** → Centralized metadata in `_data/sources.yml`, content in `sources/` folder
 
 ---

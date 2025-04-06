@@ -1,15 +1,19 @@
 ---
 layout: default
-title: 🚧 Projects
+title: Projects
 permalink: /projects/
 ---
 
 
-## Policy Projects
+## University Policy Study
+
+- [Starter notes](/projects/organizational-notes)
+
+- [README](/projects/structure-and-organization)
 
 - [Incident Response Index](/projects/incident-analysis/)
 
-
+- [Project Definitions](/projects/project-definitions/)
 
 
 

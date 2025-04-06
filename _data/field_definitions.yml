@@ -1,0 +1,67 @@
+- name: incident_id
+  type: structured
+  description: Globally unique ID for the incident (e.g., INC-001)
+
+- name: date
+  type: structured
+  description: Date the incident occurred (YYYY-MM-DD)
+
+- name: target_group
+  type: structured
+  description: Primary identity group affected
+  options: [Jewish, Palestinian, Muslim, Arab, Multiple, Unknown]
+
+- name: severity_score
+  type: structured
+  description: Categorical estimate of harm or risk
+  options: [Low, Moderate, High]
+
+- name: media_coverage_level
+  type: control
+  description: Extent of public visibility based on press/social attention
+  options: [Low, Moderate, High]
+
+- name: admin_response
+  type: structured
+  description: Whether any public administrative response occurred
+  options: [true, false]
+
+- name: admin_response_level
+  type: qualitative
+  description: Strength or adequacy of the admin response
+  options: [none, minimal, adequate, strong]
+
+- name: tone_of_response
+  type: qualitative
+  description: Language tone used by administration
+  options: [Neutral, Punitive, Conciliatory, Dismissive]
+
+- name: latency_days
+  type: derived
+  description: Number of days between incident and first admin response
+
+- name: follow_up_action
+  type: structured
+  description: Whether any follow-up actions (discipline, policy) were taken
+  options: [true, false]
+
+- name: source_ids
+  type: structured
+  description: List of source identifiers used to document or analyze the incident
+
+- name: notes
+  type: qualitative
+  description: Freeform text summary or contextual annotation
+
+- name: tags
+  type: structured
+  description: Optional incident tags used for internal organization or search
+
+- name: narrative_positioning
+  type: qualitative
+  description: How the incident was framed in public or admin-facing narratives
+
+- name: student_tone
+  type: qualitative
+  description: Tone or rhetorical framing used by student organizations
+  options: [Rights-based, Accusatory, Conciliatory, Defensive, Escalatory]

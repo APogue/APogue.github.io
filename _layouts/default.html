@@ -68,7 +68,9 @@
                 </nav>
                 <div class="title-bar-container">
                     <div class="title-bar">
-                        <h1>{{ page.title }}</h1> 
+                        {% unless page.hide_title %}
+                            <h1>{{ page.title }}</h1>
+                        {% endunless %}
                     </div>
                 </div>
             </div>

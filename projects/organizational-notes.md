@@ -1,7 +1,8 @@
 ---
 layout: outline
-title: "Statistical analysis by incident"
+title: "Starter notes"
 published: true
+hide_title: false
 author: Alexie Pogue
 date: 2025-3-31 6:41 PM
 updated_date: 2025-4-3 9:45 PM

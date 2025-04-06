@@ -1,21 +1,18 @@
 ---
 layout: outline
-title: "Project directory structure and organization"
+title: "📊 UCLA Incident Response Analysis Project"
 published: true
 author: Alexie Pogue
 date: 2025-4-5 2:52 PM
 ---
 
 
-# 📊 UCLA Incident Response Analysis Project
 
 This project documents and analyzes UCLA's administrative response to identity-based incidents from 2023–2024 using structured data, public sources, and reproducible methods.
 
 ---
 
 ## 🔧 Project Structure
-. 
-
 ├── _config.yml 
 
 ├── _incidents/ # One Markdown file per incident (YAML front matter + narrative) 
@@ -25,6 +22,8 @@ This project documents and analyzes UCLA's administrative response to identity-b
 ├── _data/ # Centralized structured data (e.g., sources.yml) 
 
 │ └── sources.yml 
+
+│ └── field_definitions.yml 
 
 ├── sources/ # Actual source documents (PDFs, screenshots, admin emails) 
 
@@ -36,7 +35,9 @@ This project documents and analyzes UCLA's administrative response to identity-b
 
 ├── projects/ # Project-facing pages (e.g., index of all incidents) 
 
-│ └── statistical-analysis.md 
+│ └── incident-analysis.md 
+
+│ └── project-definitions.md 
 
 ├── _layouts/ # Custom layout for incident rendering 
 
@@ -60,7 +61,7 @@ This project documents and analyzes UCLA's administrative response to identity-b
 ## 📘 Content Types
 
 - **Incident pages** → Generated from `_incidents/*.md` using `layout: incident`  
-- **Incident index** → Rendered via Liquid loop in `projects/statistical-analysis.md`  
+- **Incident index** → Rendered via Liquid loop in `projects/incident-analysis.md`  
 - **Sources** → Centralized metadata in `_data/sources.yml`, content in `sources/` folder
 
 ---
