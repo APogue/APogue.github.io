@@ -1,13 +1,8 @@
-- id: DB-045
+- id: DB-001
   type: Daily Bruin
-  date: 2024-04-30
-  title: "Police delayed response to encampment attack"
-  file: sources/DB-045.txt
+  date: 2024-04-02
+  title: "Op-ed: Antisemitic imagery at UC Regents meeting protest threatens campus discourse"
+  file: sources/DB-001.txt
+  url: "https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse"
   used_in: [INC-001]
 
-- id: ADM-014
-  type: Admin Email
-  date: 2024-05-01
-  title: "Chancellor’s campus-wide statement"
-  file: sources/ADM-014.txt
-  used_in: [INC-001]

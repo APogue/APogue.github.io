@@ -15,6 +15,13 @@ layout: default
 <h3>Sources</h3>
 <ul>
   {% for src in page.source_ids %}
-    <li>{{ src }}</li>
+    {% assign source = site.data.sources | where: "id", src | first %}
+    <li>
+      {{ source.title }} –
+      <a href="{{ source.url }}">Original</a>
+      {% if source.file %}
+        | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
+      {% endif %}
+    </li>
   {% endfor %}
 </ul>
