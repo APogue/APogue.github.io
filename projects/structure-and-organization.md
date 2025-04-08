@@ -1,5 +1,5 @@
 ---
-layout: outline
+layout: page
 title: "📊 UCLA Incident Response Analysis Project"
 published: true
 author: Alexie Pogue
@@ -10,7 +10,7 @@ date: 2025-4-5 2:52 PM
 
 This project documents and analyzes UCLA's administrative response to identity-based incidents from 2023–2024 using structured data, public sources, and reproducible methods.
 
----
+
 
 ## 🔧 Project Structure
 ├── _config.yml 
@@ -38,6 +38,8 @@ This project documents and analyzes UCLA's administrative response to identity-b
 │ └── incident-analysis.md 
 
 │ └── project-definitions.md 
+
+│ └── codebook.md 
 
 ├── _layouts/ # Custom layout for incident rendering 
 

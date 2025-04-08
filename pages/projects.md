@@ -15,6 +15,7 @@ permalink: /projects/
 
 - [Project Definitions](/projects/project-definitions/)
 
+- [Codebook](/projects/codebook/)
 
 
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Project Definitions"
 permalink: /projects/project-definitions/
 ---
@@ -7,7 +7,7 @@ permalink: /projects/project-definitions/
 
 This page documents the structured fields, inclusion rule, and keyword logic used in the UCLA Incident Analysis project.
 
----
+
 
 ## 🔢 Field Definitions
 
@@ -57,18 +57,11 @@ Any campus-affiliated event between Sept 2023 and June 2024 where:
 
 These keywords are used to surface candidate articles from the Daily Bruin archive:
 
-- protest  
-- encampment  
-- Israel  
-- Palestine  
-- Zionist  
-- apartheid  
-- antisemitism  
-- Islamophobia  
-- occupation  
-- TPM violation  
-- demonstration
-
+<ul>
+  {% for keyword in site.data.keywords %}
+    <li>{{ keyword }}</li>
+  {% endfor %}
+</ul>
 ---
 
 ## Source Types

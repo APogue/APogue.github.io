@@ -34,6 +34,8 @@ This project documents and analyzes university administrative response to identi
 
 │ └── project-definitions.md 
 
+│ └── codebook.md 
+
 ├── _layouts/ # Custom layout for incident rendering 
 
 │ └── incident.html

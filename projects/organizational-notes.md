@@ -1,5 +1,5 @@
 ---
-layout: outline
+layout: page
 title: "Starter notes"
 published: true
 hide_title: false

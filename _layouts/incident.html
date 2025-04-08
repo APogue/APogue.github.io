@@ -8,6 +8,13 @@ layout: default
 <p><strong>Admin Response:</strong> {{ page.admin_response_level }}</p>
 <p><strong>Latency:</strong> {{ page.latency_days }} days</p>
 <p><strong>Media Coverage:</strong> {{ page.media_coverage_level }}</p>
+<p><strong>Keywords:</strong>
+  {% if page.keywords %}
+    {{ page.keywords | join: ", " }}
+  {% else %}
+    None
+  {% endif %}
+</p>
 
 <h3>Summary</h3>
 {{ content }}
