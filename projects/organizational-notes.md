@@ -5,7 +5,7 @@ published: true
 hide_title: false
 author: Alexie Pogue
 date: 2025-3-31 6:41 PM
-updated_date: 2025-4-3 9:45 PM
+updated_date: 2025-4-8 2:41 PM
 ---
 
 I must be unbiased in this study 
@@ -755,3 +755,260 @@ You can consider your:
 At that point, your system is **stable**, and you’re ready to scale up full incident discovery and coding with confidence.
 
 ---
+
+## A full breakdown of field types you'll use in structured research, with examples and how they relate to each other:
+
+Some of the notes above are hazy on field types and need to be corrected. For clarity for now: 
+
+🟢 1. Binary / Boolean
+
+- Values: Yes / No, True / False, 0 / 1
+
+- Structured: ✅ Always (as long as definitions are clear)
+
+- Example:
+
+	- `Admin_Response`: Yes / No
+
+	- `Follow_Up_Action`: Yes / No
+
+🔵 2. Nominal Categorical
+
+- Values: Categories with no inherent order
+
+- Structured: ✅ If categories are defined and exhaustive
+
+- Example:
+
+	- `Target_Group`: Jewish / Muslim / Palestinian / Other
+
+	- `Media_Coverage_Level`: None / Campus / Regional / National
+
+🟡 3. Ordinal Categorical
+
+- Values: Categories with a clear order, but no fixed interval
+
+- Structured: ✅ If order is defined and criteria are consistent
+
+- Example:
+
+	- `Severity_Score`: Low / Moderate / High
+
+	- `Tone_of_Response`: Conciliatory < Neutral < Punitive
+
+🔴 4. Quantitative (Discrete or Continuous)
+
+- Values: Numeric, measurable, fixed intervals
+
+- Structured: ✅ As long as units are consistent
+
+- Example:
+
+	- `Latency`: Number of days
+
+	- `Number_of_Protesters`: Integer
+
+	- `Injury_Count`: Integer
+
+🟠 5. Structured Qualitative
+
+- Values: Subjective content coded into categories
+
+- Structured: ✅ Only after you define a codebook
+
+	- Example:
+
+	- `Student_Tone`: Supportive / Angry / Defiant / Defeated
+
+	- `Narrative_Framing`: Civil rights / Safety threat / Neutral
+
+	- `Statement_Contains_Apology`: Yes / No
+
+⚫️ 6. Unstructured Qualitative
+
+- Values: Free text, open-ended, not yet coded
+
+- Structured: ❌ (unless you code it later)
+
+	- Example:
+
+	- `Admin_Statement_Text`: Full quote
+
+	- `Chants_Heard`: Raw transcript
+
+	- `Social_Media_Posts`: Screenshots, raw logs
+
+
+### Field Type Reference
+
+| **Type**                 | **Ordered** | **Numeric** | **Needs Coding Rules?**     | **Structured** | **Examples**                                      |
+|--------------------------|-------------|-------------|------------------------------|----------------|---------------------------------------------------|
+| **Binary / Boolean**     | No          | No          | No                           | ✅ Yes         | Admin_Response, Follow_Up_Action                  |
+| **Nominal Categorical**  | No          | No          | ✅ Yes (defined set)         | ✅ Yes         | Target_Group, Media_Coverage_Level               |
+| **Ordinal Categorical**  | ✅ Yes       | No          | ✅ Yes (codebook)                      | ✅ Yes         | Severity_Score, Tone_of_Response                  |
+| **Quantitative**         | ✅ Yes       | ✅ Yes       | No                           | ✅ Yes         | Latency (days), Injury_Count                      |
+| **Structured Qualitative** | Maybe     | No          | ✅ Yes (codebook)            | ✅ Yes         | Narrative_Framing, Student_Tone                   |
+| **Unstructured Qualitative** | No      | No          | —                            | ❌ No          | Admin_Statement_Text, Raw Chants                  |
+
+
+### Ordinal Categorical v. Structured Qualitative
+
+✅ Both Need a Codebook or Rubric
+
+Yes, both require:
+
+- Definitions for each category
+
+- Examples or decision rules for how to assign them
+
+- Consistency across coders
+
+But the type of structure differs:
+
+🟡 Ordinal Categorical
+
+- Values are ordered (e.g., Low < Medium < High)
+
+- Usually mutually exclusive
+
+- Codebook defines thresholds or cutoffs
+
+- Often easier to apply because the set is small and ordered
+
+Example rubric for Severity_Score:
+
+**Value,	Definition**
+
+Low,	No injuries, no arrests, no building closures
+
+Moderate,	1–2 arrests OR building disruptions
+
+High,	Injuries OR multiple arrests OR widespread closures
+
+🟠 Structured Qualitative
+
+Values may be non-ordered
+
+- May not be mutually exclusive (e.g., a statement can be both deflective and punitive)
+
+- Codebook defines interpretive categories — what a framing or tone looks like
+
+- **Often subjective without strong examples or coder training**
+
+Example rubric for Narrative_Framing:
+
+**Category,	Description,	Example Phrase**
+
+Civil Rights,	Emphasizes student rights, equality	"Free expression is essential"
+
+Security Threat,	Emphasizes danger, policing, disruption	"We must restore order"
+
+Procedural,	Uses neutral, bureaucratic language	"We are reviewing the matter"
+
+---
+
+## 👩‍🏫 Coder Training = Ensuring consistency in how fields are applied
+
+It’s about making sure that:
+
+- Different coders assign the same value to the same input
+
+- The same coder makes consistent decisions over time
+
+- Everyone follows the same definitions and rules from your codebook
+
+🔁 Why It Matters:
+
+- Prevents bias, drift, or random variation in coded data
+
+- Enables reproducibility and inter-coder reliability
+
+- Especially critical for structured qualitative or interpretive ordinal fields (like `Tone`, `Framing`, `Severity_Score`)
+
+🛠️ Coder Training Often Includes:
+
+- Walking through examples together
+
+- Explaining edge cases ("what if it's both civil rights and safety?")
+
+- Double-coding a sample and comparing
+
+- Resolving disagreements with reference to the codebook
+
+✅ Coder Training Checklist
+
+1. Codebook Prep
+
+- All categories defined
+
+- Include clear examples and edge cases
+
+2. Training Set
+
+- Select 5–10 diverse, representative cases
+
+- Include borderline examples
+
+3. Practice Coding
+
+- Have each coder code the same cases independently
+
+4. Compare Results
+
+- Highlight mismatches and discuss reasoning
+
+5. Refine Rules
+
+- Update codebook for clarity
+
+6. Retest if Needed
+
+- Repeat until agreement is high
+
+📊 Measuring Inter-Coder Reliability
+
+🧮 Cohen’s Kappa (for 2 coders)
+
+- Measures agreement adjusted for chance
+
+- Ranges from –1 to 1:
+
+	- < 0.60: Poor
+
+	- 0.60–0.80: Acceptable
+
+	- > 0.80: Strong
+
+Use tools like Excel, Python (sklearn.metrics.cohen_kappa_score), or R to calculate.
+
+🧮 Krippendorff’s Alpha (if >2 coders or mixed data types)
+
+- More flexible, handles missing data
+
+- Same benchmarks as Kappa
+
+
+👤👤 Yes — you can absolutely be both coders.
+
+Solo Coding for Consistency:
+
+When you're the only coder:
+
+- Double-code a subset of incidents at different times (e.g., wait a day or more)
+
+- Blind yourself to your earlier decisions when possible (e.g., hide previous values)
+
+- Compare your own coding to test intra-coder reliability
+
+This still lets you:
+
+- Check for drift over time
+
+- Identify unclear definitions
+
+- Strengthen your codebook
+
+🛠️ Tip:
+
+Use a spreadsheet with hidden columns or versioned YAML files to store your first pass, then code again and compare.
+
