@@ -1,3 +1,94 @@
+
+
+
+# Binary / Boolean
+
+- name: admin_response
+  datatype: boolean
+  role: structured
+  description: Whether any public administrative response occurred
+  options: [true, false]
+
+- name: follow_up_action
+  datatype: boolean
+  role: structured
+  description: Whether any administrative follow-up actions (discipline, policy) were proposed
+  options: [true, false]
+
+  # Nominal Catagorical 
+
+- name: target_group
+  datatype: string
+  role: structured
+  description: Primary identity group affected
+  options: [Jewish, Palestinian, Muslim, Arab, Multiple, Unknown]
+
+- name: media_coverage_level
+  datatype: string
+  role: control
+  description: Extent of public visibility based on press/social media attention
+  options: [Low, Moderate, High]
+
+- name: recourse_offered
+  datatype: string
+  role: structured
+  description: Describes whether the administration offered any actionable path for justice, accountability, or repair.
+  options: [none, counseling/referral, formal investigation, disciplinary process, restorative dialogue, claim of responsibility]
+
+# Ordinal Categorical 
+
+- name: severity_score
+  datatype: string
+  role: structured
+  description: Categorical estimate of harm or risk
+  options: [Low, Moderate, High]
+
+
+- name: admin_response_level
+  datatype: string
+  role: qualitative
+  description: Strength or adequacy of the admin response
+  options: [none, minimal, adequate, strong]
+
+
+- name: tone_of_response
+  datatype: string
+  role: qualitative
+  description: Language tone used by administration
+  options: [Conciliatory, Neutral, Punitive, Dismissive]
+
+
+# Quantitative 
+
+
+- name: latency_days
+  datatype: integer
+  role: derived
+  description: Number of days between incident and first admin response
+
+# Structured Qualitative 
+
+- name: narrative_positioning
+  datatype: string
+  role: qualitative
+  description: How the incident was framed in public or administrative narratives
+
+
+- name: student_tone
+  datatype: string
+  role: qualitative
+  description: Tone or rhetorical framing used by student organizations
+  options: [Rights-based, Accusatory, Conciliatory, Defensive, Escalatory]
+
+# Unstructured Qualitative 
+
+- name: notes
+  datatype: string
+  role: qualitative
+  description: Freeform text summary or contextual annotation
+
+  # Metadata and Utility Fields 
+
 - name: incident_id
   datatype: string
   role: structured
@@ -8,81 +99,15 @@
   role: structured
   description: Date the incident occurred (YYYY-MM-DD)
 
-- name: target_group
-  datatype: string
-  role: structured
-  description: Primary identity group affected
-  options: [Jewish, Palestinian, Muslim, Arab, Multiple, Unknown]
-
-- name: severity_score
-  datatype: string
-  role: structured
-  description: Categorical estimate of harm or risk
-  options: [Low, Moderate, High]
-
-- name: media_coverage_level
-  datatype: string
-  role: control
-  description: Extent of public visibility based on press/social attention
-  options: [Low, Moderate, High]
-
-- name: admin_response
-  datatype: boolean
-  role: structured
-  description: Whether any public administrative response occurred
-  options: [true, false]
-
-- name: admin_response_level
-  datatype: string
-  role: qualitative
-  description: Strength or adequacy of the admin response
-  options: [none, minimal, adequate, strong]
-
-- name: tone_of_response
-  datatype: string
-  role: qualitative
-  description: Language tone used by administration
-  options: [Neutral, Punitive, Conciliatory, Dismissive]
-
-- name: latency_days
-  datatype: integer
-  role: derived
-  description: Number of days between incident and first admin response
-
-- name: follow_up_action
-  datatype: boolean
-  role: structured
-  description: Whether any follow-up actions (discipline, policy) were taken
-  options: [true, false]
-
 - name: source_ids
   datatype: list
   role: structured
   description: List of source identifiers used to document or analyze the incident
 
-- name: notes
-  datatype: string
-  role: qualitative
-  description: Freeform text summary or contextual annotation
-
-- name: tags
+- name: keywords
   datatype: list
   role: structured
-  description: Optional incident tags used for internal organization or search
+  description: Optional incident tags used for filtering and scrape
 
-- name: narrative_positioning
-  datatype: string
-  role: qualitative
-  description: How the incident was framed in public or admin-facing narratives
 
-- name: student_tone
-  datatype: string
-  role: qualitative
-  description: Tone or rhetorical framing used by student organizations
-  options: [Rights-based, Accusatory, Conciliatory, Defensive, Escalatory]
 
-- name: recourse_offered
-  datatype: string
-  role: structured
-  description: Describes whether the administration offered any actionable path for justice, accountability, or repair.
-  options: [none, counseling/referral, formal investigation, disciplinary process, restorative dialogue, public apology]

@@ -17,7 +17,7 @@ This codebook defines all structured and qualitative fields used in the incident
   → `true`, `false`
 
 - **`follow_up_action`**  
-  Whether any follow-up actions (discipline, policy) were taken  
+  Whether any administrative follow-up actions (discipline, policy) were proposed
   → `true`, `false`
 
 ---
@@ -29,12 +29,12 @@ This codebook defines all structured and qualitative fields used in the incident
   → `Jewish`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
 
 - **`media_coverage_level`**  
-  Extent of public visibility based on press/social attention  
+  Extent of public visibility based on press/social media attention  
   → `Low`, `Moderate`, `High`
 
 - **`recourse_offered`**  
   Whether the administration offered any actionable path for justice or accountability  
-  → `none`, `counseling/referral`, `formal investigation`, `disciplinary process`, `restorative dialogue`, `public apology`
+  → `none`, `counseling/referral`, `formal investigation`, `disciplinary process`, `restorative dialogue`, `claim of responsibility`
 
 ---
 
@@ -50,7 +50,7 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`tone_of_response`**  
   Language tone used by administration  
-  → `Neutral`, `Punitive`, `Conciliatory`, `Dismissive`
+  → `Conciliatory`, `Neutral`, `Punitive`,`Dismissive`
 
 ---
 
@@ -95,8 +95,8 @@ This codebook defines all structured and qualitative fields used in the incident
   List of internal source references used for incident documentation  
   → Format: `[DB-001, ADM-014]`
 
-- **`tags`**  
-  Internal-use incident tags for organization or filtering  
+- **`keywords`**  
+  Internal-use incident tags for filtering and scrape
   → Format: `["task-force", "encampment"]`
 
 ---

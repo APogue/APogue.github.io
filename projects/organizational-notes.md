@@ -5,7 +5,7 @@ published: true
 hide_title: false
 author: Alexie Pogue
 date: 2025-3-31 6:41 PM
-updated_date: 2025-4-8 2:41 PM
+updated_date: 2025-4-8 2:43 PM
 ---
 
 I must be unbiased in this study 
@@ -516,6 +516,22 @@ If you do that transparently, then whether your conclusion is yes or no, your wo
 - Replicable
 
 And that makes it powerful.
+
+### Example 
+
+Apply all code definitions in good faith, and the conclusions emerge as a pattern in the analysis phase, not as a coded variable. 
+
+Your coding job is to:
+
+- Apply clear, surface-level criteria (e.g., “acknowledges harm,” “offers services”)
+- Stay rule-based and replicable
+- Avoid judging motives in the data layer
+
+Then, in analysis:
+
+You can write:
+
+"Across 12 incidents affecting Palestinian students, administrative responses consistently used language coded as conciliatory, but avoided naming harm or offering specific recourse — suggesting a pattern of rhetorical response that deflects institutional responsibility, aligning more with reputational safeguarding than material recourse.""
 
 ---
 
