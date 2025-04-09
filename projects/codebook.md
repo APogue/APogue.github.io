@@ -10,6 +10,24 @@ This codebook defines all structured and qualitative fields used in the incident
 
 ---
 
+## 🔹 Metadata & Utility Fields
+
+- **`incident_id`**  
+  Globally unique identifier for each incident (e.g., `INC-001`)
+
+- **`date`**  
+  Date the incident occurred (`YYYY-MM-DD`)
+
+- **`source_ids`**  
+  List of internal source references used for incident documentation  
+  → Format: `[DB-001, ADM-014]`
+
+- **`keywords`**  
+  Internal-use incident tags for filtering and scrape  
+  → Format: `["task-force", "encampment"]`
+
+---
+
 ## 🔹 Binary / Boolean
 
 - **`admin_response`**  
@@ -20,13 +38,26 @@ This codebook defines all structured and qualitative fields used in the incident
   Whether any administrative follow-up actions (discipline, policy) were proposed
   → `true`, `false`
 
+- **`org_affiliated_perpetrator`**  
+  Was the perpetrator affiliated with either a UCLA student org or USAC?  
+  → `true`, `false`
+
+- **`perpetrator_student`**  
+  Was the perpetrator a student at UCLA?  
+  → `true`, `false`
+
+
 ---
 
 ## 🔹 Nominal Categorical
 
 - **`target_group`**  
-  Primary identity group affected  
-  → `Jewish`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
+  Primary identity or identity affiliated with group affected  
+  → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
+
+- **`perpetrator_group`**  
+  Primary identity or identity affiliated with group implicated  
+  → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
 
 - **`media_coverage_level`**  
   Extent of public visibility based on press/social media attention  
@@ -35,6 +66,15 @@ This codebook defines all structured and qualitative fields used in the incident
 - **`recourse_offered`**  
   Whether the administration offered any actionable path for justice or accountability  
   → `none`, `counseling/referral`, `formal investigation`, `disciplinary process`, `restorative dialogue`, `claim of responsibility`
+
+- **`location`**  
+  Location where the incident took place  
+  → `on-campus`, `off-campus`, `other`
+
+- **`incident_policy`**  
+  Did the incident that took place follow campus policy?  
+  → `yes`, `no`, `combination`
+  
 
 ---
 
@@ -81,25 +121,10 @@ This codebook defines all structured and qualitative fields used in the incident
   Freeform summary or contextual annotation  
   → No predefined values
 
----
-
-## 🔹 Metadata & Utility Fields
-
-- **`incident_id`**  
-  Globally unique identifier for each incident (e.g., `INC-001`)
-
-- **`date`**  
-  Date the incident occurred (`YYYY-MM-DD`)
-
-- **`source_ids`**  
-  List of internal source references used for incident documentation  
-  → Format: `[DB-001, ADM-014]`
-
-- **`keywords`**  
-  Internal-use incident tags for filtering and scrape
-  → Format: `["task-force", "encampment"]`
 
 ---
+
+
 
 ## 📊 Field Type Reference
 

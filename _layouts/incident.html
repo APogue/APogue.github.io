@@ -2,12 +2,25 @@
 layout: default
 ---
 
+<p><strong>Title:</strong> {{ page.title }}</p>
+<p><strong>Incident ID:</strong> {{ page.incident_id }}</p>
 <p><strong>Date:</strong> {{ page.date }}</p>
-<p><strong>Target Group:</strong> {{ page.target_group }}</p>
-<p><strong>Severity:</strong> {{ page.severity_score }}</p>
-<p><strong>Admin Response:</strong> {{ page.admin_response_level }}</p>
-<p><strong>Latency:</strong> {{ page.latency_days }} days</p>
-<p><strong>Media Coverage:</strong> {{ page.media_coverage_level }}</p>
+
+<p><strong>Source(s):</strong>
+  <ul>
+    {% for src in page.source_ids %}
+      {% assign source = site.data.sources | where: "id", src | first %}
+      <li>
+        {{ source.title }} –
+        <a href="{{ source.url }}">Original</a>
+        {% if source.file %}
+          | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</p>
+
 <p><strong>Keywords:</strong>
   {% if page.keywords %}
     {{ page.keywords | join: ", " }}
@@ -16,19 +29,22 @@ layout: default
   {% endif %}
 </p>
 
+<p><strong>Admin Response:</strong> {{ page.admin_response }}</p>
+<p><strong>Follow-Up Action:</strong> {{ page.follow_up_action }}</p>
+<p><strong>Org-Affiliated Perpetrator:</strong> {{ page.org_affiliated_perpetrator }}</p>
+<p><strong>Perpetrator is Student:</strong> {{ page.perpetrator_student }}</p>
+<p><strong>Target Group:</strong> {{ page.target_group }}</p>
+<p><strong>Perpetrator Group:</strong> {{ page.perpetrator_group }}</p>
+<p><strong>Media Coverage Level:</strong> {{ page.media_coverage_level }}</p>
+<p><strong>Recourse Offered:</strong> {{ page.recourse_offered }}</p>
+<p><strong>Location:</strong> {{ page.location }}</p>
+<p><strong>Incident Policy:</strong> {{ page.incident_policy }}</p>
+<p><strong>Severity Score:</strong> {{ page.severity_score }}</p>
+<p><strong>Admin Response Level:</strong> {{ page.admin_response_level }}</p>
+<p><strong>Tone of Response:</strong> {{ page['tone-of-response'] }}</p>
+<p><strong>Latency:</strong> {{ page.latency_days }} days</p>
+<p><strong>Narrative Positioning:</strong> {{ page.narrative_positioning }}</p>
+<p><strong>Student Tone:</strong> {{ page.student_tone }}</p>
+
 <h3>Summary</h3>
 {{ content }}
-
-<h3>Sources</h3>
-<ul>
-  {% for src in page.source_ids %}
-    {% assign source = site.data.sources | where: "id", src | first %}
-    <li>
-      {{ source.title }} –
-      <a href="{{ source.url }}">Original</a>
-      {% if source.file %}
-        | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
