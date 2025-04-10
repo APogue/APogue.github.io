@@ -36,16 +36,16 @@
   description: Whether any administrative follow-up actions (discipline, policy) were proposed
   options: [true, false]
 
-- name: org_affiliated_perpetrator
+- name: org_affiliated_actor
   datatype: boolean
   role: structured
-  description: Was the perpetrator affiliated with either a UCLA student org or USAC?
+  description: Was the actor affiliated with either a UCLA student org or USAC?
   options: [true, false]
 
-- name: perpetrator_student
+- name: actor_student
   datatype: boolean
   role: structured
-  description: Was the perpetrator a student at UCLA?
+  description: Was the actor a student at UCLA?
   options: [true, false]
 
 
@@ -54,13 +54,13 @@
 - name: target_group
   datatype: string
   role: structured
-  description: Primary identity or identity affiliated with group affected
+  description: Primary identity or identity affiliated with group targeted or affected
   options: [Jewish, Palestinian, Muslim, Arab, Multiple, Unknown]
 
-- name: perpetrator_group
+- name: actor_group
   datatype: string
   role: structured
-  description: Primary identity or identity affiliated with group implicated
+  description: Primary identity or identity affiliated with acting group
   options: [Jewish, Palestinian, Muslim, Arab, Multiple, Unknown]
 
 - name: media_coverage_level
@@ -69,17 +69,17 @@
   description: Extent of public visibility based on press/social media attention
   options: [Low, Moderate, High]
 
-- name: recourse_offered
+- name: stated_recourse
   datatype: string
   role: structured
-  description: Describes whether the administration offered any actionable path for justice, accountability, or repair.
+  description: Whether the administration offered any actionable path for justice, accountability, or repair
   options: [none, counseling/referral, formal investigation, disciplinary process, restorative dialogue, claim of responsibility]
 
 - name: location 
   datatype: string
   role: structured
   description: Location where incident took place
-  options: [on-campus/on-policy, on-campus/off-policy, off-campus, other]
+  options: [on-campus, off-campus, other]
 
 - name: incident_policy
   datatype: string
@@ -99,8 +99,14 @@
 - name: admin_response_level
   datatype: string
   role: qualitative
-  description: Strength or adequacy of the admin response
+  description: Strength or adequacy of the administrative response
   options: [none, minimal, adequate, strong]
+
+- name: police_involvement
+  datatype: string
+  role: qualitative
+  description: The extent of police involvement 
+  options: [none, intervention, escalation, arrest]
 
 
 - name: tone_of_response

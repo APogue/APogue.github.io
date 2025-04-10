@@ -24,7 +24,7 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`keywords`**  
   Internal-use incident tags for filtering and scrape  
-  → Format: `["task-force", "encampment"]`
+  → Format: `[task-force, encampment]`
 
 ---
 
@@ -35,15 +35,15 @@ This codebook defines all structured and qualitative fields used in the incident
   → `true`, `false`
 
 - **`follow_up_action`**  
-  Whether any administrative follow-up actions (discipline, policy) were proposed
+  Whether any administrative follow-up actions (discipline, policy) were proposed  
   → `true`, `false`
 
-- **`org_affiliated_perpetrator`**  
-  Was the perpetrator affiliated with either a UCLA student org or USAC?  
+- **`org_affiliated_actor`**  
+  Was the actor affiliated with either a UCLA student org or USAC?  
   → `true`, `false`
 
-- **`perpetrator_student`**  
-  Was the perpetrator a student at UCLA?  
+- **`actor_student`**  
+  Was the actor a student at UCLA?  
   → `true`, `false`
 
 
@@ -52,19 +52,19 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Nominal Categorical
 
 - **`target_group`**  
-  Primary identity or identity affiliated with group affected  
+  Primary identity or identity affiliated with group targeted or affected  
   → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
 
-- **`perpetrator_group`**  
-  Primary identity or identity affiliated with group implicated  
+- **`actor_group`**  
+  Primary identity or identity affiliated with acting group   
   → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
 
 - **`media_coverage_level`**  
   Extent of public visibility based on press/social media attention  
   → `Low`, `Moderate`, `High`
 
-- **`recourse_offered`**  
-  Whether the administration offered any actionable path for justice or accountability  
+- **`stated_recourse`**  
+  Whether the administration offered any actionable path for justice, accountability, or repair    
   → `none`, `counseling/referral`, `formal investigation`, `disciplinary process`, `restorative dialogue`, `claim of responsibility`
 
 - **`location`**  
@@ -88,9 +88,13 @@ This codebook defines all structured and qualitative fields used in the incident
   Strength or adequacy of the administrative response  
   → `none`, `minimal`, `adequate`, `strong`
 
+- **`police_involvement`**  
+  The extent of police involvement    
+  → `none`, `intervention`, `escalation`, `arrest`
+
 - **`tone_of_response`**  
   Language tone used by administration  
-  → `Conciliatory`, `Neutral`, `Punitive`,`Dismissive`
+  → `Conciliatory`, `Neutral`, `Punitive`, `Dismissive`
 
 ---
 
