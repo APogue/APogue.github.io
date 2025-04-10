@@ -64,15 +64,15 @@ These keywords are used to surface candidate articles from the Daily Bruin archi
 </ul>
 ---
 
-## Source Types
+## Source Categories 
 
 🔹 Dependent Variable (DV) Sources
 
 - Used to measure administrative behavior, the core outcome of the study.
 
-| Source Type | Description |
+| Category | Description |
 |-------------|-------------|
-| `Admin`     | Official statements, emails, press releases, policy actions — used to code response level, tone, latency, recourse. |
+| `admin`     | Official statements, emails, press releases, policy actions — used to code response level, tone, latency, recourse. |
 
 ---
 
@@ -80,9 +80,9 @@ These keywords are used to surface candidate articles from the Daily Bruin archi
 
 - Used to define and timestamp incidents — the study’s core independent variables.
 
-| Source Type     | Description |
+| Category         | Description |
 |------------------|-------------|
-| `Daily Bruin`    | Core event log; used to define incident inclusion, date, location, and participants. 
+| `daily_bruin`    | Core event log; used to define incident inclusion, date, location, and participants. 
 
 ---
 
@@ -92,10 +92,11 @@ These keywords are used to surface candidate articles from the Daily Bruin archi
 
 - Separate the "standard" sources: everything but media, and list them here. Check each source over every incident. 
 
-| Source Type     | Description |
+| Category         | Description |
 |------------------|-------------|
-| `Student Org`    | Public-facing statements and videos used to code protest tone, intensity, and framing. |
-| `Social Media`   | Public, attributable posts used to assess grassroots visibility or pressure. |
-| `Media`          | Third-party coverage (e.g. LA Times, CNN) used to code `media_coverage_level`. |
-| `Legal`          | OCR complaints, lawsuits — used to code `recourse_offered`, escalation, or external scrutiny. |
-| `Report`         | Task force reports, 3rd party investigations, external studies --- contextualizes behavior from various perspectives. 
+| `student_org`    | Public-facing statements and videos used to code protest tone, intensity, and framing. |
+| `local_blog`     | e.g., LAist or other campus-affiliated publication |
+| `social`         | Public, attributable posts used to assess large-scale visibility or pressure. |
+| `mainstream`     | Big, third-party coverage (e.g. LAT, NYT, CNN) |    
+| `legal`          | OCR complaints, lawsuits — used to code `recourse_offered`, escalation, or external scrutiny. |
+| `report`         | Task force reports, 3rd party investigations, external studies --- contextualizes behavior from various perspectives. 

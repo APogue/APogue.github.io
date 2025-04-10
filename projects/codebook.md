@@ -60,8 +60,10 @@ This codebook defines all structured and qualitative fields used in the incident
   → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
 
 - **`media_coverage_level`**  
-  Extent of public visibility based on press/social media attention  
-  → `Low`, `Moderate`, `High`
+  Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
+  - `low`: ≤ 2 sources (e.g., one student org post + one blog mention)  
+  - `moderate`: 3–5 sources (e.g., student org + LAist + social media)  
+  - `high`: ≥ 6 sources or ≥ 1 mainstream outlet (e.g., LA Times, CNN) or viral spread (≥ 25k views/interactions)
 
 - **`stated_recourse`**  
   Whether the administration offered any actionable path for justice, accountability, or repair    

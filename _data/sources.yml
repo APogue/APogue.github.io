@@ -1,17 +1,26 @@
 - id: DB-001
-  type: Daily Bruin
+  type: daily_bruin
+  category: daily_bruin
   date: 2024-04-02
   title: "Op-ed: Antisemitic imagery at UC Regents meeting protest threatens campus discourse"
   file: sources/DB-001.txt
   url: "https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse"
   used_in: [INC-001]
 
-
 - id: DB-002
-  type: Daily Bruin
+  type: daily_bruin
+  category: daily_bruin
   date: 2024-03-20
   title: "Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1"
   file: sources/DB-002.txt
   url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
   used_in: [INC-002, INC-003]
 
+- id: ADM-001
+  type: Newsroom
+  category: admin
+  date: 2024-03-28
+  title: "Campus condemns antisemitic caricature at UC Regents meeting"
+  file: sources/ADM-001.txt
+  url: "https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting"
+  used_in: [INC-001]

@@ -1028,3 +1028,37 @@ This still lets you:
 
 Use a spreadsheet with hidden columns or versioned YAML files to store your first pass, then code again and compare.
 
+---
+
+## For situations where impactful factors only apply to a few cases
+
+- Mention it narratively in your analysis (e.g., in qualitative comparisons or case highlights)
+- Use it as supporting evidence for explaining why a response may have been stronger, faster, or more defensive
+- Avoid coding it into a formal variable unless you can do so consistently
+
+You can say something like:
+
+In several high-profile cases, such as [INC-012], internal records released by the university revealed a significant volume of public feedback (e.g., hundreds of emails and community letters), suggesting a level of visibility and pressure not captured by external media metrics alone. While this internal engagement was not available across all incidents, its presence in select cases may have amplified administrative responsiveness or public framing.
+
+This maintains scientific transparency and causal discipline without overcoding or biasing your results. You're flagging a potential unmeasured covariate — totally legit (check this across coders, i.e. Claude, etc.)
+
+And in the case where administrative posts go viral: 
+
+Suggested narrative framing (formal tone):
+In a subset of cases, administrative posts themselves became focal points of public engagement. For example, in [INC-014], a university statement posted to social media received over 25,000 views and was widely circulated by students and external media. While such amplification is not present across all incidents, its presence in these select cases likely heightened public awareness and influenced both perception and institutional pressure.
+
+This lets you:
+
+- Flag it as real and meaningful
+- Avoid systematic coding bias if it's rare
+- Still connect it to variation in admin response or incident salience
+
+You're treating it as a qualitative explanatory factor, not a coded metric — which is the right move if it’s only in a few incidents.
+
+
+
+
+
+
+
+

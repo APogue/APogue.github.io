@@ -11,7 +11,8 @@ layout: default
     {% for src in page.source_ids %}
       {% assign source = site.data.sources | where: "id", src | first %}
       <li>
-        {{ source.title }} –
+        {{ source.title }}
+        {% if source.category %} ({{ source.category }}){% endif %} –
         <a href="{{ source.url }}">Original</a>
         {% if source.file %}
           | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
@@ -20,6 +21,7 @@ layout: default
     {% endfor %}
   </ul>
 </p>
+
 
 <p><strong>Keywords:</strong>
   {% if page.keywords %}
