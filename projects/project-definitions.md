@@ -57,11 +57,14 @@ Any campus-affiliated event between Sept 2023 and June 2024 where:
 
 These keywords are used to surface candidate articles from the Daily Bruin archive:
 
-<ul>
-  {% for keyword in site.data.keywords %}
-    <li>{{ keyword }}</li>
-  {% endfor %}
-</ul>
+<div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
+  <ul>
+    {% for keyword in site.data.keywords %}
+      <li>{{ keyword }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
 ---
 
 ## Source Categories 
@@ -70,9 +73,9 @@ These keywords are used to surface candidate articles from the Daily Bruin archi
 
 - Used to measure administrative behavior, the core outcome of the study.
 
-| Category | Description |
-|-------------|-------------|
-| `admin`     | Official statements, emails, press releases, policy actions — used to code response level, tone, latency, recourse. |
+| Prefix | Source Type               | Function in Dataset                                                              |
+|--------|---------------------------|-----------------------------------------------------------------------------------|
+| `ADM`-   | Administrative communications | Used to code administrative response, tone, latency, and stated recourse.        |
 
 ---
 
@@ -80,9 +83,9 @@ These keywords are used to surface candidate articles from the Daily Bruin archi
 
 - Used to define and timestamp incidents — the study’s core independent variables.
 
-| Category         | Description |
-|------------------|-------------|
-| `daily_bruin`    | Core event log; used to define incident inclusion, date, location, and participants. 
+| Prefix | Source Type         | Function in Dataset                                                                 |
+|--------|---------------------|--------------------------------------------------------------------------------------|
+| `DB`-    | Daily Bruin articles | Defines incident inclusion. Used for timing, location, participants, and anchoring events. |
 
 ---
 
@@ -90,13 +93,13 @@ These keywords are used to surface candidate articles from the Daily Bruin archi
 
 - Used to contextualize or explain administrative response — never to define incidents.
 
-- Separate the "standard" sources: everything but media, and list them here. Check each source over every incident. 
+| Prefix | Source Type                         | Function in Dataset   |
+|--------|---------------------------------------------------------------------------------------------------------|
+| `MED`-   | Third-party news media              | Visibility, amplification, and narrative framing (e.g., LA Times, Jewish Journal). |
+| `SOC`-   | Social media posts                  | Public-facing visibility and grassroots traction (e.g., X, Instagram).             |
+| `ORG`-   | Student org materials               | Protest tone, framing, and actor intent.                                           |
+| `LEG`-   | Legal documents                     | Legal escalation, OCR complaints, lawsuits, external review.                       |
+| `RPT`-   | Reports, investigations, or audits  | Institutional context, third-party evaluations, policy framing.                    |
 
-| Category         | Description |
-|------------------|-------------|
-| `student_org`    | Public-facing statements and videos used to code protest tone, intensity, and framing. |
-| `local_blog`     | e.g., LAist or other campus-affiliated publication |
-| `social`         | Public, attributable posts used to assess large-scale visibility or pressure. |
-| `mainstream`     | Big, third-party coverage (e.g. LAT, NYT, CNN) |    
-| `legal`          | OCR complaints, lawsuits — used to code `recourse_offered`, escalation, or external scrutiny. |
-| `report`         | Task force reports, 3rd party investigations, external studies --- contextualizes behavior from various perspectives. 
+
+---

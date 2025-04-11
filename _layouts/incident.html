@@ -10,10 +10,20 @@ layout: default
   <ul>
     {% for src in page.source_ids %}
       {% assign source = site.data.sources | where: "id", src | first %}
+      {% assign prefix = source.id | split: "-" | first %}
       <li>
         {{ source.title }}
-        {% if source.category %} ({{ source.category }}){% endif %} –
-        <a href="{{ source.url }}">Original</a>
+        {% case prefix %}
+          {% when "DB" %}(daily_bruin)
+          {% when "ADM" %}(admin)
+          {% when "MED" %}(media)
+          {% when "SOC" %}(social)
+          {% when "ORG" %}(student_org)
+          {% when "LEG" %}(legal)
+          {% when "RPT" %}(report)
+          {% else %}(unknown)
+        {% endcase %}
+        – <a href="{{ source.url }}">Original</a>
         {% if source.file %}
           | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
         {% endif %}
@@ -21,7 +31,6 @@ layout: default
     {% endfor %}
   </ul>
 </p>
-
 
 <p><strong>Keywords:</strong>
   {% if page.keywords %}

@@ -64,7 +64,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `low`: ≤ 2 sources (e.g., one student org post + one blog mention)  
   - `moderate`: 3–5 sources (e.g., student org + LAist + social media) 
   - `network-amplified`: ≥ 6 sources within a single ecosystem (e.g. Jewish orgs, activist networks), no mainstream pickup
-  - `high`: ≥ 6 sources with **cross-ecosystem** or **mainstream** pickup (e.g., LAT, NYT, CNN) or **viral social media exposure (≥ 25,000 views/interactions)**
+  - `high`: ≥ 6 sources with **cross-ecosystem** or **mainstream** pickup (e.g., LAT, NYT, CNN) or **viral social media exposure (≥ 50,000 views/interactions)**
 
 - **`stated_recourse`**  
   Whether the administration offered any actionable path for justice, accountability, or repair    

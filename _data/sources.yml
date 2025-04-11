@@ -1,26 +1,48 @@
 - id: DB-001
   type: daily_bruin
-  category: daily_bruin
   date: 2024-04-02
   title: "Op-ed: Antisemitic imagery at UC Regents meeting protest threatens campus discourse"
   file: sources/DB-001.txt
   url: "https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse"
   used_in: [INC-001]
 
-- id: DB-002
-  type: daily_bruin
-  category: daily_bruin
-  date: 2024-03-20
-  title: "Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1"
-  file: sources/DB-002.txt
-  url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
-  used_in: [INC-002, INC-003]
-
 - id: ADM-001
-  type: Newsroom
-  category: admin
+  type: newsroom
   date: 2024-03-28
   title: "Campus condemns antisemitic caricature at UC Regents meeting"
   file: sources/ADM-001.txt
   url: "https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting"
   used_in: [INC-001]
+
+- id: MED-001
+  type: jewish_journal
+  date: 2024-03-22
+  title: "UCLA Condemns “Ugly Antisemitic” Pig Display"
+  file: sources/MED-001.txt
+  url: "https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/"
+  used_in: [INC-001]
+
+- id: SOC-001
+  type: X
+  date: 2024-03-28
+  title: "UCLA: A figure depicting Jews as pigs suggesting Jews “prioritize money over lives"
+  file: sources/SOC-001.png
+  url: "https://x.com/IsraelWarRoom/status/1770747992418509214"
+  used_in: [INC-001]
+
+- id: SOC-002
+  type: X
+  date: 2024-03-28
+  title: "ADL Los Angeles Regional Director @JeffreyAbrams addresses the most recent display of antisemitism at a 
+  @UofCalifornia Regents meeting on the @UCLA campus"
+  file: sources/SOC-002.png
+  url: "https://x.com/ADLCalifornia/status/1770899659206058371"
+  used_in: [INC-001]
+
+- id: DB-002
+  type: daily_bruin
+  date: 2024-03-20
+  title: "Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1"
+  file: sources/DB-002.txt
+  url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
+  used_in: [INC-002, INC-003]
