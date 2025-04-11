@@ -62,8 +62,9 @@ This codebook defines all structured and qualitative fields used in the incident
 - **`media_coverage_level`**  
   Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
   - `low`: ≤ 2 sources (e.g., one student org post + one blog mention)  
-  - `moderate`: 3–5 sources (e.g., student org + LAist + social media)  
-  - `high`: ≥ 6 sources or ≥ 1 mainstream outlet (e.g., LA Times, CNN) or viral spread (≥ 25k views/interactions)
+  - `moderate`: 3–5 sources (e.g., student org + LAist + social media) 
+  - `network-amplified`: ≥ 6 sources within a single ecosystem (e.g. Jewish orgs, activist networks), no mainstream pickup
+  - `high`: ≥ 6 sources with **cross-ecosystem** or **mainstream** pickup (e.g., LAT, NYT, CNN) or **viral social media exposure (≥ 25,000 views/interactions)**
 
 - **`stated_recourse`**  
   Whether the administration offered any actionable path for justice, accountability, or repair    
