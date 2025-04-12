@@ -5,8 +5,9 @@ This project documents and analyzes university administrative response to identi
 
 ---
 
-<details>
-<summary>🔧 Project Structure</summary>
+## 🔧 Project Structure
+
+```
 .
 ├── _config.yml
 ├── _incidents/                # One Markdown file per incident (YAML front matter + narrative)
@@ -14,12 +15,12 @@ This project documents and analyzes university administrative response to identi
 ├── _evidence/                 # One YAML file per incident with coded justifications + sources
 │   └── evidence-INC-001.yml
 ├── assets/
-│   └── evidence/             # Screenshots or visual captures tied to incidents
+│   └── evidence/              # Screenshots or visual captures tied to incidents
 │       └── INC-001/
 │           └── montage.png
 ├── _data/                     # Centralized structured data
-│   └── sources.yml           # Source registry (DB-, ADM-, SOC-...)
-│   └── field_definitions.yml # Variable definitions and coding schema
+│   └── sources.yml            # Source registry (DB-, ADM-, SOC-...)
+│   └── field_definitions.yml  # Variable definitions and coding schema
 ├── sources/                   # Actual source documents (PDFs, screenshots, admin emails)
 │   └── DB-045.txt
 │   └── ADM-014.txt
@@ -31,8 +32,7 @@ This project documents and analyzes university administrative response to identi
 ├── _layouts/                  # Custom Jekyll layout for rendering incidents
 │   └── incident.html
 
-</details>
-
+```
 ---
 
 ## 🧱 Folder Purpose
