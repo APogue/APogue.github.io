@@ -32,24 +32,36 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`admin_response`**  
   Whether any public administrative response occurred  
-  → `true`, `false`
-
-- **`follow_up_action`**  
-  Whether any administrative follow-up actions (discipline, policy) were proposed  
-  → `true`, `false`
+  → `true`, `false`  
+  Mark `true` if:  
+  - The incident was referenced explicitly in external administrative communication within 2 weeks of the incident  
 
 - **`org_affiliated_actor`**  
   Was the actor affiliated with either a UCLA student org or USAC?  
-  → `true`, `false`
+  → `true`, `false`  
+  Mark `true` if:  
+  - An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor  
+  - The org publicly endorsed or amplified the act (e.g., repost, montage, statement of support)  
+  *Do not infer membership solely from an individual's participation in an org-associated protest*
 
 - **`actor_student`**  
-  Was the actor a student at UCLA?  
-  → `true`, `false`
-
+  Was the actor a student at UCLA?     
+  → `true`, `false`  
+  Mark `true` if  
+  - There is no assertion of non-affiliation by the Daily Bruin or 3rd party media
 
 ---
 
 ## 🔹 Nominal Categorical
+
+- **`follow_up_action`**  
+  Categorizes the nature of any administrative follow-up action (discipline, policy)  
+  → `none`, `proposed`, `not_specifically_linked`, `n/a`  
+  Use:
+  - `proposed` → A specific follow-up action was proposed **in** the admin response
+  - `not_specifically_linked` → Action was proposed concurrently (to admin response, not event where incident occurred) but not clearly tied to the incident
+  - `none` → Admin response occurred but **did not propose** any follow-up action
+  - `n/a` → No admin response occurred
 
 - **`target_group`**  
   Primary identity or identity affiliated with group targeted or affected  

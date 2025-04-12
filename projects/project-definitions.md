@@ -47,9 +47,13 @@ This page documents the structured fields, inclusion rule, and keyword logic use
 
 Any campus-affiliated event between Sept 2023 and June 2024 where:
 
-- (a) identity-based harassment, exclusion, or violence was alleged  
-- (b) symbolic or physical protest occurred on university grounds  
-- (c) TPM violations or safety breakdowns were documented
+- (a) identity-based harm, exclusion, or discrimination was alleged  
+- (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
+- (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
+
+⚠️ Considerations:
+
+- Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
 
 ---
 
