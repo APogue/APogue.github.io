@@ -5,7 +5,8 @@ This project documents and analyzes university administrative response to identi
 
 ---
 
-## 🔧 Project Structure
+<details>
+<summary>🔧 Project Structure</summary>
 .
 ├── _config.yml
 ├── _incidents/                # One Markdown file per incident (YAML front matter + narrative)
@@ -30,6 +31,7 @@ This project documents and analyzes university administrative response to identi
 ├── _layouts/                  # Custom Jekyll layout for rendering incidents
 │   └── incident.html
 
+</details>
 
 ---
 

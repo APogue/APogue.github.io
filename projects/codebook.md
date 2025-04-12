@@ -30,12 +30,6 @@ This codebook defines all structured and qualitative fields used in the incident
 
 ## 🔹 Binary / Boolean
 
-- **`admin_response`**  
-  Whether any public administrative response occurred  
-  → `true`, `false`  
-  Mark `true` if:  
-  - The incident was referenced explicitly in external administrative communication within 2 weeks of the incident  
-
 - **`org_affiliated_actor`**  
   Was the actor affiliated with either a UCLA student org or USAC?  
   → `true`, `false`  
@@ -53,6 +47,14 @@ This codebook defines all structured and qualitative fields used in the incident
 ---
 
 ## 🔹 Nominal Categorical
+
+- **`admin_response_type`**  
+  Categorizes whether and how the administration responded to the incident  
+  → `incident_specific`, `general_statement`, `none`  
+  Use:
+  - `incident_specific` → The incident was explicitly referenced in an administrative statement or action within 2 weeks  
+  - `general_statement` → A public communication addressed related issues (e.g., antisemitism, protest safety) during the same period but did **not** reference the specific incident  
+  - `none` → No public administrative response occurred within 2 weeks
 
 - **`follow_up_action`**  
   Categorizes the nature of any administrative follow-up action (discipline, policy)  
