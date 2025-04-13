@@ -37,7 +37,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor  
   - The org publicly endorsed or amplified the act (e.g., repost, montage, statement of support)  
   *Do not infer membership solely from an individual's participation in an org-associated protest*
-
+<br><br>
 - **`actor_student`**  
   Was the actor a student at UCLA?     
   → `true`, `false`  
@@ -55,7 +55,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `incident_specific` → The incident was explicitly referenced in an administrative statement or action within 2 weeks  
   - `general_statement` → A public communication addressed related issues (e.g., antisemitism, protest safety) during the same period but did **not** reference the specific incident  
   - `none` → No public administrative response occurred within 2 weeks
-
+<br><br>
 - **`follow_up_action`**  
   Categorizes the nature of any administrative follow-up action (discipline, policy)  
   → `none`, `proposed`, `not_specifically_linked`, `n/a`  
@@ -89,9 +89,13 @@ This codebook defines all structured and qualitative fields used in the incident
   → `on-campus`, `off-campus`, `other`
 
 - **`incident_policy`**  
-  Did the incident that took place follow campus policy?  
-  → `yes`, `no`, `combination`
-  
+  Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination).  
+  → `yes`, `no`, `combination`, `unclear`, `contested`  
+  - `yes` → The incident clearly followed all applicable policies  
+  - `no` → The incident clearly violated at least one applicable policy  
+  - `combination` → The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a **location consistent with university protest guidelines**)  
+  - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
+  - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
 
 ---
 
