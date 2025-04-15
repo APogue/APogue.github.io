@@ -4,7 +4,7 @@ title: "Brainstorming - Administrative calls - USAC"
 published: true
 author: Alexie Pogue
 date: 2025-03-07 12:42 PM
-updated_date: 2025-3-10 8:40 PM
+updated_date: 2025-4-15 2:41 PM
 ---
 
 This file is under administrative calls for attention, a lack of administrative attention can make students feel unsafe. 
@@ -54,3 +54,14 @@ This file is under administrative calls for attention, a lack of administrative 
 - Did all protesting students have this coming? 
 
 	- The person's quote saying that the encampment "had it coming"
+
+
+--- 
+
+(source on law suits and task force reports page) The Committee on Education and the Workforce report does makes references to actual occurrences and cites credible sources (some are politically right-wing but the incidents are credible). Based on how well known USAC and CAC's activity was---Shapiro, the US government, etc. all aware of their activity, it is surprising that they never even attempted to address the associated issues that arose as a result of CAC/USAC's public stance on the October incidents (and beyond). 
+
+Why did Block so willingly chastise the encampment for Jewish "fear" rather than cite the rules that were broken and state an actionable path to either ensure the encampment was functioning in line with campus policy or to disperse and shut it down entirely?
+
+The rules around free speech are fear-agnostic. If rules are broken the violation must be cited explicitly. It is incumbent on the administration to separately address and ameliorate fear that stems from rhetoric, activity, or incidents on campus, for reasons that are two-fold. 1. By totality of circumstances, does the fear meet the Title VI harassment and discrimination standard such that the behavior in question is no longer protected by 1A? 2. Should it not be a policy of the administration to *consistently* address incidents that may inflame tensions or impact student morale? Why when CAC and USAC were partaking in speech that clearly upset Jewish students, did the university not move to address student concerns? And why when CAC and USAC were in breach of campus policy, did the university not immediately state the policy violation and put an end to the offending behavior? 
+
+As the oversight body and mediator, the lack of action taken by the university sought to inflame tensions between students. Then the incorrect action taken when tensions were high, lead to unsafe conditions and violence. 

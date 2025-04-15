@@ -4,8 +4,12 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2025-3-27 7:14 PM
+updated_date: 2025-4-15 2:48 PM
 ---
+
+### OCR Resolution and other letters
+
+- [COMMITTEE ON EDUCATION AND THE WORKFORCE](https://edworkforce.house.gov/uploadedfiles/ucla_final.pdf)
 
 ### Recently added articles 10-24
 
