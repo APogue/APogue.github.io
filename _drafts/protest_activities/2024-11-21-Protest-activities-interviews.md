@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2025-3-8 5:12 PM
+updated_date: 2025-4-15 5:17 PM
 ---
 
 ### Sergio Olmos
@@ -23,6 +23,8 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 - How do you define Zionism? 
 
 ### Hillel (Bella)
+
+- [3rd party IG post](https://www.instagram.com/reel/C4yVx9crpDa/), knowing this was endorsed by SJP and UCLA Divest, did incidents like this cause fear among Jewish students (this feels like a leading question, based on my hypothesis)
 
 - Was the petition to have Verdugo impeached acknowledged by anyone on campus
 
