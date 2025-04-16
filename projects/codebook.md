@@ -75,10 +75,13 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`media_coverage_level`**  
   Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
-  - `low`: ≤ 2 sources (e.g., one student org post + one blog mention)  
-  - `moderate`: 3–5 sources (e.g., student org + LAist + social media) 
-  - `network-amplified`: ≥ 6 sources within a single ecosystem (e.g. Jewish orgs, activist networks), no mainstream pickup
-  - `high`: ≥ 6 sources with **cross-ecosystem** or **mainstream** pickup (e.g., LAT, NYT, CNN) or **viral social media exposure (≥ 50,000 views/interactions)**
+  - `low`: At least 2 internal or niche sources (e.g., org IG + campus newspaper other than DB or reddit r/UCLA), no external visibility  
+  - `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets), no mainstream or outside-community pickup
+  - `moderate`: At least 5 sources **across ecosystems**, including **at least two sources** with general public reach (e.g., LAist, local media)
+  - `high`: At least 5 sources with cross-ecosystem or mainstream pickup (e.g., LAT, NYT, CNN) **or** viral social media exposure (≥ 100k views/interactions)
+
+  Note: 1. Code the **highest qualifying level**. All counts are minimum thresholds. 2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure. This is to ensure that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents or serve as context alongside more serious incidents; where either case may qualify it for mainstream pickup. This media coverage is noted and evaluated separately. 
+
 
 - **`stated_recourse`**  
   Whether the administration offered any actionable path for justice, accountability, or repair    

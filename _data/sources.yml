@@ -46,3 +46,11 @@
   file: sources/DB-002.txt
   url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
   used_in: [INC-002, INC-003]
+
+- id: SOC-003
+  type: IG
+  date: 2024-03-21
+  title: "TODAY at UCLA, Students for Justice in Palestine set up a sculpture depicting Jews [correction, ZIONISTS] as money hungry pigs."
+  file: sources/SOC-003.png
+  url: "https://www.instagram.com/reel/C4yVx9crpDa/"
+  used_in: [INC-001]
