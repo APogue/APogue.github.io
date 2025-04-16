@@ -54,3 +54,11 @@
   file: sources/SOC-003.png
   url: "https://www.instagram.com/reel/C4yVx9crpDa/"
   used_in: [INC-001]
+
+- id: SOC-004
+  type: IG
+  date: 2024-03-20
+  title: "At UCLA today. This is why I'm scared of going to campus as an Israeli Jew."
+  file: sources/SOC-004.png
+  url: "https://www.reddit.com/r/Jewish/comments/1bjq7c4/at_ucla_today_this_is_why_im_scared_of_going_to/"
+  used_in: [INC-001]
