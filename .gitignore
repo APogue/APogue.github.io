@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.replit
+.bundle
+replit.nix
+_config.local.yml"
