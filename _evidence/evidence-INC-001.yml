@@ -1,4 +1,5 @@
 incident_id: INC-001
+
 org_affiliated_actor:
   value: true
   justification: >
@@ -8,3 +9,11 @@ org_affiliated_actor:
   visual_evidence:
   - file: /assets/evidence/INC-001/montage.png
     description: Screenshot of UCLA Divest montage frame featuring pig effigy
+
+severity_score:
+  value: 
+  primary_sources: []
+  secondary_sources: []
+  disputed_by: []
+  notes: >
+    [Brief justification and any conflicting claims.]

@@ -82,7 +82,6 @@ This codebook defines all structured and qualitative fields used in the incident
 
   Note: 1. Code the **highest qualifying level**. All counts are minimum thresholds. 2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure. This is to ensure that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded.
 
-
 - **`stated_recourse`**  
   Whether the administration offered any actionable path for justice, accountability, or repair    
   → `none`, `counseling/referral`, `formal investigation`, `disciplinary process`, `restorative dialogue`, `claim of responsibility`
@@ -105,9 +104,21 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Ordinal Categorical
 
 - **`severity_score`**  
-  Categorical estimate of harm or risk  
-  → `Low`, `Moderate`, `High`
+  The extent of direct harm, credible risk, or disruption caused by the incident to individuals, campus operations, or institutional safety—as observable at the time the incident occurred.
+  - `low`
+    - No credible threat or physical harm.
+    - Any disturbance was brief, self-resolving, and required no monitoring or intervention.
+  - `moderate`
+    - Involved some disruption or localized risk.
+    - Examples: confrontations, non-credible threats, brief space occupation, or minor property damage.
+    - May have prompted police or admin response, but without escalation to force, arrest, or dispersal order.
+  - `high`
+    - Incident caused clear, immediate harm or serious disruption.
+    - Examples: physical violence, credible threats, arrests, dispersal orders, or hospitalization.
+    - Triggered formal institutional action, such as police escalation, campus shutdown, disciplinary measures, or official investigation.
 
+  Note: Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
+  
 - **`admin_response_level`**  
   Strength or adequacy of the administrative response  
   → `none`, `minimal`, `adequate`, `strong`
