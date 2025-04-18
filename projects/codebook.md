@@ -49,20 +49,20 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Nominal Categorical
 
 - **`admin_response_type`**  
-  Categorizes whether and how the administration responded to the incident  
+  Categorizes whether and how the administration publicly acknowledged the incident
   → `incident_specific`, `general_statement`, `none`  
   Use:
-  - `incident_specific` → The incident was explicitly referenced in an administrative statement or action within 2 weeks  
-  - `general_statement` → A public communication addressed related issues (e.g., antisemitism, protest safety) during the same period but did **not** reference the specific incident  
+  - `incident_specific` → The incident was explicitly named or clearly referenced in a public admin statement within 2 weeks 
+  - `general_statement` → A public communication addressed related issues (e.g., protest safety, antisemitism) within 2 weeks but did not mention the incident
   - `none` → No public administrative response occurred within 2 weeks
 <br><br>
 - **`follow_up_action`**  
-  Categorizes the nature of any administrative follow-up action (discipline, policy)  
+  Categorizes the nature of any administrative follow-up action (discipline, investigation, or policy related)  
   → `none`, `proposed`, `not_specifically_linked`, `n/a`  
   Use:
-  - `proposed` → A specific follow-up action was proposed **in** the admin response
-  - `not_specifically_linked` → Action was proposed concurrently (to admin response, not event where incident occurred) but not clearly tied to the incident
-  - `none` → Admin response occurred but **did not propose** any follow-up action
+  - `proposed` → Follow-up action clearly linked to the incident was proposed 
+  - `not_specifically_linked` → Action proposed in the same timeframe (?), but no direct link to incident
+  - `none` → Response occurred, but no action was proposed
   - `n/a` → No admin response occurred
 
 - **`target_group`**  
@@ -92,12 +92,22 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`incident_policy`**  
   Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination).  
-  → `yes`, `no`, `combination`, `unclear`, `contested`  
-  - `yes` → The incident clearly followed all applicable policies  
-  - `no` → The incident clearly violated at least one applicable policy  
+  → `compliant`, `violated`, `combination`, `unclear`, `contested`  
+  - `compliant` → The incident clearly followed all applicable policies  
+  - `violated` → The incident clearly violated at least one applicable policy  
   - `combination` → The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a **location consistent with university protest guidelines**)  
   - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
   - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
+<br><br>
+- **`norm_violation_type`**
+  Categorizes the type of institutional or ethical norm potentially violated by the incident.
+  - `none`  → No discernible norm violation.
+  - `TPM_violation`  → Breach of Time, Place, and Manner policies (e.g., unpermitted amplification, obstruction, disruption as defined in policy).
+  - `resource_misuse`  → Misuse of university-allocated resources (e.g., student fee funding, exclusive use of shared spaces, improper access to facilities).
+  - `admin_policy_failure`  → The university failed to follow or uphold its own stated policies or procedures in relation to the incident (e.g., did not enforce relevant rules, bypassed due process, failed to intervene when policy clearly applied).
+  - `student_policy_failure`  → A student organization or governing body failed to follow its own published rules or commitments (e.g., violated non-exclusivity, misused funds, failed to follow internal procedures).
+  - `bias/discrimination`  → Incident involved or was alleged to involve identity-based exclusion, hate speech, retaliation, or targeted harassment.
+  - `multiple`  → More than one norm violation type applies.
 
 ---
 
@@ -109,19 +119,22 @@ This codebook defines all structured and qualitative fields used in the incident
     - No credible threat or physical harm.
     - Any disturbance was brief, self-resolving, and required no monitoring or intervention.
   - `moderate`
-    - Involved some disruption or localized risk.
-    - Examples: confrontations, non-credible threats, brief space occupation, or minor property damage.
-    - May have prompted police or admin response, but without escalation to force, arrest, or dispersal order.
+    - Some disruption or localized risk. Examples: confrontations, non-credible threats, brief space occupation, or minor property damage.
+    - May have prompted police or admin response, but no formal escalation (e.g., no dispersal order, use of force, arrest).
+  - `elevated`
+    - Institutional escalation without confirmed harm. Examples: dispersal order issued, event shutdown, or police mobilization—but no arrests, injuries, or force used.
+    - Used when admin or police took significant preventive action despite limited or ambiguous actual risk.
   - `high`
-    - Incident caused clear, immediate harm or serious disruption.
-    - Examples: physical violence, credible threats, arrests, dispersal orders, or hospitalization.
-    - Triggered formal institutional action, such as police escalation, campus shutdown, disciplinary measures, or official investigation.
+    - Clear, immediate harm or serious disruption. Examples: physical violence, credible threats, arrests, dispersal orders with enforcement, or hospitalization.
+    - Triggered formal institutional responses: investigation, discipline, shutdown, or use of force.
 
-  Note: Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
+  Note: 1. Lack of administrative follow-up affects response variables, not severity. 2. Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
   
 - **`admin_response_level`**  
   Strength or adequacy of the administrative response  
   → `none`, `minimal`, `adequate`, `strong`
+
+  Note: This is a holistic rating based on response_type, follow_up_action, and stated_recourse. Use manual judgment to upgrade/downgrade based on timing, tone, and proportionality.
 
 - **`police_involvement`**  
   The extent of police involvement    
@@ -146,7 +159,7 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`narrative_positioning`**  
   How the incident was framed in public or administrative narratives  
-  → *(e.g., civil rights, security threat, procedural neutrality)*
+  → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
 
 - **`student_tone`**  
   Tone or rhetorical framing used by student organizations  
