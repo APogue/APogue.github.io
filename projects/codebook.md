@@ -42,7 +42,7 @@ This codebook defines all structured and qualitative fields used in the incident
   Was the actor a student at UCLA?     
   → `true`, `false`  
   Mark `true` if  
-  - There is no assertion of non-affiliation by the Daily Bruin or 3rd party media
+  - There is no assertion of non-affiliation by the Daily Bruin or 3rd party media 
 
 ---
 
@@ -56,14 +56,24 @@ This codebook defines all structured and qualitative fields used in the incident
   - `general_statement` → A public communication addressed related issues (e.g., protest safety, antisemitism) within 2 weeks but did not mention the incident
   - `none` → No public administrative response occurred within 2 weeks
 <br><br>
-- **`follow_up_action`**  
-  Categorizes the nature of any administrative follow-up action (discipline, investigation, or policy related)  
-  → `none`, `proposed`, `not_specifically_linked`, `n/a`  
+- **`accountability_follow_up`**  
+  Categorizes the nature of any administrative follow-up action (disciplinary process, formal investigation) to hold offending actors accountable  
+  → `none`, `proposed`, `n/a`  
   Use:
-  - `proposed` → Follow-up action clearly linked to the incident was proposed 
-  - `not_specifically_linked` → Action proposed in the same timeframe (?), but no direct link to incident
+  - `proposed` → Follow-up action was proposed 
   - `none` → Response occurred, but no action was proposed
-  - `n/a` → No admin response occurred
+  - `n/a` → No admin response occurred  
+
+  Note: This variable captures what the administration **explicitly named or offered** in communications. It does *not* confirm whether actions were completed. Actions initiated by students are credited to functioning accountability systems (e.g., reporting to EDI office) and are **not** coded. This variable isolates **administrative discretion** and reflects whether university leadership publicly acknowledged a duty to act.
+
+- **`admin_support_offered`**  
+  Whether there was supportive language included in an administrative response to assist students who may require justice, accountability, or repair  
+  → `n/a`, `none`, `counseling/referral`, `violation_warning`, `campus_climate_initiative`
+  - `counseling/referral` → Students were directed to services such as CAPS, ombuds, or external reporting channels (e.g., UCPD, Title IX office)
+  - `violation_warning` → Admin issued a statement referencing applicable university rules, laws, or policies, and explicitly warned students or groups about possible violations or consequences
+  - `campus_climate_initiative` → Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
+  - `none` → An administrative response occurred, but no support was offered
+  - `n/a` → No admin response occurred 
 
 - **`target_group`**  
   Primary identity or identity affiliated with group targeted or affected  
@@ -81,10 +91,6 @@ This codebook defines all structured and qualitative fields used in the incident
   - `high`: At least 5 sources with cross-ecosystem or mainstream pickup (e.g., LAT, NYT, CNN) **or** viral social media exposure (≥ 100k views/interactions)
 
   Note: 1. Code the **highest qualifying level**. All counts are minimum thresholds. 2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure. This is to ensure that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded.
-
-- **`stated_recourse`**  
-  Whether the administration offered any actionable path for justice, accountability, or repair    
-  → `none`, `counseling/referral`, `formal investigation`, `disciplinary process`, `restorative dialogue`, `claim of responsibility`
 
 - **`location`**  
   Location where the incident took place  
@@ -130,12 +136,6 @@ This codebook defines all structured and qualitative fields used in the incident
 
   Note: 1. Lack of administrative follow-up affects response variables, not severity. 2. Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
   
-- **`admin_response_level`**  
-  Strength or adequacy of the administrative response  
-  → `none`, `minimal`, `adequate`, `strong`
-
-  Note: This is a holistic rating based on response_type, follow_up_action, and stated_recourse. Use manual judgment to upgrade/downgrade based on timing, tone, and proportionality.
-
 - **`police_involvement`**  
   The extent of police involvement    
   → `none`, `intervention`, `escalation`, `arrest`
@@ -176,7 +176,20 @@ This codebook defines all structured and qualitative fields used in the incident
 
 ---
 
+## Automated Logic (Baseline)
 
+- **`admin_response_level`**  (Derived)
+  Strength or adequacy of the administrative response  
+  → `none`, `minimal`, `adequate`, `strong`
+
+| `admin_response_level` | `admin_response_type`   | `accountability_follow_up`      | `admin_support_offered`                                           |
+|------------------------------------|--------------------------|----------------------------------|-------------------------------------------------------------------|
+| `none`                             | `none`                   | `n/a`                            | `n/a`                                                   |
+| `minimal`                          | `general_statement`      | `none`                           | `none`                                                            |
+| `adequate`                         | `incident_specific`      | `proposed`| **Any one** of: `counseling/referral`, `campus_climate_initiative`, or `violation_warning` |
+| `strong`                           | `incident_specific`      | `proposed`                       | **Any two or more** of: `counseling/referral`, `campus_climate_initiative`, `violation_warning` |
+
+  Note: If two or more options reside on a response level, that is the designated level. E.g. if `admin_response_type` = `incident_specific` but both `accountability_follow_up` and `admin_support_offered` = `none`, downgrade to `minimal` by manual override. This captures purely symbolic responses.
 
 ## 📊 Field Type Reference
 
