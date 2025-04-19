@@ -4,12 +4,16 @@ title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue
 date: 2024-10-24 5:08 PM
-updated_date: 2025-4-15 2:48 PM
+updated_date: 2025-4-19 2:00 PM
 ---
 
 ### OCR Resolution and other letters
 
 - [COMMITTEE ON EDUCATION AND THE WORKFORCE](https://edworkforce.house.gov/uploadedfiles/ucla_final.pdf)
+
+- [University of California, Los Angeles - OCR Case Number 09-19-2070 ](https://ocrcas.ed.gov/sites/default/files/ocr-letters-and-agreements/09192070-a.pdf)
+
+- [RESOLUTION AGREEMENT The University of California (the University)](https://ocrcas.ed.gov/sites/default/files/ocr-letters-and-agreements/09222257-b.pdf)
 
 ### Recently added articles 10-24
 

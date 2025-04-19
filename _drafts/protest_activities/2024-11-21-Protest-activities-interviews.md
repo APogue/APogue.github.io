@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2025-4-15 5:17 PM
+updated_date: 2025-4-19 2:15 PM
 ---
 
 ### Sergio Olmos
@@ -23,6 +23,10 @@ LAPD reported that they did not have sufficient personnel on hand to intervene u
 - How do you define Zionism? 
 
 ### Hillel (Bella)
+
+- Some universities have explored incident-responsive restorative dialogue as a way to address harm and rebuild trust between student communities after tense or discriminatory events. Do you think that’s something you or your peers at Hillel would be open to participating in—when appropriate—or is there more comfort in addressing incidents within your own community or through parallel processes—like holding your own community discussions, working directly with administrators, or issuing statements separately—without engaging directly with groups on the other side of the conflict?
+
+    Do you see potential value in cross-community conversations after major campus incidents, or is the priority right now more about internal safety and healing?
 
 - [3rd party IG post](https://www.instagram.com/reel/C4yVx9crpDa/), knowing this was endorsed by SJP and UCLA Divest, did incidents like this cause fear among Jewish students (this feels like a leading question, based on my hypothesis)
 
