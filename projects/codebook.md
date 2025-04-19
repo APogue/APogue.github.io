@@ -57,7 +57,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `none` → No public administrative response occurred within 2 weeks
 <br><br>
 - **`accountability_follow_up`**  
-  Categorizes the nature of any administrative follow-up action (disciplinary process, formal and/or police investigation) to hold offending actors accountable  
+  Categorizes the nature of any administrative follow-up action (disciplinary process, civil and/or police investigation) to hold offending actors accountable  
   → `none`, `proposed`, `n/a`  
   Use:
   - `proposed` → Follow-up action was proposed 
@@ -109,31 +109,31 @@ This codebook defines all structured and qualitative fields used in the incident
 
   Note: This is a temporal indicator
 
-- **`policy_violation_type`** 
-  What type of formal university policy was violated, if any
+- **`policy_violation_type`**  
+  What type of formal university policy was violated, if any  
   → `TPM_policy`, `student_conduct`, `anti_discrimination`, `non-affiliate`, `combination`, `none`
   - `TPM_policy` → Breach of Time, Place, and Manner policies (e.g., unpermitted amplification, obstruction, disruption as defined in policy)
   - `student_conduct` → Code of conduct violations by individuals or groups  
   - `anti_discrimination` → Incident involved or was alleged to involve identity-based exclusion, hate speech, retaliation, or targeted harassment  
   - `non-affiliate` → Non-affiliate conduct violations by individuals or groups
-  - `combination` → Policy violation not covered by above categories  
+  - `combination` → Violated a combination of above categories  
   - `none` → No violation occurred (use if `incident_policy_status: compliant`)
   
   Note: This is a qualitative indicator
 
 - **`norm_violation_type`**  
-  What type of institutional or ethical norm was undermined, regardless of policy status
+  What type of institutional or ethical norm was undermined, regardless of policy status  
   → `bias/discrimination`, `admin_policy_failure`, `student_policy_failure`, `resource_misuse`, `community_harm`, `individual_harm`, `none`, `multiple`
   - `bias/discrimination` → Incident involved or was alleged to involve identity-based exclusion, derogatory expression, retaliation, or targeted behavior perceived as hostile toward a protected group 
   - `admin_policy_failure` → The university failed to follow or uphold its own stated policies or procedures in relation to the incident (e.g., did not enforce relevant rules, bypassed due process, failed to intervene when policy clearly applied)
   - `student_policy_failure` → A student organization or governing body failed to follow its own published rules or commitments (e.g., violated non-exclusivity, misused funds, failed to follow internal procedures)  
   - `resource_misuse` → Misuse of university-allocated resources (e.g., student fee funding, exclusive use of shared spaces, improper access to facilities)  
-  - `community_harm` → Generalized disruption or cultural damage not otherwise classified  
-  - `individual_harm` → Bullying, physical aggression, non-credible threats, hostility 
+  - `community_harm` → Cultural damage or damage to group morale caused by disruptive acts having impact on a large-scale (e.g. impromptu chants by groups of students in classroom hallways) 
+  - `individual_harm` → Bullying, physical aggression, hostility, non-credible threats
   - `none` → No discernible norm was violated  
   - `multiple` → More than one norm violation applies
 
-  Note: An institutional norm violation means an incident that undermines or contradicts the core values, expectations, or ethical standards of the institution—even if no specific written policy was technically broken. It captures harm or dysfunction beyond technical rules—the kinds of things that erode trust, equity, or accountability within a campus community. It’s what the university is supposed to stand for, even if it's not always written down neatly. Looking for soft failures (e.g., passive admin neglect), structural problems (e.g., uneven enforcement), moral or reputational failures, and/or institutional and organizational responsibility to self-regulate (e.g. self-governance failures). 
+  Note: An institutional norm violation means an incident that undermines or contradicts the core values, expectations, or ethical standards of the institution—even if no specific written policy was technically broken. It captures harm or dysfunction beyond technical rules—the kinds of things that erode trust, equity, or accountability within a campus community. It’s what the university is supposed to stand for, even if it's not always written down neatly. Looking for soft failures (e.g., passive admin neglect), structural problems (e.g., uneven enforcement), moral or reputational failures, and/or institutional and organizational responsibility to self-regulate (e.g. self-governance failures). Tracking these violations may also contribute to hostile environment by totality of circumstances (a case for report submission even when a single incident that doesn't meet the school or federal policy violation threshold occurs). 
 
 ---
 
@@ -142,19 +142,19 @@ This codebook defines all structured and qualitative fields used in the incident
 - **`severity_score`**  
   The extent of direct harm, credible risk, or disruption caused by the incident to individuals, campus operations, or institutional safety—as observable at the time the incident occurred.
   - `low`
-    - No credible threat or physical harm.
-    - Any disturbance was brief, self-resolving, and required no monitoring or intervention.
+    - No credible threat or physical harm
+    - Any disturbance was brief, self-resolving, and required no monitoring or intervention
   - `moderate`
-    - Some disruption or localized risk. Examples: confrontations, non-credible threats, brief space occupation, or minor property damage.
-    - May have prompted police or admin response, but no formal escalation (e.g., no dispersal order, use of force, arrest).
+    - Some disruption or localized risk. Examples: confrontations, non-credible threats, brief space occupation, or minor property damage
+    - May have prompted police or admin response, but no formal escalation (e.g., no dispersal order, use of force, arrest)
   - `elevated`
-    - Institutional escalation without confirmed harm. Examples: dispersal order issued, event shutdown, or police mobilization—but no arrests, injuries, or force used.
-    - Used when admin or police took significant preventive action despite limited or ambiguous actual risk.
+    - Institutional escalation without confirmed harm. Examples: dispersal order issued, event shutdown, or police mobilization—but no arrests, injuries, or force used
+    - Used when admin or police took significant preventive action despite limited or ambiguous actual risk
   - `high`
-    - Clear, immediate harm or serious disruption. Examples: physical violence, credible threats, arrests, dispersal orders with enforcement, or hospitalization.
-    - Triggered formal institutional responses: investigation, discipline, shutdown, or use of force.
+    - Clear, immediate harm or serious disruption. Examples: physical violence, credible threats, arrests, dispersal orders with enforcement, or hospitalization
+    - Triggered formal institutional responses: investigation, discipline, shutdown, or use of force
 
-  Note: 1. Lack of administrative follow-up affects response variables, not severity. 2. Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
+  Note: 1. Lack of administrative action affects response variables, not severity (severity is an IV). 2. Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
   
 - **`police_involvement`**  
   The extent of police involvement    
