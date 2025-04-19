@@ -49,7 +49,7 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Nominal Categorical
 
 - **`admin_response_type`**  
-  Categorizes whether and how the administration publicly acknowledged the incident
+  Categorizes whether and how the administration publicly acknowledged the incident  
   → `incident_specific`, `general_statement`, `none`  
   Use:
   - `incident_specific` → The incident was explicitly named or clearly referenced in a public admin statement within 2 weeks 
@@ -57,7 +57,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `none` → No public administrative response occurred within 2 weeks
 <br><br>
 - **`accountability_follow_up`**  
-  Categorizes the nature of any administrative follow-up action (disciplinary process, formal investigation) to hold offending actors accountable  
+  Categorizes the nature of any administrative follow-up action (disciplinary process, formal and/or police investigation) to hold offending actors accountable  
   → `none`, `proposed`, `n/a`  
   Use:
   - `proposed` → Follow-up action was proposed 
@@ -75,6 +75,8 @@ This codebook defines all structured and qualitative fields used in the incident
   - `none` → An administrative response occurred, but no support was offered
   - `n/a` → No admin response occurred 
 
+  Note: While policy may mot compel administrators to seek "justice" after the fact, is it an administrative failure when it is known that policies are being broken and nothing is done after the fact to ensure policies are not broken in the future? 
+
 - **`target_group`**  
   Primary identity or identity affiliated with group targeted or affected  
   → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
@@ -90,13 +92,13 @@ This codebook defines all structured and qualitative fields used in the incident
   - `moderate`: At least 5 sources **across ecosystems**, including **at least two sources** with general public reach (e.g., LAist, local media)
   - `high`: At least 5 sources with cross-ecosystem or mainstream pickup (e.g., LAT, NYT, CNN) **or** viral social media exposure (≥ 100k views/interactions)
 
-  Note: 1. Code the **highest qualifying level**. All counts are minimum thresholds. 2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure. This is to ensure that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded.
+  Note: 1. Code the **highest qualifying level**. All counts are minimum thresholds. 2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure and that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded.
 
 - **`location`**  
   Location where the incident took place  
   → `on-campus`, `off-campus`, `other`
 
-- **`incident_policy`**  
+- **`policy_status`**  
   Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination).  
   → `compliant`, `violated`, `combination`, `unclear`, `contested`  
   - `compliant` → The incident clearly followed all applicable policies  
@@ -104,16 +106,34 @@ This codebook defines all structured and qualitative fields used in the incident
   - `combination` → The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a **location consistent with university protest guidelines**)  
   - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
   - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
-<br><br>
-- **`norm_violation_type`**
-  Categorizes the type of institutional or ethical norm potentially violated by the incident.
-  - `none`  → No discernible norm violation.
-  - `TPM_violation`  → Breach of Time, Place, and Manner policies (e.g., unpermitted amplification, obstruction, disruption as defined in policy).
-  - `resource_misuse`  → Misuse of university-allocated resources (e.g., student fee funding, exclusive use of shared spaces, improper access to facilities).
-  - `admin_policy_failure`  → The university failed to follow or uphold its own stated policies or procedures in relation to the incident (e.g., did not enforce relevant rules, bypassed due process, failed to intervene when policy clearly applied).
-  - `student_policy_failure`  → A student organization or governing body failed to follow its own published rules or commitments (e.g., violated non-exclusivity, misused funds, failed to follow internal procedures).
-  - `bias/discrimination`  → Incident involved or was alleged to involve identity-based exclusion, hate speech, retaliation, or targeted harassment.
-  - `multiple`  → More than one norm violation type applies.
+
+  Note: This is a temporal indicator
+
+- **`policy_violation_type`** 
+  What type of formal university policy was violated, if any
+  → `TPM_policy`, `student_conduct`, `anti_discrimination`, `non-affiliate`, `combination`, `none`
+  - `TPM_policy` → Breach of Time, Place, and Manner policies (e.g., unpermitted amplification, obstruction, disruption as defined in policy)
+  - `student_conduct` → Code of conduct violations by individuals or groups  
+  - `anti_discrimination` → Incident involved or was alleged to involve identity-based exclusion, hate speech, retaliation, or targeted harassment  
+  - `non-affiliate` → Non-affiliate conduct violations by individuals or groups
+  - `combination` → Policy violation not covered by above categories  
+  - `none` → No violation occurred (use if `incident_policy_status: compliant`)
+  
+  Note: This is a qualitative indicator
+
+- **`norm_violation_type`**  
+  What type of institutional or ethical norm was undermined, regardless of policy status
+  → `bias/discrimination`, `admin_policy_failure`, `student_policy_failure`, `resource_misuse`, `community_harm`, `individual_harm`, `none`, `multiple`
+  - `bias/discrimination` → Incident involved or was alleged to involve identity-based exclusion, derogatory expression, retaliation, or targeted behavior perceived as hostile toward a protected group 
+  - `admin_policy_failure` → The university failed to follow or uphold its own stated policies or procedures in relation to the incident (e.g., did not enforce relevant rules, bypassed due process, failed to intervene when policy clearly applied)
+  - `student_policy_failure` → A student organization or governing body failed to follow its own published rules or commitments (e.g., violated non-exclusivity, misused funds, failed to follow internal procedures)  
+  - `resource_misuse` → Misuse of university-allocated resources (e.g., student fee funding, exclusive use of shared spaces, improper access to facilities)  
+  - `community_harm` → Generalized disruption or cultural damage not otherwise classified  
+  - `individual_harm` → Bullying, physical aggression, non-credible threats, hostility 
+  - `none` → No discernible norm was violated  
+  - `multiple` → More than one norm violation applies
+
+  Note: An institutional norm violation means an incident that undermines or contradicts the core values, expectations, or ethical standards of the institution—even if no specific written policy was technically broken. It captures harm or dysfunction beyond technical rules—the kinds of things that erode trust, equity, or accountability within a campus community. It’s what the university is supposed to stand for, even if it's not always written down neatly. Looking for soft failures (e.g., passive admin neglect), structural problems (e.g., uneven enforcement), moral or reputational failures, and/or institutional and organizational responsibility to self-regulate (e.g. self-governance failures). 
 
 ---
 
