@@ -107,7 +107,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
   - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
 
-  Note: This is a temporal indicator
+  Note: This can serve as a temporal indicator. It's also helpful to indicate when other variables, e.g. `accountability_follow_up`, are `none` or `n/a`, that there was no administrative failure if no violation occurred. 
 
 - **`policy_violation_type`**  
   What type of formal university policy was violated, if any  
@@ -119,7 +119,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `combination` → Violated a combination of above categories  
   - `none` → No violation occurred (use if `incident_policy_status: compliant`)
   
-  Note: This is a qualitative indicator
+  Note: This is a qualitative indicator. 
 
 - **`norm_violation_type`**  
   What type of institutional or ethical norm was undermined, regardless of policy status  
