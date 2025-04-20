@@ -160,9 +160,6 @@ This codebook defines all structured and qualitative fields used in the incident
   The extent of police involvement    
   → `none`, `intervention`, `escalation`, `arrest`
 
-- **`tone_of_response`**  
-  Language tone used by administration  
-  → `Conciliatory`, `Neutral`, `Punitive`, `Dismissive`
 
 ---
 
@@ -177,14 +174,43 @@ This codebook defines all structured and qualitative fields used in the incident
 
 ## 🔹 Structured Qualitative
 
-- **`narrative_positioning`**  
-  How the incident was framed in public or administrative narratives  
-  → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
+- **`administrative_tone`**  
+  Language tone used by administration  
+  → `conciliatory`, `neutral`, `condemnation`, `dismissive`  
+  - `conciliatory`→ Emphasizes understanding, healing, or shared community values
+  - `neutral`→ Procedural, factual, or non-emotive
+  - `dismissive`→ Uses vague or generic language lacking in specifics about the incident
+  - `condemnation`→ Denunciation of behavior framed as morally wrong or violating core values 
+  - `combination` → Combination of the above 
+
+  Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as a pro-Palestinian demonstrator in a single statement
 
 - **`student_tone`**  
   Tone or rhetorical framing used by student organizations  
   → `Rights-based`, `Accusatory`, `Conciliatory`, `Defensive`, `Escalatory`
 
+- **`institutional_positioning`**  
+  How the incident was framed in administrative narratives  
+  → `civil_rights`, `safety/security_threat`, `policy_violation`, `n/a`  
+  - `civil_rights` → Framed as implicating legal, civil, or moral rights—such as free expression, equal protection, religious freedom, or protection from discrimination
+  - `safety/security_threat` → Framed as endangering physical safety, campus security, or public order. Applies when the narrative cites threats of violence, disruption of operations, or the need for law enforcement or protective measures to maintain control
+  - `policy_violation` → Framed as an infraction of established university rules, codes of conduct, or procedural guidelines (e.g. TPM restrictions, unauthorized signage, disruption of campus operations)
+  - `none` → No discernible narrative frame was offered in relation to the incident
+  - `n/a` → No admin response occurred 
+
+
+
+Framed as threatening safety, public order, or requiring protection/intervention.
+
+
+
+- **`media_positioning`**  
+  How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
+  → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
+
+- **`student_positioning`**  
+  How the incident was framed in the narratives of students or organizations directly involved in the incident  
+  → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
 ---
 
 ## 🔹 Unstructured Qualitative
