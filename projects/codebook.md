@@ -179,7 +179,7 @@ This codebook defines all structured and qualitative fields used in the incident
   → `conciliatory`, `neutral`, `condemnation`, `dismissive`  
   - `conciliatory`→ Emphasizes understanding, healing, or shared community values
   - `neutral`→ Procedural, factual, or non-emotive
-  - `dismissive`→ Uses vague or generic language lacking in specifics about the incident
+  - `dismissive`→ Uses vague or generic language that fails to address specific incidents, behaviors, or groups, even when details are available or of public concern
   - `condemnation`→ Denunciation of behavior framed as morally wrong or violating core values 
   - `combination` → Combination of the above 
 
