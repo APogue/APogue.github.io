@@ -178,7 +178,7 @@ This codebook defines all structured and qualitative fields used in the incident
   Language tone used by administration  
   → `conciliatory`, `neutral`, `condemnation`, `dismissive`  
   - `conciliatory`→ Emphasizes understanding, healing, or shared community values
-  - `neutral`→ Procedural, factual, or non-emotive
+  - `neutral`→ Relies on procedural or factual language without overt emotional or moral framing
   - `dismissive`→ Uses vague or generic language that fails to address specific incidents, behaviors, or groups, even when details are available or of public concern
   - `condemnation`→ Denunciation of behavior framed as morally wrong or violating core values 
   - `combination` → Combination of the above 
