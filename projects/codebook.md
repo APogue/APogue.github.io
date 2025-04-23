@@ -87,6 +87,7 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`media_coverage_level`**  
   Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
+  - `none`: Fewer than 2 sources
   - `low`: At least 2 internal or niche sources (e.g., org IG + campus newspaper other than DB or reddit r/UCLA), no external visibility  
   - `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets), no mainstream or outside-community pickup
   - `moderate`: At least 5 sources **across ecosystems**, including **at least two sources** with general public reach (e.g., LAist, local media)
@@ -177,13 +178,13 @@ This codebook defines all structured and qualitative fields used in the incident
 - **`administrative_tone`**  
   Language tone used by administration  
   → `conciliatory`, `neutral`, `condemnation`, `dismissive`  
-  - `conciliatory`→ Emphasizes understanding, healing, or shared community values
-  - `neutral`→ Relies on procedural or factual language without overt emotional or moral framing
-  - `dismissive`→ Uses vague or generic language that fails to address specific incidents, behaviors, or groups, even when details are available or of public concern
-  - `condemnation`→ Denunciation of behavior framed as morally wrong or violating core values 
-  - `combination` → Combination of the above 
+  - `conciliatory`→ Expresses empathy, acknowledges difficulties or distress, and emphasizes community values or healing
+  - `neutral`→ Uses factual, procedural, or objective language regarding rules or policy without overt emotional or moral framing
+  - `dismissive`→ Uses vague or generic language when attributing responsibility or identifying actors, even when detailed information is publicly available
+  - `condemnation`→ Denounces specific behavior as morally wrong, harmful, or against institutional standards or values
+  - `combination` → Exhibits multiple tones in distinct parts of the response 
 
-  Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as a pro-Palestinian demonstrator in a single statement
+  Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. 
 
 - **`student_tone`**  
   Tone or rhetorical framing used by student organizations  

@@ -6,6 +6,22 @@
   url: "https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse"
   used_in: [INC-001]
 
+- id: DB-002
+  type: daily_bruin
+  date: 2024-03-20
+  title: "Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1"
+  file: sources/DB-002.txt
+  url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
+  used_in: [INC-002, INC-003]
+
+- id: DB-003
+  type: daily_bruin
+  date: 2024-04-30
+  title: "UCPD responds to counter-protesters’ midnight attempt to breach encampment"
+  file: sources/DB-003.txt
+  url: "https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment"
+  used_in: [INC-004]
+
 - id: ADM-001
   type: newsroom
   date: 2024-03-28
@@ -13,6 +29,22 @@
   file: sources/ADM-001.txt
   url: "https://newsroom.ucla.edu/campus-condemns-antisemitic-caricature-at-uc-regents-meeting"
   used_in: [INC-001]
+
+- id: ADM-002
+  type: newsroom
+  date: 2024-04-30
+  title: "UCLA statement on demonstrations"
+  file: sources/ADM-002.txt
+  url: "https://newsroom.ucla.edu/ucla-statement-on-demonstrations-april-30"
+  used_in: [INC-004]
+
+- id: ADM-003
+  type: chancellor
+  date: 2024-04-30
+  title: "Affirming our values in a challenging time"
+  file: sources/ADM-003.txt
+  url: "https://chancellor.ucla.edu/messages/affirming-our-values-in-a-challenging-time"
+  used_in: [INC-004]
 
 - id: MED-001
   type: jewish_journal
@@ -38,14 +70,6 @@
   file: sources/SOC-002.png
   url: "https://x.com/ADLCalifornia/status/1770899659206058371"
   used_in: [INC-001]
-
-- id: DB-002
-  type: daily_bruin
-  date: 2024-03-20
-  title: "Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1"
-  file: sources/DB-002.txt
-  url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
-  used_in: [INC-002, INC-003]
 
 - id: SOC-003
   type: IG
