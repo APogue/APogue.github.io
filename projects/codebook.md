@@ -161,7 +161,6 @@ This codebook defines all structured and qualitative fields used in the incident
   The extent of police involvement    
   → `none`, `intervention`, `escalation`, `arrest`
 
-
 ---
 
 ## 🔹 Quantitative
@@ -177,7 +176,7 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`administrative_tone`**  
   Language tone used by administration  
-  → `conciliatory`, `neutral`, `condemnation`, `dismissive`  
+  → `conciliatory`, `neutral`, `condemnation`, `dismissive`, `combination`
   - `conciliatory`→ Expresses empathy, acknowledges difficulties or distress, and emphasizes community values or healing
   - `neutral`→ Uses factual, procedural, or objective language regarding rules or policy without overt emotional or moral framing
   - `dismissive`→ Uses vague or generic language when attributing responsibility or identifying actors, even when detailed information is publicly available
@@ -187,37 +186,38 @@ This codebook defines all structured and qualitative fields used in the incident
   Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. There should be no 'judgement' words, or as few as possible, e.g. 'even when detailed info is publicly available and of public interest' should be reduced, and any "judgement" should come out in the results.
 
 - **`student_tone`**  
-  Tone or rhetorical framing used by student organizations  
-  → `Rights-based`, `Accusatory`, `Conciliatory`, `Defensive`, `Escalatory`, `Mobilizing`, ``Solidarity
-  - `Rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties” 
+  How students speak (attitude / rhetorical style), judges emotional flavor rather than facts   
+  → `Accusatory`, `Conciliatory`, `Defensive`, `Escalatory`, `Mobilizing`, `Solidarity`, `combination`
   - `Accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
   - `Conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
   - `Defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
   - `Escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
   - `Mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
   - `Solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”
+  - `combination` → Exhibits multiple tones in distinct parts of the response 
 <br><br>
 - **`institutional_positioning`**  
   How the incident was framed in administrative narratives  
-  → `civil_rights`, `safety/security_threat`, `policy_violation`, `n/a`  
+  → `civil_rights`, `safety/security_threat`, `policy_violation`, `none`, `n/a`  
   - `civil_rights` → Framed as implicating legal, civil, or moral rights—such as free expression, equal protection, religious freedom, or protection from discrimination
   - `safety/security_threat` → Framed as endangering physical safety, campus security, or public order. Applies when the narrative cites threats of violence, disruption of operations, or the need for law enforcement or protective measures to maintain control
   - `policy_violation` → Framed as an infraction of established university rules, codes of conduct, or procedural guidelines (e.g. TPM restrictions, unauthorized signage, disruption of campus operations)
   - `none` → No discernible narrative frame was offered in relation to the incident
   - `n/a` → No admin response occurred 
-
-
-
-Framed as threatening safety, public order, or requiring protection/intervention.
-
-
-
+<br><br>
+- **`student_positioning`**  
+  What substantive frame students use to justify or contextualize the incident, judges facts over emotional flavor
+  → `rights-based`, `safety/security_threat`, `policy_violation`, `financial_fairness`, `none`, `n/a` 
+  - `rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties”, "academic freedom"
+  - `safety/security_threat` → Emphasizes feeling unsafe, either due to discriminatory harassment or physical danger
+  - `oversight_failure` → States explicitly that incident occurred as a result of administrative indifference or unwarranted police escalation
+  - `policy_violation` → Cites established university rules or administrative guidance in defense of student involvement in an incident
+  - `financial_fairness` → Cites tuition/cost or resource-allocation arguments (“we pay fees for…”) as basis for certain behaviors, positions, or grievances with another party
+  - `none` → No clear framing detected or purely factual logistics 
+  - `n/a` → No student response occurred  
+<br><br>
 - **`media_positioning`**  
   How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
-  → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
-
-- **`student_positioning`**  
-  How the incident was framed in the narratives of students or organizations directly involved in the incident  
   → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
 ---
 
