@@ -120,7 +120,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `combination` → Violated a combination of above categories  
   - `none` → No violation occurred (use if `incident_policy_status: compliant`)
   
-  Note: This is a qualitative indicator. 
+  Note: This is a qualitative indicator. The variable is in reference to the incident in question only. If within the broader context there are also policy violations, those violations are addressed in their originating incidents, not propagated to all related incidents. 
 
 - **`norm_violation_type`**  
   What type of institutional or ethical norm was undermined, regardless of policy status  
