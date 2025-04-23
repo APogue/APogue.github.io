@@ -184,12 +184,19 @@ This codebook defines all structured and qualitative fields used in the incident
   - `condemnation`→ Denounces specific behavior as morally wrong, harmful, or against institutional standards or values
   - `combination` → Exhibits multiple tones in distinct parts of the response 
 
-  Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. 
+  Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. There should be no 'judgement' words, or as few as possible, e.g. 'even when detailed info is publicly available and of public interest' should be reduced, and any "judgement" should come out in the results.
 
 - **`student_tone`**  
   Tone or rhetorical framing used by student organizations  
-  → `Rights-based`, `Accusatory`, `Conciliatory`, `Defensive`, `Escalatory`
-
+  → `Rights-based`, `Accusatory`, `Conciliatory`, `Defensive`, `Escalatory`, `Mobilizing`, ``Solidarity
+  - `Rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties” 
+  - `Accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
+  - `Conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
+  - `Defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
+  - `Escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
+  - `Mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
+  - `Solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”
+<br><br>
 - **`institutional_positioning`**  
   How the incident was framed in administrative narratives  
   → `civil_rights`, `safety/security_threat`, `policy_violation`, `n/a`  
