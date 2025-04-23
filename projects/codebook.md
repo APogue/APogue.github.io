@@ -206,7 +206,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `n/a` → No admin response occurred 
 <br><br>
 - **`student_positioning`**  
-  What substantive frame students use to justify or contextualize the incident, judges facts over emotional flavor
+  What substantive frame students use to justify or contextualize the incident, judges facts over emotional flavor  
   → `rights-based`, `safety/security_threat`, `policy_violation`, `financial_fairness`, `none`, `n/a` 
   - `rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties”, "academic freedom"
   - `safety/security_threat` → Emphasizes feeling unsafe, either due to discriminatory harassment or physical danger
@@ -218,7 +218,23 @@ This codebook defines all structured and qualitative fields used in the incident
 <br><br>
 - **`media_positioning`**  
   How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
-  → `civil_rights`, `safety/security_threat`, `procedural_neutrality`, `policy_violation`, `unclear`, `not_applicable`
+  → `group_targeting`, `security_failure`, `student_endangerment`, `policy_violation`, `unclear`, `not_applicable`
+- `group_targeting` → Harassment or discrimination targeting a particular group. Targeting may be political or directed towards a protected class. 
+- `security_failure` → Failure by the administration and/or police to maintain public order
+- `student_endangerment` → Incident involved unsafe conditions for students
+- `impermissible_behavior` →  Highlights breaches of law, code of conduct, or permit allowances
+- `reputational` →  Stresses impact on university image, donor measures
+- `political_strategy` → Links incident to partisan goals, elections, legislation
+- `financial_impact` → Focuses on costs and budgetary concerns 
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🔹 Unstructured Qualitative
