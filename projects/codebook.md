@@ -186,11 +186,12 @@ This codebook defines all structured and qualitative fields used in the incident
   Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. There should be no 'judgement' words, or as few as possible, e.g. 'even when detailed info is publicly available and of public interest' should be reduced, and any "judgement" should come out in the results.
 
 - **`student_tone`**  
-  How students speak (attitude / rhetorical style), judges emotional flavor rather than facts   
-  → `accusatory`, `conciliatory`, `defensive`, `escalatory`, `mobilizing`, `solidarity`, `combination`
+  How students speak (attitude / rhetorical style) or depict an incident, judges emotional flavor rather than facts   
+  → `accusatory`, `conciliatory`, `defensive`, `defiant`, `escalatory`, `mobilizing`, `solidarity`, `combination`
   - `accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
   - `conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
   - `defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
+  - `defiant` → Rejects authority or consequences with pride, disdain, or confrontation; often includes moral condemnation or taunts e.g. “You’re fascist aggressors,” “Don't obey in advance!” 
   - `escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
   - `mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
   - `solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”
