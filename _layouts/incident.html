@@ -40,23 +40,28 @@ layout: default
   {% endif %}
 </p>
 
-<p><strong>Admin Response Type:</strong> {{ page.admin_response_type }}</p>
-<p><strong>Follow-Up Action:</strong> {{ page.follow_up_action }}</p>
+
 <p><strong>Org-Affiliated Actor:</strong> {{ page.org_affiliated_actor }}</p>
 <p><strong>Actor is Student:</strong> {{ page.actor_student }}</p>
+<p><strong>Admin Response Type:</strong> {{ page.admin_response_type }}</p>
+<p><strong>Accountability follow-up:</strong> {{ page.accountability_follow_up }}</p>
+<p><strong>Admin support offered:</strong> {{ page.admin_support_offered }}</p>
 <p><strong>Target Group:</strong> {{ page.target_group }}</p>
 <p><strong>Actor Group:</strong> {{ page.actor_group }}</p>
 <p><strong>Media Coverage Level:</strong> {{ page.media_coverage_level }}</p>
-<p><strong>Stated Recourse:</strong> {{ page.stated_recourse }}</p>
 <p><strong>Location:</strong> {{ page.location }}</p>
-<p><strong>Incident Policy:</strong> {{ page.incident_policy }}</p>
+<p><strong>Policy status:</strong> {{ page.policy_status }}</p>
+<p><strong>Policy violation type:</strong> {{ page.policy_violation_type | join: ", " }}</p>
+<p><strong>Norm violation type:</strong> {{ page.norm_violation_type | join: ", " }}</p>
 <p><strong>Severity Score:</strong> {{ page.severity_score }}</p>
-<p><strong>Admin Response Level:</strong> {{ page.admin_response_level }}</p>
 <p><strong>Police Involvement:</strong> {{ page.police_involvement }}</p>
-<p><strong>Tone of Response:</strong> {{ page['tone-of-response'] }}</p>
-<p><strong>Latency:</strong> {{ page.latency_days }} days</p>
-<p><strong>Narrative Positioning:</strong> {{ page.narrative_positioning }}</p>
-<p><strong>Student Tone:</strong> {{ page.student_tone }}</p>
+<p><strong>Admin statement latency:</strong> {{ page.latency_days }} days</p>
+<p><strong>Administrative tone:</strong> {{ page.administrative_tone | join: ", " }}</p>
+<p><strong>Student Tone:</strong> {{ page.student_tone | join: ", " }}</p>
+<p><strong>Institutional positioning:</strong> {{ page.institutional_positioning | join: ", " }}</p>
+<p><strong>Student Positioning:</strong> {{ page.student_positioning | join: ", " }}</p>
+<p><strong>Media Positioning:</strong> {{ page.media_positioning | join: ", " }}</p>
+<p><strong>Admin Response Level:</strong> {{ page.admin_response_level }}</p>
 <p><strong>Notes:</strong> {{ page.notes }}</p>
 <h3>Summary</h3>
 {{ content }}

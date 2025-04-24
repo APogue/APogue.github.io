@@ -187,13 +187,13 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`student_tone`**  
   How students speak (attitude / rhetorical style), judges emotional flavor rather than facts   
-  → `Accusatory`, `Conciliatory`, `Defensive`, `Escalatory`, `Mobilizing`, `Solidarity`, `combination`
-  - `Accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
-  - `Conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
-  - `Defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
-  - `Escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
-  - `Mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
-  - `Solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”
+  → `accusatory`, `conciliatory`, `defensive`, `escalatory`, `mobilizing`, `solidarity`, `combination`
+  - `accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
+  - `conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
+  - `defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
+  - `escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
+  - `mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
+  - `solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”
   - `combination` → Exhibits multiple tones in distinct parts of the response 
 <br><br>
 - **`institutional_positioning`**  
@@ -218,15 +218,15 @@ This codebook defines all structured and qualitative fields used in the incident
 <br><br>
 - **`media_positioning`**  
   How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
-  → `group_targeting`, `security_failure`, `student_endangerment`, `policy_violation`, `unclear`, `not_applicable`
-- `group_targeting` → Harassment or discrimination targeting a particular group. Targeting may be political or directed towards a protected class. 
-- `security_failure` → Failure by the administration and/or police to maintain public order
-- `student_endangerment` → Incident involved unsafe conditions for students
-- `impermissible_behavior` →  Highlights breaches of law, code of conduct, or permit allowances
-- `reputational` →  Stresses impact on university image, donor measures
-- `political_strategy` → Links incident to partisan goals, elections, legislation
-- `financial_impact` → Focuses on costs and budgetary concerns 
-
+  → `group_targeting`, `security_failure`, `student_endangerment`, `policy_violation`, `unclear`, `n/a`
+  - `group_targeting` → Harassment or discrimination targeting a particular group. Targeting may be political or directed towards a protected class. 
+  - `security_failure` → Failure by the administration and/or police to maintain public order
+  - `student_endangerment` → Incident involved unsafe conditions for students
+  - `impermissible_behavior` →  Highlights breaches of law, code of conduct, or permit allowances
+  - `reputational` →  Stresses impact on university image, donor measures
+  - `political_strategy` → Links incident to partisan goals, elections, legislation
+  - `financial_impact` → Focuses on costs and budgetary concerns 
+  - `n/a` → `media_coverage_level` = `none`
 
 
 

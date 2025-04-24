@@ -86,3 +86,19 @@
   file: sources/SOC-004.png
   url: "https://www.reddit.com/r/Jewish/comments/1bjq7c4/at_ucla_today_this_is_why_im_scared_of_going_to/"
   used_in: [INC-001]
+
+- id: SOC-005
+  type: IG
+  date: 2024-04-30
+  title: "Over the past six days, Zionist aggressors..."
+  file: sources/SOC-005.png
+  url: "https://www.instagram.com/p/C6aNkbWrBSR/?hl=en&img_index=2"
+  used_in: [INC-004]
+
+- id: SOC-005-2
+  type: IG
+  date: 2024-04-30
+  title: "Zionists threaten our safety every night by verbally, physically..."
+  file: sources/SOC-005-2.png
+  url: "https://www.instagram.com/p/C6aNkbWrBSR/?hl=en&img_index=3"
+  used_in: [INC-004]

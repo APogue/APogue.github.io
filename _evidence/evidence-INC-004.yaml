@@ -1,0 +1,19 @@
+incident_id: INC-004
+
+org_affiliated_actor:
+  value: true
+  justification: >
+    UCLA Divest produced a protest montage featuring the pig effigy on April 16, 2024
+  source:
+    - https://www.instagram.com/p/C51p_t2SMCH/?hl=en
+  visual_evidence:
+  - file: /assets/evidence/INC-001/montage.png
+    description: Screenshot of UCLA Divest montage frame featuring pig effigy
+
+severity_score:
+  value: 
+  primary_sources: []
+  secondary_sources: []
+  disputed_by: []
+  notes: >
+    [Brief justification and any conflicting claims.]
