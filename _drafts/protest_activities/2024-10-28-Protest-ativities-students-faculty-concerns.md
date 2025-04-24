@@ -4,7 +4,7 @@ title: "Protest activities-students and faculty voice concerns"
 published: false
 author: Alexie Pogue
 date: 2024-10-28 3:18 PM
-updated_date: 2024-11-16 5:46 PM
+updated_date: 2025-4-24 4:51 PM
 ---
 
 Thesis: UCLA can protect free speech on its campus, but it will require it to be more than "a bank that holds classes."
@@ -31,6 +31,8 @@ Thesis: UCLA can protect free speech on its campus, but it will require it to be
 - While their statement is well-meaning, it is the job of the administration to handle *any* violation of the law in a content-neutral manner. They don't need to single out a single group the way Hillel has. But they do need to hold people accountable. It is about safety through accountability---rhetoric, strategic direction, and policy. 
 
 - [Hillel at UCLA Statement: May 1, 2024](https://www.uclahillel.org/stateofjewishbruinlifeoct2023)
+
+- [Link moved, unsure of whether the new location contains all previous links](https://uclahillel.org/israel-on-campus/)
 
 	- [UCLA Jewish Student Leader's ask to Non-Campus Jews](https://drive.google.com/file/d/14HqCOvk9-i0iW2xlYqvjQGyzjWDmIzjn/view)
 

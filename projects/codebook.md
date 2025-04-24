@@ -55,6 +55,8 @@ This codebook defines all structured and qualitative fields used in the incident
   - `incident_specific` → The incident was explicitly named or clearly referenced in a public admin statement within 2 weeks 
   - `general_statement` → A public communication addressed related issues (e.g., protest safety, antisemitism) within 2 weeks but did not mention the incident
   - `none` → No public administrative response occurred within 2 weeks
+
+  Note: `general_statement` is meant to identify umbrella statements that are likely purposed as a "catch-all" for several campus incidents. Concurrent statements that may incidentally relate, but are not "responses" are not considered (i.e. a UC-wide campus climate initiative announced at an event where an incident takes place at UCLA is not considered a response).
 <br><br>
 - **`accountability_follow_up`**  
   Categorizes the nature of any administrative follow-up action (disciplinary process, civil and/or police investigation) to hold offending actors accountable  
