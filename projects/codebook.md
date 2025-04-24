@@ -191,7 +191,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
   - `conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
   - `defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
-  - `defiant` → Rejects authority or consequences with pride, disdain, or confrontation; often includes moral condemnation or taunts e.g. “You’re fascist aggressors,” “Don't obey in advance!” 
+  - `defiant` → Rejects authority or consequences with pride, disdain, or confrontation; often includes moral condemnation or taunts e.g. “You’re fascist aggressors,” “Don't obey in advance” 
   - `escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
   - `mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
   - `solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”

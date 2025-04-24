@@ -22,6 +22,14 @@
   url: "https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment"
   used_in: [INC-004]
 
+- id: DB-004
+  type: daily_bruin
+  date: 2024-03-20
+  title: "UC Regents tables vote on Item J1 until May meeting"
+  file: sources/DB-004.txt
+  url: "https://dailybruin.com/2024/03/20/uc-regents-tables-vote-on-item-j1-until-may-meeting?utm_source=chatgpt.com"
+  used_in: [INC-002, INC-003]
+
 - id: ADM-001
   type: newsroom
   date: 2024-03-28
@@ -53,6 +61,15 @@
   file: sources/MED-001.txt
   url: "https://jewishjournal.com/community/369554/ucla-condemns-ugly-antisemitic-pig-display/"
   used_in: [INC-001]
+
+- id: MED-002
+  type: la_times
+  date: 2024-03-22
+  title: "UC regents debate stricter control of views on Israel and other topics on campus websites"
+  file: sources/MED-002.txt
+  url: "https://www.latimes.com/california/story/2024-03-21/uc-regents-dicuss-tightening-controls-of-opinion-on-campus-websites"
+  used_in: [INC-002]
+
 
 - id: SOC-001
   type: X
@@ -102,3 +119,11 @@
   file: sources/SOC-005-2.png
   url: "https://www.instagram.com/p/C6aNkbWrBSR/?hl=en&img_index=3"
   used_in: [INC-004]
+
+- id: SOC-006
+  type: IG
+  date: 2024-04-16
+  title: "During March 19-21, students and community from four..."
+  file: sources/SOC-006.txt
+  url: "https://www.instagram.com/p/C51p_t2SMCH/?hl=en"
+  used_in: [INC-001, INC-002, INC-003]
