@@ -185,7 +185,7 @@ This codebook defines all structured and qualitative fields used in the incident
 <br><br>
 - **`actor_tone`, `target_tone`**  
   How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
-  → `accusatory`, `fear/distress`, `defensive`, `defiant`, `conciliatory`, `solidarity`, `combination`  
+  → `accusatory`, `fear/distress`, `defensive`, `defiant`, `conciliatory`, `mobilizing/escalatory`, `solidarity`, `combination`  
   - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
     *e.g., “Admin has failed us,” “They are complicit”*
   - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted, unsafe, or endangered   
