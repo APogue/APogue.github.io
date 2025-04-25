@@ -79,12 +79,8 @@ This codebook defines all structured and qualitative fields used in the incident
 
   Note: While policy may mot compel administrators to seek "justice" after the fact, is it an administrative failure when it is known that policies are being broken and nothing is done after the fact to ensure policies are not broken in the future? 
 
-- **`target_group`**  
+- **`target_group`, `actor_group`**  
   Primary identity or identity affiliated with group targeted or affected  
-  → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
-
-- **`actor_group`**  
-  Primary identity or identity affiliated with acting group   
   → `Jewish`, `Israeli`, `Palestinian`, `Muslim`, `Arab`, `Multiple`, `Unknown`
 
 - **`media_coverage_level`**  
@@ -186,18 +182,23 @@ This codebook defines all structured and qualitative fields used in the incident
   - `combination` → Exhibits multiple tones in distinct parts of the response 
 
   Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. There should be no 'judgement' words, or as few as possible, e.g. 'even when detailed info is publicly available and of public interest' should be reduced, and any "judgement" should come out in the results.
-
-- **`student_tone`**  
-  How students speak (attitude / rhetorical style) or depict an incident, judges emotional flavor rather than facts   
-  → `accusatory`, `conciliatory`, `defensive`, `defiant`, `escalatory`, `mobilizing`, `solidarity`, `combination`
-  - `accusatory` → Directly blames or attributes wrongdoing to another group or actor e.g. “Admin has failed…”, “they targeted us…”
-  - `conciliatory` → Seeks compromise, reconciliation, or mutual understanding e.g. “We welcome dialogue…”, “let’s find common ground…”
-  - `defensive` → Justifies the group’s own actions or counters criticism e.g. “We acted within policy…”, “mischaracterized by media…”
-  - `defiant` → Rejects authority or consequences with pride, disdain, or confrontation; often includes moral condemnation or taunts e.g. “You’re fascist aggressors,” “Don't obey in advance” 
-  - `escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
-  - `mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
-  - `solidarity` → Expresses support for another group’s cause without leading the narrative e.g. “We stand with…”, “in solidarity with…”
-  - `combination` → Exhibits multiple tones in distinct parts of the response 
+<br><br>
+- **`actor_tone`, `target_tone`**  
+  How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
+  → `accusatory`, `fear/distress`, `defensive`, `defiant`, `conciliatory`, `solidarity`, `combination`  
+  - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
+    *e.g., “Admin has failed us,” “They are complicit”*
+  - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted or unsafe  
+    *e.g., “They targeted us,” “We no longer feel safe on campus”*
+  - `defensive` → Justifies or defends the group’s own actions or counters criticisms  
+    *e.g., “We followed the rules,” “This was mischaracterized…”*
+  - `defiant` → Rejects authority or consequences with disdain, resistance, or confrontation  
+    *e.g., “You’re fascist aggressors,” “Don’t obey in advance”*
+  - `conciliatory` → Seeks reconciliation, mutual understanding, or de-escalation  
+    *e.g., “We welcome dialogue,” “Let’s find common ground”*
+  - `solidarity` → Expresses emotional identification with or support for another group’s cause  
+    *e.g., “We stand with…”*
+  - `combination` → Multiple distinct tones present across the response (e.g., fear + accusation)
 <br><br>
 - **`institutional_positioning`**  
   How the incident was framed in administrative narratives  
@@ -209,13 +210,16 @@ This codebook defines all structured and qualitative fields used in the incident
   - `n/a` → No admin response occurred 
 <br><br>
 - **`student_positioning`**  
-  What substantive frame students use to justify or contextualize the incident, judges facts over emotional flavor  
-  → `rights-based`, `safety/security_threat`, `policy_violation`, `financial_fairness`, `none`, `n/a` 
+  How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone 
+  → `rights-based`, `safety/security_threat`, `policy_violation`, `escalatory`, `mobilizing`, `financial_fairness`, `combination`, `none`, `n/a` 
   - `rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties”, "academic freedom"
   - `safety/security_threat` → Emphasizes feeling unsafe, either due to discriminatory harassment or physical danger
   - `oversight_failure` → States explicitly that incident occurred as a result of administrative indifference or unwarranted police escalation
+  - `escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
+  - `mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
   - `policy_violation` → Cites established university rules or administrative guidance in defense of student involvement in an incident
   - `financial_fairness` → Cites tuition/cost or resource-allocation arguments (“we pay fees for…”) as basis for certain behaviors, positions, or grievances with another party
+  - `combination` → Combination reflects a multi-component narrative from one group or a multi-perspective narrative that characterizes multiple groups on the same or opposing sides of the incident
   - `none` → No clear framing detected or purely factual logistics 
   - `n/a` → No student response occurred  
 <br><br>
