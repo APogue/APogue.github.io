@@ -188,17 +188,19 @@ This codebook defines all structured and qualitative fields used in the incident
   → `accusatory`, `fear/distress`, `defensive`, `defiant`, `conciliatory`, `solidarity`, `combination`  
   - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
     *e.g., “Admin has failed us,” “They are complicit”*
-  - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted or unsafe  
-    *e.g., “They targeted us,” “We no longer feel safe on campus”*
+  - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted, unsafe, or endangered   
+    *e.g., “They targeted us,” “We no longer feel safe on campus”, "We were physically threatened"*
   - `defensive` → Justifies or defends the group’s own actions or counters criticisms  
-    *e.g., “We followed the rules,” “This was mischaracterized…”*
-  - `defiant` → Rejects authority or consequences with disdain, resistance, or confrontation  
+    *e.g., “We acted within policy…”, “This was misrepresented…”*
+  - `defiant` → Rejects authority or consequences with pride, disdain, or resistance 
     *e.g., “You’re fascist aggressors,” “Don’t obey in advance”*
-  - `conciliatory` → Seeks reconciliation, mutual understanding, or de-escalation  
+  - `mobilizing/escalatory` → Urges greater collective action, confrontation, or disruption; a call to action, a threat to escalate, or both  
+    *e.g., “Join us at noon!”, “If they don’t agree, we'll shut it down!”*
+  - `conciliatory` → Seeks compromise, mutual understanding, or de-escalation  
     *e.g., “We welcome dialogue,” “Let’s find common ground”*
   - `solidarity` → Expresses emotional identification with or support for another group’s cause  
     *e.g., “We stand with…”*
-  - `combination` → Multiple distinct tones present across the response (e.g., fear + accusation)
+  - `combination` → Multiple distinct tones present in the response (e.g., fear + accusation)
 <br><br>
 - **`institutional_positioning`**  
   How the incident was framed in administrative narratives  
@@ -213,10 +215,7 @@ This codebook defines all structured and qualitative fields used in the incident
   How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone 
   → `rights-based`, `safety/security_threat`, `policy_violation`, `escalatory`, `mobilizing`, `financial_fairness`, `combination`, `none`, `n/a` 
   - `rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties”, "academic freedom"
-  - `safety/security_threat` → Emphasizes feeling unsafe, either due to discriminatory harassment or physical danger
   - `oversight_failure` → States explicitly that incident occurred as a result of administrative indifference or unwarranted police escalation
-  - `escalatory` → Signals heightened confrontation or calls for stronger action e.g. “We will occupy…”, “no peace until…”
-  - `mobilizing` → Explicit calls to collective action or protest e.g. “Join us at…”, “walkout tomorrow at 12 PM”
   - `policy_violation` → Cites established university rules or administrative guidance in defense of student involvement in an incident
   - `financial_fairness` → Cites tuition/cost or resource-allocation arguments (“we pay fees for…”) as basis for certain behaviors, positions, or grievances with another party
   - `combination` → Combination reflects a multi-component narrative from one group or a multi-perspective narrative that characterizes multiple groups on the same or opposing sides of the incident
