@@ -1,0 +1,90 @@
+---
+layout: project_default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  
+  <style>
+    /* Clean centered page */
+    .container {
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 40px 20px;
+
+    ul, ol {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+      }
+
+    li {
+        margin-bottom: 0.3rem; /* tighter spacing between bullets */
+}
+    }
+
+    /* Typography */
+    body {
+      background: #ffffff;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      line-height: 1.5;
+      color: #000; /* Deep black for body text */
+    }
+
+    h1, h2, h3 {
+      color: #000000; /* Deep black for headings */
+      font-weight: 600;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+    }
+
+    p, li {
+      font-size: 15px;
+      margin-bottom: 0.8rem;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    strong {
+      font-weight: 600;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    {{ content }}
+  </div>
+
+  <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
+</body>
+</html>

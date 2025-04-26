@@ -1,6 +1,6 @@
 ---
 title: Codebook
-layout: page
+layout: project_default
 permalink: /projects/codebook/
 ---
 
@@ -37,7 +37,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor  
   - The org publicly endorsed or amplified the act (e.g., repost, montage, statement of support)  
   *Do not infer membership solely from an individual's participation in an org-associated protest*
-<br><br>
+
 - **`actor_student`**  
   Was the actor a student at UCLA?     
   → `true`, `false`  
@@ -57,7 +57,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `none` → No public administrative response occurred within 2 weeks
 
   Note: `general_statement` is meant to identify umbrella statements that are likely purposed as a "catch-all" for several campus incidents. Concurrent statements that may incidentally relate, but are not "responses" are not considered (i.e. a UC-wide campus climate initiative announced at an event where an incident takes place at UCLA is not considered a response).
-<br><br>
+
 - **`accountability_follow_up`**  
   Categorizes the nature of any administrative follow-up action (disciplinary process, civil and/or police investigation) to hold offending actors accountable  
   → `none`, `proposed`, `n/a`  
@@ -198,7 +198,7 @@ This codebook defines all structured and qualitative fields used in the incident
   e.g., “The encampment was unauthorized,” “Posting flyers without permission violated campus policy”
   - `none` → No discernible narrative frame was offered in relation to the incident
   - `n/a` → No admin response occurred 
-<br><br>
+
 - **`media_positioning`**  
   How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
   → `group_targeting`, `security_failure`, `student_endangerment`, `impermissible_behavior`, `reputational`, `political_strategy`, `financial_impact`, `unclear`, `n/a`
@@ -218,7 +218,7 @@ This codebook defines all structured and qualitative fields used in the incident
   e.g., “Protest damages cost university $500,000,” “Security costs for demonstrations strain university budget.”
   - `unclear` → Media report mentions the incident but does not offer a clear narrative framing.
   - `n/a` → No media coverage, i.e. `media_coverage_level` = `none`
-<br><br>
+
 - **`actor_tone`, `target_tone`**  
   How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
   → `accusatory`, `fear/distress`, `defensive`, `defiant`, `mobilizing/escalatory`, `conciliatory`, `solidarity`, `combination`  
@@ -237,9 +237,9 @@ This codebook defines all structured and qualitative fields used in the incident
   - `solidarity` → Expresses emotional identification with or support for another group’s cause  
     e.g., “We stand with…”
   - `combination` → Multiple distinct tones present in the response (e.g., fear + accusation)
-<br><br>
+
 - **`actor_positioning`, `target_positioning`**  
-  How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone 
+  How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone  
   → `rights-based`, `oversight_failure`, `policy_violation_defense`, `financial_fairness`, `combination`, `none`, `n/a` 
   - `rights-based` → Frames the incident as defending students’ legally or morally protected rights and freedoms  
   e.g., “University overreach is chilling protected speech,” “We were subject to a heckler’s veto," "This organization discriminates"

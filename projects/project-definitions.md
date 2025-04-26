@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project_default
 title: "Project Definitions"
 permalink: /projects/project-definitions/
 ---

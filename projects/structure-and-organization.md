@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projecct_default
 title: "📊 UCLA Incident Response Analysis Project"
 published: true
 author: Alexie Pogue
