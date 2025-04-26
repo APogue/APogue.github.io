@@ -182,6 +182,30 @@ This codebook defines all structured and qualitative fields used in the incident
   - `combination` → Exhibits multiple tones in distinct parts of the response 
 
   Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. There should be no 'judgement' words, or as few as possible, e.g. 'even when detailed info is publicly available and of public interest' should be reduced, and any "judgement" should come out in the results.
+
+- **`administrative_positioning`**  
+  How the incident was framed in administrative narratives  
+  → `civil_rights`, `safety/security_threat`, `policy_violation`, `none`, `n/a`  
+  - `civil_rights` → Framed as implicating the university’s duty to protect or balance civil rights, i.e. free expression, equal protection  
+  e.g., “The university has long-held beliefs in the right to protest”, “We are committed to the rights of all students to attend classes in an environment free from discrimination”
+  - `safety/security_threat` → Framed as endangering physical safety, public order, or campus operations; used to justify law enforcement or restrictions  
+  e.g., “The protest posed a threat to campus security,” “TPM rules are enforced to ensure student safety”
+  - `alleged_policy_violation` → Framed as a violation of established university rules, codes of conduct, or procedural guidelines  
+  e.g., “The encampment was unauthorized,” “Posting flyers without permission violated campus policy”
+  - `none` → No discernible narrative frame was offered in relation to the incident
+  - `n/a` → No admin response occurred 
+<br><br>
+- **`media_positioning`**  
+  How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
+  → `group_targeting`, `security_failure`, `student_endangerment`, `policy_violation`, `unclear`, `n/a`
+  - `group_targeting` → Harassment or discrimination targeting a particular group. Targeting may be political or directed towards a protected class. 
+  - `security_failure` → Failure by the administration and/or police to maintain public order
+  - `student_endangerment` → Incident involved unsafe conditions for students
+  - `impermissible_behavior` →  Highlights breaches of law, code of conduct, or permit allowances
+  - `reputational` →  Stresses impact on university image, donor measures
+  - `political_strategy` → Links incident to partisan goals, elections, legislation
+  - `financial_impact` → Focuses on costs and budgetary concerns 
+  - `n/a` → `media_coverage_level` = `none`
 <br><br>
 - **`actor_tone`, `target_tone`**  
   How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
@@ -202,19 +226,7 @@ This codebook defines all structured and qualitative fields used in the incident
     e.g., “We stand with…”
   - `combination` → Multiple distinct tones present in the response (e.g., fear + accusation)
 <br><br>
-- **`institutional_positioning`**  
-  How the incident was framed in administrative narratives  
-  → `civil_rights`, `safety/security_threat`, `policy_violation`, `none`, `n/a`  
-  - `civil_rights` → Framed as implicating the university’s duty to protect or balance civil rights, i.e. free expression, equal protection  
-  e.g., “The university has long-held beliefs in the right to protest”, “We are committed to the rights of all students to attend classes in an environment free from discrimination”
-  - `safety/security_threat` → Framed as endangering physical safety, public order, or campus operations; used to justify law enforcement or restrictions  
-  e.g., “The protest posed a threat to campus security,” “TPM rules are enforced to ensure student safety”
-  - `alleged_policy_violation` → Framed as a violation of established university rules, codes of conduct, or procedural guidelines  
-  e.g., “The encampment was unauthorized,” “Posting flyers without permission violated campus policy”
-  - `none` → No discernible narrative frame was offered in relation to the incident
-  - `n/a` → No admin response occurred 
-<br><br>
-- **`student_positioning`**  
+- **`actor_positioning`, `target_positioning`**  
   How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone 
   → `rights-based`, `safety/security_threat`, `policy_violation`, `escalatory`, `mobilizing`, `financial_fairness`, `combination`, `none`, `n/a` 
   - `rights-based` → Frames the incident as defending students’ legally or morally protected rights and freedoms  
@@ -228,25 +240,6 @@ This codebook defines all structured and qualitative fields used in the incident
   - `combination` → Multiple framings presented in one narrative (e.g., citing both rights violations and oversight failures)
   - `none` → No clear framing detected or purely factual logistics 
   - `n/a` → No student response occurred  
-<br><br>
-- **`media_positioning`**  
-  How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
-  → `group_targeting`, `security_failure`, `student_endangerment`, `policy_violation`, `unclear`, `n/a`
-  - `group_targeting` → Harassment or discrimination targeting a particular group. Targeting may be political or directed towards a protected class. 
-  - `security_failure` → Failure by the administration and/or police to maintain public order
-  - `student_endangerment` → Incident involved unsafe conditions for students
-  - `impermissible_behavior` →  Highlights breaches of law, code of conduct, or permit allowances
-  - `reputational` →  Stresses impact on university image, donor measures
-  - `political_strategy` → Links incident to partisan goals, elections, legislation
-  - `financial_impact` → Focuses on costs and budgetary concerns 
-  - `n/a` → `media_coverage_level` = `none`
-
-
-
-
-
-
-
 
 ---
 
@@ -255,7 +248,6 @@ This codebook defines all structured and qualitative fields used in the incident
 - **`notes`**  
   Freeform summary or contextual annotation  
   → No predefined values
-
 
 ---
 
