@@ -39,7 +39,7 @@ and that the simplest components can play incredibly important roles in the over
 <!--The transparency with respect to my background has the purpose of relating my unique value proposition and nothing more. In my life there are many things I’ve come across 
 that I’ve been dissatisfied with, and others I may be apathetic or indifferent towards. It is with these unique perspectives that together we may serve as many people as possible. -->
 
-I'm interested in the intersection of policy and tech; specifically, how AI will come to shape our world. My blog posts will mainly focus on topics surrounding these issues.
+I'm interested in the intersection of policy and tech; specifically how AI will come to shape our world. My blog posts will mainly focus on topics surrounding these issues.
 
 **My Interests**
 

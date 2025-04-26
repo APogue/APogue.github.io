@@ -103,6 +103,11 @@ main {
     flex: 1 0 auto;
 }
 
+/* first element after the title */
+main .container>*:first-child{  
+    margin-top:0;       /* stop any extra top-margin */
+}
+
 main h1 {
     text-align: center;
     margin-bottom: 20px;
@@ -175,18 +180,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 1.5rem;
 }
 
+/* Professional-looking custom bullets */
 
-/* Blog List */
-.blog-list,
-.blog-list li {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
 
 .blog-list a {
-    color: #333;
-    font-weight: bold;
+    color: #0b1f51;
+    font-weight: none;
     text-decoration: none;
     font-size: 1.2em;
     transition: color 0.3s ease;
@@ -195,6 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-list a:hover {
     color: #adb5bd;
 }
+
 
 /* Post Date */
 .post-date {
@@ -218,4 +218,13 @@ h1, h2, h3, h4, h5, h6 {
 .contact-list a {
     text-decoration: none;
     color: inherit;
+}
+
+/* lists site-wide that are not specified take this format*/
+li a {
+    color: #0b1f51;
+    font-weight: none;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
 }

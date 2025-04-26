@@ -6,7 +6,7 @@ permalink: /contact/
 
 
 
-Reach out via email or connect with me on social media:
+### Reach out via email or connect with me on social media:
 
 <ul class="contact-list">
     <li>
