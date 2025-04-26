@@ -174,18 +174,22 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`administrative_tone`**  
   Language tone used by administration  
-  → `conciliatory`, `neutral`, `condemnation`, `dismissive`, `combination`
-  - `conciliatory`→ Expresses empathy, acknowledges difficulties or distress, and emphasizes community values or healing
-  - `neutral`→ Uses factual, procedural, or objective language regarding rules or policy without overt emotional or moral framing
-  - `dismissive`→ Uses vague or generic language when attributing responsibility or identifying actors, even when detailed information is publicly available
-  - `condemnation`→ Denounces specific behavior as morally wrong, harmful, or against institutional standards or values
+  → `conciliatory`, `neutral`, `dismissive`, `condemnation`,  `combination`
+  - `conciliatory`→ Expresses empathy, acknowledges difficulties or distress, and emphasizes community values or healing  
+  e.g., “We understand the circumstances are hard on everyone,” “We hope everyone adheres to university values”
+  - `neutral`→ Uses factual, procedural, or objective language regarding rules or policy without overt emotional or moral framing  
+  e.g., “The university will review the incident according to established procedures,” “We are evaluating the situation under applicable campus guidelines.”
+  - `dismissive`→ Uses vague or generic language when attributing responsibility or identifying actors, even when detailed information is publicly available. May conflate activity in violation of applicable law or policy with behavior that goes against values  
+  e.g., “There were reports of violence by some,” “Some demonstrators partook in activity that goes against our values”
+  - `condemnation`→ Denounces specific behavior as morally wrong, harmful, or against institutional standards or values  
+  e.g., “We are appalled by this hateful act,” “This behavior has no place in our community.”
   - `combination` → Exhibits multiple tones in distinct parts of the response 
 
   Note: A combination may occur if the administration is using a parallel rhetoric method to handle multiple incidents involving Jewish students and students who identify as pro-Palestinian in a single statement, if this is confounding then I'll keep only the portions of statements relevant to an incident when coding. There should be no 'judgement' words, or as few as possible, e.g. 'even when detailed info is publicly available and of public interest' should be reduced, and any "judgement" should come out in the results.
 
 - **`administrative_positioning`**  
   How the incident was framed in administrative narratives  
-  → `civil_rights`, `safety/security_threat`, `policy_violation`, `none`, `n/a`  
+  → `civil_rights`, `safety/security_threat`, `alleged_policy_violation`, `none`, `n/a`  
   - `civil_rights` → Framed as implicating the university’s duty to protect or balance civil rights, i.e. free expression, equal protection  
   e.g., “The university has long-held beliefs in the right to protest”, “We are committed to the rights of all students to attend classes in an environment free from discrimination”
   - `safety/security_threat` → Framed as endangering physical safety, public order, or campus operations; used to justify law enforcement or restrictions  
@@ -197,19 +201,27 @@ This codebook defines all structured and qualitative fields used in the incident
 <br><br>
 - **`media_positioning`**  
   How the incident was framed in media narratives from sources contributing to `media_coverage_level`  
-  → `group_targeting`, `security_failure`, `student_endangerment`, `policy_violation`, `unclear`, `n/a`
-  - `group_targeting` → Harassment or discrimination targeting a particular group. Targeting may be political or directed towards a protected class. 
-  - `security_failure` → Failure by the administration and/or police to maintain public order
-  - `student_endangerment` → Incident involved unsafe conditions for students
-  - `impermissible_behavior` →  Highlights breaches of law, code of conduct, or permit allowances
-  - `reputational` →  Stresses impact on university image, donor measures
-  - `political_strategy` → Links incident to partisan goals, elections, legislation
-  - `financial_impact` → Focuses on costs and budgetary concerns 
-  - `n/a` → `media_coverage_level` = `none`
+  → `group_targeting`, `security_failure`, `student_endangerment`, `impermissible_behavior`, `reputational`, `political_strategy`, `financial_impact`, `unclear`, `n/a`
+  - `group_targeting` → Frames the incident as harassment or discrimination targeting a particular group; may involve political identity or protected class status  
+  e.g., “Jewish students face growing antisemitism campus,” “Muslim students report bullying on campus”
+  - `security_failure` → Frames the incident as a failure by administration or police to maintain public order  
+  e.g., “Campus protest spirals out of control,” “Officials slow to respond to unrest.”
+  - `student_endangerment` → Frames the incident as creating unsafe conditions for students  
+  e.g., “Students injured during protest crackdown,” “Tensions on campus put safety at risk.”
+  - `impermissible_behavior` → Highlights breaches of law, code of conduct, or permit allowances  
+  e.g., “Demonstrators trespassed into restricted areas,” “Protest violated campus rules.”  
+  - `reputational` → Stresses impact of the incident on university image, branding, or donor relations  
+  e.g., “University faces backlash from alumni over protest response,” “School's reputation at stake amid controversy.”
+  - `political_strategy` → Links the incident to partisan goals, elections, broader ideological movements, or legislative agendas  
+  e.g., “Campus protests echo national political divides,” “Activists push policy change through campus unrest.”
+  - `financial_impact` → Focuses on monetary costs, damages, or budgetary consequences tied to the incident  
+  e.g., “Protest damages cost university $500,000,” “Security costs for demonstrations strain university budget.”
+  - `unclear` → Media report mentions the incident but does not offer a clear narrative framing.
+  - `n/a` → No media coverage, i.e. `media_coverage_level` = `none`
 <br><br>
 - **`actor_tone`, `target_tone`**  
   How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
-  → `accusatory`, `fear/distress`, `defensive`, `defiant`, `conciliatory`, `mobilizing/escalatory`, `solidarity`, `combination`  
+  → `accusatory`, `fear/distress`, `defensive`, `defiant`, `mobilizing/escalatory`, `conciliatory`, `solidarity`, `combination`  
   - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
     e.g., “Admin has failed us,” “They are complicit”
   - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted, unsafe, or endangered   
@@ -228,7 +240,7 @@ This codebook defines all structured and qualitative fields used in the incident
 <br><br>
 - **`actor_positioning`, `target_positioning`**  
   How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone 
-  → `rights-based`, `safety/security_threat`, `policy_violation`, `escalatory`, `mobilizing`, `financial_fairness`, `combination`, `none`, `n/a` 
+  → `rights-based`, `oversight_failure`, `policy_violation_defense`, `financial_fairness`, `combination`, `none`, `n/a` 
   - `rights-based` → Frames the incident as defending students’ legally or morally protected rights and freedoms  
   e.g., “University overreach is chilling protected speech,” “We were subject to a heckler’s veto," "This organization discriminates"
   - `oversight_failure` → Frames the incident as resulting from administrative indifference, selective enforcement, or unjust policing  
