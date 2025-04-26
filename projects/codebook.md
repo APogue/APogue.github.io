@@ -204,9 +204,9 @@ This codebook defines all structured and qualitative fields used in the incident
   → `group_targeting`, `security_failure`, `student_endangerment`, `impermissible_behavior`, `reputational`, `political_strategy`, `financial_impact`, `unclear`, `n/a`
   - `group_targeting` → Frames the incident as harassment or discrimination targeting a particular group; may involve political identity or protected class status  
   e.g., “Jewish students face growing antisemitism campus,” “Muslim students report bullying on campus”
-  - `security_failure` → Frames the incident as a failure by administration or police to maintain public order  
+  - `security_failure` → Frames the incident as a breakdown of institutional control by admin, police, and/or campus operations—focus is on failure to contain, prevent, or manage unrest  
   e.g., “Campus protest spirals out of control,” “Officials slow to respond to unrest.”
-  - `student_endangerment` → Frames the incident as creating unsafe conditions for students  
+  - `student_endangerment` → Frames the incident around risk or harm directly experienced by students—focus is on physical danger, trauma, or unsafe conditions  
   e.g., “Students injured during protest crackdown,” “Tensions on campus put safety at risk.”
   - `impermissible_behavior` → Highlights breaches of law, code of conduct, or permit allowances  
   e.g., “Demonstrators trespassed into restricted areas,” “Protest violated campus rules.”  
