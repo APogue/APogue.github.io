@@ -1,117 +1,106 @@
 /* Reset some default browser styles for consistency */
-/* Reset default margins and paddings */
+/* Reset some default browser styles for consistency */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Ensure the html and body elements take up the full height */
 html, body {
     height: 100%;
     margin: 0;
+    padding: 0;
 }
 
 /* Body Styling */
 body {
-    min-height: 100vh; /* Ensures the body is at least the height of the viewport */
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
     line-height: 1.6;
     background-color: #d3d3d3; /* Light gray background */
     color: #111;
 }
 
-/* Wrapper Styling */
+/* Layout Containers */
 .wrapper {
     width: 100%;
-    max-width: 1900px; /* Maximum width of the content */
-    margin: 0 auto; /* Centers the wrapper */
+    max-width: 1200px;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Full viewport height */
+    min-height: 100vh;
 }
 
-/* Container Styling */
 .container {
-    max-width: 1900px; /* Adjust as needed */
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0 20px 20px 20px;
 }
 
-/* Header Styling */
+/* Header */
 header {
-    max-width: 1900px;
+    max-width: 1200px;
     padding: 20px 0;
     position: relative;
 }
 
 header h1 {
-    margin: 0;
     font-size: 2em;
 }
 
-/* Navigation Styling */
+/* Navigation */
 nav {
     padding: 10px 20px;
     display: flex;
     align-items: center;
-    justify-content: flex-end; /* Move hamburger to the right */
+    justify-content: flex-end;
     position: relative;
 }
 
-/* Hamburger Menu Styling */
 .hamburger-menu {
     font-size: 1.5em;
     cursor: pointer;
-    color:  #111;
+    color: #111;
 }
 
-/* Dropdown Menu Styling */
+/* Dropdown Menu */
 .nav-links {
     list-style: none;
     flex-direction: column;
-    width: 200px; /* Set a smaller width */
-    display: none; /* Hidden by default */
+    width: 200px;
+    display: none;
     background: #d3d3d3;
     position: absolute;
-    top: 100%; /* Position below the nav bar */
-    right: 0; /* Align to the right under the hamburger menu */
+    top: 100%;
+    right: 0;
     padding: 10px;
-    margin: 0;
 }
 
-/* Show the nav links when active */
 .nav-links.active {
     display: block;
 }
 
-/* Nav Link Items Styling */
 .nav-links li a {
-    color: #111; /* Changed to white for better visibility */
+    color: #111;
     text-decoration: none;
     font-size: 1.1em;
     transition: color 0.3s ease;
     font-weight: bold;
 }
 
-/* Hover Effect for Links */
 .nav-links li a:hover {
-    color: #adb5bd; /* Lighter gray on hover */
-}
-/* Hide Close Menu Icon */
-.nav-links .close-menu {
-   
+    color: #adb5bd;
 }
 
-/* Main Content Styling */
+/* Main Content */
 main {
-    max-width: 1900px;
-    margin: 0 20px 20px 20px; /* Removes top margin */
+    max-width: 1200px;
+    margin: 0 20px 20px 20px;
     padding: 0 20px;
     flex: 1 0 auto;
-    list-style: none;
 }
 
 main h1 {
@@ -122,45 +111,34 @@ main h1 {
 main p {
     margin-bottom: 15px;
     text-align: left;
-    list-style: none;
 }
 
-/* Footer Styling */
+/* Footer */
 footer {
     padding: 20px;
     text-align: center;
     color: #111;
 }
 
-/* Figure Styling */
+/* Figures and Images */
 figure {
-    width: 100%; /* Ensure the figure takes full available width */
-    max-width: 800px; /* Optional: set a maximum width */
-    margin: 80px auto; /* Center the figure and add vertical spacing */
+    width: 100%;
+    max-width: 800px;
+    margin: 80px auto;
     text-align: center;
 }
 
-
-/* Image Styling */
-figure img {
+figure img, .centered-image {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto; /* Optional: centers the image */
+    margin: 0 auto;
 }
-
 
 figcaption {
     color: #666;
     font-style: italic;
     margin-top: 10px;
-}
-
-.centered-image {
-    display: block;
-    margin: auto;
-    max-width: 100%;
-    height: auto;
 }
 
 .image-column {
@@ -178,14 +156,34 @@ figcaption {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
+/* Lists */
+ul, ol {
+    padding-left: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+li {
+    margin-bottom: 0.3rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: #000000;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+
+/* Blog List */
 .blog-list,
 .blog-list li {
-    list-style: none; /* Remove default list styles */
+    list-style: none;
     margin: 0;
     padding: 0;
 }
 
-/* Blog List Styling */
 .blog-list a {
     color: #333;
     font-weight: bold;
@@ -198,28 +196,26 @@ figcaption {
     color: #adb5bd;
 }
 
-/* 'Posted on' Stamp */
+/* Post Date */
 .post-date {
     font-family: 'Merriweather', serif;
     color: #666;
     font-size: 0.9em;
     margin-top: 5px;
-    font-style: none;
 }
 
+/* Contact List */
 .contact-list {
-    list-style-type: none; /* Remove bullet points */
-    padding: 0;            /* Remove default padding */
-    margin-top: 30px;             /* Remove default margin */
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
 }
 
 .contact-list li {
-    margin-bottom: 7px;   /* Add spacing between list items */
+    margin-bottom: 7px;
 }
 
 .contact-list a {
-    text-decoration: none; /* Remove underline from links */
-    color: inherit;        /* Inherit text color */
+    text-decoration: none;
+    color: inherit;
 }
-
-

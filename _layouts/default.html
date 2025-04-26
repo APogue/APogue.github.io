@@ -29,25 +29,32 @@
 
 
     <!-- Custom Styles -->
-    <style>
-        /* Safe area overlay for iOS */
-        body::before {
-            content: "";
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: env(safe-area-inset-top);
-            background-color: black; /* Black for the safe area */
-            z-index: 9999; /* Keep it on top */
-        }
+<style>
+    /* Safe area overlay for iOS */
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: env(safe-area-inset-top);
+        background-color: black;
+        z-index: 9999;
+    }
 
-        /* Adjust content positioning to avoid the notch */
+    /* Default container spacing */
+    .container {
+        padding-top: 0; /* <-- NO padding on desktop */
+    }
+
+    /* Only on mobile devices, apply safe-area padding */
+    @media (max-width: 768px) {
         .container {
             padding-top: env(safe-area-inset-top);
         }
+    }
+</style>
 
-    </style>
 </head>
 <body>
     <div class="wrapper">

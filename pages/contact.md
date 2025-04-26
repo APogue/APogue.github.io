@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 📬 Contact Me
+title: Contact Me
 permalink: /contact/
 ---
 
 
 
-Feel free to reach out via email or connect with me on social media:
+Reach out via email or connect with me on social media:
 
 <ul class="contact-list">
     <li>
