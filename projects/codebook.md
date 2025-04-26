@@ -187,38 +187,45 @@ This codebook defines all structured and qualitative fields used in the incident
   How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
   → `accusatory`, `fear/distress`, `defensive`, `defiant`, `conciliatory`, `mobilizing/escalatory`, `solidarity`, `combination`  
   - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
-    *e.g., “Admin has failed us,” “They are complicit”*
+    e.g., “Admin has failed us,” “They are complicit”
   - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted, unsafe, or endangered   
-    *e.g., “They targeted us,” “We no longer feel safe on campus”, "We were physically threatened"*
+    e.g., “We no longer feel safe on campus”, "We were physically threatened"
   - `defensive` → Justifies or defends the group’s own actions or counters criticisms  
-    *e.g., “We acted within policy…”, “This was misrepresented…”*
-  - `defiant` → Rejects authority or consequences with pride, disdain, or resistance 
-    *e.g., “You’re fascist aggressors,” “Don’t obey in advance”*
+    e.g., “We acted within policy…”, “This was misrepresented…”
+  - `defiant` → Rejects authority or consequences with pride, disdain, or resistance  
+    e.g., “You’re fascist aggressors,” “Don’t obey in advance”
   - `mobilizing/escalatory` → Urges greater collective action, confrontation, or disruption; a call to action, a threat to escalate, or both  
-    *e.g., “Join us at noon!”, “If they don’t agree, we'll shut it down!”*
+    e.g., “Join us at noon!”, “If they don’t agree, we'll shut it down!”
   - `conciliatory` → Seeks compromise, mutual understanding, or de-escalation  
-    *e.g., “We welcome dialogue,” “Let’s find common ground”*
+    e.g., “We welcome dialogue,” “Let’s find common ground”
   - `solidarity` → Expresses emotional identification with or support for another group’s cause  
-    *e.g., “We stand with…”*
+    e.g., “We stand with…”
   - `combination` → Multiple distinct tones present in the response (e.g., fear + accusation)
 <br><br>
 - **`institutional_positioning`**  
   How the incident was framed in administrative narratives  
   → `civil_rights`, `safety/security_threat`, `policy_violation`, `none`, `n/a`  
-  - `civil_rights` → Framed as implicating legal, civil, or moral rights—such as free expression, equal protection, religious freedom, or protection from discrimination
-  - `safety/security_threat` → Framed as endangering physical safety, campus security, or public order. Applies when the narrative cites threats of violence, disruption of operations, or the need for law enforcement or protective measures to maintain control
-  - `policy_violation` → Framed as an infraction of established university rules, codes of conduct, or procedural guidelines (e.g. TPM restrictions, unauthorized signage, disruption of campus operations)
+  - `civil_rights` → Framed as implicating the university’s duty to protect or balance civil rights, i.e. free expression, equal protection  
+  e.g., “The university has long-held beliefs in the right to protest”, “We are committed to the rights of all students to attend classes in an environment free from discrimination”
+  - `safety/security_threat` → Framed as endangering physical safety, public order, or campus operations; used to justify law enforcement or restrictions  
+  e.g., “The protest posed a threat to campus security,” “TPM rules are enforced to ensure student safety”
+  - `alleged_policy_violation` → Framed as a violation of established university rules, codes of conduct, or procedural guidelines  
+  e.g., “The encampment was unauthorized,” “Posting flyers without permission violated campus policy”
   - `none` → No discernible narrative frame was offered in relation to the incident
   - `n/a` → No admin response occurred 
 <br><br>
 - **`student_positioning`**  
   How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone 
   → `rights-based`, `safety/security_threat`, `policy_violation`, `escalatory`, `mobilizing`, `financial_fairness`, `combination`, `none`, `n/a` 
-  - `rights-based` → Frames the issue around legally or morally protected rights and freedoms e.g. “First-Amendment right…”, “civil liberties”, "academic freedom"
-  - `oversight_failure` → States explicitly that incident occurred as a result of administrative indifference or unwarranted police escalation
-  - `policy_violation` → Cites established university rules or administrative guidance in defense of student involvement in an incident
-  - `financial_fairness` → Cites tuition/cost or resource-allocation arguments (“we pay fees for…”) as basis for certain behaviors, positions, or grievances with another party
-  - `combination` → Combination reflects a multi-component narrative from one group or a multi-perspective narrative that characterizes multiple groups on the same or opposing sides of the incident
+  - `rights-based` → Frames the incident as defending students’ legally or morally protected rights and freedoms  
+  e.g., “University overreach is chilling protected speech,” “We were subject to a heckler’s veto," "This organization discriminates"
+  - `oversight_failure` → Frames the incident as resulting from administrative indifference, selective enforcement, or unjust policing  
+  e.g., “The university failed to intervene,” “Police escalated without cause,” "The office failed to respond to reports"
+  - `policy_violation_defense` → Frames student actions as compliant with university policies, or accuses administration of unfair discretionary action  
+  e.g., “Their structure was allowed to remain after permit expiration,” “We have the right to unplanned protest in the free speech zone”
+  - `financial_fairness` → Cites tuition or resource-allocation as basis for grievances with administration or another party  
+  e.g., “UCPD budget increases to fund more less-than-lethal weapons,” “Organization that uses student fees partakes in activities that exclude certain groups”
+  - `combination` → Multiple framings presented in one narrative (e.g., citing both rights violations and oversight failures)
   - `none` → No clear framing detected or purely factual logistics 
   - `n/a` → No student response occurred  
 <br><br>
