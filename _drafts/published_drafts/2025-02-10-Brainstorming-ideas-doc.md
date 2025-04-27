@@ -1,5 +1,5 @@
 ---
-layout: outline
+layout: project_default
 title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue
