@@ -139,7 +139,7 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Ordinal Categorical
 
 - **`severity_score`**  
-  The extent of direct harm, credible risk, or disruption caused by the incident to individuals, campus operations, or institutional safety—as observable at the time the incident occurred.
+  The extent of direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety—as observable at the time the incident occurred.
   - `low`
     - No credible threat or physical harm
     - Any disturbance was brief, self-resolving, and required no monitoring or intervention
@@ -153,7 +153,7 @@ This codebook defines all structured and qualitative fields used in the incident
     - Clear, immediate harm or serious disruption. Examples: physical violence, credible threats, arrests, dispersal orders with enforcement, or hospitalization
     - Triggered formal institutional responses: investigation, discipline, shutdown, or use of force
 
-  Note: 1. Lack of administrative action affects response variables, not severity (severity is an IV). 2. Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `_evidence/` YAML file.
+  Note: 1. Lack of administrative action affects response variables, not severity (severity is an IV). 2. Primary sources are contemporaneous, direct, or verifiable records of harm or disruption (e.g., police reports, medical records, Daily Bruin coverage, video evidence). These determine core variable values such as `severity_score`. Secondary sources include retrospective or interpretive materials (e.g., lawsuits, OCR complaints, task force reports, social media). These do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives. Use them to supplement—not override—primary evidence. Discrepancies between source types should be documented in the `evidence/` YAML file.
   
 - **`police_involvement`**  
   The extent of police involvement    
@@ -241,7 +241,7 @@ This codebook defines all structured and qualitative fields used in the incident
 - **`actor_positioning`, `target_positioning`**  
   How students frame the incident’s meaning, goals, or implications; captures strategic narrative rather than emotional tone  
   → `rights-based`, `oversight_failure`, `policy_violation_defense`, `financial_fairness`, `combination`, `none`, `n/a` 
-  - `rights-based` → Frames the incident as defending students’ legally or morally protected rights and freedoms  
+  - `rights-based` → Frames the incident around students’ legally or morally protected rights and freedoms, including any claim of being denied fair treatment, representation, or inclusion under civil rights principles  
   e.g., “University overreach is chilling protected speech,” “We were subject to a heckler’s veto," "This organization discriminates"
   - `oversight_failure` → Frames the incident as resulting from administrative indifference, selective enforcement, or unjust policing  
   e.g., “The university failed to intervene,” “Police escalated without cause,” "The office failed to respond to reports"
