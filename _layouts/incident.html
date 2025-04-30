@@ -6,31 +6,22 @@ layout: default
 <p><strong>Incident ID:</strong> {{ page.incident_id }}</p>
 <p><strong>Date:</strong> {{ page.date }}</p>
 
-<p><strong>Source(s):</strong>
-  <ul>
-    {% for src in page.source_ids %}
-      {% assign source = site.data.sources | where: "id", src | first %}
-      {% assign prefix = source.id | split: "-" | first %}
-      <li>
-        {{ source.title }}
-        {% case prefix %}
-          {% when "DB" %}(daily_bruin)
-          {% when "ADM" %}(admin)
-          {% when "MED" %}(media)
-          {% when "SOC" %}(social)
-          {% when "ORG" %}(student_org)
-          {% when "LEG" %}(legal)
-          {% when "RPT" %}(report)
-          {% else %}(unknown)
-        {% endcase %}
-        – <a href="{{ source.url }}">Original</a>
-        {% if source.file %}
-          | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-</p>
+<p><strong>Source(s):</strong></p>
+<ul>
+  {% for src in page.source_ids %}
+    {% assign source = site.data.source_master | where: "id", src | first %}
+    <li>
+      {{ src }}
+      {% if source.url %} – <a href="{{ source.url }}">Original</a>{% endif %}
+      {% if source.file %} | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+{% assign ev = site.data.evidence[page.incident_id] %}
+{% if ev %}
+  {% include evidence-list.html evidence=ev %}
+{% endif %}
 
 <p><strong>Keywords:</strong>
   {% if page.keywords %}
@@ -40,28 +31,30 @@ layout: default
   {% endif %}
 </p>
 
-
 <p><strong>Org-Affiliated Actor:</strong> {{ page.org_affiliated_actor }}</p>
 <p><strong>Actor is Student:</strong> {{ page.actor_student }}</p>
 <p><strong>Admin Response Type:</strong> {{ page.admin_response_type }}</p>
-<p><strong>Accountability follow-up:</strong> {{ page.accountability_follow_up }}</p>
-<p><strong>Admin support offered:</strong> {{ page.admin_support_offered }}</p>
+<p><strong>Accountability Follow-Up:</strong> {{ page.accountability_follow_up }}</p>
+<p><strong>Admin Support Offered:</strong> {{ page.admin_support_offered }}</p>
 <p><strong>Target Group:</strong> {{ page.target_group }}</p>
 <p><strong>Actor Group:</strong> {{ page.actor_group }}</p>
 <p><strong>Media Coverage Level:</strong> {{ page.media_coverage_level }}</p>
 <p><strong>Location:</strong> {{ page.location }}</p>
-<p><strong>Policy status:</strong> {{ page.policy_status }}</p>
-<p><strong>Policy violation type:</strong> {{ page.policy_violation_type | join: ", " }}</p>
-<p><strong>Norm violation type:</strong> {{ page.norm_violation_type | join: ", " }}</p>
+<p><strong>Policy Status:</strong> {{ page.policy_status }}</p>
+<p><strong>Policy Violation Type:</strong> {{ page.policy_violation_type | join: ", " }}</p>
+<p><strong>Norm Violation Type:</strong> {{ page.norm_violation_type | join: ", " }}</p>
 <p><strong>Severity Score:</strong> {{ page.severity_score }}</p>
 <p><strong>Police Involvement:</strong> {{ page.police_involvement }}</p>
-<p><strong>Admin statement latency:</strong> {{ page.latency_days }} days</p>
-<p><strong>Administrative tone:</strong> {{ page.administrative_tone | join: ", " }}</p>
-<p><strong>Student Tone:</strong> {{ page.student_tone | join: ", " }}</p>
-<p><strong>Institutional positioning:</strong> {{ page.institutional_positioning | join: ", " }}</p>
-<p><strong>Student Positioning:</strong> {{ page.student_positioning | join: ", " }}</p>
+<p><strong>Admin Statement Latency:</strong> {{ page.latency_days }} days</p>
+<p><strong>Administrative Tone:</strong> {{ page.administrative_tone | join: ", " }}</p>
+<p><strong>Administrative Positioning:</strong> {{ page.administrative_positioning | join: ", " }}</p>
 <p><strong>Media Positioning:</strong> {{ page.media_positioning | join: ", " }}</p>
+<p><strong>Actor Tone:</strong> {{ page.actor_tone | join: ", " }}</p>
+<p><strong>Target Tone:</strong> {{ page.target_tone | join: ", " }}</p>
+<p><strong>Actor Positioning:</strong> {{ page.actor_positioning | join: ", " }}</p>
+<p><strong>Target Positioning:</strong> {{ page.target_positioning | join: ", " }}</p>
 <p><strong>Admin Response Level:</strong> {{ page.admin_response_level }}</p>
 <p><strong>Notes:</strong> {{ page.notes }}</p>
+
 <h3>Summary</h3>
 {{ content }}

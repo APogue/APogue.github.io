@@ -1,10 +1,13 @@
 ---
 layout: outline
 title: "Protest activities-UCLA handling"
-published: false
+published: true
 author: Alexie Pogue
-date: 2024-10-22 8:05 PM
+date: 2025-4-29 3:03 PM
+sources: [DB-001, ADM-002]
 ---
+
+Note: this is a test run of source references in the front matter. They aren't actually referenced in this doc
 
 Thesis: Safety through accountability
 
@@ -188,8 +191,6 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 	- “Wade Stern, president of the Federated University Peace Officers Assn., in a statement.”
 
 		““What unfolded at UCLA calls into question whether UCLA complied with the guidelines to have in place senior administrators trained in crowd control response, with written plans for response that were the product of scenario training and consultation with its police department and outside law enforcement agencies,” said Stern, who is also an officer at UC Riverside. “The response to protests appears ad hoc and devoid of the structured planning mandated by the UC system.””
-
-
 
 
 

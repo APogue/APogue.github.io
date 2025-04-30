@@ -12,25 +12,25 @@ This project documents and analyzes university administrative response to identi
 ├── _config.yml
 ├── _incidents/                # One Markdown file per incident (YAML front matter + narrative)
 │   └── INC-001.md
-├── _evidence/                 # One YAML file per incident with coded justifications + sources
-│   └── evidence-INC-001.yml
-├── assets/
-│   └── evidence/              # Screenshots or visual captures tied to incidents
-│       └── INC-001/
-│           └── montage.png
+├── _includes/                 # Reusable Liquid include snippets for rendering source lists
+│   ├── evidence-list.html
+│   └── source-list.html
 ├── _data/                     # Centralized structured data
-│   └── sources.yml            # Source registry (DB-, ADM-, SOC-...)
+│   ├── evidence/              # YAML files with evidence metadata per incident
+│   │   └── INC-001.yml
+│   ├── source_master.yml      # Master source registry (DB-, ADM-, SOC-...)
 │   └── field_definitions.yml  # Variable definitions and coding schema
-├── sources/                   # Actual source documents (PDFs, screenshots, admin emails)
-│   └── DB-045.txt
+├── sources/                   # Raw source documents (PDFs, admin emails, Daily Bruin articles, etc.)
+│   ├── DB-045.txt
 │   └── ADM-014.txt
 ├── appendix/                  # Outputs: tables, charts, exports
 ├── projects/                  # Public-facing pages describing analysis + schema
-│   └── incident-analysis.md
-│   └── project-definitions.md
+│   ├── incident-analysis.md
+│   ├── project-definitions.md
 │   └── codebook.md
-├── _layouts/                  # Custom Jekyll layout for rendering incidents
-│   └── incident.html
+└── _layouts/                  # Custom Jekyll layouts for rendering incidents
+    └── incident.html
+
 
 ```
 ---
@@ -38,9 +38,9 @@ This project documents and analyzes university administrative response to identi
 ## 🧱 Folder Purpose
 
 - **`_incidents/`** — Stores structured incident files with consistent metadata (`incident_id`, `severity_score`, etc.)  
+- **`_includes/`** — Reusable Liquid snippets for rendering source lists 
 - **`_data/sources.yml`** — Master list of source metadata, referenced across incidents  
-- **`_evidence/`** — Holds justifications for how fields were coded as evidence metadata
-- **`assets/evidence/`** — Stores visual evidence within incident files (`INC-001`, etc.), corresponds to metadata in **`_evidence`**
+- **`_data/evidence/`** — Holds justifications for how fields were coded as evidence metadata  
 - **`sources/`** — Holds raw files like PDFs, admin statements, Daily Bruin articles  
 - **`projects/`** — Markdown pages like public-facing analysis summaries or indexes  
 - **`appendix/`** — Exported data, figures, and charts (for publication or inspection)  

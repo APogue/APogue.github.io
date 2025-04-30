@@ -4,7 +4,9 @@
   title: "Op-ed: Antisemitic imagery at UC Regents meeting protest threatens campus discourse"
   file: sources/DB-001.txt
   url: "https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse"
-  used_in: [INC-001]
+  used_in: 
+    incidents: [INC-001]
+    blog: 
 
 - id: DB-002
   type: daily_bruin
@@ -12,8 +14,10 @@
   title: "Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1"
   file: sources/DB-002.txt
   url: "https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1"
-  used_in: [INC-002, INC-003]
-
+  used_in: 
+    incidents: [INC-002, INC-003]
+    blog: 
+      
 - id: DB-003
   type: daily_bruin
   date: 2024-04-30
@@ -97,7 +101,7 @@
   used_in: [INC-001]
 
 - id: SOC-004
-  type: IG
+  type: reddit
   date: 2024-03-20
   title: "At UCLA today. This is why I'm scared of going to campus as an Israeli Jew."
   file: sources/SOC-004.png
@@ -127,3 +131,27 @@
   file: sources/SOC-006.txt
   url: "https://www.instagram.com/p/C51p_t2SMCH/?hl=en"
   used_in: [INC-001, INC-002, INC-003]
+
+- id: SOC-006-2
+  type: IG
+  date: 2024-04-16
+  title: "During March 19-21, students and community from four..."
+  file: sources/SOC-006-2.png
+  url: "https://www.instagram.com/p/C51p_t2SMCH/?hl=en"
+  used_in: [INC-001]
+
+- id: SOC-007
+  type: reddit
+  date: 2024-03-23
+  title: "UCLA Condemns “Ugly Antisemitic” Pig Display"
+  file: 
+  url: "https://www.reddit.com/r/ucla/comments/1blvyn6/ucla_condemns_ugly_antisemitic_pig_display/"
+  used_in: [INC-001]
+
+- id: SOC-008
+  type: reddit
+  date: 2024-03-21
+  title: "Did anyone report this?"
+  file: 
+  url: "https://www.reddit.com/r/ucla/comments/1bkomgw/did_anyone_report_this/"
+  used_in: [INC-001]

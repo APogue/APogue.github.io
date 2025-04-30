@@ -47,6 +47,10 @@
 
     <main>
       {{ content }}
+      {% if page.sources %}
+        {% include source-list.html sources=page.sources %}
+      {% endif %}
+
     </main>
 
     <footer>

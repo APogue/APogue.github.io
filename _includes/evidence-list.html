@@ -1,0 +1,42 @@
+{% comment %}
+  Render “Evidence Sources” header and list each variable→source pairing.
+  include.evidence is the hash loaded from _data/evidence/INC-XXX.yml
+{% endcomment %}
+
+{% assign ev = include.evidence %}
+{% assign has_sources = false %}
+
+{%- comment -%}
+  First pass: detect if any field has sources
+{%- endcomment -%}
+{% for pair in ev %}
+  {% assign entry = pair[1] %}
+  {% if entry.sources %}
+    {% assign has_sources = true %}
+  {% endif %}
+{% endfor %}
+
+{% if has_sources %}
+  <p><strong>Evidence Sources:</strong>
+  <ul>
+    {%- comment -%}
+      Second pass: output each field and its sources
+    {%- endcomment -%}
+    {% for pair in ev %}
+      {% assign field = pair[0] %}
+      {% assign entry = pair[1] %}
+      {% if entry.sources %}
+        {% for s in entry.sources %}
+          {% assign source = site.data.source_master | where: "id", s | first %}
+          <li>
+            <code>{{ field }}</code>: {{ s }}
+            – <a href="{{ source.url }}">Original</a>
+            {% if source.file %}
+              | <a href="{{ site.baseurl }}/{{ source.file }}">View snapshot</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}

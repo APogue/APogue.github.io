@@ -1,0 +1,18 @@
+{% assign source_ids = include.sources %}
+{% if source_ids %}
+  <h3>Sources Referenced</h3>
+  <ul>
+    {% for id in source_ids %}
+      {% assign src = site.data.source_master | where: "id", id | first %}
+      <li>
+        <strong>{{ id }}</strong>: {{ src.title }}
+        {% if src.url %}
+          – <a href="{{ src.url }}">Original</a>
+        {% endif %}
+        {% if src.file %}
+          | <a href="{{ site.baseurl }}/{{ src.file }}">Snapshot</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

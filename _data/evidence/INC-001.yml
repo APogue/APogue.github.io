@@ -1,0 +1,21 @@
+incident_id: INC-001
+
+org_affiliated_actor:        
+  value: true
+  sources: [SOC-006-2]
+  justification: 
+    UCLA Divest produced a protest montage featuring the pig effigy on 16 Apr 2024.
+
+
+target_tone:         
+  value: accusatory
+  sources: [SOC-007]
+  justification: Framed in this thread as the university, students, and others "having a problem" [with antisemitism]
+    
+
+
+target_positioning:    
+  value: rights-based
+  sources: [SOC-008]
+  justification: 
+    Indicates the effigy is clearly antisemitic, and either students are choosing to be ignorant or don't know the history
