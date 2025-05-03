@@ -70,14 +70,14 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`admin_support_offered`**  
   Whether there was supportive language included in an administrative response to assist students who may require justice, accountability, or repair  
-  → `n/a`, `none`, `counseling/referral`, `violation_warning`, `campus_climate_initiative`
+  → `n/a`, `none`, `counseling/referral`, `violation_warning`, `campus_climate_initiative`, `institutional_alignment`
   - `counseling/referral` → Students were directed to services such as CAPS, ombuds, or external reporting channels (e.g., UCPD, Title IX office)
   - `violation_warning` → Admin issued a statement referencing applicable university rules, laws, or policies, and explicitly warned students or groups about possible violations or consequences
   - `campus_climate_initiative` → Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
+  - `positive_inclusion` → Explicitly affirms the dignity and rights of the named, targeted group (*not to be confused with condemnation of acts against that group*) e.g. "Those who advocate on behalf of Palestinians should also be confident of their physical safety on our campuses."
+  - `institutional_responsibility` → Expresses continued commitment to a safe and fair campus environment; acknowledges responsibility in repair (does not require the implication of legal fault) E.g. “This display is a painful reminder that we must do more to foster understanding and compassion.” "We are tracking incidents, if behavior becomes pervasive consequences will be imposed.”
   - `none` → An administrative response occurred, but no support was offered
   - `n/a` → No admin response occurred 
-
-  Note: While policy may mot compel administrators to seek "justice" after the fact, is it an administrative failure when it is known that policies are being broken and nothing is done after the fact to ensure policies are not broken in the future? 
 
 - **`target_group`, `actor_group`**  
   Primary identity or identity affiliated with group targeted or affected  
@@ -273,8 +273,8 @@ This codebook defines all structured and qualitative fields used in the incident
 |------------------------------------|--------------------------|----------------------------------|-------------------------------------------------------------------|
 | `none`                             | `none`                   | `n/a`                            | `n/a`                                                   |
 | `minimal`                          | `general_statement`      | `none`                           | `none`                                                            |
-| `adequate`                         | `incident_specific`      | `proposed`| **Any one** of: `counseling/referral`, `campus_climate_initiative`, or `violation_warning` |
-| `strong`                           | `incident_specific`      | `proposed`                       | **Any two or more** of: `counseling/referral`, `campus_climate_initiative`, `violation_warning` |
+| `adequate`                         | `incident_specific`      | `proposed`| **Any one** of: `admin_support_offered` |
+| `strong`                           | `incident_specific`      | `proposed`                       | **Any two or more** of: `admin_support_offered`|
 
   Note: If two or more options reside on a response level, that is the designated level. E.g. if `admin_response_type` = `incident_specific` but both `accountability_follow_up` and `admin_support_offered` = `none`, downgrade to `minimal` by manual override. This captures purely symbolic responses.
 
