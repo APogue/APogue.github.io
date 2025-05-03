@@ -4,7 +4,7 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2025-5-2 9:28 PM
+updated_date: 2025-5-2 9:31 PM
 ---
 
 ### To any student
@@ -15,7 +15,7 @@ I don't know why I'm so surprised by the muted response to some incidents that o
 
 The community or certain stakeholders might expect certain rhetoric from the university, whether it's not a neutral approach to administrating, or goes beyond that can't be known for sure. It is possible though, outside of negligence, a certain focus on protecting some groups while condemning others is expected. Maybe the unwillingness to condemn non-affiliates is also expected. 
 
-Do you believe the university is listening to you, the student, you the participant in the campus culture, when they conduct themselves this way? In other words, violence aside, assuming that was not intentional, but that partial treatment was, how do you feel about that? Would you really care if the university went out of its way to advocate for inclusivity for everyone, and condemn antisemitism and anti-Muslim behavior equally? If it isn't for you, who do you believe the university does it for? 
+Do you believe the university is listening to you, the student, you the participant in the campus culture, when they conduct themselves this way? In other words, violence aside, assuming that was not intentional, but that partial treatment was, how do you feel about that? Would you really care if the university went out of its way to advocate for inclusivity for everyone, and condemn antisemitism and anti-Muslim behavior equally? If it isn't for you, who do you believe the university does it for? How does it make you feel as a student, that your voice isn't being heard?
 
 
 ### Sergio Olmos
