@@ -75,7 +75,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `violation_warning` → Admin issued a statement referencing applicable university rules, laws, or policies, and explicitly warned students or groups about possible violations or consequences
   - `campus_climate_initiative` → Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
   - `positive_inclusion` → Explicitly affirms the dignity and rights of the named, targeted group (*not to be confused with condemnation of acts against that group*) e.g. "Those who advocate on behalf of Palestinians should also be confident of their physical safety on our campuses."
-  - `institutional_responsibility` → Expresses continued commitment to a safe and fair campus environment; acknowledges responsibility in repair (does not require the implication of legal fault) E.g. “This display is a painful reminder that we must do more to foster understanding and compassion.” "We are tracking incidents, if behavior becomes pervasive consequences will be imposed.”
+  - `institutional_responsibility` → Expresses continued commitment to a safe and fair campus environment; acknowledges responsibility in repair (does not require the implication of legal fault) e.g. “This display is a painful reminder that we must do more to foster understanding and compassion.” "We are tracking incidents, if behavior becomes pervasive consequences will be imposed.”
   - `none` → An administrative response occurred, but no support was offered
   - `n/a` → No admin response occurred 
 
