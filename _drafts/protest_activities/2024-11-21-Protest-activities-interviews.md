@@ -8,7 +8,7 @@ updated_date: 2025-5-2 9:28 PM
 ---
 
 ### To any student
-I don't know why I'm so surprised by the muted response to some incidents that occurred or the response from the university or the greater community, I myself was very surprised by some of the admin statements, or that a study may conclude bias is occurring at UCLA. I suppose my "unique" reaction could be dismissed as naivete, maybe I don't know "how the world works," but my opinion really doesn't matter. The opinion of the people directly affected by this administration matters. Do you believe, if bias is occurring at UCLA, that it should just be dismissed? And more importantly, if you knew this is how you or your peers would be treated, would you still have chosen to come to UCLA?
+I don't know why I'm so surprised by the muted response to some incidents that occurred or the lack of response from the university or the greater community, I myself was very surprised by some of the admin statements, or that a study may conclude bias is occurring at UCLA. I suppose my "unique" reaction could be dismissed as naivete, maybe I don't know "how the world works," but my opinion really doesn't matter. The opinion of the people directly affected by this administration matters. Do you believe, if bias is occurring at UCLA, that it should just be dismissed? And more importantly, if you knew this is how you or your peers would be treated, would you still have chosen to come to UCLA?
 
 
 ### To one side or the other
