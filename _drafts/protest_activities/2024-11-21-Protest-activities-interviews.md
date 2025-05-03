@@ -4,8 +4,19 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2025-4-19 2:15 PM
+updated_date: 2025-5-2 9:28 PM
 ---
+
+### To any student
+I don't know why I'm so surprised by the muted response to some incidents that occurred or the response from the university or the greater community, I myself was very surprised by some of the admin statements, or that a study may conclude bias is occurring at UCLA. I suppose my "unique" reaction could be dismissed as naivete, maybe I don't know "how the world works," but my opinion really doesn't matter. The opinion of the people directly affected by this administration matters. Do you believe, if bias is occurring at UCLA, that it should just be dismissed? And more importantly, if you knew this is how you or your peers would be treated, would you still have chosen to come to UCLA?
+
+
+### To one side or the other
+
+The community or certain stakeholders might expect certain rhetoric from the university, whether it's not a neutral approach to administrating, or goes beyond that can't be known for sure. It is possible though, outside of negligence, a certain focus on protecting some groups while condemning others is expected. Maybe the unwillingness to condemn non-affiliates is also expected. 
+
+Do you believe the university is listening to you, the student, you the participant in the campus culture, when they conduct themselves this way? In other words, violence aside, assuming that was not intentional, but that partial treatment was, how do you feel about that? Would you really care if the university went out of its way to advocate for inclusivity for everyone, and condemn antisemitism and anti-Muslim behavior equally? If it isn't for you, who do you believe the university does it for? 
+
 
 ### Sergio Olmos
 
