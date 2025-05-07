@@ -1,0 +1,220 @@
+# Free Speech on Campus: The Basics, The Myths, The Challenges
+Version 1.1 | released 2023.10.25
+
+## INTRODUCTION
+
+Free speech is critical to every democracy's health and longevity. The same goes for higher education, where freedom of expression and freedom of inquiry form bedrock principles central to our mission to pursue knowledge and understanding.
+
+But translating theoretical principles into real-world practice is messy. One reason is because freedom of speech is both made possible by and limited by other rights and values, such as equality. On the one hand, freedom of speech requires equality. For example, what genuine freedom of speech is there if the most marginalized and dissenting cannot join the conversation? On the other hand, freedom of speech can undermine equality? For example, what if a speaker mocks, harasses, or intimidates certain groups, which interferes with their ability to learn in the classroom? What then should universities do?
+
+None of this easy. And caricatures, strawpersons, and ad hominems don't help. But the point of a university is to struggle with the most challenging issues of our times. We invite you to engage with us in this struggle, as we explore some law, consider some arguments, and think through our disagreements. In other words, join us as we muddle through, in good faith.
+
+The following pages offer a point of departure for this journey. This isn't legal advice. It's not even meant as official University policy. It's instead the start of a public conversation. Our analysis is incomplete, a work-in-progress, consistent with the Office of Equity, Diversity and Inclusion's ethos that embraces reflection, revision, and reiteration. For additional resources regarding free speech on college campuses, please visit our "Freedom of Speech" webpage.
+
+After reading this document, please exercise your free speech rights and let us know what you think. Email us at WeListen@equity.ucla.edu (please include "Free Speech Guidance" in the subject line). Dissenting voices are, of course, welcome.
+
+## PART I: FREE SPEECH 101
+
+### Whose Right is it, Anyway?
+
+#### It's my (First Amendment) Right!
+
+When we call something a "right," we're often speaking loosely—asserting that we are entitled to act or decide without any interference. But let's be more precise and focus on a formal "right" recognized under law. The federal right to "Freedom of Speech" is contained within the First Amendment to the United States Constitution. It states: "Congress shall make no law . . . abridging the freedom of speech . . . ."
+
+#### Bill of Rights
+
+The First Amendment is one of ten Amendments within the Bill of Rights, which Congress adopted, and the States ratified, in 1791. The purpose of the Bill of Rights was to protect individuals against government power. Initially, the Bill of Rights was understood to apply only against the federal government (e.g., laws passed by Congress), but after the Fourteenth Amendment (adopted in 1868), the Supreme Court held that most of its provisions apply also to the states and local governments.
+
+### Who Must Comply with the 1st Amendment?
+
+#### The Government (i.e., State Actors)
+
+The First Amendment, like almost every other constitutional provision, applies only to "state actors"—that is, the government and those working on its behalf. Thus, if your friends tell you to shut up, they may be limiting your speech, but they are not violating the First Amendment. Why? Because they're not the government. The same goes for Google, even when it fires an employee because of her speech. Why? Same answer. As large and powerful as it is, Google isn't the government (unless it's acting at the government's behest). Other laws, such as contract law or labor law, may have been broken. But not the First Amendment. Free speech values, principles, or goals may have been compromised. But again no First Amendment rights were violated.
+
+#### What about UCLA?
+
+Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most definitely applies.
+
+#### And the Privates?
+
+Private universities generally are not considered "state actors," which means that the Constitution doesn't apply to them. That said, most private universities voluntarily govern themselves as if they were subject to the First Amendment and, quite often, have promised (through contract) to do so. Also, some state statutes—including the Leonard Law in California—expressly apply First Amendment norms to student speech at private universities.
+
+### Why Protect Speech?
+
+#### It's Essential to a Healthy Democracy
+
+We protect speech because words and expressive conduct can do glorious things. They can inform us of startling facts and new discoveries. They can teach us novel theories and buried histories. They can persuade us to shift our views and understandings. They can move us with rhyme and meter and gorgeous metaphor.
+
+More fundamentally, we value free speech because it is essential to a healthy democracy. At its most basic level, freedom of speech permits us to dissent from government conduct—whether by poster, tweet, or raised fist, and whether it's disagreement with domestic affairs, foreign policy, or public monuments. Without this protection, the government could punish speech it disliked. Say a prayer, go to jail. Speak your mind, pay a fine. Would you want to live in such a society? Would you want a UCLA Administrator, California Governor, or United States President to wield such power?
+
+#### And to the University and Its Mission
+
+Freedom of speech carries special import on university campuses such as ours. As a public institution in Southern California, we proudly celebrate the robust diversity of perspectives, beliefs, and values that exists amongst us. But such heterogeneity means there will be conflict and passionate disagreement. Of course, UCLA should do everything possible to ensure that those disagreements are debated on-the-merits, with clarifications, concessions, persuasion, and respect. But the bottom line is that we want that diversity of viewpoints to be aired, debated, and considered, not trapped inside single-minded echo chambers.
+
+In addition, UCLA vociferously defends its commitment to "academic freedom," which among various meanings includes the freedom to inquire. There's no constitutional provision that explicitly addresses academic freedom, but the Supreme Court has described it as a "special concern of the First Amendment." The freedom to communicate (speech) and the (academic) freedom to inquire are both essential to the university's fundamental mission, "which is to discover knowledge and to disseminate it to its students and to society at large."
+
+#### But there are Costs
+
+We'll say more about this shortly, but we are compelled at this point to state clearly that free speech comes with great costs. Words and expressive conduct can wound in severe and concrete ways. For a university, any discussion about freedom of speech is incomplete without recognizing that speech can derail other fundamental commitments—for instance, to ensure that all students, regardless of identity, can live, learn, and study in an equal learning environment.
+
+### How Does The First Amendment Work?
+
+#### What's In: Expressive Conduct
+
+The First Amendment's "freedom of speech" not only protects oral speech but also "expressive conduct," which includes any conduct intended to communicate an idea or message that can be reasonably understood. Consequently, "freedom of speech" could cover texting with emojis, wearing a black armband, flashing a gang sign, burning a cross, wearing a particular type of hat, or kneeling during the national anthem.
+
+#### What's Out: Categorical Exceptions
+
+The Supreme Court has carved out various categories of speech as "unprotected speech" or "less protected speech." Here's the main list:
+
+• incitement of imminent lawless action;
+• fighting words (addressed at a specific individual to trigger an immediate fistfight);
+• true threats;
+• defamation (false statements of fact published with a particularly reckless state of mind that harms reputation);
+• obscenity (which is not quite the same as pornography);
+• harassment;
+• and child pornography (which involves actual minors).
+
+If your speech falls into one of these categories—which are all legal terms of art—state actors need little justification to constrain or punish that speech.
+
+#### Content-based Restrictions: Presumptively Bad
+
+Content-based restrictions are generally unconstitutional. Thus, if a university wants to ban speech because of the content of the message (e.g., speech about abortion, or affirmative action, or Middle East politics), it is really, really hard to do consistent with the First Amendment.
+
+#### Content-Neutral Restrictions: Presumptively Good
+
+Suppose Residential Life doesn't want music blaring in the dorms after midnight? They don't care whether you're playing Bieber or Drake, Mozart or Chopin, a podcast or a movie. If you're forced to turn off your speakers because people need their sleep, is that unconstitutional? It is your speech after all.
+
+It turns out that the First Amendment is (appropriately) more flexible and tolerant of "content-neutral" speech restrictions – that is, restrictions unrelated to the content of someone's speech. Another label for them is "time, place, and manner" restrictions because they concern precisely that: the time (after midnight), place (in the dorms), and manner (via loudspeakers) in which an individual may speak. In this example, UCLA just wants students to be able to sleep through the night. For content-neutral restrictions, the government need only show that it is pursuing some "significant" interest that does not burden substantially more speech than necessary, a relatively lower burden.
+
+But here's the worry. Sometimes governments employ what they claim are mere "time, place, and manner" regulations to suppress a message they dislike. For example, if these regulations are extraordinarily vague or they are unevenly applied—say, employed to censor some speakers but not others—people could reasonably question whether the constraints (or their application) are content-neutral after all.
+
+### The Costs
+
+#### Words Matter
+
+While speech protections produce real benefits, we should be honest that these protections entail real costs and consequences. Words and expression can do awful things. They can insult and mock. They can grievously wound. They can gossip and betray. They can lie. They can intimidate and threaten. They can fake the news and be weaponized to deceive, manipulate, and sow discord. They can become memes that lead kids to bully, tribes to kill, nations to war.
+
+As children, we were taught to sing "sticks and stones may break my bones, but words will never hurt me." If only that were entirely true. Words can devastate—offline and on, even when the speaker doesn't intend to do so. This reality explains why free speech doctrine has categorical exceptions, such as child pornography and true threats.
+
+#### But, "Hate Speech" is Protected Speech
+
+Lots of people say "Hate Speech is NOT Free Speech." But this inaccurately describes the law: there is no categorical exception for "hate speech." Notwithstanding the harm it causes, "hate speech" is protected speech. We understand and appreciate the instinct to bar "hate speech," particularly on a college campus, and particularly given our country's legacy of genocide, slavery, exclusion, internment, and Jim Crow, and the ongoing ways in which speech is deployed to marginalize groups (for instance, transgendered people) and challenge even their most basic rights to exist, free from violence. But as a descriptive statement of law, the assertion "hate speech is not free speech" is just plain wrong. The Supreme Court has repeatedly struck down laws—including university "speech codes"—that penalize or otherwise regulate "hate speech."
+
+#### "Is" versus "Should"
+
+Whether hateful speech should be protected is a different question on which reasonable minds can and do disagree. In fact, some democracies like France and Germany criminalize certain forms of hateful speech. Our view is that that although any existing law—including First Amendment law—is contingent, contestable, and hardly inevitable, it is always critical to know what that existing law is. Thus, when we enter debates about freedom of speech, including hate speech, let's take care to distinguish between "what is" the law and what we think the law "should be," and not confuse the two. Recognizing this distinction is not meant to foreclose earnest debate about constitutional doctrine, civil disobedience, institutional design, or radical change. It is simply to engage that debate with clarity.
+
+#### What's up for Debate
+
+As you might have guessed, legal debates about free speech often target whether someone's speech falls into one of the previously identified categorical exceptions. After all, what counts as a "true threat"? What's "obscenity"? And most important, what counts as "harassment?" Those who seek to create a whole new exception or increase the scope of recognized exceptions face an uphill battle. For good or bad, the Supreme Court has interpreted what counts as "unprotected speech" and "less protected speech" narrowly and is likely to continue doing so in the foreseeable future.
+
+## PART II: MYTH BUSTING
+
+### Myth #1: Truth Always Prevails in the Marketplace of Ideas
+
+Often people emphasize that the antidote to (bad, including hateful) speech is more (good) speech. They reassure us that in the "marketplace of ideas," truth will always win out. But that's an empirical claim, and if inspected carefully, seems naive. In the marketplace of music, fashion, and food, winners are often determined by popularity, not by what's best, the highest quality, or the most truthful.
+
+Plus, power matters. Some people have more opportunities to speak than others; more resources to disseminate their speech than others; more opportunities to be heard than others; and more opportunities to drown out the voices of others. Speech "marketplaces," like other marketplaces, often fail to function as we hope they would. Remember, that's why we regulate markets through tools such as antitrust law and consumer protection law.
+
+If power matters and the "best" ideas don't always prevail, why do we continue to say more speech is always better? The truth is, people who recommend "better" speech to counter "bad" speech do so not because they believe that pursuing that path will guarantee truth or produce the best ideas. It's because if we fail to respond at all, the perceived "bad" ideas go unchallenged by the perceived "good" ones.
+
+### Myth #2: Freedom-of-Speech is Everything
+
+Yes, we care about freedom of speech—a constitutional value and right—but we care about other constitutional values and rights as well, such as our commitment to equality as mandated by the Equal Protection Clause of the Fourteenth Amendment. The difficulty is that sometimes freedom of speech promotes equality (by, for example, preventing the government from silencing marginalized voices) and sometimes it does not (by, for example, permitting the use of racial epithets).
+
+Consider the messy example of harassment, which can include sexual harassment or racial harassment. Sexual harassment violates UC policy and can violate employment and education law. But how does harassment take place? Often through words and expressive conduct (as in pictures). If some coworker insists on pinning pornography to his cubicle walls, those images will predictably impact others who share that workspace. Should his liberty—indeed his freedom—to consume pornography on the job be protected at all costs, even as it undermines the equal opportunity for others around him to work and earn a living?
+
+Most people have no difficulty saying that workers cannot consume pornography on the job because it constitutes sexual harassment. Indeed, laws and regulations that prohibit such harassment are generally understood to comply with the First Amendment. But this means freedom of speech can sometimes be constrained to further the right to equality. The reality—and challenge—is that sometimes equality gives way to freedom of speech, and vice versa.
+
+### Myth #3: Only the Left (or Right) Hates Free Speech
+
+Views about free speech rarely map onto political ideology in some neat way. To the contrary, history reveals that all sides across the political spectrum have sought to suppress opposing viewpoints. Currently, people on the Left are commonly faulted for seeking to limit speech that they view as racist, sexist, homophobic, fascist, or triggering. Yet at the same time, those on the Right seek to limit speech that they view as desecrating the American flag, disrespecting the national anthem, or flaunting indecency. What's interesting is that it's easy to recognize when "they" are limiting speech, but much harder to see when "we" are doing the same.
+
+### Myth #4: Censorship is a One-Way Street
+
+Relatedly, whenever the government comes after us, it's natural to be outraged and to assert our free speech rights. How dare you constrain my rights? But if the government goes after them—especially when they're saying things we find stupid or wicked—it's natural to start cheering. But therein lies the rub. Us and them are just flip-sides of each other.
+
+If the government can easily go after them, a different government could just as easily come after us. We are not suggesting that there's always perfect symmetry or equivalencies; of course, context matters. Moreover, history reveals that some groups have borne the brunt of constitutional rights violations more persistently and systemically than others. But as a general rule, legal rights often work like a double-edged sword. They cut in both directions. If we have rights, so do they. If the government can shut them up today, it can shut us up tomorrow.
+
+## PART III: WHAT'S UCLA TO DO
+
+### The Basics
+
+#### Regulate Unprotected Speech
+
+Remember that certain forms of speech, such as true threats and defamation, are unprotected under the First Amendment. There's a reason why these forms of speech are unprotected (or less protected); as a general rule, it's understood that they cause concrete harm and provide little if any social value. UCLA is largely free to regulate those forms of speech and it should attempt to do so.
+
+#### Vigorously Enforce Anti-Discrimination Laws and Norms
+
+Multiple state and federal laws, as well as University rules and regulations, prohibit discrimination on the basis of race, gender (including sexual harassment), and other protected categories. Generally, these laws and regulations, which may seem to restrict speech and expressive conduct, do not violate the First Amendment. While there is some uncertainty in the law with respect to what counts as harassment, the UCLA Student Conduct Code (Section 102.11) defines harassment as "conduct that is so severe and/or pervasive, and objectively offensive, and that so substantially impairs a person's access to University programs or activities that the person is effectively denied equal access to the University's resources and opportunities."
+
+### Show Neutrality
+
+#### Employ Content-Neutral Restrictions
+
+Sometimes, UCLA might want to limit speech for reasons wholly unrelated to content. Recall our time, place, and manner example involving Residential Life prohibiting students from blaring music in the dorms after midnight. The prohibition would be presumptively constitutional. Why? Remember: Residential Life doesn't care what kind of music you're playing. The office just wants your speakers off so others can sleep.
+
+As you might already know, UCLA employs various content-neutral time, place, and manner regulations that govern speech on University property. These regulations cover, among other things, the posting of "literature, signs or personal announcements" on University property; and the use of amplified sounds; and "[s]igns, banners, and displays" on Bruin Walk. UCLA does not, however, employ "Free Speech Zones" that require students to use designated parts of campus, at designated times, to engage in free speech activities.
+
+#### Protest: Yes | Complete Disruption: No
+
+As administrators, our job is to allow speech and counter-speech. When a registered campus organization invites an unpopular speaker onto campus, our task is to ensure that the speaker can speak and the protesters can protest. Both constitute expressive conduct protected by the First Amendment. Neither may be suppressed simply because UCLA disagrees with the message. The hardest challenge arises when protest (or counter-protest) morphs into complete disruption of the event.
+
+#### Discourage Heckler's Veto
+
+Suppose a controversial speaker encounters a "heckler" in the audience. The heckler stands up and starts screaming so loudly that no one else can hear the speaker (or anyone else). No actual violence is threatened, but the lecture cannot continue. On the one hand, one could describe this situation as speech on both sides: the invited speaker versus the protester. On the other hand, the heckler's contribution effectively silences the invited speaker and prevents him or her from communicating with a willing audience.
+
+That amounts to a "Heckler's Veto," which the University frowns upon and First Amendment law does not protect. Why? Because it allows a single highly motivated individual to prevent a speaker from communicating with an entire audience. Even if you like this particular heckler, what will you do when a heckler comes after you?
+
+If UCLA allows hecklers to shut down talks, then we're conceding power to anyone willing to show up and scream loudly enough. That sets a troubling precedent, especially for a University committed to academic freedom. And if we escort some hecklers out of the room but not others, on the basis of their viewpoint, we become complicit in conduct that potentially violates the First Amendment.
+
+### Pick a Side
+
+#### Proudly Proclaim our Values
+
+Emphasizing the need to protect speech and counter-speech from violence and complete disruption presents the University as little more than crowd control. This might sound a bit unambitious. Can UCLA do anything more? Absolutely.
+
+Even though UCLA as "sovereign" cannot suppress speech simply because it disagrees with its message, UCLA as "speaker" may pick a side and share its beliefs. UCLA can, and should, exercise the full power of its bully pulpit to speak our values. When UCLA speaks, it need not be neutral. To the contrary, UCLA may loudly and proudly embrace equity, diversity, and inclusion while fervently rejecting inequity, homogeneity, and exclusion. This includes publicly denouncing hate speech, whether that speech is expressed by members of the UCLA community or by those invited into our fold.
+
+The CrossCheck "blog", for example, is one venue through which the Office of Equity, Diversity and Inclusion takes a stand and proudly proclaims our institutional values.
+
+### Reframe the Controversies
+
+#### From Trigger Warnings to a "Heads-up" to Better Teaching
+
+A trigger warning is essentially a "heads-up" that the discussion will address sensitive or disturbing subjects. Ironically, some people are triggered by the very concept of trigger warnings. Just hearing about such warnings fill them with emotional outrage, which makes it hard for them to focus and continue listening. We understand some of the rage. If warnings were everywhere, we could find ourselves in a culture so sensitive to audience discomfort that nothing of substance is ever said. Of course that would be troubling. Great ideas, great art, and great teaching should often make us uncomfortable.
+
+But let's try to avoid caricature in these conversations. First, UCLA neither mandates that faculty use trigger warnings nor prevents them from doing so. It's faculty choice, which is consistent with academic freedom. Second, trigger warnings are rarely provided willy-nilly. Instead, they're usually offered by faculty who recognize that they are about to discuss particularly sensitive subject matters (such as rape or sexual violence) that, of themselves, can re-traumatize a survivor. Third, we should own the fact that many trigger warnings don't bother us at all. Take, for example, ratings for TV shows and movies that warn us of foul language, nudity, or violence. Many of the same folks who decry trigger warnings in the classroom lobbied hard for television and movies to "voluntarily" label their programming. But aren't these all just different forms of trigger warnings?
+
+At UCLA, we think it useful to shift the frame from "trigger warnings" to a "heads-up for better teaching." If faculty learn that certain topics—without warning—will discombobulate some students—for whatever reason, including something as mundane as level of difficulty—what does sound pedagogy call for? A heads-up. It's a decent thing to do and, more important, improves learning. At bottom, that's what a University should care most about.
+
+#### From Micro-Aggressions to Micro-Connections
+
+Above we pointed out the simple truism that "words matter." It's obvious that grotesque insults can rattle the listener. But, subtler words can also send signals of disrespect, exclusion, or contempt. For example, if a person of Asian descent is constantly asked "where are you from," the implicit message conveyed is that Asians are forever foreigners (regardless of how many generations their family has lived in LA). The microaggressions literature gives voice to how subtler words can have a surprisingly large impact.
+
+The pushback to this discourse is that people are being too "sensitive." That, of course, is possible. Just as the meaning of "expressive conduct" is not fully controlled by the subjective intent of the speaker, it should not be fully controlled by the subjective understanding of the listener. In truth, the social meaning of any speech act lies somewhere between speaker and listener. But once we recognize that intent is not everything (consider the claim that kneeling football players disrespect the flag, regardless of their intent), we have to admit that a speaker's honest desire not to offend does not end the discussion.
+
+Here are the pivots: First, let's reframe the microaggressions debate into the simple observation that words matter beyond the speaker's intent and can take on a life of their own (particularly in our tweet-filled world) that the original speaker can rarely control. Second, let's move beyond lamenting the problem of micro-aggressions and actively facilitate micro-connections, the building of community across differences, one relationship at a time. At a great public research university, our goal should be to uncover unexpected commonalities, interests, perspectives across diverse categories. It's these micro-connections—comprising smiles, decency, respect, kindness, and empathy—that thicken the social mesh that keeps our community genuinely connected and resilient.
+
+#### From "Safe Spaces" to "Safe Spaces + Brave Spaces"
+
+On the one hand, a call for "safe spaces" should not be controversial. No one can effectively learn or work if they fear for their basic physical safety. On the other hand, some criticize "safe spaces" as a demand for "coddling" or bubble wrap that insulates us from anything we find sharp or prickly, psychologically, emotionally, or politically. This interpretation of, and hostility to, "safe spaces" shares notable features with the resistance to recognizing "micro-aggressions."
+
+Again, let's reframe. To begin with, let's admit our need to live in at least two spheres, a private sphere and a public sphere. After a long hard day at work (public sphere), we return to our homes and families (private sphere). At work, we need to engage, perform, and produce on public terms. At home, we can chill, relax, let our hair down, recharge, and just be ourselves. We all need private spaces; without them, we'd never be able to recompose to engage the public ones.
+
+When students, especially those from underrepresented groups, demand "safe spaces," a natural response might be that they can find one at home. But here's the tricky part: many students live, study, and work on campus. Physically, there's no real separation between work life and home life; it's all at UCLA. Also, with the rise of social media, it's increasingly difficult to keep the spheres separate. And if "school" feels hostile and if "dorm" life feels threatening, where are students supposed to go to recharge?
+
+So, for those skeptical about "safe spaces," we ask for a bit of empathy, and the recognition that private spheres of refuge are necessary yet not equally available to all. For those enamored with "safe spaces," we ask for openness to the idea that safe spaces are most important because they co-exist with "brave spaces," places (such as the classroom) where we intentionally put ourselves "out there," to challenge our thoughts, ideas, and assumptions. To satisfy its mission, the University must ensure that all students can access both "safe spaces" and "brave spaces." To put this another way, "safe spaces" and "brave spaces" are not in tension with each other. The existence of "safe spaces" increases the likelihood that students will indeed be "brave."
+
+## PARTING THOUGHTS
+
+### Walk our Values
+
+They say that it's easy to "talk the talk," but hard to "walk the walk." Though even talking about these subjects isn't necessarily easy, we know that speaking our values is not enough. UCLA should walk those values as well. We have already said that the University should vigorously enforce our anti-discrimination laws and norms. In addition, UCLA should continue its efforts to diversify the university; to facilitate the development of programmatic and curricular initiatives that advance and reflect its commitment to equity, diversity, and inclusion; and proactively work to ensure that no student feels barred from participating in the multiple dimensions of campus life because of their social group membership.
+
+### Your Voice Matters
+
+We opened by stating our goal to engage earnestly the difficult topic of free speech on college campuses. We were also clear to note that this document is a work-in-progress. We don't presume to have every answer or to have gotten everything right. At the same time, we are confident that none of these issues will go away anytime soon. Students and faculty will continue to invite controversial speakers to campus. Some of those speakers will bring along with them "hateful but protected speech." Students and members of the public will protest and counter-protest. Some of those protests will be disruptive, even reaching the point of a "heckler's veto." And the University will have to carry on, governing as it must, negotiating all of the tensions we explored, managing the contestable line between "what is" and what "should be" the law, and ensuring that its commitment to free speech and academic freedom does not subordinate or eviscerate its commitment to equity, diversity, and inclusion.
+
+At the outset, we encouraged you to share some views. We sincerely hope you will do so by emailing us at WeListen@equity.ucla.edu (remember to include "Free Speech Guidance" in the subject line). It remains our intention to reflect, to revise, and to reiterate. Your comments, and especially your criticisms, are crucial to that effort. Which is to say, your voice matters to us—and to the university writ large.

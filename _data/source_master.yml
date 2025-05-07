@@ -155,3 +155,33 @@
   file: sources/SOC-008.png
   url: "https://www.reddit.com/r/ucla/comments/1bkomgw/did_anyone_report_this/"
   used_in: [INC-001]
+
+- id: POL-001
+  type: regents
+  date: 2024-01-01
+  title: "Regulations Governing Conduct of Non-Affiliates in the Buildings and on the Grounds of the University of 
+  California"
+  file: sources/POL-001.txt
+  url: https://policy.ucop.edu/doc/3000127/NonAffiliateRegs
+  used_in: 
+
+- id: POL-002
+  type: regents
+  date: 2024-01-01
+  title: "Student Conduct Code"
+  url: https://studentconduct.ucla.edu/individual-student-code
+  used_in: 
+
+- id: POL-003
+  type: regents
+  date: 2024-08-29
+  title: "Student Conduct Code"
+  url: https://policy.ucop.edu/doc/1001004/Anti-Discrimination
+  used_in: 
+
+- id: PHIL-001
+  type: edi
+  date: 2023-10-25
+  title: "Free Speech on Campus: The Basics, The Myths, The Challenges"
+  url: https://ucla.app.box.com/v/free-speech-on-campus
+  used_in: 
