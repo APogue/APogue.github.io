@@ -75,7 +75,8 @@ This codebook defines all structured and qualitative fields used in the incident
   - `violation_warning` → Admin issued a statement referencing applicable university rules, laws, or policies, and explicitly warned students or groups about possible violations or consequences
   - `campus_climate_initiative` → Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
   - `positive_inclusion` → Explicitly affirms the dignity and rights of the named, targeted group (*not to be confused with condemnation of acts against that group*) e.g. "Those who advocate on behalf of Palestinians should also be confident of their physical safety on our campuses."
-  - `institutional_responsibility` → Expresses continued commitment to a safe and fair campus environment; acknowledges responsibility in repair (does not require the implication of legal fault) e.g. “This display is a painful reminder that we must do more to foster understanding and compassion.” "We are tracking incidents, if behavior becomes pervasive consequences will be imposed.”
+  - `institutional_responsibility` →  Explicitly acknowledges gaps or failures in the institution's approach and commits to specific improvements or changes (does not require the implication of legal fault) e.g. “This display is a painful reminder that we must do more to foster understanding and compassion.” "We are tracking incidents, if behavior becomes pervasive consequences will be imposed.”
+  - `general_commitment` → Reaffirms existing commitments as sufficient, without acknowledging specific responsibility or need for change (e.g., "We remain committed to doing all we can...")
   - `none` → An administrative response occurred, but no support was offered
   - `n/a` → No admin response occurred 
 
@@ -87,11 +88,16 @@ This codebook defines all structured and qualitative fields used in the incident
   Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
   - `none`: Fewer than 2 sources
   - `low`: At least 2 internal or niche sources (e.g., org IG + campus newspaper other than DB or reddit r/UCLA), no external visibility  
-  - `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets), no mainstream or outside-community pickup
-  - `moderate`: At least 5 sources **across ecosystems**, including **at least two sources** with general public reach (e.g., LAist, local media)
+  - `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets, topic-specific subreddits or social media groups), no mainstream or outside-community pickup
+  - `moderate`: At least 5 sources **across ecosystems**, including **at least two sources** with general public reach (e.g., LAist, KTLA, local media)
   - `high`: At least 5 sources with cross-ecosystem or mainstream pickup (e.g., LAT, NYT, CNN) **or** viral social media exposure (≥ 100k views/interactions)
 
-  Note: 1. Code the **highest qualifying level**. All counts are minimum thresholds. 2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure and that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded.
+  Note: 
+  1. Code the **highest qualifying level**. All counts are minimum thresholds. 
+  2. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 
+  3. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure and that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded. 
+  4. When coding "moderate" or "high" levels, explicitly identify and list the specific sources that qualify as having "general public reach" in your justification. Do not count mentions of media coverage in other sources unless you can verify the original coverage specifically addressed the incident in question, i.e. all sources must specifically cover the incident itself, not just adjacent or related events. 
+  5. If there is ambiguity about whether the threshold for a higher level is met (e.g., unclear if exactly 5 sources exist or if a source truly has "general public reach"), default to the lower classification level. Only assign the higher level when the evidence clearly meets all criteria specified. 
 
 - **`location`**  
   Location where the incident took place  
@@ -106,7 +112,7 @@ This codebook defines all structured and qualitative fields used in the incident
   - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
   - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
 
-  Note: This can serve as a temporal indicator. It's also helpful to indicate when other variables, e.g. `accountability_follow_up`, are `none` or `n/a`, that there was no administrative failure if no violation occurred. 
+  Note: Note: Must read POL-001-POL-003.txt and PHIL-001.txt thoroughly before coding. Remember that as a public university bound by the First Amendment, UCLA has significant constraints on restricting speech, even when offensive or containing antisemitic/racist elements. Content-based speech restrictions face strict scrutiny. Expressions of hate, unless rising to the level of true threats, fighting words, or harassment that substantially interferes with educational access (not just creating subjective discomfort), are generally protected even when strongly condemned by the administration. Administrative condemnation does not automatically mean policy violation. When in doubt about whether offensive/hateful speech crosses the boundary into unprotected harassment or discrimination, lean toward protecting speech in accordance with constitutional principles outlined in PHIL-001.
 
 - **`policy_violation_type`**  
   What type of formal university policy was violated, if any  
