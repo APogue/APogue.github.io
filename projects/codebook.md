@@ -145,7 +145,27 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Ordinal Categorical
 
 - **`severity_score`**  
-  The extent of direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety—as observable at the time the incident occurred.
+  FOUNDATIONAL DEFINITION: **The extent of OBSERVABLE direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety at the time the incident occurred.**
+
+  OPERATIONAL DEFINITIONS:
+  - "Observable" means documented in primary sources, not secondary sources (defined in Note 2)
+  - "Disruption" means measurable interference with normal university operations
+  - "Credible risk" means a specific threat with reasonable likelihood of execution
+  
+  REQUIRED VERIFICATION CHECKLIST:
+  Before assigning a severity score, explicitly verify the presence or absence of:
+  □ Direct physical harm to persons
+  □ Credible risk to physical safety 
+  □ Disruption to campus operations
+  □ Disruption to institutional safety
+  □ Escalation that affected individuals, operations, or safety
+
+  If NONE of these elements are present, the incident MUST be coded as 'low' severity regardless of psychological impact or offensive content.
+
+  COMMON ERROR WARNING: Subjective feelings of fear, psychological distress, or offensive content - while important for other variables like `target_tone` - do NOT constitute observable harm, risk, or disruption for severity_score unless they resulted in measurable disruption to campus operations or institutional safety.
+
+  Justifications must explicitly address why the incident does NOT qualify for higher severity levels when coding as low or moderate.
+
   - `low`
     - No credible threat or physical harm
     - Any disturbance was brief, self-resolving, and required no monitoring or intervention
@@ -170,7 +190,7 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Quantitative
 
 - **`latency_days`**  
-  Number of days between the incident and the first admin response  
+  Number of days between the earliest incident date stated by a source and the earliest admin response date 
   → Integer  
   → *Derived from* `date` and timestamp of first admin statement
 
@@ -227,6 +247,31 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`actor_tone`, `target_tone`**  
   How students speak (attitude / rhetorical style) or depict an incident; captures emotional flavor rather than narrative framing or strategy.  
+  
+  CRITICAL CODING REQUIREMENTS FOR `target_tone` and `actor_tone`:
+
+  1. COMPREHENSIVE SOURCE REVIEW: 
+     - You MUST examine ALL sources that contain statements or reactions from the relevant group (actor or target).
+     - Review ALL social media (SOC sources), news quotes, and other documented reactions before determining tone.
+
+  2. QUANTITATIVE THRESHOLD:
+     - When different tones appear across sources, count the number of distinct references for each tone category.
+     - Code the predominant tone ONLY if it represents at least 60% of all tone references.
+     - Otherwise, code as 'combination' and specify which tones are present in your justification.
+
+  3. REQUIRED JUSTIFICATION FORMAT:
+     - List EACH SOURCE containing relevant tone indicators
+     - For EACH tone identified, provide at least two specific quotations or examples
+     - Explicitly state your counting methodology: "Found approximately X references to [tone1] and Y references to [tone2]"
+
+  4. WEIGHTING CONSIDERATIONS:
+     - Statements from formal organization representatives should be given equal weight to multiple individual statements
+     - Consider both frequency AND intensity of tone indicators
+
+  5. CROSS-SOURCE VERIFICATION:
+     - Look for consistency across different types of sources (official statements vs. social media)
+     - When inconsistencies exist between sources, prioritize statements directly from affected individuals/groups over third-party characterizations
+
   → `accusatory`, `fear/distress`, `defensive`, `defiant`, `mobilizing/escalatory`, `conciliatory`, `solidarity`, `combination`  
   - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
     e.g., “Admin has failed us,” “They are complicit”

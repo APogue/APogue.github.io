@@ -100,7 +100,7 @@ police_involvement:
 # Quantitative
 latency_days: 
   value: 7
-  justification:  "XX The incident occurred on March 21, 2024 (as indicated in MED-001 and SOC-002), and ADM-001 shows UCLA's 
+  justification:  "The incident occurred on March 21, 2024 (as indicated in MED-001 and SOC-002), and ADM-001 shows UCLA's 
   official response was issued on March 28, 2024, a difference of 7 days."
   sources: [ADM-001, MED-001, SOC-002]
 
@@ -128,7 +128,7 @@ media_positioning:
 
 actor_tone:
   value: defiant
-  justification: "While the creator of the effigy is not identified, the display itself, with its prominent placement at a 
+  justification: " XX While the creator of the effigy is not identified, the display itself, with its prominent placement at a 
   public protest targeting the Regents and its provocative imagery, demonstrates defiance of institutional authority and 
   disregard for the impact on Jewish students."
   sources: [SOC-003, SOC-004, DB-001]
