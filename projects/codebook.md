@@ -388,7 +388,7 @@ To prevent confusion in using adjacent incidents or broader context as evidence 
   e.g., “The university failed to intervene,” “Police escalated without cause,” "The office failed to respond to reports"
   - `policy_violation_defense` → Frames student actions as compliant with university policies, or accuses administration of unfair discretionary action  
   e.g., “Their structure was allowed to remain after permit expiration,” “We have the right to unplanned protest in the free speech zone”
-  - `financial_fairness` → Cites tuition or resource-allocation as basis for grievances with administration or another party  
+  - `financial_grievence` → Cites tuition, fees, university resources, or funding allocation as basis for grievances with administration or another party
   e.g., “UCPD budget increases to fund more less-than-lethal weapons,” “Organization that uses student fees partakes in activities that exclude certain groups”
   - `combination` → Multiple framings presented in one narrative (e.g., citing both rights violations and oversight failures)
   - `none` → No clear framing detected or purely factual logistics 
