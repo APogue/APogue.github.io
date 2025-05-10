@@ -10,7 +10,7 @@ This codebook defines all structured and qualitative fields used in the incident
 
 ---
 
-## ⚠️ Critical Source Validation Protocol
+## Critical Source Validation Protocol
 
 To prevent the error of confusing codebook examples with actual source content:
 
@@ -31,6 +31,27 @@ To prevent the error of confusing codebook examples with actual source content:
    - For each variable, re-open the source document
    - Confirm any quotes used in justifications appear exactly as cited
    - Flag and review any justification that lacks direct quotes
+
+## Source Reference Protocol
+
+1. **Use ONLY source IDs explicitly provided in materials**: 
+   - Reference sources EXCLUSIVELY by the filename/ID given to you (e.g., "ADM-001.txt", "DB-001.txt", "SOC-006.png")
+   - NEVER create, invent, or assume source IDs that weren't explicitly provided
+   - If referencing an image or visual content, use its exact filename (e.g., "SOC-006" not "Image 5")
+
+2. **No renumbering or reorganizing**:
+   - Source IDs may not be consecutive (e.g., you might have SOC-001, SOC-006, SOC-014)
+   - NEVER attempt to renumber, reorganize, or create a new naming system
+   - If uncertain about a source ID, quote directly from the filename as given
+
+3. **Direct filename referencing**:
+   - When citing a source, include its exact filename in your sources list
+   - Example: sources: [ADM-001, DB-001, SOC-006]
+   - For any visual source, use the exact filename without creating alternative labels
+
+4. **Source verification**:
+   - Before submitting coding, verify that every source ID cited exists in the provided materials
+   - Remove any reference to sources that cannot be verified with exact filenames
 
 
 
@@ -129,12 +150,9 @@ To prevent the error of confusing codebook examples with actual source content:
   1. This variable is inclusive of all incidents that meet the inclusion rule. Incidents coded as `network-amplified`, `moderate`, or `high` necessarily meet the ≥ 5-source threshold due to the replication dynamics of media ecosystems. No qualifying incident is excluded on source-count grounds alone. 
   2. Reflects the degree of public visibility *at the time of the incident*, not retrospective amplification. Only sources published within 14 days of the incident contribute to the level assigned. This ensures media coverage functions as a proxy for real-time administrative visibility and potential public pressure and that `media_coverage_level` is with respect to an incident alone. Some incidents appear much later as part of an aggregate group of incidents (reflecting reporting on a task force report for example) or serve as context alongside more serious incidents; these cases that technically qualify it for mainstream pickup are disregarded. 
   
-
 - **`location`**  
   Location where the incident took place  
   → `on-campus`, `off-campus`, `other`
-
-
 
 - **`policy_status`**  
   Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination).
@@ -244,7 +262,7 @@ To prevent the error of confusing codebook examples with actual source content:
 ## 🔹 Quantitative
 
 - **`latency_days`**  
-  Number of days between the earliest incident date stated by a source and the earliest admin response date 
+  Number of days between the earliest incident date stated by a source and the earliest admin response date, as defined by the time stamp in any ADM source
   → Integer  
   → *Derived from* `date` and timestamp of first admin statement
 
