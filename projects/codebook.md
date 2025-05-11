@@ -363,8 +363,8 @@ To prevent confusion in using adjacent incidents or broader context as evidence 
      - When inconsistencies exist between sources, prioritize statements directly from affected individuals/groups over third-party characterizations
 
   → `accusatory`, `fear/distress`, `defensive`, `defiant`, `mobilizing/escalatory`, `conciliatory`, `solidarity`, `combination`  
-  - `accusatory` → Attributes blame or wrongdoing to another group or actor with moral judgment or indignation  
-    e.g., “Admin has failed us,” “They are complicit”
+  - `accusatory` → Attributes blame, ignorance, or wrongdoing to another group or actor with moral judgment or indignation  
+  e.g., “Admin has failed us,” “They are complicit," "It was disheartening to see my fellow students defending that"
   - `fear/distress` → Emphasizes emotional vulnerability, fear, or a sense of being targeted, unsafe, or endangered   
     e.g., “We no longer feel safe on campus”, "We were physically threatened"
   - `defensive` → Justifies or defends the group’s own actions or counters criticisms  
