@@ -9,13 +9,16 @@ permalink: /projects/
 
 - [Starter notes](/projects/organizational-notes)
 
-- [README](/projects/structure-and-organization)
+- [README](/projects/project-facing-README)
 
 - [Incident Response Index](/projects/incident-analysis/)
 
 - [Project Definitions](/projects/project-definitions/)
 
 - [Codebook](/projects/codebook/)
+
+- [Incident Coding Protocols](/projects/incident_coding_protocol/)
+
 
 
 

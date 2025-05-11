@@ -7,6 +7,7 @@ permalink: /projects/project-definitions/
 
 This page documents the structured fields, inclusion rule, and keyword logic used in the UCLA Incident Analysis project.
 
+**Not up to date**
 
 
 ## 🔢 Field Definitions

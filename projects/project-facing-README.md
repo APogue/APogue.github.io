@@ -1,3 +1,10 @@
+---
+layout: project_default
+title: "📊 UCLA Incident Response Analysis Project"
+published: true
+author: Alexie Pogue
+date: 2025-4-5 2:52 PM
+---
 
 # 📊 Incident Response Analysis Project
 
@@ -80,7 +87,5 @@ This project is designed for:
 All structured variables (severity, visibility, admin response) are rule-based and consistently coded. Media bias and student narratives are treated as contextual controls, not incident selectors.
 
 ---
-
-⚠️ This project is under construction. Please do not cite or circulate.
 
 Questions? Open an issue or email me.

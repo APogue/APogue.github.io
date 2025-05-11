@@ -8,3 +8,6 @@ collections:
   incidents:
     output: true
     permalink: /incidents/:name/
+  protocols:
+    output: true
+    permalink: /projects/:name/
