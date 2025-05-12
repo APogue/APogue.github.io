@@ -10,69 +10,6 @@ This codebook defines all structured and qualitative fields used in the incident
 
 ---
 
-## Critical Source Validation Protocol
-
-To prevent the error of confusing codebook examples with actual source content:
-
-1. **REMEMBER**: Examples in this codebook are ILLUSTRATIVE ONLY. All coding decisions must be based on actual source content, not examples.
-
-2. **Required Source Verification**: For each variable coded:
-   - First, extract and isolate the relevant source text
-   - Copy exact quotes that support your coding decision
-   - Verify quotes match the source verbatim before including in justifications
-   - Never rely on memory or paraphrasing when direct evidence is required
-
-3. **Justification Format Requirements**:
-   - Begin each justification with a verbatim quote from the source (in quotation marks)
-   - For longer sources, include the specific paragraph or section being referenced
-   - Only after presenting direct evidence, provide your interpretation
-
-4. **Double-Verification Step**: Before submitting any coding:
-   - For each variable, re-open the source document
-   - Confirm any quotes used in justifications appear exactly as cited
-   - Flag and review any justification that lacks direct quotes
-
-## Source Reference Protocol
-
-To prevent references to existing sources using non-existent source names: 
-
-1. **Use ONLY source IDs explicitly provided in materials**: 
-   - Reference sources EXCLUSIVELY by the filename/ID given to you (e.g., "ADM-001.txt", "DB-001.txt", "SOC-006.png")
-   - NEVER create, invent, or assume source IDs that weren't explicitly provided
-   - If referencing an image or visual content, use its exact filename (e.g., "SOC-006" not "Image 5")
-
-2. **No renumbering or reorganizing**:
-   - Source IDs may not be consecutive (e.g., you might have SOC-001, SOC-006, SOC-014)
-   - NEVER attempt to renumber, reorganize, or create a new naming system
-   - If uncertain about a source ID, quote directly from the filename as given
-
-3. **Direct filename referencing**:
-   - When citing a source, include its exact filename in your sources list
-   - Example: sources: [ADM-001, DB-001, SOC-006]
-   - For any visual source, use the exact filename without creating alternative labels
-
-4. **Source verification**:
-   - Before submitting coding, verify that every source ID cited exists in the provided materials
-   - Remove any reference to sources that cannot be verified with exact filenames
-
-## Justification Protocol
-
-To prevent confusion in using adjacent incidents or broader context as evidence for the incident being coded:
-
-1. **Contextual Accuracy**:
-   - Ensure quotations refer SPECIFICALLY to the incident being coded, not broader events
-   - Track narrative flow in sources to understand what pronouns (e.g., "it", "this") refer to
-   - Verify that statements aren't about adjacent issues or general climate
-
-2. **Evidence Verification**:
-   - Read the FULL paragraph surrounding any quote you use as evidence
-   - Never extract quotes without understanding their complete context
-   - If a statement refers to multiple events or a general situation, do not use it as evidence for a specific incident
-
-3. **Precision in Counting**:
-   - When noting "found approximately X references" to a particular tone or theme, only count references that specifically address the incident being coded
-   - For variables requiring quantitative thresholds (e.g., >60% of references), document your counting methodology
-
 ## 🔹 Metadata & Utility Fields
 
 - **`incident_id`**  
@@ -149,15 +86,7 @@ To prevent confusion in using adjacent incidents or broader context as evidence 
 
 - **`media_coverage_level`**  
   Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
-
-  CRITICAL CODING REQUIREMENTS: 
-
-  1. Code the **highest qualifying level**. All counts are minimum thresholds.
-
-  2. When coding “moderate” or “high” levels, explicitly identify and list the specific sources that qualify as having “general public reach” in your justification. Do not count mentions of media coverage in other sources. Only use sources provided to you directly in file format.  
-
-  3. If there is ambiguity about whether the threshold for a higher level is met (e.g., unclear if exactly 5 sources exist or if a source truly has "general public reach"), default to the lower classification level. Only assign the higher level when the evidence clearly meets all criteria specified. 
-
+  → `none`, `low`, `network-amplified`, `moderate`, `high`
   - `none`: Fewer than 2 sources
   - `low`: At least 2 internal or niche sources (e.g., org IG + campus newspaper other than DB or reddit r/UCLA), no external visibility  
   - `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets, topic-specific subreddits or social media groups), no mainstream or outside-community pickup
@@ -173,36 +102,13 @@ To prevent confusion in using adjacent incidents or broader context as evidence 
   → `on-campus`, `off-campus`, `other`
 
 - **`policy_status`**  
-  Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination).
-  
-  **CRITICAL CODING INSTRUCTION:** You MUST read POL-001-POL-003.txt and PHIL-001.txt thoroughly before coding this variable. Your determination must be based on direct evidence, not assumptions:
-  
-  1. If the administration explicitly states a policy was violated → code as `violated`
-  
-  2. If no explicit statement of violation exists:
-     - Code as `violated` if the incident is stated as unambiguously unprotected by the First Amendment in PHIL-001, i.e. true-threats, etc.  
-     - While the incident may conflict with specific policy language, **it must be weighed against UCLA's responsibility as a state actor**: as a public university bound by the First Amendment, UCLA has significant constraints on restricting speech, **even when offensive or containing antisemitic/racist elements**. Content-based speech restrictions face strict scrutiny. 
-     - Expressions of hate, unless rising to the level of true threats, fighting words, or harassment that substantially interferes with educational access (not just creating subjective discomfort), are generally protected even when strongly condemned by the administration. 
-     - **Administrative condemnation does not automatically mean policy violation**. When in doubt about whether offensive/hateful speech crosses the boundary into unprotected harassment or discrimination, lean toward protecting speech in accordance with constitutional principles outlined in PHIL-001.
-     
-  
+  Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination)
   → `compliant`, `violated`, `combination`, `unclear`, `contested`  
   - `compliant` → The incident clearly followed all applicable policies  
   - `violated` → The incident clearly violated at least one applicable policy  
   - `combination` → The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a **location consistent with university protest guidelines**)  
   - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
   - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
-
-- **`policy_status`**  
-  Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination).  
-  → `compliant`, `violated`, `combination`, `unclear`, `contested`  
-  - `compliant` → The incident clearly followed all applicable policies  
-  - `violated` → The incident clearly violated at least one applicable policy  
-  - `combination` → The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a **location consistent with university protest guidelines**)  
-  - `unclear` → It is not possible to determine from available records whether a policy was violated or which policy applies  
-  - `contested` → Administration or participants **disagreed over whether a policy was violated**, or the policy's applicability/enforcement was formally challenged
-
- 
 
 - **`policy_violation_type`**  
   What type of formal university policy was violated, if any  

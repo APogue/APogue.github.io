@@ -1,0 +1,74 @@
+5/12/2025
+
+Have yet to "clear" GPT internal memory, protocol directions are still incomplete and integrated with codebook. Will distill protocols from codebook and upload to "project knowledge." I need the ai's to apply protocols to global memory, rather than categorizing directives as reference material. Reference material is subject to methodology error and "fading" memory, i.e. hallucinations. 
+
+CPG incorrect and Claude incorrect 
+
+admin_support_offered: general_commitment 
+
+CPG hallucinated this Block statement 
+
+admin_support_offered:
+	value: positive_inclusion
+	justification: "\"Chancellor Block reiterated that ‘there is no place for antisemitism at 
+	UCLA, and our Jewish students are an important part of our community’\" [ADM-001] meets 
+	the definition of affirming the dignity and rights of the named, targeted group."
+	sources: [ADM-001]
+
+Claude also hallucinated this response, but it used the example in the coding document 
+
+admin_support_offered:
+	value: institutional_responsibility
+	justification: "The UCLA statement in ADM-001 acknowledges institutional responsibility by stating: 'This display is a painful reminder that we must do more to foster understanding and compassion.' Additionally, the statement commits: 'We remain committed to doing all we can to support the safety and protect the rights of everyone on our campus.' This language acknowledges a responsibility to improve the campus climate without implying legal fault."
+	sources: [ADM-001]
+
+actor_group: Palestinian 
+
+GPT: Null 
+
+Claude keeps referring to "image X," problem specific to Claude. It needs to use the file name convention only. 
+
+actor_group:
+value: Palestinian
+	justification: "MED-001 identifies the actors as part of a pro-Palestinian protest: 'a pro-Palestinian student urged the UC Regents to divest from firms that support the ongoing genocide and ethnic cleansing of Palestinians.' Image 5 from ucladivest confirms the protest was by activists demanding the UC regents 'divest from war and the genocide of Palestinians.'"
+	sources: [MED-001, Image 5]
+
+Claude continuously gets media-coverage level incorrect, likely because it is not referring to codebook protocols, or the wording isn't close enough to the logic decision tree format it wants
+
+media_coverage_level:
+value: moderate
+	justification: "The incident received coverage across different ecosystems with at least two sources having general public reach. MED-001 is from a general news source with public reach. The social media posts (Images 1-7) show cross-ecosystem coverage including Jewish community sources (Image 1 - Israel War Room, Image 2 - ADL California), pro-Palestinian sources (Image 5 - ucladivest), and general Reddit discussions (Images 6-7). The incident was specifically covered by the Daily Bruin (DB-001), and according to MED-001, the Los Angeles Times reported on the UC Regents meeting where this incident occurred, giving it mainstream local coverage."
+	sources: [DB-001, MED-001, Images 1-7]
+
+Claude also continuously gets policy_status and related variables incorrect, likely because there is some built-in protective logic that drifts it towards behaving in a morally conservative manner. Will try the same changes on media_coverage_level to ensure that it is READING protocols, that is the only pathway for a fix I see at this point
+
+policy_status:
+	value: violated
+	justification: "The display clearly violated university policies against discrimination and harassment. According to PHIL-001, while UCLA is bound by First Amendment protections, they state: 'Words can devastate—offline and on, even when the speaker doesn't intend to do so. This reality explains why free speech doctrine has categorical exceptions.' Given the explicit antisemitic nature of the display as detailed by Professor Myers in DB-001, who explains it incorporates historical antisemitic tropes, and UCLA's own characterization in ADM-001 as 'hateful and racist depictions' that are 'a complete affront to UCLA's Principles of Community and True Bruin Values,' this display crossed the line from protected speech to harassment and discrimination."
+	sources: [ADM-001, DB-001, PHIL-001]
+
+GPT's hallucinated Block statement caused it to make up the statement date
+
+latency_days:
+  value: 1
+  justification: "Incident occurred on March 19, 2024, and the Chancellor responded on 
+  March 20, 2024 [ADM-001]."
+  sources: [ADM-001, DB-001]
+
+For target_tone I favor accusatory. This might be one case where the ai's can convince me to their side. Still need some tweaking though, their responses need to stay on-incident. 
+
+GPT 
+
+target_tone:
+	value: fear/distress
+	justification: "Found approximately 6 references to fear/distress: [DB-001] describes students 
+	feeling ‘intimidated’ and ‘targeted’; [SOC-003], [SOC-004], [SOC-006-2], [SOC-007], and [SOC-008] 
+	express emotional distress and fear of rising antisemitism. No other tone surpassed 60%."
+	sources: [DB-001, SOC-003, SOC-004, SOC-006-2, SOC-007, SOC-008]
+
+Claude 
+
+target_tone:
+	value: fear/distress
+	justification: "Jewish community members expressed clear feelings of fear and being targeted. Image 4 shows a Jewish student stating 'This is why I'm scared of going to campus as an Israeli Jew.' MED-001 quotes UCLA Hillel Executive Director Dan Gold saying 'Jewish students were very disturbed, upset and concerned about the pig display.' DB-001 cites a 2024 report showing '56% of Jewish university students polled after Oct. 7 felt in personal danger.' Another comment in Image 7 states 'as a Jew that was really disheartening to see my fellow students defending that shit.' These statements consistently express emotional vulnerability and fear."
+	sources: [DB-001, MED-001, Image 4, Image 7]

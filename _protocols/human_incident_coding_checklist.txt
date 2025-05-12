@@ -1,0 +1,33 @@
+## INCIDENT CODING RESET CHECKLIST
+
+Before starting a new incident analysis batch, complete the following steps:
+
+### 1. Reset Memory Context
+
+- [ ] Clear all chat histories related to prior incident analysis  
+  *(This clears hybrid-layer memory: past conversations, inferred defaults, variable habits)*
+
+- [ ] Reopen or reupload `incident_coding_protocol.md` and `incident-reset-protocol.md`  
+  *(Ensures clean context is reintroduced explicitly)*
+
+### 2. Reaffirm Enforced Protocols
+
+- [ ] Restate that the assistant must follow only the rules defined in protocol markdown  
+  *(e.g., “Please adhere only to the rules in `incident_coding_protocol.md`”)*
+
+- [ ] Confirm that **codebook content is reference-only** unless otherwise instructed  
+  *(No behavioral inference from codebook without promotion)*
+
+### 3. Confirm Behavior
+
+- [ ] Ask: “What memory or behavioral rules are currently active?”  
+  *(Assistant should respond: “None, unless reintroduced by you.”)*
+
+- [ ] Ask: “Will you follow only what's in the protocol files?”  
+  *(Assistant should confirm explicit adherence to protocol instructions only)*
+
+### 4. Begin Coding
+- [ ] Upload pre-existing incident description (generated alongside incident summary)
+- [ ] Upload incident sources + reference mapping image
+- [ ] Specify the filename or protocol document to apply
+- [ ] Confirm AI will quote directly, follow canonical variable order, and not infer logic
