@@ -4,111 +4,9 @@ layout: project_default
 permalink: /projects/incident_coding_protocol/
 ---
 
-If I'm building a system for rigorous research auditability, version control, and multi-agent consistency, then relying on hidden memory is a liability, not a feature.
-
-## This file will include:
-
-- The Critical Source Validation Protocol
-
-- Variable justification rules
-
-- Prompting conventions for AI coders (Claude, GPT, or others)
-
-- Optional: guidance for humans using Replit, YAML editors, etc.
-
-## What GPT will do 
-
-- If you give me the key rules in plaintext (or markdown), I’ll:
-
-- Structure it cleanly
-
-- Suggest section headers
-
-- Add YAML frontmatter if you want it GitHub-viewable as a page (layout: project_default etc.)
-
-- Follow only what's in that file — and ignore memory overlays unless explicitly instructed
-
-## GPT memory specific
-
-- Export everything I’ve memorized so far for review
-
-- Delete what you no longer want tracked in memory
-
-- This keeps your whole project epistemically clean.
-
-## We want global enforcement 
-
-- Put protocols in the project instructions 
-
-- If your goal is: “Always quote exactly before justifying, for every variable, no exceptions,” then it must go into my project instructions or model memory.
-
-- Automatically applied, even before I open a codebook
-
-- Cross-referenced every time I generate YAML or do variable justification
-
-- Used whether or not you mention the protocol in the moment
-
-- If I leave the rulesets in the codebook
-
-	- Even though it's written there, I treat the codebook as a content reference, not as a behavioral rulebook unless you also elevate the rule into my system-level memory or are actively prompting it.
-
-## Claude says:
-
-The most effective way to get me to follow rules consistently across incidents is to:
-
-Create a clear, structured checklist or protocol that I must explicitly complete for each variable being coded
-
-Have me acknowledge these steps at the beginning of my response and commit to following them
-
-Structure the rules as an explicit algorithm or decision tree with clear IF-THEN logic rather than descriptive guidelines
-
-Add a verification step where I must validate my work against the rules before submitting it
-
-Use numbered steps rather than paragraph-style instructions where possible
-
-For example, with a variable like "target_tone", instead of general guidelines, a more effective approach would be:
-
-CODING PROTOCOL FOR TARGET_TONE:
-
-1. EXAMINE ALL sources containing target group reactions
-2. EXTRACT exact quotes from each source that indicate tone
-3. COUNT distinct references to each tone category
-4. CALCULATE percentage of each tone (must be ≥60% for single tone)
-5. FORMAT justification with:
-   a. List of ALL sources with tone indicators
-   b. At least TWO direct quotes for each identified tone
-   c. Explicit count statement: "Found X references to [tone1] and Y references to [tone2]"
-6. VERIFY before submission that all requirements are met
-
-This algorithmic approach with mandatory steps and verification would be much more effective than general guidelines, as it forces me to explicitly work through each required element.
-
-
-## GPT and Claud are making different kinds of mistakes
-
-They both need to make sure they read the coding examples (e.g. ...), nuance error still occurring, but seems fixable as opposed to methodology, 
-
-- Claude is struggling with methodology, it ignores things like "don't rename files and make sure to reference PHIL and POL when making policy decisions"
-
-- GPT is struggling with hallucinations, it relies on fading memory so to speak rather than sticking to exact text in order to code. So in some cases it is coding its own made-up scenarios. I'm also unsure of what it's committing to memory, so that should be cleared before proceeding. 
-
-
-## PROTOCOL: [Variable Name]
-
-1. Locate all sources relevant to this variable.
-2. Extract only the portions that directly reference the incident (not adjacent context).
-3. Apply codebook thresholds (e.g., quote count, percentage, identity verification).
-4. Copy exact source quotes (do not paraphrase).
-5. Format the justification with:
-   a. The direct quote
-   b. An explicit explanation of how it satisfies the codebook criteria
-6. Include only the cited source IDs in the `sources:` list.
-7. Verify: all claims must be directly traceable to uploaded source files.
-
----
-
 ## PROTOCOLS
 
-## INCIDENT CODING RESET PROTOCOL
+## SECTION 1: INCIDENT CODING RESET PROTOCOL
 
 This protocol ensures that incident coding outputs are fully auditable, transparent, and free from unintended memory-based behavior. It establishes a clean baseline for all future incident analysis.
 
@@ -141,7 +39,7 @@ After a memory reset:
 - No variable defaults (e.g., `actor_student: true`) or YAML structures may be inferred.
 - All quoting, variable order, scoping logic, and derived field behaviors must be **driven exclusively by the active project instructions.**
 
-## VARIABLE ORDERING PROTOCOL
+## SECTION 2: VARIABLE ORDERING PROTOCOL
 
 All YAML files in _data/evidence/ must follow the canonical variable order listed below. This order reflects the structure defined in the codebook and must be preserved across all incidents for consistency, rendering, and auditability.  
 
@@ -199,9 +97,7 @@ Canonical order:
 
 Before submitting any evidence file, verify that the variable sequence matches the list above exactly.
 
-## Integrated Source Validation and Reference Protocol
-
-## SECTION 1: INCIDENT BOUNDARY IDENTIFICATION
+## SECTION 3: INCIDENT BOUNDARY IDENTIFICATION
 - ALWAYS begin with the OFFICIAL INCIDENT SUMMARY provided for each incident
 - The incident is defined ONLY by the specific event, actors, location, and timeframe described in the summary
 - For each source, identify ONLY sections that directly describe the specific incident as defined
@@ -218,7 +114,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
   * Document the lack of incident-specific evidence in your justification
   * Proceed to the next variable
 
-## SECTION 2: SOURCE IDENTIFICATION AND REFERENCE
+## SECTION 4: SOURCE IDENTIFICATION AND REFERENCE
 - Reference sources EXCLUSIVELY by the exact filename/ID provided (e.g., "ADM-001", "DB-001", "SOC-006")
 - NEVER create, invent, or assume source IDs that weren't explicitly provided
 - For images/visual content, use ONLY the exact filename (e.g., "SOC-006" not "Image 5")
@@ -227,7 +123,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
 - When listing sources, include their exact filenames: `sources: [ADM-001, DB-001, SOC-006]`
 - Before submitting coding, verify every source ID cited exists in the provided materials
 
-## SECTION 3: SOURCE EXTRACTION AND VALIDATION
+## SECTION 5: SOURCE EXTRACTION AND VALIDATION
 - Open each relevant source document
 - Identify ONLY sections relevant to THIS SPECIFIC incident
 - Extract VERBATIM quotes that directly reference THIS incident
@@ -237,7 +133,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
   * Document the lack of incident-specific quotes in your justification
   * Proceed to the next variable
 
-## SECTION 4: JUSTIFICATION CONSTRUCTION
+## SECTION 6: JUSTIFICATION CONSTRUCTION
 - BEGIN EACH justification with "SOURCE [exact ID]: [exact quote about THIS incident]"
 - Format ALL quotes with quotation marks
 - For longer sources, specify paragraph/section: "SOURCE [exact ID] paragraph X: [exact quote]"
@@ -249,7 +145,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
   * Document the lack of incident-specific quotes in your justification
   * Proceed to the next variable
 
-## SECTION 5: SOURCE VERIFICATION
+## SECTION 7: SOURCE VERIFICATION
 - Re-open EACH source document referenced
 - Verify EACH quote appears EXACTLY as cited
 - Check that each quote is ACTUALLY about THIS incident (not similar incidents)
@@ -260,7 +156,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
   * Document the verification failure in your justification
   * Proceed to the next variable
 
-## SECTION 6: VARIABLE-SPECIFIC REQUIREMENTS
+## SECTION 8: VARIABLE-SPECIFIC REQUIREMENTS
 
 ### media_coverage_level
 When coding the media_coverage_level variable:
@@ -287,7 +183,7 @@ When coding the media_coverage_level variable:
    * Document the exact number of sources identified
    * Explain why the chosen level was assigned based on the count and criteria
 
-## POLICY_STATUS CODING PROTOCOL
+### policy_status
 
 ### MANDATORY PRE-CODING REQUIREMENTS
 Before attempting to code policy_status:
@@ -357,7 +253,110 @@ Your policy_status justification MUST include:
 
 5. Acknowledgment of the high bar for speech restriction at public universities
 
-## SECTION 7: COMPLIANCE VERIFICATION
+### severity_score
+
+### FOUNDATIONAL DEFINITION
+**Severity Score measures: The extent of OBSERVABLE direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety at the time the incident occurred.**
+
+### OPERATIONAL DEFINITIONS
+- "Observable" means documented in primary sources (contemporaneous, direct records), not secondary sources
+- "Disruption" means measurable interference with normal university operations
+- "Credible risk" means a specific threat with reasonable likelihood of execution
+- "Primary sources" include contemporaneous reports, police documentation, medical records, Daily Bruin coverage, and video evidence
+- "Secondary sources" include retrospective analyses, social media commentary, or task force reports that lack direct documentation
+
+### CODING DECISION TREE
+1. **IF ANY verification items are clearly present and documented:**
+   - Review severity level definitions to determine appropriate level
+   - Cite specific evidence documenting each element present
+
+2. **IF NONE of these elements are present:**
+   - Incident MUST be coded as 'low' severity
+   - Regardless of psychological impact or offensive content
+
+### SEVERITY LEVEL DEFINITIONS
+- **Low:** No credible threat or physical harm; any disturbance was brief, self-resolving, requiring no intervention
+- **Moderate:** Some disruption or localized risk (confrontations, non-credible threats, brief space occupation); may have prompted response but no formal escalation
+- **Elevated:** Institutional escalation without confirmed harm (dispersal order, event shutdown, police mobilization without arrests/force)
+- **High:** Clear immediate harm or serious disruption (physical violence, credible threats, arrests, dispersal with enforcement, hospitalization)
+
+### COMMON ERROR PREVENTION
+**CRITICAL:** Subjective feelings of fear, psychological distress, or offensive content are NOT sufficient for higher severity scores unless they resulted in measurable disruption to campus operations or institutional safety.
+
+These psychological impacts are captured in `target_tone` - do not double-count them in severity.
+
+### JUSTIFICATION REQUIREMENTS
+All severity_score justifications MUST:
+1. Explicitly address each element on the verification checklist
+2. Provide direct evidence for any elements present
+3. **Explicitly explain why the incident does NOT qualify for higher severity levels**
+4. Cite only observable impacts documented in primary sources
+5. Begin with: "Based on the verification checklist, this incident shows [elements present/not present]..."
+
+### actor_tone and target_tone
+
+### 1. COMPREHENSIVE SOURCE REVIEW (MANDATORY)
+- You MUST examine ALL sources that contain statements or reactions from the relevant group (actor or target)
+- Review ALL sources before determining tone:
+  * ALL social media (SOC sources)
+  * ALL news quotes and interviews
+  * ALL official statements
+  * ALL documented reactions in any format
+- Do NOT code tone until completing a full review of ALL available sources
+
+### 2. QUANTITATIVE THRESHOLD DETERMINATION
+- When different tones appear across sources:
+  * Count the number of distinct references for each tone category
+  * Explicitly document the count for each tone identified
+  * Code the predominant tone ONLY if it represents at least 60% of all tone references
+  * Otherwise, code as 'combination' and specify which tones are present
+- Example calculation:
+  * 5 references to 'fear/distress' out of 8 total references = 62.5% → code as 'fear/distress'
+  * 4 references to 'accusatory' out of 7 total references = 57% → code as 'combination'
+
+### 3. WEIGHTING AND EVALUATION RULES
+- Statements from formal organization representatives count as equal weight to multiple individual statements
+- Consider both frequency AND intensity of tone indicators
+- Official statements (e.g., organization press releases) count as ONE source but carry equal weight
+- Multiple similar statements from individuals carry cumulative weight
+- Evaluate intensity based on:
+  * Language strength and emotional content
+  * Context and prominence
+  * Directness of expression
+
+### 4. CROSS-SOURCE VERIFICATION
+- Look for consistency across different types of sources:
+  * Compare official statements vs. social media
+  * Compare organization representatives vs. individual members
+  * Compare contemporaneous vs. later reactions
+- When inconsistencies exist between sources:
+  * Prioritize statements directly from affected individuals/groups
+  * Give less weight to third-party characterizations or paraphrasing
+  * Document the inconsistency in your justification
+
+### 5. REQUIRED JUSTIFICATION FORMAT
+Your justification MUST include:
+
+1. **Source listing section:**
+   - "I reviewed the following sources containing [actor/target] tone indicators: [list ALL relevant sources]"
+
+2. **Quantitative methodology:**
+   - "Found approximately X references to [tone1], Y references to [tone2], etc."
+   - "This represents [calculate percentage]% of all tone references"
+
+3. **Evidence section for EACH tone:**
+   - For EACH tone identified, provide at least TWO specific quotations
+   - Format: "SOURCE-XXX: \"[exact quote demonstrating tone]\""
+
+4. **Weighting explanation:**
+   - "Formal organization statements were weighted as: [explanation]"
+   - "I considered both frequency and intensity by: [explanation]"
+
+5. **Decision explanation:**
+   - "[Selected tone] represents the predominant tone because [explanation]"
+   - OR "No single tone reaches the 60% threshold, so coding as 'combination' of [list tones]"
+
+## SECTION 7: GENERAL COMPLIANCE VERIFICATION
 
 ☐ I have included VERBATIM quotes specifically about THIS incident for each claim  
 ☐ ALL quotes are properly attributed to specific source IDs exactly as provided  
@@ -368,7 +367,9 @@ Your policy_status justification MUST include:
 ☐ I have used ONLY source IDs explicitly provided in materials  
 ☐ I have verified all source IDs exist in the provided materials  
 
-## SECTION 8: MEDIA_COVERAGE_LEVEL AUDIT CHECKLIST
+## SECTION 8: VARIABLE-SPECIFIC CHECKLISTS 
+
+### MEDIA_COVERAGE_LEVEL AUDIT CHECKLIST
 
 Before submitting the incident coding, verify for media_coverage_level:
 
@@ -380,7 +381,7 @@ Before submitting the incident coding, verify for media_coverage_level:
 □ My justification EXPLICITLY shows how I followed the protocol  
 □ I have triple-checked this variable to ensure correct application of the protocol  
 
-## SECTION 9: POLICY_STATUS AUDIT CHECKLIST
+### POLICY_STATUS AUDIT CHECKLIST
 
 Before finalizing the policy_status coding, complete this mandatory verification checklist:
 
@@ -403,9 +404,41 @@ Before finalizing the policy_status coding, complete this mandatory verification
 □ I have NOT equated administrative condemnation with policy violation
 □ I have double-checked my reasoning to ensure I'm not defaulting to moral judgments rather than constitutional analysis
 
+### SEVERITY_SCORE AUDIT CHECKLIST
+
+Before assigning a severity score, explicitly verify and document the presence or absence of:
+
+□ Direct physical harm to persons (documented injuries or medical attention)
+□ Credible risk to physical safety (specific threats with likelihood of execution)
+□ Disruption to campus operations (measurable interference with university functions)
+□ Disruption to institutional safety (required security response)
+□ Escalation that affected individuals, operations, or safety (documented intervention)
+
+### ACTOR_TONE AND TARGET_TONE AUDIT CHECKLIST
+
+Before finalizing any `actor_tone` or `target_tone` coding, complete this required verification:
+
+□ I have examined EVERY source that contains statements or reactions from the relevant group
+□ I have documented EACH source reviewed in my justification
+□ I have counted the EXACT number of references for EACH tone category identified
+□ I have calculated the PERCENTAGE that each tone represents of all references
+□ I have verified whether any tone reaches or exceeds the 60% threshold
+□ I have provided AT LEAST TWO specific quotations for EACH tone identified
+□ I have explicitly stated my counting methodology in the justification
+□ I have properly weighted organizational statements equally to multiple individual statements
+□ I have considered both frequency AND intensity in my analysis
+□ I have prioritized direct statements from affected individuals/groups over third-party characterizations
+□ I have coded as 'combination' if no single tone reaches the 60% threshold
+□ I have specified which tones are present when coding as 'combination'
+□ I have reviewed my calculations to ensure mathematical accuracy
+□ I have re-examined any borderline cases (near 60% threshold) for potential miscounts
+
+This checklist MUST be completed for both `actor_tone` and `target_tone` variables. If ANY item cannot be checked, return to the sources and revise your analysis accordingly.# Tone Variables Coding Protocol
+
+
 ## SECTION 9: OUTPUT FORMAT
 
-For each incident, produce a YAML file following this exact structure:
+For each incident, produce a YAML file following this exact structure (below is a subset, used as an example):
 
 ```yaml
 incident_id: INC-XXX
@@ -433,6 +466,36 @@ policy_status:
      [If administrative statement exists]: ADM-XXX: \"[Exact quote showing administrative position]\"
      Weighing the [nature of speech/conduct] against UCLA's obligations as a state actor bound by the First Amendment, this incident [does/does not] rise to the level of unprotected speech because [specific analysis referencing categorical exceptions in PHIL-001]. [Explain why the speech does/doesn't meet specific unprotected categories]."
    sources: [POL-XXX, PHIL-001, other relevant sources]
+
+severity_score:
+  value: [low/moderate/elevated/high]
+  justification: "Based on the verification checklist, this incident shows [presence/absence of each element]. 
+  
+  SOURCE-XXX: \"[Exact quote documenting presence/absence of physical harm]\"
+  SOURCE-XXX: \"[Exact quote documenting presence/absence of credible risk]\"
+  SOURCE-XXX: \"[Exact quote documenting presence/absence of disruption]\"
+  
+  This incident does not qualify for [higher level] because [explicit explanation of why higher threshold not met]. The incident is properly classified as [selected level] because [specific criteria met]."
+  sources: [SOURCE-XXX, SOURCE-XXX]
+
+actor_tone:  # or target_tone
+  value: [selected_tone or 'combination']
+  justification: "I reviewed the following sources containing [actor/target] tone indicators: [list ALL sources]. 
+  
+  Found approximately X references to [tone1] (X%), Y references to [tone2] (Y%), etc.
+  
+  Evidence for [tone1]:
+  SOURCE-XXX: \"[exact quote demonstrating tone]\"
+  SOURCE-XXX: \"[second exact quote demonstrating tone]\"
+  
+  Evidence for [tone2] (if applicable):
+  SOURCE-XXX: \"[exact quote demonstrating tone]\"
+  SOURCE-XXX: \"[second exact quote demonstrating tone]\"
+  
+  [If organization representatives]: The statement from [organization] was weighted equally to individual statements because [explanation].
+  
+  Based on this quantitative analysis, [selected_tone] represents [X%] of tone references, [meeting/not meeting] the 60% threshold for predominant tone. Therefore, the appropriate coding is [selected value]."
+  sources: [list ALL sources reviewed for tone]
 
 # For insufficient evidence cases
 insufficient_variable:
