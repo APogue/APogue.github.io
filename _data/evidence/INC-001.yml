@@ -5,7 +5,7 @@ keywords: [antisemitism, protest, regents]
 
 org_affiliated_actor:
   value: true
-  justification: "\"ucladivest\" claimed responsibility for the sit-in and protest actions 
+  justification: "ucladivest claimed responsibility for the sit-in and protest actions 
     during the Regents meeting [SOC-006-2], and this protest included the effigy. 
     This supports organizational affiliation."
   sources:
@@ -29,8 +29,8 @@ actor_student:
 
 admin_response_type:
   value: incident_specific
-  justification: "\"UCLA issued a statement in response to an appalling and hateful display 
-    at a UC Board of Regents meeting\" [ADM-001] references the effigy directly and 
+  justification: "UCLA issued a statement in response to an appalling and hateful display 
+    at a UC Board of Regents meeting [ADM-001] references the effigy directly and 
     satisfies the requirement for incident-specific acknowledgment within 2 weeks."
   sources:
     - ADM-001
@@ -54,8 +54,8 @@ admin_support_offered:
 
 target_group:
   value: Jewish
-  justification: "\"Jewish students were very disturbed, upset and concerned about the 
-    pig display\" [MED-001] and ADM-001 frames the display as antisemitic. The effigy’s 
+  justification: "\"Jewish students 'were very disturbed, upset and concerned about the 
+    pig display'\" [MED-001] and ADM-001 frames the display as antisemitic. The effigy’s 
     symbolism was also described in [DB-001] and widely interpreted as antisemitic."
   sources:
     - MED-001

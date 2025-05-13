@@ -70,13 +70,14 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`admin_support_offered`**  
   Whether there was supportive language included in an administrative response to assist students who may require justice, accountability, or repair  
-  → `n/a`, `none`, `counseling/referral`, `violation_warning`, `campus_climate_initiative`, `institutional_alignment`
+  → `n/a`, `none`, `counseling/referral`, `violation_warning`, `campus_climate_initiative`, `positive_inclusion`, `institutional_responsibility`, `general_commitment`, `combination`, `none`, `n/a`
   - `counseling/referral` → Students were directed to services such as CAPS, ombuds, or external reporting channels (e.g., UCPD, Title IX office)
   - `violation_warning` → Admin issued a statement referencing applicable university rules, laws, or policies, and explicitly warned students or groups about possible violations or consequences
   - `campus_climate_initiative` → Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
   - `positive_inclusion` → Explicitly affirms the dignity and rights of the named, targeted group (*not to be confused with condemnation of acts against that group*) e.g. "Those who advocate on behalf of Palestinians should also be confident of their physical safety on our campuses."
   - `institutional_responsibility` →  Explicitly acknowledges gaps or failures in the institution's approach and commits to specific improvements or changes (does not require the implication of legal fault) e.g. “This display is a painful reminder that we must do more to foster understanding and compassion.” "We are tracking incidents, if behavior becomes pervasive consequences will be imposed.”
   - `general_commitment` → Reaffirms existing commitments as sufficient, without acknowledging specific responsibility or need for change (e.g., "We remain committed to doing all we can...")
+  - `combination` → more than one supportive language was included in the administrative response
   - `none` → An administrative response occurred, but no support was offered
   - `n/a` → No admin response occurred 
 

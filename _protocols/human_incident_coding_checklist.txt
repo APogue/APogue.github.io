@@ -67,7 +67,7 @@ Begin each session with a direct instruction: "Follow the incident_coding_protoc
 
 Request explicit acknowledgment: "Before coding this incident, confirm you have fully reviewed the incident_coding_protocol.md and will apply ALL sections. Provide a verification that addresses each major section."
 
-## Prompt:
+## Prompt: ------------------------------------------------------------------------------------------------------------
 
 I am automating coding of an incident using you as an ai coder. I have uploaded files to project knowledge and directly into the window. 
 

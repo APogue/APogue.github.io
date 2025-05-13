@@ -122,3 +122,90 @@ target_tone:
 	value: fear/distress
 	justification: "Jewish community members expressed clear feelings of fear and being targeted. Image 4 shows a Jewish student stating 'This is why I'm scared of going to campus as an Israeli Jew.' MED-001 quotes UCLA Hillel Executive Director Dan Gold saying 'Jewish students were very disturbed, upset and concerned about the pig display.' DB-001 cites a 2024 report showing '56% of Jewish university students polled after Oct. 7 felt in personal danger.' Another comment in Image 7 states 'as a Jew that was really disheartening to see my fellow students defending that shit.' These statements consistently express emotional vulnerability and fear."
 	sources: [DB-001, MED-001, Image 4, Image 7]
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+5/13/2025
+
+GPT: 
+
+media_coverage_level:
+  value: network-amplified
+  justification: "Seven distinct social media posts (SOC-001 through SOC-008 excluding 
+    SOC-005) show intra-network amplification across Jewish, pro-Israel, and anti-discrimination 
+    channels. No general public media sources cited."
+  sources:
+    - SOC-001
+    - SOC-002
+    - SOC-003
+    - SOC-004
+    - SOC-006-2
+    - SOC-007
+    - SOC-008
+
+norm_violation_type:
+  value: bias/discrimination
+  justification: "\"This display of Jew-hatred... speaks volumes to what Jewish and Israeli 
+    students are experiencing\" [MED-001] and [DB-001] describes the symbolic content as 
+    evoking antisemitic tropes. This meets the threshold for norm-level bias/discrimination."
+  sources:
+    - MED-001
+    - DB-001
+
+This quote above is not an exact quote. “The most recent display of Jew-hatred on a University of California campus speaks volumes to what Jewish and Israeli students are experiencing every day." If it pulls quotes they must be exact. 
+
+latency_days:
+  value: 7
+  justification: "Incident occurred March 20–21, 2024; Chancellor's statement 
+    published March 28, 2024 [ADM-001]."
+  sources:
+    - ADM-001
+
+(It may be in best interest to OCR any image files and label them)
+
+media_positioning:
+  value: group_targeting
+  justification: "\"They seem to be calling the UC Regents Zionist pigs... I get it now\" 
+    [SOC-004] and \"pig person holding money bags next to Jewish star = pure antisemitism\" 
+    [SOC-008] frame the effigy as targeting Jews or Zionist identity."
+  sources:
+    - SOC-004
+    - SOC-008
+
+ Above confusing student positioning with media
+
+actor_tone:
+  value: defiant
+  justification: "Found 5+ references to defiant tone: [SOC-006-2] describes \"shutting 
+    it down\", and [SOC-007] includes posts mocking those calling the display antisemitic. 
+    Comments defend the protest and reject criticism. No other tone surpassed 60%."
+  sources:
+    - SOC-006-2
+    - SOC-007
+
+Above it is over-generalizing regarding who the "actors" are
+
+target_tone:
+  value: fear/distress
+  justification: "Found 6+ references: [SOC-004] user says \"this is why I'm scared 
+    to go to campus\"; [SOC-008] \"to deny that is disgusting\" shows emotional distress. 
+    [MED-001] quotes Hillel reporting Jewish student concern."
+  sources:
+    - SOC-004
+    - SOC-008
+    - MED-001
+
+Why doesn't it reference any other tone or whether it surpassed 60%?
+
+
+target_positioning:
+  value: rights-based
+  justification: "\"Jewish students described the display as threatening and called on 
+    the university to uphold inclusion and dignity\" [MED-001], reflecting civil rights 
+    framing."
+  sources:
+    - MED-001
+
+It may be the case that it arbitrarily put quotes around sentences preceeding a reference, it therefor thinks that it is directly quoting in some instances when it is not. I.e. this above "quote" in target_positioning does not exist. 
