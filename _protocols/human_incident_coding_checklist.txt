@@ -31,3 +31,67 @@ Before starting a new incident analysis batch, complete the following steps:
 - [ ] Upload incident sources + reference mapping image
 - [ ] Specify the filename or protocol document to apply
 - [ ] Confirm AI will quote directly, follow canonical variable order, and not infer logic
+
+
+For Claude: 
+
+## 📜 Inclusion Rule
+
+Any campus-affiliated event between Sept 2023 and June 2024 where:
+
+- (a) identity-based harm, exclusion, or discrimination was alleged  
+- (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
+- (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
+
+⚠️ Considerations:
+
+- Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
+
+
+Incident: Pig Effigy Displayed at Regents Protest (March 20–21, 2024)
+
+(a) Identity-based harm alleged: A statue depicting a pig holding a money bag and a birdcage with a keffiyeh, alongside a Star of David, was displayed near the Regents meeting. A UCLA Jewish history professor publicly described it as antisemitic.
+
+(b) Symbolic protest present: The effigy appeared alongside signs and chants calling for divestment from companies linked to Israel, clearly forming part of the visual protest narrative.
+
+Scope: Visual protest element interpreted as invoking antisemitic imagery at a Regents meeting event; prompted faculty-level public criticism.
+
+During a protest outside the UC Board of Regents meeting at UCLA, a statue was placed in the free speech zone depicting a pig holding a bag of money and a birdcage with a keffiyeh, along with a Star of David emblem. The effigy drew backlash for invoking antisemitic tropes historically used to dehumanize Jewish people. The incident was widely condemned and covered in campus media, particularly for its emotional impact on Jewish students.
+
+
+Upload it to project knowledge - This is the most reliable method as it makes the protocol persistently available throughout our interactions without needing to re-share it. Project knowledge is treated as authoritative reference material.
+
+For the first few incidents, you could also:
+
+Begin each session with a direct instruction: "Follow the incident_coding_protocol.md in project knowledge exactly, without improvisation or deviation"
+
+Request explicit acknowledgment: "Before coding this incident, confirm you have fully reviewed the incident_coding_protocol.md and will apply ALL sections. Provide a verification that addresses each major section."
+
+## Prompt:
+
+I am automating coding of an incident using you as an ai coder. I have uploaded files to project knowledge and directly into the window. 
+
+An incident is defined by an incident inclusion rule. Using the Daily Bruin I will find an incident: 
+
+## 📜 Inclusion Rule
+Any campus-affiliated event between Sept 2023 and June 2024 where:
+- (a) identity-based harm, exclusion, or discrimination was alleged  
+- (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
+- (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
+⚠️ Considerations:
+- Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
+
+Here is an example incident I want you to code:
+
+Incident: Pig Effigy Displayed at Regents Protest (March 20–21, 2024) 
+(a) Identity-based harm alleged: A statue depicting a pig holding a money bag and a birdcage with a keffiyeh, alongside a Star of David, was displayed near the Regents meeting. A UCLA Jewish history professor publicly described it as antisemitic.
+(b) Symbolic protest present: The effigy appeared alongside signs and chants calling for divestment from companies linked to Israel, clearly forming part of the visual protest narrative.
+Scope: Visual protest element interpreted as invoking antisemitic imagery at a Regents meeting event; prompted faculty-level public criticism.
+
+Incident-specific documents and images are uploaded directly into the chat. Knowledge you must apply to all incidents you code are in project knowledge. 
+
+Follow the incident_coding_protocol.md in project knowledge exactly, without improvisation or deviation
+
+Before coding this incident, confirm you have fully reviewed the incident_coding_protocol.md and will apply ALL sections. Provide a verification that addresses each major section.
+
+I only want INC-001.yml as the product of this exercise. You can confirm other efforts in your output, but I will test your success based on INC-001.yml

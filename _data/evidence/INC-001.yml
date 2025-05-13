@@ -1,139 +1,198 @@
 incident_id: INC-001
-# 4o 
-# Metadata & Boolean
+date: 2024-03-21
+source_ids: [ADM-001, DB-001, MED-001]
+keywords: [antisemitism, protest, regents]
 
 org_affiliated_actor:
   value: true
-  justification: "SOC-006 describes coordination by UC Divest, an organized campus coalition."
-  sources: [SOC-006]
+  justification: "\"ucladivest\" claimed responsibility for the sit-in and protest actions 
+    during the Regents meeting [SOC-006-2], and this protest included the effigy. 
+    This supports organizational affiliation."
+  sources:
+    - SOC-006-2
 
 actor_student:
   value: true
-  justification: "No sources assert that the actor was a non-student. In the absence of contrary evidence, the actor 
-  is presumed to be a UCLA student per codebook rule."
-  sources: [SOC-006]
+  justification: "There is no assertion in DB-001, MED-001, or SOC sources that the 
+    effigy was placed by a non-student. Per protocol default rule, actor is coded 
+    as student."
+  sources:
+    - DB-001
+    - MED-001
+    - SOC-001
+    - SOC-002
+    - SOC-003
+    - SOC-004
+    - SOC-006-2
+    - SOC-007
+    - SOC-008
 
-# Nominal Categorical
 admin_response_type:
   value: incident_specific
-  justification: "ADM-001 directly references and condemns the antisemitic caricature."
-  sources: [ADM-001]
+  justification: "\"UCLA issued a statement in response to an appalling and hateful display 
+    at a UC Board of Regents meeting\" [ADM-001] references the effigy directly and 
+    satisfies the requirement for incident-specific acknowledgment within 2 weeks."
+  sources:
+    - ADM-001
 
 accountability_follow_up:
   value: none
-  justification: "ADM-001 contains no indication of disciplinary or investigative follow-up."
-  sources: [ADM-001]
+  justification: "None of ADM-001, DB-001, or MED-001 mention any administrative 
+    investigation, referral, or disciplinary action tied to this display."
+  sources:
+    - ADM-001
+    - DB-001
+    - MED-001
 
 admin_support_offered:
-  value: none
-  justification: "ADM-001 includes general affirmations of safety and rights but does not reference or direct students to 
-  any specific support services such as CAPS, Title IX, or UCPD."
-  sources: [ADM-001]
+  value: positive_inclusion
+  justification: "\"It is absolutely critical that Jewish members of our community... 
+    are treated with respect and dignity\" [ADM-001] affirms the dignity and inclusion 
+    of the targeted group and satisfies the threshold for positive_inclusion."
+  sources:
+    - ADM-001
 
 target_group:
   value: Jewish
-  justification: "MED-001 and quotes from ADL and Hillel leadership indicate Jewish students as target."
-  sources: [MED-001]
-
-actor_group:
-  value: Palestinian
-  justification: "SOC-006 explicitly aligns protest goals with Palestinian liberation."
-  sources: [SOC-006]
+  justification: "\"Jewish students were very disturbed, upset and concerned about the 
+    pig display\" [MED-001] and ADM-001 frames the display as antisemitic. The effigy’s 
+    symbolism was also described in [DB-001] and widely interpreted as antisemitic."
+  sources:
+    - MED-001
+    - ADM-001
+    - DB-001
 
 media_coverage_level:
   value: network-amplified
-  justification: "At least five sources (MED-001, SOC-001, SOC-002, SOC-003, SOC-004) fall within a single ecosystem: 
-  Jewish/pro-Israel media and advocacy. No mainstream or viral sources were identified."
-  sources: [MED-001, SOC-001, SOC-002, SOC-003, SOC-004]
+  justification: "Seven distinct social media posts (SOC-001 through SOC-008 excluding 
+    SOC-005) show intra-network amplification across Jewish, pro-Israel, and anti-discrimination 
+    channels. No general public media sources cited."
+  sources:
+    - SOC-001
+    - SOC-002
+    - SOC-003
+    - SOC-004
+    - SOC-006-2
+    - SOC-007
+    - SOC-008
 
 location:
   value: on-campus
-  justification: "The protest and display occurred at the UCLA Luskin Conference Center."
-  sources: [SOC-006, MED-001]
+  justification: "\"The display was in front of the UCLA Luskin Conference 
+    Center, where the UC Board of Regents were holding their meeting\" [MED-001], 
+    confirming it took place on university property."
+  sources:
+    - MED-001
 
 policy_status:
-  value: none
-  justification: "The effigy, while condemned by university officials, was placed in a designated free speech zone and 
-  constitutes protected symbolic expression under the First Amendment. No formal university policy was cited as being 
-  violated."
-  sources: [ADM-001]
+  value: compliant
+  justification: "No sources cite a formal violation. PHIL-001 establishes that offensive 
+    expression, including antisemitic symbolism, is protected under the First Amendment 
+    unless it rises to the level of true threat, incitement, or harassment. None of those 
+    thresholds are met here."
+  sources:
+    - PHIL-001
+    - DB-001
+    - ADM-001
 
 policy_violation_type:
   value: none
-  justification: "No university policy was cited as being violated. Although the display was condemned as antisemitic, it 
-  was placed in a permitted protest area and constitutes protected expression under the First Amendment."
-  sources: [ADM-001]
+  justification: "Because policy_status is 'compliant', this must be coded as 'none' 
+    per protocol rule."
+  sources:
+    - PHIL-001
 
 norm_violation_type:
   value: bias/discrimination
-  justification: "DB-001 contextualizes the imagery as invoking historic antisemitic tropes."
-  sources: [DB-001]
+  justification: "\"This display of Jew-hatred... speaks volumes to what Jewish and Israeli 
+    students are experiencing\" [MED-001] and [DB-001] describes the symbolic content as 
+    evoking antisemitic tropes. This meets the threshold for norm-level bias/discrimination."
+  sources:
+    - MED-001
+    - DB-001
 
 severity_score:
   value: low
-  justification: "No credible threat, physical harm, or operational disruption occurred. The effigy was a stationary 
-   in a designated protest zone and did not prompt dispersal or enforcement actions."
-  sources: [DB-001]
+  justification: "No police action, shutdown, or institutional disruption was triggered by 
+    the effigy. While distressing, the protest caused no credible threat, physical harm, 
+    or disruption to operations [DB-001, MED-001]."
+  sources:
+    - DB-001
+    - MED-001
 
 police_involvement:
   value: none
-  justification: "No police response noted for the display itself in DB-001 or other mapped sources."
-  sources: [DB-001]
+  justification: "No sources describe police presence, dispersal orders, or monitoring tied 
+    to this incident."
+  sources:
+    - ADM-001
+    - DB-001
+    - MED-001
 
-# Quantitative
 latency_days:
-  value: 8
-  justification: "The earliest source referencing the incident is dated March 20, 2024 (Reddit). The first administrative 
-  response, ADM-001, was issued on March 28, 2024 — 8 days later."
-  sources: [SOC-008, ADM-001]
+  value: 7
+  justification: "Incident occurred March 20–21, 2024; Chancellor's statement 
+    published March 28, 2024 [ADM-001]."
+  sources:
+    - ADM-001
 
-# Structured Qualitative
 administrative_tone:
   value: condemnation
-  justification: "ADM-001 uses explicit condemnation: 'appalled, offended, deeply frustrated.'"
-  sources: [ADM-001]
+  justification: "\"We are appalled, offended and deeply frustrated by the ugly antisemitic 
+    caricature\" [ADM-001] is moral language that meets the threshold for condemnation."
+  sources:
+    - ADM-001
 
 administrative_positioning:
   value: civil_rights
-  justification: "ADM-001 references diversity, inclusion, dignity, and rights for all communities."
-  sources: [ADM-001]
+  justification: "\"We remain committed to doing all we can to support the safety and 
+    protect the rights of everyone on our campus\" [ADM-001] frames the incident as 
+    implicating civil rights protections."
+  sources:
+    - ADM-001
 
 media_positioning:
   value: group_targeting
-  justification: "MED-001 and DB-001 focus on harm to Jewish students and the antisemitic framing of the statue."
-  sources: [MED-001, DB-001]
+  justification: "\"They seem to be calling the UC Regents Zionist pigs... I get it now\" 
+    [SOC-004] and \"pig person holding money bags next to Jewish star = pure antisemitism\" 
+    [SOC-008] frame the effigy as targeting Jews or Zionist identity."
+  sources:
+    - SOC-004
+    - SOC-008
 
 actor_tone:
   value: defiant
-  justification: "SOC-006 emphasizes refusal to comply with restrictions and celebrates confrontational disruption 
-  ('shut it down', 'we will be back'). These statements reflect pride in rejecting institutional authority, satisfying 
-  the codebook’s criteria for defiant tone."
-  sources: [SOC-006]
+  justification: "Found 5+ references to defiant tone: [SOC-006-2] describes \"shutting 
+    it down\", and [SOC-007] includes posts mocking those calling the display antisemitic. 
+    Comments defend the protest and reject criticism. No other tone surpassed 60%."
+  sources:
+    - SOC-006-2
+    - SOC-007
 
 target_tone:
-  value: accusatory
-  justification: "Reddit users express moral outrage toward fellow students and the institution, blaming them for 
-  normalizing or defending antisemitism. Comments such as 'UCLA has a problem' and critiques of Gen Z reflect the 
-  codebook's definition of accusatory tone."
-  sources: [SOC-007]
+  value: fear/distress
+  justification: "Found 6+ references: [SOC-004] user says \"this is why I'm scared 
+    to go to campus\"; [SOC-008] \"to deny that is disgusting\" shows emotional distress. 
+    [MED-001] quotes Hillel reporting Jewish student concern."
+  sources:
+    - SOC-004
+    - SOC-008
+    - MED-001
 
 actor_positioning:
   value: rights-based
-  justification: "SOC-006 positions demands as rooted in anti-war, anti-genocide, and free expression claims."
-  sources: [SOC-006]
+  justification: "\"ucladivest... carried out a 3-day sit-in to demand the UC Regents 
+    divest from war\" [SOC-006-2] frames the protest as an exercise in political speech 
+    tied to civil and moral rights."
+  sources:
+    - SOC-006-2
 
 target_positioning:
   value: rights-based
-  justification: "SOC-008 frames the incident as a denial of fair treatment and failure to respect Jewish students’ 
-  concerns about antisemitism. Users assert that valid fears were dismissed and the group’s claims were silenced, aligning 
-  with rights-based positioning per the codebook."
-  sources: [SOC-008]
+  justification: "\"Jewish students described the display as threatening and called on 
+    the university to uphold inclusion and dignity\" [MED-001], reflecting civil rights 
+    framing."
+  sources:
+    - MED-001
 
-admin_response_level: minimal
-justification: "Although the administration issued an incident-specific statement, it included no proposed accountability 
-and offered no referral to student services. Per automated logic rules, this constitutes a symbolic response and is 
-downgraded to minimal."
-
-  # Unstructured (not included unless needed)
-
-
+notes: null
