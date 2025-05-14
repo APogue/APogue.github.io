@@ -265,12 +265,12 @@ After a memory reset:
 **Coding Protocol:**
 - Examine all administrative communications in sources
 - Code as `counseling/referral` if:
-  * Students were directed to services such as CAPS, ombuds, or external reporting channels
+  * Students were directed to services such as CAPS, ombuds, or external reporting channels (e.g., UCPD, Title IX office)
 - Code as `violation_warning` if:
-  * Admin issued a statement referencing applicable rules/policies
+  * Admin issued a statement referencing applicable university rules, laws, or policies
   * AND explicitly warned about possible violations or consequences
 - Code as `campus_climate_initiative` if:
-  * Admin referenced a programmatic effort or institutional partnership aimed at improving campus environment
+  *  Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
 - Code as `positive_inclusion` if:
   * Admin explicitly affirmed the dignity and rights of the named, targeted group
   * This is NOT the same as condemning acts against that group
@@ -279,7 +279,8 @@ After a memory reset:
   * Admin explicitly acknowledged gaps or failures in the institution's approach
   * AND committed to specific improvements or changes
   * Does not require legal fault admission
-  * e.g., "This display is a painful reminder that we must do more to foster understanding"
+  * e.g., "This display is a painful reminder that we must do more to foster understanding and compassion"
+  * e.g., “We are tracking incidents, if behavior becomes pervasive consequences will be imposed”
 - Code as `general_commitment` if:
   * Admin reaffirmed existing commitments as sufficient
   * Without acknowledging specific responsibility or need for change
