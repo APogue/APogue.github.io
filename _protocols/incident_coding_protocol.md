@@ -140,7 +140,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
 - Explicitly connect each quote to THIS specific incident (not general patterns)
 - ONLY AFTER presenting direct evidence about THIS incident, provide interpretation
 - If unable to provide direct quotes specifically about THIS incident:
-  * Return to SECTION 3 to search for additional evidence
+  * Return to SECTION 5 to search for additional evidence
   * If still insufficient, return "insufficient evidence" for that variable
   * Document the lack of incident-specific quotes in your justification
   * Proceed to the next variable
@@ -151,7 +151,7 @@ Before submitting any evidence file, verify that the variable sequence matches t
 - Check that each quote is ACTUALLY about THIS incident (not similar incidents)
 - Check for contextual accuracy (quotes aren't misleading when isolated)
 - If finding any justification lacking direct quotes about THIS incident:
-  * Return to SECTION 4 to correct the justification
+  * Return to SECTION 6 to correct the justification
   * If direct quotes cannot be added, return "insufficient evidence" for that variable
   * Document the verification failure in your justification
   * Proceed to the next variable
@@ -385,55 +385,57 @@ Before submitting the incident coding, verify for media_coverage_level:
 
 Before finalizing the policy_status coding, complete this mandatory verification checklist:
 
-□ I have read POL-001, POL-002, POL-003, and PHIL-001 in their ENTIRETY (not just skimmed)
-□ I have specifically reviewed PHIL-001's sections on "Free Speech 101," "Categorical Exceptions," and "What's UCLA to Do"
-□ I have identified whether the administration explicitly stated a policy violation (providing exact quote if so)
-□ I have rigorously tested whether the incident falls into a SPECIFIC category of unprotected speech per PHIL-001:
-□ Incitement of imminent lawless action
-□ True threats
-□ Fighting words (addressed at specific individual to trigger immediate fistfight)
-□ Harassment that substantially interferes with educational access (not just causing discomfort)
-□ Other categorical exceptions explicitly listed in PHIL-001
-□ I have explicitly acknowledged in my justification that UCLA is bound by the First Amendment as a state actor
-□ I have distinguished between administrative condemnation and actual policy violation in my analysis
-□ I have recognized that offensive, antisemitic, or racist expression is generally protected speech unless it rises to the level of unprotected categories
-□ In cases of ambiguity, I have defaulted to protecting speech rather than restricting it
-□ My justification includes explicit quotes from BOTH policy documents AND PHIL-001's free speech sections
-□ I have included a clear First Amendment balancing analysis in my justification
-□ I have NOT coded as "violated" based solely on the offensive or hateful nature of the speech
-□ I have NOT equated administrative condemnation with policy violation
+□ I have read POL-001, POL-002, POL-003, and PHIL-001 in their ENTIRETY (not just skimmed)  
+□ I have specifically reviewed PHIL-001's sections on "Free Speech 101," "Categorical Exceptions," and "What's UCLA to Do"  
+□ I have identified whether the administration explicitly stated a policy violation (providing exact quote if so)  
+□ I have rigorously tested whether the incident falls into a SPECIFIC category of unprotected speech per PHIL-001:  
+□ Incitement of imminent lawless action  
+□ True threats  
+□ Fighting words (addressed at specific individual to trigger immediate fistfight)  
+□ Harassment that substantially interferes with educational access (not just causing discomfort)  
+□ Other categorical exceptions explicitly listed in PHIL-001  
+□ I have explicitly acknowledged in my justification that UCLA is bound by the First Amendment as a state actor  
+□ I have distinguished between administrative condemnation and actual policy violation in my analysis  
+□ I have recognized that offensive, antisemitic, or racist expression is generally protected speech unless it rises to the level of unprotected categories  
+□ In cases of ambiguity, I have defaulted to protecting speech rather than restricting it  
+□ My justification includes explicit quotes from BOTH policy documents AND PHIL-001's free speech sections  
+□ I have included a clear First Amendment balancing analysis in my justification  
+□ I have NOT coded as "violated" based solely on the offensive or hateful nature of the speech  
+□ I have NOT equated administrative condemnation with policy violation  
 □ I have double-checked my reasoning to ensure I'm not defaulting to moral judgments rather than constitutional analysis
 
 ### SEVERITY_SCORE AUDIT CHECKLIST
 
 Before assigning a severity score, explicitly verify and document the presence or absence of:
 
-□ Direct physical harm to persons (documented injuries or medical attention)
-□ Credible risk to physical safety (specific threats with likelihood of execution)
-□ Disruption to campus operations (measurable interference with university functions)
-□ Disruption to institutional safety (required security response)
+□ Direct physical harm to persons (documented injuries or medical attention)  
+□ Credible risk to physical safety (specific threats with likelihood of execution)  
+□ Disruption to campus operations (measurable interference with university functions)  
+□ Disruption to institutional safety (required security response)  
 □ Escalation that affected individuals, operations, or safety (documented intervention)
 
 ### ACTOR_TONE AND TARGET_TONE AUDIT CHECKLIST
 
 Before finalizing any `actor_tone` or `target_tone` coding, complete this required verification:
 
-□ I have examined EVERY source that contains statements or reactions from the relevant group
-□ I have documented EACH source reviewed in my justification
-□ I have counted the EXACT number of references for EACH tone category identified
-□ I have calculated the PERCENTAGE that each tone represents of all references
-□ I have verified whether any tone reaches or exceeds the 60% threshold
-□ I have provided AT LEAST TWO specific quotations for EACH tone identified
-□ I have explicitly stated my counting methodology in the justification
-□ I have properly weighted organizational statements equally to multiple individual statements
-□ I have considered both frequency AND intensity in my analysis
-□ I have prioritized direct statements from affected individuals/groups over third-party characterizations
-□ I have coded as 'combination' if no single tone reaches the 60% threshold
-□ I have specified which tones are present when coding as 'combination'
-□ I have reviewed my calculations to ensure mathematical accuracy
+□ I have examined EVERY source that contains statements or reactions from the relevant group  
+□ I have verified that content from EVERY source chosen for justification is RELEVANT TO THE INCIDENT 
+□ I have disregarded ANY justification containing statements or reactions from the relevant group that DOES NOT refer directly to the incident 
+□ I have documented EACH source reviewed in my justification  
+□ I have counted the EXACT number of references for EACH tone category identified  
+□ I have calculated the PERCENTAGE that each tone represents of all references  
+□ I have verified whether any tone reaches or exceeds the 60% threshold  
+□ I have provided AT LEAST TWO specific quotations for EACH tone identified  
+□ I have explicitly stated my counting methodology in the justification  
+□ I have properly weighted organizational statements equally to multiple individual statements  
+□ I have considered both frequency AND intensity in my analysis  
+□ I have prioritized direct statements from affected individuals/groups over third-party characterizations  
+□ I have coded as 'combination' if no single tone reaches the 60% threshold  
+□ I have specified which tones are present when coding as 'combination'  
+□ I have reviewed my calculations to ensure mathematical accuracy  
 □ I have re-examined any borderline cases (near 60% threshold) for potential miscounts
 
-This checklist MUST be completed for both `actor_tone` and `target_tone` variables. If ANY item cannot be checked, return to the sources and revise your analysis accordingly.# Tone Variables Coding Protocol
+This checklist MUST be completed for both `actor_tone` and `target_tone` variables. If ANY item cannot be checked, return to the sources and revise your analysis accordingly.
 
 
 ## SECTION 9: OUTPUT FORMAT
