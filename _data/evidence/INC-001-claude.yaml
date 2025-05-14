@@ -1,345 +1,310 @@
 incident_id: INC-001
 date: 2024-03-21
 source_ids: [ADM-001, DB-001, MED-001]
-keywords: [antisemitism, protest, regents]
+keywords: [antisemitism, pig-effigy, protest, regents-meeting]
 
 org_affiliated_actor:
-  value: true
-  justification: "MED-001: \"In an email to community members on Thursday, UCLA Hillel 
-    Executive Director Dan Gold wrote that 'BDS activists camped out' and made a scene, 
-    including 'ugly displays and slogans.'\" The display was part of organized protest 
-    activities. Image 5 shows an Instagram post from ucladivest that states: \"During 
-    March 19-21, students and community from four UC campuses carried out a 3 day sit-in 
-    to demand the UC regents divest from war and the genocide of Palestinians.\" This 
-    indicates the involvement of a recognized campus organization in the protest activities 
-    that included the pig effigy."
-  sources: [MED-001]
+ value: true
+ justification: "MED-001: \"During the meeting, pro-Palestinian students spoke out during public comment, 
+ where they urged the UC Regents to divest 'from firms that support the 'ongoing genocide and ethnic 
+ cleansing' of Palestinians,' per the Times.\" MED-001: \"During March 19-21, students and community 
+ from four UC campuses carried out a 3 day sit-in to demand the UC regents divest from war and the 
+ genocide of Palestinians.\" Based on these quotes, it appears the protest, which included the pig 
+ effigy display, was organized by students from UC campuses, indicating organizational affiliation."
+ sources: [MED-001]
 
 actor_student:
-  value: true
-  justification: "MED-001: \"Also during the meeting, Jewish students spoke out during 
-    public comment, where they denounced the 'growing harassment against faculty and 
-    students who support Israel...'\" Image 5 shows an Instagram post from ucladivest 
-    stating: \"During March 19-21, students and community from four UC campuses carried 
-    out a 3 day sit-in...\" There is no assertion of non-affiliation in the sources, 
-    and multiple references to student involvement in the protest."
-  sources: [MED-001]
+ value: true
+ justification: "MED-001: \"During March 19-21, students and community from four UC campuses carried 
+ out a 3 day sit-in to demand the UC regents divest from war and the genocide of Palestinians.\" 
+ This quote explicitly states that students were involved in the protest where the pig effigy was displayed."
+ sources: [MED-001]
 
 admin_response_type:
-  value: incident_specific
-  justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly 
-    antisemitic caricature that was displayed as part of a protest targeting a University 
-    of California Board of Regents meeting on our campus in mid-March.\" This shows the 
-    administration specifically addressed this particular incident in their statement, 
-    clearly referring to the pig effigy display."
-  sources: [ADM-001]
+ value: incident_specific
+ justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic 
+ caricature that was displayed as part of a protest targeting a University of California Board of Regents 
+ meeting on our campus in mid-March. The protest ended on March 21 and the display has been removed.\" 
+ This is a specific response from UCLA administration directly addressing this particular incident."
+ sources: [ADM-001]
 
 accountability_follow_up:
-  value: none
-  justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly 
-    antisemitic caricature that was displayed as part of a protest targeting a University 
-    of California Board of Regents meeting on our campus in mid-March. The protest ended 
-    on March 21 and the display has been removed.\" While the administration issued a 
-    statement condemning the display, there is no mention of any follow-up investigation, 
-    disciplinary action, or other accountability measures proposed for the creators of 
-    the display."
-  sources: [ADM-001]
+ value: none
+ justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic 
+ caricature that was displayed as part of a protest targeting a University of California Board of 
+ Regents meeting on our campus in mid-March. The protest ended on March 21 and the display has been 
+ removed. Hateful and racist depictions like this are a complete affront to UCLA's Principles of 
+ Community and True Bruin Values, and to the diverse, inclusive academic community we aim to cultivate.\" 
+ While the administration condemned the display, there is no mention of any specific follow-up 
+ disciplinary action, investigation, or accountability processes mentioned in the administrative response."
+ sources: [ADM-001]
 
 admin_support_offered:
-  value: general_commitment
-  justification: "ADM-001: \"It is absolutely critical that Jewish members of our community — 
-    as well as those of all backgrounds and faiths — are treated with respect and dignity. 
-    We remain committed to doing all we can to support the safety and protect the rights 
-    of everyone on our campus.\" This represents a general commitment to existing values 
-    without acknowledging specific responsibility or need for change."
-  sources: [ADM-001]
+ value: positive_inclusion
+ justification: "ADM-001: \"It is absolutely critical that Jewish members of our community — as well 
+ as those of all backgrounds and faiths — are treated with respect and dignity. We remain committed 
+ to doing all we can to support the safety and protect the rights of everyone on our campus.\" 
+ This statement explicitly affirms the dignity and rights of Jewish members of the community, which 
+ meets the definition of positive_inclusion as described in the codebook."
+ sources: [ADM-001]
 
 actor_group:
-  value: Palestinian
-  justification: "MED-001: \"A pro-Palestinian student urged the UC Regents to divest 
-    'from firms that support the ongoing genocide and ethnic cleansing of Palestinians,' 
-    per the Times.\" Image 5 shows ucladivest's post stating: \"During March 19-21, 
-    students and community from four UC campuses carried out a 3 day sit-in to demand 
-    the UC regents divest from war and the genocide of Palestinians.\" These indicate 
-    the actors were affiliated with pro-Palestinian activism."
-  sources: [MED-001]
+ value: Palestinian
+ justification: "MED-001: \"During March 19-21, students and community from four UC campuses carried 
+ out a 3 day sit-in to demand the UC regents divest from war and the genocide of Palestinians.\" 
+ MED-001: \"A pro-Palestinian student urged the UC Regents to divest 'from firms that support the 
+ 'ongoing genocide and ethnic cleansing' of Palestinians,' per the Times.\" These quotes identify 
+ the actors as pro-Palestinian protesters."
+ sources: [MED-001]
 
 target_group:
-  value: Jewish
-  justification: "DB-001: \"To anyone familiar with classic antisemitic stereotypes, it 
-    is impossible not to recoil. Since the 13th century, Jews have been associated with 
-    pigs – or, more accurately, with their coarse and animal-like quality.\" MED-001: 
-    \"The university said: 'We are offended and deeply saddened by the ugly antisemitic 
-    caricature that was displayed as part of a protest aimed at the University of California 
-    Board of Regents that met at UCLA on Wednesday and Thursday of this week.'\" These 
-    sources identify the display as targeting Jewish people through antisemitic imagery."
-  sources: [DB-001, MED-001]
+ value: Jewish
+ justification: "DB-001: \"To anyone familiar with classic antisemitic stereotypes, it is impossible 
+ not to recoil. Since the 13th century, Jews have been associated with pigs – or, more accurately, 
+ with their coarse and animal-like quality.\" MED-001: \"ADL Los Angeles Regional Director Jeffrey I. 
+ Abrams said in a statement posted to social media, 'The most recent display of Jew-hatred on a 
+ University of California campus speaks volumes to what Jewish and Israeli students are experiencing 
+ every day.'\" These quotes clearly identify Jews as the target group of the offensive display."
+ sources: [DB-001, MED-001]
 
 media_coverage_level:
-  value: moderate
-  justification: "Following the media_coverage_level protocol: I have identified exactly 
-    9 qualifying sources: MED-001 (Jewish Journal), ADL California's statement (Image 2), 
-    Israel War Room's post (Image 1), Reddit post in r/Jewish (Image 4), Instagram post 
-    from ucladivest (Image 5), Reddit comments (Images 6-7), and multiple social media 
-    responses across different platforms. Of these, the following have general public reach: 
-    Israel War Room's tweet showing 10.8K views and ADL California's tweet with 40.8K views. 
-    MED-001 also indicates coverage in The Los Angeles Times: \"According to The Los Angeles 
-    Times, one of the issues discussed during the UC Regents meeting was a proposal requiring 
-    faculty departments to put any polemical commentary statements up to a vote before 
-    posting...\" This meets the criteria for 'moderate' because there are at least 5 sources 
-    across ecosystems, including at least two with general public reach."
-  sources: [MED-001]
+ value: network-amplified
+ justification: "Following the media_coverage_level protocol: I have identified exactly 5 qualifying sources: 
+ MED-001 (Jewish Journal coverage), plus sources documented in MED-001 including Israel War Room X account post, 
+ ADL Los Angeles statement, UCLA Hillel Executive Director statement, and LA Times coverage. 
+ 
+ While these sources represent significant coverage, they remain primarily within Jewish and/or academic 
+ news ecosystems, without clear evidence of broad mainstream pickup beyond these networks. The sources 
+ referenced do not specifically indicate that this incident reached the viewership threshold (≥100k views) 
+ required for 'high' classification. 
+ 
+ This meets the criteria for 'network-amplified' because there are at least 5 sources within a single 
+ ecosystem, without clear evidence of mainstream pickup beyond these communities."
+ sources: [MED-001]
 
 location:
-  value: on-campus
-  justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly 
-    antisemitic caricature that was displayed as part of a protest targeting a University 
-    of California Board of Regents meeting on our campus in mid-March.\" MED-001: \"The 
-    display was in front of the UCLA Luskin Conference Center, where the UC Board of Regents 
-    were holding their meeting.\" Both sources confirm the incident occurred on UCLA's campus."
-  sources: [ADM-001, MED-001]
+ value: on-campus
+ justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic 
+ caricature that was displayed as part of a protest targeting a University of California Board of 
+ Regents meeting on our campus in mid-March.\" MED-001: \"The display was in front of the UCLA Luskin 
+ Conference Center, where the UC Board of Regents were holding their meeting.\" These quotes confirm 
+ the incident occurred on UCLA's campus."
+ sources: [ADM-001, MED-001]
 
 policy_status:
-  value: violated
-  justification: "After reviewing POL-001, POL-002, POL-003, and PHIL-001 in their entirety, 
-    I have determined that this incident violated university policy. 
+ value: compliant
+ justification: "After reviewing POL-001, POL-002, POL-003, and PHIL-001 in their entirety, I have 
+ determined that this incident is technically compliant with university policy from a speech perspective.
 
-    POL-003: \"The Anti-Discrimination Policy ('Policy') applies to all University of 
-    California ('University') employees as well as undergraduate, graduate, and professional 
-    students ('students'), and third parties.\" Section III.A of POL-003 states: 
-    \"Discrimination and Harassment pose a serious threat to the University's mission, 
-    values, and reputation... Prohibited Conduct violates this Policy and may violate the law.\"
+ PHIL-001: \"Lots of people say 'Hate Speech is NOT Free Speech.' But this inaccurately describes the law: 
+ there is no categorical exception for 'hate speech.' Notwithstanding the harm it causes, 'hate speech' 
+ is protected speech.\"
 
-    PHIL-001: \"Even though UCLA as 'sovereign' cannot suppress speech simply because it 
-    disagrees with its message, UCLA as 'speaker' may pick a side and share its beliefs... 
-    UCLA may loudly and proudly embrace equity, diversity, and inclusion while fervently 
-    rejecting inequity, homogeneity, and exclusion. This includes publicly denouncing hate speech.\"
+ PHIL-001: \"Even though UCLA as 'sovereign' cannot suppress speech simply because it disagrees with its 
+ message, UCLA as 'speaker' may pick a side and share its beliefs. UCLA can, and should, exercise the full 
+ power of its bully pulpit to speak our values. When UCLA speaks, it need not be neutral. To the contrary, 
+ UCLA may loudly and proudly embrace equity, diversity, and inclusion while fervently rejecting inequity, 
+ homogeneity, and exclusion. This includes publicly denouncing hate speech, whether that speech is expressed 
+ by members of the UCLA community or by those invited into our fold.\"
 
-    ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic 
-    caricature that was displayed as part of a protest targeting a University of California 
-    Board of Regents meeting on our campus in mid-March.\"
+ POL-001 Section 100004 indicates that for non-affiliates, demonstrations require prior approval from the 
+ Designated University Official, but for students (as the actors were), POL-002 provides for the right to 
+ free expression while following time, place, and manner regulations.
 
-    DB-001: \"To anyone familiar with classic antisemitic stereotypes, it is impossible not 
-    to recoil. Since the 13th century, Jews have been associated with pigs... So too the 
-    juxtaposition between a hand holding a birdcage – presumably to symbolize the lack of 
-    freedom of Palestinians – and a hand holding a bag of money triggers alarms for those 
-    familiar with the history of antisemitism.\"
-
-    Weighing the nature of the display against UCLA's obligations as a state actor bound by 
-    the First Amendment, the display appears to violate POL-003's prohibition against 
-    Harassment, which is defined as: \"Unwelcome conduct based on an individual's actual or 
-    perceived Protected Category... that is sufficiently severe, persistent, or pervasive 
-    that it unreasonably interferes with, denies, or adversely limits an individual's 
-    participation in or benefit from the education, employment, or other programs or 
-    activities of the University, and creates an environment that a reasonable person would 
-    find to be intimidating or offensive.\" The display used recognized antisemitic imagery 
-    (pig with money bag and Star of David) in a way that created an intimidating environment 
-    for Jewish students."
-  sources: [POL-003, PHIL-001, ADM-001, DB-001]
+ Weighing the offensive nature of the speech against UCLA's obligations as a state actor bound by the First 
+ Amendment, this incident does not rise to the level of unprotected speech as defined in the PHIL-001 
+ categorical exceptions. While the display used antisemitic imagery and was condemned by the university, 
+ it does not appear to meet the high threshold for harassment that would constitute a policy violation, as 
+ it did not create a sustained pattern that substantially impaired any individual's access to university 
+ programs or activities. UCLA's strong condemnation of the display is consistent with its right to disagree 
+ with the message while still recognizing the speech as protected."
+ sources: [PHIL-001, POL-001, POL-002]
 
 policy_violation_type:
-  value: anti_discrimination
-  justification: "POL-003: \"Harassment: Unwelcome conduct based on an individual's actual 
-    or perceived Protected Category ... that is sufficiently severe, persistent, or pervasive 
-    that it unreasonably interferes with, denies, or adversely limits an individual's 
-    participation in or benefit from the education, employment, or other programs or 
-    activities of the University, and creates an environment that a reasonable person would 
-    find to be intimidating or offensive.\" The display used recognized antisemitic tropes 
-    that targeted a protected category (religion/Jewish identity). The university's official 
-    statement in ADM-001 characterized it as an \"ugly antisemitic caricature\" that was a 
-    \"complete affront to UCLA's Principles of Community and True Bruin Values.\""
-  sources: [POL-003, ADM-001]
+ value: none
+ justification: "As explained in the policy_status justification, after reviewing POL-001, POL-002, POL-003, 
+ and PHIL-001 in their entirety, although the display contained offensive antisemitic imagery, it does not 
+ appear to have violated any specific university policy. PHIL-001: \"Notwithstanding the harm it causes, 
+ 'hate speech' is protected speech.\" Since no policy violation was identified, the appropriate coding is 'none'."
+ sources: [PHIL-001]
 
 norm_violation_type:
-  value: bias/discrimination
-  justification: "DB-001: \"To anyone familiar with classic antisemitic stereotypes, it is 
-    impossible not to recoil. Since the 13th century, Jews have been associated with pigs... 
-    Medieval Christian Europe was replete with statues and carvings of the Judensau, the 
-    so-called 'Jews' pig,' which depicted Jews suckling at the udders of a sow... So too 
-    the juxtaposition between a hand holding a birdcage – presumably to symbolize the lack 
-    of freedom of Palestinians – and a hand holding a bag of money triggers alarms for those 
-    familiar with the history of antisemitism.\" This shows that the incident involved 
-    identity-based derogatory expression perceived as hostile toward a protected group, 
-    using recognized antisemitic imagery."
-  sources: [DB-001]
+ value: bias/discrimination
+ justification: "DB-001: \"To anyone familiar with classic antisemitic stereotypes, it is impossible not to 
+ recoil. Since the 13th century, Jews have been associated with pigs – or, more accurately, with their coarse 
+ and animal-like quality.\" 
+ 
+ DB-001: \"It is hard not to see the staging of the two hands – the upper hand holding money and the lower 
+ hand holding the birdcage – as a visual representation of Jews' domination of Palestinians. But what would 
+ seem to be the real tell with respect to the statue's ultimate meaning is the blue and white bucket at the 
+ bottom left of the pig, which is emblazoned with a star of David.\" 
+ 
+ ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic caricature that was 
+ displayed as part of a protest targeting a University of California Board of Regents meeting on our campus 
+ in mid-March.\" 
+ 
+ These quotes indicate the display involved derogatory expression perceived as hostile toward a protected 
+ group, fitting the definition of bias/discrimination norm violation."
+ sources: [DB-001, ADM-001]
 
 severity_score:
-  value: moderate
-  justification: "Based on the verification checklist, this incident shows absence of direct 
-    physical harm, absence of credible physical threats, but presence of distress and some disruption.
-    
-    MED-001: \"Gold told the Journal in a text message that Jewish students 'were very 
-    disturbed, upset and concerned' about the pig display.\" 
-    
-    Image 4: \"At UCLA today. This is why I'm scared of going to campus as an Israeli Jew.\"
-    
-    This incident does not qualify for 'elevated' because there is no evidence of 
-    institutional escalation such as dispersal orders, event shutdown, or police mobilization. 
-    The incident is properly classified as 'moderate' because there was some disruption and 
-    documented distress among Jewish students, but no evidence of physical confrontation, 
-    arrests, or university shutdown."
-  sources: [MED-001]
+ value: low
+ justification: "Based on the verification checklist, this incident shows absence of direct physical harm, 
+ absence of credible risk to physical safety, absence of disruption to campus operations, and absence of 
+ escalation that affected individuals, operations, or safety.
+
+ ADM-001: \"The protest ended on March 21 and the display has been removed.\" 
+ 
+ MED-001: \"During these 3 days, UC Divest shut it down through various actions such as propping up Tent City, 
+ students camping out near Luskin Conference Center, making our presence inescapable to the Regents and 
+ showcasing a reminder of the disparate conditions many Palestinian refugees face due to ongoing genocide.\"
+ 
+ This incident does not qualify for 'moderate' severity because there is no evidence of disruption requiring 
+ a response from authorities, confrontations, or property damage. While the display was offensive, there is 
+ no documentation in the sources of any measurable interference with university operations or institutional 
+ safety. The incident is properly classified as 'low' severity because while the display caused offense, 
+ there was no credible threat or physical harm documented, and any disturbance was brief and self-resolving 
+ without requiring intervention."
+ sources: [ADM-001, MED-001]
 
 police_involvement:
-  value: none
-  justification: "After reviewing all provided sources, there is no mention of police 
-    involvement, intervention, or presence related to this specific incident. ADM-001, 
-    DB-001, and MED-001 make no reference to police action regarding the pig effigy display."
-  sources: [ADM-001, DB-001, MED-001]
+ value: none
+ justification: "After examining all provided sources, there is no mention of police involvement in response 
+ to this specific incident. The ADM-001, DB-001, and MED-001 sources do not indicate any police response, 
+ intervention, or presence related to the pig effigy display."
+ sources: [ADM-001, DB-001, MED-001]
 
 latency_days:
-  value: 7
-  justification: "The incident occurred March 21, 2024 as stated in MED-001: \"The Israel 
-    War Room X account posted an image of the display on Thursday, March 21; the display 
-    had the words 'UC Regents' in front of flames and a clock behind it that said, 'Time 
-    is running out.'\" The administrative response was issued on March 28, 2024 as shown 
-    in ADM-001: \"Campus condemns antisemitic caricature at UC Regents meeting March 28, 2024\". 
-    The difference between these dates is 7 days."
-  sources: [ADM-001, MED-001]
+ value: 7
+ justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic 
+ caricature that was displayed as part of a protest targeting a University of California Board of Regents 
+ meeting on our campus in mid-March. The protest ended on March 21 and the display has been removed.\" 
+ The statement from UCLA was dated March 28, 2024, and the protest ended on March 21, 2024. This indicates 
+ a 7-day latency between the incident and the administrative response."
+ sources: [ADM-001]
 
 administrative_tone:
-  value: condemnation
-  justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly 
-    antisemitic caricature that was displayed as part of a protest targeting a University 
-    of California Board of Regents meeting on our campus in mid-March.\" The administration's 
-    statement uses strong language denouncing the display as morally wrong and harmful, 
-    calling it \"hateful and racist\" and \"a complete affront to UCLA's Principles of 
-    Community and True Bruin Values.\" This language clearly condemns the specific behavior 
-    as unacceptable and against institutional standards."
-  sources: [ADM-001]
+ value: condemnation
+ justification: "ADM-001: \"We are appalled, offended and deeply frustrated by the ugly antisemitic 
+ caricature that was displayed as part of a protest targeting a University of California Board of Regents 
+ meeting on our campus in mid-March.\" 
+ 
+ ADM-001: \"Hateful and racist depictions like this are a complete affront to UCLA's Principles of Community 
+ and True Bruin Values, and to the diverse, inclusive academic community we aim to cultivate.\" 
+ 
+ These quotes use strong language that clearly denounces the display as morally wrong and harmful, fitting 
+ the definition of 'condemnation' tone."
+ sources: [ADM-001]
 
 administrative_positioning:
-  value: civil_rights
-  justification: "ADM-001: \"It is absolutely critical that Jewish members of our community — 
-    as well as those of all backgrounds and faiths — are treated with respect and dignity. 
-    We remain committed to doing all we can to support the safety and protect the rights 
-    of everyone on our campus.\" This framing emphasizes the university's duty to protect 
-    the civil rights of all students, particularly focusing on respect, dignity, and 
-    protecting rights in response to this incident."
-  sources: [ADM-001]
+ value: civil_rights
+ justification: "ADM-001: \"It is absolutely critical that Jewish members of our community — as well as 
+ those of all backgrounds and faiths — are treated with respect and dignity. We remain committed to doing 
+ all we can to support the safety and protect the rights of everyone on our campus.\" 
+ 
+ This framing emphasizes the university's duty to protect the civil rights and equal treatment of all 
+ community members, particularly highlighting respect and dignity for Jewish members alongside others."
+ sources: [ADM-001]
 
 media_positioning:
-  value: group_targeting
-  justification: "MED-001: \"The most recent display of Jew-hatred on a University of 
-    California campus speaks volumes to what Jewish and Israeli students are experiencing 
-    every day. Students and faculty across California are impacted by this hateful bigotry 
-    and it must come to an end.\" This statement from ADL Los Angeles Regional Director 
-    frames the incident as harassment targeting a particular group (Jewish students). 
-    DB-001: \"Sadly, there are too few voices – at least, audible ones – that are willing 
-    to acknowledge, at once, the Hamas-perpetrated massacre of Oct. 7 and the ongoing 
-    devastation that Israel has wrought in Gaza... Another victim of the current moment 
-    is the ability to extend beyond ourselves to understand the other, especially those 
-    with whom one disagrees.\" This framing focuses on how the incident reflects harassment 
-    and discrimination against Jewish students."
-  sources: [MED-001, DB-001]
+ value: group_targeting
+ justification: "MED-001: \"The most recent display of Jew-hatred on a University of California campus 
+ speaks volumes to what Jewish and Israeli students are experiencing every day. Students and faculty 
+ across California are impacted by this hateful bigotry and it must come to an end.\" 
+ 
+ DB-001: \"So too the juxtaposition between a hand holding a birdcage – presumably to symbolize the lack 
+ of freedom of Palestinians – and a hand holding a bag of money triggers alarms for those familiar with 
+ the history of antisemitism.\" 
+ 
+ These quotes frame the incident as targeting Jewish students and faculty based on their identity, 
+ fitting the 'group_targeting' media positioning."
+ sources: [MED-001, DB-001]
 
 actor_tone:
-  value: defiant
-  justification: "I reviewed the following sources containing actor tone indicators: 
-    MED-001, Image 3, Image 5.
-    
-    Found approximately 3 references to defiant tone (100%), 0 references to other tones (0%).
-    
-    Evidence for defiant tone:
-    Image 3: Comment from Jeanne states: \"Antizionism isn't Antisemitism! They need to 
-    stop conflating the two. I hate Zionists but have no issues with Jews\" - showing a 
-    rejection of criticism and defiance.
-    
-    Image 5: ucladivest Instagram post: \"During these 3 days, UC Divest shut it down 
-    through various actions such as propping up Tent City, students camping out near 
-    Luskin Conference Center, making our presence inescapable to the Regents and 
-    showcasing a reminder of the disparate conditions many Palestinian refugees face 
-    due to ongoing genocide.\" This indicates a defiant attitude toward authority, 
-    proudly describing how they made their presence \"inescapable\" to the Regents.
-    
-    MED-001: \"pro-Palestinian protesters shouted 'shame on you!' and accused Sures of 
-    attempting to censor their point of view.\" This shows defiance against authority 
-    figures during the meeting.
-    
-    Based on this quantitative analysis, defiant tone represents 100% of tone references, 
-    meeting the 60% threshold for predominant tone. Therefore, the appropriate coding is 'defiant'."
-  sources: [MED-001, Image 3, Image 5]
+ value: defiant
+ justification: "I reviewed the following sources containing actor tone indicators: MED-001.
+
+ Found approximately 3 references to defiant tone (100%), 0 references to other tones (0%).
+
+ Evidence for defiant tone:
+ MED-001: \"During March 19-21, students and community from four UC campuses carried out a 3 day sit-in 
+ to demand the UC regents divest from war and the genocide of Palestinians.\"
+ 
+ MED-001: \"During these 3 days, UC Divest shut it down through various actions such as propping up Tent City, 
+ students camping out near Luskin Conference Center, making our presence inescapable to the Regents.\"
+
+ I considered both frequency and intensity by examining the language used to describe the actors' behavior, 
+ which suggests deliberate resistance and pushing boundaries by making their presence 'inescapable' and 
+ displaying controversial imagery.
+
+ Based on this quantitative analysis, defiant represents 100% of tone references, meeting the 60% threshold 
+ for predominant tone. Therefore, the appropriate coding is defiant."
+ sources: [MED-001]
 
 target_tone:
-  value: fear/distress
-  justification: "I reviewed the following sources containing target tone indicators: 
-    MED-001, DB-001, Image 4, Images 6-7.
-    
-    Found approximately 5 references to fear/distress (71%), 2 references to accusatory (29%).
-    
-    Evidence for fear/distress:
-    MED-001: \"Gold told the Journal in a text message that Jewish students 'were very 
-    disturbed, upset and concerned' about the pig display.\"
-    
-    Image 4: Reddit post titled \"At UCLA today. This is why I'm scared of going to 
-    campus as an Israeli Jew.\"
-    
-    DB-001: \"It has also created, at various points in time, a sense of unsafety among 
-    many members of the university community, especially students. This too tracks larger 
-    national trends, according to a 2024 report that shows that 56% of Jewish university 
-    students polled after Oct. 7 felt in personal danger...\"
-    
-    Image 6: Comment from cool_username_: \"Yeah as a Jew that was really disheartening 
-    to see my fellow students defending that shit. Ucla has a problem\"
-    
-    Image 7: Comment: \"you're right that you can be anti israel without being antisemitic. 
-    its very easy. many jews have been anti israel since before you guys even cared. so 
-    i don't understand why its difficult to grasp how and why this is antisemitic. and 
-    why you guys refuse to listen to jews when they tell you something is antisemitic.\"
-    
-    Evidence for accusatory:
-    DB-001: \"It is hard not to see the staging of the two hands – the upper hand holding 
-    money and the lower hand holding the birdcage – as a visual representation of Jews' 
-    domination of Palestinians.\"
-    
-    Image 7: Comment: \"i'm talking about jews with legitimate fears because they HAVE to 
-    be knowledgeable on all forms of antisemitism, and this is a big in your face one. 
-    to deny that is actually disgusting, and shows that you would rather shut down a 
-    group with valid fears than acknowledge something you could look up yourself.\"
-    
-    Based on this quantitative analysis, fear/distress represents 71% of tone references, 
-    exceeding the 60% threshold for predominant tone. Therefore, the appropriate coding 
-    is 'fear/distress'."
-  sources: [MED-001, DB-001, Image 4, Image 6, Image 7]
+ value: fear/distress
+ justification: "I reviewed the following sources containing target tone indicators: DB-001, MED-001.
+
+ Found approximately 6 references to fear/distress (67%), 3 references to accusatory (33%).
+
+ Evidence for fear/distress:
+ MED-001: \"Jewish students 'were very disturbed, upset and concerned' about the pig display.\"
+ 
+ MED-001: \"Jewish students spoke out during public comment, where they denounced the 'growing harassment 
+ against faculty and students who support Israel [...] swastikas painted on buildings and signs calling 
+ Jews 'the new Nazis.'\"
+
+ Evidence for accusatory:
+ DB-001: \"To anyone familiar with classic antisemitic stereotypes, it is impossible not to recoil.\"
+ 
+ DB-001: \"Again, to anyone familiar with the repertoire of antisemitic images, it is hard to regard 
+ the assemblage of the pig, bag of money and star of David as anything other than a case of antisemitism 
+ that taps into deeply ingrained stereotypes.\"
+
+ I considered both frequency and intensity by examining the emotional content of the responses, where 
+ the targets' expressions of feeling "disturbed," "upset," and "concerned" convey direct emotional distress, 
+ while the accusatory elements focus more on analysis of the imagery.
+
+ Based on this quantitative analysis, fear/distress represents 67% of tone references, meeting the 60% 
+ threshold for predominant tone. Therefore, the appropriate coding is fear/distress."
+ sources: [DB-001, MED-001]
 
 actor_positioning:
-  value: rights-based
-  justification: "MED-001: \"A pro-Palestinian student urged the UC Regents to divest 
-    'from firms that support the ongoing genocide and ethnic cleansing' of Palestinians,' 
-    per the Times.\" Image 5: Instagram post from ucladivest: \"During March 19-21, 
-    students and community from four UC campuses carried out a 3 day sit-in to demand 
-    the UC regents divest from war and the genocide of Palestinians.\" These sources 
-    show the actors framed their protest in terms of human rights for Palestinians, 
-    presenting their position as a moral imperative based on rights to freedom and 
-    self-determination."
-  sources: [MED-001, Image 5]
+ value: rights-based
+ justification: "MED-001: \"A pro-Palestinian student urged the UC Regents to divest 'from firms that 
+ support the 'ongoing genocide and ethnic cleansing' of Palestinians,' per the Times.\" 
+ 
+ MED-001: \"During March 19-21, students and community from four UC campuses carried out a 3 day sit-in 
+ to demand the UC regents divest from war and the genocide of Palestinians.\" 
+ 
+ These quotes show the actors framing their protest around moral rights and freedoms for Palestinians, 
+ positioning their actions as defending the rights of an oppressed group."
+ sources: [MED-001]
 
 target_positioning:
-  value: rights-based
-  justification: "DB-001: \"In fact, it is possible to acknowledge both – and to support 
-    the long-deferred right to self-determination of Palestinians and the right of Jews 
-    to live in peace and security in the land they inhabit.\" DB-001: \"The cause of 
-    justice, equality and freedom for Palestinians, which many Jews strongly support, 
-    will not be advanced by recourse to antisemitic stereotypes.\" These quotes indicate 
-    that Jewish campus members framed their objections to the display in terms of their 
-    right to equal treatment, dignity, and to be free from discrimination, while 
-    acknowledging Palestinian rights as well."
-  sources: [DB-001]
+ value: rights-based
+ justification: "DB-001: \"It is possible to acknowledge both – and to support the long-deferred right 
+ to self-determination of Palestinians and the right of Jews to live in peace and security in the land 
+ they inhabit.\" 
+ 
+ MED-001: \"We ask the Regents to speak up and denounce this antisemitic display and make clear that 
+ there is no tolerance for antisemitism on University campuses. Their silence on this issue is complicity.\" 
+ 
+ These quotes indicate that the targets are framing the incident in terms of civil rights and fair treatment, 
+ focusing on their right to exist without discrimination or antisemitism on campus."
+ sources: [DB-001, MED-001]
 
 notes:
-  value: "A statue depicting a pig holding a money bag and Star of David canister was 
-    displayed during protests at a UC Regents meeting at UCLA on March 20-21, 2024. 
-    The display was part of a multi-day pro-Palestinian protest calling for UC divestment. 
-    The university administration condemned the display as antisemitic in a statement 
-    released a week after the incident. Jewish students and faculty described the imagery 
-    as invoking classic antisemitic tropes, while protest organizers defended their actions 
-    as anti-Zionist rather than antisemitic. The incident occurred within the context of 
-    ongoing campus tensions following October 7, 2023."
+ value: "On March 20-21, 2024, during a UC Board of Regents meeting at UCLA, protesters displayed a 
+ statue depicting a pig with a Star of David container, holding a money bag and birdcage with keffiyeh. 
+ The university and Jewish community members condemned it as antisemitic, citing historical stereotypes 
+ associating Jews with pigs and money. UCLA issued a statement condemning the display on March 28. 
+ The protest was organized by pro-Palestinian students advocating for divestment from companies linked to Israel."
 
 admin_response_level:
-  value: minimal
-  justification: "This is a derived value based on admin_response_type='incident_specific', 
-    accountability_follow_up='none', and admin_support_offered='general_commitment'. 
-    Since the admin issued an incident-specific response but offered no accountability 
-    follow-up and only general commitment support, the admin_response_level is 'minimal'."
-  sources: [ADM-001]
+ value: adequate
+ justification: "The admin_response_level is derived from admin_response_type, accountability_follow_up, 
+ and admin_support_offered. With admin_response_type as 'incident_specific', accountability_follow_up as 'none', 
+ and admin_support_offered as 'positive_inclusion', the derived admin_response_level is 'adequate' according 
+ to the automated logic baseline provided in the codebook."
+ sources: [ADM-001]
