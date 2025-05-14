@@ -20,7 +20,6 @@ Before any new incident coding session begins, the AI assistant must perform the
 2. **Clear hybrid-layer memory**  
    Discard all implicit or inferred behaviors based on prior coding sessions, even if not stored as formal memory. This includes:
    - Scoping conventions
-   - Daily Bruin as IV assumption
    - Prior tone inference defaults
    - Policy-based logic or variable grouping patterns
 
