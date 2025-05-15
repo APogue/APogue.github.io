@@ -269,6 +269,7 @@ After a memory reset:
 - Code as `violation_warning` if:
   * Admin issued a statement referencing applicable university rules, laws, or policies
   * AND explicitly warned about possible violations or consequences
+  * e.g., “We are tracking incidents, if behavior becomes pervasive consequences will be imposed”
 - Code as `campus_climate_initiative` if:
   *  Admin referenced a programmatic effort or institutional partnership aimed at improving the long-term inclusion or cultural environment of the campus
 - Code as `positive_inclusion` if:
@@ -280,7 +281,7 @@ After a memory reset:
   * AND committed to specific improvements or changes
   * Does not require legal fault admission
   * e.g., "This display is a painful reminder that we must do more to foster understanding and compassion"
-  * e.g., “We are tracking incidents, if behavior becomes pervasive consequences will be imposed”
+
 - Code as `general_commitment` if:
   * Admin reaffirmed existing commitments as sufficient
   * Without acknowledging specific responsibility or need for change
@@ -342,9 +343,9 @@ After a memory reset:
    - Assign the HIGHEST qualifying level where ALL minimum thresholds are met:
      * `none`: Fewer than 2 sources
      * `low`: At least 2 internal or niche sources, no external visibility
-     * `network-amplified`: At least 5 sources within a single ecosystem, no mainstream pickup
-     * `moderate`: At least 5 sources across ecosystems, including at least two with general public reach
-     * `high`: At least 5 sources with cross-ecosystem mainstream pickup OR viral social media (≥100k views)
+     * `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets, topic-specific subreddits or social media groups), no mainstream pickup
+     * `moderate`: At least 5 sources across ecosystems, including at least two with general public reach (e.g., LAist, KTLA, local media)
+     * `high`: At least 5 sources with cross-ecosystem mainstream pickup (e.g., LAT, NYT, CNN)  OR viral social media (≥100k views)
 
 3. **Critical clarifications:**
    - Only count sources published within 14 days of the incident
@@ -386,7 +387,7 @@ After a memory reset:
 - Verify geographic boundaries when distinguishing between on-campus and off-campus
 
 #### `policy_status`
-**Definition:** Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination)
+**Definition:** Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination)  
 → `compliant`, `violated`, `combination`, `unclear`, `contested`
 
 **Special Protocol for policy_status:**
@@ -440,6 +441,79 @@ After a memory reset:
 - I have distinguished between administrative condemnation and actual policy violation in my analysis
 - I have recognized that offensive, antisemitic, or racist expression is generally protected speech unless it rises to the level of unprotected categories
 - In cases of ambiguity, I have defaulted to protecting speech rather than restricting it
+- My justification includes explicit quotes from BOTH policy documents AND PHIL-001's free speech sections
+- I have included a clear First Amendment balancing analysis in my justification
+- I have NOT coded as "violated" based solely on the offensive or hateful nature of the speech
+- I have NOT equated administrative condemnation with policy violation
+- I have double-checked my reasoning to ensure I'm not defaulting to moral judgments rather than constitutional analysis
+
+
+#### `policy_status`
+**Definition:** Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination), properly balanced against UCLA's obligations as a state actor bound by First Amendment principles  
+→ `compliant`, `violated`, `combination`, `unclear`, `contested`  
+
+**Coding Protocol:**
+
+1. **MANDATORY PRE-CODING STEPS:**
+  - You MUST read POL-001, POL-002, POL-003, and PHIL-001 IN THEIR ENTIRETY
+  - Review PHIL-001 sections on "Free Speech 101," "Myth Busting," and "What's UCLA to Do"
+  - Flag any coding attempt where you have not completely reviewed these documents
+  - Acknowledge: UCLA as a state actor is bound by First Amendment principles
+  - Understand that content-based speech restrictions face strict scrutiny
+  - Note the distinction between protected offensive speech and unprotected categories
+
+2. **DECISION HIERARCHY:**
+   - IF administration explicitly states a policy was violated AND there is no available information stating that offending behavior was later brought into compliance:
+     * Code as `violated`
+     * Cite the exact statement with source ID
+
+   - **IF NO** explicit statement of violation exists:
+     
+     A. **TRUE THREATS/UNPROTECTED SPEECH TEST:**
+        * Review PHIL-001 section on "categorical exceptions" to free speech
+        * Check if incident involves true threats, fighting words, or harassment that substantially interferes with educational access, etc.
+        * If incident clearly falls into one of these explicitly unprotected categories → code as `violated`
+        * Provide direct quotes from PHIL-001 showing why the speech is categorically unprotected
+     
+     B. **FIRST AMENDMENT BALANCING TEST:**
+        * Even if the incident appears to conflict with policy language, it MUST be weighed against UCLA's state actor status
+        * Reminder: Offensive, antisemitic, or racist content is generally protected speech unless it rises to unprotected categories
+        * Administrative condemnation does NOT automatically mean policy violation
+        * When ambiguous: lean toward protecting speech in accordance with constitutional principles
+
+     C. **DEFAULT DIRECTION:**  
+        * In cases of doubt about whether offensive speech is unprotected  
+        * Code as `compliant` rather than `violated`  
+        * Explain balancing test in justification
+    
+   - IF The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a location consistent with university protest guidelines)  
+     * Code as `combination`
+     * Provide direct quotes from statements and/or sources that indicate both compliance and violation occurred 
+  
+   - IF insufficient information exists to determine whether a policy was violated or which policy applies  
+     * Code as `unclear`
+     * Confirm which details about the incident or applicable policies are missing 
+   
+   - IF the administration and participants explicitly disagree about whether a policy was violated OR the policy's applicability or enforcement was formally challenged OR different administrative sources contradict each other regarding violation status
+     * code as `contested`
+     * Document the competing claims with direct quotes
+
+3. **JUSTIFICATION REQUIREMENTS:**
+  - Begin with: "After reviewing POL-001, POL-002, POL-003, and PHIL-001 in their entirety..."
+  - Include direct quotes from relevant policies AND PHIL-001 regarding free speech protections
+  - Provide explicit First Amendment balancing analysis
+  - Explain clearly why the incident does or does not qualify as unprotected speech
+  - Acknowledge the high bar for speech restriction at public universities
+
+**Verification checklist:**
+- I have read POL-001, POL-002, POL-003, and PHIL-001 in their ENTIRETY (not just skimmed)
+- I have specifically reviewed PHIL-001's sections on "Free Speech 101," "Categorical Exceptions," and "What's UCLA to Do"
+- I have identified whether the administration explicitly stated a policy violation (providing exact quote if so)
+- I have rigorously tested whether the incident falls into a SPECIFIC category of unprotected speech per PHIL-001
+- I have explicitly acknowledged in my justification that UCLA is bound by the First Amendment as a state actor
+- I have distinguished between administrative condemnation and actual policy violation in my analysis
+- I have recognized that offensive, antisemitic, or racist expression is generally protected speech unless it rises to the level of unprotected categories
+- In the absence of a statement of violation from the administration, in cases of ambiguity, I have defaulted to protecting speech rather than restricting it
 - My justification includes explicit quotes from BOTH policy documents AND PHIL-001's free speech sections
 - I have included a clear First Amendment balancing analysis in my justification
 - I have NOT coded as "violated" based solely on the offensive or hateful nature of the speech
