@@ -387,68 +387,6 @@ After a memory reset:
 - Verify geographic boundaries when distinguishing between on-campus and off-campus
 
 #### `policy_status`
-**Definition:** Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination)  
-→ `compliant`, `violated`, `combination`, `unclear`, `contested`
-
-**Special Protocol for policy_status:**
-
-1. **MANDATORY PRE-CODING REQUIREMENTS:**
-   - You MUST read POL-001, POL-002, POL-003, and PHIL-001 IN THEIR ENTIRETY
-   - Do not proceed until you have thoroughly reviewed all policy documents
-   - Flag any coding attempt where you have not completely reviewed these documents
-   - Review PHIL-001 sections on "Free Speech 101," "Myth Busting," and "What's UCLA to Do"
-   - Acknowledge: UCLA as a state actor is bound by First Amendment principles
-   - Understand that content-based speech restrictions face strict scrutiny
-   - Note the distinction between protected offensive speech and unprotected categories
-
-2. **DECISION HIERARCHY:**
-   - IF administration explicitly states a policy was violated in official sources:
-     * Code as `violated`
-     * Cite the exact statement with source ID
-
-   - IF no explicit statement of violation exists:
-     
-     A. **TRUE THREATS/UNPROTECTED SPEECH TEST:**
-        * Review PHIL-001 section on "categorical exceptions" to free speech
-        * Check if incident involves true threats, fighting words, harassment that substantially interferes with educational access, etc.
-        * If incident clearly falls into one of these explicitly unprotected categories → code as `violated`
-        * Provide direct quotes from PHIL-001 showing why the speech is categorically unprotected
-     
-     B. **FIRST AMENDMENT BALANCING TEST:**
-        * Even if the incident appears to conflict with policy language, it MUST be weighed against UCLA's state actor status
-        * Reminder: Offensive, antisemitic, or racist content is generally protected speech unless it rises to unprotected categories
-        * Administrative condemnation does NOT automatically mean policy violation
-        * When ambiguous: lean toward protecting speech in accordance with constitutional principles
-
-3. **DEFAULT DIRECTION:**
-   - In cases of doubt about whether offensive speech constitutes unprotected harassment/discrimination
-   - Code as `compliant` rather than `violated`
-   - Explain balancing test in justification
-
-4. **REQUIRED JUSTIFICATION FORMAT:**
-   - Confirmation of thorough review: "After reviewing POL-001, POL-002, POL-003, and PHIL-001 in their entirety..."
-   - Direct quotes from relevant policies AND from PHIL-001 regarding free speech protections
-   - Explicit First Amendment balancing analysis
-   - Clear reasoning for why the incident does or does not qualify as unprotected speech
-   - Acknowledgment of the high bar for speech restriction at public universities
-
-**Verification checklist:**
-- I have read POL-001, POL-002, POL-003, and PHIL-001 in their ENTIRETY (not just skimmed)
-- I have specifically reviewed PHIL-001's sections on "Free Speech 101," "Categorical Exceptions," and "What's UCLA to Do"
-- I have identified whether the administration explicitly stated a policy violation (providing exact quote if so)
-- I have rigorously tested whether the incident falls into a SPECIFIC category of unprotected speech per PHIL-001
-- I have explicitly acknowledged in my justification that UCLA is bound by the First Amendment as a state actor
-- I have distinguished between administrative condemnation and actual policy violation in my analysis
-- I have recognized that offensive, antisemitic, or racist expression is generally protected speech unless it rises to the level of unprotected categories
-- In cases of ambiguity, I have defaulted to protecting speech rather than restricting it
-- My justification includes explicit quotes from BOTH policy documents AND PHIL-001's free speech sections
-- I have included a clear First Amendment balancing analysis in my justification
-- I have NOT coded as "violated" based solely on the offensive or hateful nature of the speech
-- I have NOT equated administrative condemnation with policy violation
-- I have double-checked my reasoning to ensure I'm not defaulting to moral judgments rather than constitutional analysis
-
-
-#### `policy_status`
 **Definition:** Whether the incident violated or complied with a campus policy in effect at the time (e.g., TPM, student conduct, anti-discrimination), properly balanced against UCLA's obligations as a state actor bound by First Amendment principles  
 → `compliant`, `violated`, `combination`, `unclear`, `contested`  
 
@@ -488,11 +426,11 @@ After a memory reset:
     
    - IF The incident involved both compliance and violation (e.g., a protest began in violation of TPM policy but later moved to a location consistent with university protest guidelines)  
      * Code as `combination`
-     * Provide direct quotes from statements and/or sources that indicate both compliance and violation occurred 
+     * Provide direct quotes from statements and/or sources that indicate the incident was both compliant with and in violation of policy 
   
    - IF insufficient information exists to determine whether a policy was violated or which policy applies  
      * Code as `unclear`
-     * Confirm which details about the incident or applicable policies are missing 
+     * Comment on whether it was incident details or applicable policy information that was insufficient to code this variable
    
    - IF the administration and participants explicitly disagree about whether a policy was violated OR the policy's applicability or enforcement was formally challenged OR different administrative sources contradict each other regarding violation status
      * code as `contested`
@@ -509,6 +447,8 @@ After a memory reset:
 - I have read POL-001, POL-002, POL-003, and PHIL-001 in their ENTIRETY (not just skimmed)
 - I have specifically reviewed PHIL-001's sections on "Free Speech 101," "Categorical Exceptions," and "What's UCLA to Do"
 - I have identified whether the administration explicitly stated a policy violation (providing exact quote if so)
+- I have checked that my analysis is in reference to the incident in question only
+- I acknowledge that if within the broader context there are also policy violations, those violations are addressed as separate incidents (e.g. if the incident is an offensive display at a protest, only the policy status of the display with regard to TPM and speech are in question, not the policy status of any aspects of the protest in general)
 - I have rigorously tested whether the incident falls into a SPECIFIC category of unprotected speech per PHIL-001
 - I have explicitly acknowledged in my justification that UCLA is bound by the First Amendment as a state actor
 - I have distinguished between administrative condemnation and actual policy violation in my analysis
@@ -519,9 +459,6 @@ After a memory reset:
 - I have NOT coded as "violated" based solely on the offensive or hateful nature of the speech
 - I have NOT equated administrative condemnation with policy violation
 - I have double-checked my reasoning to ensure I'm not defaulting to moral judgments rather than constitutional analysis
-
-
-  Note: This is a qualitative indicator. The variable is in reference to the incident in question only. If within the broader context there are also policy violations, those violations are addressed in their originating incidents, not propagated to all related incidents. ------ this needs to go somewhere
 
 #### `policy_violation_type`
 **Definition:** What type of formal university policy was violated, if any  
