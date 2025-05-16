@@ -520,6 +520,9 @@ After a memory reset:
 - I have NOT equated administrative condemnation with policy violation
 - I have double-checked my reasoning to ensure I'm not defaulting to moral judgments rather than constitutional analysis
 
+
+  Note: This is a qualitative indicator. The variable is in reference to the incident in question only. If within the broader context there are also policy violations, those violations are addressed in their originating incidents, not propagated to all related incidents. ------ this needs to go somewhere
+
 #### `policy_violation_type`
 **Definition:** What type of formal university policy was violated, if any  
 → `TPM_policy`, `student_conduct`, `anti_discrimination`, `non-affiliate`, `combination`, `none`
