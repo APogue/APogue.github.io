@@ -479,7 +479,7 @@ After a memory reset:
 - Code as `none` if:
   * No violation occurred (use if `policy_status: compliant`)
 - This variable refers to the specific incident in question only
-- If broader context includes other policy violations, those violations are addressed in their originating incidents, not propagated to all related incidents
+- If broader context includes other policy violations, those violations are addressed in their originating incidents
 
 **Required Verification:**
 - Verify that policy violations specifically relate to THIS incident
@@ -511,13 +511,15 @@ After a memory reset:
   * No discernible norm was violated
 - Code as `multiple` if:
   * More than one norm violation applies
-- An institutional norm violation undermines or contradicts core values, expectations, or ethical standards—even if no specific written policy was technically broken
-- This captures harm or dysfunction beyond technical rules—factors that erode trust, equity, or accountability
+- An institutional norm violation undermines or contradicts core values, expectations, or ethical standards of the institution—even if no specific written policy was technically broken
+- This captures harm or dysfunction beyond technical rules—factors that erode trust, equity, or accountability within a campus community
+- Looking for soft failures (e.g., passive admin neglect), structural problems (e.g., uneven enforcement), moral or reputational failures, and/or institutional and organizational responsibility to self-regulate (e.g. self-governance failures)
+- These violations may contribute to a hostile environment by totality of circumstances (a case for submitting a report for every incident even if on its own it doesn’t meet the school or federal policy violation threshold)
 
 **Required Verification:**
 - Verify that norm violations specifically relate to THIS incident
 - Verify the norm violation category with direct quotes from sources
-- Distinguish between technical policy violations and ethical/normative violations
+- If applicable, distinguish between technical policy violations and ethical/normative violations
 
 ---
 
@@ -531,7 +533,7 @@ After a memory reset:
 - Review SECTION 6: Source Verification
 
 #### `severity_score`
-**Definition:** The extent of OBSERVABLE direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety at the time the incident occurred.
+**Definition:** The extent of OBSERVABLE direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety at the time the incident occurred  
 → `low`, `moderate`, `elevated`, `high`
 
 **Special Protocol for severity_score:**
@@ -543,8 +545,8 @@ After a memory reset:
    - "Observable" means documented in primary sources (contemporaneous, direct records), not secondary sources
    - "Disruption" means measurable interference with normal university operations
    - "Credible risk" means a specific threat with reasonable likelihood of execution
-   - "Primary sources" include contemporaneous reports, police documentation, medical records, Daily Bruin coverage, and video evidence
-   - "Secondary sources" include retrospective analyses, social media commentary, or task force reports that lack direct documentation
+   - "Primary sources" are contemporaneous, direct, or verifiable records of harm or disruption such as police reports, medical records, Daily Bruin coverage, and video evidence
+   - "Secondary sources" include retrospective analyses or interpretive materials, such as lawsuits, OCR complaints, task force reports, or social media commentary (do not define severity but may clarify ambiguous cases, reveal overlooked harm, or flag contested narratives)---use them to supplement—not override—primary evidence
 
 3. **VERIFICATION CHECKLIST:**
    Before assigning a severity score, explicitly verify and document the presence or absence of:
@@ -557,35 +559,36 @@ After a memory reset:
 4. **DECISION CRITERIA:**
    - Code as `low` if:
      * No credible threat or physical harm
-     * Any disturbance was brief, self-resolving, requiring no intervention
+     * Any disturbance was brief, self-resolving, and required no monitoring or intervention
    - Code as `moderate` if:
      * Some disruption or localized risk occurred
-     * Examples: confrontations, non-credible threats, brief space occupation
-     * May have prompted response but no formal escalation (no dispersal order, use of force, arrest)
+     * Examples: confrontations, non-credible threats, brief space occupation, or minor property damage
+     * May have prompted a police or admin response but no formal escalation (no dispersal order, use of force, arrest)
    - Code as `elevated` if:
      * Institutional escalation without confirmed harm
      * Examples: dispersal order issued, event shutdown, police mobilization—but no arrests, injuries, or force used
      * Admin or police took significant preventive action despite limited or ambiguous actual risk
    - Code as `high` if:
      * Clear immediate harm or serious disruption
-     * Examples: physical violence, credible threats, arrests, dispersal with enforcement, hospitalization
+     * Examples: physical violence, credible threats, arrests, dispersal orders with enforcement, or hospitalization
      * Triggered formal institutional responses: investigation, discipline, shutdown, or use of force
 
 5. **CRITICAL REMINDER:**
    - Subjective feelings of fear, psychological distress, or offensive content are NOT sufficient for higher severity scores unless they resulted in measurable disruption to campus operations or institutional safety.
-   - These psychological impacts are captured in `target_tone` - do not double-count them in severity.
+   - Nature of administrative action (whether it is a "strong" reaction, the "wrong" reaction, or none at all) is also irrelevant to severity level 
 
 6. **REQUIRED JUSTIFICATION FORMAT:**
    - Begin with: "Based on the verification checklist, this incident shows [elements present/not present]..."
    - Provide direct evidence for any elements present with quotes from primary sources
+   - If applicable, supplement primary source evidence with quotes from secondary sources
    - Explicitly explain why the incident does NOT qualify for higher severity levels
-   - Cite only observable impacts documented in primary sources
 
 **Required Verification:**
 - I have explicitly addressed each element on the verification checklist
 - I have provided direct evidence for any elements present
 - I have explicitly explained why the incident does NOT qualify for higher severity levels
-- I have cited only observable impacts documented in primary sources
+- I have documented any discrepancies between sources
+- I have documented which source types have contributed to my analysis (i.e. "primary" v. "secondary")
 - I have begun my justification with: "Based on the verification checklist, this incident shows [elements present/not present]..."
 
 #### `police_involvement`
@@ -628,17 +631,17 @@ After a memory reset:
 → Integer
 
 **Coding Protocol:**
-- Identify the exact incident date from primary sources
+- Identify the earliest incident date from sources
 - Identify the earliest administrative response date from ADM sources
 - Calculate the number of days between these two dates (inclusive)
-- If no administrative response occurred, code as "n/a"
+- If no administrative response occurred, code as `n/a`
 - Begin justification with direct quotes establishing both dates
 
 **Required Verification:**
 - Verify incident date with direct quotes from sources
 - Verify administrative response date with direct quotes from ADM sources
 - Verify correct calculation of days between dates
-- Verify consistency with `admin_response_type` coding (if `admin_response_type` = `none`, then `latency_days` must be "n/a")
+- Verify consistency with `admin_response_type` coding (if `admin_response_type` = `none`, then `latency_days` must = `n/a`)
 
 ---
 
@@ -660,17 +663,18 @@ After a memory reset:
 - Code as `conciliatory` if:
   * Expresses empathy, acknowledges difficulties or distress
   * Emphasizes community values or healing
-  * Examples: "We understand the circumstances are hard on everyone," "We hope everyone adheres to university values"
+  * Examples: "We understand the circumstances are hard on everyone" 
 - Code as `neutral` if:
   * Uses factual, procedural, or objective language regarding rules or policy
   * Without overt emotional or moral framing
   * Examples: "The university will review the incident according to established procedures"
 - Code as `dismissive` if:
-  * Uses vague or generic language when attributing responsibility or identifying actors
-  * May conflate activity in violation of policy with behavior that goes against values
-  * Examples: "There were reports of violence by some," "Some demonstrators partook in activity that goes against our values"
+  * Uses vague or generic language when attributing responsibility or identifying actors, even when detailed information is publicly available.
+  * Example: "There were reports of violence by some"
+  * May conflate activity in violation of applicable law or policy with behavior that goes against values
+  * Example: "Violence goes against our values"
 - Code as `condemnation` if:
-  * Denounces specific behavior as morally wrong, harmful, or against institutional standards
+  * Denounces specific behavior as morally wrong, harmful, or against institutional standards or values
   * Examples: "We are appalled by this hateful act," "This behavior has no place in our community"
 - Code as `combination` if:
   * Exhibits multiple tones in distinct parts of the response
@@ -691,11 +695,11 @@ After a memory reset:
 - Code as `civil_rights` if:
   * Framed as implicating the university's duty to protect or balance civil rights
   * Examples: free expression, equal protection
-  * E.g., "The university has long-held beliefs in the right to protest"
+  * E.g., "The university has long-held beliefs in the right to protest," “We are committed to the rights of all students to attend classes in an environment free from discrimination”
 - Code as `safety/security_threat` if:
   * Framed as endangering physical safety, public order, or campus operations
   * Used to justify law enforcement or restrictions
-  * E.g., "The protest posed a threat to campus security"
+  * E.g., "The protest posed a threat to campus security," “TPM rules are enforced to ensure student safety”
 - Code as `alleged_policy_violation` if:
   * Framed as a violation of established university rules, codes of conduct, or procedural guidelines
   * E.g., "The encampment was unauthorized," "Posting flyers without permission violated campus policy"
@@ -719,27 +723,27 @@ After a memory reset:
 - Code as `group_targeting` if:
   * Frames the incident as harassment or discrimination targeting a particular group
   * May involve political identity or protected class status
-  * E.g., "Jewish students face growing antisemitism on campus"
+  * E.g., "Jewish students face growing antisemitism on campus," “Muslim students report bullying on campus”
 - Code as `security_failure` if:
-  * Frames the incident as a breakdown of institutional control
+  * Frames the incident as a breakdown of institutional control by admin, police, and/or campus operations
   * Focus is on failure to contain, prevent, or manage unrest
-  * E.g., "Campus protest spirals out of control"
+  * E.g., "Campus protest spirals out of control," “Officials slow to respond to unrest.”
 - Code as `student_endangerment` if:
   * Frames the incident around risk or harm directly experienced by students
   * Focus is on physical danger, trauma, or unsafe conditions
-  * E.g., "Students injured during protest crackdown"
+  * E.g., "Students injured during protest crackdown," “Tensions on campus put safety at risk.”
 - Code as `impermissible_behavior` if:
   * Highlights breaches of law, code of conduct, or permit allowances
-  * E.g., "Demonstrators trespassed into restricted areas"
+  * E.g., "Demonstrators trespassed into restricted areas," “Protest violated campus rules”
 - Code as `reputational` if:
   * Stresses impact of the incident on university image, branding, or donor relations
-  * E.g., "University faces backlash from alumni over protest response"
+  * E.g., "University faces backlash from alumni over protest response," “School’s reputation at stake amid controversy”
 - Code as `political_strategy` if:
   * Links the incident to partisan goals, elections, broader ideological movements, or legislative agendas
-  * E.g., "Campus protests echo national political divides"
+  * E.g., "Campus protests echo national political divides," “Activists push policy change through campus unrest”
 - Code as `financial_impact` if:
   * Focuses on monetary costs, damages, or budgetary consequences tied to the incident
-  * E.g., "Protest damages cost university $500,000"
+  * E.g., "Protest damages cost university $500,000," “Security costs for demonstrations strain university budget.”
 - Code as `unclear` if:
   * Media report mentions the incident but does not offer a clear narrative framing
 - Code as `n/a` if:
@@ -801,7 +805,7 @@ After a memory reset:
 4. **TONE CATEGORIES:**
    - Code as `accusatory` if:
      * Attributes blame, ignorance, or wrongdoing to another group or actor with moral judgment or indignation
-     * E.g., "Admin has failed us," "They are complicit"
+     * E.g., "Admin has failed us," "They are complicit," “It was disheartening to see my fellow students defending that”
    - Code as `fear/distress` if:
      * Emphasizes emotional vulnerability, fear, or a sense of being targeted, unsafe, or endangered
      * E.g., "We no longer feel safe on campus", "We were physically threatened"
@@ -812,8 +816,8 @@ After a memory reset:
      * Rejects authority or consequences with pride, disdain, or resistance
      * E.g., "You're fascist aggressors," "Don't obey in advance"
    - Code as `mobilizing/escalatory` if:
-     * Urges greater collective action, confrontation, or disruption
-     * E.g., "Join us at noon!", "If they don't agree, we'll shut it down!"
+     * Urges greater collective action, confrontation, or disruption; a call to action, a threat to escalate, or both
+     * E.g., "Walkout at noon!", "If they don't agree, we'll shut it down!"
    - Code as `conciliatory` if:
      * Seeks compromise, mutual understanding, or de-escalation
      * E.g., "We welcome dialogue," "Let's find common ground"
@@ -833,7 +837,6 @@ After a memory reset:
 **Required Verification:**
 - I have examined EVERY source containing statements or reactions from the relevant group
 - I have verified that content from EVERY source chosen for justification is RELEVANT TO THE INCIDENT
-- I have disregarded ANY justification containing statements that DO NOT refer directly to the incident
 - I have documented EACH source reviewed in my justification
 - I have counted the EXACT number of references for EACH tone category identified
 - I have calculated the PERCENTAGE that each tone represents of all references
@@ -842,7 +845,7 @@ After a memory reset:
 - I have explicitly stated my counting methodology in the justification
 - I have properly weighted organizational statements equally to multiple individual statements
 - I have considered both frequency AND intensity in my analysis
-- I have prioritized direct statements from affected individuals/groups over third-party characterizations
+- I have prioritized direct statements from affected individuals/groups OVER third-party characterizations
 - I have coded as 'combination' if no single tone reaches the 60% threshold
 - I have specified which tones are present when coding as 'combination'
 - I have reviewed my calculations to ensure mathematical accuracy
@@ -857,17 +860,17 @@ After a memory reset:
 - Code as `rights-based` if:
   * Frames the incident around students' legally or morally protected rights and freedoms
   * Includes claims of being denied fair treatment, representation, or inclusion under civil rights principles
-  * E.g., "University overreach is chilling protected speech"
+  * E.g., "University overreach is chilling protected speech," “We were subject to a heckler’s veto,” “This organization discriminates”
 - Code as `oversight_failure` if:
   * Frames the incident as resulting from administrative indifference, selective enforcement, or unjust policing
-  * E.g., "The university failed to intervene," "Police escalated without cause"
+  * E.g., "The university failed to intervene," "Police escalated without cause," “The office failed to respond to reports”
 - Code as `policy_violation_defense` if:
-  * Frames student actions as compliant with university policies
+  * Frames student actions as compliant with university policies OR
   * Accuses administration of unfair discretionary action
-  * E.g., "Their structure was allowed to remain after permit expiration"
+  * E.g., "Their structure was allowed to remain after permit expiration," “We have the right to unplanned protest in the free speech zone”
 - Code as `financial_grievance` if:
-  * Cites tuition, fees, university resources, or funding allocation as basis for grievances
-  * E.g., "Organization that uses student fees partakes in activities that exclude certain groups"
+  * Cites tuition, fees, university resources, or funding allocation as basis for grievances with administration or another party
+  * E.g., "Organization that uses student fees partakes in activities that exclude certain groups," “UCPD budget increases to fund more less-than-lethal weapons”
 - Code as `combination` if:
   * Multiple framings presented in one narrative (e.g., citing both rights violations and oversight failures)
 - Code as `none` if:
@@ -879,7 +882,7 @@ After a memory reset:
 **Required Verification:**
 - Verify positioning with direct quotes from sources
 - Verify that positioning specifically relates to THIS incident
-- Verify the distinction between emotional tone (captured in `actor_tone`/`target_tone`) and strategic narrative framing
+- Verify the distinction between emotional tone (captured in `actor_tone`/`target_tone`) and strategic narrative framing (positioning can connect incident to broader narratives)
 - Verify the presence of multiple distinct framings when coding as `combination`
 
 ---
@@ -930,13 +933,11 @@ After a memory reset:
 | `strong`                           | `incident_specific`      | `proposed`                       | **Any two or more** of: `admin_support_offered`|
 
 - If two or more options reside on a response level, that is the designated level
-- If `admin_response_type` = `incident_specific` but both `accountability_follow_up` and `admin_support_offered` = `none`, downgrade to `minimal` by manual override
-- This captures purely symbolic responses
+- E.g. if `admin_response_type` = `incident_specific` but both `accountability_follow_up` and `admin_support_offered` = `none`, downgrade to `minimal` by manual override (captures purely symbolic gestures)
 
 **Required Verification:**
 - Verify consistency with the source variables (`admin_response_type`, `accountability_follow_up`, `admin_support_offered`)
 - Verify correct application of the derivation matrix
-- Apply manual override if warranted by the purely symbolic nature of the response
 
 ---
 
