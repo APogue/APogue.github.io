@@ -1,4 +1,4 @@
-5/12/2025
+5/12/2025 -----------------------------------------------------------------------------------------------------------------
 
 If I'm building a system for rigorous research auditability, version control, and multi-agent consistency, then relying on hidden memory is a liability, not a feature.
 
@@ -123,11 +123,7 @@ target_tone:
 	justification: "Jewish community members expressed clear feelings of fear and being targeted. Image 4 shows a Jewish student stating 'This is why I'm scared of going to campus as an Israeli Jew.' MED-001 quotes UCLA Hillel Executive Director Dan Gold saying 'Jewish students were very disturbed, upset and concerned about the pig display.' DB-001 cites a 2024 report showing '56% of Jewish university students polled after Oct. 7 felt in personal danger.' Another comment in Image 7 states 'as a Jew that was really disheartening to see my fellow students defending that shit.' These statements consistently express emotional vulnerability and fear."
 	sources: [DB-001, MED-001, Image 4, Image 7]
 
-
-
----------------------------------------------------------------------------------------------------------------------------
-
-5/13/2025
+5/13/2025 -----------------------------------------------------------------------------------------------------------------
 
 GPT: 
 
@@ -210,7 +206,7 @@ target_positioning:
 
 It may be the case that it arbitrarily put quotes around sentences preceeding a reference, it therefor thinks that it is directly quoting in some instances when it is not. I.e. this above "quote" in target_positioning does not exist. 
 
-5/14/25 
+5/14/25 -------------------------------------------------------------------------------------------------------------------
 
 Claude
 
@@ -392,3 +388,6 @@ target_positioning:
  sources: [DB-001, MED-001]
 
  I want it to stay on-incident as much as possible, on-incident is priority, context is secondary. Also the students are the true targets and there are no student quotes. 
+
+ 5/22/25 ------------------------------------------------------------------------------------------------------------------
+

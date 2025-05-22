@@ -74,7 +74,7 @@ I am automating coding of an incident using you as an ai coder. I have uploaded 
 An incident is defined by an incident inclusion rule. Using the Daily Bruin I will find an incident: 
 
 ## 📜 Inclusion Rule
-Any campus-affiliated event between Sept 2023 and June 2024 where:
+Any campus-affiliated event between Sept 2023 and June 2024 where any of (a), (b), OR (c) occur:
 - (a) identity-based harm, exclusion, or discrimination was alleged  
 - (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
 - (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
@@ -83,15 +83,19 @@ Any campus-affiliated event between Sept 2023 and June 2024 where:
 
 Here is an example incident I want you to code:
 
+Incident summary: On March 20-21, 2024, during a UC Board of Regents meeting at UCLA, protesters displayed a 
+  statue depicting a pig with a Star of David container, holding a money bag and birdcage with keffiyeh. 
+
 Incident: Pig Effigy Displayed at Regents Protest (March 20–21, 2024) 
-(a) Identity-based harm alleged: A statue depicting a pig holding a money bag and a birdcage with a keffiyeh, alongside a Star of David, was displayed near the Regents meeting. A UCLA Jewish history professor publicly described it as antisemitic.
-(b) Symbolic protest present: The effigy appeared alongside signs and chants calling for divestment from companies linked to Israel, clearly forming part of the visual protest narrative.
-Scope: Visual protest element interpreted as invoking antisemitic imagery at a Regents meeting event; prompted faculty-level public criticism.
+  (a) Identity-based harm alleged: A statue depicting a pig holding a money bag and a birdcage with a keffiyeh, alongside a Star of David, was displayed near the Regents meeting. A UCLA Jewish history professor publicly described it as antisemitic.
+  (b) Symbolic protest present: The effigy appeared alongside signs and chants calling for divestment from companies linked to Israel, clearly forming part of the visual protest narrative.
+  
+  Scope: Visual protest element interpreted as invoking antisemitic imagery at a Regents meeting event; prompted faculty and public criticism.
 
 Incident-specific documents and images are uploaded directly into the chat. Knowledge you must apply to all incidents you code are in project knowledge. 
 
-Follow the incident_coding_protocol.md in project knowledge exactly, without improvisation or deviation
+Follow codebook_with_coding_protocol.md exactly, without improvisation or deviation
 
-Before coding this incident, confirm you have fully reviewed the incident_coding_protocol.md and will apply ALL sections. Provide a verification that addresses each major section.
+Before coding this incident, confirm you have fully reviewed the codebook_with_coding_protocol.md and will apply ALL sections. Provide a verification that addresses each major section.
 
 I only want INC-001.yml as the product of this exercise. You can confirm other efforts in your output, but I will test your success based on INC-001.yml
