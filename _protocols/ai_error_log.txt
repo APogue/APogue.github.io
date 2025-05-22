@@ -390,4 +390,4 @@ target_positioning:
  I want it to stay on-incident as much as possible, on-incident is priority, context is secondary. Also the students are the true targets and there are no student quotes. 
 
  5/22/25 ------------------------------------------------------------------------------------------------------------------
-
+(The Claude version was updated sine the last run, to Claude 4? I don't know this run is Claude Opus 4)
