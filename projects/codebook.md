@@ -87,7 +87,10 @@ This codebook defines all structured and qualitative fields used in the incident
 
 - **`media_coverage_level`**  
   Degree of public visibility based on external coverage (excluding Daily Bruin, which is baseline AND excluding any admin activity to avoid endogeneity)  
+
+  Assign the HIGHEST qualifying level where ALL minimum thresholds are met:  
   → `none`, `low`, `network-amplified`, `moderate`, `high`
+  
   - `none`: Fewer than 2 sources
   - `low`: At least 2 internal or niche sources (e.g., org IG + campus newspaper other than DB or reddit r/UCLA), no external visibility  
   - `network-amplified`: At least 5 sources within a single ecosystem (e.g., Jewish outlets, topic-specific subreddits or social media groups), no mainstream or outside-community pickup
@@ -142,7 +145,7 @@ This codebook defines all structured and qualitative fields used in the incident
 ## 🔹 Ordinal Categorical
 
 - **`severity_score`**  
-  The extent of OBSERVABLE direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety at the time the incident occurred.
+  The extent of OBSERVABLE direct physical harm, credible risk, or disruption caused by escalation to individuals, campus operations, or institutional safety at the time the incident occurred.  
   → `low`, `moderate`, `elevated`, `high`
   - `low`
     - No credible threat or physical harm
