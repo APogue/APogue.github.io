@@ -533,4 +533,112 @@ actor_tone:
    defensive and defiant."
  sources: [SOC-003, SOC-005]
 
- start with the above, this is likely issues with the coding instructions. Also, there is no SOC-005 it's been given. 
+ start with the above, this is likely issues with the coding instructions. Also, there is no SOC-005 it's been given. The photos need to be alt texted. It took a comment on the SOC-003 photo out of context. Use powerpoint just edit the photos with OCR text or instructions. 
+
+ target_tone:
+ value: fear/distress
+ justification: "I reviewed the following sources containing target tone indicators: [MED-001, 
+   SOC-001, SOC-002, SOC-004, DB-001]. Found approximately 5 references to fear/distress (100%), 
+   0 references to other tones. Evidence for fear/distress: MED-001: 'Jewish students were very 
+   disturbed, upset and concerned about the pig display.' SOC-004: 'At UCLA today. This is why I'm 
+   scared of going to campus as an Israeli Jew.' DB-001: 'the statue was deeply wounding to many 
+   members of the campus community.' SOC-001 caption: 'UCLA: A figure depicting Jews as pigs 
+   suggesting Jews prioritize money over lives.' SOC-002: 'Students and faculty across California 
+   are impacted by this hateful bigotry.' Fear/distress represents 100% of tone references, 
+   meeting the 60% threshold for predominant tone."
+ sources: [MED-001, SOC-001, SOC-002, SOC-004, DB-001]
+
+ wrong. this is skewed. 
+
+ admin_response_level:
+ value: minimal
+ justification: "Derived variable based on: admin_response_type = incident_specific, 
+   accountability_follow_up = none, admin_support_offered = general_commitment. According to the 
+   derivation matrix, when there is an incident-specific response but both accountability_follow_up 
+   and admin_support_offered show no meaningful action (general_commitment being essentially 
+   'none'), this represents a purely symbolic gesture and should be coded as minimal."
+ sources: [ADM-001]
+
+ admin_response_level should consider the lag in response of the administration as well. Either way this answer is incorrect. 
+
+ chatGPT not logged, it was mostly incorrect (see below, didn't bother obtaining the remaining output)
+
+incident_id: INC-001
+date: '2024-03-20'
+source_ids: [DB-001, ADM-001, MED-001, SOC-001, SOC-002, SOC-003, SOC-004, SOC-006-2, SOC-007, SOC-008]
+keywords: [effigy, regents, antisemitism, keffiyeh, symbolic protest]
+
+org_affiliated_actor:
+  value: false
+  justification: 'SOURCE DB-001: "The effigy was not attributed to any specific student group in Daily Bruin coverage." SOURCE ADM-001: "The administrative statement makes no mention of an involved organization." Based on these quotes, there is no explicit evidence that any UCLA student organization claimed, hosted, or was identified as sponsoring this display. Per codebook rule, absence of explicit org affiliation requires coding this variable as false.'
+  sources: [DB-001, ADM-001]
+
+actor_student:
+  value: true
+  justification: 'SOURCE DB-001: "Hundreds of students gathered outside the UC Regents meeting." No source states or implies that the individuals who constructed or placed the pig effigy were non-students. Per codebook protocol, actor_student is coded true unless there is an explicit assertion of non-student status. No such assertion exists here.'
+  sources: [DB-001]
+
+admin_response_type:
+  value: incident_specific
+  justification: 'SOURCE ADM-001: "The antisemitic image displayed near the March Regents meeting has no place on our campus." This explicitly references the pig effigy incident and was issued within 2 weeks of the event. Per codebook rules, this meets the criteria for incident_specific.'
+  sources: [ADM-001]
+
+accountability_follow_up:
+  value: none
+  justification: 'SOURCE ADM-001: The statement condemns the incident but contains no mention of investigation, referral, or intent to pursue disciplinary or accountability processes. Per protocol, absence of such a statement qualifies as none.'
+  sources: [ADM-001]
+
+admin_support_offered:
+  value: positive_inclusion
+  justification: 'SOURCE ADM-001: "We will work to ensure that those who advocate on behalf of Palestinians can also be confident of their physical safety on our campuses." This affirms the dignity and rights of the named, targeted group. Per codebook, this constitutes positive_inclusion.'
+  sources: [ADM-001]
+
+target_group:
+  value: Jewish
+  justification: 'SOURCE DB-001: "Jewish students said the pig effigy... evoked antisemitic stereotypes." SOURCE ADM-001: "The antisemitic image displayed... has no place on our campus." This confirms the incident was perceived as targeting Jewish identity. Thus, Jewish is the appropriate classification per the codebook.'
+  sources: [DB-001, ADM-001]
+
+actor_group:
+  value: Palestinian
+  justification: 'SOURCE DB-001: "The statue stood next to divestment signs and other Palestinian solidarity symbols, including a keffiyeh." This associates the actor with pro-Palestinian symbolism and goals. Thus, Palestinian is the appropriate actor identity label for this incident.'
+  sources: [DB-001]
+
+media_coverage_level:
+  value: network-amplified
+  justification: "Following the media_coverage_level protocol:\nSOURCE MED-001: \"Tablet Magazine published an article highlighting the antisemitic elements of the pig effigy display.\"\nSOURCE SOC-001 to SOC-004, SOC-006-2, SOC-007, SOC-008: Visuals and social media commentary by Jewish students and community members responding to the display.\nI have identified exactly 8 qualifying sources: [MED-001, SOC-001, SOC-002, SOC-003, SOC-004, SOC-006-2, SOC-007, SOC-008].\nOf these, MED-001 (Tablet) has general public reach based on its role as a national publication with wide readership.\nThis meets the criteria for 'network-amplified' because ≥6 sources appear within a single ecosystem (Jewish-affiliated response networks), but no major cross-ecosystem mainstream coverage was documented."
+  sources: [MED-001, SOC-001, SOC-002, SOC-003, SOC-004, SOC-006-2, SOC-007, SOC-008]
+
+location:
+  value: on-campus
+  justification: 'SOURCE DB-001: "The protest occurred outside the UC Regents meeting at UCLA." This places the incident within UCLA campus grounds, qualifying as on-campus per protocol.'
+  sources: [DB-001]
+
+policy_status:
+  value: compliant
+  justification: "After reviewing POL-001, POL-002, POL-003, and PHIL-001 in their entirety, I have determined that this incident is compliant.\nPOL-003: The UC Anti-Discrimination Policy prohibits harassment that is severe, persistent, and targeted. There is no evidence that the effigy display was directed at individuals or repeated.\nPHIL-001: \"Offensive, antisemitic, or racist content is generally protected unless it constitutes a true threat or harassment that substantially interferes with educational access.\"\nADM-001: \"The antisemitic image displayed… has no place on our campus\"—this is condemnation, but it does not declare a formal violation.\nWeighing the offensive nature of the effigy against UCLA's obligations as a state actor bound by the First Amendment, the display is protected symbolic speech and does not rise to the level of unprotected categories. Therefore, the incident is properly coded as 'compliant'."
+  sources: [POL-001, POL-002, POL-003, PHIL-001, ADM-001]
+
+policy_violation_type:
+  value: none
+  justification: "Because 'policy_status' is coded as 'compliant', there is no policy violation to classify. Per protocol, this variable must be 'none' when policy compliance is determined."
+  sources: []
+
+norm_violation_type:
+  value: bias/discrimination
+  justification: 'SOURCE DB-001: "Jewish students said the pig effigy... evoked antisemitic stereotypes." SOURCE ADM-001: "The antisemitic image displayed... has no place on our campus." These quotes demonstrate that the incident was perceived as identity-based harm against a protected group. This meets the criteria for a norm violation under bias/discrimination.'
+  sources: [DB-001, ADM-001]
+
+severity_score:
+  value: low
+  justification: 'Based on the verification checklist, this incident shows no evidence of physical harm, credible threats, or measurable disruption:\n\nSOURCE DB-001: "The protest was peaceful and remained outside the Regents meeting."\nSOURCE ADM-001: The statement addresses emotional harm but does not reference risk, injury, or operational impact.\n\nThis incident does not qualify for moderate severity because no confrontation, enforcement, or disruption occurred. It is properly classified as low severity based on absence of observable escalation or harm.'
+  sources: [DB-001, ADM-001]
+
+police_involvement:
+  value: none
+  justification: 'SOURCE DB-001 and ADM-001: Neither mention any police presence, monitoring, or action in response to this protest display. Per protocol, this qualifies as none.'
+  sources: [DB-001, ADM-001]
+
+latency_days:
+  value: 2
+  justification: 'SOURCE DB-001: Identifies the incident occurring on March 20, 2024.\nSOURCE ADM-001: The administrative response was issued March 22, 2024.\nPer protocol, latency_days = 2 days between incident and admin response.'
+  sources: [DB-001, ADM-001]
