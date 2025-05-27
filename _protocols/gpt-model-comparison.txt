@@ -56,4 +56,6 @@ Fast, affordable, multimodal coding with robust logic	GPT-4o
 Ultimate depth for rare, ultra-complex math proofs	o3
 The most human-like brainstorming partner	GPT-4.5
 
-For the pig-effigy incident and future Title VI/TPM cases, stick with GPT-4o (or GPT-4o Turbo if you need the 128 k context every time). It delivers the best blend of context, reasoning, vision, speed, and cost for a structured-coding pipeline
+For the pig-effigy incident and future Title VI/TPM cases, stick with GPT-4o (or GPT-4o Turbo if you need the 128 k context every time). It delivers the best blend of context, reasoning, vision, speed, and cost for a structured-coding pipeline.
+
+
