@@ -1,0 +1,59 @@
+
+| Requirement for this coding workflow                                               | Why GPT-4o excels                                                                                                 |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Long-range reasoning & rule compliance** (dozens of fine-grained codebook rules) | GPT-4-class models consistently outperform 3.5-series on multi-step, instruction-dense tasks.                     |
+
+| **Large context ingestion** (multiple source files + project knowledge)            | GPT-4o Turbo offers up to 128 k tokens, letting you keep the entire codebook and sources in-context while coding. |
+
+| **Citation integrity & structured output**                                         | 4-series models show markedly lower hallucination rates and better JSON/YAML fidelity than 3.5.                   |
+
+| **Multimodal inputs** (screenshots or tweets you drop in)                          | GPT-4o natively processes images alongside text, streamlining evidence extraction.                                |
+
+| **Latency & cost balance**                                                         | GPT-4o runs faster and cheaper than earlier GPT-4 models while preserving accuracy.                               |
+
+
+TL;DR – For a rule-heavy, citation-driven, image-plus-text coding job like yours, GPT-4o still wins.
+It keeps almost all of o3’s deep-thinking power while adding a 128 k-token window, native vision, and much faster/cheaper inference—advantages neither o3 nor GPT-4.5 combine in one place.
+
+1 What the task actually needs
+| Requirement                                    | Why it matters here                                                           |
+| ---------------------------------------------- | ----------------------------------------------------------------------------- |
+
+| **Large context** (codebook + many sources)    | Lets the model “see” the entire protocol and citations at once.               |
+
+| **Chain-of-thought / step-by-step reasoning**  | Required to map 40-plus decision rules to 30-plus variables without drifting. |
+
+| **Multimodal ingestion** (screenshots, tweets) | The pig-effigy evidence is partly visual.                                     |
+
+| **Structured JSON/YAML fidelity**              | Output must validate cleanly.                                                 |
+
+| **Low latency & cost**                         | You’ll iterate on dozens of incidents.                                        |
+
+
+2 How the contenders stack up
+Model	Strengths	Key limitations for this job
+GPT-4o	• 128 k tokens & 16 k out-tokens • Native text-image reasoning and tool use • Faster & cheaper than Turbo-4	Slightly less raw “deliberate mode” depth than o3, but negligible in practice for policy-coding.
+OpenAI o3	• State-of-the-art logic, math, coding; best at very hard multi-step puzzles	• Heavier compute → slower & pricier; context window not publicly stated to match 4o • Overkill when image + speed + cost all matter.
+GPT-4.5	• Superb “EQ” and natural conversation • Fewer hallucinations, good general chat	• No chain-of-thought reasoning and slower due to size • Help-center explicitly says o-series outperform it on multi-step logic • Lacks voice-to-voice / full multimodal out-of-box.
+
+3 Why GPT-4o edges out o3 in this niche
+Vision + text in one pass – 4o can lift quotes from screenshots and cross-reference them with text without a separate tooling dance. o3 can too, but 4o does it at lower latency (important when you’re iteratively checking 6–8 images per incident).
+
+Context insurance – A 128 k window leaves headroom for the entire codebook, all YAML definitions, and every source snippet; you never have to juggle chunks. That’s still unique to 4o in production.
+
+Iteration economics – Coding dozens of incidents means hundreds of prompts. 4o’s token price is a fraction of o3’s; the savings add up while keeping quality high.
+
+Sufficient reasoning – Benchmarks show 4o’s MMLU score (88.7) beats Turbo-4 and even edges classic GPT-4, so you’re not giving up meaningful accuracy.
+
+4 And why GPT-4o clearly beats GPT-4.5
+GPT-4.5 is marketed for natural, empathetic chat, not analytical chain-of-thought; OpenAI’s own FAQ says it “does not include reasoning” and is slower/larger.
+
+Your workflow is procedural, not conversational; accuracy in nested rule trees matters more than “EQ.”
+
+Recommendation
+If you want…	Pick
+Fast, affordable, multimodal coding with robust logic	GPT-4o
+Ultimate depth for rare, ultra-complex math proofs	o3
+The most human-like brainstorming partner	GPT-4.5
+
+For the pig-effigy incident and future Title VI/TPM cases, stick with GPT-4o (or GPT-4o Turbo if you need the 128 k context every time). It delivers the best blend of context, reasoning, vision, speed, and cost for a structured-coding pipeline

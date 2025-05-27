@@ -642,3 +642,78 @@ latency_days:
   value: 2
   justification: 'SOURCE DB-001: Identifies the incident occurring on March 20, 2024.\nSOURCE ADM-001: The administrative response was issued March 22, 2024.\nPer protocol, latency_days = 2 days between incident and admin response.'
   sources: [DB-001, ADM-001]
+
+5/27/25 -------------------------------------------------------------------------------------------------------------------
+
+
+GPT o3
+
+Did a much better job, although the output is out of order 
+
+admin_support_offered:
+  value: multiple
+  justification: |
+    • SOURCE ADM-001: “It is absolutely critical that Jewish members of our community … are treated with respect and dignity.” → *positive_inclusion*  
+    • SOURCE ADM-001: “We remain committed to doing all we can to **support the safety and protect the rights** of everyone on our campus.” → *general_commitment*  
+    • SOURCE MED-001: “UC campuses will be partnering with the **Hillel Campus Initiative** … to better address campus antisemitism.” → *campus_climate_initiative*  
+    Presence of ≥ 2 support types ⇒ `multiple`.
+
+The codebook was updated with the below copied to this variable as well. Not sure how much I should over-constrain it. Tell it to only read adm statements for this one. 
+
+Concurrent statements that may incidentally relate, but are not “responses” are not considered (i.e. a UC-wide campus climate initiative announced at an event where an incident takes place at UCLA is not considered a response).
+
+media_coverage_level:
+  value: moderate
+  justification: |
+    Following the media-coverage protocol:  
+    1. SOC-001 (Israel War Room tweet) – general-public reach (10 k+ views).  
+    2. SOC-002 (ADL California tweet) – general-public reach (40 k+ views).  
+    3. MED-001 (Jewish Journal article) – general-public outlet.  
+    4. SOC-003 (SJP UCLA Instagram story) – ecosystem-specific.  
+    5. SOC-004 (Reddit r/Jewish post, 1.6 k up-votes) – ecosystem-specific.  
+    6–7. SOC-007 & SOC-008 (Reddit comment threads) – same ecosystem.  
+    → 7 qualifying sources across multiple ecosystems, with ≥ 2 general-public outlets ⇒ `moderate`.
+
+wrong. doesn't understand general public reach. 
+
+
+actor_tone:
+  value: combination
+  justification: |
+    **Tone reference count** (total = 3):  
+    – *mobilizing/escalatory* (2): SOC-006-2 (“carried out a 3-day sit-in … making our presence inescapable”); SOC-003 overlay encourages continued activism.  
+    – *defiant* (1): SOC-003 comment: “I hate Zionists but have no issues with Jews.”  
+    No tone ≥ 60 %; therefore `combination` (mobilizing/escalatory + defiant).
+
+need to force a minimum total source count. at least 5. 
+
+target_tone:
+  value: accusatory
+  justification: |
+    **Tone reference count** (total = 6):  
+    – *accusatory* (4): SOC-002 (“Their silence on this issue is **complicity**”); SOC-001 tweet; multiple Reddit comments calling display “blatant antisemitism.”  
+    – *fear/distress* (2): SOC-004 (“This is why **I’m scared** of going to campus as an Israeli Jew.”); Reddit user cool_username_: “really **disheartening** to see my fellow students defending that.”  
+    4 / 6 = 67 % accusatory ≥ 60 % ⇒ predominant tone = `accusatory`.
+
+I want every example it uses to make the calculation spelled out. 
+
+policy_status:
+  value: compliant
+  justification: |
+    SOURCE DB-001: “placed in the **designated free-speech area** next to the regents’ meeting.”  
+    No policy breach alleged by administration → `compliant`.
+
+ran o3 twice (the out of order made me think it didn't finish analysis). the first run was better than this, wrt this response. it referenced policy and a policy doc. in this case it did not, at all. 
+
+latency_days:
+  value: 2
+  justification: |
+    SOURCE DB-001 sets earliest incident date as **Mar 20 2024** (statue appeared “March 20-21”).  
+    SOURCE MED-001 records earliest admin response in the *Jewish Journal* on **Friday Mar 22 2024** (“In a Friday statement … the university said”).  
+    22 Mar – 20 Mar = **2 days**.
+
+Pretty bad that it didn't know to look at the adm statement. It's specified to look at adm in the codebook_with_coding_protocol document. 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+issue troubleshooting. 
