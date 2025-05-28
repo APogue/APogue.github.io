@@ -645,6 +645,7 @@ latency_days:
 
 5/27/25 -------------------------------------------------------------------------------------------------------------------
 
+GPT 4o was hallucinating, then a system prompt and a user prompt were build to try to eliminate hallucination, but incorporating instructions for image files caused it to follow general instructions improperly (it stopped generating a .yaml file and hallucinations went up) so I kept the o3 output for record but deleted the 4o output. 
 
 GPT o3
 
@@ -714,7 +715,4 @@ latency_days:
 
 Pretty bad that it didn't know to look at the adm statement. It's specified to look at adm in the codebook_with_coding_protocol document. 
 
----------------------------------------------------------------------------------------------------------------------------
-
-GPT 4o
 
