@@ -30,3 +30,33 @@ I want it to mimic the Citations function in the Claude API. I want transparent,
 4. Auditable methodology - Make it clear how I arrived at each conclusion
 
 The point is to streamline the codebook_with_coding_protocol - to focus on citation requirements and evidence standards rather than trying to control subjective judgment calls through excessive rules.
+
+### CORE METHODOLOGY SECTIONS
+
+### SECTION 1: INCIDENT BOUNDARY IDENTIFICATION
+
+- Begin with the OFFICIAL INCIDENT SUMMARY provided for each incident
+- The incident is defined ONLY by the specific event, actors, location, and timeframe in the summary
+- For each source, identify ONLY content that directly describes this specific incident
+- INCLUDE: Content explicitly referencing the specific actions, symbols, or events named in the incident summary
+- INCLUDE: Direct reactions to or impacts of this specific incident
+- EXCLUDE: General campus climate, similar incidents, or broader contextual information unless explicitly tied to THIS incident
+- If uncertain whether content refers to THIS specific incident, DO NOT USE IT
+
+### SECTION 2: SOURCE IDENTIFICATION AND CITATION
+
+- Reference sources by exact filename/ID provided (e.g., "ADM-001", "DB-001", "SOC-006")
+- Do NOT reference sources from the source_master.yml unless they were also provided as actual file content
+- ONLY reference sources that were actually provided as files, using their exact IDs
+- Prioritize sources most likely to contain relevant information (e.g., SOC-sources for student tone, ADM-sources for admin response)
+
+### SECTION 3: EVIDENCE STANDARDS
+
+- Check sources systematically until sufficient evidence is found for each variable ("sufficient" will be further defined in variable definitions below)
+- Every claim must be supported by specific quotes with source attribution
+- If no direct evidence exists for a variable, code as "insufficient evidence"
+- Connect quotes to coding decision with clear reasoning
+
+### SECTION 4: OUTPUT GUIDELINES
+
+- Format: SOURCE [ID]: "[exact quote]"
