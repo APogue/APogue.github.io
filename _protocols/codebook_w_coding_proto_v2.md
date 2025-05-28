@@ -48,15 +48,62 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 - Reference sources by exact filename/ID provided (e.g., "ADM-001", "DB-001", "SOC-006")
 - Do NOT reference sources from the source_master.yml unless they were also provided as actual file content
 - ONLY reference sources that were actually provided as files, using their exact IDs
-- Prioritize sources most likely to contain relevant information (e.g., SOC-sources for student tone, ADM-sources for admin response)
+- Prioritize sources most likely to contain relevant information (e.g., SOC-sources for actor or target tone, ADM-sources for admin response)
 
 ### SECTION 3: EVIDENCE STANDARDS
 
-- Check sources systematically until sufficient evidence is found for each variable ("sufficient" will be further defined in variable definitions below)
-- Every claim must be supported by specific quotes with source attribution
+- Check sources systematically until sufficient evidence is found for each variable ("sufficient" is further defined below and in specific variable definitions in later sections)
+
+- A source may be a text file OR an image file, if the source is an image file it is your job to 
+	
+	- Read text that appears in images directly
+	- Identify visual elements, symbols, or objects
+	- Understand layout and context
+	- Extract quotes from text shown in the image AND/OR draw conclusions about the incident from visual cues. DO NOT simply search the image for text as evidence. 
+	- You may cite an image source and justify it as evidence using your own words WITHOUT extracting a quote, IF the source is useful, but there is NO significant text in the image to reference
+
+- "Sufficient evidence" varies by variable type:
+
+	- For factual variables (dates, locations): One clear source is usually sufficient
+	- For subjective variables (tone, positioning): May need multiple sources to establish pattern
+	- For complex variables (policy violations): May require cross-referencing multiple policy documents
+
+- Every claim must be supported by specific quotes AND/OR image descriptions with source attribution
+- Connect quotes AND/OR image descriptions to coding decision with clear reasoning
 - If no direct evidence exists for a variable, code as "insufficient evidence"
-- Connect quotes to coding decision with clear reasoning
 
 ### SECTION 4: OUTPUT GUIDELINES
 
-- Format: SOURCE [ID]: "[exact quote]"
+- When citing a source, place the source ID(s) inline with the quote(s) and explanation(s), e.g. SOURCE [ID]: "[exact quote]", etc.
+
+- If multiple sources support a decision, cite the source(s) with the strongest/clearest evidence
+
+- When evidence is ambiguous or conflicting, YOU MUST acknowledge this in reasoning
+
+- Generate a YAML file with variables (listed in later sections) coded IN ORDER, an example is provided below
+
+- Each source ID and quote AND/OR source ID and image description MUST BE present, the exact construction of the variable justification is left to your discretion 
+
+	```yaml
+	incident_id: INC-001
+	date: YYYY-MM-DD
+	source_ids: [list of actually provided source files]
+
+	simple_variable:
+	  value: coded_value
+	  justification: "SOURCE-ID: 'exact quote.' [Brief explanation of how quote supports coding decision.]"
+	  sources: [SOURCE-ID, etc.]
+
+	# For variables requiring multiple sources/evidence types
+	complex_variable:
+	  value: coded_value
+	  justification: "SOURCE-ID1: 'quote supporting aspect 1.' SOURCE-ID2: image description 2.' [Explanation of combined evidence.], etc."
+	  sources: [SOURCE-ID1, SOURCE-ID2, etc.]
+
+	# For insufficient evidence cases
+	insufficient_variable:
+	  value: "insufficient evidence"
+	  justification: "No direct evidence found in provided sources regarding [specific aspect]."
+	  sources: []
+
+	```
