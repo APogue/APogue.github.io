@@ -60,7 +60,7 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 	- Identify visual elements, symbols, or objects
 	- Understand layout and context
 	- Extract quotes from text shown in the image AND/OR draw conclusions about the incident from visual cues. DO NOT simply search the image for text as evidence. 
-	- You may cite an image source and justify it as evidence using your own words WITHOUT extracting a quote, IF the source is useful, but there is NO significant text in the image to reference
+	- You may cite an image source and justify it as evidence using your own words WITHOUT extracting a quote IF you deem the source useful, but there is NO significant text in the image to reference
 
 - "Sufficient evidence" varies by variable type:
 
@@ -70,7 +70,7 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 
 - Every claim must be supported by specific quotes AND/OR image descriptions with source attribution
 - Connect quotes AND/OR image descriptions to coding decision with clear reasoning
-- If no direct evidence exists for a variable, code as "insufficient evidence"
+- If NO direct evidence exists for a variable, code as "insufficient evidence"
 
 ### SECTION 4: OUTPUT GUIDELINES
 
@@ -88,6 +88,7 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 	incident_id: INC-001
 	date: YYYY-MM-DD
 	source_ids: [list of actually provided source files]
+    keywords: [keyword1, keyword2, ...]
 
 	simple_variable:
 	  value: coded_value
@@ -107,3 +108,35 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 	  sources: []
 
 	```
+
+## VARIABLE-SPECIFIC DEFINITIONS AND PROTOCOLS
+
+### METADATA & UTILITY FIELDS
+
+#### `incident_id` 
+**Definition:** Globally unique identifier for each incident (e.g., `INC-001`)
+
+#### `date`
+**Definition:** Date the incident occurred (`YYYY-MM-DD`)
+
+#### `source_ids` 
+**Definition:** List of internal source references used for incident documentation  
+→ Format: `[DB-001, ADM-014]`
+
+#### `keywords`
+**Definition:** Internal-use incident tags for filtering and scrape  
+→ Format: `[task-force, encampment]`
+
+### BINARY/BOOLEAN VARIABLES
+
+#### `org_affiliated_actor`
+**Definition:** Was the actor affiliated with either a UCLA student org or USAC?  
+→ `true`, `false`  
+
+**Coding Protocol:**
+- Mark `true` ONLY if at least ONE of these conditions is explicitly documented:
+  * An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor
+  * The org publicly endorsed or amplified the act (e.g., repost, montage, statement of support)
+- Evidence of "endorsement" or "amplification" may be via an image, where you must interpret the subject of the image and determine whether it qualifies as `true` yourself
+- Mark `false` if sources indicate an actor or actors participated in an org-associated protest, but no formal (above) connection was made 
+
