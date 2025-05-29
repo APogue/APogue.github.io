@@ -1,0 +1,41 @@
+
+
+
+
+  **Coding Protocol:**
+- Mark `true` if at least ONE of the following conditions showing organizational SEPARATE AND DIRECT SUPPORT of the incident is explicitly documented:
+  * An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor of the incident
+  * The org publicly endorsed or amplified the incident (e.g., repost, montage, statement of support)
+
+- Evidence of "endorsement" or "amplification" of the incident requires a SEPARATE organizational action beyond the incident itself. The following conditions PROVE separate and direct organizational action. IF any conditions are met, YOU MUST assume `true` and STATE in the justification WHICH CONDITION(s) was/were met:
+  * An organization's social media post depicts/shows/references the incident
+  * An organization claiming responsibility after the fact
+  * An organization making statements of support for the specific incident
+- Mark `false` IF there is evidence that the incident merely occurred AT an org-associated event/protest, but no separate action exists showing the above DIRECT org support for the SPECIFIC INCIDENT
+- Mark `false` IF an organization showed SUPPORT FOR an org-associated event/protest, but the INCIDENT ITSELF is not deemed DIRECTLY supported by the above `true` conditions
+- REMEMBER: physical presence at an org event does NOT equal organizational endorsement of specific actions/items that occurred there UNLESS there is evidence of the above DIRECT and SEPARATE support
+
+
+#### Coding Protocol
+- Mark `true` if at least ONE of the following conditions showing organizational SEPARATE AND DIRECT SUPPORT of the incident is explicitly documented:
+ * An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor of the incident
+ * The org publicly endorsed or amplified the incident (e.g., repost, montage, statement of support)
+
+- Evidence of "endorsement" or "amplification" of the incident requires a SEPARATE organizational action beyond the incident itself. The following conditions PROVE separate and direct organizational action. IF any conditions are met, YOU MUST assume `true` and STATE in the justification WHICH CONDITION(s) was/were met:
+ * An organization's social media post depicts/shows/references the incident
+ * An organization claiming responsibility after the fact
+ * An organization making statements of support for the specific incident
+
+- Mark `false` IF there is evidence that the incident merely occurred AT an org-associated event/protest, but no separate action exists showing the above DIRECT org support for the SPECIFIC INCIDENT
+
+- Mark `false` IF an organization showed SUPPORT FOR an org-associated event/protest, but the INCIDENT ITSELF is not deemed DIRECTLY supported by the above `true` conditions
+
+- **REMEMBER:** physical presence at an org event does NOT equal organizational endorsement of specific actions/items that occurred there UNLESS there is evidence of the above DIRECT and SEPARATE support
+
+
+**SYSTEMATIC VERIFICATION CHECKPOINT:**
+Before finalizing any variable coding, you MUST:
+1. List ALL sources checked for this variable
+2. State what evidence each source did/didn't provide
+3. Complete steps of variable verification sequence (if applicable)
+4. Show your work - don't just give final conclusion

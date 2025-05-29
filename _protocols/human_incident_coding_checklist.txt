@@ -94,9 +94,36 @@ Incident: Pig Effigy Displayed at Regents Protest (March 20–21, 2024)
 
 Incident-specific documents and images are uploaded directly into the chat. Knowledge you must apply to all incidents you code are in project knowledge. 
 
-Follow codebook_with_coding_protocol.md exactly, without improvisation or deviation
+Follow codebook_w_coding_proto_v2.md exactly, without improvisation or deviation
 
-Before coding this incident, confirm you have fully reviewed the codebook_with_coding_protocol.md and will apply ALL sections. Provide a verification that addresses each major section.
+Before coding this incident, confirm you have fully reviewed the codebook_w_coding_proto_v2.md and will apply ALL sections. Provide a verification that addresses each major section.
 
 I only want INC-001.yml as the product of this exercise. You can confirm other efforts in your output, but I will test your success based on INC-001.yml
+
+Based on the files I will uploaded and the source IDs I will provide, here's the mapping you will need to correctly reference them throughout coding:
+
+Coding Protocol Document:
+
+codebook_w_coding_proto_v2 → codebook_w_coding_proto_v2.md
+
+
+Text Documents:
+
+ADM-001 → ADM-001.txt (UCLA official statement condemning antisemitic display)
+DB-001 → DB-001.txt (David Myers Daily Bruin op-ed analyzing the incident)
+MED-001 → MED-001.txt (Jewish Journal article about UCLA condemning the pig display)
+
+Images:
+
+SOC-001 → Image 1 (Israel War Room X/Twitter post showing the pig display)
+SOC-002 → Image 2 (ADL California X/Twitter post with Jeffrey Abrams statement)
+SOC-003 → Image 3 (Instagram post with "ANTIZIONISM = ANTISEMITISM" overlay)
+SOC-004 → Image 4 (Reddit post from r/Jewish: "At UCLA today. This is why I'm scared...")
+SOC-006-2 → Image 5 (ucladivest Instagram post describing their 3-day protest alongside image showing pig display)
+SOC-007 → Image 6 (Reddit comments discussing the incident)
+SOC-008 → Image 7 (Additional Reddit comments about antisemitism and the display)
+
+This mapping allows you to reference specific sources by their ID throughout coding, only use the specific source names I've given you. 
+
+
 

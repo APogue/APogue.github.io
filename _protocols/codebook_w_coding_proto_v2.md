@@ -52,21 +52,33 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 
 ### SECTION 3: EVIDENCE STANDARDS
 
+**MANDATORY VISUAL INVENTORY REQUIREMENT:**
+- BEFORE coding any variables, create a complete visual inventory of ALL image sources
+- List EVERY visible element, symbol, object, or visual component in each image 
+- List all text that is present in the image
+- Include this inventory in your output even if elements seem unrelated to the incident
+- Do NOT proceed to variable coding until visual inventory is complete
+
+**MANDATORY SYSTEMATIC SOURCE REVIEW:**
+- For EACH variable, you MUST check ALL provided sources before coding the variable
+- For EACH variable, you MUST REVIEW ALL VISUAL INVENTORY before coding the variable
+- Do NOT code any variable until you have reviewed every source AND its VISUAL INVENTORY (if applicable)
+
+**MANDATORY SOURCE PROCESSING:**
 - Check sources systematically until sufficient evidence is found for each variable ("sufficient" is further defined below and in specific variable definitions in later sections)
 
 - A source may be a text file OR an image file, if the source is an image file it is your job to 
 	
-	- Read text that appears in images directly
-	- Identify visual elements, symbols, or objects
-	- Understand layout and context
+	- YOU MUST identify ALL visual elements, symbols, or objects systematically
 	- Extract quotes from text shown in the image AND/OR draw conclusions about the incident from visual cues. DO NOT simply search the image for text as evidence. 
-	- You may cite an image source and justify it as evidence using your own words WITHOUT extracting a quote IF you deem the source useful, but there is NO significant text in the image to reference
+	- You MUST cite image sources when visual content provides evidence, using descriptions of what is shown
+	- Visual content is PRIMARY evidence, not secondary - treat images as EQUIVALENT to direct quotes
 
 - "Sufficient evidence" varies by variable type:
 
 	- For factual variables (dates, locations): One clear source is usually sufficient
-	- For subjective variables (tone, positioning): May need multiple sources to establish pattern
-	- For complex variables (policy violations): May require cross-referencing multiple policy documents
+	- For subjective variables (tone, positioning): YOU MUST use multiple sources to establish pattern
+	- For complex variables (policy violations): YOU MUST cross-referencing multiple policy documents
 
 - Every claim must be supported by specific quotes AND/OR image descriptions with source attribution
 - Connect quotes AND/OR image descriptions to coding decision with clear reasoning
@@ -74,13 +86,22 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 
 ### SECTION 4: OUTPUT GUIDELINES
 
+**MANDATORY VISUAL INVENTORY:**
+- Include a complete visual_inventory section BEFORE variable coding
+- Format: 
+  ```yaml
+  visual_inventory:
+    SOURCE-ID: "Detailed description of ALL visible elements, symbols, objects, text"
+  ```
+
+**MANDATOTY CITATION REQUIREMENTS:**
 - When citing a source, place the source ID(s) inline with the quote(s) and explanation(s), e.g. SOURCE [ID]: "[exact quote]", etc.
 
 - If multiple sources support a decision, cite the source(s) with the strongest/clearest evidence
 
 - When evidence is ambiguous or conflicting, YOU MUST acknowledge this in reasoning
 
-- Generate a YAML file with variables (listed in later sections) coded IN ORDER, an example is provided below
+- Generate a YAML file with visual_inventory FIRST, then variables (listed in later sections) coded IN ORDER, an example is provided below
 
 - Each source ID and quote AND/OR source ID and image description MUST BE present, the exact construction of the variable justification is left to your discretion 
 
@@ -133,10 +154,71 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 **Definition:** Was the actor affiliated with either a UCLA student org or USAC?  
 → `true`, `false`  
 
-**Coding Protocol:**
-- Mark `true` ONLY if at least ONE of these conditions is explicitly documented:
-  * An org member was quoted, claimed responsibility, hosted, or was listed as a sponsor
-  * The org publicly endorsed or amplified the act (e.g., repost, montage, statement of support)
-- Evidence of "endorsement" or "amplification" may be via an image, where you must interpret the subject of the image and determine whether it qualifies as `true` yourself
-- Mark `false` if sources indicate an actor or actors participated in an org-associated protest, but no formal (above) connection was made 
+#### MANDATORY VERIFICATION SEQUENCE 
+
+#### STEP 1: Evidence Collection
+- List ALL organizational actions found in sources
+- Read VISUAL INVENTORY for source information
+- Do not proceed to next variable until ALL 6 steps in verification sequence have been completed 
+
+#### STEP 2: Incident Specificity Check
+- Does the evidence reference THE SPECIFIC INCIDENT described in the incident summary? YES/NO
+- Does the evidence reference only the general event/protest/context? YES/NO
+
+#### STEP 3: FALSE Condition Check
+- Does evidence show incident occurred AT org event but no separate org support for THE SPECIFIC INCIDENT? YES/NO
+- Does evidence show org supported general event but not THE SPECIFIC INCIDENT? YES/NO
+
+#### STEP 4: TRUE Condition Check
+For each piece of evidence, check against TRUE conditions:
+- **Condition A:** "Org member quoted/claimed responsibility/hosted/sponsored THE SPECIFIC INCIDENT" - YES/NO
+- **Condition B:** "Org publicly endorsed/amplified THE SPECIFIC INCIDENT" - YES/NO  
+- **Condition C:** "Org social media post depicts/shows/references THE SPECIFIC INCIDENT" - YES/NO
+- **Condition D:** "Org claimed responsibility for THE SPECIFIC INCIDENT after the fact" - YES/NO
+- **Condition E:** "Org made statements supporting THE SPECIFIC INCIDENT specifically" - YES/NO
+
+#### STEP 5: Final Decision
+- If NO TRUE conditions = YES, then code FALSE
+- If ANY TRUE condition = YES, then code TRUE
+
+#### STEP 6: Justification Verification
+- Does my justification actually support my coding decision? YES/NO
+- If NO, I must change either the code or justification
+
+#### Coding Protocol
+- Mark `true` if at least ONE of the following conditions showing organizational SEPARATE AND DIRECT SUPPORT of the incident is explicitly documented. Remember: evidence of SUPPORT of the incident requires a SEPARATE organizational action beyond the incident itself. The following conditions PROVE separate and direct organizational action. IF any conditions are met, YOU MUST assume `true` and STATE in the justification WHICH CONDITION(s) was/were met:
+	- **Condition A:** "Org member quoted/claimed responsibility/hosted/sponsored THE SPECIFIC INCIDENT" 
+	- **Condition B:** "Org publicly endorsed/amplified THE SPECIFIC INCIDENT" 
+	- **Condition C:** "Org social media post depicts/shows/references THE SPECIFIC INCIDENT" 
+	- **Condition D:** "Org claimed responsibility for THE SPECIFIC INCIDENT after the fact" 
+	- **Condition E:** "Org made statements supporting THE SPECIFIC INCIDENT specifically" 
+
+- Mark `false` IF there is evidence that the incident merely occurred AT an org-associated event/protest, but no separate action exists showing the above DIRECT SUPPORT for the SPECIFIC INCIDENT
+
+- Mark `false` even IF an organization showed DIRECT SUPPORT FOR an org-associated event/protest, but the INCIDENT ITSELF is not DIRECTLY SUPPORTED by the above `true` conditions
+
+- **REMEMBER:** physical presence at an org event does NOT equal organizational endorsement of specific actions/items that occurred there UNLESS there is evidence of the above DIRECT and SEPARATE support
+
+#### `actor_student`
+**Definition:** Was the actor a student at UCLA?     
+→ `true`, `false`  
+
+#### MANDATORY VERIFICATION SEQUENCE 
+
+#### STEP 1: Source Checking
+- You MUST check ALL uploaded sources before coding this variable
+- Do NOT code this variable until you have reviewed EVERY source
+
+#### STEP 2: Source Verification
+- DO NOT CODE THE VARIABLE until you have printed a verification to the chat window that all uploaded sources have been checked
+
+#### **Coding Protocol:**
+- Mark `true` if:
+  * There is no assertion of non-affiliation by any uploaded source
+- Mark `false` ONLY if:
+  * A source explicitly identifies the actor as non-student (e.g., "outside agitator," "non-affiliate")
+- It is NOT necessary to find explicit evidence of student status if there's no assertion of non-affiliation
+- If status is ambiguous but no assertion of non-affiliation exists, default to `true`
+
+
 
