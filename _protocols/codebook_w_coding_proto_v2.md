@@ -170,7 +170,7 @@ The point is to streamline the codebook_with_coding_protocol - to focus on citat
 - Does evidence show org supported general event but not THE SPECIFIC INCIDENT? YES/NO
 
 #### STEP 4: TRUE Condition Check
-For each piece of evidence, check against TRUE conditions:
+For each piece of evidence, check against TRUE conditions and PRINT your answers to the chat window:
 - **Condition A:** "Org member quoted/claimed responsibility/hosted/sponsored THE SPECIFIC INCIDENT" - YES/NO
 - **Condition B:** "Org publicly endorsed/amplified THE SPECIFIC INCIDENT" - YES/NO  
 - **Condition C:** "Org social media post depicts/shows/references THE SPECIFIC INCIDENT" - YES/NO
@@ -186,16 +186,16 @@ For each piece of evidence, check against TRUE conditions:
 - If NO, I must change either the code or justification
 
 #### Coding Protocol
+- Mark `false` IF there is evidence that the incident merely occurred AT an org-associated event/protest, but no separate action exists showing the above DIRECT SUPPORT for the SPECIFIC INCIDENT
+
+- Mark `false` even IF an organization showed DIRECT SUPPORT FOR an org-associated event/protest, but the INCIDENT ITSELF is not DIRECTLY SUPPORTED by the above `true` conditions
+
 - Mark `true` if at least ONE of the following conditions showing organizational SEPARATE AND DIRECT SUPPORT of the incident is explicitly documented. Remember: evidence of SUPPORT of the incident requires a SEPARATE organizational action beyond the incident itself. The following conditions PROVE separate and direct organizational action. IF any conditions are met, YOU MUST assume `true` and STATE in the justification WHICH CONDITION(s) was/were met:
 	- **Condition A:** "Org member quoted/claimed responsibility/hosted/sponsored THE SPECIFIC INCIDENT" 
 	- **Condition B:** "Org publicly endorsed/amplified THE SPECIFIC INCIDENT" 
 	- **Condition C:** "Org social media post depicts/shows/references THE SPECIFIC INCIDENT" 
 	- **Condition D:** "Org claimed responsibility for THE SPECIFIC INCIDENT after the fact" 
 	- **Condition E:** "Org made statements supporting THE SPECIFIC INCIDENT specifically" 
-
-- Mark `false` IF there is evidence that the incident merely occurred AT an org-associated event/protest, but no separate action exists showing the above DIRECT SUPPORT for the SPECIFIC INCIDENT
-
-- Mark `false` even IF an organization showed DIRECT SUPPORT FOR an org-associated event/protest, but the INCIDENT ITSELF is not DIRECTLY SUPPORTED by the above `true` conditions
 
 - **REMEMBER:** physical presence at an org event does NOT equal organizational endorsement of specific actions/items that occurred there UNLESS there is evidence of the above DIRECT and SEPARATE support
 
