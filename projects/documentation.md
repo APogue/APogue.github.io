@@ -47,6 +47,8 @@ permalink: /projects/documentation/
 
 - At some point need to consolidate files, no duplicates in separate git repo's, choose the appropriate place and manage one file only (e.g. source_master.ysl, sources folder)
 
+	- field_definitions.yml needs to be updated and moved to quiet-crawler
+
 - Project definitions (needs a better name, merge with this file), needs to be updated and maintained, eliminate a lot of the useless info
 
 - `_protocols` needs maintenance, "Incident Coding Protocols" can likely be deleted, keep "Codebook with Incident Coding Protocols" both versions to prompt Claude API 
