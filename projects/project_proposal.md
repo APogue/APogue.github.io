@@ -1,6 +1,6 @@
 ---
 layout: project_default
-title: "Starter notes"
+title: "Project Proposal"
 published: true
 hide_title: false
 author: Alexie Pogue
@@ -41,16 +41,17 @@ Build a master list of incidents first, based only on what happened and when, wi
 
 ### Define an incident inclusion rule (must stick to it)
 
-To avoid subjective filtering, create a rule for what counts as an incident 
+Any campus-affiliated event between Sept 2023 and June 2024 where:
 
-For example:
+- (a) identity-based harm, exclusion, or discrimination was alleged  
+- (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
+- (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
 
-“Any campus-affiliated event between Sept 2023 and June 2024 where:
-(a) identity-based harassment, exclusion, or violence was alleged;
-(b) symbolic or physical protest occurred on university grounds; or
-(c) TPM violations or safety breakdowns were documented.”
+⚠️ Considerations:
 
-Apply that rule consistently. Some will involve Jewish students, some Muslim/Pali — the rule determines inclusion, not identity or severity.
+- Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
+
+Rule applies constantly. Some will involve Jewish students, some Arab students — the rule determines inclusion, not identity or severity.
 
 ### Tag, no filters by source 
 
@@ -1056,7 +1057,41 @@ This lets you:
 You're treating it as a qualitative explanatory factor, not a coded metric — which is the right move if it’s only in a few incidents.
 
 
+---
 
+## Source Categories 
+
+🔹 Dependent Variable (DV) Sources
+
+- Used to measure administrative behavior, the core outcome of the study.
+
+| Prefix | Source Type               | Function in Dataset                                                              |
+|--------|---------------------------|-----------------------------------------------------------------------------------|
+| `ADM`-   | Administrative communications | Used to code administrative response, tone, latency, and stated recourse.        |
+
+---
+
+🔸 Incident-Triggering Source (Primary IVs)
+
+- Used to define and timestamp incidents — the study’s core independent variables.
+
+| Prefix | Source Type         | Function in Dataset                                                                 |
+|--------|---------------------|--------------------------------------------------------------------------------------|
+| `DB`-    | Daily Bruin articles | Defines incident inclusion. Used for timing, location, participants, and anchoring events. |
+
+---
+
+🟨 Explanatory / Control Variable Sources
+
+- Used to contextualize or explain administrative response — never to define incidents.
+
+| Prefix | Source Type                         | Function in Dataset   |
+|--------|---------------------------------------------------------------------------------------------------------|
+| `MED`-   | Third-party news media              | Visibility, amplification, and narrative framing (e.g., LA Times, Jewish Journal). |
+| `SOC`-   | Social media posts                  | Public-facing visibility and grassroots traction (e.g., X, Instagram).             |
+| `ORG`-   | Student org materials               | Protest tone, framing, and actor intent.                                           |
+| `LEG`-   | Legal documents                     | Legal escalation, OCR complaints, lawsuits, external review.                       |
+| `RPT`-   | Reports, investigations, or audits  | Institutional context, third-party evaluations, policy framing.   
 
 
 

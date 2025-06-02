@@ -7,13 +7,9 @@ permalink: /projects/
 
 ## University Policy Study
 
-- [Starter notes](/projects/organizational-notes)
+- [Project Proposal](/projects/project_proposal)
 
-- [README](/projects/project-facing-README)
-
-- [Incident Response Index](/projects/incident-analysis/)
-
-- [Project Definitions](/projects/project-definitions/)
+- [Documentation](/projects/documentation/)
 
 - [Codebook](/projects/codebook/)
 
@@ -23,7 +19,7 @@ permalink: /projects/
 
 - [Codebook with Incident Coding Protocols V2](/projects/codebook_w_coding_proto_v2/)
 
-- [Documentation](/projects/documentation/)
+- [Incident Response Index](/projects/incident_index/)
 
 
 
