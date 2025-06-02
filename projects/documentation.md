@@ -47,23 +47,25 @@ permalink: /projects/documentation/
 
 	- Don't ask the API to assume too much, if it says it doesn't want to "assume" a photo is affiliation because it may just be documentation, then tell Claude the gathered sources were procured, pre-processed; don't force it to assume too much, that may lead to a range of responses, even in the API (claude doesn't need to identify affiliation, it needs to verify)
 
-	- The photo alt text can also do this, the UI was struggling with the semantics of the photo: the posters were the "actors" sharing the incident and "targeting" the Jewish affiliates. One can infer from this, they would not be merely "documenting." How much of this kind of context should be included?
+	- The photo alt text can also do this, the UI was struggling with the semantics of the photo: the posters were the "actors" sharing the incident and "targeting" the Jewish affiliates. One can then infer that they were not merely "documenting." How much of this kind of context should be included?
 
 - At some point need to consolidate files, no duplicates in separate git repo's, choose the appropriate place and manage one file only (e.g. source_master.ysl, sources folder)
 
 	- if I want to autolink sources in blog posts, then two separate source_master.ysl need to be maintained. What is the most streamlined approach depending on my publishing end goal?
 
-	- field_definitions.yml was updated to coding_variables.yml and moved to quiet-crawler (maintain there) ✔️
+	- field_definitions.yml was updated to variable_data.yml and moved to quiet-crawler (maintain there) ✔️
 
-	- move keywords.yml to quiet-crawler (maintain there) ✔️
+	- move keywords.yml to quiet-crawler (maintain there), now scraper_inputs/daily_bruin/universal_keywords.yml ✔️
 
 - organizational-notes.md needs to become a proposal ✔️, update it, clean it up, make it presentable 
 
-- Project definitions (needs a better name, merged with "Project Proposal" ✔️), needs to be updated and maintained, eliminate a lot of the useless info
+	- Project definitions was merged with "Project Proposal," keyword and coding variable data (called "field definitions") were deleted, source management prefixes kept (bottom of the document). ✔️
 
 - `_protocols` needs maintenance, "Incident Coding Protocols" can likely be deleted, keep "Codebook with Incident Coding Protocols" both versions to prompt Claude API 
 
 	- When the API version of the "Codebook with Incident Coding Protocols" is complete, then Codebook will have taken its final form, keep one version (published) on the website project page
+
+		- Note: this means Codebook.md will be moved ✔️ and maintained in quiet-crawler 
 
 - Each time an incident is defined, create a summary (to prompt Claude) and add it to a master incident list, other metadata can be added as well (e.g. "incidentness", date, sources)
 
@@ -73,6 +75,8 @@ permalink: /projects/documentation/
 
 		- Each index entry links to a markdown. This is obsolete, eliminate it. Doesn't need the coding output there. Only one evidence file (INC-001.yml) with coding output and justifications will be maintained.  
 
-	- Add this to the quiet-crawler README directory tree
+- quiet-crawler/scrapers has directories (eventually flattened), not sure what to do with the chancellor scraper, chancellor data is really dependent upon incidents and can't be analyzed independently (delete?)
 
-- For every change made, update the website README, eliminate the duplicate ✔️. Just maintain a single README. 
+- For every change and added features, update quiet-crawler README 
+
+- For every change and general progress, update the website README, eliminate the duplicate ✔️. Just maintain a single README. 

@@ -8,6 +8,10 @@ date: 2025-3-31 6:41 PM
 updated_date: 2025-4-8 2:43 PM
 ---
 
+Currently just notes, under construction. 
+
+---
+
 I must be unbiased in this study 
 
 ### Material of interest
