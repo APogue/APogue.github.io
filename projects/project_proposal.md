@@ -1097,7 +1097,14 @@ You're treating it as a qualitative explanatory factor, not a coded metric — w
 | `LEG`-   | Legal documents                     | Legal escalation, OCR complaints, lawsuits, external review.                       |
 | `RPT`-   | Reports, investigations, or audits  | Institutional context, third-party evaluations, policy framing.   
 
+---
 
+## Reddit limitations (source biases)
 
+- There is the possibility of moderation bias (i.e. Reddit’s auto-moderation or subreddit rules) affecting data completeness.
 
+- A [removed] comment might have context missing from my dataset, impacting tone or positioning coding.
 
+	- I have a 10-5-5 model now, and the script bypasses removed and deleted comments
+
+- Skewed Discussions: Because the scraper captures only the top-level or high-score comments (depending on my criteria filters), it might miss smaller but significant perspectives or voices.
