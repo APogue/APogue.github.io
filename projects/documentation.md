@@ -11,6 +11,7 @@ permalink: /projects/documentation/
 - The subset of reddit posts to be used as sources from human-selected batch 
 
 	- Automated check if urls in reddit batch already exist in source_master.yml
+
 	- If source already exists, automated add of incident id to the source 
 
 - Claude API will code each incident
@@ -24,6 +25,12 @@ permalink: /projects/documentation/
 	- Not easy, multiple incidents per DB article and multiple articles may reference a single incident
 
 	- To keep it manageable, total incident count should be approximately 60 
+
+	- Keep two databases tracking incident relationship to sources
+
+		- In source_master.yml, each source should have the incidents it covers as part of its metadata
+
+		- Created incident_data.yml, each incident should have a list of contributing sources as part of its metadata
 
 - Sources 
 
@@ -40,6 +47,8 @@ permalink: /projects/documentation/
 - I will code each incident (?)
 
 ## To dos 
+
+- Reddit scraper completed✔️, due to the potential for source duplication as I run through incidents, the functionality in the automated section above should be implemented
 
 - Claude UI was just not working
 
