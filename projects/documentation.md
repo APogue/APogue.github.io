@@ -89,3 +89,15 @@ permalink: /projects/documentation/
 - For every change and added features, update quiet-crawler README 
 
 - For every change and general progress, update the website README, eliminate the duplicate ✔️. Just maintain a single README. 
+
+## Anthropic features
+
+- [Models overview](https://docs.anthropic.com/en/docs/about-claude/models/overview)
+
+- [Prompt caching](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)
+
+- [Prompt design console](https://console.anthropic.com/workbench/ced257ec-1915-4dab-878b-a06e5c531951)
+
+- [Citations](https://docs.anthropic.com/en/docs/build-with-claude/citations)
+
+- [Prompt library --cite your sources](https://docs.anthropic.com/en/resources/prompt-library/cite-your-sources)
