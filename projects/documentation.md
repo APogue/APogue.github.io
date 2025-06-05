@@ -98,6 +98,14 @@ permalink: /projects/documentation/
 
 - [Prompt design console](https://console.anthropic.com/workbench/ced257ec-1915-4dab-878b-a06e5c531951)
 
+- [Chain of though (COT) prompting](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)
+
+	- Tasks requiring application of logic
+
+- [Extended thinking](https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking)
+
 - [Citations](https://docs.anthropic.com/en/docs/build-with-claude/citations)
 
 - [Prompt library --cite your sources](https://docs.anthropic.com/en/resources/prompt-library/cite-your-sources)
+
+- [Message batches](https://docs.anthropic.com/en/docs/build-with-claude/batch-processing)
