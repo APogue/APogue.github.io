@@ -98,7 +98,7 @@ permalink: /projects/documentation/
 
 - [Prompt design console](https://console.anthropic.com/workbench/ced257ec-1915-4dab-878b-a06e5c531951)
 
-- [Chain of though (COT) prompting](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)
+- [Chain of thought (COT) prompting](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)
 
 	- Tasks requiring application of logic
 
@@ -109,3 +109,5 @@ permalink: /projects/documentation/
 - [Prompt library --cite your sources](https://docs.anthropic.com/en/resources/prompt-library/cite-your-sources)
 
 - [Message batches](https://docs.anthropic.com/en/docs/build-with-claude/batch-processing)
+
+- [Anthropic Just Released a Major New Feature...](https://www.inc.com/ben-sherry/anthropic-just-released-a-major-new-feature-to-make-your-ai-smarter/91132281)
