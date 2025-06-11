@@ -62,7 +62,7 @@ permalink: /projects/documentation/
 
 	- if I want to autolink sources in blog posts, then two separate source_master.ysl need to be maintained. What is the most streamlined approach depending on my publishing end goal?
 
-	- field_definitions.yml was updated to variable_data.yml and moved to quiet-crawler (maintain there) ✔️
+	- field_definitions.yml was updated to variable_data.yml and moved to quiet-crawler ✔️(update and maintain there) 
 
 	- move keywords.yml to quiet-crawler (maintain there), now scraper_inputs/daily_bruin/universal_keywords.yml ✔️
 
@@ -111,3 +111,23 @@ permalink: /projects/documentation/
 - [Message batches](https://docs.anthropic.com/en/docs/build-with-claude/batch-processing)
 
 - [Anthropic Just Released a Major New Feature...](https://www.inc.com/ben-sherry/anthropic-just-released-a-major-new-feature-to-make-your-ai-smarter/91132281)
+
+## Test Claude API Script To do
+
+- base script written (not optimized, optimize using o3)
+
+	- test base script ✔️
+
+	- check base script output
+
+	- add a function for input of codebook, protocol (expect large docs), definitions, and summary
+
+		- these are system messages: you need to be clear about the incident scope, and how to constrain citations to look at information, tone, and commentary directly related to that scope. It is possible to over-constrain that though (I think it occurred on a couple UI runs). If it is over-constrained it takes that command too literally and includes only obviously linked content. 
+
+	- add a function for processing output to 1. logger and 2. YML evidence/justification file (this depends on citations really and how much of it is audit script or COT and how much is the response)
+
+	- optimize base script 
+
+	- start migrating codebook and protocol to .txt files that the above function would feed in
+
+

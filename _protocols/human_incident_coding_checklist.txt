@@ -13,17 +13,17 @@ Before starting a new incident analysis batch, complete the following steps:
 ### 2. Reaffirm Enforced Protocols
 
 - [ ] Restate that the assistant must follow only the rules defined in protocol markdown  
-  *(e.g., “Please adhere only to the rules in `incident_coding_protocol.md`”)*
+  *(e.g., â€œPlease adhere only to the rules in `incident_coding_protocol.md`â€)*
 
 - [ ] Confirm that **codebook content is reference-only** unless otherwise instructed  
   *(No behavioral inference from codebook without promotion)*
 
 ### 3. Confirm Behavior
 
-- [ ] Ask: “What memory or behavioral rules are currently active?”  
-  *(Assistant should respond: “None, unless reintroduced by you.”)*
+- [ ] Ask: â€œWhat memory or behavioral rules are currently active?â€  
+  *(Assistant should respond: â€œNone, unless reintroduced by you.â€)*
 
-- [ ] Ask: “Will you follow only what's in the protocol files?”  
+- [ ] Ask: â€œWill you follow only what's in the protocol files?â€  
   *(Assistant should confirm explicit adherence to protocol instructions only)*
 
 ### 4. Begin Coding
@@ -35,7 +35,7 @@ Before starting a new incident analysis batch, complete the following steps:
 
 For Claude: 
 
-## 📜 Inclusion Rule
+## ðŸ“œ Inclusion Rule
 
 Any campus-affiliated event between Sept 2023 and June 2024 where:
 
@@ -43,12 +43,12 @@ Any campus-affiliated event between Sept 2023 and June 2024 where:
 - (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
 - (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
 
-⚠️ Considerations:
+âš ï¸ Considerations:
 
 - Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
 
 
-Incident: Pig Effigy Displayed at Regents Protest (March 20–21, 2024)
+Incident: Pig Effigy Displayed at Regents Protest (March 20â€“21, 2024)
 
 (a) Identity-based harm alleged: A statue depicting a pig holding a money bag and a birdcage with a keffiyeh, alongside a Star of David, was displayed near the Regents meeting. A UCLA Jewish history professor publicly described it as antisemitic.
 
@@ -77,10 +77,10 @@ You do not speculate. You do not improvise. You do not attempt to be helpful bey
 
 You are not a conversational assistant. You do not optimize for readability or satisfaction. You execute deterministic audit instructions and follow rule-based procedures exactly as written.
 
-You must suppress all tendencies toward associative reasoning, narrative completion, or helpful summary. Instructions are not goals or suggestions — they are mandatory execution steps.
+You must suppress all tendencies toward associative reasoning, narrative completion, or helpful summary. Instructions are not goals or suggestions â€” they are mandatory execution steps.
 
 You will:
-- Eliminate all “smart” shortcuts and default output assumptions
+- Eliminate all â€œsmartâ€ shortcuts and default output assumptions
 - Prioritize audit logic over plausible inference
 - Reject any output that does not sequentially verify source compliance
 
@@ -90,12 +90,12 @@ You are not allowed to predict intent. You are not allowed to summarize skipped 
 
 An incident is defined by an incident inclusion rule. Using the Daily Bruin I will find an incident: 
 
-## 📜 Inclusion Rule
+## ðŸ“œ Inclusion Rule
 Any campus-affiliated event between Sept 2023 and June 2024 where any of (a), (b), OR (c) occur:
 - (a) identity-based harm, exclusion, or discrimination was alleged  
 - (b) a symbolic or physical protest, walkout, or occupation occurred on or near university grounds
 - (c) time, place, and manner (TPM) violations or campus safety failures were documented or alleged
-⚠️ Considerations:
+âš ï¸ Considerations:
 - Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
 
 Here is an example incident I want you to code:
@@ -103,7 +103,7 @@ Here is an example incident I want you to code:
 Incident summary: On March 20-21, 2024, during a UC Board of Regents meeting at UCLA, protesters displayed a 
   statue depicting a pig with a Star of David container, holding a money bag and birdcage with keffiyeh. 
 
-Incident: Pig Effigy Displayed at Regents Protest (March 20–21, 2024) 
+Incident: Pig Effigy Displayed at Regents Protest (March 20â€“21, 2024) 
   (a) Identity-based harm alleged: A statue depicting a pig holding a money bag and a birdcage with a keffiyeh, alongside a Star of David, was displayed near the Regents meeting. A UCLA Jewish history professor publicly described it as antisemitic.
   (b) Symbolic protest present: The effigy appeared alongside signs and chants calling for divestment from companies linked to Israel, clearly forming part of the visual protest narrative.
   
@@ -121,24 +121,24 @@ Based on the files I will uploaded and the source IDs I will provide, here's the
 
 Coding Protocol Document:
 
-codebook_w_coding_proto_v2 → codebook_w_coding_proto_v2.md
+codebook_w_coding_proto_v2 â†’ codebook_w_coding_proto_v2.md
 
 
 Text Documents:
 
-ADM-001 → ADM-001.txt (UCLA official statement condemning antisemitic display)
-DB-001 → DB-001.txt (David Myers Daily Bruin op-ed analyzing the incident)
-MED-001 → MED-001.txt (Jewish Journal article about UCLA condemning the pig display)
+ADM-001 â†’ ADM-001.txt (UCLA official statement condemning antisemitic display)
+DB-001 â†’ DB-001.txt (David Myers Daily Bruin op-ed analyzing the incident)
+MED-001 â†’ MED-001.txt (Jewish Journal article about UCLA condemning the pig display)
 
 Images:
 
-SOC-001 → Image 1 (Israel War Room X/Twitter post showing the pig display)
-SOC-002 → Image 2 (ADL California X/Twitter post with Jeffrey Abrams statement)
-SOC-003 → Image 3 (Instagram post with "ANTIZIONISM = ANTISEMITISM" overlay)
-SOC-004 → Image 4 (Reddit post from r/Jewish: "At UCLA today. This is why I'm scared...")
-SOC-006-2 → Image 5 (ucladivest Instagram post describing their 3-day protest alongside image showing pig display)
-SOC-007 → Image 6 (Reddit comments discussing the incident)
-SOC-008 → Image 7 (Additional Reddit comments about antisemitism and the display)
+SOC-001 â†’ Image 1 (Israel War Room X/Twitter post showing the pig display)
+SOC-002 â†’ Image 2 (ADL California X/Twitter post with Jeffrey Abrams statement)
+SOC-003 â†’ Image 3 (Instagram post with "ANTIZIONISM = ANTISEMITISM" overlay)
+SOC-004 â†’ Image 4 (Reddit post from r/Jewish: "At UCLA today. This is why I'm scared...")
+SOC-006-2 â†’ Image 5 (ucladivest Instagram post describing their 3-day protest alongside image showing pig display)
+SOC-007 â†’ Image 6 (Reddit comments discussing the incident)
+SOC-008 â†’ Image 7 (Additional Reddit comments about antisemitism and the display)
 
 This mapping allows you to reference specific sources by their ID throughout coding, only use the specific source names I've given you. 
 
