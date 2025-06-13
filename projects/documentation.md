@@ -118,16 +118,30 @@ permalink: /projects/documentation/
 
 	- test base script ✔️
 
-	- check base script output
+	- check base script output ✔️
 
-	- add a function for input of codebook, protocol (expect large docs), definitions, and summary
+	- add a function for input of codebook, protocol (expect large docs), definitions, and summary ✔️
 
 		- these are system messages: you need to be clear about the incident scope, and how to constrain citations to look at information, tone, and commentary directly related to that scope. It is possible to over-constrain that though (I think it occurred on a couple UI runs). If it is over-constrained it takes that command too literally and includes only obviously linked content. 
 
 	- add a function for processing output to 1. logger and 2. YML evidence/justification file (this depends on citations really and how much of it is audit script or COT and how much is the response)
 
-	- optimize base script 
+	- optimize base script ✔️
 
-	- start migrating codebook and protocol to .txt files that the above function would feed in
+	- have a toggle for the bash output, toggle off
+
+	- put the output and the COT into a audit file for now (debug)
+
+	- start putting together proper system role instructions and user directives  (read the incident summary, the scope, code the task, etc.)
+
+		- post-process into a YAML or now, without official citations maybe it can be end-to-end
+
+	- look into caching, or actually implementing caching 
+
+	- start migrating codebook and protocol to .txt files that the above function would feed in (system) 
+
+		- not really needed actually it can read-in markdown fine, just edit (pared down protocol and supply the links to the test_claude.py)
+
+	- Put the POL documents in as well (system? set it up so it can quote from system)
 
 
