@@ -144,4 +144,64 @@ permalink: /projects/documentation/
 
 	- Put the POL documents in as well (system? set it up so it can quote from system)
 
+- Suppress output to git bash, output directly to file
+
+- model_config helps track which model is output to the script (not the api), then output that to track it via the logger
+
+- Because initially testing models + tweaking inputs frequently
+
+	- So use overwrite mode by default, but:
+
+		- Add an optional --versioned flag or config toggle in test_claude.py
+
+		- On --versioned, save outputs to timestamped filenames
+
+		- Always log model + config hash in header so you can trace behavior
+
+- System messages checklist (don't have too many "knobs" it will be difficult to trace back issues)
+
+	- Role 
+	
+	- Citation protocol (may include examples)
+
+	- Definitions
+
+		- Incident definition 
+
+			- summary (its use)
+
+			- scope (its purpose)
+
+		- Source definitions 
+
+		- Codebook definition
+
+		- Protocol definitions 
+
+	- Codebook 
+
+	- Codebook protocol
+
+	- POL + PHIL docs
+
+	- YAML output protocol (may include structured examples)
+
+		- maybe this can just be text that a post-processing script translates into YAML, but still requires structured examples
+
+	-  Validation protocols 
+
+		- Reminds Claude that its outputs will be parsed and checked line-by-line — to help nudge consistent formatting
+
+- User messages checklist 
+
+	- Sources
+
+	- audit instructions (COT thinking, transparency logging)
+
+	- confirmations and verifications
+
+	- task requests "here is an incident I want you to code..."
+
+	- incident id, date, summary, scope 
+
 
