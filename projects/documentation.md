@@ -146,6 +146,16 @@ permalink: /projects/documentation/
 
 - Suppress output to git bash, output directly to file
 
+- Separate the codebook and protocol or combine? Figure out what to do with these files
+
+	- codebook 
+
+	- protocol
+
+	- codebook with protocol
+
+	- codebook with protocol v2
+
 - model_config helps track which model is output to the script (not the api), then output that to track it via the logger
 
 - Because initially testing models + tweaking inputs frequently
