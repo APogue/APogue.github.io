@@ -8,6 +8,8 @@ permalink: /projects/documentation/
 
 - DB scrape by keyword
 
+	- the official "inclusion rule" is the connection between the scrape and the chosen incident articles
+
 - The subset of reddit posts to be used as sources from human-selected batch 
 
 	- Automated check if urls in reddit batch already exist in source_master.yml
@@ -225,11 +227,10 @@ quiet-crawler/
 ├── inputs/                             # Claude API prompt inputs (modular, editable)
 │   ├── system/                             # System-level configuration (shared across all incidents)
 │   │   ├── system_role.txt  ✔️                 # Claude's persona (e.g., "You are an evidence auditor...")
-│   │   ├── citation_protocol.txt ✔️            # How to extract and attribute quotes (format, source ID rules)
-│   │   ├── definitions.txt                   # Incident boundaries, source types, codebook meta-rules
+│   │   ├── justification_protocol.txt ✔️            # How to extract and attribute quotes (format, source ID rules)
+│   │   ├── definitions.txt  ✔️                 # Incident boundaries, source types, codebook meta-rules
 │   │   ├── codebook.md                       # Variable dictionary with descriptions and values
 │   │   ├── codebook_protocol.md              # Logic for applying codebook (e.g., disqualifying evidence checks)
-│   │   ├── yaml_protocol.txt                 # Output format: YAML-in-text + structured examples
 │   │   └── verifications.txt                 # Claude must confirm checklist (e.g. "I have reviewed all sources")
 │   ├── incident/                           # Per-incident user message inputs
 │   │   ├── user_prompt.txt  ✔️                # Task framing for Claude ("Here is an incident I want you to code...")
