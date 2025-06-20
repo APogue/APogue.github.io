@@ -216,6 +216,7 @@ permalink: /projects/documentation/
 
 	- incident id, date, summary, scope 
 
+- verifications output should include the incident scope (in Claude's own words) this is a good audit check and transparency information to log for tracking errors. 
 
 ## Completed (first run)
 

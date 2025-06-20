@@ -12,6 +12,15 @@ Currently just notes, under construction.
 
 ---
 
+### Codebook 
+
+Variable dictionary with descriptions, valid values, and coding notes for each field used in the structured analysis of pre-defined incidents using source material specific to each case. Defines the logic, categories, and thresholds needed to enable consistent cross-incident comparison of oversight responses, involved perspectives, broader community impacts, and public discourse.
+
+Note: In this project, “oversight” refers primarily to institutional supervision and responsibility — the role of administrators, university officials, or governing bodies in monitoring, responding to, or regulating campus incidents.
+
+However, the term carries a second meaning: a failure to notice or act, as in “an oversight led to harm.” This dual meaning is intentional. The same institutions tasked with oversight are often those whose omissions, delays, or blind spots become central to the harm experienced.
+
+This project treats oversight as both a formal role and a potential failure mode — recognizing that what institutions see or fail to see often shapes the outcomes of campus conflict.
 I must be unbiased in this study 
 
 ### Material of interest
