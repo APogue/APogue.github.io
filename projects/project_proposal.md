@@ -12,6 +12,18 @@ Currently just notes, under construction.
 
 ---
 
+### Policy index
+
+The policy index approach isn't just about managing context windows; it's about ensuring rigorous, consistent policy interpretation.
+
+The Core Problem:
+When Claude reads through those massive policy documents in real-time, it might:
+
+- Cherry-pick sections that seem relevant
+- Miss crucial nuances or contradictions
+- Apply different interpretations to similar incidents
+- Take shortcuts based on pattern matching rather than careful analysis
+
 ### Codebook 
 
 Variable dictionary with descriptions, valid values, and coding notes for each field used in the structured analysis of pre-defined incidents using source material specific to each case. Defines the logic, categories, and thresholds needed to enable consistent cross-incident comparison of oversight responses, involved perspectives, broader community impacts, and public discourse.
