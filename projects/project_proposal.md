@@ -28,7 +28,7 @@ My main concern is efficiency, thoroughness, and rigor. There's no reason to pre
 
 ### Audit checkpoints
 
-The api reads back its understanding of the task at checkpoints throughout the coding process. This provides a traceable audit log in the event an incident isn't coded in according to expectations. Attempt to move the system from an end-to-end backbox to something more transparent, and predictable in input/output behavior. 
+The api reads back its understanding of the task at checkpoints throughout the coding process. This provides a traceable audit log in the event an incident isn't coded according to expectations. Attempt to move the system from an end-to-end backbox to something more transparent and predictable with respect to input/output behavior. 
 
 ### Codebook 
 
