@@ -238,3 +238,51 @@ quiet-crawler/
 │   │   ├── audit_instructions.txt ✔️           # Central command points to modules, then requests COT, verification and justification
 
 ```
+
+## Source processing
+
+# Instead of "forget previous variable," do this:
+administrative_response_severity:
+  # Restate the specific focus
+  instruction: "For this variable, focus ONLY on official UCLA administrative statements and actions"
+  # Restate relevant boundaries  
+  timeframe: "Within 7 days of incident"
+  # Restate what to ignore
+
+-----------------------------------------------------
+
+Given this incident: "Students displayed pig effigy with messaging at UC Regents meeting"
+
+Extract sections from ALL provided documents that relate to:
+- Visual displays, effigies, sculptures, or symbolic objects
+- Demonstrations or protests at University events  
+- Religious, ethnic, or national origin content
+- Prior approval requirements for displays
+- Expression and speech of any kind
+- Time, place, and manner regulations
+
+Search equally through:
+- PHIL-001 (free speech document)
+- POL-001 (non-affiliate conduct)  
+- POL-002 (student conduct)
+- POL-003 (anti-discrimination)
+
+Do NOT determine whether conduct is protected or prohibited.
+Do NOT skip documents.
+Extract from ALL documents, even if sections seem contradictory.
+Include complete text of each relevant section.
+When in doubt, include rather than exclude.
+
+```yaml
+extracted_sections:
+  - source: "PHIL-001 Part I"
+    text: "[Full text of relevant section]"
+    
+  - source: "POL-003 Section II.A.1"
+    text: "[Full text of relevant section]"
+    
+  - source: "POL-001 Section 100.004"
+    text: "[Full text of relevant section]"
+
+```
+

@@ -59,6 +59,8 @@ The model’s internal mechanism for determining which parts of the input contex
 attention refresh:
 The deliberate restatement of key instructions, rules, or boundaries during multi-variable coding to ensure the model continues to apply them consistently. Because the model dynamically re-weights the input context for each task, earlier instructions may lose influence over time. Repeating guidance per variable forces the model to re-attend to relevant criteria and prevents drift in interpretation or protocol enforcement. Attention refresh is essential for structured, auditable output in long single-pass runs.
 
+So Claude won't "lose" earlier instructions, but later content can compete for attention. Thus restating key rules is an excellent design approach.
+
 structured memory:
 A persistent, explicitly stored representation of prior knowledge, task state, or parsed content that can be re-injected into future API calls or model runs without reprocessing the original input. Structured memory is typically managed outside the model (e.g., in files or databases) and is used in multi-call workflows, agent systems, or pre-parsed pipelines where long-term consistency across separate model interactions is required.
 
@@ -87,7 +89,13 @@ You send content          | You carry a poster into the building     | Claude re
 Claude uses it in context | Claude pins it to the whiteboard         | It becomes part of the working context window (attention scope)
 Claude focuses on parts   | Claude highlights key sections           | Attention weighting determines which parts influence output
 
+### Prompt-engineering-to-processing strategy for Policy Docs
 
+strategic truncation via targeted extraction (10x smaller context), same analytical power (theoretically if extraction is correct), improves accuracy (less irrelevant content to comb through) and efficiency (faster api-coding call through attention optimization)
+
+This respects Claude's attention actually works. With 100K tokens of policy, even though it can find the relevant parts, there's cognitive overhead in filtering through all that noise. Pre-extraction means the coding phase has a much higher signal-to-noise ratio.
+
+Not about limitations - it's about optimal design. Less noise = better signal processing.
 
 -------------------------------------------------
 
