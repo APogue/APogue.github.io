@@ -39,6 +39,58 @@ Note: In this project, “oversight” refers primarily to institutional supervi
 However, the term carries a second meaning: a failure to notice or act, as in “an oversight led to harm.” This dual meaning is intentional. The same institutions tasked with oversight are often those whose omissions, delays, or blind spots become central to the harm experienced.
 
 This project treats oversight as both a formal role and a potential failure mode — recognizing that what institutions see or fail to see often shapes the outcomes of campus conflict.
+
+### Source processing
+
+To ensure transparency and reproducibility in a single-pass AI audit workflow, this project defines how the Claude model internally processes task-relevant information without explicit content extraction. Because Claude does not store structured memory across steps, its ability to filter sources, isolate in-scope material, and apply variable coding logic relies on internal attention mechanisms. Concepts such as working context, implicit filtering, and pattern matching formalize how the model selects, retains, and reasons with relevant content during a single prompt execution. These definitions provide a functional map of the model’s interpretive behavior, enabling verifiable, quote-based justifications that remain fully bounded within the incident structure (shift the definition for technical review or policy audiences).
+
+working context:
+The active subset of information the model retains and uses during a single pass of processing. Working context is formed through the model’s attention mechanisms, not through explicit memory or data structures. It includes relevant portions of the incident description, coding protocols, and source content that match current task criteria (e.g., incident boundary). Working context allows the model to reason about specific variables without needing to reprint or store filtered content separately.
+
+implicit filtering:
+The model’s process of identifying and attending to in-scope content without extracting or outputting it explicitly. Using internal weighting and relevance scoring, the model suppresses attention to background, unrelated, or out-of-boundary information, and focuses instead on content that aligns with the incident definition. This allows variable coding to occur directly, without a separate source-tagging phase.
+
+pattern matching:
+A dynamic process by which the model compares incoming content (e.g., sentences from a source) to features defined earlier in the prompt — such as actors, locations, timeframes, and incident actions. When a source passage resembles or contains key components from the incident summary and scope, it is treated as relevant and retained in working context. This enables single-pass relevance filtering without formal rule-based parsing.
+
+attention weighting:
+The model’s internal mechanism for determining which parts of the input context are most relevant at each step of generation. All content in the prompt—definitions, instructions, sources—is visible to the model, but each word or phrase is assigned a dynamic weight based on how important it appears for the current task. Higher-weighted content receives more focus, while lower-weighted content is effectively ignored. Attention weighting allows the model to reason over large documents without memorizing or extracting content, by selectively focusing on relevant information during output.
+
+attention refresh:
+The deliberate restatement of key instructions, rules, or boundaries during multi-variable coding to ensure the model continues to apply them consistently. Because the model dynamically re-weights the input context for each task, earlier instructions may lose influence over time. Repeating guidance per variable forces the model to re-attend to relevant criteria and prevents drift in interpretation or protocol enforcement. Attention refresh is essential for structured, auditable output in long single-pass runs.
+
+structured memory:
+A persistent, explicitly stored representation of prior knowledge, task state, or parsed content that can be re-injected into future API calls or model runs without reprocessing the original input. Structured memory is typically managed outside the model (e.g., in files or databases) and is used in multi-call workflows, agent systems, or pre-parsed pipelines where long-term consistency across separate model interactions is required.
+
+API statelessness:
+The Claude API is stateless, meaning each call is treated independently with no memory of previous inputs, outputs, or interactions. The model does not retain information across requests unless the user manually re-injects prior context. To maintain continuity, users must explicitly include all relevant definitions, prior outputs, or task state in the prompt of each API call.
+
+=======================
+Claude Context Metaphor
+=======================
+
+Concept                  | Metaphor                                      | Role in Claude
+------------------------|-----------------------------------------------|---------------------------------------------------------------
+Working context window  | Whiteboard                                    | What Claude actively sees and reasons over during the run
+Tokenized input         | Writing on the whiteboard                     | Must fit within the model’s token limit and is billed at input time
+Attention weighting     | Highlighting parts of the board               | Claude focuses more on relevant content when generating output
+Cached content          | Rolled-up posters stored in the back room     | Backend may avoid reprocessing repeated content to save compute (not user-visible or token-saving by default)
+cache_control: ephemeral| “Leave this poster in the back room for 1 hour”| Claude uses the content during the run; if reused within the expiry window, you can refer to it by handle and avoid re-sending or re-paying for those tokens
+
+===========================
+🧾 Metaphor Clarified: Processing Flow
+===========================
+
+Process                   | Metaphor                                | Behavior in Claude
+--------------------------|------------------------------------------|---------------------------------------------------------
+You send content          | You carry a poster into the building     | Claude receives tokenized input in the API call
+Claude uses it in context | Claude pins it to the whiteboard         | It becomes part of the working context window (attention scope)
+Claude focuses on parts   | Claude highlights key sections           | Attention weighting determines which parts influence output
+
+
+
+-------------------------------------------------
+
 I must be unbiased in this study 
 
 ### Material of interest
