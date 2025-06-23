@@ -24,6 +24,8 @@ When Claude reads through those massive policy documents in real-time, it might:
 - Apply different interpretations to similar incidents
 - Take shortcuts based on pattern matching rather than careful analysis
 
+My main concern is efficiency, thoroughness, and rigor. There's no reason to pre-process the policy docs with any kind of algorithmic, concept mapping. The API was built over a decade by experts to play a role. Why hard-code interpretations in the one area where it excels? It should be allowed to function to the fullest extent of its capabilities where appropriate. 
+
 ### Codebook 
 
 Variable dictionary with descriptions, valid values, and coding notes for each field used in the structured analysis of pre-defined incidents using source material specific to each case. Defines the logic, categories, and thresholds needed to enable consistent cross-incident comparison of oversight responses, involved perspectives, broader community impacts, and public discourse.
