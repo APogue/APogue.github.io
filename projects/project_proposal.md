@@ -67,6 +67,12 @@ A persistent, explicitly stored representation of prior knowledge, task state, o
 API statelessness:
 The Claude API is stateless, meaning each call is treated independently with no memory of previous inputs, outputs, or interactions. The model does not retain information across requests unless the user manually re-injects prior context. To maintain continuity, users must explicitly include all relevant definitions, prior outputs, or task state in the prompt of each API call.
 
+API memory: 
+Within the context window, Claude has perfect access: every character in the context is equally accessible, no decay: the first word is as "fresh" as the last word, exact retrieval: it can quote any passage verbatim. Caveats: it is not photographic memory, sensing patterns may be flawed, attention (or focus) may be directed at incorrect content, connections between various parts of content may be ignored or go unnoticed. But, given the API "memory" model, directions need not be given assuming memory attrition with time, i.e. <thinking>, <verification> functions in task directives can be grouped. The correct handling of the API should focus on areas where Claude may mishandle its "discretion" such as in where it may focus its attention or via critical thinking using content from several sources. 
+
+Source handling optimization:
+No need for repeated verification that something was read, instead, direct attention, force connections, ask for exhaustive search, or argument synthesis. If I want focus to change depending on a step in the process, then call for a re-scan using a specific lens. What this doesn't mean, "re-read Source A, now proceed to variable related to Source A;" what this does mean, "scan Source A for evidence supporting Value A, now scan for evidence contradicting Value A."
+
 =======================
 Claude Context Metaphor
 =======================
