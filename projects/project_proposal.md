@@ -95,13 +95,60 @@ You send content          | You carry a poster into the building     | Claude re
 Claude uses it in context | Claude pins it to the whiteboard         | It becomes part of the working context window (attention scope)
 Claude focuses on parts   | Claude highlights key sections           | Attention weighting determines which parts influence output
 
+===========================
+🧾 Putting the metaphors together
+===========================
+
+Let's tie together the ideas of focus, shift of focus between sequential tasks, and loss of focus on tasks that were several tasks ago. We will shift the idea from highlighting to a "spotlight" to emphasize how the light "moves" with focus, it isn't naturally permanent like highlighting. 
+
+The Whiteboard = The entire context window
+
+- Everything remains permanently visible: instructions, sources, <thinking> outputs
+- No memory decay - first word as accessible as last word
+- Like having all documents spread on a large table
+
+Attention Weighting = Dynamic importance scoring
+
+- Every piece of content gets an importance score for the current task
+- Not binary (on/off) but graduated (0% to 100% relevant)
+- Changes with each new generation task (i.e. I do not need to ask Claude to remove "highlighting")
+
+The Spotlight = Where attention is highly weighted right now
+
+- Subset of whiteboard content with high attention weights
+- Moves based on current task
+- Previous "spotlit" areas return to normal weighting
+
+How These Work Together:
+
+Boundary Scan Task:
+
+- Spotlight highlights: dates, actors, locations across all sources
+- Output: <thinking>Boundary: March 19-21 effigy incident</thinking>
+- This thinking goes ON the whiteboard permanently
+
+
+Next Task (find harassment evidence):
+
+- Spotlight shifts to harassment-related content
+- Previous boundary thinking remains on whiteboard at lower weight
+- Can reference it: "Within the boundary..." → spotlight briefly includes both
+
+
+Variable #15 (much later):
+
+- Original instructions still on whiteboard but may have low attention weight
+- Recent analysis has higher weight (proximity bias)
+- Attention refresh: "Remember: March 19-21 only" → re-weights original rules
+
+
 ### Prompt-engineering-to-processing strategy for Policy Docs
 
-strategic truncation via targeted extraction (10x smaller context), same analytical power (theoretically if extraction is correct), improves accuracy (less irrelevant content to comb through) and efficiency (faster api-coding call through attention optimization)
+Strategic truncation via targeted extraction (10x smaller context), same analytical power (theoretically if extraction is correct), improves accuracy (less irrelevant content to comb through) and efficiency (faster api-coding call through attention optimization)
 
-This respects Claude's attention actually works. With 100K tokens of policy, even though it can find the relevant parts, there's cognitive overhead in filtering through all that noise. Pre-extraction means the coding phase has a much higher signal-to-noise ratio.
+This respects Claude's attention actually works. With 100K tokens of policy, even though it may find all relevant parts, there's cognitive overhead in filtering through all that noise. Pre-extraction means the coding phase has a much higher signal-to-noise ratio.
 
-Not about limitations - it's about optimal design. Less noise = better signal processing.
+To design optimally, less noise means better signal processing.
 
 -------------------------------------------------
 
