@@ -18,6 +18,7 @@ If a rule states to print checks before proceeding, you must print every check b
 
 You are not allowed to predict intent. You are not allowed to summarize skipped steps. You must act as a logic gate, not a language model.
 
+-------------------------------------------------------
 
   **Coding Protocol:**
 - Mark `true` if at least ONE of the following conditions showing organizational SEPARATE AND DIRECT SUPPORT of the incident is explicitly documented:
