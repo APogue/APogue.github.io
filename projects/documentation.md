@@ -134,7 +134,7 @@ permalink: /projects/documentation/
 
 	- put the output and the COT into a audit file for now (debug)
 
-	- start putting together proper system role instructions and user directives  (read the incident summary, the scope, code the task, etc.)
+	- start putting together proper system role instructions and user directives  (read the incident summary, the scope, code the task, etc.) ✔️
 
 		- post-process into a YAML or now, without official citations maybe it can be end-to-end
 
@@ -160,6 +160,8 @@ permalink: /projects/documentation/
 
 - model_config helps track which model is output to the script (not the api), then output that to track it via the logger
 
+	- this will just be output to a logger, no separate model config input file (see points below)
+
 - Because initially testing models + tweaking inputs frequently
 
 	- So use overwrite mode by default, but:
@@ -172,11 +174,11 @@ permalink: /projects/documentation/
 
 - System messages checklist (don't have too many "knobs" it will be difficult to trace back issues)
 
-	- Role 
+	- Role ✔️
 	
-	- Citation protocol (may include examples)
+	- Citation protocol (may include examples) ✔️
 
-	- Definitions
+	- Definitions ✔️
 
 		- Incident definition 
 
@@ -192,15 +194,15 @@ permalink: /projects/documentation/
 
 	- Codebook 
 
-	- Codebook protocol
+	- Codebook + protocol
 
-	- POL + PHIL docs
+	- POL + PHIL docs (this will require a pre-process to condense material)
 
 	- YAML output protocol (may include structured examples)
 
 		- maybe this can just be text that a post-processing script translates into YAML, but still requires structured examples
 
-	-  Validation protocols 
+	-  Validation protocols (only necessary if I want to refer Claude to a repeating verification set)
 
 		- Reminds Claude that its outputs will be parsed and checked line-by-line — to help nudge consistent formatting
 
@@ -208,15 +210,13 @@ permalink: /projects/documentation/
 
 	- Sources
 
-	- audit instructions (COT thinking, transparency logging)
+	- audit instructions (COT thinking, transparency logging) ✔️
 
 	- confirmations and verifications
 
-	- task requests "here is an incident I want you to code..."
-
 	- incident id, date, summary, scope 
 
-- verifications output should include the incident scope (in Claude's own words) this is a good audit check and transparency information to log for tracking errors. 
+- verifications output should include the incident scope (in Claude's own words) this is a good audit check and transparency information to log for tracking errors. ✔️
 
 ## Completed (first run)
 
@@ -234,8 +234,7 @@ quiet-crawler/
 │   │   ├── codebook_protocol.md              # Logic for applying codebook (e.g., disqualifying evidence checks)
 │   │   └── verifications.txt                 # Claude must confirm checklist (e.g. "I have reviewed all sources")
 │   ├── incident/                           # Per-incident user message inputs
-│   │   ├── user_prompt.txt  ✔️                # Task framing for Claude ("Here is an incident I want you to code...")
-│   │   ├── audit_instructions.txt ✔️           # Central command points to modules, then requests COT, verification and justification
+│   │   ├── coding_workflow.txt ✔️           # Central command points to modules, then requests COT, verification and justification
 
 ```
 
