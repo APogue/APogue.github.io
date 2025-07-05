@@ -285,3 +285,115 @@ extracted_sections:
 
 ```
 
+## Quiet-Crawler Claude Pipeline – Component Workflow
+==================================================
+
+🔹 1. doc_loader.py
+- Loads source content (e.g., sources/DB-001.txt, sources/POL-003.txt, etc.)
+- Loads system reference files from inputs/system/*.txt or *.md
+- Validates incident metadata and checks that source files exist
+- Provides helpers:
+  - get_incident(incident_id)
+  - load_source_content(source_id)
+  - prepare_sources_for_api(source_ids)
+  - prepare_system_documents(file_paths)
+
+Used by:
+➡️ preprocess_payload.py
+
+🔹 2. preprocess_payload.py
+- Wraps raw content into Claude-ready message/document payload blocks
+- Pass 1: build_policy_condense_prompt(source_id)
+  - Builds a "user" message to summarize a single policy/guidance file
+- Pass 2: build_incident_coding_parts(incident_id, extra_system_paths)
+  - Builds system message + documents + user prompt
+  - Includes static rulebook files and merged policy file if present
+
+Used by:
+➡️ run_pass1_condense_policy.py
+➡️ run_pass2_code_incident.py
+➡️ (indirectly) main.py
+
+🔹 3. claude_api.py
+- Low-level API client for calling Claude
+- Uses Anthropic SDK or raw HTTP to submit payload
+- Returns Claude’s response (e.g., {"completion": ..., "raw_response": ...})
+
+Used by:
+➡️ test_claude.py
+
+🔹 4. test_claude.py
+- Handles Claude interaction during testing phase, API interface layer
+- "Middleman" between 
+		- 🧠 Prompt builders (preprocess_payload.py), 
+		- 📤 Claude client (claude_api.py), 
+		- 🪵 Logging layer (logger.py)
+- Wraps logging + Claude call in a single function:
+
+| Functionality                              | Description                      |
+| ------------------------------------------ | -------------------------------- |
+| Accepts a ready-to-send `payload`          | From `run_pass*.py`              |
+| Logs the `payload` to `outputs/audit_log/` | Using `logger.py`                |
+| Calls Claude via `claude_api.send()`       | API call happens here            |
+| Logs the response to `audit_log/`          | Response `.txt` file             |
+| Returns the Claude `completion`            | For further processing or saving |
+
+- Helps reduce repeated boilerplate in pass scripts
+
+Used by:
+➡️ run_pass1_condense_policy.py
+➡️ run_pass2_code_incident.py
+➡️ main.py
+
+🔹 5. run_pass1_condense_policy.py
+- Script for Pass 1: policy condensation
+- For each given source_id:
+  - Calls build_policy_condense_prompt(source_id)
+  - Sends to Claude via send_prompt()
+  - Saves result to outputs/condensation/condensed_<SOURCE_ID>.txt
+
+🔹 6. run_pass2_code_incident.py
+- Script for Pass 2: incident coding
+- Accepts one incident_id
+- Loads:
+  - incident metadata (source list)
+  - static system prompt files
+  - merged policy summary from: outputs/condensation/INC-001-policy-output.txt
+- Calls build_incident_coding_parts(incident_id, extra_system_paths)
+- Sends to Claude via send_prompt()
+- Saves response to:
+  - outputs/coded_text/INC-001-coded-output.txt (raw response)
+  - outputs/coded_output/INC-001-coded-output.yml (validated YAML)
+
+🔹 7. main.py
+- Orchestrates full pipeline for a given incident
+- Steps:
+  1. Runs Pass 1 on all relevant PHIL-/POL- sources for the incident
+  2. Merges individual condensed_*.txt files into one:
+     outputs/condensation/INC-001-policy-output.txt
+  3. Runs Pass 2 to code the incident using merged policy + incident sources
+
+
+| Step | Description                      | Files                                         |
+| ---- | -------------------------------- | --------------------------------------------- |
+| 1    | Load sources + incident metadata | `doc_loader.py`                               |
+| 2    | Build Claude input (`messages`)  | `preprocess_payload.py`                       |
+| 3    | Send to Claude                   | `test_claude.py`, `claude_api.py`             |
+| 4    | Log inputs/outputs               | `logger.py`                                   |
+| 5    | Run via script                   | `run_pass1_*.py`, `run_pass2_*.py`, `main.py` |
+
+
+| Layer            | Sends to Claude?   | Description                                             |
+| ---------------- | ------------------ | ------------------------------------------------------- |
+| `claude_api.py`  | ✅ Yes              | The only file that directly talks to the Claude API    |
+| `test_claude.py` | ➡️ Wraps it        | Calls `claude_api.send()` and handles logging           |
+| `run_pass*.py`   | ➡️ Triggers it     | Calls `test_claude.send_prompt()` with payload          |
+| `main.py`        | ➡️ Triggers passes | Orchestrates both passes but doesn't call Claude itself |
+
+
+📌 Summary
+
+- run_pass*.py scripts: control the process (prepare → send → save)
+- test_claude.py: executes the process (log → send → log)
+- claude_api.py: actually sends the HTTP/SDK request to Claude
+
