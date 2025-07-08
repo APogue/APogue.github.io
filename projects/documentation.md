@@ -330,6 +330,18 @@ Used by:
 		- 🪵 Logging layer (logger.py)
 - Wraps logging + Claude call in a single function:
 
+```
+           Claude response
+                 |
+             test_claude
+                 |
+          +------+--------+
+          |               |
+   sent to logger     returned to caller
+   (audit_log)        (for final use)
+
+```
+
 | Functionality                              | Description                      |
 | ------------------------------------------ | -------------------------------- |
 | Accepts a ready-to-send `payload`          | From `run_pass*.py`              |
