@@ -409,3 +409,40 @@ Used by:
 - test_claude.py: executes the process (log → send → log)
 - claude_api.py: actually sends the HTTP/SDK request to Claude
 
+## public-facing profile 
+
+Positioning anchor - 
+
+This project pilots a domain-specific audit protocol — not a product, but a replicable methodology for detecting bias in institutional response systems. It begins with a focused case study in higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes. While the current implementation is domain-specific, the framework may inform future oversight efforts in other high-conflict civic contexts, including protest policing and civil rights enforcement.
+
+PhD completed following an approved leave of absence and mid-program lab transition.
+
+PhD coursework and research included robotics, SLAM, nonlinear systems, and communications-derived motion planning.
+
+
+
+| Use                                   | Why It Works                                                                                                                 |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **LinkedIn “About”**                  | It tells people *what you’re doing* and *why it matters*, without overhyping or overpersonalizing                            |
+| **Project page intro**                | It explains the work’s scope, starting point, and potential without sounding like an activist or academic insider            |
+| **Fellowship Statement of Purpose**   | You can expand it slightly to lead your application narrative — it’s your “What’s the project and why now?” opening          |
+| **Bios or email footers**             | Shortened, this becomes: “Building audit tools for institutional bias detection using structured, source-traceable methods.” |
+| **Cold outreach / networking intros** | Use it when someone asks, “So what are you working on?”                                                                      |
+
+
+
+Show your system	Not your story — your outputs. Diagrams, structured fields, methodology docs, incident YAML. Make your rigor visible.
+
+You’re building a reproducible, open framework for measuring administrative bias.
+
+It touches:
+
+- AI trust
+
+- Civil rights
+
+- Transparency
+
+- Higher ed governance
+
+- Public accountability
