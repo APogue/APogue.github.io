@@ -446,3 +446,53 @@ It touches:
 - Higher ed governance
 
 - Public accountability
+
+## project direction
+
+Looking at policy people on linkedIn, they're heavily credentialed, yet I'm unaware of any actual impact. Burying this project in the policy domain is not the way. 
+
+1. Case stud with interviews (narrative component for context)
+
+The goal is to enhance the incident analysis with personalized case context. Interviews serve as narrative bridges and context. 
+
+Task: 
+
+- Pick 1 - 3 incidents (particularly striking)
+
+- Interview people involved
+
+- Use interviews to write a standalone narrative case study (2-4 pages/incident)
+
+	- They aren't data, use the interviews to illuminate patters the data supports
+
+	- But can't lead a subject, the questions should remain neutral but about that individual's experience
+
+2. Journalism Component (Mainstream Advocacy/Awareness)
+
+The goal is to use the project as a launchpad for a journalistic project that makes the problem legible and urgent to the public.
+
+Task: 
+
+- Identify students with contrasting experiences but that tell the same story about administrative failures
+
+- Conduct on-record interviews that tell a comprehensive story (i.e. members from different parts of the community)
+
+	- I personally believe professors will be useless, unless they speak anonymously 
+
+- Collect data in various forms of descriptive media: screenshots, letters, emails, audio snippets
+
+Publish as:
+
+- A longform reported feature 
+
+- A multimedia interactive timeline (data, interviews, sourced documents),
+
+- Or serialize short vignettes via social channels 
+
+This becomes a hybrid product: part data-driven investigative report, part human-centered journalism.
+
+3. To start 
+
+- Interview one person involved in an incident already coded
+
+	- 
