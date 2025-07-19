@@ -495,4 +495,35 @@ This becomes a hybrid product: part data-driven investigative report, part human
 
 - Interview one person involved in an incident already coded
 
-	- 
+- Ask questions about the facts surrounding the incident or include parts they speak on that relate
+
+4. Priorities 
+
+- JULY: 
+
+	- Interviews 
+
+		- Choose incidents
+
+		- Reach out to 5-7 people for interviews now
+
+		- Draft 1-page pitch email and 3-4 open-ended questions per interview
+
+		- Goal: 2-3 interviews by the end of July, transcribed 
+
+			- record on Zoom
+
+	- LinkedIn + Digital identity 
+
+			- Reposition career path 
+
+			- Clean up website
+
+	- Finish the Quiet Crawler code 
+
+	- Code 2-3 incidents 
+
+		- Start with incidents where interviews are likely 
+
+		- Focus on speed and completeness, not perfection. Revise later. 
+
