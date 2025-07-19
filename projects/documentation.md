@@ -619,4 +619,38 @@ This becomes a hybrid product: part data-driven investigative report, part human
 
 - But it must stay on task. I think "why didn't you engage with CAC, was it based on philosophical differences?" is okay. It's even okay to ask what that philosophy was, and perhaps what they believed CAC's philosophy was at the time, especially because this context is totally relevant. CAC is a part of USAC. 
 
-- Macklemore's film was about these students, and how they clashed with the univeristy. My story needs to be about the incidents, and how the university clashed with the students. There was far too much creative license (imo) when it came to the macklemore film. It was dramatized for the purpose of telling the audience the pro-palestine mission. My purpose is to remove the shackles on free speech. That alone is the purpose. 
+- Macklemore's film was about these students, and how they clashed with the univeristy. My story needs to be about the incidents, and how the university clashed with the students. There was far too much creative license (imo) when it came to the macklemore film. It was dramatized for the purpose of telling the audience the pro-palestine mission. My purpose is to remove the shackles on free speech. That alone is the purpose.
+
+- "are you a Zionist?" was an incident, but is the take on the word "Zionist" relevant? Unclear, honestly. We're getting into an "opportunity for students to explain themselves" here, and that is not the direction I want to go. "Do you believe different students define Zionist in different ways?" "Do you believe it contributes to x,y,z divide or x,y,z incident?" "What are your thoughts on the UC criticism of Israel policy?"
+
+7. Interview and larger piece goals
+
+- I was concerned in the past that I couldn't connect incidents, or you couldn't find "intent." Well I can't, but I can paint a picture that shows that deliberate indifference, or negligence, created an environment that exploded prior to April of 2025. 
+
+- I have the coding now, this is about incidents, admin response, how it affected students, and how it may or may not have lead to later incidents. 
+
+	- The missing connector may be the student experiences, and any details they may have regarding facts around incidents 
+
+	- I need to find out what I need to know, to fill some holes, or to put things in some kind of chronological order
+
+- Coded incidents reveal who acted, how the admin responded, and whether there was bias. The drama - differences around meaning, identity, and belonging - is why people acted at all. 
+
+- Bridge between warring insiders and a curious, wary public
+
+- This is also america-first, which means no one here is at fault for anything happening elsewhere in the world (no student)
+
+- I am coming in fresh, I have no predisposition wrt to jargon, etc. Many readers might be like me. I want it to be educational, not morally righteous one way or another. 
+
+	- Positionality excerpts: mini-sections 
+
+		What Does “Zionist” Mean Here?
+		We asked 4 people from different sides of the conflict. Here’s how they responded:
+
+			•	A Jewish student involved in Hillel
+			•	A Muslim student organizer
+			•	A non-affiliated observer
+			•	A faculty member or admin
+
+		This treats “drama” as a legitimate epistemological ambiguity—not gossip.
+
+- Be transparent about the dual goal: documenting facts and understanding how this year unfolded in human terms
