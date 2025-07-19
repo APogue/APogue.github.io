@@ -565,12 +565,58 @@ This becomes a hybrid product: part data-driven investigative report, part human
 
 		- 10 coded incidents, 2-3 human stories, a coherent narrative about a project's policy and public implications 
 
-5. Overall goal
+5. Overall goal (current logistics + career)
 
 - Form the two human-interest approaches into sequential layers
 
+	- Can take an event, and code it as a source of "data" but give it weight using a journalistic writeup - same event, different framing, broader reach
+
 - Start with case study + interview route to introduce myself, capture disappearing memories, and enrich my dataset. Then use the interviews and findings as the basis for journalism-facing narrative that reaches the broader public. 
 
-	- The case study shows rigor and structure (fellowship and polcy credibiltiy)
+	- The case study shows rigor and structure (fellowship and polcy credibiltiy) "I built a replicable incident dataset grounded in firsthand testimonies..."
 
-	- The journalism narrative shows urgency and humanity (accessibility for general audiences and editors) 
+	- The journalism narrative shows urgency and humanity (accessibility for general audiences and editors) and provides a publishable product to generate outsider awareness and to point to when networking. 
+
+- Why a fellowship if not necessarily for funding: 
+
+	- Validate my work publically 
+
+	- Offer institutional affiliation and credibility 
+
+	- Build a network of people working on aligned problems
+
+	- Money 
+
+- Why a fellowship can help my career trajectory - a fellowship is a career multiplier 
+
+	- I want to change fields from an eng PhD to public-interest AI/policy/journalism
+
+	- I'm building something hybrid (data + story + law or journalism + data + civil rights)
+
+	- I have no network
+
+	- A fellowship can open a door if I'm lacking a traditional resume, will allow me to build a name around a project, not just past roles, place me in a cohort or ecosystem where influential people can see my work 
+
+	- A fellowship should assist with a hybrid contribution so that it doesn't get lost, doesn't get siloed, and can ppen doors to larger stages (e.g. testimony, coalition-building, public writing)
+
+6. What I want out of this project
+
+- A balance between narrative coherence and epistemic rigor
+
+- But "How do I capture a multi-incident arc—where the same players reappear, clash, and evolve—without slipping into partiality, hero-making, or flattening nuance?" 
+
+	- It is important that I stick to "incidentness," I can't paint these people's emotions or try to see their spirit. This is my strongest skill and yet it is somehow useless in this project. 
+
+	- Can I trace arcs across incidents while PROTECTING DATA OBJECTIVITY?
+
+	- Can I see if someone was radicalized over time? Did they lose trust in the admin over time? Were their voices being suppressed? 
+
+	- But their theories, their desires, their mission, unless related to an incident, or an admin response to that incident, is irrelevant. 
+
+- Early interviews asks them narrowly for their perspective one one or two incidents
+
+- After trust is built, circle back "You saw a lot this year - can we talk about the bigger picture?" 
+
+- But it must stay on task. I think "why didn't you engage with CAC, was it based on philosophical differences?" is okay. It's even okay to ask what that philosophy was, and perhaps what they believed CAC's philosophy was at the time, especially because this context is totally relevant. CAC is a part of USAC. 
+
+- Macklemore's film was about these students, and how they clashed with the univeristy. My story needs to be about the incidents, and how the university clashed with the students. There was far too much creative license (imo) when it came to the macklemore film. It was dramatized for the purpose of telling the audience the pro-palestine mission. My purpose is to remove the shackles on free speech. That alone is the purpose. 
