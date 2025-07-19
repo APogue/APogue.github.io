@@ -451,7 +451,7 @@ It touches:
 
 Looking at policy people on linkedIn, they're heavily credentialed, yet I'm unaware of any actual impact. Burying this project in the policy domain is not the way. 
 
-1. Case stud with interviews (narrative component for context)
+1. Case study with interviews (narrative component for context)
 
 The goal is to enhance the incident analysis with personalized case context. Interviews serve as narrative bridges and context. 
 
@@ -499,7 +499,7 @@ This becomes a hybrid product: part data-driven investigative report, part human
 
 4. Priorities 
 
-- JULY: 
+- July: (preseve and package phase)
 
 	- Interviews 
 
@@ -527,3 +527,50 @@ This becomes a hybrid product: part data-driven investigative report, part human
 
 		- Focus on speed and completeness, not perfection. Revise later. 
 
+- August (in-person leverage phase)
+
+	- In-person interviews
+
+	- 5-6 total incidents
+
+- September (synthesis and applications phase)
+
+	- First case-study plus story combo
+
+		- One incident with narrative intro, quotes, and codebook-backed analysis
+
+		- Goal: publish it
+
+	- Draft fellowship application materials
+
+		- Mozilla, Berkman Klein Assembly, Public Interest Technology, Ford Foundation Emerging Voices 
+
+	- 10 incidents (or 7 + 3 WIP) by end of September 
+
+- October (visibility and validation phase)
+
+	- Follow-up interviews or quotes
+
+		- Ask for permission to use names or anonymize 
+
+		- Present early findings to contacts
+
+	- Ask for "insider feedback"
+
+		- 2-3 trusted allies to review pre-release material
+
+		- Get feedback: accuracy, credibility, impact
+
+	- Apply to fellowships with progress in hand
+
+		- 10 coded incidents, 2-3 human stories, a coherent narrative about a project's policy and public implications 
+
+5. Overall goal
+
+- Form the two human-interest approaches into sequential layers
+
+- Start with case study + interview route to introduce myself, capture disappearing memories, and enrich my dataset. Then use the interviews and findings as the basis for journalism-facing narrative that reaches the broader public. 
+
+	- The case study shows rigor and structure (fellowship and polcy credibiltiy)
+
+	- The journalism narrative shows urgency and humanity (accessibility for general audiences and editors) 
