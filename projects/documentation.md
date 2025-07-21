@@ -660,22 +660,6 @@ This becomes a hybrid product: part data-driven investigative report, part human
 Looking to position myself as a serious researcher/technologist rather than an activist, emphasize the reproducible/scalable nature of my work, and clearly signal my career pivot while leveraging my technical credentials. The tone is professional but accessible, avoiding both hype and excessive humility.
 
 
-I'm engineering measurement systems for previously unmeasurable phenomena---building audit tools that detect patterns of inequity in how institutions respond to critical incidents.
-
-My current work pilots an AI-driven audit protocol that uses source-traceable methods to systematically detect bias in institutional response systems. I'm applying this framework in a comprehensive case study of higher education, where incident response data provides a well-bounded testing ground for evaluating oversight and accountability processes.
-
-My research bridges technical rigor with public accountability---creating reproducible frameworks that help institutions measure and improve response equity, while providing civil rights organizations with evidence-based tools for documenting disparate treatment.
-
-My approach combines:
-
-- Structured incident analysis with transparent, rules-based coding
-- AI-assisted auditing (Claude API) for scalable, consistent evaluation
-- Human-centered interviews to provide context beyond data
-- Open-source frameworks designed for adaptation across sectors
-
-I have a Ph.D. in robotics, with a technical background in SLAM, nonlinear systems, and communications-derived motion planning. I'm now pivoting toward public-interest technology, with a focus on auditable AI methods, civil rights enforcement, and institutional accountability.
-
-I'm currently seeking opportunities in public-interest technology and AI policy, particularly fellowships or roles where I can expand this methodology within higher education. The long-term goal of my work is to make accountability systems measurable, reproducible, and actionable across sectors.
 
 
 
