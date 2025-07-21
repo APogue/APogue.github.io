@@ -4,8 +4,66 @@ title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue
 date: 2024-11-21 12:42 PM
-updated_date: 2025-5-2 9:31 PM
+updated_date: 2025-7-21 1:52 PM 
 ---
+
+### July 
+
+
+🔹 Message Template (adaptable for text, email, or DM)
+Hey [Name],
+I’m a UCLA grad working on a project documenting how students experienced protest and administrative responses over the past year. I’m not affiliated with any orgs, and I’m not here to endorse or oppose anyone—I’m trying to understand what happened from the perspective of those who lived it.
+
+I’d really value the chance to hear your reflections—not as a soundbite, but in your own words. I’m especially interested in how language, identity, and protest interacted in ways that outsiders often miss.
+
+If you’re open to talking (on or off the record), I’d be grateful. Even one conversation would help me make this work more grounded and honest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 
 ### To any student
 I don't know why I'm so surprised by the muted response to some incidents that occurred or the lack of response from the university or the greater community, I myself was very surprised by some of the admin statements, or that a study may conclude bias is occurring at UCLA. I suppose my "unique" reaction could be dismissed as naivete, maybe I don't know "how the world works," but my opinion really doesn't matter. The opinion of the people directly affected by this administration matters. Do you believe, if bias is occurring at UCLA, that it should just be dismissed? And more importantly, if you knew this is how you or your peers would be treated, would you still have chosen to come to UCLA?
