@@ -659,8 +659,229 @@ This becomes a hybrid product: part data-driven investigative report, part human
 
 Looking to position myself as a serious researcher/technologist rather than an activist, emphasize the reproducible/scalable nature of my work, and clearly signal my career pivot while leveraging my technical credentials. The tone is professional but accessible, avoiding both hype and excessive humility.
 
+## Website overhaul 
+
+Clear, professional and functional---some parts may be placeholders---so I can confidently share it when reaching out for interviews and collaboration. 
+
+✅ Home Page (already live, likely index.html)
+
+Title:
+
+- Building AI Audit Tools for Institutional Accountability
+
+Summary block (adapted from LinkedIn):
+
+- I design source-traceable AI systems that detect patterns of inequity in how institutions respond to critical incidents.
+
+	My current project pilots a reproducible audit framework combining AI-assisted analysis, structured coding, and open-source tooling — with a case study focused on higher education.
+
+CTA:
+
+🔗 Project Overview • 📄 CV • ✉️ Contact me to collaborate or share your experience
+
+---------------------------------------------------------------------------------------------------------------------------
+
+🗂 Projects Page (create as projects/index.md or projects.md)
+
+This is the main hub for your audit tool work.
+
+Sections:
+
+1. Project Overview
+
+- Summary from LinkedIn ("I'm engineering measurement systems..." etc.)
+
+- List bullets:
+
+	- Source-traceable audit system
+
+	- Claude API + structured protocols
+
+	- Tested on real incidents at UCLA
+
+	- Reproducible YAML outputs + policy trace
+
+	- Forthcoming: cross-sector demo
+
+2. Methodology (link out to codebook)
+
+- One-paragraph summary
+
+- Button: 📖 Read the Codebook
+→ /projects/codebook_w_coding_proto_v2/
+
+3. System Architecture
+
+- Include diagram or markdown bullet sketch:
+
+	- Incident ➝ Source Trace ➝ Claude API ➝ Coded YAML ➝ Analysis
+
+4. Early Results (or placeholder)
+
+- Coming soon: initial visualizations of disparity patterns across incidents coded from 2023–24.
+
+5. Pilot Dataset
+
+- You could embed a cleaned incident_data.yml preview with 1–2 records.
+
+- Optional: table or YAML viewer plugin
+
+6. Demo (placeholder)
+
+- A walkthrough demo is in progress. Email me if you’d like early access or wish to participate in testing.
+
+- Publish your project as a public dashboard or interactive report → credibility boost
+
+- A multimedia interactive timeline if you're feeling ambitious (data, interviews, sourced documents)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+🗂 Projects Page (extras)
+
+Overview
+
+- This project develops source-traceable audit systems to measure institutional response equity — using AI-assisted analysis, structured incident coding, and reproducible outputs.
+
+Approach
+
+- The framework uses a rigorously defined variable schema and coding logic to classify institutional responses across dimensions like policy enforcement, tone, and support. All classifications are evidence-bound and traceable to original sources.
+
+	While full protocols are internal, a redacted methodology is available upon request for collaborators, funders, or ethics reviewers.
+
+System Architecture
+
+- Incident ➝ Source Trace ➝ Claude API ➝ Structured YAML ➝ Analysis Layer
+
+Pilot Results
+
+Keep placeholder or include high-level findings:
+
+- Early findings suggest disparity patterns in how institutions enforce policies based on the perceived identity of protest actors.
+
+Dataset
+
+- Preview incident_data.yml with sensitive fields redacted. Only show:
 
 
+- id: INC-001
+  date: 2024-04-01
+  summary: Student protest met with administrative silence after alleged discriminatory targeting.
+  visibility: high
+  coded_fields: redacted
 
+Demo
 
+No code exposure — just a note:
+
+- A guided demo is available for trusted collaborators or partners under NDA.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+🧪 Code / Tools Page
+List your GitHubs:
+
+- quiet-crawler
+→ with a one-liner like:
+
+	Claude-integrated audit pipeline for bias detection in institutional responses
+	🔗 View GitHub
+
+- Personal Website
+
+	Jekyll-powered, clean-structured public-facing research site
+	🔗 View GitHub
+
+---------------------------------------------------------------------------------------------------------------------------
+
+🗣 Interviews Page 
+
+Plan for:
+
+- Share Your Story
+	
+	I'm currently gathering first-hand accounts from students, faculty, and administrators about how their institutions responded to critical incidents. These interviews help provide human context to the coded data.
+
+	💬 Reach out securely
+
+---------------------------------------------------------------------------------------------------------------------------
+
+📎 Footer Elements
+
+- CV link (PDF or Notion if you want version control)
+
+- Email or contact form
+
+- GitHub + LinkedIn icons
+
+- Disclaimer if needed (esp. if you’re doing sensitive work)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+✅ Actionable Today
+
+Minimum viable launch checklist:
+
+- Add a projects.md or projects/index.md with:
+
+	- Overview
+
+	- Method summary
+
+	- Codebook link (not ready to share this)
+
+		- Codebook is the IP. It encodes the operational logic, enforcement thresholds, and evidence standards — basically the engine of my audit method. This will stay private. I can open source it when it is complete and fully functioning. 
+
+	- Placeholder for results/demo
+
+- Link your GitHub
+
+- Link your CV
+
+- Link your LinkedIn
+
+- Set up basic homepage text + call to action
+
+---------------------------------------------------------------------------------------------------------------------------
+
+I will keep code and methodology closed while I finish it, especially under these conditions:
+
+- Self-funded
+
+- The work involves complex enforcement logic
+
+- Building a system where premature use or misunderstanding could undermine its credibility
+
+- I have long-term open-source intent
+
+✅ This is aligned with best practices in:
+
+- Open science / open-source philosophy → Open when it’s ready, not before.
+
+- Responsible AI auditing → You don’t release logic until it’s validated and safe to use.
+
+- Academic integrity → Peer reviewers get internal access under review agreements; general release happens once it's stable.
+
+- Software development norms → Many respected tools (e.g. PyTorch, HuggingFace, Signal) began as closed/internal before public launch.
+
+## Open-Source Commitment
+
+This project is being developed with a strong commitment to open-source principles.
+
+The audit framework, once finalized and validated, will be released publicly under a permissive license to support adaptation across civil rights, journalism, and institutional oversight communities.
+
+### ⏳ Why Not Yet?
+
+The core logic and enforcement protocols are still evolving. Premature release could lead to misuse, misinterpretation, or dilution of accountability thresholds.
+
+Until then, vetted collaborators may request access to specific modules (e.g., output formats, redacted examples, data schemas) under informal or formal review agreements.
+
+**🛠 Open release is planned for:** *upon completion of the UCLA case study + audit validation layer.*
+
+If you’re interested in contributing to testing or ethics review, [get in touch](mailto:your@email).
+
+### Blurb
+
+Long-form (for proposals or application narratives):
+
+I intend to release this audit framework as an open-source tool once its methodology is finalized and validated. At this stage, the core logic remains under development and is not yet ready for public release — both to preserve the integrity of enforcement thresholds and to prevent premature or inconsistent reuse. I'm funding this work independently and balancing rigor with sustainability, but I remain committed to transparency and eventual open access. I welcome collaboration, ethics review, and feedback under limited access agreements in the meantime.
 
