@@ -689,50 +689,50 @@ Sections:
 
 1. Project Overview
 
-- Summary from LinkedIn ("I'm engineering measurement systems..." etc.)
+	- Summary from LinkedIn ("I'm engineering measurement systems..." etc.)
 
-- List bullets:
+	- List bullets:
 
-	- Source-traceable audit system
+		- Source-traceable audit system
 
-	- Claude API + structured protocols
+		- Claude API + structured protocols
 
-	- Tested on real incidents at UCLA
+		- Tested on real incidents at UCLA
 
-	- Reproducible YAML outputs + policy trace
+		- Reproducible YAML outputs + policy trace
 
-	- Forthcoming: cross-sector demo
+		- Forthcoming: cross-sector demo
 
 2. Methodology (link out to codebook)
 
-- One-paragraph summary
+	- One-paragraph summary
 
-- Button: 📖 Read the Codebook
-→ /projects/codebook_w_coding_proto_v2/
+	- Button: 📖 Read the Codebook
+	→ /projects/codebook_w_coding_proto_v2/
 
 3. System Architecture
 
-- Include diagram or markdown bullet sketch:
+	- Include diagram or markdown bullet sketch:
 
-	- Incident ➝ Source Trace ➝ Claude API ➝ Coded YAML ➝ Analysis
+		- Incident ➝ Source Trace ➝ Claude API ➝ Coded YAML ➝ Analysis
 
 4. Early Results (or placeholder)
 
-- Coming soon: initial visualizations of disparity patterns across incidents coded from 2023–24.
+	- Coming soon: initial visualizations of disparity patterns across incidents coded from 2023–24.
 
 5. Pilot Dataset
 
-- You could embed a cleaned incident_data.yml preview with 1–2 records.
+	- You could embed a cleaned incident_data.yml preview with 1–2 records.
 
-- Optional: table or YAML viewer plugin
+	- Optional: table or YAML viewer plugin
 
 6. Demo (placeholder)
 
-- A walkthrough demo is in progress. Email me if you’d like early access or wish to participate in testing.
+	- A walkthrough demo is in progress. Email me if you’d like early access or wish to participate in testing.
 
-- Publish your project as a public dashboard or interactive report → credibility boost
+	- Publish your project as a public dashboard or interactive report → credibility boost
 
-- A multimedia interactive timeline if you're feeling ambitious (data, interviews, sourced documents)
+	- A multimedia interactive timeline if you're feeling ambitious (data, interviews, sourced documents)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
