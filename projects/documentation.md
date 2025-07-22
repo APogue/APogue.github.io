@@ -683,7 +683,7 @@ CTA:
 
 🗂 Projects Page (create as projects/index.md or projects.md)
 
-This is the main hub for your audit tool work.
+This is the main hub for audit tool work.
 
 Sections:
 
@@ -722,7 +722,7 @@ Sections:
 
 5. Pilot Dataset
 
-	- You could embed a cleaned incident_data.yml preview with 1–2 records.
+	- Could embed a cleaned incident_data.yml preview with 1–2 records.
 
 	- Optional: table or YAML viewer plugin
 
@@ -730,9 +730,9 @@ Sections:
 
 	- A walkthrough demo is in progress. Email me if you’d like early access or wish to participate in testing.
 
-	- Publish your project as a public dashboard or interactive report → credibility boost
+	- Publish my project as a public dashboard or interactive report → credibility boost
 
-	- A multimedia interactive timeline if you're feeling ambitious (data, interviews, sourced documents)
+	- A multimedia interactive timeline (data, interviews, sourced documents)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -744,7 +744,7 @@ Overview
 
 Approach
 
-- The framework uses a rigorously defined variable schema and coding logic to classify institutional responses across dimensions like policy enforcement, tone, and support. All classifications are evidence-bound and traceable to original sources.
+- The framework uses a rigorously defined variable schema and coding logic to classify institutional responses across dimensions like policy enforcement, tone, and support. All classifications are evidence-based and traceable to original sources.
 
 	While full protocols are internal, a redacted methodology is available upon request for collaborators, funders, or ethics reviewers.
 
@@ -778,6 +778,7 @@ No code exposure — just a note:
 ---------------------------------------------------------------------------------------------------------------------------
 
 🧪 Code / Tools Page
+
 List your GitHubs:
 
 - quiet-crawler
@@ -885,3 +886,103 @@ Long-form (for proposals or application narratives):
 
 I intend to release this audit framework as an open-source tool once its methodology is finalized and validated. At this stage, the core logic remains under development and is not yet ready for public release — both to preserve the integrity of enforcement thresholds and to prevent premature or inconsistent reuse. I'm funding this work independently and balancing rigor with sustainability, but I remain committed to transparency and eventual open access. I welcome collaboration, ethics review, and feedback under limited access agreements in the meantime.
 
+## Overall theme
+
+Systematic analysis of the systemic effects of institutions that use power-based methods to achieve their ends. I.e. how can activity that is "lawful" in effect draw our constitutional democracy away from a liberal democracy and towards things like oligarchy? (that can be the general interest without sounding like an activist). Basically how do de-facto power systems exploit our constitutional democracy so that it loses its effective purpose? (to be a liberal democracy). 
+
+e.g. defunding the DOE could lead to the privatization of civil rights enforcement 
+
+A practical policy pipeline shouldn't be so abstract and it shouldn't be so theoretical: 
+
+- gather data - systematic analysis - raise awareness - determine consensus - fix the issue 
+
+## Research Page Structure
+
+## 1. Lead with Impact (30-second pitch)
+
+> Start with a concise statement that immediately communicates what you're building and why it matters:
+
+> "Building transparent audit tools to detect bias in institutional oversight systems. This pilot framework uses structured incident analysis and AI-assisted coding to reveal patterns in how universities respond to campus conflicts based on group identity."
+
+> The framework uses a rigorously defined variable schema and coding logic to classify institutional responses across dimensions like policy enforcement, tone, and support. All classifications are evidence-based and traceable to original sources.
+
+## 2. The Problem (accessible context)
+
+Frame it in terms anyone can understand:
+
+- When protests happen on campus, who gets protected and who gets punished?
+- How do we know if institutional responses are fair?
+- Current oversight relies on anecdotal evidence or legal complaints filed years later
+
+## 3. The Approach (your innovation)
+
+Highlight what makes your methodology unique:
+
+- **Structured Evidence Collection**: Every incident coded using 20+ variables
+- **Source-Traceable Analysis**: All claims linked to specific documents
+- **AI-Assisted Consistency**: Using Claude API to scale rigorous coding protocols
+- **Open Methodology**: Replicable framework others can adapt
+
+## 4. Current Focus: UCLA Case Study
+
+Present this as a proof-of-concept:
+
+- Analyzing 60+ incidents from 2023-2024
+- Comparing administrative responses across different affected groups
+- **Testing whether severity, visibility, or group identity best predicts institutional action**
+
+## 5. Technical Implementation (for policy/tech audience)
+
+Brief overview with links to:
+
+- Codebook (your structured variable system)
+- Sample coded incident (show the rigor)
+- GitHub repo (if public)
+- Break up the would-be peer reviewed paper into individual sections: 
+	- Technical blog post on Claude API implementation
+	- Policy blog post on the current art wrt structured, qualitative coding (like a background/literature review)
+
+## 6. Broader Applications
+
+Show you're thinking beyond one campus:
+
+- Protest policing accountability
+- Civil rights enforcement monitoring  
+- Corporate DEI audit frameworks
+- Any context where institutional bias needs systematic measurement
+
+## 7. Get Involved
+
+Clear calls-to-action:
+
+- "Interview participants: Share your UCLA experience"
+- "Researchers: Adapt this framework for your institution"
+- "Funders: Support scaling to multi-campus analysis"
+- Contact form or calendly link
+
+---
+
+## Key Messaging Points
+
+### For LinkedIn/Networking:
+- Position as "building infrastructure for accountability" not "exposing UCLA"
+- Emphasize the reproducible methodology over specific findings
+- Frame as public interest technology, not activism
+
+### For Interview Subjects:
+- Include a simple FAQ: "How will my story be used?"
+- Show sample incident analysis (anonymized)
+- Explain the difference between narrative context and coded data
+
+### For Both:
+- Use visuals: workflow diagram, sample coded incident, timeline
+- Keep technical jargon in expandable sections or separate pages
+- Lead with "why this matters" not "how it works"
+
+## Alternative Page Names:
+- **"Research"** - Most professional, academic-leaning
+- **"Current Work"** - Implies ongoing, active project
+- **"Accountability Lab"** - Positions you as building something bigger
+- **"The Audit Framework"** - Product-focused naming
+
+Given your goals, I'd lean toward **"Research"** with a tagline like "Building tools for institutional accountability" to immediately signal both rigor and purpose.
