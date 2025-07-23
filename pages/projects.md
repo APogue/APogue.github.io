@@ -29,7 +29,7 @@ A transparent framework for detecting bias in institutional oversight
 
 ---
 
-## Current Focus: UCLA Case Study
+## Current Focus: University Case Study
 [Left column content]
 Analyzing institutional responses to campus incidents...
 
