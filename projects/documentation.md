@@ -986,3 +986,133 @@ Clear calls-to-action:
 - **"The Audit Framework"** - Product-focused naming
 
 Given your goals, I'd lean toward **"Research"** with a tagline like "Building tools for institutional accountability" to immediately signal both rigor and purpose.
+
+
+# Research Page Architecture
+
+## Main Research Page Structure
+
+### Hero Section
+- **Title**: "Research" or "Building Tools for Institutional Accountability"
+- **One-line description**: The 30-second pitch
+- **Visual**: Workflow diagram or sample incident analysis screenshot
+- **Primary CTA button**: "View Sample Analysis" or "Explore the Framework"
+
+### Main Content (Single Page)
+All core content lives on this main page, organized in expandable/collapsible sections:
+
+1. **The Problem** [Always visible]
+2. **The Approach** [Always visible]
+3. **Current Focus: UCLA Case Study** [Always visible]
+4. **Technical Implementation** [Expandable section]
+5. **Get Involved** [Always visible with clear CTAs]
+
+### Linked Sub-Pages (via navigation or cards)
+
+#### Essential Sub-Pages:
+
+**1. `/research/methodology`**
+- Full codebook with variable definitions
+- Coding protocols
+- Data collection procedures
+- For researchers wanting to replicate
+
+**2. `/research/sample-analysis`**
+- One fully coded incident (anonymized)
+- Shows all variables with justifications
+- Interactive or well-formatted YAML/JSON viewer
+- "This is what rigorous coding looks like"
+
+**3. `/research/for-participants`**
+- FAQ for interview subjects
+- Consent information
+- How data will be used
+- Contact form specifically for participants
+
+**4. `/research/technical`**
+- Claude API implementation details
+- GitHub repo link
+- Technical blog posts
+- For developers/technical audience
+
+#### Optional Sub-Pages:
+
+**5. `/research/findings`** (when ready)
+- Key patterns discovered
+- Visualizations
+- Policy implications
+
+**6. `/research/framework`**
+- Downloadable templates
+- Implementation guide
+- For organizations wanting to adapt
+
+### Navigation Structure Example:
+```
+Research [main page]
+├── Methodology
+├── Sample Analysis
+├── For Participants
+├── Technical Details
+└── [Future: Findings]
+```
+
+### In-Page vs. Linked Content Decision Tree:
+
+**Keep IN-PAGE if:**
+- Essential for understanding the project (Problem, Approach)
+- Needed by multiple audiences (Current Focus)
+- Call-to-action (Get Involved)
+- Under 200 words per section
+
+**Link to SUB-PAGE if:**
+- Detailed technical content (full codebook, protocols)
+- Audience-specific (participant FAQ, developer docs)
+- Living documents that update frequently
+- Requires different formatting (code, tables, interactive elements)
+
+### Visual Layout Suggestion:
+```
+┌─────────────────────────────────────┐
+│          HERO SECTION               │
+│   Title + Tagline + Visual + CTA    │
+└─────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│         THE PROBLEM                 │
+│   3-4 bullet points, accessible     │
+└─────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│        THE APPROACH                 │
+│   4 key innovations with icons      │
+└─────────────────────────────────────┘
+┌──────────────┬──────────────────────┐
+│   CURRENT    │                      │
+│   FOCUS      │   Quick Stats Box    │
+│              │   • 60+ incidents    │
+│              │   • 20+ variables    │
+└──────────────┴──────────────────────┘
+┌─────────────────────────────────────┐
+│    EXPLORE THE FRAMEWORK            │
+│  ┌──────┐ ┌──────┐ ┌──────┐         │
+│  │ View │ │ Read │ │ Get  │         │
+│  │Sample│ │ Docs │ │ Code │         │
+│  └──────┘ └──────┘ └──────┘         │
+│   [Cards linking to sub-pages]      │
+└─────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│         GET INVOLVED                │
+│   • For Participants [button]       │
+│   • For Researchers [button]        │
+│   • For Funders [button]            │
+└─────────────────────────────────────┘
+```
+
+### Implementation Tips:
+
+1. **Progressive Disclosure**: Start simple, let people dig deeper if interested
+2. **Multiple Entry Points**: Different CTAs for different audiences
+3. **Scannable**: Headers, bullets, and visual breaks
+4. **Mobile-First**: Collapsible sections work well on phones
+5. **Analytics**: Track which sub-pages get visited to understand audience
+
+This structure serves both audiences—keeps it accessible for interviewees while showing rigor for professional networking.
