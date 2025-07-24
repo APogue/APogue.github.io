@@ -1116,3 +1116,64 @@ Research [main page]
 5. **Analytics**: Track which sub-pages get visited to understand audience
 
 This structure serves both audiences—keeps it accessible for interviewees while showing rigor for professional networking.
+
+## Notes
+
+- Reddit and certain student coding gauges could act as an ice-breaker in student interviews 
+
+- Really the three analysis lenses should be media visibiltiy, severity, and student identity 
+
+- Reddit and other social media-style anecdotal evidence should be grouped in with interviews or simply "good-to-have" data for context and to enrich the story, give it some edge and a human element. 
+
+### Explaining "coding"
+
+In this project, “coded” is closest to the social sciences definition:
+
+Assigning structured values to qualitative evidence using predefined rules.
+
+I'm not writing software, tagging medical records, or running NLP pipelines — I'm applying a structured classification system to human, institutional, and contextual data drawn from sources like statements, reports, and media coverage.
+
+⸻
+
+✅ Recommended Explanation (for Clarity)
+
+Wherever I say “coded,” consider linking or footnoting it once like this:
+
+Every incident is coded using 20+ structured variables based on evidence from source documents.
+(In this context, “coding” refers to systematically categorizing qualitative data using predefined rules — a method adapted from social science research.)
+
+📘 Optional Sidebar Definition:
+
+What does “coded” mean in this project?
+
+In social science research, “coding” means categorizing qualitative information using a structured set of rules.
+
+Here, every campus incident is reviewed and assigned values across 20+ variables (e.g. administrative response type, tone, policy enforcement) based on evidence from public records, statements, and media reports.
+
+This ensures the analysis is reproducible, evidence-bound, and not based on personal interpretation.
+
+Plainspoken definition — “qualitative evidence” can sound abstract or academic, especially to technical or engineering audiences. 
+
+⸻
+
+🧾 Definition: Qualitative Evidence
+
+Qualitative evidence refers to non-numerical information — things like written statements, protest photos, administrative emails, news articles, or social media posts.
+
+It’s data that captures what people say, do, or experience, rather than numbers or metrics. In this project, qualitative evidence includes:
+
+- Student and faculty statements
+
+- Official university communications
+	
+- Media coverage of incidents
+	
+- Policy text and enforcement language
+	
+- Screenshots or photos of protests
+
+📌 Comparison (a contrast box)
+
+Term | Description | Example
+Qualitative | Words, statements, context | “The university condemned the protest.”
+Quantitative | Numbers, measurements | 35 students were arrested
