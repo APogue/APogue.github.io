@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: default
+layout: single
 permalink: /projects/
 ---
 
@@ -107,6 +107,10 @@ This is a deeper technical dive
 
 
 
+<!-- _includes/footer.html -->
+<footer class="site-footer">
+  <p><strong>This is a test footer override.</strong></p>
+</footer>
 
 
 
