@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Blog Posts
+layout: single
+title: Blog
 permalink: /blog/
+author_profile: true
 ---
 
 <div class="blog-list">

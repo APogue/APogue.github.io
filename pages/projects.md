@@ -1,7 +1,8 @@
 ---
-title: Research
 layout: single
+title: Research
 permalink: /projects/
+author_profile: true
 ---
 
 ## [HERO SECTION - usually styled differently]
