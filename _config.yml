@@ -8,6 +8,32 @@ baseurl: "" # leave blank for root-level site
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
+# Author Profile
+author:
+  name: "Alexie Pogue"
+  avatar: "/assets/images/bio-photo.jpg"  
+  bio: "Writer. Analyst. Researcher. Investigating power, policy, and protest."
+  location: "Los Angeles, CA"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:alexie.pogue@gmail.com"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/alexie-pogue-38204b49/"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github-square"
+    url: "https://github.com/APogue"
+  - label: "Bluesky"
+    icon: "fab fa-fw fa-bluesky"
+    url: "https://bsky.app/profile/alexiepogue.bsky.social"    
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/alexiepogue"
+  - label: "TikTok"
+    icon: "fab fa-fw fa-tiktok"
+    url: "https://www.tiktok.com/@alexiepogue"
+
 # Pretty URLs
 permalink: pretty
 
@@ -39,9 +65,13 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+# Social Links (for footer and other theme features)
+social:
+  links:
+    - "https://twitter.com/alexiepogue"
+    - "https://bsky.app/profile/alexiepogue.bsky.social"
+    - "https://www.linkedin.com/in/alexie-pogue-38204b49/"
+    - "https://www.tiktok.com/@alexiepogue"
+
 # Optional: Enable search or social later
 # search: true
-# social:
-#   links:
-#     - "https://github.com/apogue"
-#     - "https://twitter.com/apogue"
