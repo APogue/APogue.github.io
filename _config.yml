@@ -1,6 +1,6 @@
 # Site Identity
 title: "Alexie Pogue"
-description: "Building AI audit tools for institutional accountability"
+description: "Building an honest record — from data and the people who lived it"
 url: "https://alexiepogue.com"
 baseurl: "" # leave blank for root-level site
 
@@ -12,7 +12,7 @@ minimal_mistakes_skin: "default"
 author:
   name: "Alexie Pogue"
   avatar: "/assets/images/bio-photo.jpg"  
-  bio: "Writer. Analyst. Researcher. Investigating power, policy, and protest."
+  bio: "Writer. Analyst. Researcher. Building a framework to understand institutional response to speech."
   location: "Los Angeles, CA"
   links:
   - label: "Email"

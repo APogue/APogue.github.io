@@ -1,42 +1,43 @@
 ---
 layout: splash
-title: "Building Auditable AI for Institutional Accountability"
+title: "Building an honest record — from data and the people who lived it"
 nav: true
 permalink: /
 
 
-excerpt: "Writer. Analyst. Researcher. Investigating power, policy, and protest."
+excerpt: "Writer. Analyst. Researcher. Building a framework to understand institutional response to speech."
 
 header:
   overlay_image: /assets/images/hero.jpg
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.4"
   caption: "Photo by Yousef Espanioly on Unsplash"
   actions:
     - label: "Explore the Framework"
       url: "/projects/"
 
 intro_row:
-  - excerpt: "I use data and documents to tell better stories about public institutions. Currently writing about university protest enforcement and Title VI."
+  - excerpt: "I use data and talk to people to tell better stories about public institutions. Currently researching university response to critical incidents."
 
 feature_row:
   - image_path: /assets/images/hero.jpg
     title: "Core Capabilities"
-    excerpt: "Structured evidence. Source-linked analysis. AI-assisted coding."
+    excerpt: "PhD-level analysis creates auditable rules and protocols for AI-assisted incident processing. Student interviews provide insight into their lived experience and aid in filling record gaps."
+    
     url: "/research/capabilities"
     btn_label: "Explore Core Features"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/hero.jpg
-    title: "Entry Points"
-    excerpt: "View a sample analysis, read the methodology, or explore the code."
+    title: "The pipeline"
+    excerpt: "From source documents to structured output. When the documents fall short, see how questions turn into FOIA requests, comment outreach, and interviews with the people involved."
     url: "/research/entry"
-    btn_label: "See Where to Start"
+    btn_label: "Follow the Pipeline"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/hero.jpg
     title: "For You"
-    excerpt: "Resources for participants, researchers, and funders."
+    excerpt: "Resources for participants, researchers, and funders — whether you want to share your story, study institutional response, or invest in change, this platform is built to support clarity, care, and impact."
     url: "/research/audience"
     btn_label: "Find Your Path"
     btn_class: "btn--primary"
