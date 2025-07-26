@@ -86,9 +86,6 @@ This is a deeper technical dive
 - [Documentation](/projects/documentation/)
 
 
-
-
-
 <!-- This is a comment and won't be displayed 
 
 - [Project Proposal](/projects/project_proposal)
@@ -104,9 +101,6 @@ This is a deeper technical dive
 - [Incident Response Index](/projects/incident_index/)
 
 -->
-
-
-
 
 <!-- _includes/footer.html -->
 <footer class="site-footer">

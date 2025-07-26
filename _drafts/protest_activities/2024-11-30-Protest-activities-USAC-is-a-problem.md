@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-USAC is a Problem"
 published: false
 author: Alexie Pogue

@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-students and faculty voice concerns"
 published: false
 author: Alexie Pogue

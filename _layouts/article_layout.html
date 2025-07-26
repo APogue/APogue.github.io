@@ -1,0 +1,143 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/footnotes.css' | relative_url }}">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  
+  <style>
+    /* Custom container width */
+    .container {
+      max-width: 1600px; /* Adjust the width as needed */
+      width: 100%;
+    }
+
+    /* Ensure columns take full width */
+    .col-lg-6, .col-md-6 {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+
+    /* Highlighted reference styling */
+    .nav-link.highlighted {
+      background-color: #d1ecf1;
+      color: #0c5460;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-md-6">
+        {{ content }}
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <div class="sidebar">
+          <div class="tab-container">
+            <div class="tabs">
+              <button class="tablink" onclick="openTab(event, 'toc')">Table of Contents</button>
+              <button class="tablink" onclick="openTab(event, 'supplementary-figures')">Supplementary Figures</button>
+			  <button class="tablink" onclick="openTab(event, 'r-UCLA')">r/UCLA</button>
+            </div>
+            <div id="toc" class="tabcontent">
+              <ul class="nav flex-column">
+			     <li class="nav-item">
+                  <a class="nav-link" href="#Context and Objective">Context and Objective</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#Early Messaging">Early Messaging</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#Months Prior to Protest Events">Months Prior to Protest Events</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#Protest Events">Protest Events</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#University Support and Messaging">University Support and Messaging</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#Student Reactions">Student Reactions</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#Title VI">Title VI</a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="#UCLA Policy&mdash;Should">UCLA Policy&mdash;Should</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#The DOE Needs to Do More">The DOE Needs to Do More</a>                   
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="#Supplementary Information">Supplementary Information</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#References">References</a>
+                </li>
+				</ul>
+            </div>
+            <div id="supplementary-figures" class="tabcontent">
+              {% include sections/figures.md %}
+			  < </div>
+			<div id="r-UCLA" class="tabcontent">
+              {% include sections/reddit.md %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
+  <script>
+    function openTab(evt, tabName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(tabName).style.display = "block";
+      evt.currentTarget.className += " active";
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+      // Highlight references when clicked
+      const references = document.querySelectorAll('.nav-link');
+      references.forEach(ref => {
+        ref.addEventListener('click', function(event) {
+          // Remove highlight from all references
+          references.forEach(r => r.classList.remove('highlighted'));
+          // Add highlight to the clicked reference
+          event.currentTarget.classList.add('highlighted');
+        });
+      });
+
+      // Update figure references
+      var figures = document.querySelectorAll("figure[id]");
+      figures.forEach(function(figure, index) {
+        var refLinks = document.querySelectorAll('a[href="#' + figure.id + '"]');
+        refLinks.forEach(function(link) {
+          link.textContent = 'Figure ' + (index + 1);
+        });
+      });
+
+      // Default open tab
+      document.querySelector(".tablink").click();
+    });
+  </script>
+</body>
+</html>

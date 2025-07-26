@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-continued bias after April 30th"
 published: false
 author: Alexie Pogue

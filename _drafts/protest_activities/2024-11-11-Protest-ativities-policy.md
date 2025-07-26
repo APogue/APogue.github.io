@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-policy"
 published: false
 author: Alexie Pogue

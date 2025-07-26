@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Misc. notes and articles"
 published: true
 author: Alexie Pogue

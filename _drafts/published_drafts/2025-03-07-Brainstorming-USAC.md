@@ -1,5 +1,6 @@
 ---
-layout: project_default
+layout: single
+toc: true
 title: "Brainstorming - Administrative calls - USAC"
 published: true
 author: Alexie Pogue

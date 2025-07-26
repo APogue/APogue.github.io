@@ -1,5 +1,6 @@
 ---
-layout: project_default
+layout: single
+toc: true
 title: "Brainstorming ideas document"
 published: true
 author: Alexie Pogue

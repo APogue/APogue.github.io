@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-interviews"
 published: true
 author: Alexie Pogue

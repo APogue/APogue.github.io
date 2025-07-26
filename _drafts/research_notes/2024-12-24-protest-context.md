@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest context past and present"
 published: true
 author: Alexie Pogue

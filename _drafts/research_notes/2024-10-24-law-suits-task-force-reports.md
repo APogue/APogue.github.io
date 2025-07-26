@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Law suits and task force reports"
 published: true
 author: Alexie Pogue

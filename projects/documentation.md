@@ -1,6 +1,7 @@
 ---
 title: Documentation
-layout: project_default
+layout: single
+toc: true
 permalink: /projects/documentation/
 ---
 

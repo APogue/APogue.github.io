@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Resolution Letters and Agreements"
 published: true
 author: Alexie Pogue

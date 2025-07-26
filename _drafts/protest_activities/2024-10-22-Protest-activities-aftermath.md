@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-administrative response in the aftermath"
 published: false
 author: Alexie Pogue

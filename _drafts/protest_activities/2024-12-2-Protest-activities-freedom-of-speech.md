@@ -1,5 +1,6 @@
 ---
-layout: outline
+layout: single
+toc: true
 title: "Protest activities-freedom of speech"
 published: false
 author: Alexie Pogue

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Entry Points"
 permalink: /research/entry/
 ---

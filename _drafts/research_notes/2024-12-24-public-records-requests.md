@@ -1,12 +1,12 @@
 ---
-layout: outline
+layout: single
 title: "Public records requests"
 published: true
+toc: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
 updated_date: 2025-2-28 8:29 PM
 ---
-
 
 ## Oct 9th - Nov 9th (requested)
 
@@ -52,7 +52,7 @@ updated_date: 2025-2-28 8:29 PM
 	- Emails, memos, or correspondence between UCLA administrators (Gene Block, Mary Osako, Darnell Hunt, Michael Beck, John Thomas, or acting police chief at the time, and Rick Braziel) regarding the protests and policing and graduation.
 
 
-## Notes ------------------------------------------------------------------------------------------------------------------
+## Notes --------------------------------------------------------------------------------------------
 
 ## Oct 12
 
