@@ -30,7 +30,7 @@ feature_row:
 
   - image_path: /assets/images/pexels-spacex-586019.jpg
     title: "The Pipeline"
-    excerpt: "See the process from sources to structured output. When source documents fall short, questions turn into FOIA requests, comment outreach, and interviews with the people involved."
+    excerpt: "See the process from source to structured output. When source documents fall short, questions turn into FOIA requests, comment outreach, and interviews with the people involved."
     url: "/research/entry"
     btn_label: "Follow the Pipeline"
     btn_class: "btn--primary"
