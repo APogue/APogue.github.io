@@ -37,7 +37,7 @@ feature_row:
 
   - image_path: /assets/images/dennis-zhang-J16r3dyRM-M-unsplash.jpg
     title: "For You"
-    excerpt: "Resources for participants, researchers, and funders — whether you want to share your story, study institutional response, or invest in change, this platform is built to support clarity, care, and impact."
+    excerpt: "Resources for participants, researchers, and funders — whether you want to share your story, study institutional response, or invest in change, this research supports clarity, care, and impact."
     url: "/research/audience"
     btn_label: "Find Your Path"
     btn_class: "btn--primary"
