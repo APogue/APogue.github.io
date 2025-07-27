@@ -5,7 +5,7 @@ nav: true
 permalink: /
 
 
-excerpt: "Writer. Analyst. Researcher. Building a framework to understand institutional response to speech."
+excerpt: "Writer. Analyst. Researcher. Building a framework to understand institutional response to critical incidents."
 
 header:
   overlay_image: /assets/images/hero.jpg
@@ -17,7 +17,7 @@ header:
       url: "/projects/"
 
 intro_row:
-  - excerpt: "I use data and talk to people to tell better stories about public institutions. Currently researching university response to critical incidents."
+  - excerpt: "I use data and talk to people to tell better stories about public institutions. Currently researching deficiencies in university response to identity-based harm, protest-related activity, TPM violations, and campus safety failures."
 
 feature_row:
   - image_path: /assets/images/hero.jpg
@@ -30,7 +30,7 @@ feature_row:
 
   - image_path: /assets/images/hero.jpg
     title: "The pipeline"
-    excerpt: "From source documents to structured output. When the documents fall short, see how questions turn into FOIA requests, comment outreach, and interviews with the people involved."
+    excerpt: "See the process from sources to structured output. When source documents fall short, questions turn into FOIA requests, comment outreach, and interviews with the people involved."
     url: "/research/entry"
     btn_label: "Follow the Pipeline"
     btn_class: "btn--primary"
