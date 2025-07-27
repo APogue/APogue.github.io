@@ -17,7 +17,7 @@ header:
       url: "/projects/"
 
 intro_row:
-  - excerpt: "I use data and talk to people to tell better stories about public institutions. Currently researching deficiencies in university response to identity-based harm, protest-related activity, TPM violations, and campus safety failures."
+  - excerpt: "I use data and interviews to tell better stories about public institutions with a current focus on deficiencies in university response to identity-based harm, protest-related activity, TPM violations, and campus safety failures."
 
 feature_row:
   - image_path: /assets/images/hero.jpg
