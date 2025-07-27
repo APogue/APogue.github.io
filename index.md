@@ -5,7 +5,7 @@ nav: true
 permalink: /
 
 
-excerpt: "Writer. Analyst. Researcher. Building a framework to understand institutional response to critical incidents."
+excerpt: "Writer. Analyst. Researcher. Developing a framework to understand institutional response to critical incidents."
 
 header:
   overlay_image: /assets/images/hero.jpg
@@ -29,7 +29,7 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/hero.jpg
-    title: "The pipeline"
+    title: "The Pipeline"
     excerpt: "See the process from sources to structured output. When source documents fall short, questions turn into FOIA requests, comment outreach, and interviews with the people involved."
     url: "/research/entry"
     btn_label: "Follow the Pipeline"
