@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Building an honest record — from data and the people who lived it"
+title: "Building an honest record — from data and firsthand accounts"
 nav: true
 permalink: /
 
