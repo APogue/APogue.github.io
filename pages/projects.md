@@ -6,41 +6,29 @@ author_profile: true
 ---
 
 ## [HERO SECTION - usually styled differently]
-### Building Tools for Institutional Accountability
-A transparent framework for detecting bias in institutional oversight 
 
-[Visual workflow diagram or sample incident analysis screenshot to convey value]
+### Explore the Framework
 
-2.	Before/After Comparison:
-	- Before: “Anecdotal complaints, years later”
-	- After: “Systematic evidence, real-time”
-3.	The Problem/Solution Visual:
-    - Show chaos/unclear responses → organized/transparent analysis
+A deeper technical dive
 
-[View Sample Analysis or Explore the Framework Button (CTA)]
+[Cards/buttons that link OUT to sub-pages]
 
----
+[View Sample] → links to /research/sample-analysis
 
-## The Problem
-- When protests happen on campus...
+[Read Docs] → links to /research/methodology  
+
+[Get Code] → links to GitHub
+
+
+### Current Focus: University Case Study
+
+#### The Problem
+- When incidents happen on campus...
 - How do we know if responses are fair?
 - Current oversight relies on...
 - [fourth bullet point]
 
----
-
-## The Approach
-[4 key innovations, maybe with icon fonts or emoji]
-- 📊 Structured Evidence Collection: Every incident coded using 20+ variables
-- 🔍 Source-Traceable Analysis: All claims linked to specific documents
-- 🤖 AI-Assisted Consistency: Using Claude API to scale rigorous coding protocols
-- 📂 Open Methodology: Replicable framework others can adapt
-
----
-
-## Current Focus: University Case Study
-
-Frame this as an active, alive project
+This is an active, alive project
 
 Text + stat box or heatmap/screenshot
 
@@ -55,36 +43,10 @@ Analyzing institutional responses to campus incidents...
 - 20+ variables per incident
 - 3 years of data
 
----
-
-## Explore the Framework
-
-This is a deeper technical dive
-
-[These are cards/buttons that link OUT to sub-pages]
-
-[View Sample] → links to /research/sample-analysis
-
-[Read Docs] → links to /research/methodology  
-
-[Get Code] → links to GitHub
 
 ---
-
-## Get Involved
-
-[Different CTAs for different audiences]
-
-[For Participants] → links to /research/for-participants
-
-[For Researchers] → links to /research/technical
-
-[For Funders] → links to contact form
-
-
 
 - [Documentation](/projects/documentation/)
-
 
 <!-- This is a comment and won't be displayed 
 

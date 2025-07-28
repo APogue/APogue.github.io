@@ -4,7 +4,6 @@ title: "Entry Points"
 permalink: /research/entry/
 ---
 
-[View a sample analysis, read the methodology, or explore the code. See how incidents build the record — and how stories give it depth.]
 
 
 ### 🔍 Explore the Pipeline  

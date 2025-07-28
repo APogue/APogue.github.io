@@ -1180,14 +1180,6 @@ Qualitative | Words, statements, context | “The university condemned the prote
 Quantitative | Numbers, measurements | 35 students were arrested
 
 
-## Site title 
+## The value proposition of the technical work
 
-Alexie Pogue is ...
-
-Seeing the picture through data and human stories
-
-Finding incidents. Talking to students. 
-
-It needs to be more about the current project and less about the long-term work. 
-
-investigating data-driven explanations and human stories 
+- See the Claude API Coding Project conversation (OpenAI) called value prop (don't delete)

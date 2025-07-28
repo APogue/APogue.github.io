@@ -4,4 +4,12 @@ title: "For You"
 permalink: /research/audience/
 ---
 
-[Resources for participants, researchers, and funders.]
+### Get Involved
+
+[Different CTAs for different audiences]
+
+[For Participants] → links to /research/for-participants
+
+[For Researchers] → links to /research/technical
+
+[For Funders] → links to contact form
