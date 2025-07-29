@@ -7,6 +7,8 @@ toc: true
 
 [x profile](https://x.com/belllabrannon)
 
+[linkedin profile](https://www.linkedin.com/in/bella-brannon-11108a218/)
+
 - Some universities have explored incident-responsive restorative dialogue as a way to address harm and rebuild trust between student communities after tense or discriminatory events. Do you think that’s something you or your peers at Hillel would be open to participating in—when appropriate—or is there more comfort in addressing incidents within your own community or through parallel processes—like holding your own community discussions, working directly with administrators, or issuing statements separately—without engaging directly with groups on the other side of the conflict?
 
     Do you see potential value in cross-community conversations after major campus incidents, or is the priority right now more about internal safety and healing?
