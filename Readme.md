@@ -7,6 +7,48 @@ This project documents and analyzes university administrative response to identi
 
 ## 🔧 Project Structure
 
+## 🔧 Current Repo Structure (Triage)
+
+```
+.
+├── .git/
+├── .jekyll-cache/
+├── _data/
+├── _drafts/
+├── _incidents/
+├── _includes/
+├── _layouts/
+├── _plugins/
+├── _protocols/
+├── _sass/
+├── _site/
+├── assets/
+├── images/
+├── interviews/
+├── pages/
+├── projects/
+├── research/
+├── .gitattributes
+├── .gitignore
+├── _config.yml
+├── CNAME
+├── Gemfile
+├── Gemfile.lock
+├── index.md
+└── Readme.md
+
+├── _drafts/
+<!-- Contains dozens of unstructured outlines, half-posts, raw thoughts. Some should be moved to _outlines/, some are junk. -->
+
+├── _includes/
+<!-- Bloated. Over 40 snippets, many only used once in one specific blog post. Should migrate to _fragments/post-name/. -->
+
+├── images/
+<!-- Dumping ground for everything — blog headers, figures, charts, screenshots. Needs sorting into folders by type or topic. -->
+
+
+```
+
 ```
 .
 ├── _config.yml
@@ -34,6 +76,45 @@ This project documents and analyzes university administrative response to identi
     └── incident.html
 
 ```
+
+## 📁 Proposed Clean Structure
+
+```
+.
+├── _posts/                  # Finalized blog posts (Jekyll standard)
+│   └── yyyy-mm-title.md
+├── _drafts/                 # Jekyll drafts (unpublished)
+│   └── topic-notes.md
+├── _outlines/               # Structured post ideas or essay skeletons
+│   └── incident-safety-outline.md
+├── _includes/               # ONLY reusable components for layout
+│   └── post_header.html
+├── _fragments/              # Snippets or includes tied to individual posts
+│   └── post-slug/
+│       ├── chart.svg
+│       └── code-block.html
+├── _data/                   # YAML/JSON/CSV files (people, sources, tags)
+│   └── sources.yml
+├── _interviews/             # Interview prep, notes, and transcripts
+│   └── 2025-07-30-professor-smith.md
+├── _pages/                  # Longform pages (projects, about, etc.)
+│   └── project-analysis.md
+├── assets/
+│   ├── images/
+│   │   └── protests/2024-encampment.jpg
+│   ├── pdfs/
+│   │   └── ADM-014.pdf
+│   └── charts/
+│       └── trendline.svg
+├── sources/                 # Fulltext source documents
+│   └── DB-045.txt
+├── appendix/                # Tables, exports, or supplemental analysis
+│   └── incident-timeline.csv
+├── _config.yml
+└── README.md
+
+```
+
 ---
 
 ## 🧱 Folder Purpose
