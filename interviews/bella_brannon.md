@@ -38,3 +38,29 @@ toc: true
 - [USA Judicial Board to hear antisemitism case against Cultural Affairs commissioner](https://dailybruin.com/2024/12/03/usa-judicial-board-to-hear-antisemitism-case-against-cultural-affairs-commissioner)
 
     "In the memorandum granting the petition, Venkatesh said the board will formally consider whether Verdugo violated Article I, Section E of the USA Bylaws, which prevents USAC from supporting or being affiliated with “any organization which legally discriminates on the basis of: race, creed, sex (except as exempt from Title IX), age, national origin, religion, physical handicap, or sexual orientation.”"
+
+### The message
+
+- Do you have any grievances with the university specifically in how they handled the period from Oct 11, 2023 and beyond? 
+
+    - you posted about the kaplan incident
+
+    - mentions about lack of responses from admin
+
+    - blockading
+
+        - the school never put an end to the blockading 
+
+    - USAC
+
+    - CAC 
+
+### Questions 
+
+- how did you feel about the blockading? 
+
+- why do you think the school never put an end to the blockading? 
+
+- how do you feel about USAC's presence and involvement with respect to the exclusion 
+
+- why did you feel you needed to take it upon yourself to bring the case for impeachment against verdugo? 

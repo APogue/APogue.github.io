@@ -27,7 +27,7 @@ If you’re open to talking (on or off the record), I’d be grateful. Even one 
 
 ## Information release 
  
-- probably should sign one under the pretext that some may be used for research and others for their story 
+- probably should sign one with the understanding that some may be used for research and others for their story 
 
 ## Links
 

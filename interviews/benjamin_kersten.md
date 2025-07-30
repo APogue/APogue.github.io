@@ -30,3 +30,5 @@ toc: true
 - Did JVP support encampment blockading, if so, why?
 
 - How do you define Zionism? 
+
+- Tell me about how this scenario was a heckler's veto
