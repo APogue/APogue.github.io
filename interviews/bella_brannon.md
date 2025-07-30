@@ -64,3 +64,6 @@ toc: true
 - how do you feel about USAC's presence and involvement with respect to the exclusion 
 
 - why did you feel you needed to take it upon yourself to bring the case for impeachment against verdugo? 
+
+### Evidence 
+
