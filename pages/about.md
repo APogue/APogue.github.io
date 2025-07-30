@@ -26,8 +26,8 @@ I’m a “first principles” thinker; likely because I'm a product of simple v
 **The Turning Point**
 
 Engineering was really the turning point for me in critical thinking. I wasn’t a typical engineer growing up. The simple mechanisms I came 
-across in everyday life were a mystery to me and I thought they'd remain that way. In college I found I excelled in math and science,
-subjects fundamental to robotics engineering. At one point I took a course that was hands-on and required me to implement theory on a robot I built myself. 
+across in everyday life were a mystery to me and I thought they'd remain that way. When I went to college I found I excelled in math and science,
+subjects fundamental to robotics engineering. At one point I took a course in digital control that was hands-on and required me to implement theory on a robot I built myself. 
 This was my first introduction to robotics but I was amazed by how much I could to do with so little background. After spending some time in a robotics lab, I decided to pursue robotics,
 but it wasn’t smooth sailing from there. Certain principles in robotic design were still lost on me, mechanisms looked crude in form---the details 
 and nuances of their purpose remained a mystery. I was frustrated but looked again and again, hoping to see beyond the surface. After some time, like a foreign language,
