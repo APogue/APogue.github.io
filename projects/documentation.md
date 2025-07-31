@@ -1183,3 +1183,11 @@ Quantitative | Numbers, measurements | 35 students were arrested
 ## The value proposition of the technical work
 
 - See the Claude API Coding Project conversation (OpenAI) called value prop (don't delete)
+
+## Overall direction
+
+- I could do a reddit true data analysis of the Israel-Palestine conversation, quantify (in a bounded environment) sentiment (like consumer sentiment?)
+
+- I think MTG makes a really good point. The young generation is being forsaken. They were a testbed for social media, they were screwed by covid, they can't afford a home or find jobs. And now it feels like they have no voice. 
+
+- It doesn't matter what people's opinions are, people could've been killed. Like the Ohio 4 in 1970 

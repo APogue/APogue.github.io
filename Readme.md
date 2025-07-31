@@ -34,11 +34,27 @@ This project documents and analyzes university administrative response to identi
 ├── _site/ <!-- this must be auto-generated lots of folders and files -->
 ├── assets/ 
 │   └── css/ <!-- css files (css files connected to legacy layout files) -->
-│   └── icons/ <!-- outline v3 files (later attempt at building the story narrative), 2 files -->
-│   └── images/ <!-- in-depth research, in outline form and divided into different subjects, 14 files -->
-│   └── js/ <!-- the latest attempt at building the story narrative, (post outline-v3), 2 files -->
-│   └── videos/ <!-- in-depth (not totally organized but in docs) research divided into 7  -->
+│   └── icons/ <!-- website icon files -->
+│   └── images/ <!-- splash page banner and feature row images -->
+│   └── js/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
+│   └── videos/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
 ├── images/
+│   └── 2024-05-08/ <!-- css files (css files connected to legacy layout files) -->
+│   └── 2024-05-20/ <!-- website icon files -->
+│   └── 2024-07-03/ <!-- splash page banner and feature row images -->
+│   └── 2024-08-02/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
+│   └── 2024-10-03/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
+│   └── 2025-2-20/ <!-- css files (css files connected to legacy layout files) -->
+│   └── 2025-2-21/ <!-- website icon files -->
+│   └── 2025-2-23/ <!-- splash page banner and feature row images -->
+│   └── 2025-4-22/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
+│   └── excel-data/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
+│   └── Gene Block Messages/ <!-- css files (css files connected to legacy layout files) -->
+│   └── pdf_downloads_2025-3-10/ <!-- website icon files -->
+│   └── policy research/ <!-- splash page banner and feature row images -->
+│   └── public records requests/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
+│   └── title_VI/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
+│   └── UCLA_Title_IX_Training/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
 ├── interviews/
 ├── pages/
 ├── projects/
