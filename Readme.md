@@ -37,14 +37,16 @@ This project documents and analyzes university administrative response to identi
 │   └── icons/ <!-- website icon files -->
 │   └── images/ <!-- splash page banner and feature row images -->
 │   └── js/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
-│   └── videos/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
+│   └── videos/ <!-- screenshot captures that I embedded into my OG_blog_post/In-the-Aftermath-of -->
 ├── images/
-│   └── 2024-05-08/ <!-- css files (css files connected to legacy layout files) -->
-│   └── 2024-05-20/ <!-- website icon files -->
-│   └── 2024-07-03/ <!-- splash page banner and feature row images -->
-│   └── 2024-08-02/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
-│   └── 2024-10-03/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
-│   └── 2025-2-20/ <!-- css files (css files connected to legacy layout files) -->
+│   └── 2024-05-08/ <!-- 21 files, reddit screenshots used in 3 OG_blog_post files -->
+│   └── 2024-05-20/ <!-- holds 8 sub-directories that contain more images, likely pertaining to 2 OG_blog_post files -->
+│   └── 2024-07-03/ <!-- 16 image files, likely pertaining to at least 1 OG_blog_post file -->
+│   └── 2024-08-02/ <!-- 15 image files not yet used in blog posts but may serve as evidence for future research (quiet-crawler) -->
+│   └── 2024-10-03/ <!-- 50 files, a mix of social media and reddit screenshots, some SCU (Title-IX project) policy docs, and images that can possibly be used for future research (quiet-crawler) -->
+│   └── 2025-2-20/ <!-- screenshots from a FOIA request, some of the more important documents I came across, may be related to the _drafts/research/2024-12-24-public-records-requests.md doc, 13 files -->
+
+
 │   └── 2025-2-21/ <!-- website icon files -->
 │   └── 2025-2-23/ <!-- splash page banner and feature row images -->
 │   └── 2025-4-22/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
