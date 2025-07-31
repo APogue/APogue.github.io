@@ -23,14 +23,21 @@ This project documents and analyzes university administrative response to identi
 │   └── protest_activities/ <!-- in-depth research, in outline form and divided into different subjects, 14 files -->
 │   └── published_drafts/ <!-- the latest attempt at building the story narrative, (post outline-v3), 2 files -->
 │   └── research_notes/ <!-- in-depth (not totally organized but in docs) research divided into 7 documents based on research area, i.e. appendix, notes, law suits and task force reports, public records requests, etc. -->
-├── _incidents/
-├── _includes/
-├── _layouts/
-├── _plugins/
-├── _protocols/
-├── _sass/
-├── _site/
-├── assets/
+├── _incidents/ <!-- early trial runs coding incidents (001-004), may be hand coded, 4 docs -->
+├── _includes/ <!-- evidence_list.html, social-meta.html, source-list.html, not really sure what they do, not essential at all, infrastructure files for file templates that never went into full usage and have now been retired -->
+│   └── sections/ <!-- 24 markdown files, all tied to the OG_blog_posts/In-the-Aftermath-of ... blog post -->
+│   └── UCLA-administrative-sections/ <!-- 1 markdown file connected to OG_blog_posts/Major protest-related incidents are continuing to happen at UCLA post but it's not a "section" it is the entire content of the post -->
+├── _layouts/ <!-- old layout files to override the minimal mistakes remote (to keep the old blog posts functioning), 4 html files, also one file, project_default.html, is connected to codebook formatting -->
+├── _plugins/ <!-- footnotes.rb file, don't know where it came from or how it got there -->
+├── _protocols/ <!-- more major testing of the of the gpt and claude UI's, there are proof of concept output files here for the quiet-crawler project, there are some notes files as well related to testin, incident_coding_protocol.md, codebook_with_codiong_protocol.md, and codebook_w_coding_proto_v2.md are located here as well (core backend engine files, copied to quiet-crawler, need to be revised, consolidated, organized with final versions sitting here and in quiet-crawler), 9 files in total (maybe should just live in quiet-crawler? or while editing is happening, live here then move permanently to quiet crawler?) -->
+├── _sass/ <!-- base.scss lives here I don't know what that is -->
+├── _site/ <!-- this must be auto-generated lots of folders and files -->
+├── assets/ 
+│   └── css/ <!-- css files (css files connected to legacy layout files) -->
+│   └── icons/ <!-- outline v3 files (later attempt at building the story narrative), 2 files -->
+│   └── images/ <!-- in-depth research, in outline form and divided into different subjects, 14 files -->
+│   └── js/ <!-- the latest attempt at building the story narrative, (post outline-v3), 2 files -->
+│   └── videos/ <!-- in-depth (not totally organized but in docs) research divided into 7  -->
 ├── images/
 ├── interviews/
 ├── pages/
