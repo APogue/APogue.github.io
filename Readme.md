@@ -13,8 +13,16 @@ This project documents and analyzes university administrative response to identi
 .
 ├── .git/
 ├── .jekyll-cache/
-├── _data/
+├── _data/ <!-- navigation.yml and source_master.yml -->
+│   └── evidence/ <!-- a couple files of practice runs with the codebook on INC-001 (4o and Claude UI) -->
 ├── _drafts/
+│   └── _unpulbished_drafts/ <!-- notes on title VI and title IX, 6 files -->
+│   └── OG_blog_posts/ <!-- oldest (longest form) blog posts with complicated layouts and lots of links to messy, unorganized image files with bad naming conventions (want to refactor to source_master.yml) -->
+│   └── outline-v2/ <!-- outline v2 files (attempt at building the story narrative), 4 files -->
+│   └── outline-v3/ <!-- outline v3 files (later attempt at building the story narrative), 2 files -->
+│   └── protest_activities/ <!-- in-depth research, in outline form and divided into different subjects, 14 files -->
+│   └── published_drafts/ <!-- the latest attempt at building the story narrative, (post outline-v3), 2 files -->
+│   └── research_notes/ <!-- in-depth (not totally organized but in docs) research divided into 7 documents based on research area, i.e. appendix, notes, law suits and task force reports, public records requests, etc. -->
 ├── _incidents/
 ├── _includes/
 ├── _layouts/
