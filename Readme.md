@@ -95,7 +95,7 @@ This project documents and analyzes university administrative response to identi
 │   │
 │   └── notes/                 # Optional catch-all for scraps, tests, and exploratory writing
 │       └── 2025-07-01-research-ramble.md
-│
+│  
 ├── _research_notes/            # 🟡 Longform or domain-specific notes
 │   └── lawsuits.md
 │   └── public-records.md
@@ -120,11 +120,6 @@ This project documents and analyzes university administrative response to identi
 │   ├── source_master_public.yml # Supports layout generation, citation display, and cross-linking between your posts and sources
 │   ├── field_definitions.yml
 │   └── evidence/               # trial evidence files for incidents
-│
-├── _protocols/                 # 🟡 Coding protocols + templates (merge later into quiet-crawler)
-│   ├── codebook.md
-│   ├── incident_coding_protocol.md
-│   └── test_runs/              # test inputs/outputs from GPT and Claude
 │
 ├── _projects/                  # ✅ Living project definition docs
 │   └── codebook.md
