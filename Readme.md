@@ -72,75 +72,167 @@ This project documents and analyzes university administrative response to identi
 
 ```
 
-```
-.
-├── _config.yml
-├── _incidents/                # One Markdown file per incident (YAML front matter + narrative)
-│   └── INC-001.md
-├── _includes/                 # Reusable Liquid include snippets for rendering source and evidence lists
-│   ├── evidence-list.html
-│   └── source-list.html
-├── _data/                     # Centralized structured data
-│   ├── evidence/              # YAML files with structured variable justifications per incident
-│   │   └── INC-001.yml
-│   ├── source_master.yml      # Master source registry (DB-, ADM-, SOC-, etc.)
-│   └── field_definitions.yml  # Field definitions and structured variable schema
-├── _protocols/                # Authoritative rule files for coding, sourcing, and validation
-│   └── incident_coding_protocol.md
-├── sources/                   # Raw source documents (Daily Bruin articles, admin emails, social media posts)
-│   ├── DB-045.txt
-│   └── ADM-014.txt
-├── appendix/                  # Output files: charts, tables, YAML exports, etc.
-├── projects/                  # Public-facing markdown pages describing methodology and schema
-│   ├── incident-analysis.md
-│   ├── project-definitions.md
-│   └── codebook.md
-└── _layouts/                  # Custom Jekyll layout templates for rendering incidents and pages
-    └── incident.html
-
-```
-
 ## 📁 Proposed Clean Structure
 
 ```
 .
-├── _posts/                  # Finalized blog posts (Jekyll standard)
-│   └── yyyy-mm-title.md
-├── _drafts/                 # Jekyll drafts (unpublished)
-│   └── topic-notes.md
-├── _outlines/               # Structured post ideas or essay skeletons
-│   └── incident-safety-outline.md
-├── _includes/               # ONLY reusable components for layout
+├── _posts/                      # ✅ Published blog posts
+│   └── 2025-06-10-title.md
+│
+├── _drafts/                     # 🟡 Latest working drafts
+│   ├── published_drafts/
+│   ├── outline-v3/
+│   └── outline-v2/
+│
+├── _research_notes/            # 🟡 Longform or domain-specific notes
+│   └── lawsuits.md
+│   └── public-records.md
+│   └── appendix-compilation.md
+│
+├── _outlines/                  # ✅ Skeletons or post blueprints
+│   └── campus-bias-outline.md
+│
+├── _interviews/                # ✅ Interview prep, sources, and transcripts
+│   └── 2025-08-01-benjamin.md
+│
+├── _incidents/                 # ✅ Finalized incident writeups (e.g. INC-001.md)
+│   └── 001-ucla-encampment.md
+│
+├── _includes/                  # ✅ Layout helpers, lean only
 │   └── post_header.html
-├── _fragments/              # Snippets or includes tied to individual posts
-│   └── post-slug/
-│       ├── chart.svg
-│       └── code-block.html
-├── _data/                   # YAML/JSON/CSV files (people, sources, tags)
-│   └── sources.yml
-├── _interviews/             # Interview prep, notes, and transcripts
-│   └── 2025-07-30-professor-smith.md
-├── _pages/                  # Longform pages (projects, about, etc.)
-│   └── project-analysis.md
+│
+├── _layouts/                   # ✅ Custom Jekyll layouts (for incidents, etc.)
+│   └── project_default.html
+│
+├── _data/                      # ✅ YAML, CSV, and structured reference files
+│   ├── source_master_public.yml # Supports layout generation, citation display, and cross-linking between your posts and sources
+│   ├── field_definitions.yml
+│   └── evidence/               # trial evidence files for incidents
+│
+├── _protocols/                 # 🟡 Coding protocols + templates (merge later into quiet-crawler)
+│   ├── codebook.md
+│   ├── incident_coding_protocol.md
+│   └── test_runs/              # test inputs/outputs from GPT and Claude
+│
+├── _projects/                  # ✅ Living project definition docs
+│   └── codebook.md
+│   └── methodology.md
+│
+├── _pages/                     # ✅ Top-level site pages
+│   ├── about.md
+│   ├── contact.md
+│   ├── blog.md
+│   ├── terms.md
+│   └── projects.md
+│
+├── sources/                    # ✅ Fulltext raw documents (PDFs, TXT, DOCX)
+│   ├── DB-045.txt
+│   ├── title_VI/
+│   ├── public-records-FOIA/
+│   ├── training_materials/
+│   └── press-releases/
+│
+├── appendix/                   # ✅ Tables, exports, timelines
+│   └── incidents-by-month.csv
+│
 ├── assets/
-│   ├── images/
-│   │   └── protests/2024-encampment.jpg
+│   ├── images/                 # Static visual assets, general use
+│   │   └── protests/2024-05-encampment.jpg
 │   ├── pdfs/
-│   │   └── ADM-014.pdf
+│   │   └── SCU_Policy.pdf
 │   └── charts/
-│       └── trendline.svg
-├── sources/                 # Fulltext source documents
-│   └── DB-045.txt
-├── appendix/                # Tables, exports, or supplemental analysis
-│   └── incident-timeline.csv
+│       └── sentiment-vs-response.svg
+│
+├── fragments/                  # ✅ Snippets (e.g. evidence snippets tied to a post)
+│   └── aftermath/
+│       ├── reddit1.png
+│       └── post_snippet.md
+│
+├── quiet-crawler/              # ✅ Staging basket, to be migrated to quiet-crawler repo
+│   ├── prompts/                # Prompt templates and instruction files (Claude, GPT)
+│   │   ├── system_prompt.txt
+│   │   ├── codebook_protocol.txt
+│   │   └── validation_prompt.txt
+│   ├── model_outputs/          # Claude/GPT raw and semi-formatted outputs
+│   │   ├── INC-001_output_claude.md
+│   │   ├── SCU_test_run_gpt.md
+│   │   └── exploration_notes.md
+│   ├── protocols/              # Temporary holding for protocol files to migrate
+│   │   ├── codebook_with_coding_protocol.md
+│   │   ├── codebook_w_coding_proto_v2.md
+│   │   └── incident_coding_protocol.md
+│   ├── parse_scripts/          # Optional early Jupyter or Python parsing tools (if any)
+│   │   └── extract_used_in.py
+│   ├── evidence_trials/        # Local evidence runs with source refs (used in `_data/evidence/`)
+│   │   ├── INC-001_gpt_run.md
+│   │   └── CLAUDE_ui_trial.md
+│   └── README.md               # Temporary README explaining this is a staging area
+│
+├── .gitignore
+├── CNAME
 ├── _config.yml
-└── README.md
+├── Gemfile
+├── Gemfile.lock
+├── index.md                    # Splash page
+└── README.md                   # 🟥 Needs full rewrite
 
 ```
 
+## 🧹 Repo Refactor Checklist (2025-Aug)
+
+## ✅ Week 1 – Setup + Early Cleanup
+- [ ] Move `_drafts/research_notes/` → `_research_notes/`
+- [ ] Move `outline-v2/` and `outline-v3/` into `_drafts/`
+- [ ] Create basic structure for `_interviews/`; initialize 6 files with:
+  - `## context`
+  - `## potential questions`
+- [ ] Move `OG_blog_posts/` → `_posts/legacy/` (stash, do not clean yet)
+
 ---
 
-## 🧱 Folder Purpose
+## ✅ Week 2 – Organize Source Materials
+- [ ] Move FOIA-related screenshots and PDFs from `images/2025-*` → `sources/public-records-FOIA/`
+- [ ] Create or clean `source_master.yml` with at least 10 verified entries
+- [ ] Link at least 2 interviews to source documents in `source_master.yml`
+
+---
+
+## ✅ Week 3 – Protocols + Readme
+- [ ] Organize `_protocols/`; decide which files merge into `quiet-crawler/`
+- [ ] Delete or consolidate:
+  - `incident_coding_protocol.md`
+  - `codebook_with_codiong_protocol.md`
+  - `codebook_w_coding_proto_v2.md`
+- [ ] Rebuild `README.md`:
+  - Describe updated structure
+  - Document project goals
+  - Link to `quiet-crawler/` backend repo
+
+---
+
+## ✅ Week 4 – Final Reorg Pass
+- [ ] Reorganize `images/2024-*` → `assets/images/protests/YYYY-MM/` if used in blog content
+- [ ] Confirm and clean up `_layouts/`, `_includes/`, `_pages/` (only keep what’s in use)
+- [ ] Evaluate and merge/retire `projects/` and `research/` directories
+
+## Source_master_public.yml 
+
+```
+- id: SCU-001
+  type: foia
+  date: 2024-12-24
+  title: "SCU Title IX Investigation Notes"
+  url: https://box.com/s/example
+  used_in: [SCU-002]
+
+```
+
+
+
+---
+
+
+## 🧱 Folder Purpose (this and below are being sunsetted, moved to quiet-crawler)
 
 - **`_incidents/`** — Contains one Markdown file per incident with YAML front matter for metadata (`incident_id`, `severity_score`, etc.) and a narrative body for summaries
 - **`_includes/`** — Reusable HTML snippets (e.g., evidence/source lists) used in site rendering
