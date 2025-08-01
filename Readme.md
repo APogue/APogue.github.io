@@ -79,10 +79,22 @@ This project documents and analyzes university administrative response to identi
 ├── _posts/                      # ✅ Published blog posts
 │   └── 2025-06-10-title.md
 │
-├── _drafts/                     # 🟡 Latest working drafts
-│   ├── published_drafts/
-│   ├── outline-v3/
-│   └── outline-v2/
+├── _drafts/
+│   ├── published_drafts/      # Most recent narrative attempts (e.g. 2025 drafts not yet finalized)
+│   │   └── 2025-07-14-encampment-narrative.md
+│   │
+│   ├── outline-v3/            # Later outline attempts (structural only)
+│   │   └── outline-encampment-focus.md
+│   │
+│   ├── outline-v2/            # Older narrative scaffolding
+│   │   └── outline-campus-policy.md
+│   │
+│   ├── legacy/                # 🔒 Archived longform posts (from OG_blog_posts/)
+│   │   └── 2023-12-10-in-the-aftermath-of.md
+│   │   └── 2024-01-15-title-vi-mapping.md
+│   │
+│   └── notes/                 # Optional catch-all for scraps, tests, and exploratory writing
+│       └── 2025-07-01-research-ramble.md
 │
 ├── _research_notes/            # 🟡 Longform or domain-specific notes
 │   └── lawsuits.md
@@ -186,7 +198,7 @@ This project documents and analyzes university administrative response to identi
 - [ ] Create basic structure for `_interviews/`; initialize 6 files with:
   - `## context`
   - `## potential questions`
-- [ ] Move `OG_blog_posts/` → `_posts/legacy/` (stash, do not clean yet)
+- [ ] Move `OG_blog_posts/` → `_drafts/legacy/` (stash, do not clean yet)
 
 ---
 
