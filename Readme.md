@@ -192,20 +192,20 @@ This project documents and analyzes university administrative response to identi
 
 ### 📄 Displaying Markdown Files
 
-There are multiple ways to display and link Markdown files stored in the `interviews/` folder (for example), depending on how you want them to behave on the site:
+There are multiple ways to display and link Markdown files stored in the `interviews/` folder (for example), depending on how they should behave on the site:
 
 ---
 
 #### 🔹 Manual access via permalink or file path
 
 Any Markdown file with valid front matter (i.e. `---` block at the top) will be rendered by Jekyll.  
-You can visit it directly by typing its URL in the browser, e.g.:
+It can be visited directly by typing its URL in the browser, e.g.:
 
 ```
 http://localhost:4000/interviews/bella_brannon/
 ```
 
-…or whatever `permalink:` you define.
+…or whatever `permalink:` is defined.
 
 ---
 
@@ -222,7 +222,7 @@ Add an entry to `_data/navigation.yml` to make an interview page appear in the s
 
 #### 🔹 Using clean permalinks
 
-You can control the output URL independently of the folder structure with the `permalink:` setting in the file’s front matter:
+Control the output URL independently of the folder structure with the `permalink:` setting in the file’s front matter:
 
 ```yaml
 permalink: /bella_brannon/
@@ -234,7 +234,7 @@ Even if the file is in `interviews/`, it will appear at `/bella_brannon/`.
 
 #### 🔹 Custom index page using Liquid
 
-If you want to list all interview pages manually or semi-dynamically (without a Jekyll collection), you can use a Liquid loop to filter pages by folder. This assumes you put an interviews page in the pages/ folder or wherever, and link that in the navigaton.yml:
+To list all interview pages manually or semi-dynamically (without a Jekyll collection), use a Liquid loop to filter pages by folder. This assumes you put an interviews page in the pages/ folder or wherever, and link that in the navigaton.yml:
 
 ```liquid
 {% assign interview_pages = site.pages | where_exp: "page", "page.url contains '/interviews/'" %}
@@ -247,7 +247,7 @@ If you want to list all interview pages manually or semi-dynamically (without a 
 
 #### 🔹 Collection-based listing (optional)
 
-For automatic indexing, sorting, and templating, you can define `_interviews/` as a Jekyll collection in `_config.yml`.  
+For automatic indexing, sorting, and templating, define `_interviews/` as a Jekyll collection in `_config.yml`.  
 This approach enables `layout: collection` pages that auto-display all items.
 
 
