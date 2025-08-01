@@ -45,40 +45,30 @@ This project documents and analyzes university administrative response to identi
 │   └── 2024-08-02/ <!-- 15 image files not yet used in blog posts but may serve as evidence for future research (quiet-crawler) -->
 │   └── 2024-10-03/ <!-- 50 files, a mix of social media and reddit screenshots, some SCU (Title-IX project) policy docs, and images that can possibly be used for future research (quiet-crawler) -->
 │   └── 2025-2-20/ <!-- screenshots from a FOIA request, some of the more important documents I came across, may be related to the _drafts/research/2024-12-24-public-records-requests.md doc, 13 files -->
-
-
-│   └── 2025-2-21/ <!-- website icon files -->
-│   └── 2025-2-23/ <!-- splash page banner and feature row images -->
-│   └── 2025-4-22/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
-│   └── excel-data/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
-│   └── Gene Block Messages/ <!-- css files (css files connected to legacy layout files) -->
-│   └── pdf_downloads_2025-3-10/ <!-- website icon files -->
-│   └── policy research/ <!-- splash page banner and feature row images -->
-│   └── public records requests/ <!-- not sure maybe legacy javascript files, custom.js, figure-references.js, footnotes.js, lightbox.js -->
-│   └── title_VI/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
-│   └── UCLA_Title_IX_Training/ <!-- screenshot captures that I embedded into my OG_blog/In-the-Aftermath-of -->
-├── interviews/
-├── pages/
-├── projects/
-├── research/
+│   └── 2025-2-21/ <!-- screenshots from a FOIA request, different case or request institution response than the above folder, 13 files -->
+│   └── 2025-2-23/ <!-- screenshots from a FOIA request, different case or request institutional response than the above folders, 17 files -->
+<!-- I don't have a full repo of the FOIA request response docs anywhere here, if their Box link goes dead or something happens I need to find a place to put the full response docs -->
+│   └── 2025-4-22/ <!-- 2 PDF's looks like research, some form of these sources are in OG_blog_posts but these are the sources in full, Hillel_statement_may2024.pdf and a Haaretz article -->
+│   └── excel-data/ <!-- 23 files, data related to In-the-Aftermath-of, looks like Title IX and VI related data-->
+│   └── Gene Block Messages/ <!-- 29 files, all PDF, Gene block messages downloaded for record keeping purposes -->
+│   └── pdf_downloads_2025-3-10/ <!-- must've thought these were important, 2 PDF's, one from an independent journalism outlet and one from the Daily Bruin-->
+│   └── policy research/ <!-- looks like 3 PDF's that maybe I thought were important at the time, related to policy or policy changes -->
+│   └── public records requests/ <!-- documentation of a public records request I've made -->
+│   └── title_VI/ <!-- 28 PDF files, related to dept of education OCR dear colleague and resolution letters -->
+│   └── UCLA_Title_IX_Training/ <!-- Documents (PDF) and png related to UCLA Title IX training -->
+│       └── Final_Assessment/ <!-- png snapshots of the training quiz -->
+├── interviews/ <!-- 6 markdown files that (empty) that i'd like to build context in, each file is for each interviewee I'm interested in talking to (first round), i'd like to reference source material, so I'd like as I go through this source material to organized it (refactor) and build one organized, unified, system -->
+├── pages/ <!-- new, updated website pages - about, blog, contact, projects, and terms (projects is an offshoot CTA button with the main framework of quiet-crawler (in progress)-->
+├── projects/ <!-- living project direction documents, including the codebook which might evolve as I work on quiet-crawler (quiet-crawler backend), incident_index.md is legacy and should be retired -->
+├── research/ <!-- these are the CTA offshoots of the splash page feature row (in progress), audience.md, capabilities.md, entry.md, the titles of the files aren't even complete because the splash page design is in flux -->
 ├── .gitattributes
 ├── .gitignore
 ├── _config.yml
 ├── CNAME
 ├── Gemfile
 ├── Gemfile.lock
-├── index.md
-└── Readme.md
-
-├── _drafts/
-<!-- Contains dozens of unstructured outlines, half-posts, raw thoughts. Some should be moved to _outlines/, some are junk. -->
-
-├── _includes/
-<!-- Bloated. Over 40 snippets, many only used once in one specific blog post. Should migrate to _fragments/post-name/. -->
-
-├── images/
-<!-- Dumping ground for everything — blog headers, figures, charts, screenshots. Needs sorting into folders by type or topic. -->
-
+├── index.md <!-- splash page (design in progress) -->
+└── Readme.md <!-- outdated, needs a total update -->
 
 ```
 
