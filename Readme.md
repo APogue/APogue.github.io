@@ -79,21 +79,11 @@ This project documents and analyzes university administrative response to identi
 ├── _posts/                      # ✅ Published blog posts
 │   └── 2025-06-10-title.md
 │
-├── _drafts/
-│   ├── published_drafts/      # Most recent narrative attempts (e.g. 2025 drafts not yet finalized)
-│   │   └── 2025-07-14-encampment-narrative.md
-│   │
-│   ├── outline-v3/            # Later outline attempts (structural only)
-│   │   └── outline-encampment-focus.md
-│   │
-│   ├── outline-v2/            # Older narrative scaffolding
-│   │   └── outline-campus-policy.md
-│   │
-│   ├── legacy/                # 🔒 Archived longform posts (from OG_blog_posts/)
-│   │   └── 2023-12-10-in-the-aftermath-of.md
-│   │   └── 2024-01-15-title-vi-mapping.md
-│   │
-│   └── notes/                 # Optional catch-all for scraps, tests, and exploratory writing
+├── legacy/     # 🔒 Archived longform posts (from OG_blog_posts/)
+│   └── 2023-12-10-in-the-aftermath-of.md
+│   └── 2024-01-15-title-vi-mapping.md
+│   
+│── notes/                 # Optional catch-all for scraps, tests, and exploratory writing
 │       └── 2025-07-01-research-ramble.md
 │  
 ├── _research_notes/            # 🟡 Longform or domain-specific notes
@@ -118,7 +108,6 @@ This project documents and analyzes university administrative response to identi
 │
 ├── _data/                      # ✅ YAML, CSV, and structured reference files
 │   ├── source_master_public.yml # Supports layout generation, citation display, and cross-linking between your posts and sources
-│   ├── field_definitions.yml
 │   └── evidence/               # trial evidence files for incidents
 │
 ├── _projects/                  # ✅ Living project definition docs
