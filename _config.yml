@@ -50,6 +50,9 @@ collections:
   protocols:
     output: true
     permalink: /projects/:name/
+  interviews:
+    output: true
+    permalink: /interviews/:name/
 
 # Defaults for layouts
 defaults:

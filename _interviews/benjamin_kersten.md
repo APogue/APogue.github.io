@@ -1,4 +1,8 @@
 ---
+title: "Interview with Benjamin"
+date: 2025-08-02
+interviewee: "Benjamin Kersten"
+excerpt: "Bla bla bullshit bullshit bullshit"
 layout: single
 toc: true
 ---

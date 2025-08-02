@@ -2,10 +2,8 @@
 layout: single
 toc: true
 title: "Protest activities-interviews"
-published: true
 author: Alexie Pogue
-date: 2024-11-21 12:42 PM
-updated_date: 2025-7-29 2:47 PM 
+date: 2025-08-01
 ---
 
 ## Approach

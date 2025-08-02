@@ -107,14 +107,14 @@ This project documents and analyzes university administrative response to identi
 │   └── project_default.html
 │
 ├── _data/                      # ✅ YAML, CSV, and structured reference files
-│   ├── source_master_public.yml # Supports layout generation, citation display, and cross-linking between your posts and sources
+│   ├── source_master_public.yml # Supports layout generation, citation display, and cross-linking between posts and sources
 │   └── evidence/               # trial evidence files for incidents
 │
 ├── _projects/                  # ✅ Living project definition docs
 │   └── codebook.md
 │   └── methodology.md
 │
-├── _pages/                     # ✅ Top-level site pages
+├── pages/                     # ✅ Top-level site pages
 │   ├── about.md
 │   ├── contact.md
 │   ├── blog.md
