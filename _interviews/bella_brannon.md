@@ -1,13 +1,66 @@
 ---
 title: "Interview with Bella"
-date: 2025-08-01
+date: 2025-08-02
 interviewee: "Bella Brannon"
 excerpt: "Bla bla bullshit bullshit bullshit"
 layout: single
 toc: true
 ---
 
-### Hillel (Bella)
+
+### Notes and context
+
+- the point here is not to "interest farm"
+
+- display the facts, with no judgement, e.g. you believe there was pervasive harassment going on, or that harassment was so severe it denied students access to their education (there was exclusion). So don't say that, present the facts. There was x, y, z, incidents, whether that crosses the line for pervasive is unknown, but when reports were submitted, she claimed there was no response from the school. Where is the line when it comes to direct notice and responsibility by the school to step in? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Details (Bella)
 
 [x profile](https://x.com/belllabrannon)
 
@@ -69,5 +122,5 @@ toc: true
 
 - why did you feel you needed to take it upon yourself to bring the case for impeachment against verdugo? 
 
-### Evidence 
+
 

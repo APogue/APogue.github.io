@@ -2,6 +2,7 @@
 layout: single
 toc: true
 title: "Protest activities-interviews"
+excerpt: "List of interviewees, notes, questions, and ideas"
 author: Alexie Pogue
 date: 2025-08-01
 ---
@@ -26,21 +27,6 @@ If you’re open to talking (on or off the record), I’d be grateful. Even one 
 ## Information release 
  
 - probably should sign one with the understanding that some may be used for research and others for their story 
-
-## Links
-
-[Interview with Benjamin Kersten](/interviews/benjamin_kersten)
-
-[Interview with students involved in the Kaplan Incident](/interviews/kaplan_incident)
-
-[Interview with students involved in the June 10th incident](/interviews/june10_incident)
-
-[Interview with Daily Bruin Reporters](/interviews/daily_bruin)
-
-[Interview with Bella Brannon](/interviews/bella_brannon)
-
-[Interview with Eli Tsives](/interviews/eli_tsives)
-
 
 ---------------------------------------------------------------------------------------------------------------------------
 

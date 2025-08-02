@@ -1,5 +1,5 @@
 ---
-title: "Journalist Accounts"
+title: "Journalist accounts"
 date: 2025-08-01
 interviewee: "Catherine Hamilton"
 excerpt: "Bla bla bullshit bullshit bullshit"

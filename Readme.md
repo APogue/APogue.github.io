@@ -179,6 +179,8 @@ This project documents and analyzes university administrative response to identi
 
 ### 📄 Displaying Markdown Files
 
+Using any of the following display methods, to stop site generation put "published: false" in the front matter
+
 There are multiple ways to display and link Markdown files stored in the `interviews/` folder (for example), depending on how they should behave on the site:
 
 ---
@@ -189,7 +191,7 @@ Any Markdown file with valid front matter (i.e. `---` block at the top) will be 
 It can be visited directly by typing its URL in the browser, e.g.:
 
 ```
-http://localhost:4000/interviews/bella_brannon/
+http://localhost:4000/interviews/name/
 ```
 
 …or whatever `permalink:` is defined.
@@ -201,8 +203,8 @@ http://localhost:4000/interviews/bella_brannon/
 Add an entry to `_data/navigation.yml` to make an interview page appear in the site’s navigation bar:
 
 ```yaml
-- title: "Bella Brannon"
-  url: "/bella_brannon/"
+- title: "the name"
+  url: "/first_last/"
 ```
 
 ---
@@ -212,10 +214,10 @@ Add an entry to `_data/navigation.yml` to make an interview page appear in the s
 Control the output URL independently of the folder structure with the `permalink:` setting in the file’s front matter:
 
 ```yaml
-permalink: /bella_brannon/
+permalink: /first_last/
 ```
 
-Even if the file is in `interviews/`, it will appear at `/bella_brannon/`.
+Even if the file is in `interviews/`, it will appear at `/first_last/`.
 
 ---
 
