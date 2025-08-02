@@ -291,7 +291,16 @@ This approach enables `layout: collection` pages that auto-display all items.
 
 ```
 
-
+| Prefix | Meaning          | Typical Source             |
+| ------ | ---------------- | -------------------------- |
+| `DB-`  | Daily Bruin      | Student media              |
+| `SOC-` | Social media     | Instagram posts, tweets    |
+| `ADM-` | Admin doc        | Emails, press releases     |
+| `MED-` | Mainstream media | LAT, NYT, CNN, etc.        |
+| `INT-` | Interview        | First-party interview logs |
+| `LGL-` | Legal source     | Lawsuits, filings          |
+| `ORG-` | Org statement    | AMCHA, JVP, etc.           |
+| `BLG-` | Blog             | Legacy blog post (sunset)  |
 
 ---
 

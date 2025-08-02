@@ -1,7 +1,7 @@
 ---
-layout: outline
+layout: single
 title: "Outline-v3-intro"
-published: false
+published: true
 author: Alexie Pogue
 date: 2025-01-31 2:30 PM
 updated_date: 2025-2-5 4:55 PM

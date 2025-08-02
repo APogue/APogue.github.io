@@ -1,0 +1,28 @@
+
+- id: SOC-003
+  type: social media
+  date: 2023-10-12
+  title: "Hillel releases statement on kaplan incident"
+  url: "https://www.instagram.com/p/CyT4RrxPNJU/?img_index=2"
+  used_in: [INT-001, BLG-002]
+
+- id: SOC-002
+  type: social media
+  date: 2023-10-27
+  title: "Hillel at UCLA Statement on Antisemitic Rhetoric on Campus"
+  url: "https://www.instagram.com/p/Cy5ARAdx0UH/?img_index=1"
+  used_in: [INT-001, BLG-001, BLG-002]
+
+- id: DB-001
+  type: article
+  date: 2023-11-19
+  title: "Jewish students express concern over antisemitism on UCLA campus"
+  url: "https://dailybruin.com/2023/11/19/jewish-students-express-concern-over-antisemitism-on-ucla-campus"
+  used_in: [INT-001, BLG-001, BLG-002]
+
+- id: SOC-001
+  type: social media
+  date: 2023-12-18
+  title: "Hillel releases statement on administrative negligence"
+  url: "https://www.instagram.com/p/C1BN9tHr054/?hl=en"
+  used_in: [INT-001, BLG-001, BLG-002]
