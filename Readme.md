@@ -110,16 +110,12 @@ This project documents and analyzes university administrative response to identi
 │   ├── source_master_public.yml # Supports layout generation, citation display, and cross-linking between posts and sources
 │   └── evidence/               # trial evidence files for incidents
 │
-├── _projects/                  # ✅ Living project definition docs
-│   └── codebook.md
-│   └── methodology.md
-│
 ├── pages/                     # ✅ Top-level site pages
 │   ├── about.md
 │   ├── contact.md
 │   ├── blog.md
 │   ├── terms.md
-│   └── projects.md
+│   └── interviews.md (not linked via nav for dev)
 │
 ├── sources/                    # ✅ Fulltext raw documents (PDFs, TXT, DOCX)
 │   ├── DB-045.txt
@@ -144,7 +140,14 @@ This project documents and analyzes university administrative response to identi
 │       ├── reddit1.png
 │       └── post_snippet.md
 │
-├── quiet-crawler/              # ✅ Staging basket, to be migrated to quiet-crawler repo
+├── quiet-crawler/              # ✅ Staging basket, to be migrated to quiet-crawler repo or for final display on-site
+│   │ 
+│   ├── documentation/ 
+│   │   └── documentation.md
+│   │   └── proposal.md
+│   ├── backend/ 
+│   │   └── codebook.md
+│   │   └── methodology.md
 │   ├── prompts/                # Prompt templates and instruction files (Claude, GPT)
 │   │   ├── system_prompt.txt
 │   │   ├── codebook_protocol.txt
