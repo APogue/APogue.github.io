@@ -21,6 +21,14 @@ date: 2025-8-4
 
 	- student sentiment (reddit, etc)
 
+	- the marketplace of ideas, who is trying (which Jewish group) is trying to "control the narrative" and which is arguing against exclusion in good faith?
+
+		- is it possible there is rhetorical divergence at least with respect to chilling free speech (everyone including Hillel is entitled to their opinion, if they want to fight pro-palestinian speech, so be it. the question is, did they want to shut down free speech?)
+
+			- were they proponents of rules that facilitated heckler's vetos and violence? 
+
+			- or were they simply putting their own political hat (and at times condemnation) of pro-palestinian groups into the ring?
+
 	- Reports, internal documents, retelling of the situation 
 
 		- sams reports and the 21 solutions overlap
