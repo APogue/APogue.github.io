@@ -14,3 +14,7 @@ toc: true
 - The question is, was he aware that outside agitators posed a serious and ongoing threat to students? Did the administration make that clear to him? Or were they treated like "ghosts?"
 
 - Would it have helped John Thomas to know that there were issues ongoing for a long period of time? Because if the police response needs to be of a certain "size," the size requirements are always met when facing the students, yet were not met when facing outside assailants? Was he aware that these people posed an ongoing threat to students? 
+
+- Were you prepared for the possibility of passive skirmishes, incidents, and outbursts, in your mind? 
+
+- Were you prepared for a coordinated attack? 

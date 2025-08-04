@@ -119,7 +119,7 @@ the university’s fundamental mission, “which is to discover knowledge and to
 to its students and to society at large.””
 
 Discovering knowledge puts the university on the cutting edge of new ideas. The edge is not a place where 
-everyone may be "comfortable;" consequently UCLA relies on the First Amendment to function. 
+everyone may be "comfortable;" consequently UCLA relies on the First Amendment to protect academic speech. 
 
 “Does the First Amendment apply to UCLA? Yes, because as an extension of the California government, 
 UCLA is a state actor. So, if UCLA constrains your freedom of speech, then the First Amendment most 

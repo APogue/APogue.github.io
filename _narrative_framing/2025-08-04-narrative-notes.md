@@ -19,6 +19,8 @@ date: 2025-8-4
 
 		- who is unwilling to be held accountable for the consequences of doing so? 
 
+	- student sentiment (reddit, etc)
+
 	- Reports, internal documents, retelling of the situation 
 
 		- sams reports and the 21 solutions overlap
