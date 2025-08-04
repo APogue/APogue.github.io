@@ -53,6 +53,12 @@ collections:
   interviews:
     output: true
     permalink: /interviews/:name/
+  legacy:
+    output: true
+    permalink: /legacy/:name/
+  narrative_framing:
+    output: true
+    permalink: /narrative_framing/:name/
 
 # Defaults for layouts
 defaults:

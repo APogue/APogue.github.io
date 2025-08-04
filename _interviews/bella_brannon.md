@@ -43,9 +43,7 @@ Hillel’s student president Bella Brannon stated in a Daily Bruin article dated
 
 - why did you feel you needed to take it upon yourself to bring the case for impeachment against verdugo? 
 
-- Do you believe that JVP has shown any antisemitism in their protests? 
-
-    - They do work with SJP and others, but no evidence of working with CAC, why do you think that is? 
+- Mention what happened in Michigan, do you believe that JVP has shown any antisemitism in their protests? 
 
 - Do you have any grievances with the university specifically in how they handled the period from Oct 11, 2023 and beyond? 
 
