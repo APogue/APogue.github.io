@@ -43,3 +43,6 @@ date: 2025-8-4
 
 	- but even then there were issues with bias (June 10th)
 
+- the jewish is always the visible stuff so that's what the school caters to, they're acting like a business 
+
+	- ethnic social media always acts like a huge amplification network (across many nationalities and cultures), but how many Palestinians are there in the world? It's not a strong network
