@@ -43,6 +43,10 @@ Hillel’s student president Bella Brannon stated in a Daily Bruin article dated
 
 - why did you feel you needed to take it upon yourself to bring the case for impeachment against verdugo? 
 
+- were there reports submitted against CAC in response to their presence in the encampment? 
+
+    - what was the response? From the admin? From Office of EDI? 
+
 - Mention what happened in Michigan, do you believe that JVP has shown any antisemitism in their protests? 
 
 - Do you have any grievances with the university specifically in how they handled the period from Oct 11, 2023 and beyond? 

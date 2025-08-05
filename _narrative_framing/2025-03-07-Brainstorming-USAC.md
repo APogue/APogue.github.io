@@ -8,6 +8,8 @@ date: 2025-03-07 12:42 PM
 updated_date: 2025-4-15 2:41 PM
 ---
 
+** This has been refactored into another document (obsolete)
+
 This file is under administrative calls for attention, a lack of administrative attention can make students feel unsafe. 
 
  NSJP Conference in 2018 to CAC and USAC shift to Eli Tsives to social media to backlash

@@ -25,6 +25,13 @@ toc: true
 
 - Held the Kaplan teach-in and contacted UCLA admin over the harassment incident
 
+- What was the outcome with Office of IDE? 
+
+- What was the outcome of the police report
+
+- (no follow up at least from the administration as to the outcome of the "investigation") this is the kind of accountability transparency that is totally necessary
+
+
 ### Questions
 
 - Can she ID the anyone who was there? 

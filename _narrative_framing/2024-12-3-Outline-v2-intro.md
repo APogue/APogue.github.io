@@ -7,7 +7,7 @@ toc: true
 date: 2025-1-29 
 --- 
 
-
+* missing some of the either beck or drake newsroom statements here (they did make some vague safety references alongside Block)
 
 ## Hook 1
 
