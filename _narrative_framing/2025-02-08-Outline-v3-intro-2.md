@@ -4,8 +4,13 @@ title: "Outline-v3-intro-2"
 published: true
 author: Alexie Pogue
 date: 2025-2-10 10:44 AM
-updated_date: 2025-2-22 2:03 PM 
+updated_date: 2025-8-06 1:15 PM 
 ---
+
+- Keep the free speech section in some form
+
+- Keep the marketplace of ideas in some form
+
 
 relevant links - [newsroom](https://newsroom.ucla.edu/campus-statements), [chancellor](https://chancellor.ucla.edu/messages)
 

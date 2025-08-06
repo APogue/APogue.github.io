@@ -15,6 +15,8 @@ date: 2025-08-01
 
 ## Message template
 
+What concerns me is safety, free speech, and that policy was followed. This spans across all groups.
+
 🔹 Message Template (adaptable for text, email, or DM)
 
 Hey [Name],

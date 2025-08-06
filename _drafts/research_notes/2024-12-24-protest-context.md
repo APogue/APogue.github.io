@@ -235,6 +235,8 @@ Eli Tsives & Milagro Jones
 
 - [Eli Tsives one of many reddit](https://www.reddit.com/r/Destiny/comments/1cg9xol/jewish_ucla_student_denied_access/)
 
+- [Eli Reddit commentary](https://www.reddit.com/r/ucla/comments/1cjck8s/lets_talk_about_student_influencer_eli_tsives/)
+
 - [Eli Tsives biggest IG post](https://www.instagram.com/p/C6WseJ2Jp3x/)
 
 Audio from a mother to UCPD

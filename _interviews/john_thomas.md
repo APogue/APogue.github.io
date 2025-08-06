@@ -28,3 +28,9 @@ toc: true
 	- were you prepared for the Tuesday skirmishes? 
 
 	- were you prepared for a coordinated and planned attack on the university the following day?
+
+- when did they decide to prepare to issue the dispersal order for the encampment? Was it on May 1st? Or were forces on standby earlier than that? 
+
+- were you aware of the violence that occurred on the evening of April 29th? 
+
+	- what was the administrative plan wrt to clearing the encampment after that incident? was it changed or unchanged as a result of April 29th? 
