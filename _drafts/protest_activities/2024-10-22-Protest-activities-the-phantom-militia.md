@@ -5,7 +5,7 @@ title: "Protest activities-the phantom militia"
 published: false
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
-updated_date: 2024-11-30 4:58 PM
+updated_date: 2025-08-05 8:49 PM
 ---
 
 Thesis1: When a **serious incident** occurred in October, the university did not find it merited a direct response. 
@@ -71,6 +71,16 @@ The October incident was serious, it needs to be relayed as such. And informatio
 		In the statement, the UCLA spokesperson said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
 
 		“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect,” they said in the statement."
+
+- Oct 27th, [Chancellor statement](https://newsroom.ucla.edu/maintaining-a-safe-learning-and-working-environment-for-all)
+
+		"The ongoing conflict in the Middle East has stirred very deep emotions in many of us. But this does not in the least give anyone in our community — or anyone visiting our campus — license to make our students, staff or faculty feel unsafe.
+
+		In the past several weeks, my leadership team and I have heard from people across our community, from a range of backgrounds, who are feeling anxious and afraid because of hateful things they have heard at events or rallies on our campus. These concerns are taking place against the backdrop of a stark rise in antisemitism over the course of the past several years." (for post time check the html)
+
+- Oct 27th, [Resources to support safety, respect and well-being](https://newsroom.ucla.edu/resources-to-support-safety-respect-and-well-being)
+
+		"At on-campus events, UCPD and Student Affairs Monitors — who are trained on free expression rights and de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions and protect participants’ right to speak, be heard and hear others." (for post time check the html)
 
 - [Nov 7th incident](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
 

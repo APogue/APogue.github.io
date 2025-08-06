@@ -43,3 +43,6 @@ toc: true
 	- Was the guy who held up his phone that said "enjoy tonight" one of them? 
 
 		- It was clearly a coordinated attack, planned, premeditated 
+
+- How would it feel to know that masked assailants who may have ID'd a student were now free to attend campus events and be on campus at any time
+	
