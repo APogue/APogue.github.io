@@ -5,8 +5,11 @@ title: "Protest activities-the phantom militia"
 published: false
 author: Alexie Pogue
 date: 2024-10-22 8:00 PM
-updated_date: 2025-08-05 8:49 PM
+updated_date: 2025-08-06 12:27 PM
+STATUS: Partially datafied - main quotes extracted
 ---
+
+Search "not datafied" for undatafied quotes
 
 Thesis1: When a **serious incident** occurred in October, the university did not find it merited a direct response. 
 
@@ -56,13 +59,19 @@ The October incident was serious, it needs to be relayed as such. And informatio
 
 	- [UC SJP response](https://www.instagram.com/p/CygsqBTPKsQ/?hl=en&img_index=3), Oct 17th
 
+		- Titled: Condemnation Letter of the University of California Board of Regents Statement on Mideast Violence
+
+		- not datafied
+
 - [Off campus protests](https://www.instagram.com/p/CyTYyrwrue7/?utm_source=ig_embed&ig_rid=63fa4fd5-c1f3-4506-9d75-3cd1c6100342)
 
 	- Assault, intimidation
 
 	- Police did not intervene or told them to leave
 
-- Oct 27th, [Hundreds of UCLA students participate in march, walkout for Palestine](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
+	- not datafied
+
+- Oct 26th, [Hundreds of UCLA students participate in march, walkout for Palestine](https://dailybruin.com/2023/10/26/hundreds-of-ucla-students-participate-in-march-walkout-for-palestine)
 
 	- They requested comment and heard back in the form of an email. 
 
@@ -76,11 +85,13 @@ The October incident was serious, it needs to be relayed as such. And informatio
 
 		"The ongoing conflict in the Middle East has stirred very deep emotions in many of us. But this does not in the least give anyone in our community — or anyone visiting our campus — license to make our students, staff or faculty feel unsafe.
 
-		In the past several weeks, my leadership team and I have heard from people across our community, from a range of backgrounds, who are feeling anxious and afraid because of hateful things they have heard at events or rallies on our campus. These concerns are taking place against the backdrop of a stark rise in antisemitism over the course of the past several years." (for post time check the html)
+		In the past several weeks, my leadership team and I have heard from people across our community, from a range of backgrounds, who are feeling anxious and afraid because of hateful things they have heard at events or rallies on our campus. These concerns are taking place against the backdrop of a stark rise in antisemitism over the course of the past several years." 
 
 - Oct 27th, [Resources to support safety, respect and well-being](https://newsroom.ucla.edu/resources-to-support-safety-respect-and-well-being)
 
-		"At on-campus events, UCPD and Student Affairs Monitors — who are trained on free expression rights and de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions and protect participants’ right to speak, be heard and hear others." (for post time check the html)
+	- authors: Monroe Gordon Jr. (Vice Chancellor for Student Affairs), Michael Beck (Administrative Vice Chancellor), and Mitchell Chang (Interim Vice Provost for Equity, Diversity and Inclusion)
+
+		"At on-campus events, UCPD and Student Affairs Monitors — who are trained on free expression rights and de-escalation techniques, and who understand campus policies and operations — are present to defuse possible tensions and protect participants’ right to speak, be heard and hear others." 
 
 - [Nov 7th incident](https://www.instagram.com/p/CzXnL2ELkpd/?img_index=1)
 

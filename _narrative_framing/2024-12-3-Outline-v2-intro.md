@@ -5,6 +5,7 @@ published: true
 author: Alexie Pogue
 toc: true
 date: 2025-1-29 
+status: partially datafied, incomplete
 --- 
 
 * missing some of the either beck or drake newsroom statements here (they did make some vague safety references alongside Block)

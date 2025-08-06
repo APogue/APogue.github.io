@@ -4,7 +4,7 @@ toc: true
 title: "Develop the narrative exercise"
 published: true
 author: Alexie Pogue
-date: 2025-08-05 PM
+date: 2025-08-05 
 ---
 
 I can see you're dealing with a very real challenge that many investigative journalists and writers face - you've done extensive research and have compelling material, but you're stuck in the "research loop" and can't find the narrative thread. Let me help you break through this.
