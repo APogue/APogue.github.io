@@ -30,7 +30,8 @@ Current oversight relies heavily on anecdotal narratives or formal complaints fi
 
 ## The Approach
 
-### Structured Incident Discovery
+### Incident Discovery
+
 Incident selection is based on a transparent inclusion rule, not subjective judgment.
 
 Each incident must:
@@ -42,19 +43,31 @@ Each incident must:
 
 This method avoids selection bias by excluding incidents discovered through outside media (or social media), administrative framing, or legal complaints.
 
-### Incident Response Characterization
-Every incident is coded using 20+ variables across multiple dimensions:
-- Administrative response characteristics (timing, tone, enforcement)
-- Incident attributes (severity, visibility, participants)
-- Policy application patterns
-- Community impact measures
+### Coding an Incident
+
+Each incident is systematically coded across more than 20 variables in order to characterize how institutions respond to incidents. 
+
+Key dimensions include:
+
+- Administrative response: timing, tone, intervention type, engagement level
+- Incident attributes: severity, visibility, actor/target identity
+- Policy application: whether rules were enforced consistently or cited selectively
+- Community impact: coverage intensity and framing across various types of media
+
+This structure "datafies" incidents, enabling comparative analysis across events while preserving context through qualitative evidence and firsthand accounts.
 
 ### Source-Traceable Analysis
-All classifications link directly to original sources:
-- Public statements and administrative communications
-- Media coverage and documentation
-- Policy documents and enforcement records
-- Each claim is traceable to specific evidence
+
+Every coded value links directly to the underlying source material.
+
+All claims must be justified with exact quotes, drawn from:
+
+- Student, local, or national media coverage, including social media posts and forums  
+- Chancellor and administrative statements  
+- Official policy documents and institutional guidance  
+- Internal communications, third-party reports, and legal filings
+
+Each justification is stored in structured YAML, making the decision process transparent, auditable, and reproducible.
 
 ### AI-Assisted Rigor
 The framework leverages Claude API to:
