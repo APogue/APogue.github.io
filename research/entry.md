@@ -5,6 +5,41 @@ permalink: /research/entry/
 ---
 
 
+[ Source Documents ]
+    ↓
+(Incident scope boundaries)
+    ↓
+[ AI System (Claude) ]
+    ├─ Applies codebook rules
+    ├─ Checks evidence thresholds
+    ├─ Extracts direct quotes
+    ↓
+[ YAML Justification Block ]
+    ├─ Variable: actor_student = true
+    ├─ Justification: "DB-001: 'The student…'"
+    ├─ Source IDs: [DB-001]
+    ↓
+[ Auditable Output ]
+    → Human-verifiable
+    → Structured + reproducible
+    → No inference beyond evidence
+
+
+Annotate it with:
+
+“Constrained, not generative”
+
+“Protocol-bound decision logic”
+
+“Evidence-first processing”
+
+“Supports transparency + policy review”
+
+
+
+
+
+
 
 ### 🔍 Explore the Pipeline  
 **When the record stops, the questions start.**

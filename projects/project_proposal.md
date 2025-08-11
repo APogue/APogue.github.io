@@ -222,7 +222,7 @@ Any campus-affiliated event between Sept 2023 and June 2024 where:
 
 - Must be scoped to clear incident-ness (a moment in time, impact, admin attention, or clear escalation)
 
-Rule applies constantly. Some will involve Jewish students, some Arab students — the rule determines inclusion, not identity or severity.
+Rule applies constantly. Some will involve Jewish students, some Muslim students — the rule determines inclusion, not identity or severity.
 
 ### Tag, no filters by source 
 
