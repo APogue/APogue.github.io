@@ -24,7 +24,7 @@ This case study serves as a proof-of-concept for the broader methodology.
 
 When identity-based harm, protest activity, or policy violations occur on campus, universities must make decisions about safety, speech, and discipline — often under public scrutiny. But key questions are rarely answered clearly:
 
-  Can we determine if institutional responses are fair by tracking what patterns emerge when responses are examined systematically? In other words, are similar incidents handled the same way, regardless of who is involved?
+  Can we determine if institutional responses are fair by determining what patterns emerge when responses are examined systematically? In other words, are similar incidents handled the same way, regardless of who is involved?
 
 Current oversight relies heavily on anecdotal narratives or formal complaints filed long after the fact. This framework addresses that gap by introducing a reproducible, evidence-based methodology for measuring how institutions respond and whether those responses reflect consistent standards across identity groups, protest types, and policy violations.
 
