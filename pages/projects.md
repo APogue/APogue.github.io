@@ -24,7 +24,7 @@ This case study serves as a proof-of-concept for the broader methodology.
 
 When identity-based harm, protest activity, or policy violations occur on campus, universities must make decisions about safety, speech, and discipline — often under public scrutiny. But key questions are rarely answered clearly:
 
-  Can we determine if institutional responses are fair by determining what patterns emerge when responses are examined systematically? In other words, are similar incidents handled the same way, regardless of who is involved?
+  Can we determine if institutional responses are fair by tracking what patterns emerge when responses are examined systematically? In other words, are similar incidents handled the same way, regardless of who is involved?
 
 Current oversight relies heavily on anecdotal narratives or formal complaints filed long after the fact. This framework addresses that gap by introducing a reproducible, evidence-based methodology for measuring how institutions respond and whether those responses reflect consistent standards across identity groups, protest types, and policy violations.
 
@@ -70,11 +70,17 @@ All claims must be justified with exact quotes, drawn from:
 Each justification is stored in structured YAML, making the decision process transparent, auditable, and reproducible.
 
 ### AI-Assisted Rigor
-The framework leverages Claude API to:
-- Scale rigorous coding protocols across incidents
-- Maintain consistency in qualitative assessment
-- Generate auditable decision trails
-- Ensure reproducible analysis
+
+The AI system used in this framework is not a black box or generative assistant. It is a protocol-constrained agent designed to apply structured coding standards consistently across incidents.
+
+Unlike human coders, it offers:
+
+- Consistency — decisions are made the same way every time, without subjective variation
+- Reproducibility — all outputs follow codified rules and transparent protocols
+- Auditability — every classification includes an embedded justification block that can be independently reviewed
+- Scalability — the system is built to process many incidents quickly, making large-scale oversight analysis feasible
+
+This model does not trade off rigor for speed. It is designed to scale without sacrificing evidentiary standards, enabling automated analysis that remains accountable at every step.
 
 ### Open Methodology
 While the core logic remains under development, the framework is designed for:
