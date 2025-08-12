@@ -154,3 +154,29 @@ Is this advocacy?No. It’s a neutral, rule‑based audit method. Findings are l
 Why keep the full codebook private now?To prevent misuse and preserve integrity while thresholds are still being validated. The plan is to open it post‑validation.
 
 What counts as evidence?Official statements, policy text, timestamped reporting, and defined org posts—each referenced directly in YAML outputs.
+
+
+## System Architecture
+
+The framework follows a structured pipeline:
+
+The framework is built on a repeatable sequence — from neutral incident discovery through structured source collection and rule-based coding, to pattern analysis and validation.
+
+Each stage preserves a clear chain from source to conclusion, making findings reproducible and open to review.
+
+Each step maintains:
+- Clear audit trails
+- Source-to-output traceability
+- Reproducible methods
+- Transparent decision logic
+
+## The Codebook
+
+At the heart of this framework is a rigorously defined variable schema that enables consistent cross-incident comparison. The codebook includes:
+
+- **Variable definitions**: Clear criteria for each measured attribute
+- **Coding protocols**: Step-by-step logic for classification
+- **Evidence standards**: Requirements for citation and source strength
+- **Quality controls**: Consistency checks and validation procedures
+
+*Note: Full codebook access is available to vetted collaborators and reviewers.*

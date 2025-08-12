@@ -83,84 +83,75 @@ Unlike human coders, it offers:
 This model does not trade off rigor for speed. It is designed to scale without sacrificing evidentiary standards, enabling automated analysis that remains accountable at every step.
 
 ### Open Methodology
-While the core logic remains under development, the framework is designed for:
-- Replicability across institutions
-- Adaptation to different oversight contexts
-- Transparent validation processes
-- Community review and improvement
 
-## System Architecture
+This framework is designed for transparency, adaptation, and long-term accountability. While originally developed for higher education, its structure supports replication across institutions and oversight contexts.
 
-The framework follows a structured pipeline:
+- Transparent — All coding protocols, source rules, and variable definitions will be public and version-controlled
+- Adaptable — The inclusion logic and variable structure can be tailored to other settings where response equity matters
+- Reproducible — Incident outputs can be regenerated and audited from scratch using the same inputs
+- Evolving — The system is under active development and welcomes community review, testing, and refinement
 
-```
-Incident Discovery → Source Collection → Structured Coding → AI Analysis → Pattern Detection → Validation
-```
+By making each step explicit and verifiable, the methodology invites trust — not just in its findings, but in its process.
 
-Each step maintains:
-- Clear audit trails
-- Evidence linkage
-- Reproducible processes
-- Transparent decision logic
-
-## The Codebook
-
-At the heart of this framework is a rigorously defined variable schema that enables consistent cross-incident comparison. The codebook includes:
-
-- **Variable definitions**: Clear criteria for each measured attribute
-- **Coding protocols**: Step-by-step logic for classification
-- **Evidence standards**: Requirements for source validation
-- **Quality controls**: Consistency checks and validation procedures
-
-*Note: Full codebook access is available to vetted collaborators and reviewers.*
-
-## Broader Applications
-
-While developed for higher education, this framework can adapt to:
-- Protest policing accountability
-- Civil rights enforcement monitoring
-- Corporate DEI audit frameworks
-- Any context requiring systematic measurement of institutional bias
-
-The methodology prioritizes:
-- Reproducibility over interpretation
-- Evidence over assumption
-- Patterns over anecdotes
-- Transparency over opacity
 
 ## Methodological Principles
 
 ### Neutrality Through Structure
-- Apply consistent inclusion rules regardless of group identity
-- Code surface-level observable behaviors, not intentions
-- Let patterns emerge from data, not predetermined conclusions
+
+- Apply consistent inclusion rules regardless of identity group
+- Code observable actions and outcomes, not inferred motives
+- Allow patterns to emerge from the data rather than starting with conclusions
 
 ### Controlled Comparison
-When analyzing disparities, the framework controls for:
+
+Disparities are analyzed while controlling for:
+
 - Incident severity
 - Media visibility
 - Policy violations
 - Temporal factors
 
-This isolation of variables helps distinguish between correlation and potential bias.
+This approach helps separate correlation from potential bias.
 
 ### Transparency and Auditability
-Every analytical decision is:
-- Documented with justification
-- Linked to source evidence
-- Reproducible by other researchers
-- Open to validation
+
+Every decision in the dataset is:
+
+- Documented with its reasoning
+- Linked directly to source evidence
+- Reproducible by others using the same inputs
+- Open to independent validation
+
+## Future Adaptation
+
+This research's current build has a specific purpose — analyzing how university administrations respond to campus incidents — but the method behind it is distinctive. It combines structured coding with qualitative context in a way that’s uncommon in oversight work, allowing patterns to be measured without losing the contextual detail needed to see the full picture. The framework offers a model for modernizing accountability in any setting where decisions are complex, high-stakes, or contested.
+
+Adapting the framework to other fields would require sector-specific rules, data sources, and backend configuration.
+
+Potential contexts include:
+
+- Workplace grievance or HR case handling
+- Utility outage response tracking
+- Grant or funding award decision audits
+- Prioritization of time-critical service requests in healthcare 
+- Case resolution consistency in government agencies
 
 ## Open-Source Commitment
 
-This project is being developed with a commitment to open-source principles. The audit framework, once finalized and validated, will be released publicly to support adaptation across civil rights, journalism, and institutional oversight communities.
+This project is being developed with a strong commitment to open-source principles. The full audit framework — including code, logic, and enforcement protocols — will be released under a permissive license once it’s finalized and validated.
 
-**Why not yet?** The core logic and enforcement protocols are still evolving. Premature release could lead to misuse or inconsistent application. Until validation is complete, vetted collaborators may request access to specific components under review agreements.
+Early release isn’t possible because the system is still in development, and premature publication could:
 
+- Invite misuse or misinterpretation of incomplete logic
+- Undermine enforcement thresholds before validation
+- Reduce credibility through untested deployment
+
+Until then, the code remains private, though specific modules (e.g., output formats, schemas, redacted examples) may be shared with vetted collaborators. Full release is planned after the UCLA case study and audit layer are complete.
+
+This approach follows best practices in responsible AI, open science, and peer-reviewed research: share when stable, not before.
 
 ---
 
-*This framework represents an ongoing effort to bring rigor and transparency to institutional accountability. It's not about proving predetermined conclusions—it's about developing better tools to see patterns that matter.*
 
 
 
@@ -206,30 +197,6 @@ A deeper technical dive
 [Read Docs] → links to /research/methodology  
 
 [Get Code] → links to GitHub
-
-
-### Current Focus: University Case Study
-
-#### The Problem
-- When incidents happen on campus...
-- How do we know if responses are fair?
-- Current oversight relies on...
-- [fourth bullet point]
-
-This is an active, alive project
-
-Text + stat box or heatmap/screenshot
-
-[Left column content]
-
-Analyzing institutional responses to campus incidents...
-
-[Right column - styled box]
-
-**Quick Stats:**
-- 60+ incidents analyzed
-- 20+ variables per incident
-- 3 years of data
 
 
 ---
