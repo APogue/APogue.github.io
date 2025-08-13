@@ -106,10 +106,10 @@ By making each step explicit and verifiable, the methodology invites trust — n
 
 Disparities are analyzed while controlling for:
 
-- Incident severity
-- Media visibility
-- Policy violations
-- Temporal factors
+- Incident severity *(scale of harm or disruption involved)*
+- Media visibility *(extent and reach of coverage)*
+- Policy violations *(whether formal rules were cited or enforced)*
+- Temporal factors *(time between incident and administrative response)*
 
 This approach helps separate correlation from potential bias.
 
@@ -143,7 +143,7 @@ This project is being developed with a strong commitment to open-source principl
 Early release isn’t possible because the system is still in development, and premature publication could:
 
 - Invite misuse or misinterpretation of incomplete logic
-- Undermine enforcement thresholds before validation
+- Open enforcement thresholds to public comment before validation
 - Reduce credibility through untested deployment
 
 Until then, the code remains private, though specific modules (e.g., output formats, schemas, redacted examples) may be shared with vetted collaborators. Full release is planned after the UCLA case study and audit layer are complete.
