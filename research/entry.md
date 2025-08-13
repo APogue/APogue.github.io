@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Entry Points"
+title: "The Pipeline"
 permalink: /research/entry/
 ---
 
+This page - How it works
 
 [ Source Documents ]
     ↓
@@ -24,6 +25,19 @@ permalink: /research/entry/
     → Structured + reproducible
     → No inference beyond evidence
 
+## System Architecture
+
+The framework follows a structured pipeline:
+
+The framework is built on a repeatable sequence — from neutral incident discovery through structured source collection and rule-based coding, to pattern analysis and validation.
+
+Each stage preserves a clear chain from source to conclusion, making findings reproducible and open to review.
+
+Each step maintains:
+- Clear audit trails
+- Source-to-output traceability
+- Reproducible methods
+- Transparent decision logic
 
 Annotate it with:
 
@@ -36,6 +50,47 @@ Annotate it with:
 “Supports transparency + policy review”
 
 
+The pipeline (at a glance)
+
+Incident → Source Trace → Claude API → Structured YAML → Analysis
+
+Incident: Defined via a neutral inclusion rule (Daily Bruin used for event discovery).
+
+Source Trace: Link each data point to specific sources (admin statements, policy docs, media, org posts).
+
+Claude API: Applies the codebook + protocols to produce justified variable assignments.
+
+Structured YAML: One evidence file per incident with values + citations.
+
+Analysis: Compare patterns (e.g., response disparities holding severity/visibility constant).
+
+Core components
+
+1) Inclusion & discovery
+
+Neutral incident rule (scope, dates, campus affiliation)
+
+Keyword search → human screening (multiple incidents can map to one article and vice‑versa)
+
+2) Codebook & protocols
+
+Clear variable definitions (binary, categorical, ordinal, quantitative, structured qualitative)
+
+Enforcement logic prioritizes evidence standards over subjective judgement
+
+3) Evidence standards
+
+Granular citations: claims → exact passages
+
+Minimal sufficient evidence: enough to support, no over‑analysis
+
+Auditability: each decision traceable end‑to‑end
+
+4) AI + human review
+
+Single‑pass AI with attention refresh at checkpoints
+
+Human verification for boundary cases and rubric drift
 
 
 

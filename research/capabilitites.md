@@ -4,179 +4,90 @@ title: "Core Capabilities"
 permalink: /research/capabilities/
 ---
 
-[Structured evidence. Source-linked analysis. AI-assisted coding.]
+> This section breaks down exactly what the system does, how it works, and why it’s different from existing methods.  
+> If the “Explore the Framework” page is the overview, this is the engineering spec — designed to show both technical depth and practical novelty.
 
-[View a sample analysis, read the methodology, or explore the code. See how incidents build the record — and how stories give it depth.]
+---
 
-### Explaining "coding"
-
-In this project, “coded” is closest to the social sciences definition:
-
-Assigning structured values to qualitative evidence using predefined rules.
-
-I'm not writing software, tagging medical records, or running NLP pipelines — I'm applying a structured classification system to human, institutional, and contextual data drawn from sources like statements, reports, and media coverage.
-
-⸻
-
-✅ Recommended Explanation (for Clarity)
-
-Wherever I say “coded,” consider linking or footnoting it once like this:
-
-Every incident is coded using 20+ structured variables based on evidence from source documents.
-(In this context, “coding” refers to systematically categorizing qualitative data using predefined rules — a method adapted from social science research.)
-
-📘 Optional Sidebar Definition:
-
-What does “coded” mean in this project?
-
-In social science research, “coding” means categorizing qualitative information using a structured set of rules.
-
-Here, every campus incident is reviewed and assigned values across 20+ variables (e.g. administrative response type, tone, policy enforcement) based on evidence from public records, statements, and media reports.
-
-This ensures the analysis is reproducible, evidence-bound, and not based on personal interpretation.
-
-Plainspoken definition — “qualitative evidence” can sound abstract or academic, especially to technical or engineering audiences. 
-
-⸻
-
-🧾 Definition: Qualitative Evidence
-
-Qualitative evidence refers to non-numerical information — things like written statements, protest photos, administrative emails, news articles, or social media posts.
-
-It’s data that captures what people say, do, or experience, rather than numbers or metrics. In this project, qualitative evidence includes:
-
-- Student and faculty statements
-
-- Official university communications
-	
-- Media coverage of incidents
-	
-- Policy text and enforcement language
-	
-- Screenshots or photos of protests
-
-📌 Comparison (a contrast box)
-
-Term | Description | Example
-Qualitative | Words, statements, context | “The university condemned the protest.”
-Quantitative | Numbers, measurements | 35 students were arrested
-
-
-## The "AI System" Defined
-
-In this framework, an AI system is not a black box or generative tool. It is a rigorous, protocol-bound agent that operates within well-defined constraints:
-
-- It searches large volumes of source material for relevant content tied to specific incidents
-
-- It applies predetermined rules and thresholds to classify incidents, assess responses, and flag inconsistencies
-
-- Every output must be justified with direct evidence, using exact quotes from cited sources
-
-- All reasoning is documented in a structured, auditable format (YAML), making decisions fully traceable and reproducible
-
-This approach prioritizes precision over prediction, and accountability over automation. The system cannot make inferences beyond the evidence it is given — it must meet codified standards for each decision it outputs.
-
-
-
-
-### Building Tools for Institutional Accountability
-A transparent framework for detecting bias in institutional oversight 
-
-[Visual workflow diagram or sample incident analysis screenshot to convey value]
-
-2.	Before/After Comparison:
-	- Before: “Anecdotal complaints, years later”
-	- After: “Systematic evidence, real-time”
-3.	The Problem/Solution Visual:
-    - Show chaos/unclear responses → organized/transparent analysis
-
-[View Sample Analysis or Explore the Framework Button (CTA)]
+### 1. What This System Is
+A quasi-automated incident coding and analysis framework that applies a targeted semantic lens to raw source material—such as news coverage, administrative statements, and policy documents—in order to extract incident attributes so that events can be comparable. This is accomplished by systematically mapping portions of the text to predefined values in a codebook—a kind of rubric that tells the AI how to make judgments on specific aspects of an incident, based on which categorical values best fit the source evidence. The codebook and relevant protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and relevant context, and the system is rule-bound, ensuring that judgments are made consistently and objectively.
 
 
 ---
 
-## The Approach
-[4 key innovations, maybe with icon fonts or emoji]
-- 📊 Structured Evidence Collection: Every incident coded using 20+ variables
-- 🔍 Source-Traceable Analysis: All claims linked to specific documents
-- 🤖 AI-Assisted Consistency: Using Claude API to scale rigorous coding protocols
-- 📂 Open Methodology: Replicable framework others can adapt
+### 2. Coding, Defined
+In social science, *coding* means systematically categorizing qualitative evidence to identify patterns.  
+Here, that means:
+
+- 20+ predefined variables from a formal codebook  
+- Each variable assigned only when supported by **direct, in-scope quotes**  
+- Every decision stored in **YAML** with:
+  - `value` (coded outcome)
+  - `justification` (reasoning)
+  - `sources` (document IDs)
+
+**Why this is different:**  
+Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind.  
+This system keeps the rigor *and* adds scale—every claim is still traceable to the exact words that support it.
 
 ---
 
-The pipeline (at a glance)
+### 3. The AI System
+Most AI tools summarize, score sentiment, or flag topics without showing their work.  
+This framework uses an LLM differently:
 
-Incident → Source Trace → Claude API → Structured YAML → Analysis
+- Acts as a **protocol-bound auditor**, not a free-form summarizer  
+- Follows codebook logic and evidence thresholds exactly  
+- Cannot make claims without verifiable quotes  
+- Outputs structured YAML, not prose
 
-Incident: Defined via a neutral inclusion rule (Daily Bruin used for event discovery).
+Very few current workflows enforce this kind of per-variable justification inside an automated pipeline.
 
-Source Trace: Link each data point to specific sources (admin statements, policy docs, media, org posts).
+---
 
-Claude API: Applies the codebook + protocols to produce justified variable assignments.
+### 4. Evidence Standards & Auditability
+- **Quote-level evidence:** every coded value links to specific, in-boundary text  
+- **Structured reasoning:** justifications embedded alongside citations  
+- **Reproducibility:** same inputs produce the same outputs, all version-controlled  
+- **Audit-ready:** any third party can retrace the logic from source to code
 
-Structured YAML: One evidence file per incident with values + citations.
+---
 
-Analysis: Compare patterns (e.g., response disparities holding severity/visibility constant).
+### 5. Human-in-the-Loop Oversight
+Automation accelerates the mechanical work, but human judgment remains critical for:
 
-Core components
+- Setting the incident inclusion rules  
+- Resolving ambiguous or edge cases  
+- Checking for consistency drift  
+- Investigating gaps via FOIA, interviews, and supplemental searches  
 
-1) Inclusion & discovery
+This ensures the system remains accountable and context-aware.
 
-Neutral incident rule (scope, dates, campus affiliation)
+---
 
-Keyword search → human screening (multiple incidents can map to one article and vice‑versa)
+### 6. Technical Implementation
+- **Pipeline:**  
+  1. Input curated sources (DB articles, admin comms, policies)  
+  2. Claude API applies codebook rules and extracts quotes  
+  3. Outputs YAML with `value` + `justification` + `sources`  
+  4. Automated and human validation  
 
-2) Codebook & protocols
+- **Scale:** ~50+ incidents coded with 20+ variables each in ~10 minutes/incident (once sources are prepped)  
+- **Interoperability:** YAML is human-readable and machine-parsable for analysis, visualization, or external audit
 
-Clear variable definitions (binary, categorical, ordinal, quantitative, structured qualitative)
+---
 
-Enforcement logic prioritizes evidence standards over subjective judgement
+### How This Compares to Current Approaches
+*Most systems force a trade-off between rigor, speed, and auditability — this framework delivers all three.*
 
-3) Evidence standards
-
-Granular citations: claims → exact passages
-
-Minimal sufficient evidence: enough to support, no over‑analysis
-
-Auditability: each decision traceable end‑to‑end
-
-4) AI + human review
-
-Single‑pass AI with attention refresh at checkpoints
-
-Human verification for boundary cases and rubric drift
-
-
-FAQ (short)
-
-Is this advocacy?No. It’s a neutral, rule‑based audit method. Findings are limited to the documented corpus and time window.
-
-Why keep the full codebook private now?To prevent misuse and preserve integrity while thresholds are still being validated. The plan is to open it post‑validation.
-
-What counts as evidence?Official statements, policy text, timestamped reporting, and defined org posts—each referenced directly in YAML outputs.
-
-
-## System Architecture
-
-The framework follows a structured pipeline:
-
-The framework is built on a repeatable sequence — from neutral incident discovery through structured source collection and rule-based coding, to pattern analysis and validation.
-
-Each stage preserves a clear chain from source to conclusion, making findings reproducible and open to review.
-
-Each step maintains:
-- Clear audit trails
-- Source-to-output traceability
-- Reproducible methods
-- Transparent decision logic
-
-## The Codebook
-
-At the heart of this framework is a rigorously defined variable schema that enables consistent cross-incident comparison. The codebook includes:
-
-- **Variable definitions**: Clear criteria for each measured attribute
-- **Coding protocols**: Step-by-step logic for classification
-- **Evidence standards**: Requirements for citation and source strength
-- **Quality controls**: Consistency checks and validation procedures
-
-*Note: Full codebook access is available to vetted collaborators and reviewers.*
+| Feature / Goal | **Manual Coding** (e.g., NVivo, Atlas.ti) | **Automated Detection** (e.g., GDELT, ACLED) | **This Framework** |
+|----------------|------------------------------------------|----------------------------------------------|--------------------|
+| **Evidence Link** | Quotes cited manually, not always consistent | Usually none – relies on keyword or topic flags | **Every value tied to in-scope quotes** |
+| **Rigor** | High, but slow and expensive | Low to moderate – shallow context | **High – enforces strict codebook rules** |
+| **Scale** | ~10 incidents/month per researcher | Thousands/day | **50+ incidents in hours, with audit trail** |
+| **Consistency** | Varies by coder | Consistent, but brittle to context changes | **Consistent + context-aware** |
+| **Auditability** | Manual review of notes | Not audit-ready | **Fully audit-ready YAML outputs** |
+| **Human Oversight** | Full | Minimal or none | **Targeted – humans handle edge cases** |
+| **Use of AI** | None or basic text search | Pattern detection, sentiment scoring | **Protocol-bound LLM as evidence auditor** |
+| **Reproducibility** | Moderate – depends on documentation | Low – often proprietary | **High – same inputs produce same outputs** |
+| **Typical Output** | Narrative themes, coded spreadsheets | Event counts, maps | **Structured, machine-readable YAML + justifications** |

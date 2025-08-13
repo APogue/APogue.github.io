@@ -4,6 +4,8 @@ title: "For You"
 permalink: /research/audience/
 ---
 
+This page - Who it serves
+
 ### Get Involved
 
 [Different CTAs for different audiences]
@@ -14,37 +16,35 @@ permalink: /research/audience/
 
 [For Funders] → links to contact form
 
+## The Approach
+[4 key innovations, maybe with icon fonts or emoji]
+- 📊 Structured Evidence Collection: Every incident coded using 20+ variables
+- 🔍 Source-Traceable Analysis: All claims linked to specific documents
+- 🤖 AI-Assisted Consistency: Using Claude API to scale rigorous coding protocols
+- 📂 Open Methodology: Replicable framework others can adapt
 
 
-Definition of AI System (Technical)
-In this study, the AI system refers to a constrained large language model (LLM) workflow configured for structured incident coding, not open-ended content generation. It functions as a controlled classification agent, operating under strict protocols to ensure reproducibility, rigor, and auditability.
 
-Key properties:
+FAQ (short)
 
-- Evidence-Grounded Operation:
-All outputs are derived exclusively from a bounded set of source documents. The system is prohibited from speculative inference. Each coded variable must be supported by direct textual evidence.
+Is this advocacy?No. It’s a neutral, rule‑based audit method. Findings are limited to the documented corpus and time window.
 
-- Threshold-Based Evaluation:
-The system applies variable-specific criteria to determine whether evidentiary thresholds are met (e.g., quote count, actor identification, presence of policy language). These criteria are defined in a formal codebook and justification protocol.
+Why keep the full codebook private now?To prevent misuse and preserve integrity while thresholds are still being validated. The plan is to open it post‑validation.
 
-- Structured Output Format:
-For each variable, the system produces a YAML-encoded justification block that includes:
+What counts as evidence?Official statements, policy text, timestamped reporting, and defined org posts—each referenced directly in YAML outputs.
 
-	- the selected value
+### Building Tools for Institutional Accountability
+A transparent framework for detecting bias in institutional oversight 
 
-	- an inline citation of one or more exact quotes
+[Visual workflow diagram or sample incident analysis screenshot to convey value]
 
-	- an explanation of how those quotes satisfy the required standard
+2.	Before/After Comparison:
+	- Before: “Anecdotal complaints, years later”
+	- After: “Systematic evidence, real-time”
+3.	The Problem/Solution Visual:
+    - Show chaos/unclear responses → organized/transparent analysis
 
-- Source Traceability:
-All decisions are accompanied by document-level source IDs and exact quote strings, enabling full reconstruction and third-party verification of any output.
-
-- Non-Generative, Protocol-Constrained Use of LLMs:
-The LLM is treated as an evidence auditor, not a knowledge generator. It operates within a closed context, with fixed boundaries (incident scope, coding logic, source set), and its reasoning is recorded step-by-step using XML-tagged chains of thought.
-
-This architecture supports the development of transparent, source-traceable AI systems for institutional accountability — optimized for policy validity and public trust, not speed or scale.
-
-
+[View Sample Analysis or Explore the Framework Button (CTA)]
 
 
 ## Get Involved
