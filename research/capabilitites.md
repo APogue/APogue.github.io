@@ -42,25 +42,50 @@ Evidentiary requirements organically pair data and context, e.g. "`administrativ
 Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind. This system keeps the rigor *and* adds scale—every claim is traceable to the exact words that support it, and it can handle dozens of incidents efficiently. 
 
 ---
+   
+## 3. The AI System is Analytical, Not Creative
 
-### 3. The AI System
-Most AI tools summarize, score sentiment, or flag topics without showing their work.  
-This framework uses an LLM differently:
+This system treats the AI model as a **protocol-bound auditor** inside a controlled pipeline — essentially a *human-executable algorithm* expressed as explicit decision rules.
 
-- Acts as a **protocol-bound auditor**, not a free-form summarizer  
-- Follows codebook logic and evidence thresholds exactly  
-- Cannot make claims without verifiable quotes  
-- Outputs structured YAML, not prose
+**How this differs from typical AI use:**  
+AI is often used for open-ended tasks — summarizing, generating content, or flagging patterns without showing their work.  
 
-Very few current workflows enforce this kind of per-variable justification inside an automated pipeline.
+This framework instead uses the model as an **analytical decision engine** that:  
 
----
+- Executes **production rules** derived from the codebook (IF-THEN logic)  
+- Can only output what it can **prove** with direct, relevant quotes  
+- Applies **deterministic, procedural logic** — protocols ensure that the same inputs always yield the same outputs
+- Documents its reasoning chain inside structured tags for auditability  
+- Operates as part of a **decision support system**, not a creative assistant  
 
-### 4. Evidence Standards & Auditability
-- **Quote-level evidence:** every coded value links to specific, in-boundary text  
-- **Structured reasoning:** justifications embedded alongside citations  
-- **Reproducibility:** same inputs produce the same outputs, all version-controlled  
-- **Audit-ready:** any third party can retrace the logic from source to code
+> *Example:* If coding for “police involvement,” the model must confirm police presence in the sources, determine the role played (e.g., monitoring, enforcement), and classify accordingly — all based solely on direct, relevant quotes.  
+
+**Built-in verification:**  
+The system enforces a three-layer audit trail common to expert systems:  
+
+- **Quote-level** — Every value is tied to exact text from source material  
+- **Logic-level** — Reasoning steps preserved in structured, machine-readable tags  
+- **Output-level** — Validated YAML that can be parsed, checked, and re-run for reproducibility  
+
+**Why this approach matters:**  
+Unlike black-box AI or conventional human coding, every classification is **transparent, reproducible, and falsifiable**. Any third party can follow the chain from *source document → quoted evidence → decision rule → output*. This transforms qualitative coding into a form of **algorithmic decision-making** that retains full context while enforcing strict evidence standards at scale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -73,18 +98,6 @@ Automation accelerates the mechanical work, but human judgment remains critical 
 - Investigating gaps via FOIA, interviews, and supplemental searches  
 
 This ensures the system remains accountable and context-aware.
-
----
-
-### 6. Technical Implementation
-- **Pipeline:**  
-  1. Input curated sources (DB articles, admin comms, policies)  
-  2. Claude API applies codebook rules and extracts quotes  
-  3. Outputs YAML with `value` + `justification` + `sources`  
-  4. Automated and human validation  
-
-- **Scale:** ~50+ incidents coded with 20+ variables each in ~10 minutes/incident (once sources are prepped)  
-- **Interoperability:** YAML is human-readable and machine-parsable for analysis, visualization, or external audit
 
 ---
 

@@ -124,6 +124,19 @@ The system flags where the evidence ends — missing follow-through, unclear enf
 
 When documents go silent, the pipeline continues — through structured outreach and testimony designed to fill the gap.
 
+
+
+### 6. Technical Implementation
+- **Pipeline:**  
+  1. Input curated sources (DB articles, admin comms, policies)  
+  2. Claude API applies codebook rules and extracts quotes  
+  3. Outputs YAML with `value` + `justification` + `sources`  
+  4. Automated and human validation  
+
+- **Scale:** ~50+ incidents coded with 20+ variables each in ~10 minutes/incident (once sources are prepped)  
+- **Interoperability:** YAML is human-readable and machine-parsable for analysis, visualization, or external audit
+
+
 ---
 
 > **Every interview is tied to the question that prompted it. Every step stays on record.**
