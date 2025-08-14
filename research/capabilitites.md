@@ -4,8 +4,7 @@ title: "Core Capabilities"
 permalink: /research/capabilities/
 ---
 
-> This section breaks down exactly what the system does, how it works, and why it’s different from existing methods.  
-> If the “Explore the Framework” page is the overview, this is the engineering spec — designed to show both technical depth and practical novelty.
+> In oversight work, the distance between "what happened" and "what gets measured" often determines whether accountability is possible at all. This framework treats that gap as an engineering problem: how do we preserve the full context of human experience while creating data rigorous enough to reveal institutional patterns? The answer isn't to choose between stories and statistics, but to build a bridge between them—one that's transparent, reproducible, and designed to resist the very biases it aims to detect.
 
 ---
 
@@ -16,19 +15,37 @@ A quasi-automated incident analysis framework that applies a semantic lens to so
 ---
 
 ### 2. Coding, Defined
-In social science, *coding* means systematically categorizing qualitative evidence to identify patterns.  
-Here, that means:
 
-- 20+ predefined variables from a formal codebook  
-- Each variable assigned only when supported by **direct, in-scope quotes**  
-- Every decision stored in **YAML** with:
+At the core of the framework is the codebook — the structured logic that drives the entire system and represents the project's key intellectual property.
+
+**What is "coding" in this context?**  
+In social science research, "coding" means systematically categorizing qualitative information to identify patterns, themes, and relationships. It's not about programming in the computer science sense — it's about understanding complex human events.
+
+**How the system works:**
+
+- Variables: 20+ aspects of each incident (e.g., administrative response, severity, tone)
+- Values: Each variable has specific classification options:
+
+  - Binary (yes/no)
+  - Categorical (e.g., target group)
+  - Ordinal (low/moderate/high)
+  - Quantitative (number of days)
+  - Structured qualitative (interpreted but systematic)
+
+**What makes this approach unique:**  
+Evidentiary requirements organically pair data and context, e.g. "`administrative_response = Yes`" involves finding and citing exact quotes. Every solution is then stored in YAML with:
+
   - `value` (coded outcome)
   - `justification` (reasoning)
   - `sources` (document IDs)
 
-**Why this is different:**  
-Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind.  
-This system keeps the rigor *and* adds scale—every claim is still traceable to the exact words that support it.
+**Why this approach matters:**  
+Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind. This system keeps the rigor *and* adds scale—every claim is still traceable to the exact words that support it, and it can handle dozens of incidents efficiently. 
+
+
+
+
+
 
 ---
 
