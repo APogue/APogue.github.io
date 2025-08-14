@@ -10,7 +10,7 @@ permalink: /research/capabilities/
 ---
 
 ### 1. What This System Is
-A quasi-automated incident coding and analysis framework that applies a targeted semantic lens to raw source material—such as news coverage, administrative statements, and policy documents—in order to extract incident attributes so that events can be comparable. This is accomplished by systematically mapping portions of the text to predefined values in a codebook—a kind of rubric that tells the AI how to make judgments on specific aspects of an incident, based on which categorical values best fit the source evidence. The codebook and relevant protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and relevant context, and the system is rule-bound, ensuring that judgments are made consistently and objectively.
+A quasi-automated incident analysis framework that applies a semantic lens to source material—such as news coverage, administrative statements, and policy documents—in order to extract incident attributes so that events can be compared. This is accomplished by systematically mapping portions of the text to predefined values in a codebook—a kind of rubric that tells the AI how to make judgments on specific aspects of an incident, based on which categorical values best fit the source evidence. The codebook and relevant protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring that judgments are made consistently and objectively.
 
 
 ---
