@@ -207,3 +207,64 @@ Because it requires:
 
 **Conclusion:**
 Enterprises want reliability, but most haven't yet built pipelines like yours — yours is what many aim for in compliance-heavy fields.
+
+# Technical Classification of Coding Protocols
+
+## Core Technical Terms (Confirmed Accurate)
+
+### Rule-Based Decision Trees
+- **Definition**: Hierarchical conditional logic structures that guide classification decisions
+- **Application**: These protocols create branching paths based on evidence conditions
+
+### Deterministic, Procedural Logic
+- **Definition**: Follows a strict, predetermined sequence with no randomness
+- **Application**: Same inputs always yield same outputs
+
+### Expert Systems
+- **Definition**: Protocols that encode domain expertise into explicit decision rules
+- **Application**: Particularly apt as these protocols capture specialized knowledge
+
+### Deductive Categorical Coding
+- **Definition**: Perfect description for research methodology contexts
+- **Application**: Pre-defined categories applied systematically to data
+
+### Boolean Logic Evaluation
+- **Definition**: True/false conditions leading to classification
+- **Application**: Binary decisions at each node guide final categorization
+
+## Additional Technical Terms That Apply
+
+### Decision Support Systems (DSS)
+- In applied settings, these protocols would be components of a DSS
+
+### Classification Algorithms
+- In machine learning terms, these are manual classification trees
+
+### Ontological Reasoning
+- The hierarchical nature and explicit definitions constitute a simple ontology
+
+### Production Rules
+- In AI/expert systems, these IF-THEN structures are called production rules
+
+### Structured Analytical Techniques (SATs)
+- In intelligence/policy analysis, this approach falls under SATs
+
+## Domain-Specific Terminology
+
+| Domain | Term | Description |
+|--------|------|-------------|
+| **Computer Science** | Finite state machines or decision trees | Sequential state transitions based on inputs |
+| **Logic** | Propositional logic with inference rules | Formal logical structures with defined inference patterns |
+| **Research Methods** | Structured coding protocols or content analysis frameworks | Systematic approaches to qualitative data analysis |
+| **Quality Assurance** | Standardized operating procedures (SOPs) | Step-by-step procedures ensuring consistent execution |
+| **Legal** | Statutory interpretation frameworks | Rule-based approaches to legal text analysis |
+
+## Key Insight
+
+These protocols transform qualitative judgment into **algorithmic decision-making** through explicit rule specification, making subjective coding processes reproducible and auditable. They're essentially **human-executable algorithms** for categorical classification.
+
+### What This Means for the Project
+- The codebook functions as an expert system
+- Each protocol is a production rule set
+- The entire framework constitutes a decision support system
+- The approach bridges qualitative research and computational methods
