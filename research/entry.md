@@ -140,3 +140,19 @@ When documents go silent, the pipeline continues — through structured outreach
 ---
 
 > **Every interview is tied to the question that prompted it. Every step stays on record.**
+
+
+### How This Compares to Current Approaches
+*Most systems force a trade-off between rigor, speed, and auditability — this framework delivers all three.*
+
+| Feature / Goal | **Manual Coding** (e.g., NVivo, Atlas.ti) | **Automated Detection** (e.g., GDELT, ACLED) | **This Framework** |
+|----------------|------------------------------------------|----------------------------------------------|--------------------|
+| **Evidence Link** | Quotes cited manually, not always consistent | Usually none – relies on keyword or topic flags | **Every value tied to in-scope quotes** |
+| **Rigor** | High, but slow and expensive | Low to moderate – shallow context | **High – enforces strict codebook rules** |
+| **Scale** | ~10 incidents/month per researcher | Thousands/day | **50+ incidents in hours, with audit trail** |
+| **Consistency** | Varies by coder | Consistent, but brittle to context changes | **Consistent + context-aware** |
+| **Auditability** | Manual review of notes | Not audit-ready | **Fully audit-ready YAML outputs** |
+| **Human Oversight** | Full | Minimal or none | **Targeted – humans handle edge cases** |
+| **Use of AI** | None or basic text search | Pattern detection, sentiment scoring | **Protocol-bound LLM as evidence auditor** |
+| **Reproducibility** | Moderate – depends on documentation | Low – often proprietary | **High – same inputs produce same outputs** |
+| **Typical Output** | Narrative themes, coded spreadsheets | Event counts, maps | **Structured, machine-readable YAML + justifications** |

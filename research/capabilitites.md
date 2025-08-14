@@ -45,7 +45,7 @@ Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated dete
    
 ## 3. The AI System is Analytical, Not Creative
 
-This system treats the AI model as a **protocol-bound auditor** inside a controlled pipeline — essentially a *human-executable algorithm* expressed as explicit decision rules.
+This system uses the AI model to apply a predefined set of decision rules — a process a human could follow step-by-step — within a controlled, auditable pipeline.
 
 **How this differs from typical AI use:**  
 AI is often used for open-ended tasks — summarizing, generating content, or flagging patterns without showing their work.  
@@ -68,24 +68,7 @@ The system enforces a three-layer audit trail common to expert systems:
 - **Output-level** — Validated YAML that can be parsed, checked, and re-run for reproducibility  
 
 **Why this approach matters:**  
-Unlike black-box AI or conventional human coding, every classification is **transparent, reproducible, and falsifiable**. Any third party can follow the chain from *source document → quoted evidence → decision rule → output*. This transforms qualitative coding into a form of **algorithmic decision-making** that retains full context while enforcing strict evidence standards at scale.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Unlike black-box AI or conventional human coding, every classification is **transparent, reproducible, and falsifiable**. Any third party can follow the chain from *source document → quoted evidence → decision rule → output*. For researchers, journalists, or oversight bodies reviewing this work: You can verify every coding decision by checking the quoted evidence against the stated rule. This transforms qualitative coding into a form of **algorithmic decision-making** that retains full context while enforcing strict evidence standards at scale.
 
 ---
 
@@ -97,21 +80,9 @@ Automation accelerates the mechanical work, but human judgment remains critical 
 - Checking for consistency drift  
 - Investigating gaps via FOIA, interviews, and supplemental searches  
 
+"When evidence is ambiguous or contradictory, the system flags these cases rather than forcing a classification."
+
 This ensures the system remains accountable and context-aware.
 
 ---
 
-### How This Compares to Current Approaches
-*Most systems force a trade-off between rigor, speed, and auditability — this framework delivers all three.*
-
-| Feature / Goal | **Manual Coding** (e.g., NVivo, Atlas.ti) | **Automated Detection** (e.g., GDELT, ACLED) | **This Framework** |
-|----------------|------------------------------------------|----------------------------------------------|--------------------|
-| **Evidence Link** | Quotes cited manually, not always consistent | Usually none – relies on keyword or topic flags | **Every value tied to in-scope quotes** |
-| **Rigor** | High, but slow and expensive | Low to moderate – shallow context | **High – enforces strict codebook rules** |
-| **Scale** | ~10 incidents/month per researcher | Thousands/day | **50+ incidents in hours, with audit trail** |
-| **Consistency** | Varies by coder | Consistent, but brittle to context changes | **Consistent + context-aware** |
-| **Auditability** | Manual review of notes | Not audit-ready | **Fully audit-ready YAML outputs** |
-| **Human Oversight** | Full | Minimal or none | **Targeted – humans handle edge cases** |
-| **Use of AI** | None or basic text search | Pattern detection, sentiment scoring | **Protocol-bound LLM as evidence auditor** |
-| **Reproducibility** | Moderate – depends on documentation | Low – often proprietary | **High – same inputs produce same outputs** |
-| **Typical Output** | Narrative themes, coded spreadsheets | Event counts, maps | **Structured, machine-readable YAML + justifications** |
