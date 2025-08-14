@@ -11,7 +11,6 @@ permalink: /research/capabilities/
 ### 1. What This System Is
 A quasi-automated incident analysis framework that applies a semantic lens to source material—such as news coverage, administrative statements, and policy documents—in order to extract incident attributes so that events can be compared. This is accomplished by systematically mapping portions of the text to predefined values in a codebook—a kind of rubric that tells the AI how to make judgments on specific aspects of an incident, based on which categorical values best fit the source evidence. The codebook and relevant protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring that judgments are made consistently and objectively.
 
-
 ---
 
 ### 2. Coding, Defined
@@ -40,12 +39,7 @@ Evidentiary requirements organically pair data and context, e.g. "`administrativ
   - `sources` (document IDs)
 
 **Why this approach matters:**  
-Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind. This system keeps the rigor *and* adds scale—every claim is still traceable to the exact words that support it, and it can handle dozens of incidents efficiently. 
-
-
-
-
-
+Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind. This system keeps the rigor *and* adds scale—every claim is traceable to the exact words that support it, and it can handle dozens of incidents efficiently. 
 
 ---
 
