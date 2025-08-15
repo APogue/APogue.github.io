@@ -7,24 +7,26 @@ author_profile: true
 
 ## Building Transparent Audit Tools for Institutional Accountability
 
-This framework develops a source-traceable AI system to detect patterns of inequity in how institutions respond to critical incidents. The pilot implementation focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
+This framework integrates a source-traceable AI system into an institutional analysis pipeline to assess potential inequities in responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
 
 
 ## Current Focus: UCLA Case Study
 
-The pilot implementation analyzes 50+ incidents from 2023-2024, testing whether the framework can:
-- Identify patterns in administrative response
-- Compare responses across different affected groups
-- Control for variables like severity, visibility, and policy violations
-- Reveal potential group-based disparities in institutional action
+The pilot implementation analyzes 50+ incidents from 2023-2024, testing whether the framework can identify patterns in administrative responses, including group-based disparities, selective responsiveness, or institutional inaction. Methods include:
+
+Comparing responses across affected groups and within affected groups while controlling for metrics like severity, media visibility, and policy violations and measuring correlation between responses and these metrics as well.
 
 This case study serves as a proof-of-concept for the broader methodology.
 
 ## The Problem
 
+
 When identity-based harm, protest activity, or policy violations occur on campus, universities must make decisions about safety, speech, and discipline — often under public scrutiny. But key questions are rarely answered clearly:
 
-  Can we determine if institutional responses are fair by determining what patterns emerge when responses are examined systematically? In other words, are similar incidents handled the same way, regardless of who is involved?
+- Were comparable incidents handled with equal urgency and attention?
+- Did discretionary choices override established policy or stated principles?
+- Was harm acknowledged and addressed consistently, or met with indifference?
+- Were standards applied fairly, both within individual cases and across different groups?
 
 Current oversight relies heavily on anecdotal narratives or formal complaints filed long after the fact. This framework addresses that gap by introducing a reproducible, evidence-based methodology for measuring how institutions respond and whether those responses reflect consistent standards across identity groups, protest types, and policy violations.
 
@@ -75,19 +77,19 @@ The AI system used in this framework is not a black box or generative assistant.
 
 Unlike human coders, it offers:
 
-- Consistency — decisions are made the same way every time, without subjective variation
-- Reproducibility — all outputs follow codified rules and transparent protocols
+- Consistency — decisions are rules-based, reducing subjective variation
+- Reproducibility — designed to produce the same outputs given a set of inputs
 - Auditability — every classification includes an embedded justification block that can be independently reviewed
-- Scalability — the system is built to process many incidents quickly, making large-scale oversight analysis feasible
+- Scalability — the system is designed to process incidents efficiently, making multi-incident analysis feasible 
 
-This model does not trade off rigor for speed. It is designed to scale without sacrificing evidentiary standards, enabling automated analysis that remains accountable at every step.
+This model does not trade off rigor for speed. It is designed to scale without sacrificing evidentiary standards, enabling semi-automated analysis that remains accountable at every step.
 
 ### Open Methodology
 
 This framework is designed for transparency, adaptation, and long-term accountability. While originally developed for higher education, its structure supports replication across institutions and oversight contexts.
 
-- Transparent — All coding protocols, source rules, and variable definitions will be public and version-controlled
-- Adaptable — The inclusion logic and variable structure can be tailored to other settings where response equity matters
+- Transparent — The criteria for how sources are linked to incidents and how evidence is coded will be public and version-controlled
+- Adaptable — The rules for selecting incidents and how coding variables are defined can be tailored to other settings
 - Reproducible — Incident outputs can be regenerated and audited from scratch using the same inputs
 - Evolving — The system is under active development and welcomes community review, testing, and refinement
 
@@ -124,9 +126,9 @@ Every decision in the dataset is:
 
 ## Future Adaptation
 
-This research's current build has a specific purpose — analyzing how university administrations respond to campus incidents — but the method behind it is distinctive. It combines structured coding with qualitative context in a way that’s uncommon in oversight work, allowing patterns to be measured without losing the contextual detail needed to see the full picture. The framework offers a model for modernizing accountability in any setting where decisions are complex, high-stakes, or contested.
+This research's current build has a specific purpose — analyzing how university administrations respond to campus incidents — but the method behind it is distinctive. It combines structured coding with qualitative context in a way that’s uncommon in oversight work, allowing patterns to be measured without losing the contextual detail needed to see the full picture. The framework offers a model for modernizing accountability in any setting where response equity matters. 
 
-Adapting the framework to other fields would require sector-specific rules, data sources, and backend configuration.
+Adapting the framework to other fields would require sector-specific evidence sources, coding rules, and API configuration.
 
 Potential contexts include:
 

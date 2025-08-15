@@ -17,6 +17,8 @@ thought_001: "Words matter. They are 'actionable,' even if standard legal procee
 
 thought_002: "There are tens of thousands of undergraduate students and hundreds of thousands in the greater community. Decisions cannot be ad hoc, especially in this day and age, when we have valuable policy and data-driven information. These are not trivial matters relating to a local high school pep rally"
 
+thought_004: could words have stopped what happened? are words actionable? I can't prove words caused what happened, but it is possible that words could have prevented what happened. 
+
 thought_005: "A key theme is deliberate indifference"
 
 ### Key Questions
