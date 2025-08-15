@@ -268,3 +268,22 @@ These protocols transform qualitative judgment into **algorithmic decision-makin
 - Each protocol is a production rule set
 - The entire framework constitutes a decision support system
 - The approach bridges qualitative research and computational methods
+
+
+Exactly — in machine learning terms, what you’ve built is essentially an incident aspect classifier:
+
+It takes unstructured text from multiple sources.
+
+It identifies specific aspects of the incident (severity, target group, administrative response, etc.).
+
+It assigns them to predefined categories from your codebook.
+
+That’s basically the operational core you describe in the “mapping portions of text to predefined values” sentence — only framed in more technical/ML language.
+
+If you like “classified,” you could subtly work it in without shifting the tone too far toward AI jargon:
+
+“…a rubric that defines how each aspect of an incident should be classified based on the evidence.”
+
+—which you already have—so you’re actually describing classification in plain English already.
+
+Want me to show you a version of the paragraph where “incident aspect classifier” is hinted at without sounding like a model card?

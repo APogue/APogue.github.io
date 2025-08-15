@@ -7,7 +7,7 @@ author_profile: true
 
 ## Building Transparent Audit Tools for Institutional Accountability
 
-This framework develops source-traceable AI systems to detect patterns of inequity in how institutions respond to critical incidents. The pilot implementation focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
+This framework develops a source-traceable AI system to detect patterns of inequity in how institutions respond to critical incidents. The pilot implementation focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
 
 
 ## Current Focus: UCLA Case Study
