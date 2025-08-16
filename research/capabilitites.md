@@ -10,16 +10,8 @@ permalink: /research/capabilities/
 
 ### 1. What This System Is
 
-A quasi-automated incident analysis framework that reviews source material — such as news coverage, administrative statements, and policy documents — to extract and classify key details so that incidents can be compared. 
-
-It works by mapping portions of text to predefined values in a codebook, a kind of rubric that defines how each aspect of an incident should be classified based on the evidence. 
-
-The codebook and its protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring judgments are objective and consistent.
-
-<!-- 
-A quasi-automated incident analysis framework that applies a semantic lens to source material—such as news coverage, administrative statements, and policy documents—in order to extract incident attributes so that events can be compared. This is accomplished by systematically mapping portions of the text to predefined values in a codebook—a kind of rubric that tells the AI how to make judgments on specific aspects of an incident, based on which categorical values best fit the source evidence. The codebook and relevant protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring that judgments are made consistently and objectively.
--->
-
+This system converts unstructured incident records into structured, source-traceable data. AI applies a fixed set of rules from the codebook — a rubric that defines how to classify each aspect of an incident and what evidence is required to support it — while human oversight provides quality control, ensures evidentiary standards are met, and handles edge case judgment calls. The result is a dataset that makes university behavior comparable across incidents, allowing researchers to test whether patterns of bias or selective enforcement emerge.
+ 
 ---
 
 ### 2. Coding, Defined
