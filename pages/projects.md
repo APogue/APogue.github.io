@@ -7,7 +7,7 @@ author_profile: true
 
 ## Building Transparent Audit Tools for Institutional Accountability
 
-This framework integrates a source-traceable AI system into an institutional analysis pipeline to assess potential inequities in responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
+This framework integrates a source-traceable AI system into an institutional analysis pipeline to determine whether inequities exist in responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
 
 ## Current Focus: UCLA Case Study
 
@@ -29,7 +29,7 @@ When identity-based harm, protest activity, or policy violations occur, universi
 - Was harm acknowledged or met with indifference?  
 - Were sanctions applied consistently and fairly?
 
-Current oversight relies on anecdotal narratives or delayed complaints. This framework closes that gap with a reproducible, evidence-based method for evaluating how institutions apply their standards in practice.
+Current oversight relies on anecdotal narratives or delayed complaints. This framework closes that gap with an evidence-based method for evaluating how institutions apply their standards in practice.
 
 ## The Approach
 
@@ -48,7 +48,7 @@ This method avoids selection bias by excluding incidents discovered through outs
 
 ### Coding an Incident
 
-Each incident is systematically coded across more than 20 variables in order to characterize how institutions respond to incidents. 
+To characterize how institutions respond to incidents, each incident is systematically coded across more than 20 variables.
 
 Key dimensions include:
 
@@ -57,7 +57,7 @@ Key dimensions include:
 - Policy application: whether rules were enforced consistently or cited selectively
 - Community impact: coverage intensity and framing across various types of media
 
-This structure "datafies" incidents, enabling comparative analysis across events while preserving context through qualitative evidence and firsthand accounts.
+Coding "datafies" incidents, enabling comparative analysis across events while preserving context through evidence collection and firsthand accounts.
 
 ### Source-Traceable Analysis
 
