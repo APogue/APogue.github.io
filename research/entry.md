@@ -156,3 +156,13 @@ When documents go silent, the pipeline continues — through structured outreach
 | **Use of AI** | None or basic text search | Pattern detection, sentiment scoring | **Protocol-bound LLM as evidence auditor** |
 | **Reproducibility** | Moderate – depends on documentation | Low – often proprietary | **High – same inputs produce same outputs** |
 | **Typical Output** | Narrative themes, coded spreadsheets | Event counts, maps | **Structured, machine-readable YAML + justifications** |
+
+
+
+## Different standards 
+
+codebook - definitions and values
+
+codebook protocols - standards for evidence collection and thresholds for justification
+
+neutrality standards - source inclusion 
