@@ -7,7 +7,7 @@ author_profile: true
 
 ## Building Transparent Audit Tools for University Accountability
 
-This framework integrates a source-traceable AI system into an institutional analysis pipeline to determine whether inequities exist in university responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on Title VI as applied to campus climate cases involving antisemitism, Islamophobia, and related national-origin bias, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
+This framework integrates a source-traceable AI system into an institutional analysis pipeline to test whether universities respond equitably to critical incidents. The pilot examines campus climate cases under Title VI involving antisemitism, Islamophobia, and related national-origin bias, where incident response data provide a well-bounded testing ground for evaluating oversight processes.
 
 ## Current Focus: UCLA Case Study
 
@@ -18,7 +18,7 @@ Methods include:
 - Cross- and within-group comparisons — analyzing response variations while controlling for incident severity, media visibility, and policy violations
 - Correlation analysis — measuring relationships between responses and these same variables
 
-This case study serves as a proof-of-concept for the broader methodology.
+This case study serves as a proof-of-concept for a broader university accountability methodology.
 
 ## The Problem
 
@@ -74,7 +74,7 @@ Each justification is stored in structured YAML, making the decision process tra
 
 ### AI-Assisted Rigor
 
-The AI system used in this framework is not a black box or generative assistant. It is a protocol-constrained agent designed to apply structured coding standards consistently across incidents.
+The AI system used in this framework is not a black box or generative assistant. It is a protocol-constrained agent designed to apply high methodological standards to every incident.
 
 Unlike human coders, it offers:
 
@@ -83,19 +83,18 @@ Unlike human coders, it offers:
 - Auditability — every classification includes an embedded justification block that can be independently reviewed
 - Scalability — the system is designed to process incidents efficiently, making multi-incident analysis feasible 
 
-The automated AI workflow does not trade off rigor for speed. It can scan hundreds of pages of case files without sacrificing evidentiary standards and audit checks keep it accountable at every step. 
+The automated AI workflow does not trade off quality for speed. It can scan hundreds of pages of case files without sacrificing evidentiary standards, and audit checks keep it accountable at every step. 
 
 ### Open Methodology
 
 This framework was originally developed for Title VI contexts in higher education but the structure is also adaptable to other academic contexts such as Title IX accountability. Based on the Office of Civil Rights complaint log, this already gives the framework plenty to do. 
 
-- Transparent — the source code for any automated steps, the Claude API configuration, and output data processing methodology will be public and version-controlled
+- Transparent — the source code for any automated steps, the Claude API configuration, and the methodology for processing the system’s output data will be public and version-controlled
 - Adaptable — all pilot-specific rules and configurations can be tailored to other academic settings
-- Reproducible — no incident-specific heuristics or hard coding, i.e. all incident outputs can be regenerated using the same inputs
+- Reproducible — no incident-specific heuristics or hard-coding; all incident outputs can be regenerated using the same inputs
 - Evolving — the system is under development and welcomes community review, testing, and refinement
 
 By making each step explicit and verifiable, the methodology invites trust — not just in its findings, but in its process.
-
 
 ## Methodological Principles
 
