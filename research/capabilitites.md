@@ -4,13 +4,17 @@ title: "Core Capabilities"
 permalink: /research/capabilities/
 ---
 
-> In oversight work, the distance between "what happened" and "what gets measured" often determines whether accountability is possible at all. This framework treats that gap as an engineering problem: how do we preserve the full context of human experience while creating data rigorous enough to reveal institutional patterns? The answer isn't to choose between stories and statistics, but to build a bridge between them—one that's transparent, reproducible, and designed to resist the biases it aims to detect.
+> In oversight work, the distance between "what happened" and "what gets measured" often determines whether accountability is possible at all. This framework treats that gap as an engineering problem: how do we preserve the full context of human experience while creating data rigorous enough to reveal institutional patterns? The answer isn't to choose between stories and statistics, but to build a bridge between them—one that's transparent, reproducible, and neutral.
 
 ---
 
 ### 1. What This System Is
 
-A quasi-automated incident analysis framework that reviews source material — such as news coverage, administrative statements, and policy documents — to extract and classify key details so that incidents can be compared. It works by mapping portions of text to predefined values in a codebook, a kind of rubric that defines how each aspect of an incident should be classified based on the evidence. The codebook and its protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring judgments are objective and consistent.
+A quasi-automated incident analysis framework that reviews source material — such as news coverage, administrative statements, and policy documents — to extract and classify key details so that incidents can be compared. 
+
+It works by mapping portions of text to predefined values in a codebook, a kind of rubric that defines how each aspect of an incident should be classified based on the evidence. 
+
+The codebook and its protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring judgments are objective and consistent.
 
 <!-- 
 A quasi-automated incident analysis framework that applies a semantic lens to source material—such as news coverage, administrative statements, and policy documents—in order to extract incident attributes so that events can be compared. This is accomplished by systematically mapping portions of the text to predefined values in a codebook—a kind of rubric that tells the AI how to make judgments on specific aspects of an incident, based on which categorical values best fit the source evidence. The codebook and relevant protocols ensure source processing is targeted, focusing only on elements relevant to institutional behavior and context, and the system is rule-bound, ensuring that judgments are made consistently and objectively.
@@ -40,7 +44,7 @@ In social science research, **"coding"** means systematically categorizing quali
 Evidentiary requirements organically pair data and context, e.g. "`administrative_response = Yes`" involves finding and citing exact quotes. Every solution is then stored in YAML with:
 
   - `value` (coded outcome)
-  - `justification` (reasoning)
+  - `justification` (quotes and final reasoning)
   - `sources` (document IDs)
 
 **Why this approach matters:**  
@@ -69,7 +73,7 @@ This framework instead uses the model as an **analytical decision engine** that:
 The system enforces a three-layer audit trail common to expert systems:  
 
 - **Quote-level** — Every value is tied to exact text from source material  
-- **Logic-level** — Reasoning steps preserved in structured, machine-readable tags  
+- **Reasoning-level** — Thinking steps preserved in structured, machine-readable tags  
 - **Output-level** — Validated YAML that can be parsed, checked, and re-run for reproducibility  
 
 **Why this approach matters:**  

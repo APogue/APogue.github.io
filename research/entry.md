@@ -194,8 +194,14 @@ Timing of the response → that’s already a response attribute. It’s part of
 
 Temporal factors *(time between incident and administrative response)*
 
+I developed the framework’s core components — from codebook and protocol design to Claude API configuration and workflow optimization — integrating engineering methods with social science research standards to ensure both technical precision and methodological rigor.
+
+codebook is full of definitions, protocols are logic, api config are rules so that's api input side. api output side is reasoning not logic so as to not be messy with jargon. 
+
 ### Controlled Comparison
 
 - Incident severity *(scale of harm or disruption involved)*
 - Media visibility *(extent and reach of coverage)*
 - Policy violations *(whether formal rules were clearly broken)*
+
+
