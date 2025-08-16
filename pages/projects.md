@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Building Transparent Audit Tools for Institutional Accountability
+## Building Transparent Audit Tools for University Accountability
 
-This framework integrates a source-traceable AI system into an institutional analysis pipeline to determine whether inequities exist in responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
+This framework integrates a source-traceable AI system into an institutional analysis pipeline to determine whether inequities exist in university responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on Title VI as applied to campus climate cases involving antisemitism, Islamophobia, and related national-origin bias, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
 
 ## Current Focus: UCLA Case Study
 
