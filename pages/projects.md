@@ -87,12 +87,12 @@ The automated AI workflow does not trade off rigor for speed. It can scan hundre
 
 ### Open Methodology
 
-This framework was originally developed for Title VI contexts in higher education but the structure is also adaptable to other academic contexts such as Title IX accountability. If the Office of Civil Rights complaint log is any kind of indication, this already gives the framework plenty to do. 
+This framework was originally developed for Title VI contexts in higher education but the structure is also adaptable to other academic contexts such as Title IX accountability. Based on the Office of Civil Rights complaint log, this already gives the framework plenty to do. 
 
-- Transparent — The source code for any automated steps, the Claude API configuration, and output data processing methodology will be public and version-controlled
-- Adaptable — All pilot-specific rules and configurations can be tailored to other academic settings
-- Reproducible — No incident-specific heuristics or hard coding, i.e. all incident outputs can be regenerated using the same inputs
-- Evolving — The system is under development and welcomes community review, testing, and refinement
+- Transparent — the source code for any automated steps, the Claude API configuration, and output data processing methodology will be public and version-controlled
+- Adaptable — all pilot-specific rules and configurations can be tailored to other academic settings
+- Reproducible — no incident-specific heuristics or hard coding, i.e. all incident outputs can be regenerated using the same inputs
+- Evolving — the system is under development and welcomes community review, testing, and refinement
 
 By making each step explicit and verifiable, the methodology invites trust — not just in its findings, but in its process.
 
@@ -128,8 +128,6 @@ Every decision in the dataset is:
 ## Future Adaptation
 
 This research's current build has a specific purpose — analyzing how university administrations respond to campus incidents — but the method behind it is distinctive. It combines structured coding with qualitative context in a way that’s uncommon in oversight work, allowing patterns to be measured without losing the contextual detail needed to see the full picture. The framework offers a model for modernizing accountability in any setting where response equity matters. 
-
-Adapting the framework to other fields would require sector-specific evidence sources, coding rules, and API configuration.
 
 Potential contexts include:
 
