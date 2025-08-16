@@ -22,14 +22,14 @@ This case study serves as a proof-of-concept for the broader methodology.
 
 ## The Problem
 
-When identity-based harm, protest activity, or policy violations occur on campus, universities must make decisions about safety, speech, and discipline — often under public scrutiny. But key questions are rarely answered clearly:
+When identity-based harm, protest activity, or policy violations occur, universities must decide how to balance safety, speech, and discipline — often under scrutiny. Yet key questions are rarely answered:
 
-- Were comparable incidents handled with equal urgency and attention?
-- Did discretionary choices override established policy or stated principles?
-- Was harm acknowledged and addressed consistently, or met with indifference?
-- Were standards applied fairly, both within individual cases and across different groups?
+- Were incidents handled with equal urgency and care?
+- Did discretion override established policy?
+- Was harm acknowledged or met with indifference?  
+- Were sanctions applied consistently and fairly?
 
-Current oversight relies heavily on anecdotal narratives or formal complaints filed long after the fact. This framework addresses that gap by introducing a reproducible, evidence-based methodology for measuring how institutions respond and whether those responses reflect consistent standards across identity groups, protest types, and policy violations.
+Current oversight relies on anecdotal narratives or delayed complaints. This framework closes that gap with a reproducible, evidence-based method for evaluating how institutions apply their standards in practice.
 
 ## The Approach
 
@@ -78,8 +78,8 @@ The AI system used in this framework is not a black box or generative assistant.
 
 Unlike human coders, it offers:
 
-- Consistency — decisions are rules-based, reducing subjective variation
-- Reproducibility — designed to produce the same outputs given a set of inputs
+- Consistency — decisions are rule-based, reducing subjective variation
+- Reproducibility — designed to produce the same outputs for a given set of inputs
 - Auditability — every classification includes an embedded justification block that can be independently reviewed
 - Scalability — the system is designed to process incidents efficiently, making multi-incident analysis feasible 
 
