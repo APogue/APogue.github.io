@@ -287,3 +287,82 @@ If you like “classified,” you could subtly work it in without shifting the t
 —which you already have—so you’re actually describing classification in plain English already.
 
 Want me to show you a version of the paragraph where “incident aspect classifier” is hinted at without sounding like a model card?
+
+# Minimum Study Design for UCLA Case
+
+## Core Claims
+
+- **Claim A: Cross-group disparity**  
+  Administrative responses differ by group even after controlling for severity, visibility, and policy violations (SVP).
+
+- **Claim B: Visibility asymmetry**  
+  Within pro-I (Jewish) incidents, higher visibility predicts stronger responses.  
+  Within pro-P incidents, visibility does not predict comparable responses.
+
+- **Claim C: Interaction pattern**  
+  The effect of visibility on responses is materially larger for pro-I than for pro-P.
+
+Together, these show **selective responsiveness**: identity matters, and visibility only matters for one group.
+
+---
+
+## Necessary vs. Sufficient Evidence
+
+### Claim A: Cross-group disparity
+- **Necessary:** SVP-matched comparisons across pro-I vs. pro-P.  
+- **Sufficient:** Repeated disparities across multiple strata/time slices.
+
+### Claim B: Visibility asymmetry
+- **Necessary:** Compare high vs. low visibility incidents within each group, SVP held constant.  
+- **Sufficient:** Clear monotonic pattern for pro-I, flat/weak for pro-P.
+
+### Claim C: Identity × Visibility interaction
+- **Necessary:** 2×2 design ({pro-I, pro-P} × {low, high visibility}).  
+- **Sufficient:** Visibility effect is stronger for pro-I than pro-P, robust under sensitivity checks.
+
+---
+
+## Minimum Study Structure
+
+### 2×2 Layout per Stratum
+- pro-I, low visibility  
+- pro-I, high visibility  
+- pro-P, low visibility  
+- pro-P, high visibility  
+
+### Strata (control bands)
+- Severity level (e.g., moderate vs. high)  
+- Policy violation status (yes/no)  
+
+### Sample target
+- **Tight minimum:** 2 strata × 4 cells × 2 incidents ≈ 16 incidents  
+- **Better minimum:** 2 strata × 4 cells × 3 incidents ≈ 24 incidents  
+- **Planned pilot:** 50+ incidents (ample coverage)
+
+---
+
+## Tests to Run
+
+1. **Cross-group (Claim A):**  
+   Within each stratum, compare pro-I vs. pro-P responses after matching SVP.
+
+2. **Within-group (Claim B):**  
+   - Pro-I only: high vs. low visibility.  
+   - Pro-P only: high vs. low visibility.
+
+3. **Interaction (Claim C):**  
+   Compare the *visibility gap* (high – low) across groups.
+
+4. **Falsification checks:**  
+   - High-visibility pro-P incidents with clear harm vs. matched high-visibility pro-I incidents.  
+   - Patterns stable across time windows.
+
+---
+
+## What This Lets You Say
+
+- ✅ Identity predicts response even when SVP is controlled.  
+- ✅ Visibility predicts response **within Jewish incidents** but not within Palestinian incidents.  
+- ✅ The visibility effect itself is group-dependent.  
+- ❌ Cannot prove donor/stakeholder motive.  
+- ✅ Can say the pattern is **consistent with reputation-sensitive selectivity**.

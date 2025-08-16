@@ -166,3 +166,36 @@ codebook - definitions and values
 codebook protocols - standards for evidence collection and thresholds for justification
 
 neutrality standards - source inclusion 
+
+## What is being studied 
+
+Ahh, I see — thanks for clarifying. The core point of your framework is:
+
+Control for the “obvious” explanatory factors (severity, visibility, policy violations, timing).
+
+That way, if disparities remain, they’re less likely to be just correlation and more likely to reflect identity-based differences.
+
+Then, as an add-on, you can explore whether those controlled variables do have predictive value in other contexts.
+
+
+## Jargon
+
+key factors - Severity, visibility, policy violations
+
+core factors - group identity 
+
+all *aspects* of an incident. this is what the AI searches for. there's an inclusion rule, there's an incident, there's an incident boundary. Then the AI searches and finds all *aspects* of the incident in order to assign *attributes*, these attributes are bla (see below)
+
+response attribute is like timing, or policy whether formal rules were cited or enforced
+
+Severity, visibility, policy violations, etc → these are incident attributes (things about the event itself). They can plausibly be used as controls to explain variation in responses.
+
+Timing of the response → that’s already a response attribute. It’s part of the outcome, not an explanatory variable. Controlling for it or asking whether it predicts “response type” is circular.
+
+Temporal factors *(time between incident and administrative response)*
+
+### Controlled Comparison
+
+- Incident severity *(scale of harm or disruption involved)*
+- Media visibility *(extent and reach of coverage)*
+- Policy violations *(whether formal rules were clearly broken)*

@@ -11,14 +11,12 @@ This framework integrates a source-traceable AI system into an institutional ana
 
 ## Current Focus: UCLA Case Study
 
-The pilot implementation analyzes 50+ incidents from 2023-2024, testing whether the framework can identify patterns in administrative responses, including group-based disparities, selective responsiveness, or institutional inaction. 
+The pilot implementation analyzes 50+ incidents from 2023–2024 to test whether the framework can detect systematic disparities in administrative response. Two types of analysis guide this case study:
 
-Methods include:
+- Cross-group disparity — do administrative responses differ across student groups once incidents are comparable in severity, media visibility, and policy violations?  
+- Within-group drivers — when identity is held constant, do factors such as severity, visibility, or policy violations correlate with response patterns?  
 
-- Cross- and within-group comparisons — analyzing response variations while controlling for incident severity, media visibility, and policy violations
-- Correlation analysis — measuring relationships between responses and these same variables
-
-This case study serves as a proof-of-concept for a broader university accountability methodology.
+Together, these tests evaluate whether group identity itself predicts outcomes, or whether institutional responses track other factors more closely. The UCLA case study provides the initial demonstration of how the accountability methodology operates in practice.
 
 ## The Problem
 
@@ -106,14 +104,17 @@ By making each step explicit and verifiable, the methodology invites trust — n
 
 ### Controlled Comparison
 
-Disparities are analyzed while controlling for:
+Disparities are analyzed through correlation and controlled comparison across:
 
 - Incident severity *(scale of harm or disruption involved)*
 - Media visibility *(extent and reach of coverage)*
-- Policy violations *(whether formal rules were cited or enforced)*
-- Temporal factors *(time between incident and administrative response)*
+- Policy violations *(whether formal rules were clearly broken)*
 
-This approach helps separate correlation from potential bias.
+This approach helps separate correlation from potential bias by controlling for key explanatory factors. It also allows us to test whether these same factors predict responses in other group or incident contexts.
+
+### Controlled Comparison
+
+The framework tests whether differences in institutional responses persist once incident factors (severity, visibility, and policy violations) are *controlled.* Group identity is the main variable of interest: if responses differ across groups despite comparable incidents, that indicates bias. The framework can also hold identity constant to test whether other factors, such as media visibility, correlate with responses. Ultimately, the goal is to see whether these other factors or group identity best predicts institutional outcomes
 
 ### Transparency and Auditability
 
