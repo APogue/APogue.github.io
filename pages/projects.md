@@ -81,18 +81,18 @@ Unlike human coders, it offers:
 - Auditability — every classification includes an embedded justification block that can be independently reviewed
 - Scalability — the system is designed to process incidents efficiently, making multi-incident analysis feasible 
 
-The automated AI workflow does not trade off quality for speed. It can scan hundreds of pages of case files without sacrificing evidentiary standards, and audit checks keep it accountable at every step. 
+In practice, this means the workflow can handle complex case files with the same evidentiary care that would normally require extensive manual review.
 
 ### Open Methodology
 
-This framework was originally developed for Title VI contexts in higher education but the structure is also adaptable to other academic contexts such as Title IX accountability. Based on the Office of Civil Rights complaint log, this already gives the framework plenty to do. 
+This framework is developed for Title VI contexts in higher education but the structure is also adaptable to other academic contexts such as Title IX accountability. Based on the Office of Civil Rights complaint log, this already provides plenty to do.
 
-- Transparent — the source code for any automated steps, the Claude API configuration, and the methodology for processing the system’s output data will be public and version-controlled
+- Transparent — the source code for automated steps, the Claude API configuration, and the methodology for processing the system’s output data will be public and version-controlled
 - Adaptable — all pilot-specific rules and configurations can be tailored to other academic settings
 - Reproducible — no incident-specific heuristics or hard-coding; all incident outputs can be regenerated using the same inputs
 - Evolving — the system is under development and welcomes community review, testing, and refinement
 
-By making each step explicit and verifiable, the methodology invites trust — not just in its findings, but in its process.
+By making each step explicit and verifiable, the methodology is open to validation of both its process and its findings.
 
 ## Methodological Principles
 
@@ -104,17 +104,17 @@ By making each step explicit and verifiable, the methodology invites trust — n
 
 ### Controlled Comparison
 
-Disparities are analyzed through correlation and controlled comparison across:
+The analysis is built around a controlled comparison framework:
 
-- Incident severity *(scale of harm or disruption involved)*
-- Media visibility *(extent and reach of coverage)*
-- Policy violations *(whether formal rules were clearly broken)*
+- Primary predictor: group identity  
+- Key controls: incident severity, media visibility, and policy violations  
 
-This approach helps separate correlation from potential bias by controlling for key explanatory factors. It also allows us to test whether these same factors predict responses in other group or incident contexts.
+Two tests guide the design:  
 
-### Controlled Comparison
+- Cross-group test — hold severity, visibility, and policy violations constant to see whether identity alone predicts institutional response.  
+- Within-group test — hold identity constant; then test one factor at a time (severity, visibility, or policy violations) to see whether it drives response differences.  
 
-The framework tests whether differences in institutional responses persist once incident factors (severity, visibility, and policy violations) are *controlled.* Group identity is the main variable of interest: if responses differ across groups despite comparable incidents, that indicates bias. The framework can also hold identity constant to test whether other factors, such as media visibility, correlate with responses. Ultimately, the goal is to see whether these other factors or group identity best predicts institutional outcomes
+This structure ensures the study can distinguish whether outcomes are shaped more by group identity itself or by other contextual factors.
 
 ### Transparency and Auditability
 
