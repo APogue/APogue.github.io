@@ -9,17 +9,18 @@ author_profile: true
 
 This framework integrates a source-traceable AI system into an institutional analysis pipeline to assess potential inequities in responses to critical incidents. The AI converts incident records into structured data, making administrative behavioral patterns measurable. The pilot focuses on higher education, where incident response data offer a well-bounded testing ground for evaluating oversight processes.
 
-
 ## Current Focus: UCLA Case Study
 
-The pilot implementation analyzes 50+ incidents from 2023-2024, testing whether the framework can identify patterns in administrative responses, including group-based disparities, selective responsiveness, or institutional inaction. Methods include:
+The pilot implementation analyzes 50+ incidents from 2023-2024, testing whether the framework can identify patterns in administrative responses, including group-based disparities, selective responsiveness, or institutional inaction. 
 
-Comparing responses across affected groups and within affected groups while controlling for metrics like severity, media visibility, and policy violations and measuring correlation between responses and these metrics as well.
+Methods include:
+
+- Cross- and within-group comparisons — analyzing response variations while controlling for incident severity, media visibility, and policy violations
+- Correlation analysis — measuring relationships between responses and these same variables
 
 This case study serves as a proof-of-concept for the broader methodology.
 
 ## The Problem
-
 
 When identity-based harm, protest activity, or policy violations occur on campus, universities must make decisions about safety, speech, and discipline — often under public scrutiny. But key questions are rarely answered clearly:
 
