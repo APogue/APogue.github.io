@@ -180,6 +180,12 @@ Then, as an add-on, you can explore whether those controlled variables do have p
 
 ## Jargon
 
+codebook - class definitions
+
+codebook protocols - how to classify incident aspects
+
+evidentiary standards - threshold minimums for certain classifications (might fall under protocols)
+
 key factors - Severity, visibility, policy violations
 
 core factors - group identity 
