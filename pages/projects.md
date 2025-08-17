@@ -16,11 +16,11 @@ The pilot implementation analyzes 50+ incidents from 2023–2024 to test whether
 - Cross-group disparity — do administrative responses differ across student groups once incidents are comparable in severity, media visibility, and policy violations?  
 - Within-group drivers — when identity is held constant, do factors such as severity, visibility, or policy violations correlate with response patterns?  
 
-Together, these tests evaluate whether group identity itself predicts outcomes, or whether institutional responses track other factors more closely. The UCLA case study provides the initial demonstration of how the accountability methodology operates in practice.
+Together, these tests evaluate whether group identity predicts outcomes or whether institutional responses track other factors more closely. The UCLA case study provides the initial demonstration of how the accountability framework operates in practice.
 
 ## The Problem
 
-When identity-based harm, protest activity, or policy violations occur, universities must decide how to balance safety, speech, and discipline — often under scrutiny. Yet key questions are rarely answered:
+When identity-based harm, protest activity, or policy violations occur, universities must decide how to balance safety, speech, and discipline — often under scrutiny. Yet key questions are rarely answered clearly:
 
 - Were incidents handled with equal urgency and care?
 - Did discretion override established policy?
@@ -55,7 +55,7 @@ Key dimensions include:
 - Policy application: whether rules were enforced consistently or cited selectively
 - Community impact: coverage intensity and framing across various types of media
 
-Coding "datafies" incidents, enabling comparative analysis across events while preserving context through evidence collection and firsthand accounts.
+Coding enables comparative analysis across events while preserving context through evidence collection and firsthand accounts.
 
 ### Source-Traceable Analysis
 
@@ -85,14 +85,14 @@ In practice, this means the workflow can handle complex case files with the same
 
 ### Open Methodology
 
-This framework is developed for Title VI contexts in higher education but the structure is also adaptable to other academic contexts such as Title IX accountability. Based on the Office of Civil Rights complaint log, this already provides plenty to do.
+By making each step explicit and verifiable, the methodology is open to validation of both its process and its findings.
 
 - Transparent — the source code for automated steps, the Claude API configuration, and the methodology for processing the system’s output data will be public and version-controlled
 - Adaptable — all pilot-specific rules and configurations can be tailored to other academic settings
 - Reproducible — no incident-specific heuristics or hard-coding; all incident outputs can be regenerated using the same inputs
 - Evolving — the system is under development and welcomes community review, testing, and refinement
 
-By making each step explicit and verifiable, the methodology is open to validation of both its process and its findings.
+This framework was developed for Title VI contexts in higher education but can be adapted to other academic contexts such as Title IX accountability. Based on the Office of Civil Rights complaint log, this already provides plenty to do.
 
 ## Methodological Principles
 
@@ -114,7 +114,7 @@ Two tests guide the design:
 - Cross-group test — hold severity, visibility, and policy violations constant to see whether identity alone predicts institutional response.  
 - Within-group test — hold identity constant; then test one factor at a time (severity, visibility, or policy violations) to see whether it drives response differences.  
 
-This structure ensures the study can distinguish whether outcomes are shaped more by group identity itself or by other contextual factors.
+This structure ensures the study can distinguish whether outcomes are shaped more by group identity or by other contextual factors.
 
 ### Transparency and Auditability
 
@@ -139,7 +139,7 @@ Potential contexts include:
 
 ## Open-Source Commitment
 
-This project is being developed with a strong commitment to open-source principles. The full audit framework — including code, logic, and enforcement protocols — will be released under a permissive license once it’s finalized and validated.
+This project is being developed with a strong commitment to open-source principles. The full audit framework will be released under a permissive license once it’s finalized and validated.
 
 Early release isn’t possible because the system is still in development, and premature publication could:
 
@@ -147,7 +147,7 @@ Early release isn’t possible because the system is still in development, and p
 - Open enforcement thresholds to public comment before validation
 - Reduce credibility through untested deployment
 
-Until then, the code remains private, though specific modules (e.g., output formats, schemas, redacted examples) may be shared with vetted collaborators. Full release is planned after the UCLA case study and audit layer are complete.
+Until then, the code remains private, though specific modules may be shared with vetted collaborators. Full release is planned after the UCLA case study and audit layer are complete.
 
 This approach follows best practices in responsible AI, open science, and peer-reviewed research: share when stable, not before.
 
