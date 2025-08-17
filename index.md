@@ -5,7 +5,7 @@ nav: true
 permalink: /
 
 
-excerpt: "Writer. Analyst. Researcher. Developing a framework to understand institutional response to critical incidents."
+excerpt: "Researcher developing a framework to understand how universities respond to critical incidents."
 
 header:
   overlay_image: /assets/images/dejan-zakic-vnywo8u6d9c-unsplash.jpg
@@ -17,7 +17,7 @@ header:
       url: "/projects/"
 
 intro_row:
-  - excerpt: "I use data and interviews to tell stories about public institutions with a current focus on deficiencies in university response to identity-based harm, protest-related activity, and campus safety failures."
+  - excerpt: "I use data and interviews to tell stories about universities with a current focus on deficiencies in administrative response to identity-based harm, protest-related activity, and campus safety failures."
 
 feature_row:
   - image_path: /assets/images/pexels-googledeepmind-17484975-resized.jpg
