@@ -3,9 +3,12 @@ layout: single
 title: "Core Capabilities"
 permalink: /research/capabilities/
 ---
-
+<!-- 
 > In oversight work, the distance between "what happened" and "what gets measured" often determines whether accountability is possible at all. This framework treats that gap as an engineering problem: how do we preserve the full context of human experience while creating data rigorous enough to reveal institutional patterns? The answer isn't to choose between stories and statistics, but to build a bridge between them—one that's transparent, reproducible, and neutral.
 
+“The answer isn’t to choose between stories and statistics, but to build a bridge between them—one that’s transparent, reproducible, and neutral.”
+→ Reads like a tagline. Still fine as a framing, just more rhetorical than explanatory.
+-->
 ---
 
 ### 1. What This System Is
@@ -42,6 +45,11 @@ Evidentiary requirements organically pair data and context, e.g. "`administrativ
 **Why this approach matters:**  
 Manual coding tools like NVivo or Atlas.ti are rigorous but slow; automated detectors like GDELT are fast but often context-blind. This system keeps the rigor *and* adds scale—every claim is traceable to the exact words that support it, and it can handle dozens of incidents efficiently. 
 
+“This system keeps the rigor and adds scale—every claim is traceable… and it can handle dozens of incidents efficiently.”
+→ This is basically a pitch line comparing your system to NVivo or GDELT.
+
+Traditional manual coding tools such as NVivo or Atlas.ti provide rigor but are time-intensive, while automated systems like GDELT scale quickly but often miss context. This framework is designed to combine the strengths of both: each classification remains tied to the source text for traceability, while the system can process a larger number of incidents more efficiently than manual methods.
+
 ---
    
 ## 3. The AI System is Analytical, Not Creative
@@ -64,12 +72,17 @@ This framework instead uses the model as an **analytical decision engine** that:
 **Built-in verification:**  
 The system enforces a three-layer audit trail common to expert systems:  
 
-- **Quote-level** — Every value is tied to exact text from source material  
-- **Reasoning-level** — Thinking steps preserved in structured, machine-readable tags  
-- **Output-level** — Validated YAML that can be parsed, checked, and re-run for reproducibility  
+- **Quote-level** — Values tied to source text  
+- **Reasoning-level** — Decision steps in structured tags  
+- **Output-level** — Validated YAML output  
 
 **Why this approach matters:**  
 Unlike black-box AI or conventional human coding, every classification is **transparent, reproducible, and falsifiable**. Any third party can follow the chain from *source document → quoted evidence → decision rule → output*. For researchers, journalists, or oversight bodies reviewing this work: You can verify every coding decision by checking the quoted evidence against the stated rule. This transforms qualitative coding into a form of **algorithmic decision-making** that retains full context while enforcing strict evidence standards at scale.
+
+“Unlike black-box AI… every classification is transparent, reproducible, and falsifiable. … This transforms qualitative coding into a form of algorithmic decision-making…”
+→ The “transforms qualitative coding” phrasing is a bit grandiose compared to the rest.
+
+Unlike many AI applications, this system is designed so that every classification is transparent and reproducible. Each step can be checked by tracing from the source document to the quoted evidence, the applied rule, and the resulting output. This structure allows reviewers to verify how each decision was made, while still preserving the context needed for qualitative interpretation.
 
 ---
 
@@ -100,5 +113,6 @@ In proof-of-concept testing, the model consistently produced accurate, quote-bou
 
 This hybrid approach ensures automation never compromises human judgment. The system flags what needs review rather than forcing classifications, maintaining both efficiency and accountability.
 
-
+“The system flags what needs review rather than forcing classifications, maintaining both efficiency and accountability.”
+→ This reads like a product benefit statement.
 
