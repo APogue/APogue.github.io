@@ -4,6 +4,95 @@ title: "The Pipeline"
 permalink: /research/entry/
 ---
 
+# Research Pipeline
+
+This project evaluates how UCLA responded to protest-related incidents and whether those responses aligned with policy and legal obligations.
+
+### Evidence Sources
+1. **Public Administrative Communication**  
+   - Chancellor and administrative statements, press releases, campuswide emails.  
+   - Purpose: Measure tone, framing, and timing of responses.  
+
+2. **Internal Communication**  
+   - External communications to administrators, internal administrator emails, outgoing administrator communications.  
+   - Purpose: Compare what administrators knew vs. what was stated publically. Compare how administrators planned to respond to incidents vs. what administrative actions occurred.  
+
+3. **Independent/3rd Party Reports**  
+   - Commissioned investigations, task force reviews, consultant reports.  
+   - Purpose: Establish how risks and responses were externally evaluated.  
+
+4. **Policy & Legal Framework**  
+   - UC policy (time, place, manner rules), First Amendment principles, Title VI obligations, USAC rules.  
+   - Purpose: Benchmark UCLA’s obligations against actual practice.  
+
+5. **Police Reports**  
+   - UCPD incident reports, crime logs, arrest data.  
+   - Purpose: Identify how incidents were recorded, investigated, or closed.  
+
+6. **First-Hand Accounts (Critical Evidence Gap Filler)**  
+   - Because PRA/FOIA requests can produce limited records, first-hand accounts are essential to establish what reports were filed and how UCLA responded.  
+   - Scope: Not general perceptions of climate, but **factual details of process**:  
+     - Who filed reports (EDI, Title VI, Dean of Students, UCPD).  
+     - What acknowledgment, follow-up, or closure notices were received.  
+     - What (if any) protective or remedial measures UCLA offered.  
+   - Purpose: To verify whether UCLA fulfilled its Title VI duty to alleviate a hostile environment once on notice of identity-based exclusion or harassment.  
+
+### Analytical Questions
+- How were administrative responses correlated with **group identity, media visibility, and severity of incidents**?  
+- Did UCLA consistenly address the **hostile environment** obligations under Title VI?
+- Did failures to address hostile environment obligations lead to greater hostilities? E.g. did UCLA act when given constructive notice, did UCLA assess 
+
+kaplan indicates premeditated and coordited threat potential (elevated threat)
+kaplan indicates SAMS were not qualified to handle the situation
+kaplan indicates threats could escalate to physical violence
+kaplan indicates people pay attention to social media (take the views number as the baseline)
+kaplan indicates the greater community is aware of what is going on (tons of death threats to the department caused them to move the meeting to zoom)
+kaplan indicates that SAMS take true threats and violence as a free speech issue
+internal emails indicate that the same incident was framed as a campus climate issue between students
+
+Did UCLA leave the police report in the hands of the student?
+If the masked perps were not identified, did UCLA publicly cite violations of the law or university policy or use language intended to threaten institutional preparedness for anyone planning to come to campus and harrass students? 
+Did UCLA take any steps to try to alleviate a potential hostile environment for the students after the report was submitted?
+Did UCLA inform the police department at any time during the year that premeditated, coordinated, non-affiliate harassment presented an elevated threat?
+
+when confronted with the matter directly (walk out), block made a statement the next day that indicated deliberate indifference to the issue. It's at this point that when given sevaral opportunities to address one instance of severe harrassment, the school opted not to. They opted to site general safety (beck or someone wrote a statement about keeping campus safe at around the same time). 
+
+Then treat the encampment issues as several events. (myers cited an event)
+
+Was UCLA aware of the blockading for days (internal emails)
+Was UCLA aware of the attack on the encampment the night before
+Was UCLA aware of the massive social media response to the blockading
+Did UCLA decide to use emotional framing in a social media post and public facing statment the evening following the mob harrassment of the encampment?
+Did UCLA choose to use emotional framing in any other scenario concerning other vulnerable student groups?
+Was UCLA aware the students were not leaving given they stated they would not go in the DB? (constructive notice)
+Was UCLA aware of the heightened threat possibility given the harrassment that had occured thus far and the past incident?
+Did UCLA inform UCPD to be prepared for a coordinated attack?
+Did UCLA use any language as a deterrent from either harrassment or violence to try to mitigate hostilities up to that point?
+If Block stated that the notice to clear the encampment was a security measure, why didn't they shut the encampment down?
+Why didn't they shut the encampment down if it was behaving unlawfully and students were under threat?
+He both removed the barriers (said in his statement) and declared the encampment unauthorized making it extremely unclear what expectations for students were (was the encampment still technically acting unlawfully, if so what was the basis for unauthorization?), regardless, they said they would not leave. that puts the responsibility on the university to keep them safe. and at that point anything they could have done would not have been enough because they already underassessed the threat potential. 
+
+
+
+
+
+- How did failures in communication, deterrence, or preparedness contribute to escalation?  
+
+The pipeline is designed to separate factual findings from narrative framing, ensuring that evidence is evaluated before interpretation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 This page - How it works
 
 [ Source Documents ]
@@ -210,4 +299,5 @@ codebook is full of definitions, protocols are logic, api config are rules so th
 - Media visibility *(extent and reach of coverage)*
 - Policy violations *(whether formal rules were clearly broken)*
 
+-->
 
