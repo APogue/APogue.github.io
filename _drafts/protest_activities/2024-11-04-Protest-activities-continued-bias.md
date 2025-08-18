@@ -5,7 +5,7 @@ title: "Protest activities-continued bias after April 30th"
 published: false
 author: Alexie Pogue
 date: 2024-11-04 5:51 PM
-updated_date: 2024-12-17 1:31 PM
+updated_date: 2025-08-18 1:53 PM
 ---
 
 Thesis2: The biased handling of protesters by the administration continues in the aftermath of the April Riot.
@@ -145,7 +145,9 @@ Thesis2: The biased handling of protesters by the administration continues in th
 
 		- When did this happen? 
 
-	- "During the June 10 protest, I asked Administrative Vice Chancellor Michael Beck on his plans following our dispersal, with several Zionist onlookers – whom I recognized from the encampment attack – screaming epithets in the background. Beck halfheartedly responded, “UCPD is watching them and will deal with it.” Hours later, as we waited outside for our friends to be released, UCPD and campus security faded into nearby buildings, leaving us to the Zionist onslaught."
+	- "During the June 10 protest, I asked Administrative Vice Chancellor Michael Beck on his plans following our dispersal, with several Zionist onlookers – **whom I recognized from the encampment attack** – screaming epithets in the background. Beck halfheartedly responded, “UCPD is watching them and will deal with it.” Hours later, as we waited outside for our friends to be released, UCPD and campus security faded into nearby buildings, leaving us to the Zionist onslaught."
+
+	- **Note to myself: I believe this was corroborated on Reddit. That on this day there were people who recognized people. People who were there on April 30th. This is not unlike Kaplan on Oct 11 of the year before. She saw one of the aggressors at the vigil. The same groups come back to campus.**
 
 
 ### LA Times article 

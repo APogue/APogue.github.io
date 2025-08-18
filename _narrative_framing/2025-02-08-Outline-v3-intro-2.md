@@ -72,6 +72,8 @@ one another’s rights or jeopardizing one another’s physical safety. Anyone e
 should report it through our Office of Equity, Diversity and Inclusion. If you feel unsafe or 
 threatened, immediately contact UCPD or call 911.**”
 
+["loss of life"](https://newsroom.ucla.edu/our-community-is-in-deep-pain) again in May 
+
 Oct 13th
 
 Within hours discussions began.
