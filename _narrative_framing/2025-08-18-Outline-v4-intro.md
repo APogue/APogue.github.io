@@ -41,6 +41,26 @@ Threatening violence, harassing, or stalking someone because they are perceived 
 
 - when severity was held constant, did the school take specific measures to address the hostile environment or protected-class basis of conduct?
 
+### Proof building 
+
+If driven by proof-style logic. 
+
+1. Is the institution biased? Assuming visibility is correlated with identity group -> 
+
+is visibility correlated with institutional action? 
+if visibility is correlated with institutional action and visibility is correlated with identity group, 
+then the institution is biased. 
+
+is visibility correlated with institutional communication?  
+even under circumstances where the institution claims institutional *action* was taken, 
+if visibility is correlated with institutional communication and visibility is correlated with identity group, 
+then the school does not believe words are actionable. 
+
+if the institution sought to use words in high stakes scenarios to meet goals or change outcomes, 
+then the institution believes words are actionable. 
+if the institution only used words in high visibility scenarios, and high visibility scenarios are correlated with identity group, then the institution is biased.
+
+
 ### Analytical Questions
 
 - How were administrative responses correlated with **group identity, media visibility, and severity of incidents**?  

@@ -13,8 +13,8 @@ This framework integrates a source-traceable AI system into an institutional ana
 
 The pilot implementation analyzes 50+ incidents from 2023–2024 to test whether the framework can detect systematic disparities in administrative response. Two types of analysis guide this case study:
 
-- Cross-group disparity — do administrative responses differ across student groups once incidents are comparable in severity, media visibility, and policy violations?  
-- Within-group drivers — when identity is held constant, do factors such as severity, visibility, or policy violations correlate with response patterns?  
+- Cross-group disparity — do administrative responses differ across student groups once incidents are comparable in severity and media visibility?  
+- Within-group drivers — when identity is held constant, do factors such as severity or visibility correlate with response patterns?  
 
 Together, these tests evaluate whether group identity predicts outcomes or whether institutional responses track other factors more closely. The UCLA case study provides the initial demonstration of how the accountability framework operates in practice.
 
