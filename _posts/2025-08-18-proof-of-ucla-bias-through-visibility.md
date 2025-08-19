@@ -11,9 +11,9 @@ date: 2025-08-18 9:43
 - **G ∈ {0,1}** — identity group  
   (1 = advantaged group, 0 = comparison group)
 
-- **V ∈ {low, high}** — visibility
+- **V ∈ {low, high, max}** — visibility
 
-- **A ∈ {0,1}** — institutional action (material steps)
+- **A ∈ {0,1}** — specific, actor‑targeted action (imposes concrete sanctions, identifies perpetrator group, or names targeted group)
 
 - **C ∈ {0,1}** — institutional communication (any outward comms)
 
@@ -40,7 +40,7 @@ date: 2025-08-18 9:43
 - **V → C**: higher visibility produces more comms (observed).  
 - **V → R_cost**: visibility raises reputational stakes (assumed).  
 - **V → G**: visibility is not evenly distributed; it clusters on one group (empirical).
-- **S → A_specific**: in principle, higher severity should drive more specific action — but this channel collapses (Lemma 1)   
+- **S → A**: in principle, higher severity should drive more specific action — but this channel collapses (Lemma 1)   
 - **S → V**: severity can raise visibility, but this link is inconsistent and group-dependent.  
 
 **Implication:** If V is the driver, you cannot separate whether the institution is communicating for **reputation** (PR logic) or for **group** (non-neutral).  
@@ -58,8 +58,8 @@ What action is taken to address bad actors? If no specific action is taken, spec
 - **Between groups:** Pr(A_specific | G=1) > Pr(A_specific | G=0) across severity levels.
 
 **Observed Pattern:**  
-- **G=1 (advantaged group):** Some reactive measures, some symbolic specificity (e.g., naming antisemitism, promising review).
-- **G=0 (comparison group):** No specificity at all — environmental measures, responses limited to generic safety concerns. 
+- **G=1 (advantaged group):** Some reactive measures, some symbolic specificity (e.g., initiating review, naming antisemitism, emotional framing).
+- **G=0 (comparison group):** No specificity at all — environmental measures, responses limited to generic safety concerns and procedural language (e.g., "we are reviewing safety protocols," "the situation is being monitored").
 
 **Critical Finding:**  
 The institution largely failed to sanction bad actors for either group, even as severity persisted. **Only G=1** received symbolic recognition of targeted harm.
@@ -93,7 +93,7 @@ But in high-visibility scenarios, we cannot distinguish whether comms are driven
 
 ## Lemma 3: The Chain-Breaking Outlier
 
-In the maximum-visibility, maximum-severity case, where reputational cost = 0, the reputation channel predicts protective content (P=1).  
+In the maximum-visibility, maximum-severity case, where reputational cost = 0, the reputation channel predicts protective content (P=1 if any criterion is met in the same communication instance (naming, specific warning, or concrete guidance)).  
 
 **Setup (maximum case):**  
 - V = maximum (highest-visibility incident)  
@@ -125,6 +125,30 @@ Define
 
 If Δ > 0 with narrow confidence intervals, then protective communication is **group-dependent, not reputation-dependent**.  
 This isolates non-neutral communication in protective content.
+
+---
+
+## Lemma 4: High-Stakes Comms and Mitigation Duty
+
+**Variables:**  
+- **C*** — comms traction (reach/visibility of admin comms, in response to national news, viral rumors, made during a high-stakes situation unfolding in real time)  
+- **T_known ∈ {0,1}** — presence of hostile actors (premeditated behavior, coordinated action, motivated by threats to a protected group, repeat presence on campus)  
+- **M ∈ {0,1}** — any institutional mitigation of those threats (ban, sanction, removal, initiation of police investigations, unlawful conduct warning, or deterrence of unlawful behavior through stated preparedness)
+
+**Hypothesis:**  
+Once T_known=1, institutions are obligated to mitigate (M=1) within a reasonable window.  
+If they fail to mitigate (M=0) but continue to communicate (C*>0), *this constitutes deliberate indifference: the university uses comms while leaving a known threat intact.*
+
+**Observed:**  
+- **T_known = 1** (Kaplan incident revealed organized, repeat hostile actors motivated by group-based animus)  
+- **M = 0** (no bans, no sanctions, no removals, no deterrent warnings between Kaplan and April 30)  
+- **C*** = high (April 30 post with 160k views, national-level traction)
+
+**Critical Finding:**  
+By April 30, the university had months of notice that hostile actors were present and reactive to communications, yet no mitigation occurred. High-traction comms were then issued into that same environment, with known threats unaddressed. This is deliberate indifference: a choice to speak while failing to eliminate a foreseeable risk.
+
+**Implication:**  
+Mitigation does not need to accompany every comms act in real time, but it must occur once threats are known. The absence of mitigation, combined with continued high-stakes comms, demonstrates deliberate indifference and permits hostile actors to remain empowered.
 
 ---
 

@@ -3,7 +3,7 @@ layout: single
 title: "Outline-v4-intro"
 published: true
 author: Alexie Pogue
-date: 2025-8-18 10:10 AM 
+date: 2025-8-19 10:10 AM 
 ---
 
 - was the incident treated as organized or treated as an "instance"
@@ -102,3 +102,7 @@ He both removed the barriers (said in his statement) and declared the encampment
 - The school knows bad actors are on the line of comms (they showed up in a premeditated fashion to the kaplan meeting). The school took every possible measure, they transferred the meeting to zoom, they had sams there, they attempted to deescalate, and the scenario still exploded. No comms on the other side.
 - On April 30th, there were no clear measures to move the threat targets, ie the students. They used confusing language to blur policy status of the encampment (the barriers won't go up again? the encampment is unauthorized on a flyer and at 5 pm? a statement conflicting with the statement made earlier that day?) and no clear directives were made. No dispersal order, no security threat statements, nothing. They then communicated directly with the broader community, a community that contained bad actors on the line, and added a layer of emotional harm to the administrative action taken. Again the situation exploded. 
 
+
+In the encampment case, knowing it was a high stakes situation, they put fuel on the flames while completely exonerating the bad actors they were speaking directly to. How i planned to logically lay that out is by not removing the persistent threat that *they knew existed* they knew from the kaplan incident that bad actors were on the comms line, that their actions were premeditated, that they are in fact motivated by group-dependent hate (denounce Iran to that dad who was there with his daughter), and they attend campus functions (I read that on June 10 protest many of the same faces appeared that were part of the mob, and the night they were waiting for those kaplan students after they got away she saw one of them attending an evening vigil, and they've become so emboldened by lack of sanctions that they email the daily bruin "to tell the administration to take care of protesters or they will *organize* groups of jews to do it for them, that was betar so i can't say the mob and betar are one and the same, but the university had ample time to realize that these people are listening) this is evidence of rising hostilities due to deliberate indifference. even if they didn't feel the need to change their language, if they want to communicate at all on those comms line, they have to eliminate the threat
+
+this is evidence of rising hostilities due to deliberate indifference. even if they didn't feel the need to change their language, if they want to communicate at all on those comms line, they have to eliminate the threat
