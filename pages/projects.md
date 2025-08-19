@@ -11,12 +11,22 @@ This framework integrates a source-traceable AI system into an institutional ana
 
 ## Current Focus: UCLA Case Study
 
-The pilot implementation analyzes 50+ incidents from 2023–2024 to test whether the framework can detect systematic disparities in administrative response. Two types of analysis guide this case study:
+The pilot implementation analyzes 30+ incidents from 2023–2024 to test whether the framework can detect systematic disparities in administrative response. Two types of analysis guide this case study:
 
 - Cross-group disparity — do administrative responses differ across student groups once incidents are comparable in severity and media visibility?  
 - Within-group drivers — when identity is held constant, do factors such as severity or visibility correlate with response patterns?  
 
-Together, these tests evaluate whether group identity predicts outcomes or whether institutional responses track other factors more closely. The UCLA case study provides the initial demonstration of how the accountability framework operates in practice.
+Together, these tests evaluate whether group identity predicts outcomes, or whether institutional responses track neutral factors more closely. The UCLA case study provides the initial demonstration of how the accountability methodology operates in practice.
+
+Current Focus: UCLA Case Study
+
+The pilot implementation applies the accountability framework to more than 50 incidents from 2023–2024. Two comparative tests structure the analysis:
+
+Cross-group disparity — holding severity and visibility constant, do administrative responses vary depending on the identity group affected?
+
+Within-group drivers — holding identity constant, do changes in severity or visibility alter the likelihood of specific action, protective content, or communication?
+
+By comparing incidents under these controlled conditions, the UCLA case study tests whether institutional behavior is best explained by neutral factors (severity or visibility) or whether group identity systematically predicts outcomes. This provides the first real-world demonstration of how the accountability framework isolates bias from confounding variables.
 
 ## The Problem
 
@@ -46,14 +56,13 @@ This method avoids selection bias by excluding incidents discovered through outs
 
 ### Coding an Incident
 
-To characterize how institutions respond to incidents, each incident is systematically coded across more than 20 variables.
+To characterize how institutions respond to incidents, each incident is systematically coded across multiple variables.
 
 Key dimensions include:
 
-- Administrative response: timing, tone, intervention type, engagement level
-- Incident attributes: severity, visibility, actor/target identity
-- Policy application: whether rules were enforced consistently or cited selectively
-- Community impact: coverage intensity and framing across various types of media
+- Administrative response: timing, intervention type, engagement level
+- Incident attributes: severity, actor/target identity
+- Media visibility: coverage intensity and framing across various types of media
 
 Coding enables comparative analysis across events while preserving context through evidence collection and firsthand accounts.
 
@@ -107,14 +116,14 @@ This framework was developed for Title VI contexts in higher education but can b
 The analysis is built around a controlled comparison framework:
 
 - Primary predictor: group identity  
-- Key controls: incident severity, media visibility, and policy violations  
+- Key controls: incident severity and media visibility 
 
 Two tests guide the design:  
 
-- Cross-group test — hold severity, visibility, and policy violations constant to see whether identity alone predicts institutional response.  
-- Within-group test — hold identity constant; then test one factor at a time (severity, visibility, or policy violations) to see whether it drives response differences.  
+- Cross-group test — hold severity and visibility constant to see whether identity alone predicts institutional response.  
+- Within-group test — hold identity constant; then test one factor at a time (severity or visibility) to see whether it drives response differences.  
 
-This structure ensures the study can distinguish whether outcomes are shaped more by group identity or by other contextual factors.
+This structure ensures the study can distinguish whether outcomes are shaped more by group identity or by other neutral factors.
 
 ### Transparency and Auditability
 
