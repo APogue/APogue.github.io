@@ -37,44 +37,15 @@ Threatening violence, harassing, or stalking someone because they are perceived 
 
 - were communicated response measures associated with incident severity or visibility?
 
+    - answered by proof 
+
 - when visibility was held constant, were there bias markers present in communicated response?
+
+    - answered by proof
 
 - when severity was held constant, did the school take specific measures to address the hostile environment or protected-class basis of conduct?
 
-### Proof building 
-
-If driven by proof-style logic. 
-
-1. Is the institution biased? Assuming visibility is correlated with identity group -> 
-
-is visibility correlated with institutional action? 
-if visibility is correlated with institutional action and visibility is correlated with identity group, 
-then the institution is biased. 
-
-is visibility correlated with institutional communication?  
-even under circumstances where the institution claims institutional *action* was taken, 
-if visibility is correlated with institutional communication and visibility is correlated with identity group, 
-then the school does not believe words are actionable. 
-
-if the institution sought to use words in high stakes scenarios to meet goals or change outcomes, 
-then the institution believes words are actionable. 
-if the institution only used words in high visibility scenarios, and high visibility scenarios are correlated with identity group, then the institution is biased.
-
-
-i'm trying to say that visibility implies reputation implies safety, as long as visibility implies one group. if visibility implies one group, then safety implies one group. but if we can't break the correlation between visibility and one group then we can't break the correlation that the school just cared about reputation. the oultlier case breaks the correlation, thus leaving one group correlated with safety. 
-
-
-
-
-were they willing to communicate with students to protect students yes, were they willing to communicate with the community to protect students? no
-
-is it the case that maybe they were simply not willing to communicate with the community? 
-
-no they communicated with the community to try to change reputational outcomes, they simply would not communicate with the community to change outcomes for student safety. 
-
-is it the case that reputational outcomes and student safety merely overlapped when evaluated wrt Jewish students and not Pro-P? ie we still have not proven that the school is being deliberate: we have not disproven that the school simply communicates when visibility is high. 
-
-i have one instance of the highest visibility scenario and the most severe, when they simply referred to the mob as instigators, and condemned the attack. in other words it would have been a neutral reputational outcome and would have helped student safety if they were specific, in this high visibility scenario. but they were not. 
+    - not yet answered by proof
 
 
 ### Analytical Questions

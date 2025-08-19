@@ -37,27 +37,36 @@ date: 2025-08-18 9:43
 
 ## Core Chain
 
-- **V → C, A**: higher visibility produces more comms/actions (observed).  
+- **V → C**: higher visibility produces more comms (observed).  
 - **V → R_cost**: visibility raises reputational stakes (assumed).  
-- **V → G**: visibility is not evenly distributed; it clusters on one group (empirical).  
+- **V → G**: visibility is not evenly distributed; it clusters on one group (empirical).
+- **S → A_specific**: in principle, higher severity should drive more specific action — but this channel collapses (Lemma 1)   
 - **S → V**: severity can raise visibility, but this link is inconsistent and group-dependent.  
 
 **Implication:** If V is the driver, you cannot separate whether the institution is acting for **reputation** (PR logic) or for **group** (bias).  
 
 ---
 
-## Lemma 1: Action-Based Bias
+## Lemma 1: Severity vs. Specificity of Action
 
-**Given:**  
+**Question:**  
+Does the institution acknowledge and address bad actors as severity increases?
 
-- Pr(A=1 | V=high) ≫ Pr(A=1 | V=low)  
-- Pr(V=high | G=1) > Pr(V=high | G=0)
+**Hypothesis:**  
+- **Within groups:** ∂Pr(A_specific)/∂S ≈ 0 for both groups — severity does not drive meaningful increases in specific action.  
+- **Between groups:** Pr(A_specific | G=1) > Pr(A_specific | G=0) across severity levels.
 
-**Then (via the law of total probability through V):**  
+**Observed Pattern:**  
+- **G=1 (advantaged group):** Some symbolic specificity (e.g., naming antisemitism, promising review), some reactive measures.  
+- **G=0 (comparison group):** No specificity at all — responses limited to generic safety concerns, environmental measures.
 
-- Pr(A=1 | G=1) > Pr(A=1 | G=0)
+**Critical Finding:**  
+The institution largely failed to sanction bad actors for either group, even as severity persisted. But **only G=1** received symbolic recognition of targeted harm, while **G=0** was reduced to impersonal “safety” language.
 
-**Result:** Bias in institutional **action**.
+**Implication:**  
+This shows two layers of failure:  
+1. The institution's systematic failure to identify and sanction bad actors allowed hostile environments to escalate for both groups.  
+2. A discriminatory refusal to even acknowledge protected-class harm for G=0, while at least symbolically naming it for G=1.
 
 ---
 
@@ -129,7 +138,7 @@ If so, high-severity cases should consistently trigger protective communication.
 E[P | S=high, G=0] < E[P | S=low, G=1]  
 
 **Implication:**  
-Severity alone does not explain outcomes. Once V and S are controlled, protection is selectively extended by **G**.  
+Severity alone does not explain outcomes. High-severity incidents did not guarantee protection for G=0, while low-severity incidents did for G=1 when visibility was present. The clearest case where V can be held constant — the maximum-visibility outlier — confirms that group identity (G), not severity, determines whether protective communication is provided.
 
 ---
 

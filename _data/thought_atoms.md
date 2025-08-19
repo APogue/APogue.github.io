@@ -3,7 +3,7 @@ layout: single
 title: "Narrative Framing Thought Atoms"
 published: true
 author: Alexie Pogue
-date: 2025-08-06
+date: 2025-08-18
 ---
 
 # UCLA Incident Analysis: Categorized Thought Atoms
@@ -17,6 +17,10 @@ thought_001: "Words matter. They are 'actionable,' even if standard legal procee
 
 thought_002: "There are tens of thousands of undergraduate students and hundreds of thousands in the greater community. Decisions cannot be ad hoc, especially in this day and age, when we have valuable policy and data-driven information. These are not trivial matters relating to a local high school pep rally"
 
+thought_003: If they say "words don't matter we carried out actions"... yeah but the words are indicative of care. And that can be proved because they didn't really carry out the right actions. They were not specific in either case: words or actions. Specific words predict specific actions. Words matter. 
+
+thought_000: "Words don't matter we were just serving reputation," then why when your reputation was on the line did you withold your words? Because words do matter. You knew it. They are actionable. 
+
 thought_004: could words have stopped what happened? are words actionable? I can't prove words caused what happened, but it is possible that words could have prevented what happened. 
 
 thought_005: "A key theme is deliberate indifference"
@@ -24,6 +28,8 @@ thought_005: "A key theme is deliberate indifference"
 ### Key Questions
 
 thought_006: "If the blockade was the issue, why did UCLA cite 'Jewish students feeling threatened and afraid' instead of saying, 'this was an unlawful obstruction'?" The issue is, when violence was happening from counter-protesters, they never mentioned any student feeling "threatened and afraid." They simply took administrative steps (such as increasing police presence). In this case, Block's statement says they removed the barriers. Yet rather than call it a violation of TPM, he adds a layer of emotional harm. It means that he himself does believe that words matter, that perpetrators of unlawful acts need to be addressed, but only in some cases. 
+
+This is captured in the proofs by, mob threats and discrimination - no communication and general security measures. In the case of Jewish students - lame communication and some reactive measures. In both cases they don't address bad actors. And their continued ignoring bad actors added fuel to the fire (you can't prove that they wanted to dog whistle, but you can prove that by not eliminating threats that were comms-reactive, the hostile situation became increasingly worse).
 
 thought_007: "Why didn't Block cite the rules that were broken and state an actionable path to either ensure the encampment was functioning in line with campus policy or to disperse and shut it down entirely?"
 
