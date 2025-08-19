@@ -190,7 +190,7 @@ If Failure holds while C*>0, the institution demonstrates deliberate indifferenc
 - **Action channel:** A favors G=1 regardless of visibility (Lemma 1).  
 - **Communication frequency:** C tracks visibility (Lemma 2) regardless of severity.  
 - **Protective content:** Even when V=max, S=max, and R_cost=0, P=0 for G=0 (Lemma 3).  
-- **Mitigation duty:** With hostile actors known, failure to mitigate (M=0) while issuing high-stakes comms (C* > 0) demonstrates an example of deliberate indifference (Lemma 4).
+- **Mitigation duty:** With T_known=1, failure to mitigate (M=0) while issuing high-stakes comms (C* > 0) demonstrates an example of deliberate indifference (Lemma 4).
  
 
 **Together these findings show that group identity, not severity or visibility, best predicts institutional behavior — and the absence of mitigation in high-stakes moments demonstrates deliberate indifference.**
