@@ -41,7 +41,7 @@ date: 2025-08-18 9:43
 - **V → R_cost**: visibility raises reputational stakes (assumed).  
 - **V → G**: visibility is not evenly distributed; it clusters on one group (empirical).
 - **S → A**: in principle, higher severity should drive more specific action — but this channel collapses (Lemma 1)   
-- **S → V**: severity can raise visibility, but this link is inconsistent and group-dependent.  
+- **S → V**: severity can raise visibility, but this link is inconsistent and group-dependent (empirical).  
 
 **Implication:** If V is the driver, you cannot separate whether the institution is communicating for **reputation** (PR logic) or for **group** (non-neutral).  
 
