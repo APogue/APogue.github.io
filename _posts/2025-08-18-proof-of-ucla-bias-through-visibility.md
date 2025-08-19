@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Proof of Institutional Bias Through Visibility Patterns"
+title: "Institutional Behavior Proofs"
 author: Alexie Pogue
 date: 2025-08-18 9:43
 ---
@@ -43,34 +43,37 @@ date: 2025-08-18 9:43
 - **S → A_specific**: in principle, higher severity should drive more specific action — but this channel collapses (Lemma 1)   
 - **S → V**: severity can raise visibility, but this link is inconsistent and group-dependent.  
 
-**Implication:** If V is the driver, you cannot separate whether the institution is acting for **reputation** (PR logic) or for **group** (bias).  
+**Implication:** If V is the driver, you cannot separate whether the institution is communicating for **reputation** (PR logic) or for **group** (non-neutral).  
 
 ---
 
-## Lemma 1: Severity vs. Specificity of Action
+## Lemma 1: Severity vs. Specific Action (Part I: Specific Action Analysis (Unconditional))
 
 **Question:**  
-Does the institution acknowledge and address bad actors as severity increases?
+What action is taken to address bad actors? If no specific action is taken, specific communication may serve as action. This study determines what action was taken, regardless of incident visibility. 
 
 **Hypothesis:**  
-- **Within groups:** ∂Pr(A_specific)/∂S ≈ 0 for both groups — severity does not drive meaningful increases in specific action.  
+- **Within groups:** ∂Pr(A_specific)/∂S ≈ 0 for both groups — increased severity does not drive meaningful increases in specific action.  
+
 - **Between groups:** Pr(A_specific | G=1) > Pr(A_specific | G=0) across severity levels.
 
 **Observed Pattern:**  
-- **G=1 (advantaged group):** Some symbolic specificity (e.g., naming antisemitism, promising review), some reactive measures.  
-- **G=0 (comparison group):** No specificity at all — responses limited to generic safety concerns, environmental measures.
+- **G=1 (advantaged group):** Some reactive measures, some symbolic specificity (e.g., naming antisemitism, promising review).
+- **G=0 (comparison group):** No specificity at all — environmental measures, responses limited to generic safety concerns. 
 
 **Critical Finding:**  
-The institution largely failed to sanction bad actors for either group, even as severity persisted. But **only G=1** received symbolic recognition of targeted harm, while **G=0** was reduced to impersonal “safety” language.
+The institution largely failed to sanction bad actors for either group, even as severity persisted. **Only G=1** received symbolic recognition of targeted harm.
 
 **Implication:**  
 This shows two layers of failure:  
-1. The institution's systematic failure to identify and sanction bad actors allowed hostile environments to escalate for both groups.  
-2. A discriminatory refusal to even acknowledge protected-class harm for G=0, while at least symbolically naming it for G=1.
+1. The institution's systematic failure to identify and sanction bad actors allowed a hostile environment to persist for both groups.  
+2. In the absence of specific action, a discriminatory refusal to acknowledge protected-class harm for G=0 existed.
 
 ---
 
-## Lemma 2: Communication Tracks Visibility
+## Lemma 2: Communication Tracks Visibility (Part II: Communication Analysis)
+
+Given that meaningful action conditioned on severity fails systematically, we now examine communication patterns conditional on visibility.
 
 **Given:**  
 
@@ -110,7 +113,7 @@ In the maximum-visibility, maximum-severity case, where reputational cost = 0, t
 - Given X = {V = max, S = max, R_cost = 0},  
   equivalently, with X held constant:
 
-G ⟶ P   (bias).
+G ⟶ P   (non-neutral).
 
 ---
 
@@ -121,32 +124,14 @@ Define
 Δ = Pr(P=1 | G=1, X) − Pr(P=1 | G=0, X).  
 
 If Δ > 0 with narrow confidence intervals, then protective communication is **group-dependent, not reputation-dependent**.  
-This isolates discrimination in protective content.
-
----
-
-## Finding: Severity Channel Collapses
-
-In principle, institutional protection could be driven by severity (S).  
-If so, high-severity cases should consistently trigger protective communication.  
-
-**Observed pattern:**  
-- For G=0 (comparison group), even **high-severity cases** often had low visibility and received little or no protective communication.  
-- For G=1 (advantaged group), even **low-severity cases** received protective communication when visibility was present.  
-
-**Formally:**  
-E[P | S=high, G=0] < E[P | S=low, G=1]  
-
-**Implication:**  
-Severity alone does not explain outcomes. High-severity incidents did not guarantee protection for G=0, while low-severity incidents did for G=1 when visibility was present. The clearest case where V can be held constant — the maximum-visibility outlier — confirms that group identity (G), not severity, determines whether protective communication is provided.
+This isolates non-neutral communication in protective content.
 
 ---
 
 ## Conclusion
 
-- **Action channel:** A favors G=1 via visibility (Lemma 1).  
+- **Action channel:** A favors G=1 regardless of visibility (Lemma 1).  
 - **Communication frequency:** C tracks visibility (Lemma 2).  
 - **Protective content:** Even when V=max, S=max, and R_cost=0, P=0 for G=0 (Lemma 3).  
-- **Severity channel collapses:** High-S incidents for G=0 still fail to generate protective communication.  
 
 ➡️ **This cleanly eliminates the “just visibility” defense. Group identity, not visibility or severity, determines whether protective communication is provided.**
