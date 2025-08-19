@@ -130,6 +130,8 @@ If Δ > 0 with narrow confidence intervals, then protective communication is **g
 
 ## Lemma 4: High-Stakes Comms and Mitigation Duty
 
+Building on Lemmas 1–3, which show how action, communication, and protective content operate, Lemma 4 isolates a further obligation: when hostile actors are known to be reactive to comms, the institution must mitigate before speaking in high-stakes channels.
+
 **The argument:**
 1. Past incidents showed hostile actors were reactive to comms (established knowledge)
 2. University did not remove/mitigate these actors (M=0)
@@ -157,26 +159,39 @@ I don't need to prove violence actually occurred after the announcement - just t
 - **M ∈ {0,1}** — any institutional mitigation of those threats (ban, sanction, removal, initiation of police investigations, unlawful conduct warning, or deterrence of unlawful behavior through stated preparedness)
 
 **Hypothesis:**  
-Once T_known=1, institutions are obligated to mitigate (M=1) within a reasonable window.  
-If they fail to mitigate (M=0) but continue to communicate (C*>0), *this constitutes deliberate indifference: the university uses comms while leaving a known threat intact.*
+When hostile actors are known (T_known=1), the institution has a duty to mitigate (M=1).  
+If mitigation does not occur (M=0) and the institution nonetheless issues high-traction comms (C*>0), *this demonstrates deliberate indifference: the university acts with knowledge of foreseeable harm while failing to take reasonable preventive steps.*
 
 **Observed:**  
-- **T_known = 1** (Kaplan incident revealed organized, repeat hostile actors motivated by group-based animus)  
-- **M = 0** (no bans, no sanctions, no removals, no deterrent warnings between Kaplan and April 30)  
-- **C*** = high (April 30 post with 160k views, national-level traction)
+- **T_known = 1** — Kaplan incident revealed organized, hostile actors motivated by group-based animus with repeat campus presence
+- **M = 0** — no bans, no sanctions, no removals, no deterrent warnings between Kaplan and April 30
+- **C*** = high — April 30 post with 160k views, national-level traction
 
 **Critical Finding:**  
-By April 30, the university had months of notice that hostile actors were present and reactive to communications, yet no mitigation occurred. High-traction comms were then issued into that same environment, with known threats unaddressed. This is deliberate indifference: a choice to speak while failing to eliminate a foreseeable risk.
+By April 30, the university had months of notice that hostile actors were present and reactive to a communication instance (T_known=1), yet no mitigation occurred (M=0). High-traction comms were then issued into that same environment (C*>0), with known threats unaddressed. This is deliberate indifference: a choice to speak while failing to eliminate a foreseeable risk.*
 
 **Implication:**  
-Mitigation must occur once threats are known. The absence of mitigation, combined with continued high-stakes comms, demonstrates deliberate indifference and permits hostile actors to remain empowered.
+High-stakes comms (C*) cannot be separated from mitigation obligations once hostile actors are known (T_known=1). If M=0, the institution’s choice to continue communicating is not neutral. Mitigation must occur once threats are known. Otherwise, every subsequent comms act compounds risk by signaling to hostile actors that they remain unopposed.
+
+### Corollary (Test Condition)
+
+Let X = {T_known = 1}.  
+
+Define:  
+- Success = ∃ incident where M=1 (any mitigation occurs once threats are known)  
+- Failure = ∀ incidents, M=0 (no mitigation ever occurs despite knowledge)
+
+If Failure holds while C*>0, the institution demonstrates deliberate indifference: it continues to communicate publicly without ever mitigating known threats.*
 
 ---
 
 ## Conclusion
 
 - **Action channel:** A favors G=1 regardless of visibility (Lemma 1).  
-- **Communication frequency:** C tracks visibility (Lemma 2).  
+- **Communication frequency:** C tracks visibility (Lemma 2) regardless of severity.  
 - **Protective content:** Even when V=max, S=max, and R_cost=0, P=0 for G=0 (Lemma 3).  
+- **Mitigation duty:** With hostile actors known, failure to mitigate (M=0) while issuing high-stakes comms (C* > 0) demonstrates an example of deliberate indifference (Lemma 4).
+ 
 
-➡️ **This cleanly eliminates the “just visibility” defense. Group identity, not visibility or severity, determines whether protective communication is provided.**
+**Together these findings show that group identity, not severity or visibility, best predicts institutional behavior — and the absence of mitigation in high-stakes moments demonstrates deliberate indifference.**
+
