@@ -18,16 +18,6 @@ The pilot implementation analyzes 30+ incidents from 2023–2024 to test whether
 
 Together, these tests evaluate whether group identity predicts outcomes, or whether institutional responses track neutral factors more closely. The UCLA case study provides the initial demonstration of how the accountability methodology operates in practice.
 
-Current Focus: UCLA Case Study
-
-The pilot implementation applies the accountability framework to more than 50 incidents from 2023–2024. Two comparative tests structure the analysis:
-
-Cross-group disparity — holding severity and visibility constant, do administrative responses vary depending on the identity group affected?
-
-Within-group drivers — holding identity constant, do changes in severity or visibility alter the likelihood of specific action, protective content, or communication?
-
-By comparing incidents under these controlled conditions, the UCLA case study tests whether institutional behavior is best explained by neutral factors (severity or visibility) or whether group identity systematically predicts outcomes. This provides the first real-world demonstration of how the accountability framework isolates bias from confounding variables.
-
 ## The Problem
 
 When identity-based harm, protest activity, or policy violations occur, universities must decide how to balance safety, speech, and discipline — often under scrutiny. Yet key questions are rarely answered clearly:

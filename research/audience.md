@@ -4,7 +4,7 @@ title: "For You"
 permalink: /research/audience/
 ---
 
-# For Participants
+## For Participants
 
 This project seeks to document what UCLA did — or did not do — after students reported identity-based harm and protest-related harassment. Because administrative records are incomplete, first-hand accounts are critical.
 
@@ -12,28 +12,18 @@ This project seeks to document what UCLA did — or did not do — after student
 - **Reports filed**: Did you submit an EDI complaint, Title VI report, police report, or Dean of Students complaint?  
 - **Acknowledgment**: Did you receive a confirmation or case number?  
 - **Follow-up**: Did anyone from UCLA contact you, interview you, or provide an outcome letter?  
-- **Remedial steps**: Were you offered any safety measures, academic adjustments, or supportive services?  
-- **Comparisons**: If multiple reports were filed, were they treated consistently?  
+- **Remedial steps**: Were you offered any safety measures, academic adjustments, or supportive services?   
 
 ### What We’re Not Asking (in this phase)
 - We are not asking about how hostile the environment felt, or personal perceptions of climate.  
 - The focus is solely on **documented steps UCLA took (or failed to take)** once students came forward.  
 
 ### Why This Matters
-Title VI requires UCLA to take prompt and effective steps to alleviate a hostile environment, whether or not perpetrators are identified. First-hand accounts help establish whether those steps were taken.  
+Title VI requires UCLA to take prompt and effective steps to alleviate a hostile environment. First-hand accounts help establish whether those steps were taken.  
 
 ### Confidentiality
 - You may share anonymously or on the record.  
 - Information will only be published with your consent, and raw materials will be handled securely.  
-
-
-
-
-
-
-
-
-
 
 
 
