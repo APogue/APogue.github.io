@@ -53,10 +53,10 @@ date: 2025-08-18 9:43
 What action is taken to address bad actors? If no specific action is taken, specific communication may serve as action. This study determines what action was taken, regardless of incident visibility. 
 
 **Hypothesis:**  
-- **Within groups:** ∂Pr(A_specific)/∂S ≈ 0 for both groups — increased severity does not drive meaningful increases in specific action.  
+- **Within groups:** ∂Pr(A)/∂S ≈ 0 for both groups — increased severity does not drive meaningful increases in specific action.  
 
 - **Between groups:** 
-  - Pr(A_specific | G=1) > Pr(A_specific | G=0) across severity levels.
+  - Pr(A | G=1) > Pr(A | G=0) across severity levels.
 
 **Observed Pattern:**  
 - **G=1 (advantaged group):** Some reactive measures, some symbolic specificity (e.g., initiating review, naming antisemitism, emotional framing).
@@ -187,11 +187,11 @@ If Failure holds while C*>0, the institution demonstrates deliberate indifferenc
 
 ## Conclusion
 
-- **Action channel:** A favors G=1 regardless of visibility (Lemma 1).  
-- **Communication frequency:** C tracks visibility (Lemma 2) regardless of severity.  
+- **Action channel:** A favors G=1, regardless of severity (Lemma 1).  
+- **Communication frequency:** C tracks visibility, not severity (Lemma 2).
 - **Protective content:** Even when V=max, S=max, and R_cost=0, P=0 for G=0 (Lemma 3).  
-- **Mitigation duty:** With T_known=1, failure to mitigate (M=0) while issuing high-stakes comms (C* > 0) demonstrates an example of deliberate indifference (Lemma 4).
+- **Mitigation duty:** With T_known=1 and M=0 while (C* > 0) demonstrates deliberate indifference (Lemma 4).
  
 
-**Together these findings show that group identity, not severity or visibility, best predicts institutional behavior — and the absence of mitigation in high-stakes moments demonstrates deliberate indifference.**
+**Together these findings show that group identity, not severity or visibility, best predicts some types of institutional behavior — and the absence of mitigation in high-stakes moments demonstrates an example of deliberate indifference.**
 
