@@ -2,147 +2,142 @@
 layout: single
 title: "Proof of Institutional Bias Through Visibility Patterns"
 author: Alexie Pogue
-date: 2025-8-18 3:31 PM 
+date: 2025-08-18 9:43
 ---
 
-## Natural Language Version
 
-**Given (Assumption):** Visibility correlates with identity group
+## Variables
 
-**Theorem:** If institutional responses are driven by visibility rather than incident attributes, the institution exhibits bias.
+- **G ∈ {0,1}** — identity group  
+  (1 = advantaged group, 0 = comparison group)
 
-### Proof Structure:
+- **V ∈ {low, high}** — visibility
 
-**1. Action-Based Bias Test**
-* If visibility → institutional action
-* And visibility → identity group
-* Then: institutional action → identity group (transitivity)
-* **Therefore:** The institution is biased in its actions
+- **A ∈ {0,1}** — institutional action (material steps)
 
-**2. Communication Paradox Test**
-* If visibility → institutional communication
-* And visibility → identity group
-* But the institution claims to have taken "action" regardless of visibility
-* Then: The institution treats communication as non-actionable (mere words)
-* **Therefore:** The institution's selective communication reveals it doesn't believe words protect students
+- **C ∈ {0,1}** — institutional communication (any outward comms)
 
-**3. High-Stakes Contradiction**
-* If the institution uses strategic communication in high-visibility scenarios (to manage outcomes)
-* Then: The institution *does* believe words are actionable when stakes are high
-* But if high-visibility scenarios → specific identity group
-* And the institution only deploys "actionable words" for that group
-* **Therefore:** The institution is biased in deploying protective communication
+- **P ∈ {0,1}** — protective content within communication  
+  (naming targeted group, specific warnings, concrete protective guidance)
 
-**Conclusion:** The institution exhibits bias through both:
-* Selective action (driven by visibility, not severity)
-* Selective protection through communication (reserved for visible/certain groups)
+- **S** — severity (ordinal; used as a control)
 
-This reveals that institutional bias operates through the *mechanism* of visibility—using media attention as a filter for which students receive institutional protection.
+- **R_cost** — reputational cost of specific communication
 
 ---
 
-## Proof of Institutional Bias Through Visibility Patterns (Mathematical Notation)
+## Assumptions
 
-**Given:** V ↔ G (Visibility correlates with identity Group)
-
-**To Prove:** Institution exhibits bias
-
-### Proof:
-
-#### Lemma 1: Action-Based Bias
-
-1. V → A         (Visibility implies institutional Action)
-2. V ↔ G         (Given: Visibility correlates with Group)
-3. ∴ G → A       (By transitivity)
-
-**Result:** Institutional action depends on group identity = bias
-
-#### Lemma 2: Communication Reveals Non-Actionability
-
-1. V → C         (Visibility implies institutional Communication)
-2. V ↔ G         (Given)
-3. ∃ incidents where A claimed but ¬C    (Action claimed without Communication)
-4. If C only when V, then C ≠ protective action
-5. ∴ Institution treats C as non-actionable
-
-**Result:** Selective communication shows words aren't meant to protect
-
-#### Lemma 3: High-Stakes Contradiction
-
-1. High-stakes ∧ V → Strategic C    (High visibility + stakes → strategic Communication)
-2. Strategic C → Actionable         (Strategic communication implies belief in word efficacy)
-3. V ↔ G                            (Given)
-4. ∴ Actionable C → G               (Actionable communication deployed for specific Group)
-
-**Result:** Institution deploys protective communication selectively by group
-
-### Conclusion:
-**By Lemmas 1, 2, and 3:** Institution exhibits bias through both selective action and selective protective communication, mediated by visibility patterns that correlate with group identity.
-
-□
-
-**Note:** The transitivity step in Lemma 1 technically requires V to be strongly correlated with both A and G, not just correlated. For formal correctness, we specify the strength/direction of correlations.
-
-## Mathematical Notation Version (Formally Correct)
-
-**Definitions:**
-- Let V = visibility level (continuous or ordinal)
-- Let G = identity group (binary: protected group of interest vs. others)
-- Let A = institutional action taken (binary)
-- Let C = institutional communication issued (binary)
-
-**Given:** 
-- P(G=1|V=high) > P(G=1|V=low) (High visibility incidents more likely to involve Group 1)
-- P(V=high|G=1) > P(V=high|G=0) (Group 1 incidents more likely to be highly visible)
-
-**To Prove:** Institution exhibits bias
-
-### Proof:
-
-#### Lemma 1: Action-Based Bias
-```
-1. P(A=1|V=high) >> P(A=1|V=low)     (Strong positive correlation: V → A)
-2. P(G=1|V=high) > P(G=1|V=low)      (Given: positive correlation V ↔ G)
-3. ∴ P(A=1|G=1) > P(A=1|G=0)         (By probabilistic transitivity)
-```
-**Result:** Institutional action depends on group identity = bias
-
-#### Lemma 2: Communication Reveals Non-Actionability
-```
-1. P(C=1|V=high) ≈ 1, P(C=1|V=low) ≈ 0    (C strongly determined by V)
-2. P(G=1|V=high) > P(G=1|V=low)            (Given)
-3. ∃ incidents where A=1 ∧ C=0             (Action claimed without Communication)
-4. If P(C=1|A=1,V=low) ≈ 0, then C ≠ necessary for protective action
-5. ∴ Institution treats C as non-actionable (reputational, not protective)
-```
-**Result:** Selective communication shows words aren't meant to protect
-
-#### Lemma 3: High-Stakes Contradiction
-```
-1. P(Strategic C|High-stakes ∧ V=high) ≈ 1     (High visibility + stakes → strategic Communication)
-2. Strategic C → Belief in C's causal efficacy  (Strategic use implies actionability)
-3. P(V=high|G=1) > P(V=high|G=0)               (Given: correlation direction)
-4. ∴ P(Strategic C|G=1) > P(Strategic C|G=0)   (Strategic communication deployed differentially)
-```
-**Result:** Institution deploys protective communication selectively by group
-
-### Conclusion:
-**By Lemmas 1, 2, and 3:** Institution exhibits bias through both selective action and selective protective communication, mediated by visibility patterns that correlate with group identity.
-
-□
+1. **Monotonicity:** higher visibility (V) weakly increases probability of A and C.  
+2. **No reverse causation:** V is defined independently of A and C.  
+3. **Reputational cost = 0** in Lemma 3 is established for the specific incident.  
+4. **Reputation is visibility-linked:** institutions typically experience reputational pressure when V is high.
 
 ---
 
-## Note on Correlation Strength and Formal Correctness
+## Core Chain
 
-**Correlation Strength Requirements:**
-- Weak correlation (r < 0.3): Patterns may exist but aren't systematic bias
-- Moderate correlation (0.3 < r < 0.7): Suggestive of bias, warrants investigation
-- Strong correlation (r > 0.7): Strong evidence of systematic bias
-- The proof requires at least moderate correlations for transitivity to hold meaningfully
+- **V → C, A**: higher visibility produces more comms/actions (observed).  
+- **V → R_cost**: visibility raises reputational stakes (assumed).  
+- **V → G**: visibility is not evenly distributed; it clusters on one group (empirical).  
+- **S → V**: severity can raise visibility, but this link is inconsistent and group-dependent.  
 
-**For Formal Mathematical Correctness:**
-- The transitivity in Lemma 1 requires V to be strongly correlated with both A and G
-- We specify probabilistic relationships rather than deterministic implications
-- P(A=1|G=1) > P(A=1|G=0) follows from the chain of conditional probabilities
-- The strength of the final correlation depends on the strength of both component correlations
+**Implication:** If V is the driver, you cannot separate whether the institution is acting for **reputation** (PR logic) or for **group** (bias).  
+
+---
+
+## Lemma 1: Action-Based Bias
+
+**Given:**  
+
+- Pr(A=1 | V=high) ≫ Pr(A=1 | V=low)  
+- Pr(V=high | G=1) > Pr(V=high | G=0)
+
+**Then (via the law of total probability through V):**  
+
+- Pr(A=1 | G=1) > Pr(A=1 | G=0)
+
+**Result:** Bias in institutional **action**.
+
+---
+
+## Lemma 2: Communication Tracks Visibility
+
+**Given:**  
+
+- Pr(C=1 | V=high) ≈ 1, Pr(C=1 | V=low) ≈ 0  
+- Pr(V=high | G=1) > Pr(V=high | G=0)
+
+**Then:**  
+
+- Pr(C=1 | G=1) > Pr(C=1 | G=0)
+
+**Interpretation note:**  
+This only shows that **communication frequency** tracks visibility.  
+Since R_cost rises with V, comms *look like* they are serving reputation.  
+But in high-visibility scenarios, we cannot distinguish whether comms are driven by **reputation** or by **group identity**.  
+
+---
+
+## Lemma 3: The Chain-Breaking Outlier
+
+In the maximum-visibility, maximum-severity case, where reputational cost = 0, the reputation channel predicts protective content (P=1).  
+
+**Setup (maximum case):**  
+- V = maximum (highest-visibility incident)  
+- S = maximum (most severe: mob attack)  
+- R_cost = 0 (condemning mob violence was reputationally safe)
+
+**Observed:**  
+- C = 1 (they communicated)  
+- P = 0 (no protective content)
+
+**Logic:**  
+- If the reputation channel were operative, R_cost=0 with V=max should yield P=1
+  - **Reputation channel (PR logic):** V → R_cost → P 
+- Observed P=0 eliminates the reputation channel.  
+- The only remaining determinant is group identity (G).  
+  -  **Group channel (bias):** V → G → P
+- Given X = {V = max, S = max, R_cost = 0},  
+  equivalently, with X held constant:
+
+G ⟶ P   (bias).
+
+---
+
+### Corollary (Practical Test)
+
+Let X = {V = max, S = max, R_cost = 0}.  
+Define  
+Δ = Pr(P=1 | G=1, X) − Pr(P=1 | G=0, X).  
+
+If Δ > 0 with narrow confidence intervals, then protective communication is **group-dependent, not reputation-dependent**.  
+This isolates discrimination in protective content.
+
+---
+
+## Finding: Severity Channel Collapses
+
+In principle, institutional protection could be driven by severity (S).  
+If so, high-severity cases should consistently trigger protective communication.  
+
+**Observed pattern:**  
+- For G=0 (comparison group), even **high-severity cases** often had low visibility and received little or no protective communication.  
+- For G=1 (advantaged group), even **low-severity cases** received protective communication when visibility was present.  
+
+**Formally:**  
+E[P | S=high, G=0] < E[P | S=low, G=1]  
+
+**Implication:**  
+Severity alone does not explain outcomes. Once V and S are controlled, protection is selectively extended by **G**.  
+
+---
+
+## Conclusion
+
+- **Action channel:** A favors G=1 via visibility (Lemma 1).  
+- **Communication frequency:** C tracks visibility (Lemma 2).  
+- **Protective content:** Even when V=max, S=max, and R_cost=0, P=0 for G=0 (Lemma 3).  
+- **Severity channel collapses:** High-S incidents for G=0 still fail to generate protective communication.  
+
+➡️ **This cleanly eliminates the “just visibility” defense. Group identity, not visibility or severity, determines whether protective communication is provided.**

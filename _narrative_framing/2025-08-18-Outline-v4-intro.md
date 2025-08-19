@@ -61,6 +61,22 @@ then the institution believes words are actionable.
 if the institution only used words in high visibility scenarios, and high visibility scenarios are correlated with identity group, then the institution is biased.
 
 
+i'm trying to say that visibility implies reputation implies safety, as long as visibility implies one group. if visibility implies one group, then safety implies one group. but if we can't break the correlation between visibility and one group then we can't break the correlation that the school just cared about reputation. the oultlier case breaks the correlation, thus leaving one group correlated with safety. 
+
+
+
+
+were they willing to communicate with students to protect students yes, were they willing to communicate with the community to protect students? no
+
+is it the case that maybe they were simply not willing to communicate with the community? 
+
+no they communicated with the community to try to change reputational outcomes, they simply would not communicate with the community to change outcomes for student safety. 
+
+is it the case that reputational outcomes and student safety merely overlapped when evaluated wrt Jewish students and not Pro-P? ie we still have not proven that the school is being deliberate: we have not disproven that the school simply communicates when visibility is high. 
+
+i have one instance of the highest visibility scenario and the most severe, when they simply referred to the mob as instigators, and condemned the attack. in other words it would have been a neutral reputational outcome and would have helped student safety if they were specific, in this high visibility scenario. but they were not. 
+
+
 ### Analytical Questions
 
 - How were administrative responses correlated with **group identity, media visibility, and severity of incidents**?  
