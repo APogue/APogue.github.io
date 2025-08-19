@@ -55,7 +55,8 @@ What action is taken to address bad actors? If no specific action is taken, spec
 **Hypothesis:**  
 - **Within groups:** ∂Pr(A_specific)/∂S ≈ 0 for both groups — increased severity does not drive meaningful increases in specific action.  
 
-- **Between groups:** Pr(A_specific | G=1) > Pr(A_specific | G=0) across severity levels.
+- **Between groups:** 
+  - Pr(A_specific | G=1) > Pr(A_specific | G=0) across severity levels.
 
 **Observed Pattern:**  
 - **G=1 (advantaged group):** Some reactive measures, some symbolic specificity (e.g., initiating review, naming antisemitism, emotional framing).
@@ -123,16 +124,36 @@ Let X = {V = max, S = max, R_cost = 0}.
 Define  
 Δ = Pr(P=1 | G=1, X) − Pr(P=1 | G=0, X).  
 
-If Δ > 0 with narrow confidence intervals, then protective communication is **group-dependent, not reputation-dependent**.  
-This isolates non-neutral communication in protective content.
+If Δ > 0 with narrow confidence intervals, then protective communication is **group-dependent, not reputation-dependent**. This isolates non-neutral communication in protective content.
 
 ---
 
 ## Lemma 4: High-Stakes Comms and Mitigation Duty
 
+**The argument:**
+1. Past incidents showed hostile actors were reactive to comms (established knowledge)
+2. University did not remove/mitigate these actors (M=0)
+3. University issued high-stakes comms anyway
+4. Therefore: They knowingly accepted the risk of *triggering hostile actors*
+
+**This IS deliberate indifference because:**
+- They had actual knowledge of the risk (from past reactivity)
+- They chose to act despite that knowledge
+- They had alternatives (mitigate first, or don't communicate)
+
+## Legal Parallel
+
+This is like:
+- A school knows certain students react violently to announcements about rival gangs
+- School doesn't remove those students
+- School makes inflammatory announcement anyway
+- = Deliberate indifference (they knew and chose to risk it)
+
+I don't need to prove violence actually occurred after the announcement - just that they **knew it could** based on past behavior.
+
 **Variables:**  
 - **C*** — comms traction (reach/visibility of admin comms, in response to national news, viral rumors, made during a high-stakes situation unfolding in real time)  
-- **T_known ∈ {0,1}** — presence of hostile actors (premeditated behavior, coordinated action, motivated by threats to a protected group, repeat presence on campus)  
+- **T_known ∈ {0,1}** — presence of hostile actors (premeditated behavior, coordinated action, motivated by threats to a protected group, repeat presence on campus, and demonstrably reactive to university communications (directly or indirectly))  
 - **M ∈ {0,1}** — any institutional mitigation of those threats (ban, sanction, removal, initiation of police investigations, unlawful conduct warning, or deterrence of unlawful behavior through stated preparedness)
 
 **Hypothesis:**  
@@ -148,7 +169,7 @@ If they fail to mitigate (M=0) but continue to communicate (C*>0), *this constit
 By April 30, the university had months of notice that hostile actors were present and reactive to communications, yet no mitigation occurred. High-traction comms were then issued into that same environment, with known threats unaddressed. This is deliberate indifference: a choice to speak while failing to eliminate a foreseeable risk.
 
 **Implication:**  
-Mitigation does not need to accompany every comms act in real time, but it must occur once threats are known. The absence of mitigation, combined with continued high-stakes comms, demonstrates deliberate indifference and permits hostile actors to remain empowered.
+Mitigation must occur once threats are known. The absence of mitigation, combined with continued high-stakes comms, demonstrates deliberate indifference and permits hostile actors to remain empowered.
 
 ---
 
