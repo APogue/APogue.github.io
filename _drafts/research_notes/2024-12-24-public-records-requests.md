@@ -5,8 +5,49 @@ published: true
 toc: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-2-28 8:29 PM
+updated_date: 2025-8-20 1:48 PM
 ---
+
+
+## Oct 11, 2023  (**Status:** Awaiting production)
+
+- Monroe Gorden Jr. Vice Chancellor, UCLA Student Affairs 
+
+	- "Michael, do we know whether PD has opened an investigation into the assault (there is a video
+	circulating that can be sent to JT if they do not already have it)?"
+
+	- "Thanks Michael, perhaps you and I can meet on Monday to discuss. I’m concerned about the fact
+	that these individuals engaged in violence toward a staff member, and feel that we need to work to
+	hold them accountable, otherwise it these types of events may get worse."
+
+	- **THIS NEEDS FOLLOW UP**
+
+**Subject:** CPRA Request – Kaplan Incident (Admin ↔ UCPD Communications)  
+
+Dear Public Records Office,  
+
+Pursuant to the California Public Records Act (Gov. Code § 6250 et seq.), I request:  
+
+**All communications, including but not limited to emails, text messages, and memoranda, exchanged between UCLA administrators and the UCLA Police Department (UCPD) concerning the incident involving counter-protest activity near Kaplan Hall on Oct 11, 2023.**  
+
+This request includes, but is not limited to, communications involving:  
+- Chancellor Gene Block  
+- Vice Chancellor Mary Osako  
+- Executive Vice Chancellor/Provost Darnell Hunt  
+- Administrative Vice Chancellor Michael Beck  
+- Vice Chancellor Monroe Gorden, Jr. 
+- UCPD Chief John Thomas  
+
+Records already produced by UCLA (see attached October 12, 2023, emails from Vice Chancellor Monroe Gorden and Administrative Vice Chancellor Michael Beck) confirm that administrators discussed whether PD had opened an investigation into the Kaplan incident and mentioned sending video of the assault to Chief John Thomas. These records demonstrate that responsive communications with UCPD **do exist**. Please ensure those communications are included in your search and production.  
+
+If any portion of the requested records is exempt from disclosure, please produce all reasonably segregable portions, with exempt material redacted, as required under Gov. Code § 6253(a). For each redaction or withholding, please identify the specific exemption relied upon.  
+
+To date, I have not received any communications between UCLA administrators and UCPD in response to prior requests. If UCLA produces no responsive records here, I will assume either (a) no such communications exist, or (b) they are being withheld under a claimed exemption. To avoid ambiguity, please confirm which is the case.  
+
+Thank you for your assistance.  
+
+Sincerely,  
+Me  
 
 ## Oct 9th - Nov 9th (requested)
 
@@ -24,9 +65,40 @@ updated_date: 2025-2-28 8:29 PM
 
 	- [response letter](https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTMQRdBbsMxzndZCqndqJndWP?projector=1&messagePartId=0.2), "we are making requested records available to you on a rolling basis."
 
-## Nov 10th (need to request)
+## April 30th, 2024 (**Status:** Awaiting production)
 
-- Was the response to the pinata incident that was "caught on video and shared widely" something that caused Block to respond in the way that he did? 
+- Block April 30th message: "In response, we've taken several immediate actions. We have significantly increased out security presence in the area, including adding greater numbers of law enforcement officers, safety personnel and student affairs mitigators. We have also engaged law enforcement to investigate the recent acts of violence." 
+
+**Subject:** CPRA Request – April 30 Encampment (Admin ↔ UCPD Communications)  
+
+Dear Public Records Office,  
+
+Pursuant to the California Public Records Act (Gov. Code § 6250 et seq.), I request:  
+
+**All communications, including but not limited to emails, text messages, and memoranda, exchanged between UCLA administrators and the UCLA Police Department (UCPD) concerning law enforcement engagement with Royce Quad protest activity on or around April 30, 2024.**  
+
+This request includes communications reflecting both:  
+- **Reactive measures** — e.g., investigations into acts of violence, review of incidents, or accountability for perpetrators.  
+- **Proactive measures** — e.g., planning, coordination, or deployment of law enforcement or safety personnel in relation to the encampment.  
+
+This request includes, but is not limited to, communications involving:  
+- Chancellor Gene Block  
+- Vice Chancellor Mary Osako  
+- Executive Vice Chancellor/Provost Darnell Hunt  
+- Administrative Vice Chancellor Michael Beck  
+- Vice Chancellor Monroe Gorden, Jr. 
+- UCPD Chief John Thomas  
+
+Chancellor Block’s April 30, 2024 message to the campus community stated: *“We have significantly increased our security presence in the area, including adding greater numbers of law enforcement officers, safety personnel and student affairs mitigators. We have also engaged law enforcement to investigate the recent acts of violence.”* These public statements confirm that responsive communications with UCPD **must exist**. Please ensure those communications are included in your search and production.  
+
+If any portion of the requested records is exempt from disclosure, please produce all reasonably segregable portions, with exempt material redacted, as required under Gov. Code § 6253(a). For each redaction or withholding, please identify the specific exemption relied upon.  
+
+To date, I have not received any communications between UCLA administrators and UCPD in response to prior requests. If UCLA produces no responsive records here, I will assume either (a) no such communications exist, or (b) they are being withheld under a claimed exemption. To avoid ambiguity, please confirm which is the case.  
+
+Thank you for your assistance.  
+
+Sincerely,  
+Me 
 
 
 ## April 25 - May 2nd (received)
