@@ -5,9 +5,8 @@ published: true
 toc: true
 author: Alexie Pogue
 date: 2024-12-19 3:44 PM
-updated_date: 2025-8-20 1:48 PM
+updated_date: 2025-8-20 3:54 PM
 ---
-
 
 ## Oct 11, 2023  (**Status:** Awaiting production)
 
@@ -20,7 +19,7 @@ updated_date: 2025-8-20 1:48 PM
 	that these individuals engaged in violence toward a staff member, and feel that we need to work to
 	hold them accountable, otherwise it these types of events may get worse."
 
-	- **THIS NEEDS FOLLOW UP**
+	- **THIS NEEDS FOLLOW UP** (below)
 
 **Subject:** CPRA Request – Kaplan Incident (Admin ↔ UCPD Communications)  
 
@@ -49,9 +48,25 @@ Thank you for your assistance.
 Sincerely,  
 Me  
 
-## Oct 9th - Nov 9th (requested)
+## Oct 9th - Nov 9th (received)
 
-- Records department sent confirmation of receipt 
+- **Note 8-20-2025**- I'm a little pissed because I said to them "Pursuant to the California Public Records Act, I request access to the following records from **Oct 9th - Nov 9th, 2023 or weeks thereafter** relating to an altercation that occurred in Kaplan Hall in relation to the event depicted in the attached photo." There is evidence that they stated: 
+
+	- “Several speakers brought attention to recent allegations of attacks against pro-Palestinian students on campus."
+
+		When the Daily Bruin inquired about the allegations, in an emailed statement a UCLA spokesperson
+
+		"said members of the student affairs team intervened in response to students at Kaplan Hall allegedly experiencing harassment while attempting to watch a teach-in on their computers. The spokesperson added that the university is still investigating the incident with an eye to holding individuals in violation of university rules and the law accountable.
+
+		“While we don’t believe the individuals who caused the incident are students or affiliated with our campus, **we strongly encourage all community members to engage in thoughtful debate and treat everyone with respect**,” they said in the statement.”"
+
+	- SAMS report proves that intervention prevented escalation but was not true resolution like the spokesperson framed it.
+
+	- Where are the damn records relating to any sort of ongoing investigation? I have received zero related records. They gave me one email thread and a SAMS report. 
+
+	- If they don't produce any evidence of an investigation: then they've made a public claim of investigation vs. absence of any trace in the record. Either they are unlawfully witholding under CPRA, they are misapplying exemptions, or there was never any investigation. But based on the SAMS report (which was damning compared to video evidence), I don't think the records dept is functioning in bad faith. 
+
+	- **THIS NEEDS FOLLOW UP** - “UCLA publicly stated an investigation was ongoing as of Oct 25, 2023. Please produce records substantiating this claim, or confirm that no such records exist” (Block's statement relates to the walkout, he made the statement on Oct 27th)
 
 1. External communications 
 
