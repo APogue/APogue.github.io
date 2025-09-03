@@ -5,7 +5,7 @@ title: "Protest activities-administrative response in the aftermath"
 published: false
 author: Alexie Pogue
 date: 2024-10-22 8:10 PM
-updated_date: 2024-12-16 10:48 AM
+updated_date: 2025-09-03 3:44 PM
 ---
 
 ### Notes
@@ -211,7 +211,10 @@ updated_date: 2024-12-16 10:48 AM
 
 	- "If this is not the case, then it should be easy for the **UCLA administration to identify those administrators who undertook the required annual training in crowd management and response.** UCLA can simply produce the plans developed before these protests, which guided their response, and demonstrate how the response dovetailed with those plans. Finally, the **UCLA administration can also show how it met the required training, briefing, and scenario planning that it was ordered to undertake both with its own police department and outside agencies prior to these protests.**
 
+- [UCLA police chief reassigned following campus unrest](https://www.nbclosangeles.com/news/local/ucla-police-chief-reassigned-following-campus-unrest/3419211/)
 
+	- "The UCLA administration owns the failure of any protest response, and the public should reject their attempts to shift blame to law enforcement,'' Stern said in a statement. "UC guidelines ... require a trained senior administrator at UCLA to decide how to respond to protests, guided by an existing plan that had been rehearsed and scenario planned with both UCLA PD and outside law enforcement agencies."
+  
 - [UCLA police chief, blasted for security lapses that led to protest violence, is out](https://www.latimes.com/california/story/2024-12-11/ucla-police-chief-blasted-for-security-lapses-that-led-to-protest-violence-is-out)
 
     I think she's off in terms of the weighting of fault wrt police compared to administration, I think they largely faulted the administration in the 21 report.

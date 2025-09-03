@@ -4,7 +4,7 @@ toc: true
 title: "Protest activities-UCLA handling"
 published: true
 author: Alexie Pogue
-date: 2025-4-29 3:03 PM
+date: 2025-09-03 3:03 PM
 sources: [DB-001, ADM-002]
 ---
 
@@ -94,6 +94,12 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 		- "“We are CANCELING our SRT call out /MUTUAL AID at this time. The campus is not ready to move to a police operation as of yet, and we don’t foresee any action happening that will require us at least this coming weekend,” Koh said in the email. “We may be talking to you in the coming weeks regarding mutual aid if our campus administration moves to clearing this out.”"
 
+- Saturday 4/27 
+
+	- [Protesters, counter-protesters clash as they converge upon UCLA encampment](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)
+
+	- "A small group of pro-Israel counter-protesters had also caused disturbances late Saturday evening and early Sunday morning, with some attempting to climb over the barricades around the encampment. A security guard hired by UCLA was allegedly pepper sprayed at around 8 a.m., and a demonstrator had blood on their face at around 12:30 p.m."
+
 
 - [Sunday 4/28](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)
 
@@ -137,9 +143,6 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 	- "“We will not leave,” UC Divest said in the press release. “We will remain here until our demands are met.”"
 
-
-
-
 ### Thomas interview
 
 - [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
@@ -167,9 +170,6 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 		- “The mutual aid requests made Thursday and Friday, April 25-26 — which would have provided UCLA with more officers as they dealt with the camp and a dueling area erected by pro-Israel activists — were both canceled. Thomas said he made the requests because the university was tentatively planning to take down the encampment then, but he canceled them when that plan was delayed.”
 
 			“He said he did not make any additional request after that because there was no specific reason for it at the time, but he directed his watch commander to do so immediately after learning about the attack, which he said was a “spontaneous” event. Critics are asking why he did not make another request sooner than that, after specific instances of physical altercations on Sunday and Monday.”
-
-
-
 
 ### Post-protest finger pointing 
 
