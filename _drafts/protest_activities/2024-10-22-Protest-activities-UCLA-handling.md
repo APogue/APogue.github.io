@@ -111,6 +111,9 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 
 		- "Not only must we recognize one another’s humanity, we must also learn to engage respectfully. In line with this, UCLA is substantially expanding its Dialogue across Difference (DaD) initiative, which will now move under the banner of UCLA’s Bedari Kindness Institute. Sady and Ludwig Kahn Professor of Jewish History David Myers, who leads the DaD initiative, has been named director of the institute." [Our Four-Point Plan for a Safer, Stronger UCLA](https://chancellor.ucla.edu/messages/our-four-point-plan-for-a-safer-stronger-ucla/)
 
+	- [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
+
+		- "But Thomas did not provide a plan to senior UCLA leadership — even after he was **again asked to provide one after skirmishes broke out between Israel supporters and pro-Palestinian advocates at dueling rallies Sunday**."
 
 - [Monday 4/29](https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment)
 

@@ -5,6 +5,49 @@ author: Alexie Pogue
 date: 2025-09-03 2:11 PM
 ---
 
+## Was Thomas negligent or deliberately negligent? 
+
+- If Thomas himself wasn’t deliberately negligent, then the deliberate negligence must lie higher up — with campus leadership who:
+
+	- Directed him not to use police in the plan,
+
+	- Overrode or constrained his authority,
+
+	- Ignored or minimized intelligence,
+
+	- Or otherwise made choices that left the encampment unprotected.
+
+- So the distinction matters because it lets me trace responsibility. If Thomas was only negligent (poor judgment), then the deliberate element shifts to the administration that gave or withheld orders. If Thomas was deliberately negligent, the responsibility sits with him. 
+
+## Mechanics
+
+- UCLA communications 
+
+- strategic planning
+
+- mutual aid
+
+- intel/recon
+
+- incident reports/logs
+
+
+## Baseline Incidents and/or Events
+
+- kaplan (include the email with the student report)
+
+- regents meeting
+
+- sunday rally 
+
+
+## The Encampment
+
+- 
+
+
+## Dates and Context of Specific Requests
+
 
 - [Friday 4/26– Mary Osako](https://newsroom.ucla.edu/ucla-statement-about-encampment-on-campus-april-26), Vice Chacellor for Strategic Communications wrote---
 
@@ -17,6 +60,18 @@ date: 2025-09-03 2:11 PM
 		- "According to emails between UC police departments obtained by the Daily Bruin, UCLA requested additional aid from the police departments of various UC campuses, but UCPD Lieutenant Issac Koh then canceled the request at 11:25 a.m. April 26."
 
 		- "“We are CANCELING our SRT call out /MUTUAL AID at this time. The campus is not ready to move to a police operation as of yet, and we don’t foresee any action happening that will require us at least this coming weekend,” Koh said in the email. “We may be talking to you in the coming weeks regarding mutual aid if our campus administration moves to clearing this out.”"
+
+	- [Documents reveal how UCPD coordinated protest responses with other departments](https://dailybruin.com/2024/07/15/documents-reveal-how-ucpd-coordinated-protest-responses-with-other-departments)
+
+		- "Emails obtained by The Bruin reveal that officers from BHPD, CCPD, SMPD and UCPD, as well as several captains from LAPD, were requested to be added to a text group chat by then-UCPD Chief John Thomas – who was later reassigned."
+
+		- "“These notification texts should provide this group with pertinent updates, intelligence that would be beneficial should we need to call them to respond to assist us with emergency issues involving the encampment protests in Royce Quad or elsewhere on campus,” Thomas said in an email obtained by The Bruin."
+
+		- "The text thread was used by officers to communicate whereabouts and activity updates for not only the first encampment but for several of the other protests on campus that occurred throughout May and June, including informing the group about the arrests of 42 people at Parking Structure 2 on May 6.
+
+			The officers inside the thread used it to tell each other where groups of protesters were moving, numbers of detainees and information about plans for new protests they had heard."
+
+		- "“A new AVC is being brought in to oversee the PD and an advisory committee has been announced,” he said. “We are being told we will report to the new AVC.”"
 
 - [Mary Osako Sunday 4/28](https://newsroom.ucla.edu/ucla-statement-on-demonstrations-april-28)- 
 
@@ -72,11 +127,6 @@ date: 2025-09-03 2:11 PM
 
 
 	The barriers that demonstrators used to block access to buildings have been removed, and we have staff located around Royce Quad to help ensure that they will not go up again. With regard to these incidents, our student conduct process has been initiated, and could lead to disciplinary action including suspension or expulsion."
-
-	- **The administration did not understand or convey the urgency of the matter---this is the main point, the safety issue is why the encampment needed to be cleared right away**
-
-
-
 
 
 ### Thomas interview
