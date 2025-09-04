@@ -26,13 +26,17 @@ updated_date: 2025-09-04 4:11 PM
 
 	- nouri *may be* one case, are there others?
 
-- the preverbial dagger 
+- the proverbial dagger 
 
 	- does the paper go all the way up? in other words did EVC's or the chancellor know about reports?
 
 		- the EVC's and the chancellor knew about Kaplan 
 
 ### Police response
+
+- [UC reaches agreement with Education Department over Title VI investigations](https://dailybruin.com/2024/12/23/uc-reaches-agreement-with-education-department-over-title-vi-investigations)
+
+	- "“UCLA, through its campus police, allegedly failed to protect Palestinian, Arab, and/or pro-Palestinian student protestors while they were violently attacked, injured, and intimidated by counter-protestors, including third parties,” the press release said."
 
 - [Sergio Olmos X](https://x.com/MrOlmos/status/1785575555620123065)
 

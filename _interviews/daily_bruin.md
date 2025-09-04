@@ -75,3 +75,9 @@ toc: true
 		One of the journalists confronted the attackers and shoved one before he was pummeled to the ground and beaten, according to **video footage of the incident.**"
 
 	- Who has this footage, CNN? Does Catherine have footage?
+
+- [Lawsuit #4](https://calmatters.org/wp-content/uploads/2025/03/OMNIBUS-COMPLAINT-final-2-1.pdf)
+
+	- She names him in this civil complaint (not sworn)
+
+	- If CNN and LATimes weren't willing to name him, her allegation doesn't meet their evidentiary standards 
