@@ -4,7 +4,7 @@ toc: true
 title: "Protest activities-UCLA handling"
 published: true
 author: Alexie Pogue
-date: 2025-09-03 3:03 PM
+date: 2025-09-04 2:52 PM
 sources: [DB-001, ADM-002]
 ---
 
@@ -99,6 +99,8 @@ Thesis6: But UCPD by policy functions as "operational execution" as opposed to "
 	- [Protesters, counter-protesters clash as they converge upon UCLA encampment](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)
 
 	- "A small group of pro-Israel counter-protesters had also caused disturbances late Saturday evening and early Sunday morning, with some attempting to climb over the barricades around the encampment. A security guard hired by UCLA was allegedly pepper sprayed at around 8 a.m., and a demonstrator had blood on their face at around 12:30 p.m."
+
+	- [Counter-protester activity continues through 3rd night of pro-Palestine encampment](https://dailybruin.com/2024/04/28/counter-protester-activity-continues-through-3rd-night-of-pro-palestine-encampment)
 
 
 - [Sunday 4/28](https://dailybruin.com/2024/04/28/protesters-counter-protesters-clash-as-they-converge-upon-ucla-encampment)

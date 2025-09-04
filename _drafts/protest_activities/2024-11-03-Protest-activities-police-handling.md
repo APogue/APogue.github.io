@@ -5,9 +5,32 @@ title: "Protest activities-Police handling"
 published: false
 author: Alexie Pogue
 date: 2024-11-3 6:50 PM
-updated_date: 2024-11-15 3:18 PM 
+updated_date: 2025-09-04 4:11 PM 
 ---
 
+### Evidence required
+
+- kaplan is known premeditation 
+
+- is there another instance of premeditation?
+
+	- more importantly was that premeditation *known*?
+
+	- betar case is an instance of known premeditation
+
+- lots of "known" actors, are any of these known actors connected to a paper trail?
+
+	- did the known actor partake in either 1. repeated harassment of students or 2. illegal activity?
+
+	- did this trail exist *prior* to April 30th? 
+
+	- nouri *may be* one case, are there others?
+
+- the preverbial dagger 
+
+	- does the paper go all the way up? in other words did EVC's or the chancellor know about reports?
+
+		- the EVC's and the chancellor knew about Kaplan 
 
 ### Police response
 

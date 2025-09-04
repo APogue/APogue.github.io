@@ -3,6 +3,7 @@ layout: single
 title: "UCPD Records Request"
 author: Alexie Pogue
 date: 2025-09-03 2:11 PM
+updated_date: 2025-09-04 4:04 PM
 ---
 
 ## Was Thomas negligent or deliberately negligent? 
@@ -132,6 +133,57 @@ date: 2025-09-03 2:11 PM
 ### Thomas interview
 
 - [UCLA’s top cop, accused of security lapse, faces calls to step aside. He defends his actions](https://www.latimes.com/california/story/2024-05-03/before-mob-attack-ucla-police-chief-was-ordered-to-create-security-plan-but-didnt-sources-say)
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	- The article begins with, "The account of Thomas’ actions leading up to the attack was provided by three sources who were not authorized to speak publicly." Then Thomas gives his rebuttal. 
 
