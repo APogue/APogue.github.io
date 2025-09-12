@@ -1,0 +1,11 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+figcaption {
+    text-align: center !important;
+    width: 100% !important;
+    display: block !important;
+}
