@@ -74,6 +74,12 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Enable MathJax globally
+mathjax: true
+
 
 # Social Links (for footer and other theme features)
 social:
