@@ -4,6 +4,7 @@ title: "Firearm-Related Statistics for a Few States Over Time"
 author: Alexie Pogue
 date: 2025-09-17
 updated: 2025-09-17
+published: false
 ---
 
 ### CDC WONDER Firearm Data for a Few States Over time
