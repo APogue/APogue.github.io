@@ -44,8 +44,9 @@ Will only include the information absolutely necessary to understanding the core
     - What are the data implications without targeted infrastructure funding
 - My take on the issue
     - Why is the way the statistics are reported by the UCR/NIBRS/CIUS an issue?
-        - They are lumping critical reporting gaps in with low-priority gaps and citing a single, nationwide coverage statistic
-    - Has UCR met their reporting coverage sufficiency threshold in the years 2022, 2023, and 2024 under the NIBRS system? Is this the data they used and submitted for FY 2026? 
-        - MS has gone up in reporting coverage but the error has increased since the switch (lag?)
+        - They are lumping critical reporting gaps in with (presumed) low-priority gaps and citing a single, nationwide coverage statistic
+    - Has UCR met their reporting coverage sufficiency threshold in the years 2022, 2023, and 2024 under the NIBRS system? Is this the data JAG used and submitted for FY 2026? 
+        - MS has gone up in reporting coverage but the error has increased since the switch
             - Is the state certified but agencies are failing to switch? Or as more agencies enter the NIBRS others are leaving SRS? (lag). 
         - What are the implications with respect to funding and reporting if they used the NIBRS data? Or if they choose to use it in the future without targeted funding for the switch?
+    - Is there backpay due? Can the funding floor be reallocated to pad the transition?
