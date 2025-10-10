@@ -18,11 +18,10 @@ Will only include the information absolutely necessary to understanding the core
     - What methodologies are there for any processing (slight processing I believe, prior to CIUS processing. They fill in data for years considered "incomplete" by some number of months) 
     - SRS and NIBRS switch (take this from CRO)
         - Hierarchy rule
-        - Reporting issues continue to affect data integrity, in which years after 2021 did they continue to accept SRS? (and from who? states that are uncertified?)
+        - Reporting issues continue to affect data integrity, in which years after 2021 did they continue to accept SRS? 
             - CRO says 2022 and 2023
             - JAG report says some states could not accept SRS after state-level switch (Georgia)
-        - What does the "switch" entail? Once a state is certified is no more SRS data coming in from that state? And only in the 60/40 breakdown are they interacting with SRS agencies? 
-            - No way of knowing. It can only be assumed, given the population coverage data in the CIUS spreadsheets that they continued to accept SRS submissions for national and state-level totals. 
+            - No way of knowing. It can only be assumed, given the population coverage data in the CIUS spreadsheets that they continued to accept SRS submissions where available for national and state-level totals. 
 - What is JAG
     - What is it used for
     - Methods
@@ -39,10 +38,10 @@ Will only include the information absolutely necessary to understanding the core
         - What processing is used (find methodologies)
     - The line should be between the orange and green, the theoretical maximum assumes total consistency between medical coroners/ME's and police investigations, with a delta from self-defense (inclusive, excluded, respectively). 
         - Take a max, min delta between lines and put them on the plots 
-    - Other variations are due to IDC-9 to IDC-10 switch, different conclusions between medical and police with respect to cause of death, or whether the cause could not be determined, which the CDC would coded as "underdetermined" (and the police unknown?)
+    - Other variations are due to IDC-9 to IDC-10 switch, different conclusions between medical and police with respect to cause of death, or whether the cause could not be determined, which the CDC would code as "underdetermined" (and the police unknown?)
     - Regardless, empirically close alignment with the CDC is achieved in some states (or there could be more backend comms and collaboration between local agencies and coroners) 
     - What I would consider a "healthy reporting channel" versus one that's problematic (Texas vs MS)
-    - In addition to the frozen 2018-2020 window (which they've used exactly how many times?) Exacly how many times did JAG use the year 2018 to calculate funding?
+    - In addition to the frozen 2018-2020 window (which they've used exactly how many times?) Exactly how many times did JAG use the year 2018 to calculate funding?
     - Weighted CIUS reporing population coverage statistic for each state, from 2015-2024
         - At the end of the day, it doesn't matter what underlying data is being used (SRS or NIBRS), what matters is the population coverage over the years
             - In MS the rural areas have a terrible history of reporting, that accounts for half the MS population
@@ -64,21 +63,22 @@ Will only include the information absolutely necessary to understanding the core
     - Why is the SRS to NIBRS data switch a problem? 
     - What are the data implications without targeted infrastructure funding
 - My take on the issue
-    - Why is the way the statistics are reported by the UCR/NIBRS/CIUS an issue?
-        - They are lumping critical reporting gaps in with (presumed) low-priority gaps and citing a single, nationwide coverage statistic
+    - Why is the way the statistics are reported by the UCR/NIBRS/CIUS an issue for JAG funding?
+        - A national coverage statistic treats reporting gaps as a single "batch" issue. It is unknown whether critical reporting gaps exist, and by grouping them with either low-crime gaps or gaps that can be accurately adjusted using estimation procedures, critical gaps are not being properly addressed. 
     - Has UCR met their reporting coverage sufficiency threshold in the years 2022, 2023, and 2024 under the NIBRS system? Is this the data JAG used and submitted for FY 2026? 
-        - MS has gone up in reporting coverage but the error has increased since the switch
-            - Is the state certified but agencies are failing to switch? Or as more agencies enter the NIBRS others are leaving SRS? (lag). 
         - What are the implications with respect to funding and reporting if they used the NIBRS data? Or if they choose to use it in the future without targeted funding for the switch?
     - Is there backpay due? Can the funding floor be reallocated to pad the transition?
-    - The JAG setup is pretty dumb, if you look at NY in 2024, they made a huge adjustment to a rural area missing less than 3% of its coverage. 
+    - The JAG setup is pretty dumb, if you look at NY in 2024, they made a huge adjustment to rural areas missing less than 3% of its coverage. 
         - NY is affluent and high-capacity, they have a solid data history, huge adjustments are statistically sound measures
-        - These kinds of adjustments unfairly advantage big states already getting more money based on the population half of the funding calcuations, or have redundant funding channels
-        - MS is caught in a negative feedback cycle, they don't have a good history of reporting, any statistical adjustments are conservative when reporting gaps are critical (requiring major changes)
+        - These kinds of adjustments unfairly advantage big states already getting more money based on the population half of the funding calcuations, and redundant funding channels
+        - MS doesn't have a good history of reporting, any statistical adjustments are conservative when reporting gaps are critical (requiring major changes)
         - The funding structure is punative - they aren't reporting, they get less money, they can't *add agencies* and transition due to underfunding, they get proportionally less money as a result
-        - To take the violent crime measure of a state's data and not condition it on the state reporting and/or population size, to fund based on a national total, underweights crime impact on the state, and thus the state's ability to address that crime. 
-            - This point is especially true because the funding is *based on reporting*, the entire award is based on totally inaccurate data. They should be getting *more* money, not less money. 
-            - In other words, different states have different situations, and homogenizing that factor is an issue. Take MS's rank in homicides compared to many larger states, discounting rate (population). Larger states with lower absolute crime numbers are getting more money (CT vs MS) based on population size. If the states are already reporting at 100%, this money is effectively a surplus to put to various justice initiatives, which will only cause the policing infrastructure gap to widen further. Or take huge states with equal or greater crime or homicide numbers, they are getting significantly more money. 
-            - MS total contribution to national crime is small, but its crime rate is high. Even in extreme cases, if the crime rate were extremely high, it's national share would still be small. Yet it is incumbent on the state itself to address high crime rates, the crime regularization across states does not recognize this fact. States do not share resources. And accounting for population further dilutes funding impact, essentially acting to average funding across the nation - a big state with low crime will get as much or more money than MS. 
+        - To take a state's data and not condition it on the state reporting and/or crime rate, to consider total violent crime as completely separate from population, underweights the crime impact on the state, and overestimates the state's ability to address that crime. 
+            - This point is especially true because the funding is *based on reporting*, the entire award is based on inaccurate data. Good faith attempts to improve reporting should be getting *more* money, not less money. 
+            - Different states have different situations, and homogenizing that factor is an issue. Take MS's rank in homicides compared to many larger states, discounting rate (population). Larger states with lower absolute crime numbers are getting more money (CT vs MS). 
+                - If the states are already reporting at 100%, this money is effectively a surplus to put to various criminal justice initiatives, which will only cause the policing resource and capability gap to widen further.
+                - MS crime is dispersed outside of metropolitan areas, it may be harder to pool resources or allocate multiple roles to a single entity to address crime
+                - The population half of the grant dilutes funding impact, essentially acting to average funding across the nation - a big state with low crime will get as much or more money than MS. 
             - All together, considering absolute numbers, it means crimes are "worth" more in large states
-            - Scaling funding by population does make sense, all things being equal. Until then, adjustments need to be made. 
+                - The population half essentially assumes a single, "national crime rate." Some weighting should be applied based on crime rates. The VC half should be improved by being more accurate. 
+            - At the very least, scale funding by population, but only provided all reporting is equal. Until then, adjustments need to be made. 
