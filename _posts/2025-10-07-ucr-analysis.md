@@ -56,7 +56,7 @@ published: True
     - It's insane to use voluntary reporting 
         - A national coverage statistic treats reporting gaps as a single "batch" issue. It is unknown whether critical reporting gaps exist, and by grouping them with either low-crime gaps or gaps that can be accurately adjusted using estimation procedures, latent critical gaps are not being properly addressed. 
         - MS doesn't have a good history of reporting, any statistical adjustments are conservative. Judging from CDC, the reporting gaps are critical (requiring major changes). This can't be solved with modeling. Reporting must go up. 
-            - NYC 2024 rural adjustment as an example
+            - NY 2024 rural adjustment as an example
         - The funding structure is punative - they aren't reporting, they get less money, they can't *add agencies* and transition due to underfunding, they get proportionally less money as a result
 - Implications of the JAG formula 
     - The population half dilutes funding impact wrt crime, over-burdening the state in addressing that crime
