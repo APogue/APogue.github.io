@@ -53,6 +53,7 @@ published: True
     - CRO take on the issue
         - What problems are happening with the SRS to NIBRS data switch? 
         - Need targeted infrastructure funding
+        - Some mention of separate reporting funding initiatives on the FBI (BJS?) website but nothing specific, nothing CRO mentioned, and nothing that has had any kind of impact
     - It's insane to use voluntary reporting 
         - A national coverage statistic treats reporting gaps as a single "batch" issue. It is unknown whether critical reporting gaps exist, and by grouping them with either low-crime gaps or gaps that can be accurately adjusted using estimation procedures, latent critical gaps are not being properly addressed. 
         - MS doesn't have a good history of reporting, any statistical adjustments are conservative. Judging from CDC, the reporting gaps are critical (requiring major changes). This can't be solved with modeling. Reporting must go up. 
@@ -70,5 +71,5 @@ published: True
         - Crime may not always have been the funding priority, but funding has been cut by a huge amount - JAG funding was 600 million in 2005. High-crime (/low-reporting) states should absolutely be prioritized either by adjusting the formula temporarily (incorporte rate weighting) or dedicating separate funding to onboard agencies (pull universal floor allocations). 
             - As-is, population allocations and bad data effectively blinds JAG to high-crime states - it deals now critical, small funds unfairly and punishes low-reporting states 
 - At the very least, reporting needs to be addressed. Once reporting meets adequate thresholds, JAG can effectively target criminal justice causes in vulnerable states.
-
+    
 
