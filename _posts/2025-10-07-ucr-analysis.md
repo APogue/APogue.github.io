@@ -26,7 +26,7 @@ Will only include the information absolutely necessary to understanding the core
 - What is JAG
     - What is it used for
     - Methods
-        - Concern is for the state-level funding, further breakdowns between SSA and local agencies not considered
+        - Concern is for the state-level funding, further breakdowns between SAA and local agencies not considered
         - They use a sliding window containing the 3 most recent years of complete data, they have been using the 2018-2020 window since the 2022 FY (I believe) and through FY 2025 (although that report is unpublished)
         - What is CIUS
             - What constitutes a violent crime? 
@@ -55,6 +55,10 @@ Will only include the information absolutely necessary to understanding the core
             - FL, NY has low pop coverage on the hex map, high pop coverage in 2019, then a drop beginning in 2022 that is still higher than the hex map indicates. 
                 - NY clearly has SRS data coming in, and a good enough history of data to make large modeling adjustments (2024 VC)
                 - If the 2024 CDC number is even close to correct, the homicide number in MS is higher than a majority of other states that year
+                    - Rank MS versus other states in absolute VC and homicide numbers using 1. UCR data and 2. CDC data (don't mix the data streams) in 2024
+                        - If reporting is somewhat consistent between CDC and UCR for high reporting states, then MS should jump considerably in rank
+                        - Any states with a large gap should be looked into (LA?)
+                    - Compare that to their population rank 
             - GA (pure NIBRS according to JAG) has higher coverage in 2019, then coverage drops and slowly climbs as years go by to meet hex map coverage
 - CRO take on the issue (this is where you talk about why there seems to be issues with the switch)
     - Why is the SRS to NIBRS data switch a problem? 
@@ -67,11 +71,14 @@ Will only include the information absolutely necessary to understanding the core
             - Is the state certified but agencies are failing to switch? Or as more agencies enter the NIBRS others are leaving SRS? (lag). 
         - What are the implications with respect to funding and reporting if they used the NIBRS data? Or if they choose to use it in the future without targeted funding for the switch?
     - Is there backpay due? Can the funding floor be reallocated to pad the transition?
-    - The JAG setup is pretty dumb, if you look at NY in 2024, they made a huge ajustment to a rural area missing less than 3% of it's coverage. 
+    - The JAG setup is pretty dumb, if you look at NY in 2024, they made a huge adjustment to a rural area missing less than 3% of its coverage. 
         - NY is affluent and high-capacity, they have a solid data history, huge adjustments are statistically sound measures
         - These kinds of adjustments unfairly advantage big states already getting more money based on the population half of the funding calcuations, or have redundant funding channels
         - MS is caught in a negative feedback cycle, they don't have a good history of reporting, any statistical adjustments are conservative when reporting gaps are critical (requiring major changes)
         - The funding structure is punative - they aren't reporting, they get less money, they can't *add agencies* and transition due to underfunding, they get proportionally less money as a result
         - To take the violent crime measure of a state's data and not condition it on the state reporting and/or population size, to fund based on a national total, underweights crime impact on the state, and thus the state's ability to address that crime. 
+            - This point is especially true because the funding is *based on reporting*, the entire award is based on totally inaccurate data. They should be getting *more* money, not less money. 
             - In other words, different states have different situations, and homogenizing that factor is an issue. Take MS's rank in homicides compared to many larger states, discounting rate (population). Larger states with lower absolute crime numbers are getting more money (CT vs MS) based on population size. If the states are already reporting at 100%, this money is effectively a surplus to put to various justice initiatives, which will only cause the policing infrastructure gap to widen further. Or take huge states with equal or greater crime or homicide numbers, they are getting significantly more money. 
-            - MS total contribution to national crime is small, but its crime rate is high. Even in extreme cases, if the crime rate was extremely high, it's national share would still be small. And accounting for population further dilutes funding impact, essentially acting to average funding across the nation - a big state with low crime will get as much or more money than MS. 
+            - MS total contribution to national crime is small, but its crime rate is high. Even in extreme cases, if the crime rate were extremely high, it's national share would still be small. Yet it is incumbent on the state itself to address high crime rates, the crime regularization across states does not recognize this fact. States do not share resources. And accounting for population further dilutes funding impact, essentially acting to average funding across the nation - a big state with low crime will get as much or more money than MS. 
+            - All together, considering absolute numbers, it means crimes are "worth" more in large states
+            - Scaling funding by population does make sense, all things being equal. Until then, adjustments need to be made. 
