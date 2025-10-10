@@ -63,12 +63,12 @@ published: True
         - Larger states with lower absolute crime numbers are getting more money (CT vs MS)
             - If the states are already reporting at 100%, the money is effectively a surplus to put to various criminal justice initiatives, which will only cause the policing gap to widen further  
             - The formula effectively "averages" crime across state lines, but states are not equal and cannot share resources 
-                - CT won't share it's "surplus" resources with MS
+                - CT won't share its "surplus" resources with MS
                 - MS crime is dispersed outside of metropolitan areas, it may be harder to pool resources or allocate multiple roles to a single entity
         - Looking at crime rates for several states, the formula means crimes are "worth" more in large states
                 - The population half essentially assumes a single, "national crime rate." 
-        - Crime may not always have been the funding priority, but funding has been cut by a huge amount - JAG funding was 600 million in 2005. High-crime (/low-reporting) states should absolutely be prioritized either by adjusting the formula temporarily (incorporte rate weighting) and dedicating separate funding to onboard agencies (pull universal floor allocations). 
+        - Crime may not always have been the funding priority, but funding has been cut by a huge amount - JAG funding was 600 million in 2005. High-crime (/low-reporting) states should absolutely be prioritized either by adjusting the formula temporarily (incorporte rate weighting) or dedicating separate funding to onboard agencies (pull universal floor allocations). 
             - As-is, population allocations and bad data effectively blinds JAG to high-crime states - it deals now critical, small funds unfairly and punishes low-reporting states 
-- At the very least, reporting needs to be addressed. Once reporting meets adequate thresholds, JAG can effectively fund criminal justice causes in vulnerable states.
+- At the very least, reporting needs to be addressed. Once reporting meets adequate thresholds, JAG can effectively target criminal justice causes in vulnerable states.
 
 
