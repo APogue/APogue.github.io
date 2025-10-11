@@ -67,7 +67,15 @@ published: True
                 - CT won't share its "surplus" resources with MS
                 - MS crime is dispersed outside of metropolitan areas, it may be harder to pool resources or allocate multiple roles to a single entity
         - Looking at crime rates for several states, the formula means crimes are "worth" more in large states
-                - The population half essentially assumes a single, "national crime rate." 
+                - The population half is allotted totally independent of how much crime is actually occurring in that state
+                - It makes the formula robust to VC data errors, states get "something" in cases where crime may be undercounted 
+                    - But it doesn't account for VC errors' disproportionate impact: absolute error can be trivial in some states but account for a very large proportion of crime in MS, translating to the loss of a large portion of their funding
+                    - Can take the 2018-2020 and just add the CDC crime error, because they are top hierarchy data, and calculate how much was lost from homicide inaccuracies alone
+                        - Although losses may occur in other states, deltas represent a much smaller portion of total crime (or assuming other states have healthy reporting channels, those are not "errors")
+                        - Because missing homicide data indicates reporting channels are totally broken, it is unknown how many VCs are going unreported
+                        - In the future these inaccuracies will have a greater impact on MS due to the end of the hierarchy rule
+                    - Rank 2018-2020 using UCR data, then CDC data (homicides only), compare to JAP ranking
+                        - Shows how much 1. inaccuracies might shift ranking but 2. where crime alone puts ranking versus 3. where population size shifts the ranking (either deprioritizing or prioritizing absolute crime numbers based on state size)
         - Crime may not always have been the funding priority, but funding has been cut by a huge amount - JAG funding was 600 million in 2005. High-crime (/low-reporting) states should absolutely be prioritized either by adjusting the formula temporarily (incorporte rate weighting) or dedicating separate funding to onboard agencies (pull universal floor allocations). 
             - As-is, population allocations and bad data effectively blinds JAG to high-crime states - it deals now critical, small funds unfairly and punishes low-reporting states 
 - At the very least, reporting needs to be addressed. Once reporting meets adequate thresholds, JAG can effectively target criminal justice causes in vulnerable states.
