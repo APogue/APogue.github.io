@@ -55,7 +55,7 @@ published: True
         - Some mention of separate reporting funding initiatives on the FBI (BJS?) website but nothing specific, nothing CRO mentioned, and nothing that has had any kind of impact
     - It's insane to use voluntary reporting 
         - A national coverage statistic treats reporting gaps as a single "batch" issue. It is unknown whether critical reporting gaps exist, and by grouping them with either low-crime gaps or gaps that can be accurately adjusted using estimation procedures, latent critical gaps are not being properly addressed. 
-        - MS doesn't have a good history of reporting, any statistical adjustments are conservative. Judging from CDC, the reporting gaps are critical (requiring major changes). This can't be solved with modeling. Reporting must go up. 
+        - MS doesn't have good (same-year) reporting consistency or good peer reporting coverage, Judging from imputations. Any statistical adjustments are conservative. Judging from CDC assaults, reporting gaps are critical (requiring major changes). This can't be solved with modeling. Reporting must go up. 
             - NY 2024 rural adjustment as an example
         - The funding structure is punative - they aren't reporting, they get less money, they can't *add agencies* and transition due to underfunding, they get proportionally less money as a result
 - Implications of the JAG formula 
@@ -69,14 +69,16 @@ published: True
                 - The population half is allotted totally independent of how much crime is actually occurring in that state
                 - It makes the formula robust to VC data errors, states get "something" in cases where crime may be undercounted 
                     - But it doesn't account for VC errors' disproportionate impact: absolute error can be trivial in some states but account for a very large proportion of crime in MS, translating to the loss of a large portion of their funding
-                    - Can take the 2018-2020 and swap the UCR for CDC numbers for the formula half of funding
-                        - Use two bounds (assuming they are not reporting errors but coding deltas): CA or NY as the lower bound and TX as the upper bound. Calculate delta magnitude as a percent of total incidents and apply it to MS
-                    - Compare 2018-2020 using 1. JAG ranking, 2. JAG ranking using homicide data 
-                        - 1 vs 2 monetizes possible inaccuracies and incorporates the effect of the population on the funding rank 
-                    - Then do the same using 2022-2024
-                        - If homicides are not reported, this indicates a true reporting issue. I don't know how it reflects on other VC data. The analysis is not meant to quantify how many VCs are going unreported, or predict rank based on total VC's, each VC is calculated independently, that can't be known 
-                        - If homicide coverage reflects a broader reporting failure, actual violent-crime counts could be proportionally higher — but quantification would require assumptions beyond available data.
-                        - In the future non-reporting will have a greater impact though due to the end of the hierarchy rule
+        - What if JAG were based on homicide rates?
+                - Can take the 2018-2020 and swap the UCR for CDC numbers for the formula half of funding
+                    - Use two bounds (assuming they are not reporting errors but coding deltas): CA or NY as the lower bound and TX as the upper bound. Calculate delta magnitude as a percent of total incidents and apply it to MS
+                - Compare 2018-2020 using 1. JAG ranking, 2. JAG ranking using homicide data (UCR vs CDC)
+                    - 1 vs 2 monetizes homicides and incorporates the effect of the population on the funding rank 
+                - Then do the same using 2022-2024
+                    - If homicides are not reported, this indicates a true reporting issue. I don't know how it reflects on other VC data. The analysis is not meant to quantify how many VCs are going unreported, each VC is calculated independently, that can't be known 
+                    - The homicide rank is also independent of the VC rank, even if MS had a drastic change in VC's, a state with relatively high VC can have low rates of homicides (NY will rank higher in VC than in homicides, so even with perfect reporting from other states, you expect homicide rankings to be different from VC rankings) and vice versa. The homicide rank exposes the severity of reporting issues, the severity of homicide rate in some states, and the possibility that VC's are going unreported. It can't predict the true JAG VC rank. Only better reporting can do that.
+                    - If homicide coverage reflects a broader reporting failure, actual violent-crime counts could be proportionally higher — but quantification would require assumptions beyond available data.
+                    - In the future non-reporting will have a greater impact though due to the end of the hierarchy rule
         - Crime may not always have been the funding priority, but funding has been cut by a huge amount - JAG funding was 600 million in 2005. High-crime (/low-reporting) states should absolutely be prioritized either by adjusting the formula temporarily (incorporte rate weighting) or dedicating separate funding to onboard agencies (pull universal floor allocations). 
             - As-is, population allocations and bad data effectively blinds JAG to high-crime states - it deals now critical, small funds unfairly and punishes low-reporting states 
 - At the very least, reporting needs to be addressed. Once reporting meets adequate thresholds, JAG can effectively target criminal justice causes in vulnerable states.
