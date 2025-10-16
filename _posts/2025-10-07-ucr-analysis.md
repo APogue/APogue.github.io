@@ -84,6 +84,6 @@ published: True
                     - Should individual VC crimes be weighted based on a hierarchy system in the JAG formula? (currently all crimes are treated equally, despite the fact that other VC's are committed at significantly higher rates. This blinds the formula to high rates of serious crimes. Adjusting for this would mean homicides are "worth" more than aggravated assault and so on and so forth)
         - Crime may not always have been the funding priority, but funding has been cut by a huge amount - JAG funding was 600 million in 2005. High-crime states should be prioritized by adjusting the formula to incorporate crime rate weighting (so population portion, crime-rate portion, and crime portion). Separate funding should also be allocated to onboard agencies in low-reporting states (pull universal floor allocations). 
             - As-is, population allocations and potentially bad data (in at least one case) effectively blind JAG to high-crime states - it deals now critical, small funds unfairly and punishes low-reporting states 
-            - At the very least, address reporting. Once reporting meets adequate thresholds, JAG can effectively target criminal justice causes in vulnerable states.
+            - At the very least, address reporting. Once reporting meets adequate thresholds, JAG can more effectively target criminal justice causes in vulnerable states.
     
 
