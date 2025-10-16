@@ -3,7 +3,7 @@ layout: single
 title: "FBI Homicide Data Compared to CDC Assault Data and Jag Award Implications for Some States"
 author: Alexie Pogue
 date: 2025-10-07
-last_modified_at: 2025-10-10
+last_modified_at: 2025-10-16
 published: True
 ---
 
