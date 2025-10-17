@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "FBI Homicide Data Compared to CDC Assault Data and Jag Award Implications for Some States"
+title: "FBI Homicide Data Compared to CDC Assault Data and JAG Award Implications for Some States"
 author: Alexie Pogue
 date: 2025-10-07
 last_modified_at: 2025-10-17
-published: True
+published: False
 ---
 
 ### Outline V2
