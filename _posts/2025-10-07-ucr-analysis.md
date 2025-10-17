@@ -3,7 +3,7 @@ layout: single
 title: "FBI Homicide Data Compared to CDC Assault Data and Jag Award Implications for Some States"
 author: Alexie Pogue
 date: 2025-10-07
-last_modified_at: 2025-10-16
+last_modified_at: 2025-10-17
 published: True
 ---
 
@@ -47,7 +47,7 @@ published: True
     - Rank MS versus other states in absolute homicide numbers using 1. UCR data and 2. CDC data for years 2018-2020 and 2022-2024. Compare it with their population rank
         - If reporting is consistent between CDC and UCR for high-reporting states, MS should jump considerably in rank
     - Analysis conclusion, JAG award is based on inaccurate data. Very inaccurate if in FY 2026 they used the 2022-2024 UCR window, but even if they didn't...
-        - They used the frozen 2018-2020 window X times, and the year 2018, 2019, 2020 Y times to calculate funding. 
+        - They used the frozen 2018-2020 window X times, and the year 2018, 2019, 2020 Y1, Y2, and Y3 times to calculate funding. 
 - Implications of using bad data
     - CRO take on the issue
         - What problems are happening with the SRS to NIBRS data switch? 
