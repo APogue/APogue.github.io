@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Building an honest record from documents and firsthand accounts"
+title: "Building an honest record from evidence and firsthand accounts"
 nav: true
 permalink: /
 
@@ -17,12 +17,12 @@ header:
       url: "/projects/"
 
 intro_row:
-  - excerpt: "I want to automate or partially automate institutional accountability. My current research uses data from records and interviews to identify patterns in actions universities take in response to incidents when circumstances are complex — if any patterns exist. The research framework is currently under development using a case study involving incidents of identity-based harm, protest activity, and campus safety failures at UCLA."
+  - excerpt: "I'm trying to understand how universities respond to critical incidents — from safety failures to identity-based harm — by building a method to identify whether bias exists in institutional decision-making. The project is currently in development, starting with a case study at UCLA."
 
 feature_row:
   - image_path: /assets/images/pexels-googledeepmind-17484975-resized.jpg
     title: "Core Capabilities"
-    excerpt: "Rigorous analysis creates transparent protocols for AI-assisted processing of incident records. Corroborated interviews provide context and help fill any gaps in institutional records."
+    excerpt: "In-field analysis creates transparent protocols for AI-assisted processing of incident records. Corroborated interviews provide context and help fill any gaps in institutional records."
     
     url: "/research/capabilities"
     btn_label: "Explore Core Features"
