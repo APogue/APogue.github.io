@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Building an honest record from data and firsthand accounts"
+title: "Building an honest record from documents and firsthand accounts"
 nav: true
 permalink: /
 
@@ -17,12 +17,12 @@ header:
       url: "/projects/"
 
 intro_row:
-  - excerpt: "I use data and interviews to tell stories about universities with a current focus on deficiencies in administrative response to identity-based harm, protest-related activity, and campus safety failures."
+  - excerpt: "I want to automate or partially automate institutional accountability. My current research uses data from records and interviews to identify patterns in actions universities take in response to incidents when circumstances are complex — if any patterns exist. The research framework is currently under development using a case study involving incidents of identity-based harm, protest activity, and campus safety failures at UCLA."
 
 feature_row:
   - image_path: /assets/images/pexels-googledeepmind-17484975-resized.jpg
     title: "Core Capabilities"
-    excerpt: "PhD-level analysis creates auditable rules and protocols for AI-assisted incident processing. Student interviews provide insight into lived experience and aid in filling record gaps."
+    excerpt: "Rigorous analysis creates transparent protocols for AI-assisted processing of incident records. Corroborated interviews provide context and help fill any gaps in institutional records."
     
     url: "/research/capabilities"
     btn_label: "Explore Core Features"
@@ -36,12 +36,11 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/dennis-zhang-J16r3dyRM-M-unsplash-resized.jpg
-    title: "For You"
-    excerpt: "Resources for participants, researchers, and funders — whether you want to share your story, study institutional response, or invest in change, this research supports clarity, care, and impact."
+    title: "For Participants"
+    excerpt: "If you've witnessed or were involved in an incident relevant to this research, you can contribute by sharing your experience or supporting materials. Your contributions help build a fuller, more accurate record."
     url: "/research/audience"
-    btn_label: "Find Your Path"
+    btn_label: "Contribute to the Study"
     btn_class: "btn--primary"
-
 
 ---
 
