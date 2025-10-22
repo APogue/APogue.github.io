@@ -37,7 +37,7 @@ feature_row:
 
   - image_path: /assets/images/dennis-zhang-J16r3dyRM-M-unsplash-resized.jpg
     title: "For Participants"
-    excerpt: "If you've witnessed or were involved in an incident relevant to this research, you can contribute by sharing your experience or supporting materials. Your contributions help build a fuller, more accurate record."
+    excerpt: "If you've witnessed or were involved in an incident, you can contribute by sharing your experience or supporting materials. Your contributions help build a fuller, more accurate record."
     url: "/research/audience"
     btn_label: "Contribute to the Study"
     btn_class: "btn--primary"
