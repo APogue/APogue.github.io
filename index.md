@@ -22,7 +22,7 @@ intro_row:
 feature_row:
   - image_path: /assets/images/pexels-googledeepmind-17484975-resized.jpg
     title: "Core Capabilities"
-    excerpt: "Analysis of academic policy and institutional procedure creates transparent protocols for AI-assisted processing of incident records. Corroborated interviews provide context and help fill any gaps in institutional records."
+    excerpt: "Analysis of academic policy and institutional procedure creates transparent protocols for AI-assisted processing of incident records. Corroborated interviews provide context and help fill any gaps in records."
     
     url: "/research/capabilities"
     btn_label: "Explore Core Features"
