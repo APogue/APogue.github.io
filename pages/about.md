@@ -7,11 +7,7 @@ author_profile: true
 
 
 
-**The Beginning**
-
-<!--A would-be graduate of high school in 2001, but that didn’t happen (no high school diploma, no GED). Took some time to find myself. 
-Ended up at San Diego Mesa Community College 2008-2010 (a bunch of Associate’s degrees), University of California San Diego 2010-2013 
-(B.S. Chemical Engineering), University of California Los Angeles 2014 – present (M.S. Mechanical Engineering 2016, Ph.D. Candidate 2018).-->
+**My Education**
 
 Education: San Diego Mesa Community College 2008-2010 (Associate’s degrees), University of California San Diego 2010-2013 
 (B.S. Chemical Engineering), University of California Los Angeles 2014 – 2024 (M.S. Mechanical Engineering 2016, Ph.D. Candidate 2018, Ph.D. conferred 2024).
@@ -34,6 +30,20 @@ and nuances of their purpose remained a mystery. I was frustrated but looked aga
 words that were just sounds began to have meaning. I started to understand them and the power they held when they came together. I learned to be observant, pay attention to detail, 
 and that the simplest components can play incredibly important roles in the overall function of a mechanism. Looking back, robotics engineering allowed me to see the world in a way I never thought possible. It has given me incredible insight: 
 “figurative glasses” to help me see just like my physical ones do.
+
+**The Takeaway** 
+
+My major field was called Systems and Controls. In essence it's about:
+
+- Mapping how subsystems interact — modeling dependencies and interfaces so the whole system behaves predictably
+
+- Theorizing input–output behavior — what signals go in, how the system transforms or reacts to those signals, and what signals come out
+
+- Empirical testing — ensuring proper engagement with the environment under observation such that all inputs are correctly mapped to the proper outputs in practice
+
+- Closing the loop — sensing deviations and ensuring feedback control mechanisms bring the system back within a range of desired behavior
+
+In short: it's the discipline of understanding how complex systems behave — whether those systems function by the rules of physics or the law, and creating control algorithms — often called "policies" — for making them behave predictably, even under uncertainty. If the system deviates beyond a desired threshold due to a changing environment or disturbance such that it cannot maintain stability, the control policy is incomplete. 
 
 **The Future**
 
